@@ -1,0 +1,1054 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-directories/altlinux-amusement.directory.in.h:1
+msgid "A simple amusement"
+msgstr ""
+
+#: ../desktop-directories/altlinux-amusement.directory.in.h:2
+msgid "Toys"
+msgstr ""
+
+#: ../desktop-directories/altlinux-applications.directory.in.h:1
+msgid "Applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-artificial-intelligence.directory.in.h:1
+#: ../desktop-directories/altlinux-education-artificial-intelligence.directory.in.h:1
+#: ../desktop-directories/altlinux-science-artificial-intelligence.directory.in.h:1
+msgid "Artificial Intelligence"
+msgstr ""
+
+#: ../desktop-directories/altlinux-artificial-intelligence.directory.in.h:2
+#: ../desktop-directories/altlinux-education-artificial-intelligence.directory.in.h:2
+#: ../desktop-directories/altlinux-science-artificial-intelligence.directory.in.h:2
+msgid "Artificial Intelligence software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-astronomy.directory.in.h:1
+#: ../desktop-directories/altlinux-education-astronomy.directory.in.h:1
+#: ../desktop-directories/altlinux-science-astronomy.directory.in.h:1
+msgid "Astronomy"
+msgstr ""
+
+#: ../desktop-directories/altlinux-astronomy.directory.in.h:2
+#: ../desktop-directories/altlinux-education-astronomy.directory.in.h:2
+#: ../desktop-directories/altlinux-science-astronomy.directory.in.h:2
+msgid "Astronomy software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-biology.directory.in.h:1
+#: ../desktop-directories/altlinux-education-biology.directory.in.h:1
+#: ../desktop-directories/altlinux-science-biology.directory.in.h:1
+msgid "Biology"
+msgstr ""
+
+#: ../desktop-directories/altlinux-biology.directory.in.h:2
+#: ../desktop-directories/altlinux-education-biology.directory.in.h:2
+#: ../desktop-directories/altlinux-science-biology.directory.in.h:2
+msgid "Biology software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-chemistry.directory.in.h:1
+#: ../desktop-directories/altlinux-education-chemistry.directory.in.h:1
+#: ../desktop-directories/altlinux-science-chemistry.directory.in.h:1
+msgid "Chemistry"
+msgstr ""
+
+#: ../desktop-directories/altlinux-chemistry.directory.in.h:2
+#: ../desktop-directories/altlinux-education-chemistry.directory.in.h:2
+#: ../desktop-directories/altlinux-science-chemistry.directory.in.h:2
+msgid "Chemistry software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-computer-science.directory.in.h:1
+msgid "Computer Science"
+msgstr ""
+
+#: ../desktop-directories/altlinux-computer-science.directory.in.h:2
+#: ../desktop-directories/altlinux-education-computer-science.directory.in.h:1
+msgid "Computer Science software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-data-visualization.directory.in.h:1
+#: ../desktop-directories/altlinux-education-data-visualization.directory.in.h:1
+#: ../desktop-directories/altlinux-science-data-visualization.directory.in.h:1
+msgid "Data Visualization"
+msgstr ""
+
+#: ../desktop-directories/altlinux-data-visualization.directory.in.h:2
+#: ../desktop-directories/altlinux-education-data-visualization.directory.in.h:2
+#: ../desktop-directories/altlinux-science-data-visualization.directory.in.h:2
+msgid "Data visualization software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-building.directory.in.h:1
+msgid "Building"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-building.directory.in.h:2
+msgid "Tools to build applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-database.directory.in.h:1
+#: ../desktop-directories/altlinux-office-database.directory.in.h:1
+msgid "Applications to manage a database"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-database.directory.in.h:2
+#: ../desktop-directories/altlinux-multimedia-database.directory.in.h:1
+#: ../desktop-directories/altlinux-office-database.directory.in.h:2
+msgid "Databases"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-debugging.directory.in.h:1
+msgid "Debug Applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-debugging.directory.in.h:2
+msgid "Tools to debug applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development.directory.in.h:1
+msgid "Development"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-ide.directory.in.h:1
+msgid "IDE"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-ide.directory.in.h:2
+msgid "IDE applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-interfacedesign.directory.in.h:1
+msgid "GUI Designers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-interfacedesign.directory.in.h:2
+msgid "GUI designer applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-other.directory.in.h:1
+#: ../desktop-directories/altlinux-education-other.directory.in.h:1
+#: ../desktop-directories/altlinux-game-other.directory.in.h:1
+#: ../desktop-directories/altlinux-graphics-other.directory.in.h:1
+#: ../desktop-directories/altlinux-multimedia-other.directory.in.h:1
+#: ../desktop-directories/altlinux-network-other.directory.in.h:1
+#: ../desktop-directories/altlinux-office-other.directory.in.h:1
+#: ../desktop-directories/altlinux-other.directory.in.h:1
+#: ../desktop-directories/altlinux-science-other.directory.in.h:1
+#: ../desktop-directories/altlinux-settings-other.directory.in.h:1
+#: ../desktop-directories/altlinux-system-other.directory.in.h:1
+#: ../desktop-directories/altlinux-utility-other.directory.in.h:1
+msgid "Other"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-profiling.directory.in.h:1
+msgid "Performance"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-profiling.directory.in.h:2
+msgid "Profiling tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-revision-control.directory.in.h:1
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-revision-control.directory.in.h:2
+msgid "Revision Control"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-translation.directory.in.h:1
+msgid "Translation"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-translation.directory.in.h:2
+msgid "Translation tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-web-development.directory.in.h:1
+#: ../desktop-directories/altlinux-network-web-development.directory.in.h:1
+#: ../desktop-directories/altlinux-web-development.directory.in.h:1
+msgid "Tools for web developers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-development-web-development.directory.in.h:2
+#: ../desktop-directories/altlinux-network-web-development.directory.in.h:2
+#: ../desktop-directories/altlinux-web-development.directory.in.h:2
+msgid "Web Development"
+msgstr ""
+
+#: ../desktop-directories/altlinux-documentation.directory.in.h:1
+msgid "Documentation"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-art.directory.in.h:1
+msgid "Art"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-art.directory.in.h:2
+msgid "Software to teach arts"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-computer-science.directory.in.h:2
+#: ../desktop-directories/altlinux-science-computer-science.directory.in.h:2
+msgid "Computer science"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-construction.directory.in.h:1
+msgid "Construction"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education.directory.in.h:1
+msgid "Education"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-economy.directory.in.h:1
+msgid "Economy"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-electricity.directory.in.h:1
+#: ../desktop-directories/altlinux-electricity.directory.in.h:1
+#: ../desktop-directories/altlinux-science-electricity.directory.in.h:1
+msgid "Electricity"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-geography.directory.in.h:1
+msgid "Geography"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-geology.directory.in.h:1
+#: ../desktop-directories/altlinux-geology.directory.in.h:1
+#: ../desktop-directories/altlinux-science-geology.directory.in.h:1
+msgid "Geology"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-geology.directory.in.h:2
+#: ../desktop-directories/altlinux-geology.directory.in.h:2
+#: ../desktop-directories/altlinux-science-geology.directory.in.h:2
+msgid "Geology software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-geoscience.directory.in.h:1
+msgid "Geoscience"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-geoscience.directory.in.h:2
+#: ../desktop-directories/altlinux-geoscience.directory.in.h:1
+#: ../desktop-directories/altlinux-science-geoscience.directory.in.h:1
+msgid "Geoscience software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-history.directory.in.h:1
+msgid "History"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-image-processing.directory.in.h:1
+#: ../desktop-directories/altlinux-image-processing.directory.in.h:1
+#: ../desktop-directories/altlinux-science-image-processing.directory.in.h:1
+msgid "Image Processing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-image-processing.directory.in.h:2
+#: ../desktop-directories/altlinux-image-processing.directory.in.h:2
+#: ../desktop-directories/altlinux-science-image-processing.directory.in.h:2
+msgid "Image Processing software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-language.directory.in.h:1
+msgid "Languages"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-language.directory.in.h:2
+msgid "Software to learn foreign languages"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-literature.directory.in.h:1
+msgid "Literature"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-mathematics.directory.in.h:1
+#: ../desktop-directories/altlinux-mathematics.directory.in.h:1
+#: ../desktop-directories/altlinux-science-mathematics.directory.in.h:1
+msgid "Math software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-mathematics.directory.in.h:2
+#: ../desktop-directories/altlinux-mathematics.directory.in.h:2
+#: ../desktop-directories/altlinux-science-mathematics.directory.in.h:2
+msgid "Mathematics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-medical-software.directory.in.h:1
+#: ../desktop-directories/altlinux-science-medical-software.directory.in.h:1
+msgid "Medical Software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-medical-software.directory.in.h:2
+#: ../desktop-directories/altlinux-science-medical-software.directory.in.h:2
+msgid "Medical software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-music.directory.in.h:1
+#: ../desktop-directories/altlinux-multimedia-music.directory.in.h:1
+#: ../desktop-directories/altlinux-music.directory.in.h:1
+msgid "Music"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-music.directory.in.h:2
+msgid "Software to teach music"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-numerical-analysis.directory.in.h:1
+#: ../desktop-directories/altlinux-numerical-analysis.directory.in.h:1
+#: ../desktop-directories/altlinux-science-numerical-analysis.directory.in.h:1
+msgid "Numeric Analysis"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-numerical-analysis.directory.in.h:2
+#: ../desktop-directories/altlinux-numerical-analysis.directory.in.h:2
+#: ../desktop-directories/altlinux-science-numerical-analysis.directory.in.h:2
+msgid "Numerical analysis software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-parallel-computing.directory.in.h:1
+#: ../desktop-directories/altlinux-parallel-computing.directory.in.h:1
+#: ../desktop-directories/altlinux-science-parallel-computing.directory.in.h:1
+msgid "Parallel Computing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-parallel-computing.directory.in.h:2
+#: ../desktop-directories/altlinux-parallel-computing.directory.in.h:2
+#: ../desktop-directories/altlinux-science-parallel-computing.directory.in.h:2
+msgid "Parallel computing software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-physics.directory.in.h:1
+#: ../desktop-directories/altlinux-physics.directory.in.h:1
+#: ../desktop-directories/altlinux-science-physics.directory.in.h:1
+msgid "Physics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-physics.directory.in.h:2
+#: ../desktop-directories/altlinux-physics.directory.in.h:2
+#: ../desktop-directories/altlinux-science-physics.directory.in.h:2
+msgid "Physics software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-robotics.directory.in.h:1
+#: ../desktop-directories/altlinux-robotics.directory.in.h:1
+#: ../desktop-directories/altlinux-science-robotics.directory.in.h:1
+msgid "Robotics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-robotics.directory.in.h:2
+#: ../desktop-directories/altlinux-robotics.directory.in.h:2
+#: ../desktop-directories/altlinux-science-robotics.directory.in.h:2
+msgid "Robotics software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-science.directory.in.h:1
+#: ../desktop-directories/altlinux-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-science.directory.in.h:2
+msgid "Software to learn science"
+msgstr ""
+
+#: ../desktop-directories/altlinux-education-sports.directory.in.h:1
+#: ../desktop-directories/altlinux-game-sports.directory.in.h:1
+msgid "Sports"
+msgstr ""
+
+#: ../desktop-directories/altlinux-electricity.directory.in.h:2
+#: ../desktop-directories/altlinux-science-electricity.directory.in.h:2
+msgid "Electricity software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-electronics.directory.in.h:1
+msgid "Electronics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-electronics.directory.in.h:2
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-engineering.directory.in.h:1
+msgid "Engineering"
+msgstr ""
+
+#: ../desktop-directories/altlinux-engineering.directory.in.h:2
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-action.directory.in.h:1
+msgid "Action"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-action.directory.in.h:2
+msgid "Action Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-adventure.directory.in.h:1
+msgid "Adventure"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-adventure.directory.in.h:2
+msgid "Adventure style games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-arcade.directory.in.h:1
+msgid "Arcade"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-arcade.directory.in.h:2
+msgid "Arcade style game"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-blocks.directory.in.h:1
+msgid "Falling Blocks"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-blocks.directory.in.h:2
+msgid "Falling blocks games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-board.directory.in.h:1
+msgid "Board Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-board.directory.in.h:2
+msgid "Boards"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-card.directory.in.h:1
+msgid "Card Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-card.directory.in.h:2
+msgid "Cards"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game.directory.in.h:1
+msgid "Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game.directory.in.h:2
+msgid "Games and amusements"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-emulator.directory.in.h:1
+#: ../desktop-directories/altlinux-system-emulators.directory.in.h:2
+msgid "Emulators"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-kids.directory.in.h:1
+msgid "Games for Kids"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-logic.directory.in.h:1
+msgid "Logic Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-roleplaying.directory.in.h:1
+msgid "Role Playing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-roleplaying.directory.in.h:2
+msgid "Role playing games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-simulation.directory.in.h:1
+msgid "Simulation"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-simulation.directory.in.h:2
+msgid "Simulation Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-sports.directory.in.h:2
+msgid "Sports Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-strategy.directory.in.h:1
+msgid "Strategy"
+msgstr ""
+
+#: ../desktop-directories/altlinux-game-strategy.directory.in.h:2
+msgid "Strategy Games"
+msgstr ""
+
+#: ../desktop-directories/altlinux-geoscience.directory.in.h:2
+#: ../desktop-directories/altlinux-science-geoscience.directory.in.h:2
+msgid "Geosciences"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-2d.directory.in.h:1
+msgid "2D Graphics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-2d.directory.in.h:2
+msgid "2D based graphical applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-3d.directory.in.h:1
+msgid "3D Graphics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-3d.directory.in.h:2
+msgid "3D based graphical applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics.directory.in.h:1
+msgid "Graphics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-photography.directory.in.h:1
+msgid "Camera tools, etc."
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-photography.directory.in.h:2
+#: ../desktop-directories/altlinux-office-photography.directory.in.h:1
+#: ../desktop-directories/altlinux-photography.directory.in.h:1
+msgid "Photography"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-publishing.directory.in.h:1
+#: ../desktop-directories/altlinux-office-publishing.directory.in.h:1
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-publishing.directory.in.h:2
+#: ../desktop-directories/altlinux-office-publishing.directory.in.h:2
+msgid "Publishing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-raster.directory.in.h:1
+msgid "Raster Graphics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-raster.directory.in.h:2
+msgid "Raster based graphical applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-scanning.directory.in.h:1
+msgid "Scanning"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-scanning.directory.in.h:2
+msgid "Tools to scan a file/text"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-scanning-ocr.directory.in.h:1
+msgid "OCR"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-scanning-ocr.directory.in.h:2
+msgid "Optical character recognition applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-vector.directory.in.h:1
+msgid "Vector Graphics"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-vector.directory.in.h:2
+msgid "Vector based graphical applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-graphics-viewer.directory.in.h:1
+#: ../desktop-directories/altlinux-office-viewer.directory.in.h:2
+#: ../desktop-directories/altlinux-viewer.directory.in.h:1
+msgid "Viewers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-ham-radio.directory.in.h:1
+#: ../desktop-directories/altlinux-network-ham-radio.directory.in.h:1
+msgid "Amateur Radio"
+msgstr ""
+
+#: ../desktop-directories/altlinux-ham-radio.directory.in.h:2
+#: ../desktop-directories/altlinux-network-ham-radio.directory.in.h:2
+msgid "HAM radio software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-internet.directory.in.h:1
+msgid "Internet"
+msgstr ""
+
+#: ../desktop-directories/altlinux-internet.directory.in.h:2
+msgid "Internet applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-mail.directory.in.h:1
+#: ../desktop-directories/altlinux-network-mail.directory.in.h:1
+#: ../desktop-directories/altlinux-office-mail.directory.in.h:1
+msgid "Email"
+msgstr ""
+
+#: ../desktop-directories/altlinux-mail.directory.in.h:2
+#: ../desktop-directories/altlinux-network-mail.directory.in.h:2
+#: ../desktop-directories/altlinux-office-mail.directory.in.h:2
+msgid "Email applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-audio.directory.in.h:1
+msgid "Sound"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-audio-editing.directory.in.h:1
+msgid "Audio Editing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-audio-player.directory.in.h:1
+msgid "Audio Players"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-audio-recorder.directory.in.h:1
+msgid "Audio Recorders"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia.directory.in.h:1
+msgid "Multimedia"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-disc-burning.directory.in.h:1
+msgid "Application to burn a disc"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-disc-burning.directory.in.h:2
+msgid "Disc burning"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-editing.directory.in.h:1
+msgid "Multimedia Editing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-midi.directory.in.h:1
+msgid "MIDI"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-mixer.directory.in.h:1
+msgid "Mixers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-music.directory.in.h:2
+msgid "Musical software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-player.directory.in.h:1
+msgid "Multimedia Players"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-recorder.directory.in.h:1
+msgid "Multimedia Recorders"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-sequencer.directory.in.h:1
+msgid "Sequencers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-tuner.directory.in.h:1
+msgid "Tuners"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-tv-and-radio.directory.in.h:1
+msgid "TV and Radio"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-tv-and-radio.directory.in.h:2
+msgid "TV and Radio applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-tv.directory.in.h:1
+msgid "TV"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-tv.directory.in.h:2
+msgid "TV applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-video.directory.in.h:1
+msgid "Video"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-video-editing.directory.in.h:1
+msgid "Video Editing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-video-player.directory.in.h:1
+msgid "Video Players"
+msgstr ""
+
+#: ../desktop-directories/altlinux-multimedia-video-recorder.directory.in.h:1
+msgid "Video Recorders"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-chat.directory.in.h:1
+msgid "Chat"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-chat.directory.in.h:2
+msgid "chat clients"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-communication.directory.in.h:1
+msgid "Communications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-dialup.directory.in.h:1
+msgid "Dial-up programs"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-dialup.directory.in.h:2
+msgid "Dialup"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network.directory.in.h:1
+#: ../desktop-directories/altlinux-settings-network.directory.in.h:1
+msgid "Network"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-file-transfer.directory.in.h:1
+msgid "File Transfer"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-file-transfer.directory.in.h:2
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-instant-messaging.directory.in.h:1
+msgid "Instant Messaging"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-instant-messaging.directory.in.h:2
+msgid "Instant messaging clients"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-irc.directory.in.h:1
+msgid "IRC"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-irc.directory.in.h:2
+msgid "IRC clients"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-news.directory.in.h:1
+msgid "News"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-news.directory.in.h:2
+msgid "News readers or news tickers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-p2p.directory.in.h:1
+msgid "P2P"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-p2p.directory.in.h:2
+msgid "P2P programs"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-remote-access.directory.in.h:1
+msgid "Remote access"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-remote-access.directory.in.h:2
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-telephony.directory.in.h:1
+msgid "Telephony"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-telephony.directory.in.h:2
+msgid "Telephony via PC"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-telephony-tools.directory.in.h:1
+#: ../desktop-directories/altlinux-telephony-tools.directory.in.h:1
+#: ../desktop-directories/altlinux-utility-telephony-tools.directory.in.h:1
+msgid "Telephony tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-telephony-tools.directory.in.h:2
+#: ../desktop-directories/altlinux-telephony-tools.directory.in.h:2
+#: ../desktop-directories/altlinux-utility-telephony-tools.directory.in.h:2
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-video-conference.directory.in.h:1
+msgid "Video Conference software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-video-conference.directory.in.h:2
+msgid "Video Conferences"
+msgstr ""
+
+#: ../desktop-directories/altlinux-network-webbrowser.directory.in.h:1
+msgid "Web Browsing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-calendar.directory.in.h:1
+msgid "Calendar"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-chart.directory.in.h:1
+msgid "Chart"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-contact-management.directory.in.h:1
+msgid "AddressBooks"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-contact-management.directory.in.h:2
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-dictionary.directory.in.h:1
+msgid "Dictionaries"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-dictionary.directory.in.h:2
+msgid "Dictionary"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office.directory.in.h:1
+msgid "Office"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-finance.directory.in.h:1
+msgid "Application to manage your finance"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-finance.directory.in.h:2
+msgid "Finances"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-flowchart.directory.in.h:1
+msgid "Flow Chart"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-pda.directory.in.h:1
+msgid "PDA"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-pda.directory.in.h:2
+msgid "Tools to manage your PDA"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-presentation.directory.in.h:1
+msgid "Presentation software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-presentation.directory.in.h:2
+msgid "Presentations"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-project-management.directory.in.h:1
+msgid "Project Management"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-project-management.directory.in.h:2
+msgid "Project management applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-spreadsheet.directory.in.h:1
+msgid "Spreadsheets"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-viewer.directory.in.h:1
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#: ../desktop-directories/altlinux-office-wordprocessor.directory.in.h:1
+msgid "Wordprocessors"
+msgstr ""
+
+#: ../desktop-directories/altlinux-science-computer-science.directory.in.h:1
+msgid "Computer Sience software"
+msgstr ""
+
+#: ../desktop-directories/altlinux-screensaver.directory.in.h:1
+msgid "Screensavers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-accessibility.directory.in.h:1
+#: ../desktop-directories/altlinux-utility-accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-desktop.directory.in.h:1
+msgid "Settings"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-gui.directory.in.h:1
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-gui.directory.in.h:2
+msgid "Desktop Settings"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-network.directory.in.h:2
+msgid "Network-related settings"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-packaging.directory.in.h:1
+msgid "Package manager applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-packaging.directory.in.h:2
+msgid "Packaging"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-peripherals.directory.in.h:1
+msgid "Hardware Settings"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-peripherals.directory.in.h:2
+msgid "Tools to manage hardware components"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-peripherals-printing.directory.in.h:1
+msgid "Printing"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-peripherals-printing.directory.in.h:2
+msgid "Tools to manage printers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-personal.directory.in.h:1
+msgid "Personal"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-personal.directory.in.h:2
+msgid "Preferences"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-security.directory.in.h:1
+#: ../desktop-directories/altlinux-system-security.directory.in.h:1
+msgid "Security"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-system.directory.in.h:1
+msgid "Administration"
+msgstr ""
+
+#: ../desktop-directories/altlinux-settings-system.directory.in.h:2
+msgid "System settings"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system.directory.in.h:1
+msgid "System"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-emulators.directory.in.h:1
+msgid "Emulator of another platform"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-file-managers.directory.in.h:1
+msgid "File Managers"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-filesystem.directory.in.h:1
+msgid "File Systems"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-filesystem.directory.in.h:2
+msgid "File system tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-file-tools.directory.in.h:1
+msgid "File tool utilities"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-file-tools.directory.in.h:2
+#: ../desktop-directories/altlinux-utility-file-tools.directory.in.h:1
+msgid "File tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-monitoring.directory.in.h:1
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-monitoring.directory.in.h:2
+msgid "Monitoring"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-security.directory.in.h:2
+msgid "Security tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-terminals.directory.in.h:1
+msgid "Terminal emulator applications"
+msgstr ""
+
+#: ../desktop-directories/altlinux-system-terminals.directory.in.h:2
+msgid "Terminals"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-archiving-compression.directory.in.h:1
+msgid "Compression"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-archiving-compression.directory.in.h:2
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-archiving.directory.in.h:1
+msgid "Archiving"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-archiving.directory.in.h:2
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-calculator.directory.in.h:1
+msgid "Calculator"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-calculator.directory.in.h:2
+msgid "Calculators"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-clock.directory.in.h:1
+msgid "A clock application/applet"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-clock.directory.in.h:2
+msgid "Clock"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility.directory.in.h:1
+msgid "Tools"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-text-editor.directory.in.h:1
+msgid "Editors"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-text-tools.directory.in.h:1
+msgid "Text tool utilities"
+msgstr ""
+
+#: ../desktop-directories/altlinux-utility-text-tools.directory.in.h:2
+msgid "Text tools"
+msgstr ""

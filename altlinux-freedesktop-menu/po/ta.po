@@ -1,0 +1,2756 @@
+# translation of menu_po-sections_ta.po to TAMIL
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+#
+# Bill Allombert <ballombe@debian.org>, 2003.
+# drtvasudevan <agnihot3@gmail.com>, 2006.
+# Dr.T.Vasudevan <agnihot3@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: menu_po-sections_ta\n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2007-07-08 10:52+0530\n"
+"Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
+"Language-Team: TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "வரைகலைகள்"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "வரைகலைகள்"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "கோப்பு மேலாண்மை"
+
+msgid "Accessibility"
+msgstr "அணுகல்"
+
+msgid "Action"
+msgstr "செயல்"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "செயல்"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "நிர்வாகம்"
+
+msgid "Adventure"
+msgstr "துணிகரப் பயணம்"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "துணிகரப் பயணம்"
+
+msgid "Amateur Radio"
+msgstr "கலைப்பிரியர் வானொலி"
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "பயன்பாடுகள்"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "பயன்பாடுகள்"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "ஆர்கேட்"
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "வானவியல்"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "வானவியல்"
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "உயிரியல்"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "உயிரியல்"
+
+msgid "Board Games"
+msgstr "மேசை விளையாட்டுகள்"
+
+msgid "Boards"
+msgstr "அட்ைட விைளயாட்டுகள்"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "கணிப்பான்"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "போன்றிகள்"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "சீட்டு விளையாட்டுகள்"
+
+msgid "Cards"
+msgstr "அட்ைடகள்"
+
+#, fuzzy
+msgid "Chart"
+msgstr "அட்டை"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "இரசாயனம்"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "இரசாயனம்"
+
+#, fuzzy
+msgid "Clock"
+msgstr "தொகுதிகள்"
+
+#, fuzzy
+msgid "Communications"
+msgstr "தகவல் தொடர்பு"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "கணினி அறிவியல்"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "புவி அறிவியல்"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "தகவல் தொடர்பு"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "தரவுத்தளங்கள்"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "பயன்பாடுகள்"
+
+msgid "Desktop"
+msgstr "மேசை"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "உருவாக்கம்"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr "அகராதி"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "இடம்"
+
+#, fuzzy
+msgid "Economy"
+msgstr "வானவியல்"
+
+msgid "Editors"
+msgstr "திருத்திகள்"
+
+msgid "Education"
+msgstr "கல்வி"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "மின்னணுவியல்"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr "மின்னணுவியல்"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "பயன்பாடுகள்"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "போன்றிகள்"
+
+msgid "Engineering"
+msgstr "பொறியியல்"
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "தொகுதிகள்"
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "கோப்பு மேலாண்மை"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "கணினி அமைப்பு"
+
+msgid "File Transfer"
+msgstr "கோப்பு பரிமாற்றம்"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "குனோம்"
+
+msgid "GUI Designers"
+msgstr ""
+
+msgid "GUI designer applications"
+msgstr ""
+
+msgid "Games"
+msgstr "விளையாட்டுகள்"
+
+msgid "Games and amusements"
+msgstr "விளையாட்டுகள் மற்றும் பொழுதுப்போக்குகள்"
+
+msgid "Games for Kids"
+msgstr "குழந்தைகளுக்கான விளையாட்டுகள்"
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "உயிரியல்"
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr "புவி அறிவியல்"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "புவி அறிவியல்"
+
+msgid "Geosciences"
+msgstr "பூகோளவியல்"
+
+msgid "Graphics"
+msgstr "வரைகலைகள்"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "வண் பொருட்கள்"
+
+msgid "History"
+msgstr "&சரித்திரம்"
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "பயன்பாடுகள்"
+
+msgid "IRC"
+msgstr "kஇைணயத்ெதாடர் வேண்டி"
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "இணையம்"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "பயன்பாடுகள்"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "Kசாளரமைப்பு"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "மொழிகள் "
+
+msgid "Literature"
+msgstr ""
+
+msgid "Logic Games"
+msgstr "லாஜிக் விளையாட்டு"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "கணிதம்"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "காட்டிகள்"
+
+msgid "Monitoring"
+msgstr "கண்காணிப்பு"
+
+msgid "Multimedia"
+msgstr "பல்லூடகம்"
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "வலையமைப்பு"
+
+msgid "Network-related settings"
+msgstr "வலையமைப்பு சார்ந்த வடிவமைப்புகள்"
+
+#, fuzzy
+msgid "News"
+msgstr "வலை செய்தி"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+#, fuzzy
+msgid "Numeric Analysis"
+msgstr "தகவல் ஆய்வு"
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "அலுவலகம்"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "மற்றவை"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "நிரலாக்கம்"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "பொதி மேலாண்மை"
+
+msgid "Packaging"
+msgstr "rpmதொகுப்பு"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Personal"
+msgstr "தனிப்பயன்"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "பௌதிகம்"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "பௌதிகம்"
+
+msgid "Preferences"
+msgstr "விருப்பங்கள்"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr "அச்சுக்கருவி"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "திட்ட மேலாண்மை"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "திட்ட மேலாண்மை"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "வரைகலைகள்"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "சேமித்தல்"
+
+msgid "Science"
+msgstr "அறிவியல்"
+
+msgid "Screensavers"
+msgstr "திரைசேமிப்பிகள்"
+
+msgid "Security"
+msgstr "பாதுகாப்பு"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "பாதுகாப்பு"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgid "Simulation"
+msgstr "பாவனை"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "பாவனை"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "ஒலி"
+
+msgid "Sports"
+msgstr "விளையாட்டு"
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "போர் தந்திரம்"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "போர் தந்திரம்"
+
+msgid "System"
+msgstr "கணினி அமைப்பு"
+
+msgid "System settings"
+msgstr "கணினி அமைப்புகள்"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr "தொலைகாட்சி மற்றும் வானொலி"
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "தொலைகாட்சி மற்றும் வானொலி"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "பயன்பாடுகள்"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "முனைய போன்றிகள்"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "முனைய போன்றிகள்"
+
+msgid "Text tool utilities"
+msgstr ""
+
+msgid "Text tools"
+msgstr "உரை கருவிகள்"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "கருவிகள்"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "விளையாட்டுப் பொருட்கள்"
+
+msgid "Translation"
+msgstr "மொழிபெயர்ப்பு"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "வரைகலைகள்"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr "ஔதத்தோற்றம்"
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "காட்டிகள்"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr "காட்டிகள்"
+
+msgid "Web Browsing"
+msgstr "வலை உலாவல்"
+
+msgid "Web Development"
+msgstr "வலை வளர்ச்சி"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Data Management"
+#~ msgstr "தரவு மேலாண்மை"
+
+#~ msgid "Mobile Devices"
+#~ msgstr "அலை பேசி சாதனங்கள்"
+
+#~ msgid "Medicine"
+#~ msgstr "மருத்துவம்"
+
+#~ msgid "Social"
+#~ msgstr "சமூகம்"
+
+#~ msgid "Shells"
+#~ msgstr "ஷெல்கள்"
+
+#~ msgid "Language Environment"
+#~ msgstr "மொழி சூழல்"
+
+#~ msgid "Text"
+#~ msgstr "உரை"
+
+#~ msgid "Puzzles"
+#~ msgstr "புதிர்கள்"
+
+#~ msgid "Help"
+#~ msgstr "உதவி"
+
+#~ msgid "Window Managers"
+#~ msgstr "சாளர மேலாளர்கள்"
+
+#~ msgid "FVWM Modules"
+#~ msgstr "ஃஎப்விடபிள்யூஎம் தொகுப்புகள்"
+
+#~ msgid "Window Maker"
+#~ msgstr "விண்டோ மேக்கர்"
+
+#~ msgid "Appearance"
+#~ msgstr "தோற்றம்"
+
+#~ msgid "WorkSpace"
+#~ msgstr "பணிக்களம்"
+
+#~ msgid "Iceape Components"
+#~ msgstr "ஐஸ்ஏப் பொருள்கூறுகள்"
+
+#~ msgid "Teddies"
+#~ msgstr "டெட்டிகள்"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> அணைத்து பயன்பாடுகள்"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> என்ன செய்ய விரும்புகிறீர்கள்?"
+
+#~ msgid "Edutainment"
+#~ msgstr "கல்வி"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "இதர தேர்வுகள்"
+
+#~ msgid "Utilities"
+#~ msgstr "கருவிகள்"
+
+#~ msgid "Backups"
+#~ msgstr "காப்பெடுத்தல்"
+
+#~ msgid "Programming"
+#~ msgstr "நிரலாக்கம்"
+
+#~ msgid "Servers"
+#~ msgstr "சேவையகங்கள்"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X-சாளர கருவிகள்"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X-கருவிகள்"
+
+#~ msgid "Wine"
+#~ msgstr "வைன் (Wine)"
+
+#~ msgid "Advanced"
+#~ msgstr "உயர்நிலை "
+
+#~ msgid "Advanced Settings"
+#~ msgstr "ேமலதிக அைமப்புகள்"
+
+#~ msgid "Lost & Found"
+#~ msgstr "இழந்த & கிடைத்த"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "உத்திகளும் தந்திரங்களும்"
+
+#~ msgid "Information"
+#~ msgstr "தகவல்"
+
+#~ msgid "Personal preferences"
+#~ msgstr "தனிப்பயன் விருப்பங்கள்"
+
+#~ msgid "Accessories"
+#~ msgstr "பயன்பாடுகள்"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "மேஜை துணைப்பொருள்கள்"
+
+#~ msgid "Networking"
+#~ msgstr "வலையமைப்பு"
+
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgid "Science & Math"
+#~ msgstr "அறிவியல் & கணிதம்"
+
+#~ msgid "Peripherals"
+#~ msgstr "புறக்கருவிகள்"
+
+#~ msgid "Look and Feel"
+#~ msgstr "பார்வையும் உணர்வும்"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "மேல்மேசையின் தோற்றம் மற்றும் நடத்தைகளை கட்டுப்படுத்தும் வடிவமைப்பு"
+
+#~ msgid "File"
+#~ msgstr "கோப்பு"
+
+#~ msgid "Personal settings"
+#~ msgstr "தனிப்பயன் அமைப்புகள்"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "திரைசேமிப்பி சூழல்கள்"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "பயிற்று கருவிகள்"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "கணிப்பொறி அமைப்பு மற்றும் கண்காணித்தல்"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "பல வண் பொருட்களுக்கான அமைப்புகள்"
+
+#~ msgid "KDE Menu"
+#~ msgstr "கேடியி பட்டி"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "தனிநபர் விருப்பங்கள் மற்றும் நிர்வாக அமைப்புகள்"
+
+#~ msgid "Development Environments"
+#~ msgstr "உருவாக்ககம்"
+
+#~ msgid "Universal Access"
+#~ msgstr "உலகளாவிய அணுகல்"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "உலகளாவிய அணுகல் அமைப்புகள்"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr ""
+#~ "கணிப்பொறியின் அனைத்து அமைப்புகளை மாற்றுக (பயன்படுத்துவோர் அனைவரையும் பாதிக்கும்)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ஒலி மற்றும் படக்காட்சி"
+
+#~ msgid "Internet and Network"
+#~ msgstr "இணையம் மற்றும் வலையமைப்பு"
+
+#~ msgid "Control Center"
+#~ msgstr "கட்டுப்பாட்டு மையம்"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "முரட்டுதனமான விளையாட்டுகள்"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "வலைப்பின்னல் மற்றும் மின்னஞ்சல் போன்ற இணைய அணுகலுக்கான நிரல்கள் "
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "இதர இனங்களில் பொருந்தாத பயன்பாடுகள்"
+
+#~ msgid "Office Applications"
+#~ msgstr "அலுவலகப் பயன்பாடுகள்"
+
+#~ msgid ".hidden"
+#~ msgstr "பதுங்கியவை"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "தயவுசெய்து இதை நீக்கவோ, மாற்றவோ வேண்டாம்"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "மாண்ட்ேரக் புதுப்பித்தல்"
+
+#~ msgid "Beat the odds in a poker-style dice game"
+#~ msgstr "போக்கர்-பாணி தாய விளையாட்டை விளையாடவும்"
+
+#~ msgid "Tali"
+#~ msgstr "தலி"
+
+#~ msgid "Enable or disable software sources"
+#~ msgstr "மென்பொருள் மூலங்களை செயல்படுத்து அல்லது செயல்நீக்கு"
+
+#~ msgid "Audacity"
+#~ msgstr "அடாசிட்டி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr "பிரஞ்சு மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Five or More"
+#~ msgstr "ஐந்து அல்லது அதற்கு மேல்"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "பககையிலிருந்து வண்ண பந்துகளை வரிசைகளாக நீக்கவும்ும்."
+
+#~ msgid "Minesweeper"
+#~ msgstr "மைன்வீப்பர்"
+
+#~ msgid "Documentation Browser"
+#~ msgstr "உரையேட்டின் வலையோடு"
+
+#~ msgid "System Monitor"
+#~ msgstr " செயல் கண்காணி"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "செயல் கட்டுப்பாடு"
+
+#~ msgid "Image Viewer"
+#~ msgstr "உருக் காட்டி"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "GTK செயல் கட்டுப்பாடு"
+
+#~ msgid "Gkrellm"
+#~ msgstr "gகிரம்ளின்"
+
+#~ msgid "Media Player"
+#~ msgstr "ஊடக இயக்கி"
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "IM Client"
+#~ msgstr "IM கிளையன்"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "பூட்டும் கொள்கையை கட்டமை"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "பூட்டு தொகுப்பி"
+
+#~ msgid "About Me"
+#~ msgstr "என்னை பற்றி"
+
+#~ msgid "Set your personal information"
+#~ msgstr "உங்கள் தனிப்பட்ட தகவலை அமைக்கவும்"
+
+#~ msgid "IceBreaker"
+#~ msgstr "icebreaker-விளையாட்டு"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "சிடி க்கள் மற்றும் டிவிடி க்கள் உருவாக்க மற்றும் நகல் எடுக்க"
+
+#~ msgid "Disc Burner and Copier"
+#~ msgstr "வட்டு எழுதி மற்றும் நகல் எடுப்பி"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "எந்த பயன்பாடுகள் முதன்மை பட்டியில் காட்டப்படும் என்பதை மாற்றுக"
+
+#~ msgid "Main Menu"
+#~ msgstr "முதன்மை புப் பட்டி"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff-இல்லாதவற்றை மட்டும் நிகழ்நிலைப் படுத்துங்கருவி"
+
+#~ msgid "Browse the web"
+#~ msgstr "வலையில் உலாவு"
+
+#~ msgid "Epiphany"
+#~ msgstr "Epiphany"
+
+#~ msgid "Character Map"
+#~ msgstr "எழுத்து வரைபடம்"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "ஆவணத்தில் சிறப்பு எழுத்தஒ சொருகு"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "ேகாேபா டீலக்ஸ்"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "சம்பா இணையவழி வடிவமைப்பு"
+
+#~ msgid "Xwpick"
+#~ msgstr "திரையைப்படம்"
+
+#~ msgid "Create service packs for sharing with other computers"
+#~ msgstr "வேறு கணினிகளுடன் பகிரும் சேவை பொதிகளை உருவாக்கு"
+
+#~ msgid "Service Pack Creator"
+#~ msgstr "சேவை பொதி உருவாக்கி"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL விளையாட்டு"
+
+#~ msgid "XBoard"
+#~ msgstr "மேசை விளையாட்டுக்கள்"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "கணிமேசைக்கான காட்சியை தனிப்பயனாக்குக"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "ஒரு இணைய அகராதியில் சொற்களை தேடவும்"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "இந்த கணினியில் உள்ள ஆவணங்கள் அல்லது அடைவுகளை பெயராலோ உள்ளடக்கத்தாலோ கண்டுபிடிக்கவும்"
+
+#~ msgid "Search for Files..."
+#~ msgstr "கோப்புகளை தேடவும்..."
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "மற்ற நிரல்களை துவக்கவும், சாளரங்களை மேலாள,நேரத்தை காட்ட போன்ற பல பயன்பாடுகளை தரவும்."
+
+#~ msgid "Panel"
+#~ msgstr "பலகை"
+
+#~ msgid "Navigate applications and type using alternative input devices"
+#~ msgstr "மற்ற உள்ளீட்டு சாதனங்களை பயன்படுத்தி தட்டச்சவும் மற்றும் பயன்பாடுகளில் உலாவவும்."
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "திரையில்-உள்ள விசைப்பலகை"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "pppoe தொலை அணுகல்"
+
+#~ msgid "Audio CD Extractor"
+#~ msgstr "இசை குறுந்தட்டு பிரிப்பி"
+
+#~ msgid "Copy music from your CDs"
+#~ msgstr "குறுந்தட்டிலிருந்து உங்கள் இசையை பிரதி எடுங்கள்"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "குறுவட்டு/DVD உருவாக்கி"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "உருவாக்குக  CDs மற்றும் DVDs"
+
+#~ msgid "Device Manager"
+#~ msgstr "சாதன் மேலாளர்"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "விருப்பமான பயன்பாடுகள்"
+
+#~ msgid "Klotski"
+#~ msgstr "க்லோட்ஸ்கி "
+
+#~ msgid "Slide blocks to solve the puzzle"
+#~ msgstr "மரத் துண்டுகளை சறுக்கி புதிருக்கு விடை காண்"
+
+#~ msgid "Chess"
+#~ msgstr "சதுரங்கம்"
+
+#~ msgid "Play the classic two-player boardgame of chess"
+#~ msgstr "வழக்கமான இரண்டு வீரர் சதுரங்க ஆட்டத்தை ஆடுக"
+
+#~ msgid "Simple text editor"
+#~ msgstr "எளிமையான உரை பதிப்பான்"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "புத்தக குறிப்பு செய்த மற்றும் உள்ளமை இடங்களை உலாவுக"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "பயனர்களுக்கு வரிவுரு அமைத்து திருத்துக"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "பயனர் வரிவுரு தொகுப்பி"
+
+#~ msgid "F-Spot"
+#~ msgstr "F-Spot"
+
+#~ msgid "Photo Viewer"
+#~ msgstr "நிழற்பட காட்டி"
+
+#~ msgid "Bluetooth"
+#~ msgstr "ப்ளூடூத்"
+
+#~ msgid "Configure Bluetooth settings"
+#~ msgstr "கட்டமைக்கப்பட்ட ப்ளூடூத் அமைவுகள்"
+
+#~ msgid "Text Editor"
+#~ msgstr "உரை திருத்தி"
+
+#~ msgid "Manage Messaging and VoIP accounts"
+#~ msgstr "செய்தி அனுப்புதல் மற்றும் வோய்ப் கணக்குகள் ஐ  மேலாளவும் "
+
+#~ msgid "Messaging and VoIP Accounts"
+#~ msgstr "செய்தி அனுப்புதல் மற்றும் வோய்ப் கணக்குகள்"
+
+#~ msgid "Disk Utility"
+#~ msgstr "வட்டு பயன்பாடு"
+
+#~ msgid "Manage Drives and Media"
+#~ msgstr "இயக்கிகள் மற்றும் ஊடகங்களை மேலாள"
+
+#~ msgid "Office Suite"
+#~ msgstr "KOffice தொகுப்பு"
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "பிம்பங்களை உலாவு சுழற்று"
+
+#~ msgid "Catalog Installer"
+#~ msgstr "கேட்லாக் நிறுவி"
+
+#~ msgid "Install a catalog of software on the system"
+#~ msgstr "ஒரு மென்பொருள் கேட்லாக்கை கணினியில் நிறுவு"
+
+#~ msgid "Change resolution and position of monitors"
+#~ msgstr "திரைகளின் இடத்தையும் தெளிதிறனையும் மாற்றுக"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "ஓபன்ஆபிஸ்-விரிதாள்"
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "உங்கள் பணிமேடையின் படங்களை அல்லது தனித்தனி சாளரங்களை சேமிக்கவும்"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "திரைப்பிடிப்பு செய்யவும்"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "உற்பத்தியாளர்களின் உதவி நிரல்"
+
+#~ msgid "Devhelp"
+#~ msgstr "டேவு உதவி(Devhelp)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr "டச்சு மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "கோப்பு அமைப்பை கோப்பு மேலாளரை பயன்படுத்தி பார்"
+
+#~ msgid "File Browser"
+#~ msgstr "கோப்பு உலாவி"
+
+#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
+#~ msgstr "வண்ண மற்றும் உருவ ஓடுகளை குழுக்களாக நீக்கி திரையை காலி செய்"
+
+#~ msgid "Swell Foop"
+#~ msgstr "ஸ்வெல் ஃபூப்"
+
+#~ msgid "IDE for Python"
+#~ msgstr "பைதானின் ஒருங்கிணைந்த உருவாக்ககம்"
+
+#~ msgid "Dia Diagram Editor"
+#~ msgstr "Dia வரைபட எடிட்டர்"
+
+#~ msgid "Edit your Diagrams"
+#~ msgstr "உங்களின் வரைபடங்களை திருத்தவும்"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "கணினிமேசையின் பல பகுதிகளுக்கு உருகாறு பொதிகளை நிறுவுகிறது"
+
+#~ msgid "Theme Installer"
+#~ msgstr "கருத்து நிறுவி"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "குேனாம் உதவி"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "கடிகாரம்"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "உதவி தொழில்நுட்பங்கள்"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr "தேர்வு செய்க:  உள் நுழையும்போது எந்த அணுகல் சிறப்பியல்பை செயல் ஆக்க வேண்டும் "
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "அடைவு அளவு மற்றும் கிடைக்கக்கூடிய வட்டு இடைவெளி ஆகியவற்றை சரிபார் "
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "வட்டு பயன்பாடு ஆராய்வி"
+
+#~ msgid "Organize, enjoy, and share your photos"
+#~ msgstr "உங்கள் நிழற்படங்களை ஒழுங்குபடுத்தி, பகிர்ந்து, மகிழவும்"
+
+#~ msgid "Photo Manager"
+#~ msgstr "நிழற்பட மேலாளர்"
+
+#~ msgid "Movie Player"
+#~ msgstr "திரைப்பட இயக்கி"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "சினிமா மற்றும் பாடல் இயக்கி"
+
+#~ msgid "Document Viewer"
+#~ msgstr "ஆவண காட்டி"
+
+#~ msgid "View multi-page documents"
+#~ msgstr "பல பக்க ஆவணங்களை பார்வையிடு"
+
+#~ msgid "Home Folder"
+#~ msgstr "இல்ல அடைவு"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "உங்கள் அந்தரங்க அடைவை திறக்கவும்"
+
+#~ msgid "Quadrapassel"
+#~ msgstr "க்வாட்ரபாசல்"
+
+#~ msgid "Complete the puzzle by matching numbered tiles"
+#~ msgstr "எண்கள் பொருந்தும் படி ஓடுகளை நகர்த்தி புதிரை முடி"
+
+#~ msgid "Tetravex"
+#~ msgstr "டெட்ராவெக்ஸ்"
+
+#~ msgid "View past package management tasks"
+#~ msgstr "பழைய தொகுப்பு மேலாண்மை பணிகள்"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Gஉள்ளமை"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "மல்டிமிடியா அமைப்பு தேர்ந்தெடுக்கப்பட்டது"
+
+#~ msgid "Access remote desktops"
+#~ msgstr "தொலை பணிமேடைகளை அணுகுதல்"
+
+#~ msgid "Remote Desktop Viewer"
+#~ msgstr "தொலை பணிமேடை காட்டி"
+
+#~ msgid "Audit Configuration"
+#~ msgstr "ஆய்வு கட்டமைப்பு"
+
+#~ msgid "Modify audit configuration"
+#~ msgstr "தணிக்கை கட்டமைப்பை மாற்று"
+
+#~ msgid "Metacity"
+#~ msgstr "மெட்டாசிட்டி"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "gocr-gtk-ஒளிவழி எழுத்துரு அறிதல் கருவி"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "ரோபார்டை தவிர் மேலும் அவை ஒன்றின் மேல் ஒன்று நொறுங்கும் வகையில் அமை"
+
+#~ msgid "Search"
+#~ msgstr "தேடு"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr "ஸ்பானிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "அஞ்சல்கருவி"
+
+#~ msgid "ClanBomber"
+#~ msgstr "Bomber-விளையாட்டு"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "நிறங்களின் துடிப்பில் ஒரு pop-art-ish கட்டம்."
+
+#~ msgid "Pop art squares"
+#~ msgstr "Pop art சதுரங்கள்"
+
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr "F-Spotஇலிருந்து ஒரு ஸ்லைடு காட்சியைக் காட்டு"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "F-Spot நிழற்படங்கள்"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "உங்கள் படங்கள் அடைவிலிருந்து ஸ்லைடு காட்சியை காட்டவும்"
+
+#~ msgid "Pictures folder"
+#~ msgstr "படங்கள் அடைவு"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "திரையில் பல் இடங்களில் க்னோம் கால் சின்னத்தை குமிழ்களாக வெளியிடுகிறது."
+
+#~ msgid "Floating Feet"
+#~ msgstr "மிதவை பாதம்"
+
+#~ msgid "Cosmos"
+#~ msgstr "Cosmos"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "cosmosன் படங்களை ஸ்லைடு காட்சியாக காட்டவும்"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "இந்த கணினியிலிருந்து எல்லா உள்ளமை/தொலை வட்டுகள் மற்றும் அடைவுகளை அணுக உலாவு."
+
+#~ msgid "Computer"
+#~ msgstr "கணிப்பொறி"
+
+#~ msgid "LyX"
+#~ msgstr "லிக்ஸ்"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "பூமி"
+
+#~ msgid "Xearth"
+#~ msgstr "பூமி"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "உங்கள் புத்தகக்குறிகளை அடுக்கவும்"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "எபிபனி(Epiphany) இணைய புத்தகக்குறிப்புகள்"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "இணைய புத்தகக்குறிகள்"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr "சுலோவெனிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "செயல்பாடு மற்றும் புதிர் விடுவிக்கும் விளையாட்டு"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "Kகோல்டு ரன்னர்"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "பட்டியல் புதுப்பித்தல் கருவி"
+
+#~ msgid "K3b"
+#~ msgstr "கே3பி"
+
+#~ msgid "Color Chooser"
+#~ msgstr "வண்ணத் தேர்வாளர்"
+
+#~ msgid "KColorChooser"
+#~ msgstr "kவண்ணத் தேர்வாளர்"
+
+#~ msgid "Kalzium"
+#~ msgstr "கால்ஜியம்"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "பொருட்களின் கால அட்டவணை"
+
+#~ msgid "Hangman Game"
+#~ msgstr " ஹாங்க்மேன் விளையாட்டு"
+
+#~ msgid "KHangMan"
+#~ msgstr "kெதாங்குமனிதன்"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "ஒரு சாதாரண உருவ பார்வையாளர்"
+
+#~ msgid "Gwenview"
+#~ msgstr "gwen பார்வை"
+
+#~ msgid "KUser"
+#~ msgstr "Kபயனர்"
+
+#~ msgid "User Manager"
+#~ msgstr "பயனீட்டாளர் மேலாளர்"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "Kகுதிப்பான்கள்"
+
+#~ msgid "Galactic Strategy Game"
+#~ msgstr "கலாட்டிக் தந்திர விளையாட்டு"
+
+#~ msgid "Konquest"
+#~ msgstr "கான்கிவட்"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "ஒரு ஒளி அட்டை மற்றும் சொல்லாக்கம் பயிலும் நிரல்"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "Kவோர்டு வினாடிவினா"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "CVS முன்பகுதி"
+
+#~ msgid "Cervisia"
+#~ msgstr "செர்விசியா"
+
+#~ msgid "KRuler"
+#~ msgstr "Kஅளவுப்பலகை"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "திரை உருளை"
+
+#~ msgid "KSnapshot"
+#~ msgstr "kதிைர ேவட்டு"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "திரை கைப்பற்றும் நிரலி"
+
+#~ msgid "Character Selector"
+#~ msgstr " எழுத்து தேர்ந்தெடுப்பான்"
+
+#~ msgid "Konqueror"
+#~ msgstr "கான்கொரர்"
+
+#~ msgid "KLettres"
+#~ msgstr "kஎழுத்து"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "தினப்பதிவு, திட்டமிடல் நிரல்"
+
+#~ msgid "KOrganizer"
+#~ msgstr "kநிறுவனர்"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "தனிப்பயன் அமைப்பாளர்"
+
+#~ msgid "Home"
+#~ msgstr "தொடக்கம்"
+
+#~ msgid "Personal Files"
+#~ msgstr "சொந்த கோப்புகள்"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "kவிண்வெளிச்சன்டை"
+
+#~ msgid "Space Arcade Game"
+#~ msgstr "விண்வெளி ஆர்கேட் விளையாட்டு"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "KTouch"
+#~ msgstr "kதொடுதல்"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "தொடு-தட்டச்சு ஆசிரியர்"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "HTML வடிவம் வரைப்படம் திருத்தி"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "Kதோற்றவரைபடதொகுப்பி"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "Kஇணைப்புநிலை"
+
+#~ msgid "Link Checker"
+#~ msgstr "இணைப்பு சரிபார்ப்பான்"
+
+#~ msgid "KJots"
+#~ msgstr "Kஜாட்ஸ்"
+
+#~ msgid "Note Taker"
+#~ msgstr " குறிப்பு எடுப்பான்"
+
+#~ msgid "KMouth"
+#~ msgstr "K மவுத்"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Speech Synthesizer Frontend"
+
+#~ msgid "Konversation"
+#~ msgstr "உரையாடல்"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "அட்டகாச மேல்மேசைக்கு ஒரு இயந்திரம்"
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "மேல்மேசை விட்செட்"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "சூப்பர் கரம்பா"
+
+#~ msgid "Potato Guy"
+#~ msgstr "உருளை ஆள்"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "A cut & paste history utility"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "தற்காலிக கருவி"
+
+#~ msgid "Klipper"
+#~ msgstr "kநகலெடுப்பான்"
+
+#~ msgid "Battleship Game"
+#~ msgstr "போர்த்தள விளையாட்டு"
+
+#~ msgid "KBattleship"
+#~ msgstr "Kபடைக்கப்பல்"
+
+#~ msgid "Card Game"
+#~ msgstr "அட்டை விளையாட்டு"
+
+#~ msgid "CD Player"
+#~ msgstr "சிடி இயக்கி"
+
+#~ msgid "KsCD"
+#~ msgstr "kஇசைசிடி இயக்கி"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Bomberman விளையாட்டு"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Qt  வடிவமைப்பவர் UI கோப்புகள் காட்சியகம்"
+
+#~ msgid "Kleopatra"
+#~ msgstr "கிளியோபட்ரா"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "மேசைப் பகிர்தல்"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "சிஷன்-ஷோ - விளையாட்டு"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "ஷிசெந்ஷோ மாஹ்ஜோங் போன்ற ஓடு விளையாட்டு"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "GnuPG முன் அமைப்பு"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "சங்கேத கருவி"
+
+#~ msgid "KGpg"
+#~ msgstr "Kஜிபிஜி"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "X திரைகளை அளவுமாற்ற மற்ற,  திசை மாற்றுதற்கான சிறுநிரல் பலகம்"
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "திரை அளவு மாற்று & சுழற்று"
+
+#~ msgid "KMail"
+#~ msgstr "Kமின்னஞ்சல்"
+
+#~ msgid "KMahjongg"
+#~ msgstr "kமாேஜாங்"
+
+#~ msgid "Konsole"
+#~ msgstr "கான்சோல்"
+
+#~ msgid "KReversi"
+#~ msgstr "kரிவர்ஸி"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "ரிவர்சி பலகை விளையாட்டு"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr " அறிவியல் சார்ந்த கணிப்பான்"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "டிப்/ஒட்டு முன்பகுதி"
+
+#~ msgid "Kompare"
+#~ msgstr "kஒப்பீடு"
+
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "திரை பெரிதாக்கி"
+
+#~ msgid "Countdown Launcher"
+#~ msgstr " குறிப்பு எடுப்பான் நேரக்குறைப்பான்"
+
+#~ msgid "KTimer"
+#~ msgstr "Kநேரங்காப்பான்"
+
+#~ msgid "KNetAttach"
+#~ msgstr "நெட்ஹாக்இணைப்பு"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "வலைப்பின்னல் அடைவு பகுதி"
+
+#~ msgid "UML Modeller"
+#~ msgstr "UML மோடெல்லார்"
+
+#~ msgid "Umbrello"
+#~ msgstr "  அம்ரல்லோ"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "கறுப்புபெட்டி லாஜிக் விளையாட்டு"
+
+#~ msgid "KBlackBox"
+#~ msgstr "kகருப்புப்ெபட்டி"
+
+#~ msgid "KAtomic"
+#~ msgstr "kஅனு"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "சோகோபான் போன்ற லாஜிக் விளையாட்டு"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "பொறுமையான சீட்டு விளையாட்டு"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "அந்தரங்க தகவல் மேலாளர்"
+
+#~ msgid "AMOR"
+#~ msgstr "அமோர்"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "திரையில் உருவாக்கி"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "சொல்லாக்க பயிற்சியாளர்"
+
+#~ msgid "Font Viewer"
+#~ msgstr "எழுத்துரு காட்டி"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Function Plotter"
+#~ msgstr "சார்பு வரைவி"
+
+#~ msgid "KmPlot"
+#~ msgstr "Kபைலட்"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "கணக்கியல் இயக்க வரைவி"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "இணைய அழைப்புக் கருவி"
+
+#~ msgid "KPPP"
+#~ msgstr "Kஇணைய அழைப்பான்"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "ேமசை ேகாளரங்கம்"
+
+#~ msgid "KStars"
+#~ msgstr "kதாரகை"
+
+#~ msgid "Kover"
+#~ msgstr "கோவர்"
+
+#~ msgid "KolourPaint"
+#~ msgstr "கேலொர்பெயிண்ட்"
+
+#~ msgid "KAlarm"
+#~ msgstr "kஅலாரம்"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Personal Alarm Scheduler"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "வாலட் மேலாண்மை கருவி  "
+
+#~ msgid "KTron"
+#~ msgstr "kடிரான்"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "ட்ரோன் போன்ற விளையாட்டு"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "வட்டு பயன்பாட்டை பார்க்கவும்"
+
+#~ msgid "Kopete"
+#~ msgstr "கொபேத்"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr " விவரக்குறிப்பு முன்பகுதி"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr " விவர தகவலை செயல்பாட்டு காட்சியாளிப்பு"
+
+#~ msgid "Download Manager"
+#~ msgstr "பதிவிறக்க மேலாளர்"
+
+#~ msgid "KGet"
+#~ msgstr "kெகட்"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kகோடுகள்"
+
+#~ msgid "Dolphin"
+#~ msgstr "டால்பின்"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "பின்னங்களில் பயிற்சிகள்"
+
+#~ msgid "KBruch"
+#~ msgstr "Kப்ருஷ்"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "பின்னங்களில் செயல்முறை பயிற்சிகள்"
+
+#~ msgid "Info Center"
+#~ msgstr "தகவல் மையம்"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "கேதகவல் மையம்"
+
+#~ msgid "KTeaTime"
+#~ msgstr " கேதேநீர் நேரம்"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "தேநீர் இைடவேைள"
+
+#~ msgid "Change Password"
+#~ msgstr "கடவுச்ெசால் மாற்று"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "கான்சோல் நாள்காட்டி"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr " ஜப்பானிய மேற்கோள்/ கல்விக் கருவி"
+
+#~ msgid "Kiten"
+#~ msgstr "Kகிட்டன்"
+
+#~ msgid "KMix"
+#~ msgstr "kஒலிகலப்பான்"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "ஒலிக்கலக்கி"
+
+#~ msgid "KBugBuster"
+#~ msgstr "kபிழைநீக்கி"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr " KDE பக் மேனேஜ்மென்ட்"
+
+#~ msgid "Welcome"
+#~ msgstr "வருக"
+
+#~ msgid "KFileReplace"
+#~ msgstr "kகோப்பு மாற்றியமை"
+
+#~ msgid "Kolf"
+#~ msgstr "kேகால்ப்"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "சிறிய கால்ஃப்"
+
+#~ msgid "KwikDisk"
+#~ msgstr "kவன்தட்டு"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr " நீக்ககூடிய ஊடக பயன்பாடு"
+
+#~ msgid "KBounce"
+#~ msgstr "kதிரும்புதல்"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "தானியங்கி சுட்டி சொடுக்கல்"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Clicks the mouse for you, reducing the effects of RSI RSI"
+
+#~ msgid "KMouseTool"
+#~ msgstr "கே மவுஸ்டூல்"
+
+#~ msgid "Sweeper"
+#~ msgstr "ஸ்வீப்பர்"
+
+#~ msgid "System Cleaner"
+#~ msgstr "அமைப்பு சுத்தப்படுத்தி"
+
+#~ msgid "Trash"
+#~ msgstr "குப்பை"
+
+#~ msgid "KMines"
+#~ msgstr "Kகண்ணிவெடி"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "சுரங்கம்வெட்டும் விளையாட்டு"
+
+#~ msgid "Board Game"
+#~ msgstr "பலகை விளையாட்டு"
+
+#~ msgid "SameGame"
+#~ msgstr "kஅதேவிளையாட்டு"
+
+#~ msgid "KWrite"
+#~ msgstr "kரைட்"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "மேம்படுத்த்ப்பட்ட உரை திருத்துபவர்"
+
+#~ msgid "Kate"
+#~ msgstr "ேகட்"
+
+#~ msgid "KNode"
+#~ msgstr "Kசெய்தியஞ்சல்"
+
+#~ msgid "News Reader"
+#~ msgstr "செய்தி வாசிப்பவர்"
+
+#~ msgid "Menu Editor"
+#~ msgstr "பட்டித் தொகுப்பாளர்"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "இசை இயக்கி"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "ேநரக் காப்பாளன்"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC சேவகன்"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "கேடிஇ லினக்ஸ் அகச்சிவப்பு கதிர் தொலைதூர கட்டுப்பாட்டு சேவகன்"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "கோப்புகள்/அடைவுகளைக் கண்டுபிடி"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr " ஊடாடும் வடிவியல்"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "கோப்பு மேலாளர் - மீப்பயனர் முறைமை"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "எழுத்துவரிசை விளையாட்டு"
+
+#~ msgid "Popup Notes"
+#~ msgstr "மேல்மீட்புக் குறிப்புகள்"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "ெநகிவட்டு வடிவூட்டி"
+
+#~ msgid "KFloppy"
+#~ msgstr "Kநெகிழ்வட்டு"
+
+#~ msgid "Configure email accounts"
+#~ msgstr "மின்னஞ்சல் கணக்குகளை வடிவமை"
+
+#~ msgid "Email Settings"
+#~ msgstr "மின்னஞ்சல் அமைவுகள்"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "விசைப்பலகை குறுக்குவழிகளை அைமக்கவும்"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "விசைப்பலகை குறுக்குவழிகள்"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr "இத்தாலிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr "கொரிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV-தொலைக்காட்சி"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "gபதிவு"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX-தரவு மேலோடி"
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "ஓபன்ஆபிஸ்-நிகழ்த்தான்"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Qt படைப்பாளர்"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "ஓபன்ஆபிஸ்-கணியன்"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "ஒலிகலப்பான் மூலம் ஒலியைக் கட்டுபடுத்து"
+
+#~ msgid "PulseAudio Volume Control"
+#~ msgstr "PulseAudio ஒலியளவு கட்டுப்பாடு"
+
+#~ msgid "Aumix"
+#~ msgstr "aஒலி கலப்பான்"
+
+#~ msgid "Enable/disable installed plugins"
+#~ msgstr "அமைக்கப்பட்ட சொருகிகளை செயல்படுத்து/ செயல் நீக்கு"
+
+#~ msgid "Keyboard Indicator plugins"
+#~ msgstr "விசைப்பலகையை உணர்த்தும் சொருகி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr "ஜப்பானிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "BZflag"
+#~ msgstr "bzflag-விளையாட்டு"
+
+#~ msgid "Change sound volume and sound events"
+#~ msgstr "ஒலியளவு மற்றும்  ஒலி நிகழ்வுகளை மாற்று"
+
+#~ msgid "Choose how other users can remotely view your desktop"
+#~ msgstr "மற்ற பயனீட்டாளர் உங்கள் பணிமேடையை பார்க்க தேர்ந்தெடுக்கவும்"
+
+#~ msgid "Screensaver"
+#~ msgstr "திரைக்காப்பகம்"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "உங்கள் திரை சேமிப்பி முன்னுரிமைகளை அமைக்கவும்"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "அனைவருக்குமான இலவச, எளிய, தனிநபர் கணக்கு"
+
+#~ msgid "HomeBank"
+#~ msgstr "இல்லவங்கி"
+
+#~ msgid "Open Folder"
+#~ msgstr "அடைவினை திற"
+
+#~ msgid "Install selected software on the system"
+#~ msgstr "தேர்ந்தெடுக்கப்பட்ட மென்பொருளை கணினியில் நிறுவவும்"
+
+#~ msgid "Package Installer"
+#~ msgstr "தொகுப்பு நிறுவி"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "பலநபர் விளையாட்டு"
+
+#~ msgid "Quadra"
+#~ msgstr "குவாட்ரா"
+
+#~ msgid "Sudoku"
+#~ msgstr "சுடோகு"
+
+#~ msgid "Test your logic skills in this number grid puzzle"
+#~ msgstr "உங்கள் தர்க்க திறமையை இந்த கட்ட புதிரில் சோதியுங்கள்"
+
+#~ msgid "Log File Viewer"
+#~ msgstr "பதிவு கோப்பு காட்டி"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "கணினி பதிவு கோப்புகளை பார்வையிடு அல்லது கண்காணி"
+
+#~ msgid "Network Proxy"
+#~ msgstr "வலையமைப்பு பிரதிநிதி."
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "உங்கள் பிணைய பதிலாள் முன்னுரிமைகளை அமை"
+
+#~ msgid "Use the command line"
+#~ msgstr "கட்டளை வரியை பயன்படுத்து"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "நீங்கள் புகுபதிவு செய்யும் போது எந்த பயன்பாடுகள் தேர்ந்தெடுக்கப்படவேண்டும்"
+
+#~ msgid "Startup Applications"
+#~ msgstr "துவக்க பயன்பாடுகள்"
+
+#~ msgid "Preview fonts"
+#~ msgstr "எழுத்துருக்கள் முன்பார்வை:"
+
+#~ msgid "Clear hidden mines from a minefield"
+#~ msgstr "பிதைந்து உள்ள கண்ணிவெடிகளை அகற்றவும்"
+
+#~ msgid "Record sound clips"
+#~ msgstr "ஒலி அமைப்புகளை பதிவு சேய்"
+
+#~ msgid "Set your window properties"
+#~ msgstr "உங்கள் சாளர பண்புகளை அமைக்கவும்"
+
+#~ msgid "Windows"
+#~ msgstr "வின்ேடாஸ்"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "Configure power management"
+#~ msgstr "மின் மேலாண்மையை கட்டமை"
+
+#~ msgid "Power Management"
+#~ msgstr "மின் மேலாண்மை"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "எய்ல்ரயட் சாலிடேர்"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "பல வித சாலிடேர் விளையாட்டை விளையாடு"
+
+#~ msgid "Notepad"
+#~ msgstr "குறிப்புபலகை"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "PS/DjVu காட்சி"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "பயனர் அல்லது குழுக்களை சேர் அல்லது நீக்கு"
+
+#~ msgid "Browse the Web"
+#~ msgstr "வலையத்ைத மேலோட"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt மொழியறிஞர்"
+
+#~ msgid "Note-taker"
+#~ msgstr "குறிப்பேடு"
+
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr "குறிப்பு எடுங்கள் யோசனைகளை  இணையுங்கள் மற்றும் கட்டுக்கோப்பாக இருங்கள்"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Tomboy குறிப்புகள்"
+
+#~ msgid "Archive Manager"
+#~ msgstr "களஞ்சிய மேலாளர்"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "களஞ்சியத்தை உருவாக்கு அல்லது திருத்து"
+
+#~ msgid "Cancel, pause, resume or reprint jobs"
+#~ msgstr "ரத்து, இடைநிறுத்தம், தொடர்தல் அல்லது பணிகளை மறு அச்சிடல்"
+
+#~ msgid "Manage Print Jobs"
+#~ msgstr "அச்சு பணிகளை மேலாண்மை செய்தல்"
+
+#~ msgid "Find files, folders, and documents on your computer"
+#~ msgstr "உங்கள் கணினியில் உள்ள கோப்புகள்,அடைவுகள் மற்றும் ஆவணங்களை கண்டுபிடி"
+
+#~ msgid "About GNOME"
+#~ msgstr "கனோமைப் பற்றி"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "GNOME பற்றி மேலும் பயிலவும்"
+
+#~ msgid "Gnumeric"
+#~ msgstr "gவிாிதாள்"
+
+#~ msgid "Keyboard"
+#~ msgstr "விசைப்பலகை"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "விசைப்பலகை விருப்பங்கள்"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "பொருத்தும் ஜோடி ஓடுகளை நீக்கி ஓட்டுக் குவியலை பிரிக்கவும்"
+
+#~ msgid "Mahjongg"
+#~ msgstr "மஹ்ஜொங்கு"
+
+#~ msgid "TkCVS"
+#~ msgstr "CVS நிகழ்நிலைப் படுத்துங்கருவி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr "அங்கேரிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Mouse"
+#~ msgstr "எலி"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "உங்கள் சுட்டியின் பண்புகளை அமைக்கவும்"
+
+#~ msgid "Cheese"
+#~ msgstr "சீஸ்"
+
+#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
+#~ msgstr ""
+#~ "வெப்கேம் மூலம் வேடிக்கையான பட அமைப்பு விளைவுகளுடன் போட்டோ மற்றும் வீடீயோ எடுங்கள்"
+
+#~ msgid "Dominate the board in a classic version of Reversi"
+#~ msgstr "ரிவர்சியிலிருந்து ஒரு வட்டு-மாற்று விளையாட்டில் பலகையை ஆட்சி செய்யுங்கள்."
+
+#~ msgid "Iagno"
+#~ msgstr "ஐயனோ"
+
+#~ msgid "Add or remove software installed on the system"
+#~ msgstr "கணினியில் நிறுவப்பட்ட மென்பொருளை சேர்க்கவும் அல்லது நீக்கவும்"
+
+#~ msgid "Add/Remove Software"
+#~ msgstr "மென்பொருளை சேர்த்தல்/நீக்குதல்"
+
+#~ msgid "Software Update"
+#~ msgstr "மென்பொருள் மேம்படுத்தல்"
+
+#~ msgid "Update software installed on the system"
+#~ msgstr "கணினியில் நிறுவப்பட்ட மென்பொருளை புதுப்பிக்கவும்"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "பொதிகளை நிறுவ உதவும் மாயாவி"
+
+#~ msgid "ChBg"
+#~ msgstr "பின்னணிமாற்றி"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "பின்னணிமாற்றி"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "கோபுர விளையாட்டு"
+
+#~ msgid "Observe power management"
+#~ msgstr "மின் மேலாண்மையை அனுசரி"
+
+#~ msgid "Power Statistics"
+#~ msgstr "மின் புள்ளிவிவரங்கள்"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "ஓபன்ஆபிஸ்-தொகுப்பான்"
+
+#~ msgid "Four-in-a-Row"
+#~ msgstr "ஒரு-வரியில்-நான்கு"
+
+#~ msgid "Make lines of the same color to win"
+#~ msgstr "ஒரே நிறத்திலான வரிகளை உருவாக்குவதற்்ுகாக போடிடு"
+
+#~ msgid "Database"
+#~ msgstr "தரவுதளங்கள்"
+
+#~ msgid "Project Hamster - track your time"
+#~ msgstr "ஹாம்ஸ்டர் திட்டம் - உங்கள் நேரத்தை கண்காணிக்க"
+
+#~ msgid "Time Tracker"
+#~ msgstr "நேரத் தடம் தேடல்"
+
+#~ msgid "Dasher"
+#~ msgstr "டேஷர்"
+
+#~ msgid "Enter text without a keyboard"
+#~ msgstr "விசைப்பலகை இல்லாமல் உரையை உள்ளிடுக"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "முன் கணிக்கும் உரை உள்ளீடு"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "வரைவியல் நிரல்"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "கனோம் அமைவடிவு கருவி"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "செய்திகளை யூஸ்ெநட்டிலிருந்து வாசிக்கவும்"
+
+#~ msgid "Perform arithmetic, scientific or financial calculations"
+#~ msgstr "கணித, அறிவியல் அல்லது பொருளாதார கணக்குகளை செய்கிறது."
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "கோப்பு மேலாளர் சாளரங்களின் நடத்தை மற்றும் காட்சியை மாற்றுக."
+
+#~ msgid "File Management"
+#~ msgstr "கோப்பு மேலாண்மை"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "கொடாநிலை முனையம்"
+
+#~ msgid "XTerm"
+#~ msgstr "xமுனையம்"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "வலையமைப்பு பகுப்பான்"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCCவடிவமைப்பு"
+
+#~ msgid "Planner Project Management"
+#~ msgstr "திட்டமமைப்பானின் திட்ட மேலாண்மை"
+
+#~ msgid "Ekiga Softphone"
+#~ msgstr "எகிகா ஸாப்ஃட் போன் "
+
+#~ msgid "IP Telephony, VoIP and Video Conferencing"
+#~ msgstr "ஐபி டெலிபோனி , விஓஐபி  மற்றும் வீடியோ சந்திப்புகள்"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "இணையம் வழியாக நன்பருடன் பேசுங்கள்"
+
+#~ msgid "WMnet"
+#~ msgstr "WMவலையமைப்பு"
+
+#~ msgid "J-Pilot"
+#~ msgstr "கையடக்க கணினி"
+
+#~ msgid "Edit text files"
+#~ msgstr "உரை கோப்புகளை திருத்தவும் "
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Change software update preferences"
+#~ msgstr "மென்பொருள் மேம்படுத்தல் முன்னுரிமைகளை மாற்று"
+
+#~ msgid "Software Updates"
+#~ msgstr "மென்பொருள் மேம்படுத்தல்கள்"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "Bonobo கூறு உலாவி"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "இருக்கும் Bonobo கூறுகளை காட்டுகிறது"
+
+#~ msgid "Joe"
+#~ msgstr "ேஜா"
+
+#~ msgid "Evolution"
+#~ msgstr "எவல்யூசன்"
+
+#~ msgid "Groupware Suite"
+#~ msgstr "குழுக்களுக்கான மென்பொருள்"
+
+#~ msgid "Manage your email, contacts and schedule"
+#~ msgstr "உங்கள் மின்னஞ்சல் தொடர்புகள் மற்றும் கால ஒதுக்கீடுகள் ஆகியவற்றை மேலாளவும்"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "ஸ்கிரிபஸ்"
+
+#~ msgid "Scribus"
+#~ msgstr "இடஅமைவுக்கருவி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr "ெஜர்மன் மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Howtos German"
+#~ msgstr "எப்படிச் செய்தல்(ெஜர்மன்)"
+
+#~ msgid ""
+#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
+#~ msgstr ""
+#~ "அரட்டை IM முடிந்தது.  AIMக்கு துணைபுரிகிறது, Google Talk, Jabber/XMPP, MSN, "
+#~ "Yahoo மற்றும் மேலும்"
+
+#~ msgid "Internet Messenger"
+#~ msgstr "இணையதள தூதுவர்"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Pidgin இணையத்தள மேலாளர்"
+
+#~ msgid "PulseAudio Preferences"
+#~ msgstr "PulseAudio முன்னுரிமைகள்"
+
+#~ msgid "Sound Server Preferences"
+#~ msgstr "ஒலி சேவையக முன்னுரிமைகள்"
+
+#~ msgid "View and modify the configuration of the local sound server"
+#~ msgstr "உள்ளமை ஒலி சேவையகத்தின் கட்டமைப்பை பார்வையிடு மற்றும் மாற்று"
+
+#~ msgid "System information"
+#~ msgstr "கணினித் தகவல்"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "கணினித் தகவல்"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr "ரொமானிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "HardDrake"
+#~ msgstr "டிரேக்வன்ெபாருள்"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "வன்ெபாருள் வடிவமைப்பு கருவி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr "பொலிசிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "கப்ஸ்-அச்சுநிரல்"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "உங்கள் இசை தொகுப்பை இசை அல்லது ஒழுங்குப்படுத்து"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "இைசப்ெபட்டி"
+
+#~ msgid "View and organize your images"
+#~ msgstr "உங்கள் படங்களை பார்க்க"
+
+#~ msgid "Orca"
+#~ msgstr "ஆர்கா"
+
+#~ msgid ""
+#~ "Present on-screen information as speech or braille, or magnify the screen"
+#~ msgstr ""
+#~ "திரையில் உள்ள தகவலை பேச்சாகவோ அல்லது ப்ரெய்லி ஆகவோ தருக, அல்லது திரையை "
+#~ "பெரிதாக்குக."
+
+#~ msgid "Screen Reader and Magnifier"
+#~ msgstr "திரை படிப்பி மற்றும் பெரிதாக்கி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr "ஆங்கில மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "SCIM Input Method Setup"
+#~ msgstr "SCIM உள்ளீடு முறை அமைவு"
+
+#~ msgid "Setup utility for Smart Common Input Method platform"
+#~ msgstr "Smart Common Input Method தளத்திற்கு அமைவு வசதி"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "ஒரு சக்திவாய்ந்த உரை தொகுப்பாளர் "
+
+#~ msgid "VI editor"
+#~ msgstr "VI தொகுப்பி"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr "கிரேக்க மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "எப்படிச் செய்தல்(கிரேக்க)"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "இலவசகளம் சாலிடேர்"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "பிறபலமான இலவசகளம் சீட்டு விளையாட்டை விளையாடு"
+
+#~ msgid "Window Manager"
+#~ msgstr "சாளரமேலாளர்"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr "இந்தோனிசிய மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "gவரைவியல்"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "குேனாம் வடிவமைப்பு தொகுப்பான்"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr "சீன மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "தானியங்கி தூண்டி"
+
+#~ msgid "Create images and edit photographs"
+#~ msgstr "பிம்பங்களை உருவாக்கவும் மற்றும் படங்களை திருத்தவும்"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "படிம தொகுப்பான்"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "டெட்ரி-போன்ற விளையாட்டு"
+
+#~ msgid "XFig"
+#~ msgstr "படங்காட்டி"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "பிழை அறிவிப்புக் கருவி"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "க்நோம் சார்ந்த பயன்பாட்டில் வழு அறிக்கை"
+
+#~ msgid "Breakout-style arcade game"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreak-விளையாட்டு"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "வைரக்கல்-விளையாட்டு"
+
+#~ msgid "Lights Off"
+#~ msgstr "விளக்குகளை அணையுங்கள்"
+
+#~ msgid "Turn off all the lights"
+#~ msgstr "அனைத்து விளக்குகளையும் அணையுங்கள்"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr "சுவிடிசு மொழியில் எப்படிச் செய்தல் உதவித்ெதாகுப்பு"
+
+#~ msgid "Import into F-Spot"
+#~ msgstr "F-Spotல் இறக்கவும்"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "ஓபன்ஆபிஸ்-ஓவியன்"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "சிக்கல் அறையில் புழுவுக்கு வழிகாட்டவும்"
+
+#~ msgid "Nibbles"
+#~ msgstr "நிபில்ஸ்"
+
+#~ msgid "Atomix"
+#~ msgstr "அட்டாமிக்ச்"
+
+#~ msgid "Filelight"
+#~ msgstr "போலிசு"
+
+#~ msgid "Services"
+#~ msgstr "சேவைகள்"
+
+#~ msgid "Automatic Bug Reporting Tool"
+#~ msgstr "தானியக்க பிழை அறிக்கையிடும் கருவி"
+
+#~ msgid "Camorama Webcam Viewer"
+#~ msgstr "Camorama Å¨ÄôÀ¼ì¸ÕÅ¢ À¡÷¨ÅÂ¡Ç÷ ¸¡ðÊ"
+
+#~ msgid "View, alter and save images from a webcam"
+#~ msgstr "Å¨ÄôÀ¼ì¸ÕÅ¢யில் இருக்கும் பிம்ப பார்க்க, மாற்ற மற்றும் சேமிக்கலாம்"
+
+#~ msgid "Enigma"
+#~ msgstr "எனிக்மா"
+
+#~ msgid "ICC Profile Installer"
+#~ msgstr "ஐசிசி  வரையுரு நிறுவி "
+
+#~ msgid "ICC profile installer"
+#~ msgstr "ஐசிசி  வரையுரு நிறுவி"
+
+#~ msgid "Install ICC profiles"
+#~ msgstr "ஐசிசி  வரையுருக்களை நிறுவு"
+
+#~ msgid "Color Profiles"
+#~ msgstr "நிற  வரையுருக்கள் "
+
+#~ msgid "Manage ICC color profiles"
+#~ msgstr "ஐசிசி  நிற வரையுருக்களை மேலாளுக"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "ஜிகாம்ப்ரிக்கு நிர்வாகம்"
+
+#~ msgid "GCompris Administration"
+#~ msgstr "ஜிகாம்ப்ரி நிர்வாகம்"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "2 முதல் 10 வயதான குழந்தைகளுக்கு கல்வி விளையாட்டுகள்."
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "ஜிகாம்ப்ரி கல்வி தொகுதி"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr "கற்பிக்கும் பல் வித செயல்கள்"
+
+#~ msgid "Network Tools"
+#~ msgstr "வலைப்பின்னல் கருவிகள்"
+
+#~ msgid "View information about your network"
+#~ msgstr "வலைப்பின்னல் குறித்த தகவலை பார்க்க"
+
+#~ msgid "Personal File Sharing"
+#~ msgstr "தனிப்பட்ட கோப்பு பகிர்தல்"
+
+#~ msgid "Preferences for sharing of files"
+#~ msgstr "கோப்புகள் பகிர்வதில் விருப்பங்கள் "
+
+#~ msgid "Gnote"
+#~ msgstr "Gnote"
+
+#~ msgid "IBus Preferences"
+#~ msgstr "IBus முன்னுரிமைகள்"
+
+#~ msgid "Set IBus Preferences"
+#~ msgstr "IBus முன்னுரிமைகளை அமை"
+
+#~ msgid "IBus"
+#~ msgstr "IBus"
+
+#~ msgid "Input Method Framework"
+#~ msgstr "உள்ளீடு முறை ஃபிரேம்வொர்க்"
+
+#~ msgid "Start IBus Input Method Framework"
+#~ msgstr "IBus உள்ளீடு முறை ஃபிரேம்வொர்க்கை துவக்கு"
+
+#~ msgid "View disk usage information"
+#~ msgstr "வட்டுப் பாவனை காட்டி"
+
+#~ msgid "KDiff3"
+#~ msgstr "கேடிஃப்3"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "நானய மதிப்பை மாற்றன் மற்றும் கணிப்பான்"
+
+#~ msgid "Database Creator"
+#~ msgstr "தரவுத்தளம் உருவாக்கி"
+
+#~ msgid "Kile"
+#~ msgstr "கயில்"
+
+#~ msgid "LaTeX Frontend"
+#~ msgstr "(லா)டெக்ஸ்  "
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "MSN நிரல்"
+
+#~ msgid "Network Monitor"
+#~ msgstr "திரையங்கப் பிணையம்"
+
+#~ msgid "Krecipes"
+#~ msgstr "கிளிக்கர்"
+
+#~ msgid "The KDE Cooking Book"
+#~ msgstr "KDE சமைக்குக்ம் புத்தகம்"
+
+#~ msgid "Application for Drawing and Handling of Images"
+#~ msgstr "பிம்பங்களை கையாளுதல் மற்றும் வரைதலுக்கான பயன்னாடு"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "ஒரு கேடி கேபகுதி பயன்பாடு"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "அபுயூஸ்- விளையாட்டு"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "Ermixer"
+#~ msgstr "Eஒலிகலப்பான்"
+
+#~ msgid "Gphone"
+#~ msgstr "gதொலைபேசி"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "கோப்புகளை ேதடுங்கருவி"
+
+#~ msgid "Gvu"
+#~ msgstr "PDFபார்ைவயாளர்"
+
+#~ msgid "MadBomber"
+#~ msgstr "Bomber-விளையாட்டு"
+
+#~ msgid "MASConf"
+#~ msgstr "MASவடிவமைப்பு"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Maitretarot மின்னஞ்சல்"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "விளையாட்டு"
+
+#~ msgid "News reader"
+#~ msgstr "செய்தியஞ்சல்"
+
+#~ msgid "Panel Manager"
+#~ msgstr "பலகை மேளாலர்:"
+
+#~ msgid "Mash monsters and save the gnomes"
+#~ msgstr "அரக்கர்களை நொருக்கி கனோம்களைக் காப்பாற்று"
+
+#~ msgid "Monster Masher"
+#~ msgstr "மான்ஸ்டர் மேஷர்"
+
+#~ msgid "Add items to the Nautilus popup menu"
+#~ msgstr "நாடுலஸ் துள்ளு  பட்டியலுக்கு உருப்படிகளை சேர்"
+
+#~ msgid "Nautilus Actions Configuration"
+#~ msgstr "நாடுலஸ் செயல்கள் வடிவமைப்பு"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "வலைப்பின்னல் சாதனம் மற்றும் இணைப்பை அமைக்கவும்"
+
+#~ msgid "Manage and change your network connection settings"
+#~ msgstr "உங்களின் பிணைய இணைப்பு அமைவுகளை மேலாண்மை மற்றும் மாற்றவும்"
+
+#~ msgid "Network Connections"
+#~ msgstr "பிணைய இணைப்புகள்"
+
+#~ msgid "Decrypt File"
+#~ msgstr "கோப்பை மறைவிலக்குக"
+
+#~ msgid "Import Key"
+#~ msgstr "விசையை இறக்குமதி செய்க"
+
+#~ msgid "Configure key servers and other encryption settings"
+#~ msgstr "விசை சேவையகங்கள் மற்றும் மற்ற மறையாக்க அமைப்புகளை வடிவமை"
+
+#~ msgid "Encryption and Keyrings"
+#~ msgstr "மறையாக்கம் மற்றும் விசைவளையங்கள்"
+
+#~ msgid "Verify Signature"
+#~ msgstr "கையொப்பத்தை சரி பார்க்கவும்"
+
+#~ msgid "Manage your passwords and encryption keys"
+#~ msgstr "உங்கள் கடவுச்சொற்கள் மற்றும் மறையாக்க விசைகளை மேலாளுங்கள்"
+
+#~ msgid "Passwords and Encryption Keys"
+#~ msgstr "கடவுச்சொற்கள் மற்றும் மறையாக்க விசைகள்"
+
+#~ msgid "Configure which services will be run when the system starts"
+#~ msgstr "கணினி துவங்கும் போது இயக்கப்பட வேண்டிய சேவைகளை அமைக்கவும்"
+
+#~ msgid "Configure which folders are available for your network neighborhood"
+#~ msgstr "உங்கள் வலையமைப்பு அண்டை வீட்டுகாரர்களுக்கு எந்த அடைவுகள் கிடைக்கும் என வடிவமை"
+
+#~ msgid "Shared Folders"
+#~ msgstr "பகிரப்பட்ட அடைவுகள்"
+
+#~ msgid "Play Adobe Flash files"
+#~ msgstr "அடோபி ப்ளாஷ் கோப்புகளை இயக்கு"
+
+#~ msgid "Swfdec Flash Player"
+#~ msgstr "Swfdec ப்ளாஷ் இயக்கி"
+
+#~ msgid "Change the default Java toolset"
+#~ msgstr "முன்னிருப்பு ஜாவா டூல்செட்டை மாற்று"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "கணினி நேரம், தேதி மற்றும் இடத்திற்கேற்ப நேரம் இவைகளை மாற்றவும்"
+
+#~ msgid "Time and Date"
+#~ msgstr "தேதி மற்றும் நேரம்"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "ÌÆó¨¾¸Ùì¸¡É ´Õ Å¨ÃÔõ ¦ºÂÄ¢"
+
+#~ msgid "Users and Groups"
+#~ msgstr "பயனீட்டாளர்கள் மற்றும் குழுக்கள்"
+
+#~ msgid "Manage virtual machines"
+#~ msgstr "மெய்நிகர் கணினிகளை மேலாளவும்"
+
+#~ msgid "Virtual Machine Manager"
+#~ msgstr "மெய்நிகர் கணினி மேலாளர்"
+
+#~ msgid "Chat with people using IRC"
+#~ msgstr "மக்களுடன் ஐஆர்சி ஐ பயன்படுத்தி அரட்டை அடி"
+
+#~ msgid "XChat-GNOME IRC Chat"
+#~ msgstr "எக்ஸ்சாட் க்னோம் ஐஆர்சி அரட்டை"
+
+#~ msgid "Customize the panel settings"
+#~ msgstr "நிரல்பலகை அமைப்பை தன்விருப்பமாற்றம் செய்க"
+
+#~ msgid "Run Program..."
+#~ msgstr "இன்நிரலை இயக்குக..."

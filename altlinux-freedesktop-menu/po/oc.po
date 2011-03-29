@@ -1,0 +1,1435 @@
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/oc.php3
+#
+#
+#
+# Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>, 2001
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-message 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2000-10-07 00:14+02:00\n"
+"Last-Translator: Nobody\n"
+"Language-Team: OCCITAN <laborde@crpp.u-bordeaux.fr>\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafics"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Logicials grafics"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafics"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Logicials grafics"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Jòcs e divertiments"
+
+msgid "Accessibility"
+msgstr "Accessibilitat"
+
+#, fuzzy
+msgid "Action"
+msgstr "Educacion"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Administracion"
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Aplicacions"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Aplicacions"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+#, fuzzy
+msgid "Arcade"
+msgstr "Orca"
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Gestionari d'archius"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Media Player"
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Jòcs de cartas"
+
+msgid "Boards"
+msgstr ""
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Calculadora"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Calculadora"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Jòcs de cartas"
+
+#, fuzzy
+msgid "Cards"
+msgstr "Jòcs de cartas"
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr ""
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "Aplicacions"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "Ordenador"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Ordenador"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Editor de configuracion"
+
+#, fuzzy
+msgid "Construction"
+msgstr "Administracion"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+#, fuzzy
+msgid "Databases"
+msgstr "Basa de donadas"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Aplicacions"
+
+msgid "Desktop"
+msgstr "BurèU"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Desvelopament"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "Logicial de dessenh"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Diccionari"
+
+msgid "Dictionary"
+msgstr "Diccionari"
+
+msgid "Disc burning"
+msgstr ""
+
+#, fuzzy
+msgid "Documentation"
+msgstr "Navegaire de documentacin"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "Editors"
+
+msgid "Education"
+msgstr "Educacion"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Metacity"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Editor Emacs"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Logicials grafics"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "Calculadora"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Gestionari de fiquièrs"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sistemo"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Gestionari de fiquièrs"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Espleches sistèma"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Otilhs de text"
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+#, fuzzy
+msgid "GNOME"
+msgstr "GNOME-Mud"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Dessinador Qt"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Logicials grafics"
+
+msgid "Games"
+msgstr "Jogs"
+
+msgid "Games and amusements"
+msgstr "Jòcs e divertiments"
+
+msgid "Games for Kids"
+msgstr ""
+
+#, fuzzy
+msgid "Geography"
+msgstr "KGeography"
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Sciéncia"
+
+msgid "Geoscience software"
+msgstr ""
+
+#, fuzzy
+msgid "Geosciences"
+msgstr "Sciéncia"
+
+msgid "Graphics"
+msgstr "Grafics"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Material"
+
+msgid "History"
+msgstr ""
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Aplicacions"
+
+msgid "IRC"
+msgstr ""
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "Client IRC"
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Internet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Aplicacions preferidas"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Lengas"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Jogs"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Matematicas"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "KMix"
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Multimèdia"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Media Player"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Multimèdia"
+
+#, fuzzy
+msgid "Music"
+msgstr "RatolÃ­"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Resèu"
+
+msgid "Network-related settings"
+msgstr "Paramètres en relacion amb la ret"
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Burèu"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Autres"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Desvolopament"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Aplicacions preferidas"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Preferenças"
+
+msgid "Personal"
+msgstr "Personal"
+
+#, fuzzy
+msgid "Photography"
+msgstr "KGeography"
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Preferenças"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Presentacion"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Presentacion"
+
+msgid "Printing"
+msgstr "Estampatge"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "Gestion de projècte"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Gestion de projècte"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafics"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Logicials grafics"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "Burèu distant"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Contraròtle de volum"
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "Sciéncia"
+
+msgid "Screensavers"
+msgstr "Estalviaires d'ecran"
+
+#, fuzzy
+msgid "Security"
+msgstr "Metacity"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Otilhs de text"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Estalviaires d'ecran"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Educacion"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Son"
+
+msgid "Sports"
+msgstr ""
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Jòcs de cartas"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Fuèlha de calcul"
+
+msgid "Strategy"
+msgstr ""
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "PocJog"
+
+msgid "System"
+msgstr "Sistemo"
+
+msgid "System settings"
+msgstr "Paramètres del sistèma"
+
+#, fuzzy
+msgid "TV"
+msgstr "OnTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Logicials grafics"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Aplicacions"
+
+msgid "Telephony"
+msgstr ""
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Otilhs de text"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Seleccionatz vòstras aplicacions per defaut"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Terminal"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Otilhs de text"
+
+msgid "Text tools"
+msgstr "Otilhs de text"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#, fuzzy
+msgid "Tools"
+msgstr "Otilhs de text"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Espleches per desvolopar de logicials"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Seleccionatz vòstras aplicacions per defaut"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Seleccionatz vòstras aplicacions per defaut"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Joguines"
+
+msgid "Translation"
+msgstr "Revirada"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "Revirada"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafics"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Logicials grafics"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Preferenças"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Reproductor de video"
+
+msgid "Video Recorders"
+msgstr ""
+
+#, fuzzy
+msgid "Viewers"
+msgstr "Visualizaira d'imatges"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Navegaire web"
+
+msgid "Web Development"
+msgstr "Desvolopament web"
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Tractament de tèxt"
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Logicial de messatjariá"
+
+#~ msgid "-> All Applications"
+#~ msgstr "Aplicacions"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Diverses"
+
+#~ msgid "Utilities"
+#~ msgstr "Utilitats"
+
+#~ msgid "Information"
+#~ msgstr "Infòrmacion"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Preferéncias personalas"
+
+#~ msgid "Accessories"
+#~ msgstr "Accessòris"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Accessòris del burèu"
+
+#~ msgid "Peripherals"
+#~ msgstr "Periferics"
+
+#~ msgid "File"
+#~ msgstr "Fichièr"
+
+#~ msgid "Personal settings"
+#~ msgstr "Paramètres personals"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "Tèmas d'estalviaire d'ecran"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Configuracion e susvelhança del sistèma"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Paramètres per d'unes periferics materials"
+
+#~ msgid "KDE Menu"
+#~ msgstr "Menut KDE"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Preferéncias personalas e paramètres del sistèma"
+
+#~ msgid "Universal Access"
+#~ msgstr "Accès universal"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Son e vidèo"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Internet e ret"
+
+#~ msgid "Control Center"
+#~ msgstr "Centre de control"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr ""
+#~ "Logicials per accedir a internet, coma lo web o los messatges electronics"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Logicials que dintran pas dins las autras categorias"
+
+#~ msgid "Office Applications"
+#~ msgstr "Logicials pel burèu"
+
+#~ msgid "Tali"
+#~ msgstr "Tali"
+
+#~ msgid "Five or More"
+#~ msgstr "Cinc o mai"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Cercamines"
+
+#~ msgid "System Monitor"
+#~ msgstr "Monitor sistèma"
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "IM Client"
+#~ msgstr "Client de messatjariá instantanèa"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Configurar la politica de varrolhatge"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Editor de varrolhs"
+
+#~ msgid "About Me"
+#~ msgstr "A prepaus de ieu"
+
+#~ msgid "Set your personal information"
+#~ msgstr "Definir vòstras informaciones personalas"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "Crear e copiar de CD e de DVD"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "Modificar las aplicacions visualizadas dins lo menut principal"
+
+#~ msgid "Main Menu"
+#~ msgstr "Menut principal"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Inserir de caractèrs especials dins vòstres documents"
+
+#~ msgid "Appearance"
+#~ msgstr "Aparença"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "Personalizar l'aparéncia del burèu"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "Localizar de documents e de repertòris sus aqueste ordenador per nom o "
+#~ "per contengut"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Recèrcar de fichièrs..."
+
+#~ msgid "Panel"
+#~ msgstr "Panèl"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Clavièr virtual"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "Creator de CD/DVD"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "Crear de CD e de DVD"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Klotski"
+#~ msgstr "Klotski"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "Explorar los emplaçaments dins los favorits e la ret locala"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "Establir e modificar de perfils pels utilizaires"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "Editor de perfil d'utilizaire"
+
+#~ msgid "Text Editor"
+#~ msgstr "Editor de tèxt"
+
+#~ msgid "OpenOffice.org"
+#~ msgstr "OpenOffice.org"
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "Examinar e pivotar los imatges"
+
+#~ msgid "Change resolution and position of monitors"
+#~ msgstr "Modificar la resolucion e la posicion dels ecrans"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid "Devhelp"
+#~ msgstr "Devhelp"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Explorar lo sistèma de fichièrs amb lo gestionari de fichièrs"
+
+#~ msgid "File Browser"
+#~ msgstr "Navegaire de fichièrs"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "Installar los paquets de tèmas per las divèrsas partidas del burèu"
+
+#~ msgid "Theme Installer"
+#~ msgstr "Installaire de tèma"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Obténer d'ajuda amb GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Ajuda"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "Espleches d'accessibilitat"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr ""
+#~ "Causida de las foncionalitats d'accessibilitat d'activar al moment de la "
+#~ "connexion"
+
+#~ msgid "Glade 3"
+#~ msgstr "Glade 3"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Visualizaire de documents"
+
+#~ msgid "Home Folder"
+#~ msgstr "Repertòri personal"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Dobrir vòstre repertòri personal"
+
+#~ msgid "Tetravex"
+#~ msgstr "Tetravex"
+
+#~ msgid "Configure PalmOS devices"
+#~ msgstr "Configurar los periferics PalmOS"
+
+#~ msgid "PalmOS Devices"
+#~ msgstr "Periferics PalmOS"
+
+#~ msgid "Access remote desktops"
+#~ msgstr "Accedir a de burèus distants"
+
+#~ msgid "Search"
+#~ msgstr "Recercar"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Repertòri d'imatges"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "Explorar totes los discs e repertòris locals e distants que son "
+#~ "accessibles a partir de l'ordenador"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Favorits web"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Home"
+#~ msgstr "Inici"
+
+#~ msgid "Personal Files"
+#~ msgstr "FiquièRs personals"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "Feed Reader"
+#~ msgstr "Legidor de fluses"
+
+#~ msgid "KJots"
+#~ msgstr "Anotador"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Potato Guy"
+
+#~ msgid "Card Game"
+#~ msgstr "Jòc de cartas"
+
+#~ msgid "CD Player"
+#~ msgstr "Reproductor de CD"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsole"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgid "Change Password"
+#~ msgstr "Canvi de contrasenha"
+
+#~ msgid "Distributed IRC client with central core component"
+#~ msgstr "Client IRC distribuit amb component essencial centralizat"
+
+#~ msgid "Quassel IRC"
+#~ msgstr "Quassel IRC"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Quassel IRC (Client only)"
+#~ msgstr "Quassel IRC (client unicament)"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "Step"
+#~ msgstr "Pas"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Editor de menu"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Legidor de musica"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Formatador de disquet"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Acorchis de clavièr"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Dessinador d'interfacies Qt"
+
+#~ msgid "Formula"
+#~ msgstr "Formula"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Mat"
+
+#~ msgid "Screensaver"
+#~ msgstr "Salvador d'ecrans"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Definir vòstras preferéncias pel estalviaire d'ecran"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "Comptabilitat personala, liura, aisida, per cadun."
+
+#~ msgid "HomeBank"
+#~ msgstr "HomeBank"
+
+#~ msgid "Open Folder"
+#~ msgstr "Dobrir un repertòri"
+
+#~ msgid "Transmission"
+#~ msgstr "Transmission"
+
+#~ msgid "Use the command line"
+#~ msgstr "Utilizar la linha de comandas"
+
+#~ msgid "Windows"
+#~ msgstr "Fenèstras"
+
+#~ msgid "Power Management"
+#~ msgstr "Gestion de l'alimentacion"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "Solitari AisleRiot"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Apondre o suprimir d'utilizaires o de grops"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Nòtas Tomboy"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Crear e modificar un archiu"
+
+#~ msgid "Create and edit Web pages by using Writer."
+#~ msgstr "Crear e modificar de paginas web amb Writer."
+
+#~ msgid "OpenOffice.org Writer/Web"
+#~ msgstr "OpenOffice.org Writer/Web"
+
+#~ msgid "Web Page Creation"
+#~ msgstr "Creacion de paginas web"
+
+#~ msgid "About GNOME"
+#~ msgstr "A prepaus de GNOME"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Aprene mai de GNOME"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Teclat"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Definir los paramètres de vòstre clavièr"
+
+#~ msgid "Mahjongg"
+#~ msgstr "Mahjongg"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Configurar la mirga"
+
+#~ msgid "Cheese"
+#~ msgstr "Cheese"
+
+#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
+#~ msgstr ""
+#~ "Prenètz de fotografias e de vidèos amb vòstra webcam amb d'efièches "
+#~ "grafics risolièrs"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Writer"
+
+#~ msgid "OpenOffice.org Base"
+#~ msgstr "OpenOffice.org Basa"
+
+#~ msgid "Dasher"
+#~ msgstr "Dasher"
+
+#~ msgid "Enter text without a keyboard"
+#~ msgstr "Picar de tèxt sens clavièr"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "Picada de tèxt predictiva"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "L'esplech de configuracion de GNOME"
+
+#~ msgid "Pan Newsreader"
+#~ msgstr "Legidor de novèlas Pan"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Legir las novèlas de Usenet"
+
+#~ msgid "Perform arithmetic, scientific or financial calculations"
+#~ msgstr "Efectua de calculs aritmetics, scientifics o financièrs"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "Modifica lo compòrtament"
+
+#~ msgid "File Management"
+#~ msgstr "Gestion de fichièrs"
+
+#~ msgid "Edit text files"
+#~ msgstr "Editar de fichièrs tèxt"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "Solitari FreeCell"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Jogatz a Freecell, lo jòc de cartas popular"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Editar directament tota vòstra basa de donadas de configuracion"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "Demanda d'execucion automatica"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Esplech de rapòrt d'anomalias"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "Rapòrta una anomalia dins las aplicacions basadas sus GNOME"
+
+#~ msgid "Drawing"
+#~ msgstr "Dessenh"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Dessenh"
+
+#~ msgid "Nibbles"
+#~ msgstr "Nibbles"
+
+#~ msgid "KOffice"
+#~ msgstr "KOffice"
+
+#~ msgid "KPlato"
+#~ msgstr "KPlato"
+
+#~ msgid "KMid"
+#~ msgstr "KMid"
+
+#~ msgid "A dock-like window navigator."
+#~ msgstr "Una barra dels prètzfaches de tipe « Dock »"
+
+#~ msgid "Avant Window Navigator"
+#~ msgstr "Abans Window Navigator"
+
+#~ msgid "Awn Settings"
+#~ msgstr "Preferéncias d'Awn"
+
+#~ msgid "Manage Awn preferences, launchers, applets and themes"
+#~ msgstr ""
+#~ "Permet de gerir las preferéncias, los aviadors, las applets e los tèmas "
+#~ "Awn"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Feed reader"
+#~ msgstr "Legidor de fluses"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "Administrar gcompris"
+
+#~ msgid "Glom"
+#~ msgstr "Glom"
+
+#~ msgid "Customize your GNOME desktop"
+#~ msgstr "Customizatz vòstre burèu GNOME"
+
+#~ msgid "GNOME Commander"
+#~ msgstr "GNOME Commander"
+
+#~ msgid "Configure your printers"
+#~ msgstr "Configurar vòstras estampairas"
+
+#~ msgid "Network Tools"
+#~ msgstr "Espleches ret"
+
+#~ msgid "GParted"
+#~ msgstr "GParted"
+
+#~ msgid "KThesaurus"
+#~ msgstr "KThesaurus"
+
+#~ msgid "FTP Client"
+#~ msgstr "Client FTP"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Escotar vòstra musica"
+
+#~ msgid "Add items to the Nautilus popup menu"
+#~ msgstr "Apondre d'elements al menut contextual de Nautilus"
+
+#~ msgid "Nautilus Actions Configuration"
+#~ msgstr "Configuracion de las accions de Nautilus"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "Configurar las interfaces ret e las connexions"
+
+#~ msgid "Network Connections"
+#~ msgstr "Connexions ret"
+
+#~ msgid "NTFS Configuration Tool"
+#~ msgstr "Esplech de configuracion de NTFS"
+
+#~ msgid "Import Key"
+#~ msgstr "Importar una clau"
+
+#~ msgid "Services"
+#~ msgstr "Servicis"
+
+#~ msgid "Shared Folders"
+#~ msgstr "Repertòris partejats"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "Cambiar la data, l'ora e lo fus orari"
+
+#~ msgid "Time and Date"
+#~ msgstr "Ora e data"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Users and Groups"
+#~ msgstr "Utilizaires e grops"

@@ -1,0 +1,3449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michel Nédélec <mnedeleg@yahoo.fr>\n"
+"Language-Team: Breton\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Breton\n"
+"X-Poedit-Country: FRANCE\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafikoù"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafikoù"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Mererezh restroù"
+
+msgid "Accessibility"
+msgstr "Monedusted"
+
+msgid "Action"
+msgstr "Birvidik"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Birvidik"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Mererezh"
+
+msgid "Adventure"
+msgstr "Troioù-kaer"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Troioù-kaer"
+
+msgid "Amateur Radio"
+msgstr "Skingomz amatour"
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Arloadoù"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Arloadoù"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "C'hoarioù tavarn"
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Astronomiezh"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Astronomiezh"
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "Bevoniezh"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Bevoniezh"
+
+msgid "Board Games"
+msgstr "C'hoarioù taolenn"
+
+msgid "Boards"
+msgstr "Kartennoù"
+
+msgid "Building"
+msgstr ""
+
+#, fuzzy
+msgid "Calculator"
+msgstr "Emulatorioù"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Emulatorioù"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "C'hoarioù Kartennoù"
+
+msgid "Cards"
+msgstr "Kartoù"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Kartenn"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Kimiezh"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Kimiezh"
+
+#, fuzzy
+msgid "Clock"
+msgstr "Blok"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Kehentiñ"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Stlenneg"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Skiantoù an douar"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Kehentiñ"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "Stlennvonioù"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Arloadoù"
+
+msgid "Desktop"
+msgstr "Gorretaol"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Diorren"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr "Geriadur"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Teuliadur"
+
+msgid "Economy"
+msgstr "Armerzh"
+
+msgid "Editors"
+msgstr "Aozerioù"
+
+msgid "Education"
+msgstr "Deskadurezh"
+
+msgid "Electricity"
+msgstr "Tredan"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr "Elektronik"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Arloadoù"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Emulatorioù"
+
+msgid "Engineering"
+msgstr "Ijinouriezh"
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Blok"
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Mererezh restroù"
+
+msgid "File Systems"
+msgstr "Reizhiadoù restroù"
+
+msgid "File Transfer"
+msgstr "Treuzkas restroù"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+msgid "GUI designer applications"
+msgstr ""
+
+msgid "Games"
+msgstr "C'hoarioù"
+
+msgid "Games and amusements"
+msgstr "C'hoarioù ha diduelloù"
+
+msgid "Games for Kids"
+msgstr "C'hoarioù evit ar Bugale"
+
+msgid "Geography"
+msgstr "Douaroniezh"
+
+#, fuzzy
+msgid "Geology"
+msgstr "Bevoniezh"
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr "Skiantoù an douar"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Skiantoù an douar"
+
+msgid "Geosciences"
+msgstr "Skiantoù an douar"
+
+msgid "Graphics"
+msgstr "Grafikoù"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Periantoù"
+
+msgid "History"
+msgstr "Istor"
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Arloadoù"
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Kenrouedad"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Arloadoù"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Yezhoù"
+
+msgid "Literature"
+msgstr "Lennegezh"
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "C'hoarioù"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Jedoniezh"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Diskwelerioù"
+
+msgid "Monitoring"
+msgstr "Monitor"
+
+msgid "Multimedia"
+msgstr "Liesvedia"
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Rouedad"
+
+msgid "Network-related settings"
+msgstr "Kefluniadur ar Rouedad"
+
+#, fuzzy
+msgid "News"
+msgstr "Keleier"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+#, fuzzy
+msgid "Numeric Analysis"
+msgstr "Dielfennadur roadennoù"
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Burev"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "All"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Diorren"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Mererezh ar pakadoù"
+
+msgid "Packaging"
+msgstr "Pakadiñ"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Personal"
+msgstr "Personel"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Fizik"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Fizik"
+
+msgid "Preferences"
+msgstr "Dibaboù gwellañ"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr "Moullañ"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "Mererezh mennadoù"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Mererezh mennadoù"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafikoù"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "Beilh"
+
+msgid "Science"
+msgstr "Skiant"
+
+msgid "Screensavers"
+msgstr "Damanteroù skramm"
+
+msgid "Security"
+msgstr "Surentez"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Surentez"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Dibarzhoù"
+
+msgid "Simulation"
+msgstr "Drevezerezh"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Drevezerezh"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Son"
+
+msgid "Sports"
+msgstr "Sportoù"
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "Strategiezh"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Strategiezh"
+
+msgid "System"
+msgstr "Reizhiad"
+
+msgid "System settings"
+msgstr "Kefluniañ ar reiziad"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr "Skinwell ha skingomz"
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Skinwell ha skingomz"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Arloadoù"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Emulatorioù termenell"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Emulatorioù termenell"
+
+msgid "Text tool utilities"
+msgstr ""
+
+msgid "Text tools"
+msgstr "Binvioù skrid"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Ostilhoù"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "C'hoariell"
+
+msgid "Translation"
+msgstr "Troidigezh"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafikoù"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Diskwelerioù"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr "Diskwelerioù"
+
+msgid "Web Browsing"
+msgstr "Kenrouedad"
+
+msgid "Web Development"
+msgstr "Diorren kenrouedad"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Data Management"
+#~ msgstr "Mererezh roadennoù"
+
+#~ msgid "Mobile Devices"
+#~ msgstr "Periantoù hezoug"
+
+#~ msgid "Medicine"
+#~ msgstr "Medisinerezh"
+
+#~ msgid "Social"
+#~ msgstr "Sokial"
+
+#~ msgid "Shells"
+#~ msgstr "Shells"
+
+#~ msgid "Language Environment"
+#~ msgstr "Endro yezh"
+
+#~ msgid "Text"
+#~ msgstr "Testenn"
+
+#~ msgid "Puzzles"
+#~ msgstr "Puzzles"
+
+#~ msgid "Help"
+#~ msgstr "Skoazell"
+
+#~ msgid "Window Managers"
+#~ msgstr "Merour prenestroù"
+
+#~ msgid "FVWM Modules"
+#~ msgstr "Modulennoù FVWM"
+
+#~ msgid "Window Maker"
+#~ msgstr "Window Maker"
+
+#~ msgid "Appearance"
+#~ msgstr "Tres"
+
+#~ msgid "WorkSpace"
+#~ msgstr "Takad labour"
+
+#~ msgid "Iceape Components"
+#~ msgstr "Parzhioù Iceape"
+
+#~ msgid "Teddies"
+#~ msgstr "Grognonenn"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> An holl arloadoù"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Petra a zo da ober ?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Deskadurezh"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "A bep seurt"
+
+#~ msgid "Utilities"
+#~ msgstr "Mavegoù"
+
+#~ msgid "Backups"
+#~ msgstr "Dielloù"
+
+#~ msgid "Bootstrapping"
+#~ msgstr "Loc'hañ"
+
+#~ msgid "Network bootstrapping"
+#~ msgstr "Loc'hañ gant ar rouedad"
+
+#~ msgid "Multiboot"
+#~ msgstr "Liesloc'hañ"
+
+#~ msgid "Generic Linux Documentation"
+#~ msgstr "Teuliadur Linux hollek"
+
+#~ msgid "Input hardware"
+#~ msgstr "Periantel enkas"
+
+#~ msgid "Grahical hardware"
+#~ msgstr "Periantel grafik"
+
+#~ msgid "Installation"
+#~ msgstr "Staliadur"
+
+#~ msgid "Kiosk"
+#~ msgstr "Kiosk"
+
+#~ msgid "Network connection"
+#~ msgstr "Kevreadenn rouedad"
+
+#~ msgid "VPN"
+#~ msgstr "VPN"
+
+#~ msgid "Network configuration"
+#~ msgstr "Kefluniadur ar rouedad"
+
+#~ msgid "Network clients"
+#~ msgstr "Pratikoù rouedad"
+
+#~ msgid "Network servers"
+#~ msgstr "Servijerien rouedad"
+
+#~ msgid "Programming"
+#~ msgstr "Gouleviñ"
+
+#~ msgid "Servers"
+#~ msgstr "Servijerien"
+
+#~ msgid "X Window"
+#~ msgstr "X Window"
+
+#~ msgid "Subscribe"
+#~ msgstr "Enskrivañ"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "Kefluniañ hoc'h urzhiataer"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "Mavegoù X Window"
+
+#~ msgid "X-Utilities"
+#~ msgstr "Mavegoù X"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Barek"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Kelfuniadur barek"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Kollet & kavet"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Brezelekaouriezh ha kadouriezh"
+
+#~ msgid "Information"
+#~ msgstr "Titouroù"
+
+#~ msgid "More"
+#~ msgstr "Mui"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Pezh a blij deoc'h ar muiañ"
+
+#~ msgid "Accessories"
+#~ msgstr "Reizh"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Mavegoù ar burev"
+
+#~ msgid "Networking"
+#~ msgstr "Rouedad"
+
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgid "Science & Math"
+#~ msgstr "Skiant ha Jedoniel"
+
+#~ msgid "Peripherals"
+#~ msgstr "Trobarzhelloù"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Neuz ha feson"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Arventennoù a reol neuz ar burev hag e emzalc'h"
+
+#~ msgid "File"
+#~ msgstr "Restr"
+
+#~ msgid "Personal settings"
+#~ msgstr "Keflunidur din"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "Neuzioù an damanter skramm"
+
+#~ msgid "System Tools"
+#~ msgstr "Binvioù reizhiad"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Neuziadur hag eveshaerezh ar reizhiad"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Arventennoù evit meur a drobarzhell"
+
+#~ msgid "KDE Menu"
+#~ msgstr "Meuziad KDE"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Pezh a blij deoc'h ar muiañ ha neuziadoù ar mererezh"
+
+#~ msgid "Development Environments"
+#~ msgstr "Endro diorren"
+
+#~ msgid "Universal Access"
+#~ msgstr "Haezhiñ hollvedel"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Dibarzhioù haezhiñ hollvedel"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "Kemmañ dre vras arventennoù ar reizhiad (evit an holl arveriaded)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Son ha video"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Kenrouedad ha Rouedad"
+
+#~ msgid "Control Center"
+#~ msgstr "Kreizenn ren"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Ar poelladoù da dizhout ar Genrouedad evel web ha postelerezh"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "An arloadoù n'int ket staget ouzh ur rummad bennak all"
+
+#~ msgid "Office Applications"
+#~ msgstr "Arloadoù bureveg all"
+
+#~ msgid ".hidden"
+#~ msgstr ".hidden"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Ne lemit ket pe ne gemmit ket mar plij"
+
+#~ msgid "XCam"
+#~ msgstr "XCam"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Bremañaat Mandriva Linux"
+
+#~ msgid "Tali"
+#~ msgstr "Tali"
+
+#~ msgid "Audacity"
+#~ msgstr "Audacity"
+
+#~ msgid "MIDI file player"
+#~ msgstr "Ur soner a restr MIDI"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Divinour"
+
+#~ msgid "XScanImage"
+#~ msgstr "XScanImage"
+
+#~ msgid "System Monitor"
+#~ msgstr "Diskwel saviad ar reizhiad"
+
+#~ msgid "GQview"
+#~ msgstr "GQview"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Gweler ar skeudennoù"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Media Player"
+#~ msgstr "Soner liesvedia"
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "IM Client"
+#~ msgstr "Arval postelerezh prim Empathy"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Kefluniañ ar reolenn prennañ"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Prennañ an embannner"
+
+#~ msgid "CannonSmash"
+#~ msgstr "CannonSmash"
+
+#~ msgid "About Me"
+#~ msgstr "Diwar ma fenn"
+
+#~ msgid "Set your personal information"
+#~ msgstr "Lakaat ho titouroù personelaet"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "Krouiñ hag eilañ CDoù ha DVDoù"
+
+#~ msgid "Main Menu"
+#~ msgstr "Pennlañser"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Furchal ar gwiad"
+
+#~ msgid "Character Map"
+#~ msgstr "Kartenn an arrouezennoù"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Enlakaat arouezennoù dibar en dielloù"
+
+#~ msgid "Python documentation"
+#~ msgstr "Teuliadur python"
+
+#~ msgid "NetApplet"
+#~ msgstr "Arloadig rouedad"
+
+#~ msgid "Network monitoring applet"
+#~ msgstr "Arloadig o tiwall ar rouedad"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Kefluniadur Samba (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Ostilh melestradur Samba Swat"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "The Mandriva Linux manuals in French"
+#~ msgstr "Skoazhell Mandriva Linux (Galleg)"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "Personelaat an dres ar burev"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "Gwiriañ termenadurioù ha skritur gerioù dre ur geriadur enlinenn"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "Lec'hiaduriñ an teulioù hag an teuliadoù war an urzhiataer-mañ dre anv pe "
+#~ "dre endalc'had"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Klask restroù..."
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Lañsañ arloadoù all ha pourchas mavegoù liesseurt da ardeiñ ar "
+#~ "prenestroù, diskouez an eur, h.a."
+
+#~ msgid "Panel"
+#~ msgstr "Penel lankañ"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Etrefas evit rp-pppoe"
+
+#~ msgid "TkPPPoE"
+#~ msgstr "TkPPPoE"
+
+#~ msgid "Audio CD Extractor"
+#~ msgstr "Eztenner CDoù sonerezh"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "Krouerez CD/DVD"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "Krouiñ CDoù ha DVDoù"
+
+#~ msgid "Device Manager"
+#~ msgstr "Merour an trobarzhelloù"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "Ar meziantoù gwellañ karet"
+
+#~ msgid "Klotski"
+#~ msgstr "Klotski"
+
+#~ msgid "Chess"
+#~ msgstr "Echedoù"
+
+#~ msgid "Leafpad"
+#~ msgstr "Leafpad"
+
+#~ msgid "Simple text editor"
+#~ msgstr "Embanner testennou eeun"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr ""
+#~ "Furchal e-touez lec'hiadoù lec'hel ar rouedad hag ar re lakaet ur sined "
+#~ "warno"
+
+#~ msgid "F-Spot"
+#~ msgstr "F-Spot"
+
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgid "PyShell"
+#~ msgstr "PyShell"
+
+#~ msgid "Emacs"
+#~ msgstr "An aozer Emacs"
+
+#~ msgid "Text Editor"
+#~ msgstr "Aozer Skridoù"
+
+#~ msgid "Office Suite"
+#~ msgstr "Heuliad burev"
+
+#~ msgid "Control tool for Echoaudio soundcards"
+#~ msgstr "Ostilh ren evit kartennoù klevet Echoaudio"
+
+#~ msgid "Echo mixer"
+#~ msgstr "Echo mixer"
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "Enrollañ ar skeudennoù eus ho purev pe brenestroù hiniennel"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "Tennañ ur pakad skrammad"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Furchal er sistem restroù gant ar merour restroù"
+
+#~ msgid "File Browser"
+#~ msgstr "Furcher restroù"
+
+#~ msgid "ODBConfig (Root User)"
+#~ msgstr "ODBCConfig (Arveriad gwrizienn)"
+
+#~ msgid "The Mandriva Linux manuals in English"
+#~ msgstr "Skoazhell Mandriva Linux (Saozneg)"
+
+#~ msgid "IDE for Python"
+#~ msgstr "Etrefas evit Python"
+
+#~ msgid "Xmailbox"
+#~ msgstr "Xmailbox"
+
+#~ msgid "Configurator"
+#~ msgstr "Keflunier"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "Staliañ pakadoù neuz evit rannoù bennak ar burev"
+
+#~ msgid "Theme Installer"
+#~ msgstr "Staliader neuz"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Digicontrol"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "Ostilhoù moned"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr "Dibab arc'hweladurioù moned da weredekaat er mare ar gennask"
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "Gwiriañ mentoù an teuliadoù ha plas hegerz war ar gantennad"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "Dezranner arver ar c'hantennoù"
+
+#~ msgid "Interface Designer"
+#~ msgstr "Ergrafer etrefas"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Ostilh kefluniadur pratik ha servijer faks"
+
+#~ msgid "Movie Player"
+#~ msgstr "Lenner filmoù"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Lenn filmoù ha sonennoù"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Lenner dielloù"
+
+#~ msgid "Home Folder"
+#~ msgstr "Renkell Kêr"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Digeriñ ho teuliad personel"
+
+#~ msgid "Tetravex"
+#~ msgstr "Tetravex"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "Qt4 Designer"
+#~ msgstr "Ergrafer Qt4"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Diuzer ar reizhiadoù Multimedia"
+
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgid "Search"
+#~ msgstr "Klask"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Mandriva Screensaver"
+#~ msgstr "Damanter skramm Mandriva"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Teuliad ar skeudennoù"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "Al logo GNOME mont war wel tu pe du ar skramm"
+
+#~ msgid "Cosmos"
+#~ msgstr "Kosmos"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "Furchal e-touez ar c'hantennoù lec'hel hag a-bell haezadus diouzh an "
+#~ "urzhiataer-mañ"
+
+#~ msgid "Computer"
+#~ msgstr "Urzhiataer"
+
+#~ msgid "A graphical front end for browsing installed & available packages"
+#~ msgstr "Un etrefas evit sell ouzh pakadoù staliet pe staliabl"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Diskwel an douar ouzh ho purev"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Furchal hag aozañ ho sinedoù"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Sinedoù Web Epiphany"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Sinedoù Web"
+
+#~ msgid "webmin"
+#~ msgstr "webmin"
+
+#~ msgid "Menu Style Configuration"
+#~ msgstr "Kefluniañ giz ar meuziad"
+
+#~ msgid "PyCrust"
+#~ msgstr "PyCrust"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Dibaber livioù"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KColorChooser"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "Hangman Game"
+#~ msgstr "C'hoari an hini krouket"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "C'hoari an hini krouket evit KDE"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "Contact Manager"
+#~ msgstr "Merour an darempredoù"
+
+#~ msgid "KPhotoAlbum"
+#~ msgstr "KPhotoAlbum"
+
+#~ msgid "Photo Album"
+#~ msgstr "Albom foto"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "Ur gweler skeudenn eeun"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "Merour an arveriaded"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KDiñsALamm"
+
+#~ msgid "Konquest"
+#~ msgstr "KAloubadur"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Character Selector"
+#~ msgstr "Dibaber arouezenn"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Home"
+#~ msgstr "Er-gêr"
+
+#~ msgid "Personal Files"
+#~ msgstr "Restroù deoc'h"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Konversation"
+#~ msgstr "Konversation"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Paotr ar patatez"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Ostilh ar golver"
+
+#~ msgid "Klipper"
+#~ msgstr "Klipper"
+
+#~ msgid "KBattleship"
+#~ msgstr "KBattleship"
+
+#~ msgid "Card Game"
+#~ msgstr "C'hoari kartennoù"
+
+#~ msgid "CD Player"
+#~ msgstr "Soner CD"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid ""
+#~ "Manage your photographs like a professional with the power of open source"
+#~ msgstr "Mererezh ar fotoù KDE"
+
+#~ msgid "Photo Viewer and Editor"
+#~ msgstr "Gweler ar skeudennoù"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Ur klon Bomberman"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Ur gweler restr UI Ergrafer Qt"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Rannañ ar vurev"
+
+#~ msgid "Krfb"
+#~ msgstr "Krfb"
+
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "Skoazeller strollant evit KDE"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "Ur c'hoari teol a seurt gant Shisen*Sho Mahjongg"
+
+#~ msgid "Desktop Search"
+#~ msgstr "Klask ar vurev"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Ostilh enrinegadur"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Adventañ ha treiñ ar skramm"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "Mail Client"
+#~ msgstr "Kliant postel"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsole"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "Ur c'hoari taolenn Reversi"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Ur jederez skiantel"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Skoazeller renkell rouedad"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "C'hoari a habaskter"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "Font Viewer"
+#~ msgstr "Gweler Nodrezhoù"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Tresell fonksion"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Planetarium a vurev"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Merour an doug-paperoù"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "C'hoari doare Tron"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "A BitTorrent program for KDE"
+#~ msgstr "Ur programm BitTorrent evit KDE"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "Kliant BitTorrent"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Download Manager"
+#~ msgstr "Merour enkargañ"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "KGeography"
+#~ msgstr "KGeography"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Linenn Kolor"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Info Center"
+#~ msgstr "Kreizenn Titouroù"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgid "KTeaTime"
+#~ msgstr "KTeaTime"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Ar pod te"
+
+#~ msgid "Change Password"
+#~ msgstr "Kemmañ an Tremenger"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "KonsoleKalendar"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Mesker ar Son"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "Welcome"
+#~ msgstr "Degemer"
+
+#~ msgid "Configure Your Desktop"
+#~ msgstr "Kefluniañ ho purev"
+
+#~ msgid "KFileReplace"
+#~ msgstr "KFileReplace"
+
+#~ msgid "Search & Replace Tool"
+#~ msgstr "Ostilh klask hag erlec'hiañ"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "A Subversion client for KDE"
+#~ msgstr "Ur pratik Subversion evit KDE"
+
+#~ msgid "kdesvn"
+#~ msgstr "kdesvn"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Ostilh media lem-laka"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "Trash"
+#~ msgstr "Pod-lastez"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "C'hoari doare Minesweeper"
+
+#~ msgid "Board Game"
+#~ msgstr "Ur c'hoari taolenn"
+
+#~ msgid "SameGame"
+#~ msgstr "Heñvelded"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Photo Management Program"
+#~ msgstr "Mererezh ar fotoù"
+
+#~ msgid "digiKam"
+#~ msgstr "digiKam"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Aozer skrid barek"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Lenner keleier"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Aozer al lañseroù"
+
+#~ msgid "kbluetooth"
+#~ msgstr "kbluetooth"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "C'hoarier ar sonerezh"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Roudenner amzer personel"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "Servijer LIRC KDE"
+
+#~ msgid "KSystemLog"
+#~ msgstr "KSystemLog"
+
+#~ msgid "System log viewer tool"
+#~ msgstr "Ostilh Gweler kerzlevr ar reizhiad"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Klask restroù/renkelloù"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "KPPPLogview"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Merour restroù - Doare gourarveriad"
+
+#~ msgid "Kanagram"
+#~ msgstr "Kanagram"
+
+#~ msgid "KNotes"
+#~ msgstr "KNotes"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Furmader pladennig"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Berradennoù ar stokellaoueg"
+
+#~ msgid "Add urpmi media"
+#~ msgstr "Ouzhpennañ ur medium urpmi"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid "Mandriva Linux Pxelinux configurator"
+#~ msgstr "Keflunier Pxelinux evit Mandriva Linux"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Ergrafer etrefas Qt"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Lakaat an nerzh"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Kefluniañ hoc'h endro stlennvon"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "Ostilh ren evit kartennoù klevet Envy24 (ice1712)"
+
+#~ msgid "Envy24control"
+#~ msgstr "Envy24control"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in French"
+#~ msgstr "Skoazhell Mandriva Linux DrakXTools (Galleg)"
+
+#~ msgid "Screensaver"
+#~ msgstr "Damanter skramm"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Lakait dibaboù gwellañ ho tamanter skramm"
+
+#~ msgid "Open Folder"
+#~ msgstr "Digeriñ an teuliad"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Log File Viewer"
+#~ msgstr "Gweler kerzhlevroù"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "Gwelout pe deurel evezh ouzh kerzhlevrioù ar reizhiad"
+
+#~ msgid "System Regional Settings"
+#~ msgstr "Dibarzhoù lec'hel evit ar reizhiad"
+
+#~ msgid "System wide language & country configurator"
+#~ msgstr "Kefluniadur yezh hag bro ar reizhiad"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Proksi ar rouedad"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilla Thunderbird"
+
+#~ msgid "Use the command line"
+#~ msgstr "Arverañ al linenn arc'had"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "Diuziñ arloadoù da lañsañ er gevreadur"
+
+#~ msgid "Startup Applications"
+#~ msgstr "Arloadoù loc'hañ"
+
+#~ msgid "Qt4 Assistant"
+#~ msgstr "Skoazeller Qt4"
+
+#~ msgid "Preview fonts"
+#~ msgstr "Alberz an nodrezhoù"
+
+#~ msgid "Set your window properties"
+#~ msgstr "Lakait ho perzhioù prenestr"
+
+#~ msgid "Windows"
+#~ msgstr "Prenestroù"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Ar c'hoari tavarn Frozen-Bubble"
+
+#~ msgid "Notepad"
+#~ msgstr "Notepad"
+
+#~ msgid "XRCed"
+#~ msgstr "XRCed"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "Gweler DjVu"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Ouzhpennañ pe lemel tud ha strolladoù"
+
+#~ msgid "User Administration"
+#~ msgstr "Melestradur an arveriaded"
+
+#~ msgid "A translation tool for Qt4"
+#~ msgstr "Un ostil troidigezh evit Qt4"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt Linguist"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Notennoù Tomboy"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Merour diell"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Krouiñ ha daskemmañ diell"
+
+#~ msgid "Search & Indexing"
+#~ msgstr "Klask & Meneger"
+
+#~ msgid "About GNOME"
+#~ msgstr "Diwar-benn GNOME"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Deskiñ muioc'h diwar-benn GNOME"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Touchennaoueg"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Lakaat dibarzhoù ho stokellaoueg"
+
+#~ msgid "XGPS"
+#~ msgstr "XGPS"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid "PyAlaMode"
+#~ msgstr "PyAlaMode"
+
+#~ msgid "Mouse"
+#~ msgstr "Logodenn"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Lakait ho tibaboù gwellañ al logodenn"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "Skriver OpenOffice.org"
+
+#~ msgid "Database"
+#~ msgstr "Stlennvon"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Servijer Freeciv"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Lenn keleier digant Usenet"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "Kemmañ emzalc'h ha neuz presnestroù an ardoer restroù"
+
+#~ msgid "File Management"
+#~ msgstr "Merañs ar restroù"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "ODBC Configuration Tool"
+#~ msgstr "Ostilh kefluniañ CDDB"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCConfig"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Mandriva Linux packages stats"
+#~ msgstr "Stadegoù pakadoù Mandriva Linux"
+
+#~ msgid "Packages Stats"
+#~ msgstr "Stadegoù ar pakadoù"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in English"
+#~ msgstr "Skoazhell Mandriva Linux DrakXTools (Saozneg)"
+
+#~ msgid "Edit text files"
+#~ msgstr "Kemmañ restroù-skrid"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Language & country configuration"
+#~ msgstr "Kefluniadur ar yezh hag ar vro"
+
+#~ msgid "Regional Settings"
+#~ msgstr "Dibarzhoù lec'hel"
+
+#~ msgid "OProfile starter"
+#~ msgstr "Loc'her OProfile"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid "Howtos German"
+#~ msgstr "Howtos alamanek"
+
+#~ msgid "Network Center"
+#~ msgstr "Kreizenn ren rouedad"
+
+#~ msgid "System information"
+#~ msgstr "Titouroù war ar reizhiad"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "HP Sendfax"
+#~ msgstr "Kas ur faks (HP)"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "Lenn hag urzhian ho tastumadeg sonerezh"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Viewer for TeX DVI files"
+#~ msgstr "Lenner restroù TeX DVI"
+
+#~ msgid "XDVI"
+#~ msgstr "XDVI"
+
+#~ msgid "View and organize your images"
+#~ msgstr "Sellout ouzh hag aozañ ho skeudennoù"
+
+#~ msgid "gv"
+#~ msgstr "gv"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Aozer skrid hollgefridiek"
+
+#~ msgid "VI editor"
+#~ msgstr "An aozer VI"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Howtos gresiek"
+
+#~ msgid "UFRaw"
+#~ msgstr "UFRaw"
+
+#~ msgid "Configuration Editor"
+#~ msgstr "Aozer kefluniad"
+
+#~ msgid "Create and edit Scalable Vector Graphics images"
+#~ msgstr "Krouiñ hag embann skeudennoù mod SVG (Scalable Vector Graphics)"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "Pedadenn emerounit"
+
+#~ msgid "Armagetron Advanced"
+#~ msgstr "Armagetron barek"
+
+#~ msgid "Vector Graphics Drawing Tool"
+#~ msgstr "Benveg tresañ grafikoù sturiadel"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Breakout-style arcade game"
+#~ msgstr "C'hoari tavarn doare Breakout"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Ur c'hoari a seurt gant boulderdash"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Rocks n Diamonds"
+
+#~ msgid "Drawing"
+#~ msgstr "Tresañ"
+
+#~ msgid "A graphical front end for installing, removing and updating packages"
+#~ msgstr "Un etrefas evit staliañ, distaliañ ha bremañat pakadoù"
+
+#~ msgid "Install & Remove Software"
+#~ msgstr "Staliañ ha distaliañ poelladoù"
+
+#~ msgid "XKill"
+#~ msgstr "XKill"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "Accerciser"
+#~ msgstr "Accerciser"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "Bibus"
+#~ msgstr "Bibus"
+
+#~ msgid "BMPx"
+#~ msgstr "BMPx"
+
+#~ msgid "Booh"
+#~ msgstr "Booh"
+
+#~ msgid "Briquolo"
+#~ msgstr "Briquolo"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Conglomerate zo un aozer XML"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Aozañ restroù XML"
+
+#~ msgid "CoolEdit"
+#~ msgstr "CoolEdit"
+
+#~ msgid "Cream"
+#~ msgstr "Cream"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "CuteCom"
+#~ msgstr "CuteCom"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Dizraener Diskwel Roadoù"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "A GTK+ Jabber client"
+#~ msgstr "Ur flaperez Jabber e GTK+"
+
+#~ msgid "Gajim Instant Messenger"
+#~ msgstr "Flaperez Gajim"
+
+#~ msgid "Jabber IM Client"
+#~ msgstr "Flaperez Jabber"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "Ardeiñ GCompris"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "C'hoarioù kelennadel evit ar vugale etre 2 ha dek vloaz"
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "Heuliad kelennadel GCompris"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr "C'hoarioù kelennadel dre obererezhioù lies"
+
+#~ msgid "Geany"
+#~ msgstr "Geany"
+
+#~ msgid "GLightOff"
+#~ msgstr "GLightOff"
+
+#~ msgid "Gmasqdialer"
+#~ msgstr "Gmasqdialer"
+
+#~ msgid "Gnomad 2"
+#~ msgstr "Gnomad 2"
+
+#~ msgid "GNOME Do"
+#~ msgstr "Gnome Do"
+
+#~ msgid "Network Tools"
+#~ msgstr "Ostilhoù rouedad"
+
+#~ msgid "View information about your network"
+#~ msgstr "GWelout stlennoù a-zivout ho rouedad"
+
+#~ msgid "Create, reorganize, and delete partitions"
+#~ msgstr "Krouiñ, adaozañ ha dilemel ar parzhadoù"
+
+#~ msgid "GParted"
+#~ msgstr "GParted"
+
+#~ msgid "Partition Editor"
+#~ msgstr "Embanner parzhad"
+
+#~ msgid "Password Manager"
+#~ msgstr "Merour an tremengeroù"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "Graveman"
+#~ msgstr "Graveman"
+
+#~ msgid "Grsync"
+#~ msgstr "Grsync"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Gwine"
+#~ msgstr "Gwine"
+
+#~ msgid "Manage your wine cellar"
+#~ msgstr "Merañ ho boutailhadoù gwin"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "Database Creator"
+#~ msgstr "Aozer ar stlennvon"
+
+#~ msgid "A graphical FTP client"
+#~ msgstr "Ur gliant skeudenn FTP"
+
+#~ msgid "FTP Client"
+#~ msgstr "Kliant FTP"
+
+#~ msgid "KFTPGrabber"
+#~ msgstr "KFTPGrabber"
+
+#~ msgid "Kile"
+#~ msgstr "Kile"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "Arval MSN"
+
+#~ msgid "Network Monitor"
+#~ msgstr "Eveshaer ar rouedad"
+
+#~ msgid "Network Manager"
+#~ msgstr "Merour rouedad"
+
+#~ msgid "Knights"
+#~ msgstr "Knights"
+
+#~ msgid "KPlayer"
+#~ msgstr "KPlayer"
+
+#~ msgid "Cooking Book"
+#~ msgstr "Levr keginer"
+
+#~ msgid "Krecipes"
+#~ msgstr "Krecipes"
+
+#~ msgid "The KDE Cooking Book"
+#~ msgstr "Al levr keginer KDE"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "KVpnc"
+#~ msgstr "KVpnc"
+
+#~ msgid "GUI for the R-project"
+#~ msgstr "Etrefas evit Raktres R"
+
+#~ msgid "RKWard"
+#~ msgstr "RKWard"
+
+#~ msgid "A collection manager"
+#~ msgstr "Ur merour a zastumadoù"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "Yakuake"
+#~ msgstr "Yakuake"
+
+#~ msgid "KScope"
+#~ msgstr "KScope"
+
+#~ msgid "LPairs"
+#~ msgstr "LPairs"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "Balazar"
+#~ msgstr "Balazar"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "FileRunner"
+#~ msgstr "FileRunner"
+
+#~ msgid "GTorrentViewer"
+#~ msgstr "GTorrentViewer"
+
+#~ msgid "OilWar"
+#~ msgstr "Brezel ar eoul-maen"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaverskramm"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "AirStrike"
+#~ msgstr "AirStrike"
+
+#~ msgid "AlbumShaper"
+#~ msgstr "AlbumShaper"
+
+#~ msgid "Create photo albums"
+#~ msgstr "Krouiñ un albom foto"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "AmyEdit"
+#~ msgstr "AmyEdit"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Brezel an aeled"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "Etrefas evit Genpak"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Steredigoù 3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "BB Run"
+#~ msgstr "BB Run"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Ur c'hoari a seurt gant Mario"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Ostilh Webkam"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "CD-Mason"
+#~ msgstr "CD-Mason"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Cssed"
+#~ msgstr "Cssed"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Dibabit giz ar reti"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "Dino"
+#~ msgstr "Dino"
+
+#~ msgid "DiskSearch"
+#~ msgstr "Klask ar bladenn"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "Ur Kendarvaner DOS"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "EBView"
+#~ msgstr "EBView"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "Ur merour restroù GTK"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Epic"
+#~ msgstr "Epic"
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolvotron"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash evit Linux"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "Jederez FOX"
+
+#~ msgid "FrameWorks"
+#~ msgstr "FrameWorks"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "Fricorder"
+#~ msgstr "Fricorder"
+
+#~ msgid "3D file browser"
+#~ msgstr "Furcher restroù 3D"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "Merourien prenester FVWM"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fwm"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Mail counter"
+#~ msgstr "Arval mailh"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Galan"
+#~ msgstr "Galan"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "DJ Collection Manager"
+#~ msgstr "Merour dastumad DJ"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "Glest"
+#~ msgstr "Glest"
+
+#~ msgid "Glinuxsms"
+#~ msgstr "Glinuxsms"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Memory usage"
+#~ msgstr "Penaos vez implijet ar vemor"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "gMudix"
+#~ msgstr "gMudix"
+
+#~ msgid "Gneutronica"
+#~ msgstr "Gneutronica"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnome-SSHMan"
+#~ msgstr "Gnome-SSHMan"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnomolicious"
+#~ msgstr "Gnomolicious"
+
+#~ msgid "Gnormalize"
+#~ msgstr "Gnormalize"
+
+#~ msgid "Gnubik"
+#~ msgstr "Gnubik"
+
+#~ msgid "Gobby"
+#~ msgstr "Gobby"
+
+#~ msgid "Gournal"
+#~ msgstr "Gournal"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "Pellgomz war ar c'henrouedad"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "GQ"
+#~ msgstr "GQ"
+
+#~ msgid "GQueue"
+#~ msgstr "GQueue"
+
+#~ msgid "Grace"
+#~ msgstr "Grace"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "Greenwich"
+#~ msgstr "Greenwich"
+
+#~ msgid "Whois client"
+#~ msgstr "Arval Whois"
+
+#~ msgid "GRhino"
+#~ msgstr "GRhino"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "Ur jederez RPN"
+
+#~ msgid "GScore"
+#~ msgstr "GScore"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "Kefluniadur reolennoù IPTables"
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "Cheñch ar c'hiz GTK1"
+
+#~ msgid "GtkAtlantic"
+#~ msgstr "GtkAtlantic"
+
+#~ msgid "GtkDive"
+#~ msgstr "GtkDive"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "Ur etrefas GTK evit CUPS"
+
+#~ msgid "GtkPSProc"
+#~ msgstr "GtkPSProc"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Gweler Postscript evit Siag"
+
+#~ msgid "Heroes"
+#~ msgstr "Heroes"
+
+#~ msgid "Hexamine"
+#~ msgstr "Hexamine"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "Othello clone"
+#~ msgstr "Klon Otheloo"
+
+#~ msgid "HighMoon"
+#~ msgstr "HighMoon"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "iaxComm"
+#~ msgstr "iaxComm"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "Merour fotoù ImgSeek"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Mixer for JACK audio server"
+#~ msgstr "Mesker evit ar servijer klevet Jack"
+
+#~ msgid "Jools"
+#~ msgstr "Jools"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "Arval FTP GTK2"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "KAConnect"
+#~ msgstr "KAConnect"
+
+#~ msgid "Kiax"
+#~ msgstr "Kiax"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "Last.FM Player"
+#~ msgstr "Soner Last.FM"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Ur klon Panzer General"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "Oki"
+#~ msgstr "Oki"
+
+#~ msgid "LongPlayer"
+#~ msgstr "Longplayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Luma"
+#~ msgstr "Luma"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "Mesker MAS"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "MiniSIP"
+#~ msgstr "MiniSIP"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Monsterz"
+#~ msgstr "Monsterz"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "Mrxvt"
+#~ msgstr "Mrxvt"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Arval Maitretarot"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "Nabi"
+#~ msgstr "Nabi"
+
+#~ msgid "Nagios"
+#~ msgstr "Nagios"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "Echedoù nukleel"
+
+#~ msgid "Nuface"
+#~ msgstr "Nuface"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Mortal Szombat"
+#~ msgstr "Mortal Szombat"
+
+#~ msgid "Openmsx"
+#~ msgstr "Openmsx"
+
+#~ msgid "OpenSi"
+#~ msgstr "OpenSi"
+
+#~ msgid "OpenSi client"
+#~ msgstr "Pratik OpenSi"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Urzhiad penn-gwenn"
+
+#~ msgid "phpLDAPAdmin"
+#~ msgstr "phpLDAPAdmin"
+
+#~ msgid "phpMyAdmin"
+#~ msgstr "phpMyAdmin"
+
+#~ msgid "phpPgAdmin"
+#~ msgstr "phpPgAdmin"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Plan"
+#~ msgstr "Plan"
+
+#~ msgid "Ponyprog2000"
+#~ msgstr "Ponyprog2000"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Prokyon3"
+#~ msgstr "Prokyon3"
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "PySyCache"
+#~ msgstr "PySyCache"
+
+#~ msgid "ALSA Mixer"
+#~ msgstr "Mesker ALSA"
+
+#~ msgid "QAMix"
+#~ msgstr "QAMix"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Quantum GIS"
+#~ msgstr "Quantum GIS"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "QJoyPad"
+#~ msgstr "QJoyPad"
+
+#~ msgid "Quasar Setup"
+#~ msgstr "Kefluniadur Quasar"
+
+#~ msgid "Quasar"
+#~ msgstr "Quasar"
+
+#~ msgid "Quat"
+#~ msgstr "Quat"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "RasMol"
+#~ msgstr "RasMol"
+
+#~ msgid "RBBR"
+#~ msgstr "RBBR"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "Furchal RyBy"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "SDL Vexed"
+#~ msgstr "SDL Vexed"
+
+#~ msgid "SeaMonkey News"
+#~ msgstr "Keleier SeaMonkey"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "SimSam"
+#~ msgstr "SimSam"
+
+#~ msgid "SipBomber"
+#~ msgstr "SipBomber"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "Music player"
+#~ msgstr "Ur soner"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "Songs"
+#~ msgstr "Kanaouennoù"
+
+#~ msgid "SPE"
+#~ msgstr "SPE"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "Sysprof"
+#~ msgstr "Sysprof"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "Tengen"
+#~ msgstr "Tengen"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "Simple clone of Notepad"
+#~ msgstr "Ur c'hlon Notepad"
+
+#~ msgid "TPad"
+#~ msgstr "TPad"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "TuxMathScrabble"
+#~ msgstr "TuxMathScrabble"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "TX"
+#~ msgstr "TX"
+
+#~ msgid "XML Editor"
+#~ msgstr "Aozer XML"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "VSID music player"
+#~ msgstr "Ar soner VSID"
+
+#~ msgid "VYM"
+#~ msgstr "VYM"
+
+#~ msgid "WaveSurfer"
+#~ msgstr "WaveSurfer"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Ur klon Settlers II"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Kefluniadur LAN hep neud"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "WMbattery"
+#~ msgstr "WMbattery"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCub"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "WMLaptop"
+#~ msgstr "WMLaptop"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "WmsMixer"
+#~ msgstr "WmsMixer"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WMWifi"
+#~ msgstr "WMWifi"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "Ur kendarvaner C128"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Ur kendarvaner Commodore 128"
+
+#~ msgid "HP48 Emulator"
+#~ msgstr "Kendarvaner HP48"
+
+#~ msgid "x48"
+#~ msgstr "x48"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "Ur kendarvaner C64"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Ur kendarvaner Commodore 64"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "Ur klon ARCHON"
+
+#~ msgid "XBill"
+#~ msgstr "XBill"
+
+#~ msgid "XCave"
+#~ msgstr "XCave"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "Ur kendarvaner CBM2"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Ur kendarvaner Commodore BM 2"
+
+#~ msgid "Xchm"
+#~ msgstr "Xchm"
+
+#~ msgid "XCircuit"
+#~ msgstr "XCircuit"
+
+#~ msgid "Xconq Tk interface"
+#~ msgstr "Etrefas Tk evit Xconq"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Aozer skrid Siag"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Merour restroù Siag"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmms"
+#~ msgstr "Xmms"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Ur kendarvaner Commodore PET"
+
+#~ msgid "PET Emulator"
+#~ msgstr "Ur kendarvaner PET"
+
+#~ msgid "Xpilot server"
+#~ msgstr "Servijer Xpilot"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "Ur kendarvaner CPLUS4"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Ur kendarvaner Commodore PLUS4"
+
+#~ msgid "News reader"
+#~ msgstr "Lenner a geleier"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "XScorch"
+#~ msgstr "XScorch"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "Ar soner C64 (Qt)"
+
+#~ msgid "The Skat game"
+#~ msgstr "Ar c'hoari Skat"
+
+#~ msgid "X-Tux"
+#~ msgstr "X-Tux"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Ur kendarvaner Commodore VIC 20"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "Ur kendarvaner VIC 20"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Yudit"
+#~ msgstr "Yudit"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Monkey Bubble Arcade Game"
+#~ msgstr "C'hoari tavarn doare Monkey Bubble"
+
+#~ msgid "MonoDevelop"
+#~ msgstr "MonoDevelop"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Selaou da ho sonerezh"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Ar soner Muine"
+
+#~ msgid "Mutter"
+#~ msgstr "Mutter"
+
+#~ msgid "MySQL Administrator"
+#~ msgstr "Merour MySQL"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "Kefluniañ trobarzhelloù rouedad ha kennaskadurioù"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Nexuiz (glx client)"
+#~ msgstr "Nexuiz (pratik glx)"
+
+#~ msgid "Nexuiz (sdl client)"
+#~ msgstr "Nexuiz (pratik sdl)"
+
+#~ msgid "Network Connections"
+#~ msgstr "Kevreadurioù rouedad"
+
+#~ msgid "NodeView"
+#~ msgstr "NodeView"
+
+#~ msgid "ProjectX"
+#~ msgstr "ProjectX"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Quarry"
+#~ msgstr "Quarry"
+
+#~ msgid "ripperX"
+#~ msgstr "ripperX"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Decrypt File"
+#~ msgstr "Ezrinegañ ar restr"
+
+#~ msgid "Import Key"
+#~ msgstr "Enporzhiañ an alc'hwez"
+
+#~ msgid "Verify Signature"
+#~ msgstr "Gwiriañ ar sinadur"
+
+#~ msgid "Manage your passwords and encryption keys"
+#~ msgstr "Ardeiñ ho tremengerioù hag alc'hwezioù enrinegañ"
+
+#~ msgid "Passwords and Encryption Keys"
+#~ msgstr "Gerioù-tremen hag alc'hwezioù enrinegañ"
+
+#~ msgid "Services"
+#~ msgstr "Servijerioù"
+
+#~ msgid "Shared Folders"
+#~ msgstr "Teuliadoù rannet"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "Stopmotion"
+#~ msgstr "Stopmotion"
+
+#~ msgid "Play Adobe Flash files"
+#~ msgstr "Lenn restroù Adobe Flash"
+
+#~ msgid "Swfdec Flash Player"
+#~ msgstr "Lenner Flash Swfdec"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Kefluniadur Proc"
+
+#~ msgid "Time and Date"
+#~ msgstr "Eur ha Deiziad"
+
+#~ msgid "TkDVD"
+#~ msgstr "TkDVD"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Ur meziant tresañ evit ar vugale."
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Twinkle"
+#~ msgstr "Twinkle"
+
+#~ msgid "Urlgfe"
+#~ msgstr "Urlgfe"
+
+#~ msgid "Users and Groups"
+#~ msgstr "Arveriaded ha strolladoù"
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid "VLC media player"
+#~ msgstr "Ar soner liesvedia VLC"
+
+#~ msgid "Wormux"
+#~ msgstr "Wormux"
+
+#~ msgid "wxMaxima"
+#~ msgstr "wxMaxima"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "Kendarvaner termenell IBM 3270"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "Xarchiver"
+#~ msgstr "Xarchiver"
+
+#~ msgid "DOS emulator running under X"
+#~ msgstr "Ur c'hendarvaner DOS evit X"
+
+#~ msgid "XdTV"
+#~ msgstr "XdTV"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"
+
+#~ msgid "VoIP Phone"
+#~ msgstr "Pellgomz VoIP"

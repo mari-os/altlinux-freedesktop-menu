@@ -1,0 +1,930 @@
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/am.php3
+#
+#
+# Copyright (C) 2000 MandrakeSoft
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 1999-08-25 11:07+0200\n"
+"Last-Translator: Nobody\n"
+"Language-Team: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "ກຣາບຟິກ"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "ກຣາບຟິກ"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "A clock application/applet"
+msgstr ""
+
+msgid "A simple amusement"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "ຄວາມສາມາດໃນການໃຊ້ງານ"
+
+#, fuzzy
+msgid "Action"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "ເກມອາເຄດ"
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "ເຄື່ອງຫຼີ້ນ"
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "ເກມ"
+
+#, fuzzy
+msgid "Boards"
+msgstr "ກາດ"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "ເຄຶ່ອງຄິດໄລ່"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "ເຄຶ່ອງຄິດໄລ່"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "ເກມ"
+
+msgid "Cards"
+msgstr "ກາດ"
+
+#, fuzzy
+msgid "Chart"
+msgstr "ກາດ"
+
+msgid "Chat"
+msgstr ""
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "ປະວັດການໃຊ້ງານ"
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr ""
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+msgid "Computer science"
+msgstr ""
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "Desktop"
+msgstr "ພື້ນທີ່ເຮັດວງກ"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "ພັດທະນາໂປຣແກຣມ"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "ຄູ່ມື"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "ແກ້ໄຂແຟ້ມຂໍ້ຄວາມ"
+
+#, fuzzy
+msgid "Education"
+msgstr "ການສຶກສາແສນມ່ວນຊື່ນ"
+
+msgid "Electricity"
+msgstr ""
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "KMail"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "ເຄຶ່ອງຄິດໄລ່"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "ເຄື່ອງມືການຈັດການແຟ້ມ"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "ຈັດການລະບົບ"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "ເຄື່ອງມືການຈັດການແຟ້ມ"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "ແຟ້ມຂໍ້ຄວາມ"
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+#, fuzzy
+msgid "GNOME"
+msgstr "ກ່ຽວກັບ GNOME"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "ອອກແບບສ່ວນຕິດຕໍ່ຜູ້ໃຊ້ສຳຫັລບ Qt"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Games"
+msgstr "ເກມ"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr "ເກມສຳລັບເດັກ"
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr "ກຣາບຟິກ"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "History"
+msgstr "ປະວັດການໃຊ້ງານ"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "IRC"
+msgstr ""
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "ອິນເຕີເນັຕ"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "ເກມຄ້າຍ Rogue"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr ""
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+msgid "Mixers"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "ເມົາຕິມີເດຍ"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "ເມົາຕິມີເດຍ"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "ເຄື່ອງຫຼີ້ນ"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "ເມົາຕິມີເດຍ"
+
+#, fuzzy
+msgid "Music"
+msgstr "ເມົາສ໌"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "ລະບົບເຄື່ອຄາຍ"
+
+msgid "Network-related settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "ໂປຣແກຣມຊຸດສຳນັກງານ"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "ອື່ນໆ"
+
+msgid "P2P"
+msgstr ""
+
+msgid "P2P programs"
+msgstr ""
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "ປັບແຕ່ງ"
+
+#, fuzzy
+msgid "Personal"
+msgstr "ທີ່ເກັບແຟ້ມແລະເອກະສານສວ່ນຕົວຫລືອື່ນຯ"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "ປັບແຕ່ງ"
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "ຄູ່ມື"
+
+msgid "Printing"
+msgstr "Printing"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr ""
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "ກຣາບຟິກ"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+#, fuzzy
+msgid "Security tools"
+msgstr "ແຟ້ມຂໍ້ຄວາມ"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "ລະບົບສງງ"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+#, fuzzy
+msgid "Strategy"
+msgstr "ເກມກົນລະຍຸດແລະວາງແຜນ"
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr "ຈັດການລະບົບ"
+
+#, fuzzy
+msgid "System settings"
+msgstr "ตั้งค่า"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "ແອພພຣິເຄຊັນ"
+
+msgid "Telephony"
+msgstr ""
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "ແຟ້ມຂໍ້ຄວາມ"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "ເທີມີນອນ"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "ແຟ້ມຂໍ້ຄວາມ"
+
+msgid "Text tools"
+msgstr "ແຟ້ມຂໍ້ຄວາມ"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "ເຄື່ອງມື"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "ຂອງເຫລັ້ນ"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "ກຣາບຟິກ"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "ໂປຣແກຣມເທີມີນໍ"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "ປັບແຕ່ງ"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "ເຄື່ອງຫຼີ້ນ"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "ຮງກເບິ່ງຖານເບິ່ງຂໍ້ມູນ"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "ພັດທະນາໂປຣແກຣມ"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> ແອັບພລີເຄຊັນທັງຫມົດ"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> ຊິເຮັດຫຍັງ?"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "ຕ່າງໆນາໆ"
+
+#~ msgid "Utilities"
+#~ msgstr "ໃຊ້ປະໂຫຍດ"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "ໂປຣແກຣມໃຊ້ໂຫຍດຂອງ X"
+
+#~ msgid "X-Utilities"
+#~ msgstr "ໃຊ້ປະໂຫຍດ์ X"
+
+#~ msgid "Wine"
+#~ msgstr "ເຄືອ"
+
+#~ msgid "Advanced"
+#~ msgstr "ັຝຣັ່ງ"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "ຕັ້ງຄ່າເພີ້ມເຕີມ"
+
+#~ msgid "Information"
+#~ msgstr "ຂໍ້ມູນຕ່າງໆ"
+
+#~ msgid "Peripherals"
+#~ msgstr "ອຸປະກອນຕໍ່ພວງ"
+
+#~ msgid "Control Center"
+#~ msgstr "ສູນຄວບຄຸມ"
+
+#~ msgid "XCam"
+#~ msgstr "Xcan"
+
+#~ msgid "Appearance"
+#~ msgstr "ການປະກົດ"
+
+#~ msgid "Text Editor"
+#~ msgstr "ເຄື່ອງມືແກ້ໄຂຂໍ້ຄວາມ"
+
+#~ msgid "Office Suite"
+#~ msgstr "ໂປຣແກຣມຊຸດສຳນັກງານ"
+
+#~ msgid "Eclipse"
+#~ msgstr "สุริยคราส"
+
+#~ msgid "Help"
+#~ msgstr "ລະບົບຊ່ວຍເຫືລອ"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "LyX"
+#~ msgstr "Lyx"
+
+#~ msgid "Konqueror"
+#~ msgstr "ຄົງຂູນເລີ"
+
+#~ msgid "Home"
+#~ msgstr "ພື້ນທີ່ສ່ວນຕົວ"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "ເຄື່ອງມືຄິບບອດ"
+
+#~ msgid "Klipper"
+#~ msgstr "ຄິບເປີ້ - K"
+
+#~ msgid "Konsole"
+#~ msgstr "ຄອນໂຊລ - K"
+
+#~ msgid "Info Center"
+#~ msgstr "ສູນຄວບຄຸມ"
+
+#~ msgid "Change Password"
+#~ msgstr "เปลี่ยนรหัสผ่าน"
+
+#~ msgid "Welcome"
+#~ msgstr "ຍິນດີຕ້ອນຮັບ"
+
+#~ msgid "Trash"
+#~ msgstr "ຖັງຂີ້ເຫຍື່ອ"
+
+#~ msgid "KWrite"
+#~ msgstr "Kwrite"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Menu Editor"
+#~ msgstr "ເຄື່ອງມືແກ້ໄຂເມນູ"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "ຕົວຈັດການແຟ້ມ - ໂຫມດຜູ້ດູແລລະບົບ"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "ການຈັດວາງແປ້ນພິມ"
+
+#~ msgid "Windows"
+#~ msgstr "ຫນ້າຕ່າງ"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "ແປພາສາຂອງ Qt"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "ຮຽນຮູ້ເພີ້ມ ກ່ຽວກັບ GNOME"
+
+#~ msgid "Keyboard"
+#~ msgstr "ແປ້ນພິມ"
+
+#~ msgid "Page Layout"
+#~ msgstr "ການຈັດວາງຫນ້າເຈ້ຍ"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "ເດດທອບພັລບບີດຊິງ"
+
+#~ msgid "Scribus"
+#~ msgstr "ສະຄຣີບັດສ໌"
+
+#~ msgid "myzone & status"
+#~ msgstr "myzone ເເລະ ສະຖານະພາບ"
+
+#~ msgid "Watch & listen"
+#~ msgstr "ເບີ່ງ ແລະ ຟັງ"
+
+#~ msgid "It's the internet"
+#~ msgstr "ມັນເເມ່ນ ອີນເຕີເເນດ"
+
+#~ msgid "Services"
+#~ msgstr "ບໍລິການ"

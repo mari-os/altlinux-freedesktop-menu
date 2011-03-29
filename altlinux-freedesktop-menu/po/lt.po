@@ -1,0 +1,3275 @@
+# translation of menu-sections to Lithuanian
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
+# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-sections_lt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2008-05-04 21:43+0300\n"
+"Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafika"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafika"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Failų tvarkymas"
+
+msgid "Accessibility"
+msgstr "Pritaikymas neįgaliesiems"
+
+msgid "Action"
+msgstr "Veiksmo"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Veiksmo"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Administravimas"
+
+msgid "Adventure"
+msgstr "Nuotykiniai"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Nuotykiniai"
+
+msgid "Amateur Radio"
+msgstr "Mėgėjiškas radijas"
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Programos"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Programos"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Arkada"
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Astronomija"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Astronomija"
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "Biologija"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Biologija"
+
+msgid "Board Games"
+msgstr "Stalo žaidimai"
+
+msgid "Boards"
+msgstr "Lentos"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Skaičiuotuvas"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Emuliatoriai"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Kortų žaidimai"
+
+msgid "Cards"
+msgstr "Kortos"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Kortų"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Chemija"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Chemija"
+
+#, fuzzy
+msgid "Clock"
+msgstr "Blokai"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Bendravimas"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Informatika"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Geografija"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Bendravimas"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "Duombazės"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Programos"
+
+msgid "Desktop"
+msgstr "Darbastalis"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Programavimas"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr "Žodynas"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#, fuzzy
+msgid "Economy"
+msgstr "Astronomija"
+
+msgid "Editors"
+msgstr "Redaktoriai"
+
+msgid "Education"
+msgstr "Mokymas"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Elektronika"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Programos"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Emuliatoriai"
+
+msgid "Engineering"
+msgstr "Techninis konstravimas"
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Blokai"
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Failų tvarkymas"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sisteminės"
+
+msgid "File Transfer"
+msgstr "Failų perdavimas"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+msgid "GUI designer applications"
+msgstr ""
+
+msgid "Games"
+msgstr "Žaidimai"
+
+msgid "Games and amusements"
+msgstr "Žaidimai ir pramogos"
+
+msgid "Games for Kids"
+msgstr "Žaidimai vaikams"
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "Biologija"
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr "Geografija"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Geografija"
+
+msgid "Geosciences"
+msgstr "Gamtos mokslai"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Aparatinė įranga"
+
+msgid "History"
+msgstr "Žurnalas"
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Programos"
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Internetas"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Programos"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Kalbos"
+
+msgid "Literature"
+msgstr ""
+
+msgid "Logic Games"
+msgstr "Loginiai žaidimai"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Matematika"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Žiūryklės"
+
+msgid "Monitoring"
+msgstr "Stebėjimas"
+
+msgid "Multimedia"
+msgstr "Multimedija"
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Tinklas"
+
+msgid "Network-related settings"
+msgstr "Su tinklu susiję nustatymai"
+
+#, fuzzy
+msgid "News"
+msgstr "Naujienos tinkle"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+#, fuzzy
+msgid "Numeric Analysis"
+msgstr "Duomenų analizė"
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Raštinės"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Kita"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Programavimas"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Paketų tvarkymas"
+
+msgid "Packaging"
+msgstr "Paketai"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Personal"
+msgstr "Asmeniniai"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Fizika"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Fizika"
+
+msgid "Preferences"
+msgstr "Parinktys"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr "Spausdinimas"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "Projektų tvarkymas"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Projektų tvarkymas"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafika"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "Ekrano saugojimas"
+
+msgid "Science"
+msgstr "Mokslinės"
+
+msgid "Screensavers"
+msgstr "Ekrano užsklandos"
+
+msgid "Security"
+msgstr "Saugumas"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Saugumas"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Parinktys"
+
+msgid "Simulation"
+msgstr "Simuliavimas"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Simuliavimas"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Garsas"
+
+msgid "Sports"
+msgstr "Sportas"
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "Strateginiai"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Strateginiai"
+
+msgid "System"
+msgstr "Sisteminės"
+
+msgid "System settings"
+msgstr "Sistemos nustatymai"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr "Radijas ir televizija"
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Radijas ir televizija"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Programos"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Terminalų emuliatoriai"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Terminalų emuliatoriai"
+
+msgid "Text tool utilities"
+msgstr ""
+
+msgid "Text tools"
+msgstr "Teksto įrankiai"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Įrankiai"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Niekučiai"
+
+msgid "Translation"
+msgstr "Vertimas"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafika"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Žiūryklės"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr "Žiūryklės"
+
+msgid "Web Browsing"
+msgstr "Naršymas tinkle"
+
+msgid "Web Development"
+msgstr "Tinklalapių kūrimas"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Data Management"
+#~ msgstr "Duomenų tvarkymas"
+
+#~ msgid "Mobile Devices"
+#~ msgstr "Mobilūs įrenginiai"
+
+#~ msgid "Medicine"
+#~ msgstr "Medicina"
+
+#~ msgid "Social"
+#~ msgstr "Visuomeninės"
+
+#~ msgid "Shells"
+#~ msgstr "Apvalkalai"
+
+#~ msgid "Language Environment"
+#~ msgstr "Kalbos aplinka"
+
+#~ msgid "Text"
+#~ msgstr "Tekstas"
+
+#~ msgid "Puzzles"
+#~ msgstr "Galvosūkiai"
+
+#~ msgid "Help"
+#~ msgstr "Pagalba"
+
+#~ msgid "Window Managers"
+#~ msgstr "Langų tvarkyklės"
+
+#~ msgid "FVWM Modules"
+#~ msgstr "FVWM moduliai"
+
+#~ msgid "Window Maker"
+#~ msgstr "Window Maker"
+
+# Non official sections from WindowMaker
+#~ msgid "Appearance"
+#~ msgstr "Išvaizda"
+
+#~ msgid "WorkSpace"
+#~ msgstr "Darbastalis"
+
+# Frequently used unofficial sections.
+# From Apps/Net/Mozilla Components
+#~ msgid "Iceape Components"
+#~ msgstr "Iceape komponentai"
+
+# From Games/Toys/Teddies
+#~ msgid "Teddies"
+#~ msgstr "Žaisliukai"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Visos programos"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Ką daryti?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Mokomosios programos"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Įvairūs dalykai"
+
+#~ msgid "Utilities"
+#~ msgstr "Pagalbininkai"
+
+#~ msgid "Backups"
+#~ msgstr "Dubliavimas"
+
+#~ msgid "Programming"
+#~ msgstr "Programavimas"
+
+#~ msgid "Servers"
+#~ msgstr "Serveriai"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X Window pagalbininkai"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X pagalbininkai"
+
+#~ msgid "Advanced"
+#~ msgstr "Sudėtingiau"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Papildomos nuostatos"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Pamesta ir rasta"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Taktika ir strategija"
+
+#~ msgid "Information"
+#~ msgstr "Informacija"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Asmeniniai nustatymai"
+
+#~ msgid "Accessories"
+#~ msgstr "Reikmenys"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Darbo aplinkos reikmenys"
+
+#~ msgid "Networking"
+#~ msgstr "Tinklai"
+
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgid "Science & Math"
+#~ msgstr "Mokslas ir matematika"
+
+#~ msgid "Peripherals"
+#~ msgstr "Periferija"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Išvaizda ir elgsena"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Darbo aplinkos išvaizdos ir elgsenos nustatymai"
+
+#~ msgid "File"
+#~ msgstr "Byla"
+
+#~ msgid "Personal settings"
+#~ msgstr "Asmeniniai nustatymai"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "Ekrano užsklandos temos"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "Mokymo įrankiai"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Sistemos konfigūravimas ir stebėjimas"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Kai kurių aparatinių įrenginių nustatymai"
+
+#~ msgid "KDE Menu"
+#~ msgstr "KDE meniu"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Asmeniniai ir administravimo nustatymai"
+
+#~ msgid "Development Environments"
+#~ msgstr "Programavimo aplinkos"
+
+#~ msgid "Universal Access"
+#~ msgstr "Universali prieiga"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Universalios prieigos nustatymai"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "Keisti sisteminio masto nustatymus (paveikia visus naudotojus)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Garsas ir vaizdas"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Internetas ir tinklas"
+
+#~ msgid "Control Center"
+#~ msgstr "Valdymo centras"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Išdykėlio tipo žaidimai"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Programos interneto prieigai (žiniatinklis, el. paštas)"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Programos, kurios netiko kitose kategorijose"
+
+#~ msgid "Office Applications"
+#~ msgstr "Ofiso programos"
+
+#~ msgid ".hidden"
+#~ msgstr ".hidden"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Prašom nekeisti ir netrinti"
+
+#~ msgid "Beat the odds in a poker-style dice game"
+#~ msgstr "Žaiskite pokerio stiliaus kauliukų žaidimą"
+
+#~ msgid "Tali"
+#~ msgstr "Tali"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr ""
+#~ "Prancūziški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos "
+#~ "Projekto"
+
+#~ msgid "Five or More"
+#~ msgstr "Penketas ar daugiau"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "Pašalinti nuo lentos spalvotus rululius sukuriant iš jų linijas"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Minų traleris"
+
+#~ msgid "Documentation Browser"
+#~ msgstr "Dokumentacijos naršyklė"
+
+#~ msgid "System Monitor"
+#~ msgstr "Sistemos stebėtojas"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Parodo paleistus procesus ir sistemos būklę"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Paveikslėlių žiūriklis"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "GTK paremta stebėjimo programa"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Media Player"
+#~ msgstr "Daugialypės terpės grotuvas"
+
+#~ msgid "Play and organize your media collection"
+#~ msgstr "Leisti ir tvarkyti mediją"
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "IM Client"
+#~ msgstr "Tikralaikių pokalbių klientas"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Užrakinimų politikos konfigūracija"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Užrakinimo redaktorius"
+
+#~ msgid "About Me"
+#~ msgstr "Apie mane"
+
+#~ msgid "Set your personal information"
+#~ msgstr "Nurodyti asmeninę informaciją"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "Įrašyti ar kopijuoti CD, DVD bei kitus optinius diskus"
+
+#~ msgid "Disc Burner and Copier"
+#~ msgstr "Diskų rašymas ir kopijavimas"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "Pakeisti programų, rodomų pagrindiniame meniu, sąrašą"
+
+#~ msgid "Main Menu"
+#~ msgstr "Pagrindinis meniu"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Naršyti internete"
+
+#~ msgid "Epiphany"
+#~ msgstr "Epiphany"
+
+#~ msgid "Character Map"
+#~ msgstr "Simbolių lentelė"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Įterpti specialius simbolius į dokumentus"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Swat Samba Administravimo Įrankis"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Visi kortų pasjanso žaidimai"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "Keisti darbo aplinkos išvaizdą"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "Pasitikrinkite žodžių apibrėžimus ir rašybą internetiniame žodyne"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr "Rasti kompiuteryje esančius dokumentus pagal pavadinimą ar turinį"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Ieškoti failų..."
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Paleisti kitas programas ir suteikti įvairius reikmenis langų valdymui, "
+#~ "laiko rodymui, ir t.t."
+
+#~ msgid "Panel"
+#~ msgstr "Skydelis"
+
+#~ msgid "Navigate applications and type using alternative input devices"
+#~ msgstr ""
+#~ "Valdykite programas ir rašykite tekstą alternatyviais įvedimo įrenginiais"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Vaizdinė klaviatūra"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "DSL konfigūravimo priemonė"
+
+#~ msgid "Audio CD Extractor"
+#~ msgstr "Audio CD išskleidiklis"
+
+#~ msgid "Copy music from your CDs"
+#~ msgstr "Kopijuokite muziką iš audio CD"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "CD/DVD kūrimas"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "Kurti CD ir DVD diskus"
+
+#~ msgid "Import the photos on your camera card"
+#~ msgstr "Importuoti fotografijas iš skaitmeninio fotoaparato"
+
+#~ msgid "Photo Import Tool"
+#~ msgstr "Fotografijų importavimo įrankis"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "Pageidaujamos programos"
+
+#~ msgid "Klotski"
+#~ msgstr "Klotski"
+
+#~ msgid "Slide blocks to solve the puzzle"
+#~ msgstr "Stumkite blokus norėdami išspręsti galvosūkį"
+
+#~ msgid "Chess"
+#~ msgstr "Šachmatai"
+
+#~ msgid "Play the classic two-player boardgame of chess"
+#~ msgstr "Žaisti klasikinius dviejų žaidėjų šachmatus"
+
+#~ msgid "Simple text editor"
+#~ msgstr "Paprastas teksto redaktorius"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "Naršyti pažymėtas ir vietines tinklo vietas"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "Kurti ir redaguoti naudotojų profilius"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "Naudotojų profilių redaktorius"
+
+#~ msgid "XChat IRC"
+#~ msgstr "IRC klientas"
+
+#~ msgid "F-Spot"
+#~ msgstr "F-Spot"
+
+#~ msgid "Photo Viewer"
+#~ msgstr "Fotografijų peržiūros programa"
+
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgid "Configure Bluetooth settings"
+#~ msgstr "Konfigūruoti Bluetooth parametrus"
+
+#~ msgid "Text Editor"
+#~ msgstr "Tekstų redaktorius"
+
+#~ msgid "Manage Messaging and VoIP accounts"
+#~ msgstr "Tvarkyti pokalbių ir VoIP paskyras"
+
+#~ msgid "Messaging and VoIP Accounts"
+#~ msgstr "Pokalbių ir VoIP paskyros"
+
+#~ msgid "Disk Utility"
+#~ msgstr "Diskų įrankis"
+
+#~ msgid "Manage Drives and Media"
+#~ msgstr "Valdyti įrenginius ir laikmenas"
+
+#~ msgid "Office Suite"
+#~ msgstr "Ofiso rinkinys"
+
+#~ msgid "OpenOffice.org"
+#~ msgstr "OpenOffice.org"
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "Naršyti ir pasukti paveikslėlius"
+
+#~ msgid "Change resolution and position of monitors"
+#~ msgstr "Pakeisti vaizduoklių raišką ir poziciją"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid ""
+#~ "Perform calculation, analyze information and manage lists in spreadsheets "
+#~ "by using Calc."
+#~ msgstr ""
+#~ "Skaičiuokle galima atlikti įvairius skaičiavimus, analizuoti informaciją, "
+#~ "tvarkyti sąrašus lentelėse."
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "Išsaugoti Jūsų darbastalio ar atskirų langų nuotraukas"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "Nufotografuoti ekraną"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "Programuotojo žinynas"
+
+#~ msgid "Devhelp"
+#~ msgstr "Devhelp"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr ""
+#~ "Olandiški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "Eclipse"
+#~ msgstr "Užtemimas"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Naršyti failų sistemą failų tvarkykle"
+
+#~ msgid "File Browser"
+#~ msgstr "Failų naršyklė"
+
+#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
+#~ msgstr "Išvalykite ekraną pašalindami spalvotų ir figūrinių koklių grupes"
+
+#~ msgid "Swell Foop"
+#~ msgstr "Swell Foop"
+
+#~ msgid "IDE for Python"
+#~ msgstr "IDE Python'ui"
+
+#~ msgid "Dia Diagram Editor"
+#~ msgstr "Dia diagramų redaktorius"
+
+#~ msgid "Edit your Diagrams"
+#~ msgstr "Kurti diagramas"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "Įdiegia įvairių darbo aplinkos dalių temų paketus"
+
+#~ msgid "Theme Installer"
+#~ msgstr "Temų diegyklė"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Gauti pagalbą dirbant su GNOME"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "Pagalbinės technologijos"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr ""
+#~ "Pasirinkti, kurias pritaikymo neįgaliesiems savybes įjungti prisijungiant"
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "Tikrinti aplankų dydžius ir laisvą vietą"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "Disko naudojimo analizatorius"
+
+#~ msgid "Create or open user interface designs for GTK+ applications"
+#~ msgstr "Kurti arba atverti GTK+ programų naudotojo sąsajas"
+
+#~ msgid "Glade 3"
+#~ msgstr "Glade 3"
+
+#~ msgid "Organize, enjoy, and share your photos"
+#~ msgstr "Tvarkyti, dalintis ir mėgautis fotografijomis"
+
+#~ msgid "Photo Manager"
+#~ msgstr "Fotografijų tvarkymo programa"
+
+#~ msgid "Movie Player"
+#~ msgstr "Filmų grotuvas"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Groti filmus ir dainas"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Dokumentų peržiūros programa"
+
+#~ msgid "View multi-page documents"
+#~ msgstr "Peržiūrėti kelių puslapių dokumentams"
+
+#~ msgid "Home Folder"
+#~ msgstr "Namų katalogas"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Atverti asmeninį aplanką"
+
+#~ msgid "Quadrapassel"
+#~ msgstr "Quadrapassel"
+
+#~ msgid "Complete the puzzle by matching numbered tiles"
+#~ msgstr "Užbaikite galvosūkį suradę atitinkamus numeruotus kauliukus"
+
+#~ msgid "Tetravex"
+#~ msgstr "Tetravex"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Konfigūruoti įprastus GStreamer programoms"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Daugialypės terpės sistemų parinkiklis"
+
+#~ msgid "Configure PalmOS devices"
+#~ msgstr "Konfigūruoti PalmOS įrenginius"
+
+#~ msgid "PalmOS Devices"
+#~ msgstr "PalmOS įrenginiai"
+
+#~ msgid "Access remote desktops"
+#~ msgstr "Junkitės prie nutolusių darbastalių"
+
+#~ msgid "Remote Desktop Viewer"
+#~ msgstr "Nutolusių darbastalių rodymo programa"
+
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "Išvenkite robotų ir sudaužykite juos vieną su kitu"
+
+#~ msgid "Search"
+#~ msgstr "Paieška"
+
+#~ msgid "Search for data on your desktop"
+#~ msgstr "Ieškoti duomenų Jūsų darbo aplinkoje"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr ""
+#~ "Ispaniški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "Pulsuojančių spalvų kvadratėliai."
+
+#~ msgid "Pop art squares"
+#~ msgstr "Meniški kvadratėliai"
+
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr "Rodyti skaidrių šou iš F-Spot"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "F-Spot fotografijos"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "Rodyti skaidrių šou iš Jūsų paveikslėlių aplanko"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Paveikslėlių aplankas"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "GNOME pėdos logotipas „burbuliuoja“ ekrane"
+
+#~ msgid "Floating Feet"
+#~ msgstr "Plaukiojančios pėdos"
+
+#~ msgid "Cosmos"
+#~ msgstr "Kosmosas"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "Rodyti kosmoso paveikslėlių skaidrių šou"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "Naršyti visus vietinius ir nutolusius diskus ir aplankus, prieinamus iš "
+#~ "šio kompiuterio"
+
+#~ msgid "Computer"
+#~ msgstr "Kompiuteris"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Rodyti Žemę ant darbalaukio"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Naršyk ir organizuok savo žymeles"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany žiniatinklio žymelės"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Web žymelės"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr ""
+#~ "HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto slovėnų "
+#~ "kalba"
+
+#~ msgid "Play a classic 2D platform game"
+#~ msgstr "Klasikinis 2D platformos žaidimas"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Veiksmo ir galvosūkių žaidimas"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Meniu atnaujinimo priemonė"
+
+#~ msgid "Okular"
+#~ msgstr "Okular"
+
+#~ msgid "KDiamond"
+#~ msgstr "KDiamond"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Spalvų parinkiklis"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KColorChooser"
+
+#~ msgid "A KDE Blogging Client"
+#~ msgstr "KDE tinklaraštinimo klientas"
+
+#~ msgid "Blogilo"
+#~ msgstr "Blogilo"
+
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "KDE periodinė elementų lentelė"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "Periodinė elementų lentelė"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Budelio žaidimas"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "KDE pakaruoklio žaidimas"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "Contact Manager"
+#~ msgstr "Kontaktų tvarkytuvė"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "Paprasta paveikslėlių žiūryklė"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "Kiriki"
+#~ msgstr "Kiriki"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "Naudotojų tvarkyklė"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Territory Capture Game"
+#~ msgstr "Teritorijos užgrobimo žaidimas"
+
+#~ msgid "Galactic Strategy Game"
+#~ msgstr "Galaktikos strateginis žaidimas"
+
+#~ msgid "Konquest"
+#~ msgstr "Užkariautojas"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "Žodyno mokymosi kortelių pagalba programa"
+
+#~ msgid "Flash Card Trainer"
+#~ msgstr "Mokymasis iš kortelių"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Kontact Administration"
+#~ msgstr "Kontact administravimas"
+
+#~ msgid "Amarok"
+#~ msgstr "amaroK"
+
+#~ msgid "Amarok - Rediscover Your Music!"
+#~ msgstr "Amarok – atraskite savo muziką iš naujo!"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "CVS naudotojo sąsaja"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Ekrano liniuotė"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Ekrano kopijos programa"
+
+#~ msgid "Character Selector"
+#~ msgstr "Simbolių parinkimas"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Learn The Alphabet"
+#~ msgstr "Išmokite abėcėlę"
+
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "KDE programa abėcėlės mokymuisi"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Kalendoriaus ir planavimo programa"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "Asmeninės informacijos tvarkyklė"
+
+#~ msgid "Home"
+#~ msgstr "Pradžia"
+
+#~ msgid "Personal Files"
+#~ msgstr "Asmeninės bylos"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "A Feed Reader for KDE"
+#~ msgstr "RSS kanalų skaitytuvė KDE darbastalio aplinkai"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "Feed Reader"
+#~ msgstr "Kanalų skaitytuvė"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Aklo spausdinimo mokytojas"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "HTML paveikslėlių žemėlapių rengyklė"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "Link Checker"
+#~ msgstr "Nuorody tikrintuvė"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "Note Taker"
+#~ msgstr "Pastabų gavėjas"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Kalbos sintezatoriaus naudotojo sąsaja"
+
+#~ msgid "Konversation"
+#~ msgstr "Konversation"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "Šaunių darbastalio papuošimų priedas."
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "Darbastalio valdikliai"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Bulvinis Vyrukas"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "„Iškirpti ir padėti“ istorijos pagalbinė programa"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Laikinos talpyklės priemonė"
+
+#~ msgid "Klipper"
+#~ msgstr "Klipper"
+
+#~ msgid "Battleship Game"
+#~ msgstr "Laivų mūšio žaidimas"
+
+#~ msgid "KBattleship"
+#~ msgstr "KBattleship"
+
+#~ msgid "Go Board Game"
+#~ msgstr "Go stalo žaidimas"
+
+#~ msgid "Card Game"
+#~ msgstr "Kortų žaidimas"
+
+#~ msgid "LSkat"
+#~ msgstr "LSkat"
+
+#~ msgid "CD Player"
+#~ msgstr "CD Grotuvas"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid "Photo Viewer and Editor"
+#~ msgstr "Paveikslėlių žiūriklis"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Graph Calculator"
+#~ msgstr "Grafinis skaičiuotuvas"
+
+#~ msgid "KAlgebra"
+#~ msgstr "KAlgebra"
+
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "Matematinių reiškinių sprendikas ir grafikų braižiklis"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Qt Designer naudotojo sąsajos bylų žiūryklė"
+
+#~ msgid "Kubrick"
+#~ msgstr "Kubrick"
+
+#~ msgid "Certificate Manager and Unified Crypto GUI"
+#~ msgstr "Sertifikatų tvarkytuvė ir kriptografijos grafinė sąsaja"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Dalinimasis darbastaliu"
+
+#~ msgid "Krfb"
+#~ msgstr "Krfb"
+
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "KDE Groupware vedlys"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Šisen-Šo"
+
+#~ msgid "Desktop Search"
+#~ msgstr "Darbastalio paieška"
+
+#~ msgid "A memory enhancement game"
+#~ msgstr "Atminties gerinimo žaidimas"
+
+#~ msgid "Blinken"
+#~ msgstr "Blinken"
+
+#~ msgid "Memory Enhancement Game"
+#~ msgstr "Atminties gerinimo žaidimas"
+
+#~ msgid "KSudoku"
+#~ msgstr "KSudoku"
+
+#~ msgid "Sudoku Game"
+#~ msgstr "Sudoku žaidimas"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "GnuPG naudotojo sąsaja"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Šifravimo įrankis"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr ""
+#~ "Pulto priemonė, skirta X ekranų skiriamosios gebos ir orientacijos "
+#~ "keitimui."
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Ekrano skiriamosios gebos keitimas ir sukimas"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "Mail Client"
+#~ msgstr "Pašto Klientas"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Mahjongg Solitaire"
+#~ msgstr "Mahjongg pasjansas"
+
+#~ msgid "Konsole"
+#~ msgstr "K konsolė"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "Reversi stalo žaidimas"
+
+#~ msgid "KMail view"
+#~ msgstr "KMail peržiūra"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Mokslinis skaičiuotuvas"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Diff/Patch naudotojo sąsaja"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "Ekrano didintojas"
+
+#~ msgid "Countdown Launcher"
+#~ msgstr "Laiko skaičiuoklė"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Tinklo aplanko vedlys"
+
+#~ msgid "UML Modeller"
+#~ msgstr "UML Modeller"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "Blackbox loginis žaidimas"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "Sokoban tipo loginis žaidimas"
+
+#~ msgid "KPatience"
+#~ msgstr "KPatience"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Kantrybės kortų žaidimas"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "Asmeninės informacijos tvarkyklė"
+
+#~ msgid "Desktop Globe"
+#~ msgstr "Darbalaukio gaublys"
+
+#~ msgid "Marble"
+#~ msgstr "Marble"
+
+#~ msgid "Bovo"
+#~ msgstr "Bovo"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "Parley"
+#~ msgstr "Parley"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Žodyno treniruoklis"
+
+#~ msgid "Font Viewer"
+#~ msgstr "Šriftų žiūryklė"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Function Plotter"
+#~ msgstr "funkcijinis braižytuvas"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "Matematinės funkcijos braižytuvas"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "Interneto skambinimo priemonė"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "Integruota programavimo aplinka"
+
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#~ msgid "Breakout-like Game"
+#~ msgstr "Breakout-tipo žaidimas"
+
+#~ msgid "KBreakOut"
+#~ msgstr "KBreakOut"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Darbastalio planetariumas"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "KFourInLine"
+#~ msgstr "KFourInLine"
+
+#~ msgid "KNetWalk"
+#~ msgstr "KNetWalk"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Asmeninių žinučių-priminimų planuoklis"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Spatažodinių tvarkymo įrankis"
+
+#~ msgid "Kapman"
+#~ msgstr "Kapman"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Žiūrėti disko panaudojimą"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "A BitTorrent program for KDE"
+#~ msgstr "BitTorrent programa skirta KDE aplinkai"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "BitTorrent klientas"
+
+#~ msgid "KTorrent"
+#~ msgstr "KTorrent"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "Profiliuoklio naudotojo sąsaja"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Veikimo profiliavimo duomenų vizualizacija"
+
+#~ msgid "Download Manager"
+#~ msgstr "Siuntimų valdymas"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "A Geography Learning Program"
+#~ msgstr "Geografijos mokymo programa"
+
+#~ msgid "Geography Trainer"
+#~ msgstr "Geografijos treniruoklis"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolor Lines"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "Treniruokitės trupmenas"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Praktiniai užsiėmimai sprendžiant trupmenas"
+
+#~ msgid "Info Center"
+#~ msgstr "Info Centras"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgid "KTeaTime"
+#~ msgstr "KTeaTime"
+
+#~ msgid "Change Password"
+#~ msgstr "Pakeisti Slaptažodį"
+
+#~ msgid "KSquares"
+#~ msgstr "KSquares"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "KonsoleKalendar"
+
+#~ msgid "KsirK"
+#~ msgstr "KsirK"
+
+#~ msgid "Palapeli"
+#~ msgstr "Palapeli"
+
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "Japonų kalbos žinynas ir studijavimo įrankis"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Japoniškas žinynas/studijavimo įrankis"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Garsų Mikšeris"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "KDE ydų tvarkymas"
+
+#~ msgid "Welcome"
+#~ msgstr "Sveiki"
+
+#~ msgid "Bookmark Editor"
+#~ msgstr "Žymelių redaktorius"
+
+#~ msgid "Bookmark Organizer and Editor"
+#~ msgstr "Žymelių organizatorius ir redaktorius"
+
+#~ msgid "KFileReplace"
+#~ msgstr "KFileReplace"
+
+#~ msgid "Search & Replace Tool"
+#~ msgstr "Paieškos ir keitimo įrankis"
+
+#~ msgid "Akonadi Tray Utility"
+#~ msgstr "Akonadi dėklo priemonė"
+
+#~ msgid "Akonaditray"
+#~ msgstr "Akondi dėklas"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Miniatiūrinis golfas"
+
+#~ msgid "A Subversion client for KDE"
+#~ msgstr "Subversion klientas skirtas KDE"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Keičiamų diskų ar kitų įrenginių programa"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "Automatiniai pelės paspaudimai"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Nuspaudžia pelės klavišą, sumažindamas skausmo sindromą"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "Trash"
+#~ msgstr "Šiukšliadėžė"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "Minesweeper primenantis žaidimas"
+
+#~ msgid "Board Game"
+#~ msgstr "Stalo žaidimas"
+
+#~ msgid "SameGame"
+#~ msgstr "Žaidimas Same"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Photo Management Program"
+#~ msgstr "Nuotraukų tvarkymo programa"
+
+#~ msgid "digiKam"
+#~ msgstr "digiKam"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Sudėtingesnė teksto rengyklė"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Okteta"
+#~ msgstr "Okteta"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Naujienų skaityklė"
+
+#~ msgid "Interactive Physical Simulator"
+#~ msgstr "Interaktyvus fizikos modeliatorius"
+
+#~ msgid "Simulate physics experiments"
+#~ msgstr "Simuliuokite fizikos eksperimentus"
+
+#~ msgid "Step"
+#~ msgstr "Step"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Meniu redaktorius"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Muzikos grotuvas"
+
+#~ msgid "KTimeTracker"
+#~ msgstr "KTimeTracker"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Asmeninis Laiko Keitėjas"
+
+#~ msgid "Akonadi Console"
+#~ msgstr "Akonadi konsolė"
+
+#~ msgid "Akonadi Management and Debugging Console"
+#~ msgstr "Akonadi tvarkymo ir išriktavimo konsolė"
+
+#~ msgid "KRDC"
+#~ msgstr "KDE nutolusio darbastalio klientas"
+
+#~ msgid "Remote Desktop Client"
+#~ msgstr "Nutolusio darbastalio klientas"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC serveris"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr ""
+#~ "KDE Linux infraraudonųjų spindulių sąsajos nuotolinio valdymo serveris"
+
+#~ msgid "KSystemLog"
+#~ msgstr "KSystemLog"
+
+#~ msgid "System log viewer tool"
+#~ msgstr "Sistemos žurnalų žiūryklė"
+
+#~ msgid "Educational Programming Environment"
+#~ msgstr "Mokomoji programavimo aplinka"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Rasti bylas/aplankus"
+
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr "Interneto skambinimo priemonės žurnalo žiūriklis"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "KPPP – žurnalo žiūriklis"
+
+#~ msgid "Kollision"
+#~ msgstr "Kollision"
+
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "Geometrinių konstrukcijų tyrinėjimas"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Interaktyvi geometrija"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Bylų tvarkyklė – super vartotojo režimas"
+
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "KDE raidžių tvarkos žaidimas"
+
+#~ msgid "Kanagram"
+#~ msgstr "Kanagram"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Raidžių rūšiavimo žaidimas"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Pastabos lapeliuose"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Diskelio formatavimas"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Dragon Player"
+#~ msgstr "Dragon Player"
+
+#~ msgid "Configure email accounts"
+#~ msgstr "Konfigūruoti elektroninio pašto paskyras"
+
+#~ msgid "Email Settings"
+#~ msgstr "Elektroninio pašto parametrai"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Priskirti komandas susiejimo klavišams"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Klavišų susiejimai"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr ""
+#~ "Itališki HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr ""
+#~ "Korėjietiški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos "
+#~ "Projekto"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid ""
+#~ "Create and edit presentations for slideshows, meeting and Web pages by "
+#~ "using Impress."
+#~ msgstr ""
+#~ "Pateikčių rengykle rengiamos pateiktys pranešimams, pateiktis galima "
+#~ "įkelti į tinklalapį."
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Impress"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Qt sąsajos redaktorius"
+
+#~ msgid "Create and edit scientific formulas and equations by using Math."
+#~ msgstr "Matematinė rengyklė skirta formulėms ir lygtims rašyti."
+
+#~ msgid "Formula"
+#~ msgstr "Formulės"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Math"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Nustatyti garsumo lygį"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Nustatyti duomenų bazės aplinką"
+
+#~ msgid "Database Access Properties"
+#~ msgstr "Priėjimo prie duomenų bazės savybės"
+
+#~ msgid "Enable/disable installed plugins"
+#~ msgstr "Įjungti/išjungti įdiegtus įskiepius"
+
+#~ msgid "Keyboard Indicator plugins"
+#~ msgstr "Klaviatūros indikatoriaus įskiepiai"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr ""
+#~ "Japoniški HOWTO dokumentai (html formato) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "3D tankų kovos žaidimas keletui žaidėjų"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Change sound volume and sound events"
+#~ msgstr "Keisti garsumą ir susieti garsus su įvykiais"
+
+#~ msgid "Choose how other users can remotely view your desktop"
+#~ msgstr "Pasirinkite, kaip kiti naudotojai gali matyti Jūsų darbastalį"
+
+#~ msgid "Screensaver"
+#~ msgstr "Ekransargis"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Nurodykite ekrano užsklandos nustatymus"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "Laisva, patogi asmeninė apskaita kievienam."
+
+#~ msgid "HomeBank"
+#~ msgstr "Namų bankas"
+
+#~ msgid "Open Folder"
+#~ msgstr "Atverti aplanką"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Test your logic skills in this number grid puzzle"
+#~ msgstr "Išmėgink savo loginį mąstymą šioje skaičių dėlionėje"
+
+#~ msgid "Download and share files over BitTorrent"
+#~ msgstr "Atsiųskite ir dalinkitės failais naudodamiesi BitTorrent"
+
+#~ msgid "Transmission"
+#~ msgstr "Transmission"
+
+#~ msgid "Log File Viewer"
+#~ msgstr "Žurnalų failų peržiūra"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "Peržiūrėti ar stebėti sistemos žurnalų failus"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Tarpinis tinklo serveris"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "Nurodyti tarpinio tinklo serverio nustatymus"
+
+#~ msgid "LXTerminal"
+#~ msgstr "LXTerminal"
+
+#~ msgid "Use the command line"
+#~ msgstr "Naudoti komandų eilutę"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "Pasirinkite, kokias programas paleisti jums prisijungiant"
+
+#~ msgid "Startup Applications"
+#~ msgstr "Paleidžiamos programos"
+
+#~ msgid "Preview fonts"
+#~ msgstr "Peržiūros šriftai"
+
+#~ msgid "Clear hidden mines from a minefield"
+#~ msgstr "Išvalykite lauką nuo paslėptų minų"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Rašyti garso klipus"
+
+#~ msgid "Set your window properties"
+#~ msgstr "Nustatyti langų ypatybes"
+
+#~ msgid "Windows"
+#~ msgstr "Langai"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Sušaldytų burbulų arkade žaidimas"
+
+#~ msgid "Configure power management"
+#~ msgstr "Konfigūruokite energijos tvarkymą"
+
+#~ msgid "Power Management"
+#~ msgstr "Energijos valdymas"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "AisleRiot Pasjansas"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "Žaisti įvairius pasjansų žaidimus"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "DjVu Žiūriklis"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Pridėk arba šalink vartotojus ir grupes"
+
+#~ msgid "Note-taker"
+#~ msgstr "Užrašinė"
+
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr "Konspektuokite, susiekite idėjas ir dirbkite tvarkingai"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Tomboy užrašai"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Archyvų tvarkymo programa"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Kurti ir modifikuoti archyvą"
+
+#~ msgid "Create and edit Web pages by using Writer."
+#~ msgstr "Kurkite ir redaguoti tinklalapius su Writer."
+
+#~ msgid "OpenOffice.org Writer/Web"
+#~ msgstr "OpenOffice.org Writer/Web"
+
+#~ msgid "Web Page Creation"
+#~ msgstr "Žiniatinklio puslapių kūrimas"
+
+#~ msgid "Search & Indexing"
+#~ msgstr "Paieška ir indeksavimas"
+
+#~ msgid "Find files, folders, and documents on your computer"
+#~ msgstr "Raskite bylas, aplankus ir dokumentus esančius Jūsų kompiuteryje"
+
+#~ msgid "About GNOME"
+#~ msgstr "Apie GNOME"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Sužinokite daugiau apie GNOME"
+
+#~ msgid "Manage running processes"
+#~ msgstr "Valdo veikiančius procesus"
+
+#~ msgid "Process manager"
+#~ msgstr "Procesų valdyklė"
+
+#~ msgid "Task Manager"
+#~ msgstr "Užduočių tvarkyklė"
+
+#~ msgid "Calculation, Analysis, and Visualization of Information"
+#~ msgstr "Skaičiavimų, analizės bei atvaizdavimo informacija"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Klaviatūra"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Keisti klaviatūros nustatymus"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "Išvalykite kortelių krūvą surinkdami sutampančias kortelių poras"
+
+#~ msgid "Mahjongg"
+#~ msgstr "Mahjongg"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr ""
+#~ "HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto "
+#~ "Vengriškai"
+
+#~ msgid "Mouse"
+#~ msgstr "Pelė"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Keisti pelės nustatymus"
+
+#~ msgid "Cheese"
+#~ msgstr "Cheese"
+
+#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
+#~ msgstr ""
+#~ "Fotografuokite ir filmuokite internetine kamera, su įdomiais efektais"
+
+#~ msgid "Dominate the board in a classic version of Reversi"
+#~ msgstr "Užimkite lentą klasikiniame Reversi variante"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Software Update"
+#~ msgstr "Programinės įrangos atnaujinimas"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "ChBg -- Darbalaukio fono keitimas/užsklanda"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "Observe power management"
+#~ msgstr "Stebėkite energijos valdymą"
+
+#~ msgid "Power Statistics"
+#~ msgstr "Energijos statistika"
+
+#~ msgid ""
+#~ "Create and edit text and graphics in letters, reports, documents and Web "
+#~ "pages by using Writer."
+#~ msgstr ""
+#~ "Tekstų rengykle galima kurti laiškus, ataskaitas, kitus dokumentus ir "
+#~ "tinklalapius, įterpti į juos paveikslus."
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Writer"
+
+#~ msgid "Four-in-a-Row"
+#~ msgstr "Keturi eilėje"
+
+#~ msgid "Make lines of the same color to win"
+#~ msgstr "Sudarykite linijas iš tos pačios spalvos"
+
+#~ msgid "Database"
+#~ msgstr "Serveris, Duomenų bazių"
+
+#~ msgid ""
+#~ "Manage databases, create queries and reports to track and manage your "
+#~ "information by using Base."
+#~ msgstr ""
+#~ "Duomenų bazių programa galima tvarkyti duomenų bazes, rašyti užklausas ir "
+#~ "ataskaitas."
+
+#~ msgid "OpenOffice.org Base"
+#~ msgstr "OpenOffice.org Base"
+
+#~ msgid "Time Tracker"
+#~ msgstr "Laiko apskaita"
+
+#~ msgid "Dasher"
+#~ msgstr "Dasher"
+
+#~ msgid "Enter text without a keyboard"
+#~ msgstr "Įveskite tekstą be klaviatūros"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "Prognozuojamo teksto įvedimas"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Profesionali CAD sistema"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "GNOME konfigūravimo įrankis"
+
+#~ msgid "Perform arithmetic, scientific or financial calculations"
+#~ msgstr "Atlikti aritmetinius, mokslinius ar finansinius skaičiavimus"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "Keisti failų tvarkyklės langų išvaizdą ir veikimą"
+
+#~ msgid "File Management"
+#~ msgstr "Bylų tvarkymas"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "Standartinis terminalo emuliatorius X Window sistemai"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCConfig"
+
+#~ msgid "Planner Project Management"
+#~ msgstr "Planner projektų valdymas"
+
+#~ msgid "Ekiga Softphone"
+#~ msgstr "Ekiga programinis telefonas"
+
+#~ msgid "IP Telephony, VoIP and Video Conferencing"
+#~ msgstr "IP telefonija, VoIP ir vaizdo konferencijos"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Kalbėkitės su kitais žmonėmis per Internetą"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Edit text files"
+#~ msgstr "Taisyti tekstines bylas"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "Iššokantys pranešimai"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "Keiskite iššokančių pranešimų nustatymus"
+
+#~ msgid "Wine Windows Program Loader"
+#~ msgstr "Wine Windows programų paleidyklė"
+
+#~ msgid "Configure file indexing with Tracker"
+#~ msgstr "Konfigūruoti failų indeksavimą su Tracker"
+
+#~ msgid "Search and Indexing"
+#~ msgstr "Paieška ir indeksavimas"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "Bonobo komponentų naršyklė"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "Rodo prieinamus Bonobo komponentus"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Evoliucija"
+
+#~ msgid "Groupware Suite"
+#~ msgstr "Grupinio darbo įrankis"
+
+#~ msgid "Manage your email, contacts and schedule"
+#~ msgstr "Tvarkykite savo el. paštą, kontaktus ir kalendorių"
+
+#~ msgid "Page Layout"
+#~ msgstr "Darbastalio leidykla"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "Darbastalio leidykla"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr ""
+#~ "Vokiški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "Howtos German"
+#~ msgstr "Vokiški HOWTO"
+
+#~ msgid "Internet Messenger"
+#~ msgstr "Pokalbiai internete"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Pidgin pokalbiai internete"
+
+#~ msgid "System information"
+#~ msgstr "Informacija apie sistemą"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr ""
+#~ "Rumuniški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid ""
+#~ "Locate documents and folders on this computer by name or content using "
+#~ "Tracker"
+#~ msgstr ""
+#~ "Naudodamiesi Tracker rasite kompiuteryje dokumentus ir aplankus pagal "
+#~ "pavadinimą arba turinį"
+
+#~ msgid "Tracker Search Tool"
+#~ msgstr "Paieškos įrankis Tracker"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "Centrinis įrangos priežiūros/informacijos įrankis"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr ""
+#~ "Lenkiški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "CUPS sąsaja lengvam spausdinimui"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "Grokit ir tvarkykit Jūsų muzikos kolekciją"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "View and organize your images"
+#~ msgstr "Žiūrėkit ir organizuokit savo paveikslėlius"
+
+#~ msgid "Orca"
+#~ msgstr "Orca"
+
+#~ msgid ""
+#~ "Present on-screen information as speech or braille, or magnify the screen"
+#~ msgstr ""
+#~ "Pateikti ekrane esančią informaciją kaip kalbą ar brailio raštą arba "
+#~ "padidinti ekraną"
+
+#~ msgid "Screen Reader and Magnifier"
+#~ msgstr "Ekrano skaitymo ir didinimo įrankis"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr ""
+#~ "Angliški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Teksto redaktorius visiems tikslams"
+
+#~ msgid "VI editor"
+#~ msgstr "VI redaktorius"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr ""
+#~ "Graikiški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Graikiški HOWTO"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "FreeCell pasjansas"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Žaidžiamas populiarus FreeCell pasjanso žaidimas."
+
+#~ msgid "Window Manager"
+#~ msgstr "Langų tvarkyklė"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr ""
+#~ "Indonezietiški HOWTO dokumentai (html formato) iš Linux Dokumentacijos "
+#~ "Projekto"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Garsioji funkcijų braižymų programa"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Tiesiogiai valdo visą konfiguracijos duomenų bazę"
+
+#~ msgid "Create and edit Scalable Vector Graphics images"
+#~ msgstr "Kurti ir redaguoti SVG iliustraciją"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr ""
+#~ "HOWTO dokumentai (html formato) iš Linux Dokumentacijos Projekto,"
+#~ "kinietiškai"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "Automatinio paleidimo raginimas"
+
+#~ msgid "Create images and edit photographs"
+#~ msgstr "Kurti paveikslėlius ir redaguoti fotografijas"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "Paveikslėlių redaktorius"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Kitas 3d šviesų žaidimas"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "bug-buddy"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "Praneškite apie klaidas, esančias GNOME programose"
+
+#~ msgid "Breakout-style arcade game"
+#~ msgstr "Breakout stiliaus arkadinis žaidimas"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "Lights Off"
+#~ msgstr "Šviesos išjungtos"
+
+#~ msgid "Turn off all the lights"
+#~ msgstr "Išjungti visas šviesas"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr ""
+#~ "Švediški HOWTO dokumentai (html formatu) iš Linux Dokumentacijos Projekto"
+
+#~ msgid "Import into F-Spot"
+#~ msgstr "Importuoti į F-Spot"
+
+#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
+#~ msgstr ""
+#~ "Grafikos rengykle galima braižyti brėžinius, blokines schemas, kurti "
+#~ "logotipus."
+
+#~ msgid "Drawing"
+#~ msgstr "Piešimas"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Draw"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "Pravesti kirminą pro labirintą"
+
+#~ msgid "Nibbles"
+#~ msgstr "Nibbles"
+
+#~ msgid "Karbon14"
+#~ msgstr "Karbon14"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "KOffice"
+#~ msgstr "KOffice"
+
+#~ msgid "KPlato"
+#~ msgstr "KPlato"
+
+#~ msgid "Krita"
+#~ msgstr "Krita"
+
+#~ msgid "KAudioCreator"
+#~ msgstr "KAudioCreator"
+
+#~ msgid "KMid"
+#~ msgstr "KMid"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "A collection manager"
+#~ msgstr "Kolekcijų tvarkyklė"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Dviejų skydelių failų tvarkyklė"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Muine muzikos grotuvas"
+
+#~ msgid "Bulk Rename"
+#~ msgstr "Masinis pervadinimas"
+
+#~ msgid "Rename Multiple Files"
+#~ msgstr "Pervadinti daug failų"
+
+#~ msgid "Open Folder with Thunar"
+#~ msgstr "Atidaryti katalogą su Thunar"
+
+#~ msgid "Open the specified folders in Thunar"
+#~ msgstr "Atidaryti nurodytus katalogus Thunar"
+
+#~ msgid "Thunar File Manager"
+#~ msgstr "Thunar failų tvarkyklė"
+
+#~ msgid "Accerciser"
+#~ msgstr "Accerciser"
+
+#~ msgid "Give your application an accessibility workout"
+#~ msgstr "Ištestuokite savo programos prieinamumo palaikymą"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Develop software in an integrated development environment"
+#~ msgstr "Kurti programas integruotoje programavimo aplinkoje"
+
+#~ msgid "Molecule puzzle game"
+#~ msgstr "Molekulių galvosūkis"
+
+#~ msgid "Listen to music"
+#~ msgstr "Klausyti muzikos"
+
+#~ msgid "A dock-like window navigator."
+#~ msgstr "Juostos tipo langų tvarkytuvas"
+
+#~ msgid "Avant Window Navigator"
+#~ msgstr "Avant langų tvarkytuvas"
+
+#~ msgid "Awn Settings"
+#~ msgstr "Awn nustatymai"
+
+#~ msgid "Manage Awn preferences, launchers, applets and themes"
+#~ msgstr "Tvarkyti Awn nustatymus, paleidėjus, pusprogrames ir temas"
+
+#~ msgid "Blam Feed Reader"
+#~ msgstr "Blam naujienų skaityklė"
+
+#~ msgid "Feed reader"
+#~ msgstr "Naujienų skaityklė"
+
+#~ msgid "Blueman Bluetooth Manager"
+#~ msgstr "Blueman Bluetooth Tvarkyklė"
+
+#~ msgid "Bluetooth Manager"
+#~ msgstr "Bluetooth Tvarkyklė"
+
+#~ msgid "BMPx: Play Files"
+#~ msgstr "BMPx: Groti failus"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr. Geo"
+
+#~ msgid "Edit tags in your audio files"
+#~ msgstr "Redaguoti Jūsų garso failų žymes"
+
+#~ msgid "A GTK+ Jabber client"
+#~ msgstr "GTK+ Jabber klientas"
+
+#~ msgid "Gajim Instant Messenger"
+#~ msgstr "Gajim Greitųjų žinučių programa"
+
+#~ msgid "Jabber IM Client"
+#~ msgstr "Jabber IM Klientas"
+
+#~ msgid "ICC Profile Installer"
+#~ msgstr "ICC profilių diegiklis"
+
+#~ msgid "ICC profile installer"
+#~ msgstr "ICC profilių diegiklis"
+
+#~ msgid "Install ICC profiles"
+#~ msgstr "Įdiegti ICC profilius"
+
+#~ msgid "Color Profiles"
+#~ msgstr "Spalvų profiliai"
+
+#~ msgid "Manage ICC color profiles"
+#~ msgstr "Tvarkyti ICC spalvų profilius"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "GCompris administravimas"
+
+#~ msgid "GCompris Administration"
+#~ msgstr "GCompris administravimas"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "Mokomasis žaidimas vaikams nuo 2 iki 10 metų amžiaus"
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "Mokomieji žaidimai „GCompris“"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr "Daugialypis mokomasis žaidimas"
+
+#~ msgid "Text Editor (administrator)"
+#~ msgstr "Tekstų redaktorius (administratoriaus)"
+
+#~ msgid "Git repository browser"
+#~ msgstr "Git repozitorijų naršyklė"
+
+#~ msgid "gitg"
+#~ msgstr "gitg"
+
+#~ msgid ""
+#~ "Opens a terminal as the root user, using gksu to ask for the password"
+#~ msgstr ""
+#~ "Atveria terminalą 'root' naudotojo teisėmis, naudojant gksu slaptažodžiui "
+#~ "įvesti"
+
+#~ msgid "Root Terminal"
+#~ msgstr "Administratoriaus terminalas"
+
+#~ msgid "Configure your printers"
+#~ msgstr "Konfigūruoti jūsų spausdintuvus"
+
+#~ msgid ""
+#~ "Do things as quickly as possible (but no quicker) with your files, "
+#~ "bookmarks, applications, music, contacts, and more!"
+#~ msgstr ""
+#~ "Atlikite veiksmus kaip įmanoma greičiau su failais, adresyno žymelėmis, "
+#~ "programomis, muzika, kontaktais ir kita!"
+
+#~ msgid "GNOME Do"
+#~ msgstr "GNOME Do"
+
+#~ msgid "Drivel Journal Editor"
+#~ msgstr "Žurnalų redaktorius Drivel"
+
+#~ msgid "Journal Editor"
+#~ msgstr "Žurnalų redaktorius"
+
+#~ msgid "Update and manage your online journal"
+#~ msgstr "Atnaujinti ir valdyti Jūsų internetiniam žurnalui"
+
+#~ msgid "Network Tools"
+#~ msgstr "Tinklų įrankiai"
+
+#~ msgid "View information about your network"
+#~ msgstr "Rodyti informaciją apie tinklą"
+
+#~ msgid "Manage your system tasks"
+#~ msgstr "Valdykit Jūsų sistemos užduotis"
+
+#~ msgid "Personal File Sharing"
+#~ msgstr "Asmeninių failų bendrinimas"
+
+#~ msgid "Preferences for sharing of files"
+#~ msgstr "Failų viešinimo nustatymai"
+
+#~ msgid "CD/DVD Writer"
+#~ msgstr "CD/DVD įrašymas ir kopijavimas"
+
+#~ msgid "GnomeBaker CD/DVD Writer"
+#~ msgstr "GnomeBaker Įrašymas į CD/DVD"
+
+#~ msgid "Write/Copy CD and DVD"
+#~ msgstr "Įrašykite/kopijuokite duomenis, muziką ar video į CD/DVD diskus"
+
+#~ msgid "Find, download, and play free music."
+#~ msgstr "Find, download, and play free music."
+
+#~ msgid "Gnomoradio Music Player"
+#~ msgstr "Gnomoradio Music Player"
+
+#~ msgid "Gnote"
+#~ msgstr "Gnote"
+
+#~ msgid "Play and extract CDs"
+#~ msgstr "Groti CD ir rašyti muzikai iš jų"
+
+#~ msgid "Gossip Instant Messenger"
+#~ msgstr "Greitų žinučių programa „Gossip“"
+
+#~ msgid "Create, reorganize, and delete partitions"
+#~ msgstr "Kurkite, pertvarkykite ir ištrinkite skirsnius"
+
+#~ msgid "GParted"
+#~ msgstr "GParted"
+
+#~ msgid "Partition Editor"
+#~ msgstr "Skirsnių redaktorius"
+
+#~ msgid "Gramps Genealogy System"
+#~ msgstr "Gramps Genealogijos Sistema"
+
+#~ msgid ""
+#~ "Manage genealogical information, perform genealogical research and "
+#~ "analysis"
+#~ msgstr ""
+#~ "Tvarkyti geneologinę informaciją, atlikti geneologinius tyrinėjimus ir "
+#~ "analizę"
+
+#~ msgid "CD Creator"
+#~ msgstr "CD kūrimo bei rašymo programa"
+
+#~ msgid "Create and copy data and audio CD"
+#~ msgstr "Kurkite bei kopijuokite duomenų ir muzikinius CD"
+
+#~ msgid "Graveman"
+#~ msgstr "Graveman"
+
+#~ msgid "Gtranslator PO Editor"
+#~ msgstr "Gtranslator PO redaktorius"
+
+#~ msgid "Translate and localize applications and libraries"
+#~ msgstr "Verskite ir lokalizuokite programas ir bibliotekas"
+
+#~ msgid "KThesaurus"
+#~ msgstr "KThesaurus"
+
+#~ msgid "Database Creator"
+#~ msgstr "Duomenų bazių kūrimo programa"
+
+#~ msgid "A graphical FTP client"
+#~ msgstr "Grafinis FTP klientas"
+
+#~ msgid "FTP Client"
+#~ msgstr "FTP klientas"
+
+#~ msgid "A Graphviz dot graph viewer for KDE"
+#~ msgstr "KDE KPart programa"
+
+#~ msgid "(La)TeX development environment"
+#~ msgstr "(La)TeX programavimo aplinka"
+
+#~ msgid "Kile"
+#~ msgstr "Kile"
+
+#~ msgid "LaTeX Frontend"
+#~ msgstr "LaTeX vartotojo sąsaja"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "MSN klientas"
+
+#~ msgid "KNemo"
+#~ msgstr "KNemo"
+
+#~ msgid "Network Monitor"
+#~ msgstr "Tinklo stebėjimas"
+
+#~ msgid "Krusader - root-mode"
+#~ msgstr "Krusader – root režimas"
+
+#~ msgid "Twin-Panel File Manager with root-privileges"
+#~ msgstr "Dviejų skydelių failų tvarkyklė su root teisėmis"
+
+#~ msgid "Kuickshow"
+#~ msgstr "Kuickshow"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "KDE KPart programa"
+
+#~ msgid "Mailody"
+#~ msgstr "Mailody"
+
+#~ msgid "rekonq"
+#~ msgstr "rekonq"
+
+#~ msgid "Collection Manager"
+#~ msgstr "Kolekcijų tvarkyklė"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
+#~ msgstr ""
+#~ "Nusileidžiantis terminalo emuliatorius paremtas KDE Konsole technologija."
+
+#~ msgid "Yakuake"
+#~ msgstr "Yakuake"
+
+#~ msgid "Configure keyboard, mouse, and other input devices"
+#~ msgstr "Konfigūruoti klaviatūrą, pelę ir kitus įvedimo įrenginius"
+
+#~ msgid "Keyboard and Mouse"
+#~ msgstr "Klaviatūra ir pelė"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Clanbomber - nemokamas Bomberman tipo žaidimas keletui žaidėjų"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Galingas lenktynių žaidimas, kuriame dalyvauja Tux'as"
+
+#~ msgid "Maintain and query a SQL database"
+#~ msgstr "Valdo SQL duomenų bazę bei vykdo užklausas"
+
+#~ msgid "Mergeant Database Administration"
+#~ msgstr "Mergeant duomenų bazių valdymas"
+
+#~ msgid "Mousepad"
+#~ msgstr "Mousepad"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Klausykitės muzikos"
+
+#~ msgid "Add items to the Nautilus popup menu"
+#~ msgstr "Įtraukti naujus punktus į Nautilus meniu"
+
+#~ msgid "Nautilus Actions Configuration"
+#~ msgstr "Nautilus veiksmų konfigūravimas"
+
+#~ msgid "Manage and change your network connection settings"
+#~ msgstr "Tvarkykite ir keiskite savo tinklo ryšių parametrus"
+
+#~ msgid "Network Connections"
+#~ msgstr "Tinklo ryšiai"
+
+#~ msgid "Enable/disable write support for NTFS with a simple click."
+#~ msgstr "Įjungti ar išjungti rašymą į NTFS (Windows) skirsnius."
+
+#~ msgid "NTFS Configuration Tool"
+#~ msgstr "Rašymo į NTFS (Windows) skirsnius nustatymas"
+
+#~ msgid "Manage virtual machine configurations"
+#~ msgstr "Tvarkykite virtualaus kompiuterio konfigūracijas"
+
+#~ msgid "Qemu Launcher"
+#~ msgstr "Qemu Paleidėjas"
+
+#~ msgid "Listen to, browse, or edit your audio collection"
+#~ msgstr "Klausykite, naršykite ar redaguokite savo muzikos kolekciją"
+
+#~ msgid "Connect to remote desktops"
+#~ msgstr "Jungtis prie nutolusių darbalaukių"
+
+#~ msgid "Remmina Remote Desktop Client"
+#~ msgstr "Remmina nutolusio darbalaukio klientas"
+
+#~ msgid "Decrypt File"
+#~ msgstr "Iššifruoti failą"
+
+#~ msgid "Import Key"
+#~ msgstr "Importuoti raktą"
+
+#~ msgid "Configure key servers and other encryption settings"
+#~ msgstr "Konfigūruoti raktų serverius ir kitus šifravimo nustatymus"
+
+#~ msgid "Encryption and Keyrings"
+#~ msgstr "Šifravimas ir raktinės"
+
+#~ msgid "Verify Signature"
+#~ msgstr "Patikrinti parašą "
+
+#~ msgid "Manage your passwords and encryption keys"
+#~ msgstr "Tvarkyti jūsų slaptažodžius ir šifravimo raktus"
+
+#~ msgid "Passwords and Encryption Keys"
+#~ msgstr "Slaptažodžiai bei el. raktai šifravimui ir pasirašymui"
+
+#~ msgid "Configure which folders are available for your network neighborhood"
+#~ msgstr "Nurodykite, kurie aplankai yra prieinami Jūsų tinklo kaimynams"
+
+#~ msgid "Shared Folders"
+#~ msgstr "Viešinami aplankai"
+
+#~ msgid "Organize your photos"
+#~ msgstr "Shotwell Photo Manager"
+
+#~ msgid "Play Adobe Flash files"
+#~ msgstr "Rodyti Adobe Flash failus"
+
+#~ msgid "Swfdec Flash Player"
+#~ msgstr "Swfdec Flash grotuvas"
+
+#~ msgid "Audio Tag Tool"
+#~ msgstr "Audio Tag Tool"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "Keisti sistemos laikui, datai ir laiko juostai"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Piešimo programa vaikams."
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "GPS Data Manager"
+#~ msgstr "GPS duomenų vedlys"
+
+#~ msgid "Map Based GPS Data Manager (live data capable)."
+#~ msgstr "Žemėlapiais paremtas GPS duomenų vedlys (duomenys realiu laiku)."
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid ""
+#~ "A translation tool to help a human translator translate files into other "
+#~ "languages"
+#~ msgstr "Įrankis, padedantis vertėjams versti failus į kitas kalbas"
+
+#~ msgid "Virtaal"
+#~ msgstr "Virtaal"
+
+#~ msgid "Read, capture, broadcast your multimedia streams"
+#~ msgstr "VLC grotuvas"
+
+#~ msgid "Chat with people using IRC"
+#~ msgstr "Plepėti su žmonėmis naudojant IRC"
+
+#~ msgid "XChat-GNOME IRC Chat"
+#~ msgstr "Xchat-GNOME IRC pokalbiai"
+
+#~ msgid "Graphical Settings Manager for Xfce 4"
+#~ msgstr "Grafinė Nuostatų Tvarkyklė Xfce 4 Aplinkai"
+
+#~ msgid "Settings Manager"
+#~ msgstr "Nuostatų Tvarkyklė"
+
+#~ msgid "Xfce 4 Settings Manager"
+#~ msgstr "Xfce 4 Nuostatų Tvarkyklė"
+
+#~ msgid "Print Manager"
+#~ msgstr "Spausdinimo tvarkyklė"
+
+#~ msgid "Show the printer list and allow you to manage their jobs"
+#~ msgstr "Rodyti spausdintuvų sąrašą ir leisti valdyti jų darbus"
+
+#~ msgid "Xfce 4 Print Manager"
+#~ msgstr "Xfce 4 Spausdinimo tvarkyklė"
+
+#~ msgid ""
+#~ "Allow you to select the printing system backend that xfprint will use"
+#~ msgstr "Leisti pasirinkti kurį spausdinimo posistemę kurią Xfprint naudos"
+
+#~ msgid "Printing System Settings"
+#~ msgstr "Spausdinimo Sistemos Nustatymai"
+
+#~ msgid "Xfce 4 Printing System Settings"
+#~ msgstr "Xfce 4 Spausdinimo Sistemos Nustatymai"
+
+#~ msgid "Print Dialog"
+#~ msgstr "Spausdinimo Dialogo Langas"
+
+#~ msgid "Print a file and allow you to set up its layout"
+#~ msgstr "Spausdinti failą ir leisti pasirinkti išdėstymą"
+
+#~ msgid "Xfce 4 Print Dialog"
+#~ msgstr "Xfce 4 Spausdinimo Dialogo Langas"

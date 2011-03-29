@@ -1,0 +1,1038 @@
+# translation of bootsplash.po to URDU
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# azeem <azeemkhan@ciit.net.pk>, 2004
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bootsplash\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2004-06-21 14:03-0400\n"
+"Last-Translator: azeem <azeemkhan@ciit.net.pk>\n"
+"Language-Team: URDU <C@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Generator: KBabel 1.0.1\n"
+
+msgid "2D Graphics"
+msgstr ""
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "CD اور DVD برننگ اطلاقیہ"
+
+msgid "3D Graphics"
+msgstr ""
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "CD اور DVD برننگ اطلاقیہ"
+
+msgid "A clock application/applet"
+msgstr ""
+
+msgid "A simple amusement"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "قابلیت رسائی"
+
+#, fuzzy
+msgid "Action"
+msgstr "لغت"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+#, fuzzy
+msgid "Administration"
+msgstr "Gکمپرا ئز کے ليے انتظا ميه"
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "اطلاقیہ تلاش کار"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+#, fuzzy
+msgid "Applications"
+msgstr "اطلاقیہ تلاش کار"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr ""
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "محفوظہ منیجر"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+#, fuzzy
+msgid "Biology"
+msgstr "گیگولو"
+
+msgid "Biology software"
+msgstr ""
+
+msgid "Board Games"
+msgstr ""
+
+msgid "Boards"
+msgstr ""
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr ""
+
+msgid "Calculators"
+msgstr ""
+
+msgid "Calendar"
+msgstr "کیلینڈر"
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr ""
+
+msgid "Cards"
+msgstr ""
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr ""
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+msgid "Communications"
+msgstr ""
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr ""
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+msgid "Computer science"
+msgstr ""
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "مجوزہ اطلاقیے"
+
+#, fuzzy
+msgid "Desktop"
+msgstr "ڈیسک ٹاپ"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr ""
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "کوئی پروگرام یا کمانڈ چلائیں"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "لغت"
+
+msgid "Dictionary"
+msgstr "لغت"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "دستاویزات كا مجموعه"
+
+msgid "Economy"
+msgstr ""
+
+#, fuzzy
+msgid "Editors"
+msgstr "ٹیکسٹ ایڈیٹر"
+
+msgid "Education"
+msgstr ""
+
+msgid "Electricity"
+msgstr ""
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "ٹرمنل ایمولیٹر"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "فائل منیجر"
+
+msgid "File Systems"
+msgstr ""
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "فائل منیجر"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr ""
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "Games"
+msgstr ""
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "گیگولو"
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "IRC"
+msgstr ""
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "ایم پی ڈی کلائنٹ"
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "ا نٹرنیٹ میسینجر"
+
+msgid "Instant messaging clients"
+msgstr ""
+
+#, fuzzy
+msgid "Internet"
+msgstr "ا نٹرنیٹ میسینجر"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr ""
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Literature"
+msgstr ""
+
+msgid "Logic Games"
+msgstr ""
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr ""
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+msgid "Mixers"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+#, fuzzy
+msgid "Music"
+msgstr "ماؤس"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+#, fuzzy
+msgid "Network-related settings"
+msgstr "نیٹ ورک اتصال"
+
+#, fuzzy
+msgid "News"
+msgstr "نوٹ"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "کوئی پروگرام یا کمانڈ چلائیں"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+#, fuzzy
+msgid "Personal"
+msgstr "ٹرمنل"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "دستاویزات كا مجموعه"
+
+#, fuzzy
+msgid "Printing"
+msgstr "طباعت ڈائیلاگ"
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "توانائی منیجر"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+msgid "Raster Graphics"
+msgstr ""
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "سکرین شوٹ"
+
+msgid "Security"
+msgstr ""
+
+msgid "Security tools"
+msgstr ""
+
+msgid "Sequencers"
+msgstr ""
+
+#, fuzzy
+msgid "Settings"
+msgstr "ترتیبات ایڈیٹر"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr ""
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+#, fuzzy
+msgid "System settings"
+msgstr "طباعت نظام ترتیبات"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "CD اور DVD برننگ اطلاقیہ"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "مجوزہ اطلاقیے"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "ٹرمنل ایمولیٹر"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "ٹرمنل"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "ٹیکسٹ ایڈیٹر"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr ""
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+msgid "Vector Graphics"
+msgstr ""
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+msgid "Video Players"
+msgstr ""
+
+msgid "Video Recorders"
+msgstr ""
+
+#, fuzzy
+msgid "Viewers"
+msgstr "تصاویر منظر کار"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "ویب براؤزر"
+
+msgid "Web Development"
+msgstr ""
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "ایم پی ڈی کلائنٹ"
+
+#~ msgid "Advanced"
+#~ msgstr "اعلٰی ترین"
+
+#~ msgid "Browse the web"
+#~ msgstr "ویب براؤز کریں"
+
+#~ msgid "Appearance"
+#~ msgstr "مظہر"
+
+#~ msgid "Panel"
+#~ msgstr "پینل"
+
+#~ msgid "Simple text editor"
+#~ msgstr "سادہ ٹیکسٹ ایڈیٹر"
+
+#~ msgid "Help"
+#~ msgstr "مدد"
+
+#~ msgid "Welcome"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Open Folder"
+#~ msgstr "فولڈر کھولیں"
+
+#~ msgid "LXTerminal"
+#~ msgstr "ایل ایکس ٹرمنل"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "محفوظہ بنائیں اور تبدیل کریں"
+
+#~ msgid "Task Manager"
+#~ msgstr "ٹاسک منیجر"
+
+#~ msgid "Keyboard"
+#~ msgstr "کیبورڈ"
+
+#~ msgid "Window Manager"
+#~ msgstr "ونڈو منیجر"
+
+#~ msgid "Bulk Rename"
+#~ msgstr "بلک رینیم"
+
+#~ msgid "Rename Multiple Files"
+#~ msgstr "متعدد فائلوں کا نام بدلیں"
+
+#~ msgid "Open Folder with Thunar"
+#~ msgstr "فولڈر تھنر سے کھولیں"
+
+#~ msgid "Open the specified folders in Thunar"
+#~ msgstr "متعین فولڈر تھنر میں کھولیں"
+
+#~ msgid "Browse the filesystem with the file manager"
+#~ msgstr "فائل سسٹم کو فائل منیجر سے دیکھیں"
+
+#~ msgid "Thunar File Manager"
+#~ msgstr "تھنر فائل منیجر"
+
+#~ msgid ""
+#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
+#~ msgstr "مجوزہ اطلاقیے (ویب براؤزر، ای میل ریڈر، اور ٹرمنل ایمولیٹر)"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "۲   سے  ۱۰  سال کے ليے تعليمي کھيل"
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "منا سب تعليميGکمپرائز"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr ""
+#~ "متر جمين : آپکي زبان کے ليے يهاں پر حسابي آپر بٹر ز رکھيں متعدد عملي "
+#~ "تعليمي کھيل"
+
+#~ msgid "A simple frontend to easily connect to remote filesystems"
+#~ msgstr "آسانی سے بعید فائل سسٹمز سے متصل ہونے کے لی سادہ فرنٹ اینڈ"
+
+#~ msgid "Panel Manager"
+#~ msgstr "پینل منیجر"
+
+#~ msgid "Mousepad"
+#~ msgstr "ماؤس پیڈ"
+
+#~ msgid "Manage and change your network connection settings"
+#~ msgstr "اپنے نیٹ ورک اتصال کی تبدیلی اور ادارت کریں"
+
+#~ msgid "Archive manager"
+#~ msgstr "محفوظہ منیجر"
+
+#~ msgid "Configure the Thunar file manager"
+#~ msgstr "تھنر فائل منیجر مرتب کریں"
+
+#~ msgid "A GTK+2 only archive manager"
+#~ msgstr "صرف GTK+2 محفوظہ منیجر"
+
+#~ msgid "Xarchiver"
+#~ msgstr "Xarchiver"
+
+#~ msgid "Xfburn"
+#~ msgstr "Xfburn"
+
+#~ msgid "Desktop calendar"
+#~ msgstr "ڈیسک ٹاپ کیلینڈر"
+
+#~ msgid "Orage"
+#~ msgstr "کیلینڈر"
+
+#~ msgid "Set desktop background and menu and icon behaviour"
+#~ msgstr "ڈیسک ٹاپ پس منظر، مینیو اور آئکن کا انداز متعین کریں"
+
+#~ msgid "Configure screen settings and layout"
+#~ msgstr "سکرین کی ترتیبات اور خاکہ مرتب کریں"
+
+#~ msgid "Edit keyboard settings and application shortcuts"
+#~ msgstr "کیبورڈ کی ترتیبات اور اطلاقیوں کے شارٹ کٹس مدون کریں"
+
+#~ msgid "Configure pointer device behavior and appearance"
+#~ msgstr "پؤائینٹر ڈیوائس کا سلوک اور مظہر متعین کریں"
+
+#~ msgid "Customize desktop startup and splash screen"
+#~ msgstr "ڈیسک ٹاپ سٹارٹ اپ اور سپلیش سکرین وضع کریں"
+
+#~ msgid "Session and Startup"
+#~ msgstr "نشست اور سٹارٹ اپ"
+
+#~ msgid "Graphical Settings Manager for Xfce 4"
+#~ msgstr "تصویری ترتیبات منیجر برائے ایکسفس 4"
+
+#~ msgid "Settings Manager"
+#~ msgstr "ترتیبات منیجر"
+
+#~ msgid "Xfce 4 Settings Manager"
+#~ msgstr "ایکسفس 4 ترتیبات منیجر"
+
+#~ msgid "Customize the look of your desktop"
+#~ msgstr "اپنے ڈیسک ٹاپ کا حلیہ مرتب کریں"
+
+#~ msgid "Configure window behavior and shortcuts"
+#~ msgstr "ونڈو کا سلوک اور شارٹ کٹ وضع کریں"
+
+#~ msgid "Fine-tune window behaviour and effects"
+#~ msgstr "ونڈو کا سلوک اور ایفیکٹ مرتب کریں"
+
+#~ msgid "Window Manager Tweaks"
+#~ msgstr "ونڈو منیجر کار کردگی"
+
+#~ msgid "Set number and names of workspaces"
+#~ msgstr "مقام کاروں کی تعداد اور نام متعین کریں"
+
+#~ msgid "Workspaces"
+#~ msgstr "مقام کار"
+
+#~ msgid "Calendar Settings"
+#~ msgstr "کیلینڈر ترتیبات"
+
+#~ msgid "Settings for the Xfce 4 Calendar Application"
+#~ msgstr "ترتیبات برائے ایکسفس 4 کیلنڈر اطلاقیہ"
+
+#~ msgid "Xfce 4 Calendar Settings"
+#~ msgstr "ایکسفس 4 کیلینڈر ترتیبات"
+
+#~ msgid "About Xfce"
+#~ msgstr "ایکسفس کی بابت"
+
+#~ msgid "Information about the Xfce Desktop Environment"
+#~ msgstr "ایکسفس ڈیسک ٹاپ ماحول کے بارے میں معلومات"
+
+#~ msgid "Improve keyboard and mouse accessibility"
+#~ msgstr "کیبورڈ اور ماؤس کی قابلیت رسائی بہتر کریں"
+
+#~ msgid "Find and launch applications installed on your system"
+#~ msgstr "نظام میں نصب اطلاقیے تلاش کریں اور چلائیں"
+
+#~ msgid "Clipboard manager"
+#~ msgstr "کلپ بورڈ منیجر"
+
+#~ msgid "Clipman"
+#~ msgstr "کلپ مین"
+
+#~ msgid "A client program to query different dictionaries."
+#~ msgstr "مختلف لغتوں میں تلاش کے لیے ایک کلائینٹ پروگرام."
+
+#~ msgid "Dictionary Client"
+#~ msgstr "لغت کلائنٹ"
+
+#~ msgid "Thunar file manager"
+#~ msgstr "تھنر فائل منیجر"
+
+#~ msgid "Help using Xfce"
+#~ msgstr "ایکسفس کے استعمال کی ہدایات"
+
+#~ msgid "Log Out"
+#~ msgstr "لاگ آؤٹ"
+
+#~ msgid "Log out of the Xfce Desktop"
+#~ msgstr "ایکسفس ڈیسک ٹاپ سے لاگ آؤٹ کریں"
+
+#~ msgid "Ideal for your quick notes"
+#~ msgstr "آپ کے فوری نوٹس کے لیے بہترین ہے"
+
+#~ msgid "Customize the panel settings"
+#~ msgstr "پینل کی ترتیبات"
+
+#~ msgid "Settings for the Xfce 4 Power Manager"
+#~ msgstr "ترتیبات برائے ایکسفس 4 توانائی منیجر"
+
+#~ msgid "Xfce 4 Power Manager"
+#~ msgstr "ایکسفس 4 توانائی منیجر"
+
+#~ msgid "Run Program..."
+#~ msgstr "پروگرام چلائیں..."
+
+#~ msgid ""
+#~ "Take screenshots of the entire screen, of the active window or of a region"
+#~ msgstr "پوری سکرین، فعال ونڈو یا مخصوص علاقے کی تصویر اتاریں"
+
+#~ msgid "Sensor Viewer"
+#~ msgstr "سینسر منظرکار"
+
+#~ msgid "Sensors Values Viewer"
+#~ msgstr "سینسر قدر منظرکار"
+
+#~ msgid "Show sensor values."
+#~ msgstr "سینسر ویلیو دکھائیں:"
+
+#~ msgid "Graphical settings editor for Xfconf"
+#~ msgstr "تصویری ترتیبات مدون کار برائے Xfconf"
+
+#~ msgid "MPD client written in GTK+ for Xfce"
+#~ msgstr "ایم پی ڈی MPD کلائنٹ جو ایکسفس کے لیے GTK+ میں لکھا گیا ہے"
+
+#~ msgid "Xfmpc"
+#~ msgstr "Xfmpc"
+
+#~ msgid "Print Manager"
+#~ msgstr "پرنٹ منیجر"
+
+#~ msgid "Show the printer list and allow you to manage their jobs"
+#~ msgstr "پرنٹر کی فہرست ظاہر کرکے آپ کو ان کے کام کی ادارت کی صلاحیت دیتی ہے"
+
+#~ msgid "Xfce 4 Print Manager"
+#~ msgstr "ایکسفس 4 طباعت منیجر"
+
+#~ msgid ""
+#~ "Allow you to select the printing system backend that xfprint will use"
+#~ msgstr ""
+#~ "آپ کو طباعت نظام کے پس منظر کے انتخاب کی اجازت دیتا ہے جسے xfprint "
+#~ "استعمال کرے گا"
+
+#~ msgid "Xfce 4 Printing System Settings"
+#~ msgstr "ایکسفس 4 طباعت نظام ترتیبات"
+
+#~ msgid "Print a file and allow you to set up its layout"
+#~ msgstr "فائل کی طباعت اور اس کے خاکہ کی ترتیب کی اجازت دیتی ہے"
+
+#~ msgid "Xfce 4 Print Dialog"
+#~ msgstr "ایکسفس 4 طباعت ڈائیلاگ"

@@ -1,0 +1,2977 @@
+# translation of menu-messages-az.po to Azerbaijani
+# menu-messages-az.po faylının Azərbaycan dilinə tərcüməsi
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/az.php3
+#
+# Collection of titles/sections of Linux-Mandrake menu's.
+# It's generated from the /usr/lib/menu/* files.
+# Copyright (C) 2000 MandrakeSoft
+# Vasif Ismailoglu MD <azerb_linux@hotmail.com>, 2000-2001.
+# Mətin Əmirov <metin@karegen.com>, 2001-2003, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages-az\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2004-09-12 19:56+0300\n"
+"Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
+"Language-Team: Azerbaijani <translation-team-az@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: az\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Qrafika"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Terminal Proqramları"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Qrafika"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Terminal Proqramları"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Fayl İdarəsi"
+
+msgid "Accessibility"
+msgstr "Yetişmə Qabiliyyəti"
+
+#, fuzzy
+msgid "Action"
+msgstr "Təhsil"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Hərəkət-tapmaca oyunu"
+
+msgid "AddressBooks"
+msgstr ""
+
+#, fuzzy
+msgid "Administration"
+msgstr "İstifadəçi İdarəsi"
+
+msgid "Adventure"
+msgstr "Macəra"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Macəra"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Proqramlar"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Proqramlar"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Əyləncə"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Video oyunu"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Arxiv İdarəçisi"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Astronomiya"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Astronomiya"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Rəsm Çalğıcısı"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Səs Qeyd Edicisi"
+
+msgid "Biology"
+msgstr "Biyologiya"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Morph proqramı"
+
+msgid "Board Games"
+msgstr "Lüvhə Oyunları"
+
+msgid "Boards"
+msgstr "Lövhə oyunları"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Hesaplayıcı"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Hesaplayıcı"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Kart Oyunları"
+
+msgid "Cards"
+msgstr "Cards"
+
+#, fuzzy
+msgid "Chart"
+msgstr "KCharSelect"
+
+#, fuzzy
+msgid "Chat"
+msgstr "Söhbət"
+
+msgid "Chemistry"
+msgstr "Kimya"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Kimya"
+
+#, fuzzy
+msgid "Clock"
+msgstr "KCalc"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Proqramlar"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Kompüter elmi"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "Kompüter elmi"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "Kompüter elmi"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Kompüter elmi"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Quraşdırma Editoru"
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+#, fuzzy
+msgid "Data Visualization"
+msgstr "Yerliləşdirmə"
+
+#, fuzzy
+msgid "Data visualization software"
+msgstr "Vizualizasiya Data Səyyahı"
+
+msgid "Databases"
+msgstr "Databeyz"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Daha Çox Proqram"
+
+msgid "Desktop"
+msgstr "Masa Üstü"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "İnkişaf"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "3D qrafika proqramı"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Lüğət"
+
+msgid "Dictionary"
+msgstr "Lüğət"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Sənədlər"
+
+#, fuzzy
+msgid "Economy"
+msgstr "Astronomiya"
+
+msgid "Editors"
+msgstr "Editorlar"
+
+msgid "Education"
+msgstr "Təhsil"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Təhlükəsizlik"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Xmailbox"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Terminal Proqramları"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Emulyatorlar"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Düşən bloku bərabər tut"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "Düşən bloku bərabər tut"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Fayl İdarəcisi"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sistem"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Fayl İdarəcisi"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Sistem Vasitələri"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Mətn vasitələri"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Elmlər"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Terminal Proqramları"
+
+msgid "Games"
+msgstr "Oyunlar"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr "Uşaxlar Üçün Oyunlar"
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "Biyologiya"
+
+#, fuzzy
+msgid "Geology software"
+msgstr "Morph proqramı"
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Geologiya elmi"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Geologiya elmi"
+
+msgid "Geosciences"
+msgstr "Geologiya elmi"
+
+msgid "Graphics"
+msgstr "Qrafika"
+
+#, fuzzy
+msgid "HAM radio software"
+msgstr "Morph proqramı"
+
+msgid "Hardware"
+msgstr "Avadanlıq"
+
+msgid "History"
+msgstr "Keçmiş"
+
+#, fuzzy
+msgid "IDE"
+msgstr "IDLE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Proqramlar"
+
+msgid "IRC"
+msgstr "IRC"
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "Whois alıcısı"
+
+#, fuzzy
+msgid "Image Processing"
+msgstr "Rəsm səyyahı"
+
+#, fuzzy
+msgid "Image Processing software"
+msgstr "Morph proqramı"
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Universal xəbərləşmə vasitəsi"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Universal xəbərləşmə vasitəsi"
+
+msgid "Internet"
+msgstr "İnternet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Daha Çox Proqram"
+
+#, fuzzy
+msgid "Java"
+msgstr "Lavaps"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Dillər"
+
+msgid "Literature"
+msgstr "Ədəbiyyat"
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Məntiq oyunu"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "Morph proqramı"
+
+msgid "Mathematics"
+msgstr "Riyaziyyat"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "Mövcud Tə'mınatı Gəzin"
+
+#, fuzzy
+msgid "Medical software"
+msgstr "Morph proqramı"
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Minalar"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Şəbəkə"
+
+msgid "Multimedia"
+msgstr "Multimedya"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Multimedya menyusu"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Multimedya Çalğıcısı"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Multimedya Çalğıcısı"
+
+#, fuzzy
+msgid "Music"
+msgstr "MusE"
+
+#, fuzzy
+msgid "Musical software"
+msgstr "Morph proqramı"
+
+msgid "Network"
+msgstr "Şəbəkə"
+
+msgid "Network-related settings"
+msgstr ""
+
+#, fuzzy
+msgid "News"
+msgstr "KNotes"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Offis"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Digər"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Boyama proqramı"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Terminal Proqramları"
+
+msgid "Packaging"
+msgstr "Paketləmə"
+
+msgid "Parallel Computing"
+msgstr ""
+
+#, fuzzy
+msgid "Parallel computing software"
+msgstr "Morph proqramı"
+
+#, fuzzy
+msgid "Performance"
+msgstr "Seçimlər"
+
+#, fuzzy
+msgid "Personal"
+msgstr "Şəxsi Fayllar"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Fizika"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Morph proqramı"
+
+msgid "Preferences"
+msgstr "Seçimlər"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Təqdimat"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Təqdimat"
+
+msgid "Printing"
+msgstr "Çap Etmə"
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Fayl İdarəsi"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Ön Qurğulu Proqramlar"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Qrafika"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Terminal Proqramları"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "Uzaq Masa Üstü"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Səs İdarəsi"
+
+#, fuzzy
+msgid "Robotics"
+msgstr "Robotlar"
+
+#, fuzzy
+msgid "Robotics software"
+msgstr "Morph proqramı"
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "Elm"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Ekran Qoruyucu"
+
+msgid "Security"
+msgstr "Təhlükəsizlik"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Təhlükəsizlik"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Elmlər"
+
+msgid "Settings"
+msgstr "Qurğular"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Minitel emulyasiyası"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "Tə'minat Mənbələri İdarəçisi"
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Səs"
+
+msgid "Sports"
+msgstr "İdman"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Lüvhə Oyunları"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Hesab Cədvəli"
+
+msgid "Strategy"
+msgstr "Strategiya"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Strategiya"
+
+msgid "System"
+msgstr "Sistem"
+
+#, fuzzy
+msgid "System settings"
+msgstr "Qurğular"
+
+#, fuzzy
+msgid "TV"
+msgstr "MoTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Terminal Proqramları"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Proqramlar"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "ISDN Telefon"
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Mətn vasitələri"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Terminal Proqramları"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Terminal"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Mətn vasitələri"
+
+msgid "Text tools"
+msgstr "Mətn vasitələri"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Vasitələr"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Proqram inkişaf vasitələri"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Ön qurğulu proqramlarınızı seçin"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Ön qurğulu proqramlarınızı seçin"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Oyuncaqlar"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Təqdimat"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Vektor Qrafika Çəkən Avadanlıq"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Ön qurğulu proqramlarınızı seçin"
+
+#, fuzzy
+msgid "Video"
+msgstr "Jigdo"
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Seçimlər"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Rəsm Çalğıcısı"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Digital Video Yazıcı"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "DjVu Nümayişçisi"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Veb Səyyahı"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "İnkişaf"
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Kəlmə İşlədici"
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Whois alıcısı"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Bütün Proqramlar"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Nə edim?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Təhsil"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Müxtəlif"
+
+#~ msgid "Shells"
+#~ msgstr "Qabıqlar"
+
+#~ msgid "Utilities"
+#~ msgstr "Tə'minatlar"
+
+#~ msgid "Backups"
+#~ msgstr "Ehtiyatlamalar"
+
+#~ msgid "Programming"
+#~ msgstr "Proqramlaşdırma"
+
+#~ msgid "Servers"
+#~ msgstr "Vericilər"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X Window Tə'minatları"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X Tə'minatları"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Ətraflı"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Ətraflı Qurğular"
+
+#~ msgid "Lost & Found"
+#~ msgstr "İtirdim və Tapdım"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Strategiya & Taktika"
+
+#~ msgid "Information"
+#~ msgstr "Mə'lumat"
+
+#~ msgid "Accessories"
+#~ msgstr "Ləvazimatlar"
+
+#~ msgid "Science & Math"
+#~ msgstr "Elm və Riyaziyyat"
+
+#~ msgid "Peripherals"
+#~ msgstr "Avadanlıq"
+
+#~ msgid "File"
+#~ msgstr "Fayl"
+
+#~ msgid "KDE Menu"
+#~ msgstr "KDE Meyusu"
+
+#~ msgid "Development Environments"
+#~ msgstr "İnkişaf vasitələri"
+
+#~ msgid "Control Center"
+#~ msgstr "İdarə Mərkəzi"
+
+#~ msgid "Puzzles"
+#~ msgstr "Puzzles"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Rogue Bənzəri Oyunlar"
+
+#~ msgid "Office Applications"
+#~ msgstr "Offis Proqramları"
+
+#~ msgid ".hidden"
+#~ msgstr ".hidden"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Xahiş edirik, çıxartmayın ya da düzəltməyin"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Mandriva Linux Update"
+
+#~ msgid "Tali"
+#~ msgstr "Tali"
+
+#~ msgid "Audacity"
+#~ msgstr "Audacity"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Fransızca sənədlər"
+
+#~ msgid "MIDI file player"
+#~ msgstr "MIDI fayl çalğıcısı"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "Rəngli toplardan sıralar yaradaraq lövhədən silin"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Mina Tarlası"
+
+#~ msgid "System Monitor"
+#~ msgstr "Sistem İzləyici"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr ""
+#~ "Hazırda baş verən gedişatları göstər və sistemin vəziyyətinə nəzarət et"
+
+#~ msgid "GQview"
+#~ msgstr "GQview"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Rəsm Nümayişcisi"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "Proqramların GTK əsaslı izlənməsi"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Vebi gəzin"
+
+#~ msgid "Character Map"
+#~ msgstr "Hərf Xəritəsi"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Sənədlərə xüsusi hərfləri daxil edin"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Samba Qurğuları (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Swat Samba Quraşdırma"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Soliter tərzi kart oyunu"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Appearance"
+#~ msgstr "Görünüş"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Ekran Üstü Klaviatura"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Rp-pppoe ara üzü"
+
+#~ msgid "Device Manager"
+#~ msgstr "Avadanlıq İdarəçisi"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Klotski"
+#~ msgstr "Klotski"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "Text Editor"
+#~ msgstr "Mətn Editoru"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "İnkişafçının Yardım proqramı"
+
+#~ msgid "Devhelp"
+#~ msgstr "DevHelp"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Danca sənədlər"
+
+#~ msgid "File Browser"
+#~ msgstr "Fayl Səyyahı"
+
+#~ msgid "IDE for Python"
+#~ msgstr "Python ara üzü"
+
+#~ msgid "Mail notifier"
+#~ msgstr "Məktub xəbərcisi"
+
+#~ msgid "Configurator"
+#~ msgstr "Qurğulayıcı"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "GNOME haqqında yardım alın"
+
+#~ msgid "Help"
+#~ msgstr "Yardım"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Film və mahnlıarı seyr edin və dinləyin"
+
+#~ msgid "Home Folder"
+#~ msgstr "Ev Qovluğu"
+
+#~ msgid "Tetravex"
+#~ msgstr "Tetravex"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "GStreamer proqramları üçün əsasları quraşdır"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Multimediya Sistemi Seçicisi"
+
+#~ msgid "Configure PalmOS devices"
+#~ msgstr "PalmOS avadanlığını qiraşdır"
+
+#~ msgid "PalmOS Devices"
+#~ msgstr "PalmOS Avadanlıqları"
+
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Gtk-ocr, gocr gtk ara üzüdür"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "Robotlardan qaçın və onları birbirinə dəydirərək partladın"
+
+#~ msgid "Search"
+#~ msgstr "Axtar"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində İspanca sənədlər"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Computer"
+#~ msgstr "Kompüter"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Masa üstündə dünyanı göstərin"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Nişanlarınızı gəzin və dəyişdirin"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany Veb Nişanları"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Veb Nişanları"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Slovencə sənədlər"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Menyu Yeniləmə Vasitəsi"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "İstifadəçi İdarəçisi"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "K Hoppanan Kub"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "CVS Ara Üzü"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KSnapshot"
+#~ msgstr "Rəsm Yaxalayıcı"
+
+#~ msgid "Character Selector"
+#~ msgstr "Xarakter Seçici"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Təqvim və Planlaşdırıcı Proqram"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Home"
+#~ msgstr "Başlanğıc"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Kartof Adam"
+
+#~ msgid "KBattleship"
+#~ msgstr "KBattleship"
+
+#~ msgid "CD Player"
+#~ msgstr "CD Çalğıcı"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Bomberman bənzəri oyun"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Masa Üstü Bölüşməsi"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Ekran Həllediciliyi və İstiqaməti"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "Mail Client"
+#~ msgstr "Poçt Alıcısı"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsol"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Kompare"
+#~ msgstr "Müqayisə Et"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Funksiya Çap Edicisi"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "İnteqrasiya Edilmiş İnkişaf Vasitəsi"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolor Lines"
+
+#~ msgid "Tactical Game"
+#~ msgstr "Taktik oyunu"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Info Center"
+#~ msgstr "Mə'lumat Mərkəzi"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Tea Cooker"
+
+#~ msgid "Change Password"
+#~ msgstr "Parolu Dəyişdir"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "Welcome"
+#~ msgstr "Xoş Gəldiniz"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "Trash"
+#~ msgstr "Zibil"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "SameGame"
+#~ msgstr "EyniOyun"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Səciyyəvi Mətn Editoru"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Hex Editor"
+#~ msgstr "Onaltılıq Editor"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Xəbər Oxuyucu"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Menyu Editoru"
+
+#~ msgid "Music Player"
+#~ msgstr "Musiqi Çalğıcısı"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Şəxsi Saat İzləyici"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Floppy Şəkillləndiricisi"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Əmrlərə qısa yol düymələri tə'yin edin"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Klaviatura Qısa Yolları"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində İtalyanca sənədlər"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Koreya sənədləri"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "Televiziya izləmə proqramı"
+
+#~ msgid "XawTV"
+#~ msgstr "XawXV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog dili"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Impress"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Qt axtar üz dizayn proqramı"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Riyaziyyat"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Səs səviyyəni dəyişdir"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Databeyz mühitinizi qurğulayın"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "Envy24 (ice1712) əsaslı səs kartları üçün idarə vasitəsi"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Yaponca sənədlər"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Çoxlu oyuncu 3D tank müharibə oyunu"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "Çox oyunçulu tapmaca oyunu"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Şəbəkə Vəkil Vericisi"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Səs kliplərini qeyd et"
+
+#~ msgid "Windows"
+#~ msgstr "Pəncələr"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Frozen Bubble arcade game"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "AisleRiot Solitaire"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "Birdən çox fərqli solitaire oyununu oynayın"
+
+#~ msgid "Notepad"
+#~ msgstr "Notepad"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "İstifadəçi və qrup əlavə edin/silin"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Vebdə gəz"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt Linguist"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Arxiv yaradın və açın"
+
+#~ msgid "Find files, folders, and documents on your computer"
+#~ msgstr "Kompüterinizdəki faylları, qovluqları və sənədləri tapın"
+
+#~ msgid "About GNOME"
+#~ msgstr "GNOME Haqqında"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Klaviatura"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Klaviatura seçimlərinizi seçin"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "Eyni hissələri silərək kirəmitlər dəstəsini yox edin"
+
+#~ msgid "Mahjongg"
+#~ msgstr "Mahjongg"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Macarca sənədlər"
+
+#~ msgid "Mouse"
+#~ msgstr "Siçan"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Siçanınızın qurğularını seçin"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "RPM paketlərini qurmaq üçün qrafiki ön üz"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr ""
+#~ "ChBg - Masa üstü arxa plan idarəçisi/dəyişdiricisi/ekran qoruyucu qurucusu"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr "Reimplementation of the old game known as Tower Toppler or Nebulous"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Yazıcı"
+
+#~ msgid "Database"
+#~ msgstr "Mə'lumat Bazası"
+
+#~ msgid "Dasher"
+#~ msgstr "Dasher"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Freeciv vericisi"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Professional bir CAD sistemi"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "GNOME quraşdırma avadanlığı"
+
+#~ msgid "Pan Newsreader"
+#~ msgstr "Pan Xəbərlər Oxuyucusu"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Usenet'dən xəbərləri oxuyun"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "X Windows sistemi üçün standart terminal emulyator"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "Nmap qapı darayıcısı üçün qrafiki ara üz"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCConfig"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "İnternet üstündən insanlarla rabitə qurun"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Edit text files"
+#~ msgstr "Mətn fayllarını redaktə edin"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr "Linuks Sənədləşdirmə Layihəsi daxilində Almanca sənədlər"
+
+#~ msgid "Howtos German"
+#~ msgstr "ALmanca Howto Sənədləri"
+
+#~ msgid "System information"
+#~ msgstr "Sistem məlumatı"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Rumınca sənədlər"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "Kömələmə sistemi qurulması və quraşdırılması proqramı"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Polyakca sənədlər"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "CUPS üçün ara üz"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "Musiqi kolleksiyanızı tərtib edin və dinləyin"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "View and organize your images"
+#~ msgstr "Rəsmlərinizi nümayiş və idarə edin"
+
+#~ msgid "Registry Editor"
+#~ msgstr "Registry Editoru"
+
+#~ msgid "Screen Reader and Magnifier"
+#~ msgstr "Ekran Oxuyucusu və Böyüdücü"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində İngilizcə sənədlər"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Çox məqsədli mətn editoru"
+
+#~ msgid "VI editor"
+#~ msgstr "VI editoru"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Yunanca sənədlər"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Yunanca Howto Sənədləri"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "FreeCell Solitaire"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Məşhur FreeCell kart oyununu oynayın"
+
+#~ msgid "Window Manager"
+#~ msgstr "Pəncərə İdarəçisi"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində İndoneziya sənədləri"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Funksiya çap edici proqram"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Birbaşa bütün quraşdırma verilənlər bazasını düzəlt"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində Çincə sənədlər"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Başqa bir 3d lightcycle oyunu"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Xəta Bildirmə Vasitəsi"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "GNOME əsaslı proqramlardakı xətaları bildirin"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Boulderdash bənzəri oyun"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Rocks n Diamonds"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr ""
+#~ "Linuks Sənədləşdirmə Layihəsindən Finlandiya dilində (html şəklində) "
+#~ "Howto sənədləri"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr "Linuks Sənədləşdirmə Lahiyəsi daxilində İsveçcə sənədlər"
+
+#~ msgid "Drawing"
+#~ msgstr "Rəsm"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Draw"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "Soxulcanı labirintdə idarə edin"
+
+#~ msgid "Nibbles"
+#~ msgstr "Dişdəklər"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomiks"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "Camorama Webcam Viewer"
+#~ msgstr "Camorama Veb Kamera Nümayişçisi"
+
+#~ msgid "View, alter and save images from a webcam"
+#~ msgstr "Veb kameranızdan rəsmləri nümayiş edin, dəyişdirin və qeyd edin"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Conglomerate XML Editoru"
+
+#~ msgid "Edit XML files"
+#~ msgstr "XML fayllarını redaktə edin"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Data Displey Xəta Ayırıcısı"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Dr.Geo Cəbr Vasitəsi"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Firestarter"
+#~ msgstr "Firestarter"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid "A desktop applet system for GNOME"
+#~ msgstr "GNOME üçün masa üstü applet sistemi"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "GNOME Onaltılıq Editoru"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Qeyd Girişi Göndəricisi"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Veb üstündə tutulan qeydə giriş göndər"
+
+#~ msgid "GNOME-Mud"
+#~ msgstr "GNOME-Mud"
+
+#~ msgid "Network Tools"
+#~ msgstr "Şəbəkə Vasitələri"
+
+#~ msgid "Desktop Library Package Inspector"
+#~ msgstr "Masa Üstü Kitabxanası Paket Nəzarətçisi"
+
+#~ msgid "Get useful information about installed GNOME desktop libraries"
+#~ msgstr ""
+#~ "Quraşdırılmış GNOME masa üstü kitabxanaları haqqında faydalı məlumat alın"
+
+#~ msgid "Package Viewer"
+#~ msgstr "Paket Nümayişçisi"
+
+#~ msgid "Find, download, and play free music."
+#~ msgstr "Find, download, and play free music."
+
+#~ msgid "Gnomoradio Music Player"
+#~ msgstr "Gnomoradio Music Player"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "GTKWave Electronik Waveform Nümayişçisi"
+
+#~ msgid "Guikachu"
+#~ msgstr "Guikachu"
+
+#~ msgid "Resource editor for PalmOS"
+#~ msgstr "PalmOS üçün mənbə editoru"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Network Monitor"
+#~ msgstr "Şəbəkə İzləyicisi"
+
+#~ msgid "Knights"
+#~ msgstr "Knights"
+
+#~ msgid "A batch renamer"
+#~ msgstr "Toplu yenidən adlandırıcı"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Cüt Panelli Fayl İdarəcisi"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "KDE KPart Proqram Tə'minatı"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "Çox oyunçulu müharibə oyunu"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "First person shooter game"
+#~ msgstr "FPS növündə oyun"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "Çox sadə siçan vurma oyunu"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "Synthesized Loops"
+#~ msgstr "Sintezlənmiş Looplar"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (VOCP Veb Uzaq İsmarış Alımı)"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "Abe'nin Qəribə Əhvalatları!!"
+
+#~ msgid "Abuse"
+#~ msgstr "Söyüş"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Klasik Crack-Dot-Com oyunu"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Video kəsmə və çevirmə"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "AirStrike"
+#~ msgstr "AirStrike"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "Dəhşət bağlayıcı 2D it döyüşü oyunu"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "Teletext/Videotext dekoderi və səyyahı"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "W3C'ün səyyahı/veb müəllifləşdimə vasitəsi"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Alsa Modular Synth"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "ALSA üçün Modular Sintezləyici"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Angel Wars"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr "Köhnəlmiş kosmos vurucusu"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "Genpak üçün GUI"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "3D asteroid partlatma oyunu"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Asteroids3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Brainwave idarəçisi"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "Sisteminizin enerji qorumasını quraşdırın"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Enerji Qoruması"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bbconf, blackbox qurğuları üçün bir GUI'dir"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "2D kimyəvi struktur çəkmə proqramı"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Mario oxşarı oyun"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (VOCP Qutusu Qurğu ara üzü)"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "Monitoring-duck-in-a-jar dockapp"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Həşəratları siçan ilə öldürün"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr "C1541 disk görüntüsü qoruma proqramı"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "VICE disk görünüşü vasitəsi"
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Callcenter (VOCP Çağırış Mərkəzi)"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Webcam vasitəsi"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Kosmosda Əmin Ölüm"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Qrafiki Go oyunu"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Musiqi modulları yaratmaq üçün bir proqram"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "Şəbəkə Səyyarı və Vasitələri (agentin işləməsini məcbur qılır)"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "ClanBomber - sərbəst Bomberman oxşarı çoxlu oyuncu oyunu"
+
+#~ msgid "MIDI controller for ZynAddSubFX"
+#~ msgstr "ZynAddSubFX üçün MIDI idarəçisi"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Kursor Örtüyünü Seçin"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Kursor Örtüləri"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Defender Klonu"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Bəsit bir web səyyarı"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Distcc zləyicisi"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "DOS emulyatoru"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "FICS chess-server interface"
+#~ msgstr "FICS şahmat-vericisi ara üzü"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "Səs işləmə, multitrek qeyd etmə və mix vasitələri"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animatoru"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "GTK fayl idarəçisi"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Enigma, bir tapmaca oyundur"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "EPIC yaxşılaşdırılmış proqramlaşdırıla bilən IRC-II alıcısıdır."
+
+#~ msgid "Python IDE"
+#~ msgstr "Python IDE"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "Tam təşkilatlı OSS mikseri"
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolution"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "İnteraktiv incəsənət yaradıcısı"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr ""
+#~ "Masa üstünüzdəki timsalları yaratmaq və idarə etmək üçün Fluxbox-proqramı"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "FlightGear Uçuş Simulyatoru"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr ""
+#~ "A.D.I.E. - FOX vasitə dəstiylə yaradılmış inkişaf etmiş interaaktiv editor"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "FOX vasitə dəstiylə yaradılmış hesablayıcı"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX Hesablayıcısı"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "Linux üçün bas/synth/seqvenser/nümunə oxuducusu"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Səs manipulyatoru"
+
+#~ msgid "3D file browser"
+#~ msgstr "3D fayl səyyahı"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "FVWM Pəncərə idarəçisi"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "3D Xəritə Nümayişçisi"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "3D Molekul Nümayişçisi"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "2-D Voleybol"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "Gnome qurğularınızı dəyişdirin"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Tetris Kosmos İstilacılarıyla Qarşılaşır"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Müəllimin qiymət dəftəri (jurnalı)"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "Uçuş simulyatoru"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "OpenGL qrafika nümayişçisi"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "3d lightcycle oyunu"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "Masqdialer modem vericisi üçün Gnome alıcısı"
+
+#~ msgid "Memory usage"
+#~ msgstr "Yaddaş istifadəsi"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "MIDI Avtomatik-Akompaniment"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Gnometab, gitara akordları editorudur."
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Robbo"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "İnternet telefonu"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "Pppoe izləyicisi"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "GPS Data Transferi"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "Control print jobs"
+#~ msgstr "Çap etmə vəzifələrinin idarə edin"
+
+#~ msgid "Grace"
+#~ msgstr "Grace"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "Elmi mə'lumatların qrafiki əyaniləşdirilməsi"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "The cellular automaton simulator"
+#~ msgstr "Sellular avtomatikləşdirmə simulyatoru"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "Coğrafi Ehtiyatlar Analiz Dəstək Sistemi"
+
+#~ msgid "Greenwich"
+#~ msgstr "Greenwich"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "RPN hesablayıcısı"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "Linuks üçün TetriNET oyun alıcısı"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "IPTables Qaydaları Quraşdırılması"
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "GTK1 Örtüyünü Dəyişdir"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "GTK Örtüyü Dəyişməsi"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "asp2php üçün GTK ön üzü"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "Qrafiki fayl axtarma proqramı"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "GTK Gitara Effektləri"
+
+#~ msgid "Realtime effects"
+#~ msgstr "Həqiqi zamanlı effektlər"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "CUPS üçün GTK ön üzü"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "GTKlp CUPS Növbələri üçün qrafiki ara üz"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "motd-un Gtk buraxılışı"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Siag Postscript nümayişçisi"
+
+#~ msgid "Heroes"
+#~ msgstr "Heroes"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "Inventory"
+#~ msgstr "Inventory"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr "Sadə Tapma Proqramı"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "Jigsaw Endirici"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "GTK2 ftp alıcısı"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "ALSA connections"
+#~ msgstr "ALSA bağlantıları"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Kiki the nanobot"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "QT Molekul Nümayişçisi"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "Qrafiki gedişat nümayişçisi"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Panzer General klonu"
+
+#~ msgid "Lynx-like text WWW browser"
+#~ msgstr "Lynx bənzəri WWW səyyahı"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "Gözəl Tetris oyunu"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr "2D kosmos əyləncə oyununu"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "Bombaları tutun"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit"
+
+#~ msgid "UNIX manual pages editor"
+#~ msgstr "UNIX əl səhifələri editoru"
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "MAS İnternet İclası"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS Mikseri"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "İnteraktiv funksiya yaradıcısı"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "Maxima üçün Tcl/Tk ara üzü"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr "Çox dilli terminal emulyatoru"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Maitretarot Alıcısı"
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "Ping/Traceroute şəbəkə diaqnostika vasitəsi"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "MIDI sekvenseri"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "Nessus"
+#~ msgstr "Nessus"
+
+#~ msgid "NiL Isn't Liero"
+#~ msgstr "NiL Liero deyil"
+
+#~ msgid "NexTView EPG decoder and browser"
+#~ msgstr "NexTView EPG dekoderi və səyyahı"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "Digital Gradebook"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Orbital Eunuchs Snayper"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "OSD Xine Video Çalğıcısı"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "Klassik Missile Command oyununun klonu"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Penguin Command"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Emilia 3d Pinball"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - Lemming törəməsi pulsuz oyun"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "POPFile - Avtomatik Epoçt Süzülməsi"
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "Çox oyunçulu PrBooM-GL"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "Çox oyunçulu PrBooM"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "Pathetic Writer"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "Siag Offis Pathetik Yazıcısı"
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "Pythin idarəli molekular qrafikalar"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "ALSA qeyd edici qrafiki ara üzü"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Qt əsaslı Jackit Birləşdiricisi"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "QtRadio - radioya qulaq asın."
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "3D Fraktal obyektlər yaradın"
+
+#~ msgid "Keep track of things"
+#~ msgstr "Əşyaları itirməyin"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "Video CD Yaradıcısı"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "Digital səs editoru"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr "Root-tail mətni birbaşa X11 idarəçi pəncərəsinə çap edir"
+
+#~ msgid "File Manager of the ROX desktop environment"
+#~ msgstr "ROX masa üstü mühiti üçün fayl idarəçisi"
+
+#~ msgid "High-level language for numerical computations"
+#~ msgstr "Ədədi hesablamalar üçün yüksək səviyyəli dil"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr "SDLRoids - asteroidləri vurma oyunu"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "Loop əsaslı MIDI seqvenseri"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr "MIDI hadisə mikseri"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Ekran görüntüsünü çəkir və bir fayl olaraq qeyd edir"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr "Python ilə yazılmış 3D maşın yarışı oyunu"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "GPL sound font editor"
+#~ msgstr "GPL Sound Font editoru"
+
+#~ msgid "Music player"
+#~ msgstr "Musiqi çalğıcısı"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr "Qutuları toplama və güllələrdən qaçma oyunu"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "Gitara Akord editoru"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "Spearfish şablon data dəstəsini işlədən Grass"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "Spiral Modular Tə'minat Sintezatoru"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "Spiral Modular Synth"
+
+#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
+#~ msgstr "ZynAddSubFX üçün MIDI klaviatura ayırıcısı"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "Project: Starfighter"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "Samsung Uproar və Yepp üçün ara üz"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "MPEG, MPEG2, DVD və DivX oxuducusu"
+
+#~ msgid "Swami"
+#~ msgstr "Swami"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "The Open Racing Maşın Simulyatoru"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Tuxedo T. Penguin: A Quest For Herring"
+
+#~ msgid "Karting with tux"
+#~ msgstr "Tux ilə karting"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "Ur-Quan Ustaları"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "Ur-Quan Ustaları"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "3D model assembler"
+#~ msgstr "3D model toplayıcısı"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr "Vigor Assistant əlavəsi ilə məşhur Unix vi editoru"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr "VOCPhax (VOCP Faks Nümayişçisi və Göndərmə Ara Üzü)"
+
+#~ msgid "Main Volume control dockapp"
+#~ msgstr "Əsas Səs idarəsi"
+
+#~ msgid "Volume knob"
+#~ msgstr "Volume knob"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "Commodore mahnıları üçün VICE SID musiqi çalğıcısı"
+
+#~ msgid "VSID music player"
+#~ msgstr "VSID musiqi çalğıcısı"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "Qrafiki səs editoru"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Tuks ilə əla yarış oyunu oynayın"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Kabelsiz LAN Qurğuları"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "WindowMaker dock application for linuxfr-addicted people"
+#~ msgstr "linuxfr xəstəsi olan adamlar üçün WindowMaker proqramı"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "Kiçik timsal şəklində CPU izləmə"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr "CPU yükünü atəş olaraq göstərən kiçik timsal şəklində proqram"
+
+#~ msgid "Analog clock in a tank fish"
+#~ msgstr "Analoq saat"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr "Dönən dünyanı göstərən kiçik timsal şəklində proqram"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "Dockapp OSS sound mixer"
+#~ msgstr "Kiçik timsal şəklində OSS səs mikseri"
+
+#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
+#~ msgstr ""
+#~ "WindowMaker üçün Yaddaş/Dəyiş-toqquş sahəsi izləmək üçün kiçik timsal "
+#~ "şəklində proqram"
+
+#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
+#~ msgstr "Pop3 ilə birdən çox poçt qutusunu izləmə proqramı"
+
+#~ msgid "WmsMixer"
+#~ msgstr "WmsMixer"
+
+#~ msgid "A stock quote data display in a small icon"
+#~ msgstr "Fond qiymətləri mə'lumatı göstəricisi"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr "Sistem mə'lumatını verən kiçik timsal şəklində proqram"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "Watch your own webcam in a small dockapp window"
+#~ msgstr "Şəxsi webcam'ınızı kiçik bir pəncərədə seyr edin"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
+#~ msgstr "AMIGA üstündəki Directory Opus bənzəri fayl idarəçisi"
+
+#~ msgid "A GUI builder for wxWindows/wxPython"
+#~ msgstr "wxWindows/wxPython ara üz inşa edicisi"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "C128 Emulyatoru"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Commodore 128 Emulyatoru"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "C64 Emulyatoru"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Commodore 64 Emulyatoru"
+
+#~ msgid "Realtime fractal zoomer"
+#~ msgstr "Həqiqi zamanlı fraktal göstərici"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "ARCHON oyununun klonu"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "CBM2 Emulyatoru"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Commodore BM 2 Emulyatoru"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Siag mətn editoru"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Siag Fayl İdarəçisi"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "A mp3 playlist frontend"
+#~ msgstr "mp3 çalğı siyahısı ara üzü"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "Mr. Is, a Mr. Do clone for X"
+#~ msgstr "Mr. Is, X üçün Mr. Do klonudur"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Display penguins running on your desktop."
+#~ msgstr "Masa üstündə qaçan pinqvinləri göstərin."
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Commodore PET Emulyatoru"
+
+#~ msgid "PET Emulator"
+#~ msgstr "PET Emulyatoru"
+
+#~ msgid "Fly/shoot arcade game"
+#~ msgstr "Uç və vur müharibə oyunu"
+
+#~ msgid "Xpilot server"
+#~ msgstr "Xpilot verici"
+
+#~ msgid "Xpilot - Requires server"
+#~ msgstr "Xpilot (vericiyə ehtiyac var)"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "CPLUS4 Emulyatoru"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Commodore PLUS4 Emulyatoru"
+
+#~ msgid "News reader"
+#~ msgstr "Xəbər oxuyucu"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "Tool for manipulating software packages"
+#~ msgstr "Tə'minat paketlərinin idarəsi üçün vasitə"
+
+#~ msgid "Cool arcade/thinking game very much like Lode Runner"
+#~ msgstr "Lode Runner bənzəri oyun"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "Clone of Scorched Earth"
+#~ msgstr "Scorched Earth Klonu"
+
+#~ msgid "Siag Office spreadsheet"
+#~ msgstr "Siag Offis hesab cədvəli"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "C64 musiqi çalğıcısının QT buraxılışı"
+
+#~ msgid "The Skat game"
+#~ msgstr "The Skat oyunu"
+
+#~ msgid "Shooting game on X Window System"
+#~ msgstr "X Window sistemi üçün vurma oyunu"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Commodore VIC 20 Emulyatoru"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "VIC Emulyatoru"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (VOCP Grafiki səs ismarışı alıcısı)"
+
+#~ msgid "A level editor for DOOM"
+#~ msgstr "DOOM üçün səviyyə editoru"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Real-time MIDI software synth"
+#~ msgstr "Həqiqi zamanlı MIDI tə'minat synth'i"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Mahnılarınızı dinləyin"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Muine Musiqi Çalğıcısı"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Downloader for X"
+#~ msgstr "Downloader for X"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Scorched Earth 3D OpenGL Remake"
+#~ msgstr "Scorched Earth 3D OpenGL Bənzəri Oyun"
+
+#~ msgid "Services"
+#~ msgstr "Xidmətlər"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Proc Quraşdırması"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Uşaqlar üçün rəsm proqramı."
+
+#~ msgid "Drawing program"
+#~ msgstr "Rəsm proqramı"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid "VLC media player"
+#~ msgstr "VLC medya çalğıcısı"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "IBM 3270 Terminal Emulyatoru"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "Run Program..."
+#~ msgstr "Proqram Başlat..."
+
+#~ msgid "Sticky Notes"
+#~ msgstr "Yapışqan Qeydlər"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"

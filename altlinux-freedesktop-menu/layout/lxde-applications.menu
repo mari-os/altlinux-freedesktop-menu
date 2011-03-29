@@ -1,0 +1,81 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+	<Name>Applications</Name>
+
+	<!-- Read standard .directory and .desktop file locations -->
+	<DefaultAppDirs/>
+	<DefaultDirectoryDirs/>
+
+	<!-- Read in overrides and child menus from applications-merged/ -->
+	<DefaultMergeDirs/>
+
+	<MergeFile>altlinux-applications.menu</MergeFile>
+
+	<!-- lxde customization -->
+
+	<Move>
+	  <Old>Accessories/Accessibility</Old>
+	  <New>Accessibility</New>
+	</Move>
+
+	<Menu>
+		<Name>Development</Name>
+		<Include>
+			<Filename>emacs.desktop</Filename>
+		</Include>
+	</Menu>
+
+	<!-- end lxde customization -->
+
+
+	<Menu>
+		<Name>Settings</Name>
+		<Directory>altlinux-settings-desktop.directory</Directory>
+		<Menu>
+			<Name>LXDEPreferences</Name>
+			<Directory>altlinux-settings-personal.directory</Directory>
+			<Include>
+				<And>
+					<Category>Settings</Category>
+					<Not>
+						<Or>
+							<Category>System</Category>
+							<Filename>gnomecc.desktop</Filename>
+						</Or>
+					</Not>
+				</And>
+			</Include>
+		</Menu>
+
+		<!-- System Settings -->
+		<Menu>
+			<Name>LXDEAdministration</Name>
+			<Directory>altlinux-settings-system.directory</Directory>
+			<Include>
+				<And>
+					<Category>Settings</Category>
+					<Category>System</Category>
+				</And>
+			</Include>
+		</Menu>		 <!-- End System Settings -->
+
+		<Layout>
+			<Menuname>LXDEPreferences</Menuname>
+			<Menuname>LXDEAdministration</Menuname>
+			<Merge type="menus"/>
+			<Merge type="files"/>
+		</Layout>
+
+	</Menu> <!-- End Settings -->
+
+	<Layout>
+		<Merge type="files"/>
+		<Merge type="menus"/>
+		<Separator/>
+		<Menuname>Settings</Menuname>
+	</Layout>
+
+</Menu> <!-- End Applications -->

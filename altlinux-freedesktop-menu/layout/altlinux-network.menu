@@ -1,0 +1,128 @@
+ <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+	<Name>Network</Name>
+	<Directory>altlinux-network.directory</Directory>
+	<Menu>
+		<Name>WebBrowser</Name>
+		<Directory>altlinux-network-webbrowser.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Category>WebBrowser</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Mail</Name>
+		<Directory>altlinux-network-mail.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Or>
+					<Category>Email</Category>
+					<Category>News</Category>
+				</Or>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>FileTransfer</Name>
+		<Directory>altlinux-network-file-transfer.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Or>
+					<Category>FileTransfer</Category>
+					<Category>P2P</Category>
+				</Or>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Chat</Name>
+		<Directory>altlinux-network-communication.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Or>
+					<Category>InstantMessaging</Category>
+					<Category>Chat</Category>
+					<Category>IRCClient</Category>
+					<Category>HamRadio</Category>
+					<Category>Telephony</Category>
+					<Category>VideoConference</Category>
+				</Or>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Dialup</Name>
+		<!-- ??? -->
+		<Directory>altlinux-network-dialup.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Or>
+					<Category>Dialup</Category>
+					<Category>TelephonyTools</Category>
+				</Or>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>RemoteAccess</Name>
+		<Directory>altlinux-network-remote-access.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Category>RemoteAccess</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Other</Name>
+		<Directory>altlinux-network-other.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Not><Category>Game</Category></Not>
+				<Not><Category>WebBrowser</Category></Not>
+				<Not><Category>Email</Category></Not>
+				<Not><Category>News</Category></Not>
+				<Not><Category>FileTransfer</Category></Not>
+				<Not><Category>P2P</Category></Not>
+				<Not><Category>InstantMessaging</Category></Not>
+				<Not><Category>Chat</Category></Not>
+				<Not><Category>IRCClient</Category></Not>
+				<Not><Category>HamRadio</Category></Not>
+				<Not><Category>Telephony</Category></Not>
+				<Not><Category>VideoConference</Category></Not>
+				<Not><Category>Dialup</Category></Not>
+				<Not><Category>TelephonyTools</Category></Not>
+				<Not><Category>RemoteAccess</Category></Not>
+				<Not><Category>WebDevelopment</Category></Not>
+			</And>
+		</Include>
+	</Menu>
+</Menu>
+<!-- categories
+WebBrowser	A web browser	Network
+Email	Email application	Office;Network
+News	A news reader or a news ticker	Network
+Dialup	A dial-up program	Network
+TelephonyTools	Telephony tools, to dial a number, manage PBX, ...	Utility
+FileTransfer	Tools like FTP or P2P programs	Network
+P2P	A P2P program	Network
+InstantMessaging	An instant messaging client	Network
+Chat	A chat client	Network
+IRCClient	An IRC client	Network
+HamRadio	HAM radio software	Network or Audio
+Telephony	Telephony via PC	Network
+VideoConference	Video Conference software	Network
+RemoteAccess	A tool to remotely manage your PC	Network
+
+# not included; let it be Development
+WebDevelopment	A tool for web developers	Network or Development
+-->

@@ -1,0 +1,108 @@
+ <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+	<Name>Applications</Name>
+	<Directory>altlinux-applications.directory</Directory>
+
+	<!-- Search the default locations -->
+	<DefaultAppDirs/>
+	<DefaultDirectoryDirs/>
+
+	<!-- kde applications; nested menu only -->
+	<AppDir>/usr/share/kde/applications</AppDir>
+	<AppDir>/usr/share/kde4/applications</AppDir>
+
+	<DefaultLayout>
+		<Merge type="menus"/>
+		<Merge type="files"/>
+	</DefaultLayout>
+
+	<Menu>
+		<Name>Settings</Name>
+		<!-- remove shallow submenu -->
+		<Menu>
+			<Name>LXDEPreferences</Name>
+			<Deleted/>
+		</Menu>
+		<Menu>
+			<Name>LXDEAdministration</Name>
+			<Deleted/>
+		</Menu>
+		<Exclude>
+			<All/>
+		</Exclude>
+		<!-- end remove shallow submenu -->
+
+		<MergeFile>altlinux-settings.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Accessories</Name>
+		<MergeFile>altlinux-utility.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Development</Name>
+		<MergeFile>altlinux-development.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Education</Name>
+		<MergeFile>altlinux-education.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+        	<Name>Science</Name>
+		<MergeFile>altlinux-science.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Games</Name>
+		<MergeFile>altlinux-games.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Graphics</Name>
+		<MergeFile>altlinux-graphics.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Network</Name>
+		<MergeFile>altlinux-network.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Multimedia</Name>
+		<MergeFile>altlinux-multimedia.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Office</Name>
+		<MergeFile>altlinux-office.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>System</Name>
+		<MergeFile>altlinux-system.menu</MergeFile>
+	</Menu>
+
+	<Menu>
+		<Name>Other</Name>
+		<Directory>altlinux-other.directory</Directory>
+		<OnlyUnallocated/>
+		<Include>
+			<All/>
+		  <!--
+			<And>
+				<Not><Category>Core</Category></Not>
+				<Not><Category>Settings</Category></Not>
+				<Not><Category>Screensaver</Category></Not>
+			</And>
+			-->
+		</Include>
+	</Menu>
+
+	<DefaultMergeDirs/>
+	<MergeFile>applications-menueditor.menu</MergeFile>
+</Menu>

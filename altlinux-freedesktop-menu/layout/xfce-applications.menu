@@ -1,0 +1,122 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+    <Name>Xfce</Name>
+
+    <DefaultAppDirs/>
+    <DefaultDirectoryDirs/>
+
+    <Include>
+        <Category>X-Xfce-Toplevel</Category>
+    </Include>
+
+    <Layout>
+        <Filename>xfrun4.desktop</Filename>
+        <Separator/>
+        <Filename>exo-terminal-emulator.desktop</Filename>
+        <Filename>exo-file-manager.desktop</Filename>
+        <Filename>exo-mail-reader.desktop</Filename>
+        <Filename>exo-web-browser.desktop</Filename>
+        <Separator/>
+        <Menuname>Settings</Menuname>
+        <Separator/>
+        <Merge type="all"/>
+        <Separator/>
+        <Filename>xfhelp4.desktop</Filename>
+        <Filename>xfce4-about.desktop</Filename>
+        <Filename>xfce4-session-logout.desktop</Filename>
+    </Layout>
+
+    <Menu>
+        <Name>Settings</Name>
+        <Directory>altlinux-settings-desktop.directory</Directory>
+        <Include>
+            <Category>Settings</Category>
+        </Include>
+
+        <Layout>
+            <Filename>xfce-settings-manager.desktop</Filename>
+            <Separator/>
+            <Merge type="all"/>
+        </Layout>
+
+        <Menu>
+            <Name>Screensavers</Name>
+            <Directory>altlinux-screensaver.directory</Directory>
+            <Include>
+                <Category>Screensaver</Category>
+            </Include>
+        </Menu>
+    </Menu>
+
+    <MergeFile>altlinux-applications.menu</MergeFile>
+
+    <Move>
+      <Old>Settings/DesktopSettings/XFCE</Old>
+      <New>Settings/NativeSettings</New>
+    </Move>
+
+    <Menu>
+        <Name>Accessories</Name>
+        <Exclude>
+            <Or>
+                <Filename>exo-file-manager.desktop</Filename>
+                <Filename>exo-terminal-emulator.desktop</Filename>
+                <Filename>xfce4-about.desktop</Filename>
+                <Filename>xfrun4.desktop</Filename>
+            </Or>
+        </Exclude>
+	<Menu>
+	    <Name>Other</Name>
+	    <Exclude>
+	        <Or>
+        	    <Category>X-Xfce-Toplevel</Category>
+		    <Filename>exo-file-manager.desktop</Filename>
+		    <Filename>exo-terminal-emulator.desktop</Filename>
+		    <Filename>xfce4-about.desktop</Filename>
+		    <Filename>xfrun4.desktop</Filename>
+		</Or>
+	    </Exclude>
+	</Menu>
+    </Menu>
+
+    <Menu>
+        <Name>Network</Name>
+        <Exclude>
+            <Or>
+                <Filename>exo-mail-reader.desktop</Filename>
+                <Filename>exo-web-browser.desktop</Filename>
+            </Or>
+        </Exclude>
+	<Menu>
+	    <Name>Other</Name>
+	    <Exclude>
+	        <Or>
+                    <Filename>exo-mail-reader.desktop</Filename>
+		    <Filename>exo-web-browser.desktop</Filename>
+		    <Category>X-Xfce-Toplevel</Category>
+		</Or>
+	    </Exclude>
+	</Menu>
+    </Menu>
+
+    <Menu>
+        <Name>System</Name>
+        <Exclude>
+            <Or>
+                <Filename>xfce4-session-logout.desktop</Filename>
+            </Or>
+        </Exclude>
+	<Menu>
+	    <Name>Other</Name>
+	    <Exclude>
+	        <Or>
+                    <Filename>xfce4-session-logout.desktop</Filename>
+		    <Category>X-Xfce-Toplevel</Category>
+		</Or>
+	    </Exclude>
+	</Menu>
+    </Menu>
+
+</Menu>

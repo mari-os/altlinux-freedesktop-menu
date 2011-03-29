@@ -1,0 +1,8123 @@
+# translation of menu-main.po to Icelandic
+# Icelandic translation of menu-main.po
+# Copyright (C) 2000 Mandriva
+#
+# Jóhann Þorvarðarson <johann.torvardarson@lais.is>, 2000.
+# Pjetur G. Hjaltason <pjetur@pjetur.net>, 2003, 2004, 2005, 2006, 2007, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-main\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2009-03-26 14:05+0000\n"
+"Last-Translator: Pjetur G. Hjaltason <pjetur@pjetur.net>\n"
+"Language-Team: Icelandic <kde-isl@molar.is>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Myndvinnsla"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Myndefnisforrit"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Myndvinnsla"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Myndefnisforrit"
+
+#, fuzzy
+msgid "A clock application/applet"
+msgstr "KDE forrit"
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Leikir og skemtun"
+
+msgid "Accessibility"
+msgstr "Aðgengi"
+
+#, fuzzy
+msgid "Action"
+msgstr "Kennsla"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Hraður þrautaleikur"
+
+#, fuzzy
+msgid "AddressBooks"
+msgstr "KAddressBook"
+
+msgid "Administration"
+msgstr "Stjórnun"
+
+msgid "Adventure"
+msgstr "Ævintýri"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Tetris leikur"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Forrit"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Forrit"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Spilasalur"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Spilakassaleikur"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Vinna með safnskrár"
+
+#, fuzzy
+msgid "Art"
+msgstr "Ark"
+
+msgid "Artificial Intelligence"
+msgstr "Gerfigreind"
+
+#, fuzzy
+msgid "Artificial Intelligence software"
+msgstr "Gerfigreind"
+
+msgid "Astronomy"
+msgstr "Stjörnufræði"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Stjörnufræði"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Tónlistarspilari"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Hljóðupptaka"
+
+msgid "Biology"
+msgstr "Líffræði"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Morphing hugbúnaður"
+
+msgid "Board Games"
+msgstr "Borðleikir"
+
+msgid "Boards"
+msgstr "Borð"
+
+#, fuzzy
+msgid "Building"
+msgstr "Kubbabygging"
+
+msgid "Calculator"
+msgstr "Reiknivél"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Reiknivél"
+
+msgid "Calendar"
+msgstr "Dagatal"
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Spilaleikir"
+
+msgid "Cards"
+msgstr "Spil"
+
+#, fuzzy
+msgid "Chart"
+msgstr "K-Stafaval"
+
+#, fuzzy
+msgid "Chat"
+msgstr "IRC spjall"
+
+msgid "Chemistry"
+msgstr "Efnafræði"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Efnafræði"
+
+msgid "Clock"
+msgstr "Klukka"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Hafa samskipti við félagana"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Tölvufræði"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "Tölvufræði"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "Tölvufræði"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Tölvufræði"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Stillingartól fyrir Compiz"
+
+#, fuzzy
+msgid "Construction"
+msgstr "Boa Constructor"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr "Myndræn framsetning gagna"
+
+#, fuzzy
+msgid "Data visualization software"
+msgstr "Myndræn framsetning gagna"
+
+msgid "Databases"
+msgstr "Gagnagrunnar"
+
+msgid "Debug Applications"
+msgstr "Aflúsa forrit"
+
+msgid "Desktop"
+msgstr "Skjáborð"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Þróun"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "Þrívítt graf-forrit"
+
+#, fuzzy
+msgid "Dialup"
+msgstr "ical"
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Orðabók"
+
+msgid "Dictionary"
+msgstr "Orðabók"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Handbækur"
+
+msgid "Economy"
+msgstr "Hagfræði"
+
+msgid "Editors"
+msgstr "Ritlar"
+
+msgid "Education"
+msgstr "Kennsla"
+
+msgid "Electricity"
+msgstr "Rafmagn"
+
+#, fuzzy
+msgid "Electricity software"
+msgstr "Rafmagn"
+
+#, fuzzy
+msgid "Electronics"
+msgstr "Rafmagn"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Xmailbox"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Skjáhermiforrit"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Hermar"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Fella fallandi steina saman"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "Fella fallandi steina saman"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Skráastjóri"
+
+msgid "File Systems"
+msgstr "Skráakerfi"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Skráastjóri"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Skráakerfi"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Textatól"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Vísindi"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Qt hönnuðurinn"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Skjáhermiforrit"
+
+msgid "Games"
+msgstr "Leikir"
+
+msgid "Games and amusements"
+msgstr "Leikir og skemtun"
+
+msgid "Games for Kids"
+msgstr "Leikir fyrir krakka"
+
+msgid "Geography"
+msgstr "Landafræði"
+
+#, fuzzy
+msgid "Geology"
+msgstr "Líffræði"
+
+#, fuzzy
+msgid "Geology software"
+msgstr "Morphing hugbúnaður"
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Jarðfræði"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Jarðfræði"
+
+msgid "Geosciences"
+msgstr "Jarðfræði"
+
+msgid "Graphics"
+msgstr "Myndvinnsla"
+
+#, fuzzy
+msgid "HAM radio software"
+msgstr "Morphing hugbúnaður"
+
+msgid "Hardware"
+msgstr "Vélbúnaður"
+
+msgid "History"
+msgstr "Saga"
+
+#, fuzzy
+msgid "IDE"
+msgstr "IDLE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "KDE forrit"
+
+msgid "IRC"
+msgstr "IRC"
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "IRC forrit"
+
+msgid "Image Processing"
+msgstr "Myndvinnsla"
+
+#, fuzzy
+msgid "Image Processing software"
+msgstr "Myndvinnsla"
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Net-Spjallforrit"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Almennur samtalsbiðill (Instant Messenger)"
+
+msgid "Internet"
+msgstr "Internetið"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Fleiri Forrit"
+
+#, fuzzy
+msgid "Java"
+msgstr "Lavaps"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Tungumál"
+
+msgid "Literature"
+msgstr "Bókmenntir"
+
+msgid "Logic Games"
+msgstr "Kænskuleikir"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "Morphing hugbúnaður"
+
+msgid "Mathematics"
+msgstr "Stærðfræði"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "DJ hugbúnaður"
+
+#, fuzzy
+msgid "Medical software"
+msgstr "Morphing hugbúnaður"
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Sprengjur"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "FontForge"
+
+msgid "Multimedia"
+msgstr "Margmiðlun"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Margmiðlunarvalmynd"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Margmiðlunarspilari"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Margmiðlunarspilari"
+
+#, fuzzy
+msgid "Music"
+msgstr "MusE"
+
+#, fuzzy
+msgid "Musical software"
+msgstr "Morphing hugbúnaður"
+
+msgid "Network"
+msgstr "Net"
+
+msgid "Network-related settings"
+msgstr "Netkerfistengdar stillingar"
+
+#, fuzzy
+msgid "News"
+msgstr "Póstur/Fréttir"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr "Tölfræðigreining"
+
+#, fuzzy
+msgid "Numerical analysis software"
+msgstr "Tölfræðigreining"
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Skrifstofuforrit"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Annað"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Teikniforrit"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Myndskönnunarforrit"
+
+msgid "Packaging"
+msgstr "Pakkastjórn"
+
+msgid "Parallel Computing"
+msgstr "Samhliða vinnsla"
+
+#, fuzzy
+msgid "Parallel computing software"
+msgstr "Samhliða vinnsla"
+
+#, fuzzy
+msgid "Performance"
+msgstr "Valkostir"
+
+msgid "Personal"
+msgstr "Persónulegt"
+
+#, fuzzy
+msgid "Photography"
+msgstr "Landafræði"
+
+msgid "Physics"
+msgstr "Eðlisfræði"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Morphing hugbúnaður"
+
+msgid "Preferences"
+msgstr "Valkostir"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Impress framsetning"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Impress framsetning"
+
+msgid "Printing"
+msgstr "Prentun"
+
+#, fuzzy
+msgid "Profiling tools"
+msgstr "Vinna með safnskrár"
+
+msgid "Project Management"
+msgstr "Verkstjórnun"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Prentaraumsýslu-forrit"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr "ROX"
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Myndvinnsla"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Myndefnisforrit"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "Skjá-Fjarvinnsla"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Styrkstilling"
+
+msgid "Robotics"
+msgstr "Vélmenni"
+
+#, fuzzy
+msgid "Robotics software"
+msgstr "Morphing hugbúnaður"
+
+msgid "Role Playing"
+msgstr ""
+
+#, fuzzy
+msgid "Role playing games"
+msgstr "Rallí kappakstur"
+
+#, fuzzy
+msgid "Scanning"
+msgstr "XSane - Skönnun"
+
+msgid "Science"
+msgstr "Vísindi"
+
+msgid "Screensavers"
+msgstr "Skjáhvílur"
+
+msgid "Security"
+msgstr "Öryggi"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Öryggi"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "MIDI hljóðraðari"
+
+msgid "Settings"
+msgstr "Stillingar"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Minitel skjáhermir"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Geimrannsóknarleikur"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+#, fuzzy
+msgid "Software to learn science"
+msgstr "Hugbúnaðar-uppsetning"
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "Hugbúnaðar-miðla-tól"
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Hljóð"
+
+msgid "Sports"
+msgstr "Íþróttir"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Borðleikir"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Töflureiknir"
+
+msgid "Strategy"
+msgstr "Herkænska"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Herkænskuleikur"
+
+msgid "System"
+msgstr "Kerfi"
+
+msgid "System settings"
+msgstr "Kerfisstillingar"
+
+#, fuzzy
+msgid "TV"
+msgstr "MoTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Skjáhermiforrit"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Forrit"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "ISDN-sími"
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Textatól"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Skjáhermiforrit"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Skjáhermir"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Textatól"
+
+msgid "Text tools"
+msgstr "Textatól"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Tól"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Tól til hugbúnaðarþróunar"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Veldu sjálfgefin forrit"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Aflúsa forrit"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to manage printers"
+msgstr "Stilla prentara"
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Leikföng"
+
+msgid "Translation"
+msgstr "Þýðing"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "Þýðingaforrit"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Vigurbyggt teikniforrit"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Myndefnisforrit"
+
+#, fuzzy
+msgid "Video"
+msgstr "Jigdo"
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Valkostir"
+
+#, fuzzy
+msgid "Video Editing"
+msgstr "Video ritill"
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Myndskeiðaspilari"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Stafræn myndvinnsla"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "KUIViewer"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Vafri"
+
+msgid "Web Development"
+msgstr "Vefhönnun"
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Ritvinnsla"
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Póstforrit"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Öll Forrit"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Hvað skal gera?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Kennsluleikir"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Ýmislegt"
+
+#~ msgid "Shells"
+#~ msgstr "Skeljar"
+
+#~ msgid "Utilities"
+#~ msgstr "Tól"
+
+#~ msgid "Advocacy"
+#~ msgstr "Ráðgjöf"
+
+#~ msgid "Backups"
+#~ msgstr "Afrit"
+
+#~ msgid "Benchmarking"
+#~ msgstr "Afkastamælingar"
+
+#~ msgid "Bootstrapping"
+#~ msgstr "Ræsistjórnun"
+
+#~ msgid "Network bootstrapping"
+#~ msgstr "Ræsing nets"
+
+#~ msgid "Multiboot"
+#~ msgstr "Ræsing stýrikerfa"
+
+#~ msgid "Clustering and Parallel processing"
+#~ msgstr "Fjölgjörva og samhliða vinnsla"
+
+#~ msgid "Community and services"
+#~ msgstr "Samfélag og þjónusta"
+
+#~ msgid "CPU design"
+#~ msgstr "Örgjörvahönnun"
+
+#~ msgid "Generic Linux Documentation"
+#~ msgstr "Almennar Linux handbækur"
+
+#~ msgid "Input hardware"
+#~ msgstr "Inntaksvélbúnaður"
+
+#~ msgid "Grahical hardware"
+#~ msgstr "Grafískur vélbúnaður"
+
+#~ msgid "Kernel internals"
+#~ msgstr "Innviðir kjarna"
+
+#~ msgid "Internationalization"
+#~ msgstr "Tungumál"
+
+#~ msgid "Installation"
+#~ msgstr "Uppsetning"
+
+#~ msgid "Kiosk"
+#~ msgstr "Kiosk"
+
+#~ msgid "Laptops and PDA"
+#~ msgstr "Far og Lófatölvur"
+
+#~ msgid "Power saving"
+#~ msgstr "Orkustillingar"
+
+#~ msgid "Linux on specific architectures"
+#~ msgstr "Linux á sérstökum vélbúnaði"
+
+#~ msgid "Network connection"
+#~ msgstr "Nettenging"
+
+#~ msgid "Network concepts"
+#~ msgstr "Netsamskipti"
+
+#~ msgid "VPN"
+#~ msgstr "VPN"
+
+#~ msgid "Network configuration"
+#~ msgstr "Netstillingar"
+
+#~ msgid "Network clients"
+#~ msgstr "Netbiðlarar"
+
+#~ msgid "Network servers"
+#~ msgstr "Netmiðlarar"
+
+#~ msgid "OSes cohabitation"
+#~ msgstr "Samvera stýrikerfa"
+
+#~ msgid "Programming"
+#~ msgstr "Forritun"
+
+#~ msgid "Servers"
+#~ msgstr "Þjónustur"
+
+#~ msgid "Storage"
+#~ msgstr "Geymsla"
+
+#~ msgid "Migration"
+#~ msgstr "Migration"
+
+#~ msgid "X Window"
+#~ msgstr "Stillingar X"
+
+#~ msgid "Other howtos"
+#~ msgstr "Aðrar leiðbeiningar"
+
+#~ msgid "Buy it"
+#~ msgstr "Kaupa það"
+
+#~ msgid "Subscribe"
+#~ msgstr "Gerast áskrifandi"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "Stilla tölvuna þína"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X gluggatól"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X Tól"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Ítarlegt"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Nánari stillingar"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Tapað & fundið"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Kænska & áræði"
+
+#~ msgid "Information"
+#~ msgstr "Upplýsingar"
+
+#~ msgid "More"
+#~ msgstr "Meira"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Persónulegir valkostir"
+
+#~ msgid "Accessories"
+#~ msgstr "Aukahlutir"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Skjáborðs aukahlutir"
+
+#~ msgid "Networking"
+#~ msgstr "Netforrit"
+
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgid "Science & Math"
+#~ msgstr "Vísindi og stærðfræði"
+
+#~ msgid "GGZ Gaming Zone"
+#~ msgstr "GGZ Leiksvæði"
+
+#~ msgid "Peripherals"
+#~ msgstr "Jaðartæki"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Útlit og viðmót"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Stillingar sem stjórna útliti og hegðun skjáborðsins"
+
+#~ msgid "File"
+#~ msgstr "Skrá"
+
+#~ msgid "Personal settings"
+#~ msgstr "Persónulegar stillingar"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "Skjáhvílu-þemu"
+
+#~ msgid "System Tools"
+#~ msgstr "Kerfistól"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "Kennsluáhöld"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Kerfisstillingar og vöktun"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Uppsetning á ýmsum vélbúnaði"
+
+#~ msgid "KDE Menu"
+#~ msgstr "KDE valmynd"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Persónulegir valkostir og kerfis-stillingar"
+
+#~ msgid "Development Environments"
+#~ msgstr "Þróunarumhverfi"
+
+#~ msgid "Universal Access"
+#~ msgstr "Altækur aðgangur"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Stillingar fyrir altækan aðgang"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "Breyta stillingum fyrir allt kerfið (hefur áhrif á alla notendur)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Hljóð og mynd"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Internet og netkerfi"
+
+#~ msgid "Control Center"
+#~ msgstr "Stjórnborð"
+
+#~ msgid "Puzzles"
+#~ msgstr "Þrautir"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Skotleikir"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Forrit til að nálgast netið, eins og vefinn og tölvupóst"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Forrit sem passa ekki í aðra flokka"
+
+#~ msgid "Office Applications"
+#~ msgstr "Skrifstofuforrit"
+
+#~ msgid ".hidden"
+#~ msgstr ".hidden"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Vinsamlega fjarlægið ekki eða breytið"
+
+#~ msgid "CRXvt (Big5)  "
+#~ msgstr "CRXvt (Big5)  "
+
+#~ msgid "Traditional Chinese rxvt terminal  "
+#~ msgstr "Hefðbundinn kínverskur rxvt skjáhermir  "
+
+#~ msgid "Manage OpenJDK policy files"
+#~ msgstr "Sýsla með OpenJDK stefnuskrár"
+
+#~ msgid "OpenJDK Policy Tool"
+#~ msgstr "OpenJDK Stefnutól"
+
+#~ msgid "A SANE-based frontend for webcams"
+#~ msgstr "SANE viðmótsforrit fyrir vefmyndavélar"
+
+#~ msgid "XCam"
+#~ msgstr "XCam"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Mandriva Linux Uppfærsla"
+
+#~ msgid "Freeciv"
+#~ msgstr "Freeciv"
+
+#~ msgid ""
+#~ "Turn-based strategy game inspired by the history of human civilization"
+#~ msgstr "Hernaðar-leikur byggður á sögu mannkyns"
+
+#~ msgid "Beat the odds in a poker-style dice game"
+#~ msgstr "Sigrast á möguleikunum í póker-teninga-spili"
+
+#~ msgid "Tali"
+#~ msgstr "Tali"
+
+#~ msgid "Record and edit audio files"
+#~ msgstr "Taka upp og sýsla með hljóðskrár"
+
+#~ msgid "Sound Editor"
+#~ msgstr "Hljóðritill"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr ""
+#~ "Frönsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto French"
+#~ msgstr "\"Hvernig-á-að\" á frönsku"
+
+#~ msgid "MIDI file player"
+#~ msgstr "MIDI skráa spilari"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "PowerManga"
+#~ msgstr "PowerManga"
+
+#~ msgid "Shoot 'em up game with 3D graphics"
+#~ msgstr "\"Skjóta-þá-alla\" í þrívídd"
+
+#~ msgid "Extreme Tux Racer"
+#~ msgstr "Extreme Tux Racer"
+
+#~ msgid "OpenGL racing game featuring Tux"
+#~ msgstr "OpenGL kappaksturleikur með Tux"
+
+#~ msgid "Edit DV video"
+#~ msgstr "Sýsla með DV myndskrár"
+
+#~ msgid "Kino"
+#~ msgstr "Kino"
+
+#~ msgid "A graphical traceroute"
+#~ msgstr "Myndrænt traceroute"
+
+#~ msgid "xtraceroute"
+#~ msgstr "xtraceroute"
+
+#~ msgid "Five or More"
+#~ msgstr "Fimm eða fleiri"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "Fjarlægðu litaða bolta úr borðinu með því að mynda raðir"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Minesweeper"
+
+#~ msgid "A simple frontend for the SANE scanning system"
+#~ msgstr "Einfalt myndrænt viðmót fyrir myndskannaforritið SANE"
+
+#~ msgid "XScanImage"
+#~ msgstr "XScanImage"
+
+#~ msgid "C++ IDE for developing Qt applications"
+#~ msgstr "C++ gagnvirkt þróunarumhverfi fyrir Qt forrit"
+
+#~ msgid "Qt Creator"
+#~ msgstr "Qt Creator"
+
+#~ msgid "Screem HTML/XML Editor"
+#~ msgstr "Screem HTML/XML ritill"
+
+#~ msgid "Website editor and management system"
+#~ msgstr "Vefsíðuritill og umsjónarkerfi"
+
+#~ msgid "Documentation Browser"
+#~ msgstr "Handbóka-vafri"
+
+#~ msgid "Mono Documentation"
+#~ msgstr "Mono Handbækur"
+
+#~ msgid "View, search and edit documentation related to Mono"
+#~ msgstr "Skoða, leita og sýsla með handbækur tengdar Mono"
+
+#~ msgid "System Monitor"
+#~ msgstr "Kerfiseftirlit"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Skoða keyrandi forrit og fylgast með ástandi kerfis"
+
+#~ msgid "GQview"
+#~ msgstr "GQview"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Myndarýnir"
+
+#~ msgid "View and manage images"
+#~ msgstr "Skoða og sýsla með myndir"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "Kerfiseftirlitsforrit byggt á GTK "
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "Media Player"
+#~ msgstr "Margmiðlunarspilari"
+
+#~ msgid "Play and organize your media collection"
+#~ msgstr "Spila og sjá um margmiðlunarsafnið þitt"
+
+#~ msgid "Lets you watch TV in a window"
+#~ msgstr "Þú getur horft á sjónvarp í glugga"
+
+#~ msgid "Zapping TV Viewer"
+#~ msgstr "Zapping Sjónvarp"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Viewer"
+#~ msgstr "Lexmark Lexmark 5xxx, 7xxx og 11xx hylkjaskoðun"
+
+#~ msgid "Lexmark showcartridges"
+#~ msgstr "Lexmark hylkjaskoðun"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner"
+#~ msgstr "Lexmark Lexmark 5xxx, 7xxx og 11xx hausajöfnun"
+
+#~ msgid "Lexmark headalign"
+#~ msgstr "Lexmark hausajöfnun"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Stilla lockdown stefnu"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Lockdown ritill"
+
+#~ msgid "A 3D table tennis game"
+#~ msgstr "Þrívíður borðtennisleikur"
+
+#~ msgid "CannonSmash"
+#~ msgstr "CannonSmash"
+
+#~ msgid "About Me"
+#~ msgstr "Um mig"
+
+#~ msgid "Set your personal information"
+#~ msgstr "Skrá persónuupplýsingar"
+
+#~ msgid "Action-puzzle game involving bouncing penguins"
+#~ msgstr "Þrautaleikur með skoppandi mörgæsum"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner"
+#~ msgstr "Lexmark Lexmark 5xxx, 7xxx og 11xx hausahreinsir"
+
+#~ msgid "Lexmark headclean"
+#~ msgstr "Lexmark hausahreinsun"
+
+#~ msgid "CMake"
+#~ msgstr "CMake"
+
+#~ msgid "Cross-platform buildsystem"
+#~ msgstr "Fjölkerfa hugbúnaðarbyggingarkerfi"
+
+#~ msgid "Access EXIF information from pictures"
+#~ msgstr "Lesa EXIF upplýsingar úr myndskrám"
+
+#~ msgid "Gexif"
+#~ msgstr "Gexif"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "Búa til og afrita geisladiska og DVD"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "Breyta hvaða forrit eru sýnd á aðalvalmynd"
+
+#~ msgid "Main Menu"
+#~ msgstr "Aðalvalmynd"
+
+#~ msgid "Google Gadgets (Qt)"
+#~ msgstr "Google Græjur (Qt)"
+
+#~ msgid "Run Google Gadgets in KDE/Qt environment"
+#~ msgstr "Keyra Google græjur í KDE/Qt umhverfi"
+
+#~ msgid "Graphical interface to diff"
+#~ msgstr "Myndrænt viðmót fyrir diff"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Flakka á vefnum"
+
+#~ msgid "Alignment, ink level, cartridge maintenance"
+#~ msgstr "Hausastilling, blekmagn, og viðhald hylkja"
+
+#~ msgid "Epson Inkjet Printer Manager"
+#~ msgstr "EPSON bleksprautuprentaratól"
+
+#~ msgid "Character Map"
+#~ msgstr "Stafatafla"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Setja sértákn og bókstafi inn í skjöl"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in Brazilian Portuguese"
+#~ msgstr "Mandriva Linux DrakXTóla notandahandbækur á brasílísk-portúgölsku"
+
+#~ msgid "The Mandriva Linux manuals in Brazilian Portuguese"
+#~ msgstr "Mandriva Linux handbækur á brasílísk-portúgölsku"
+
+#~ msgid "Python complete reference"
+#~ msgstr "Heildarhandbókarsafn Python"
+
+#~ msgid "Python documentation"
+#~ msgstr "Python Handbækur"
+
+#~ msgid "X11 screen saver"
+#~ msgstr "X11 Skjásvæfa"
+
+#~ msgid "Xlock"
+#~ msgstr "Xlock"
+
+#~ msgid "CompizConfig Settings Manager"
+#~ msgstr "CompizConfig Stillingastjóri"
+
+#~ msgid "Configure Compiz with CompizConfig"
+#~ msgstr "Stilla Compiz með CompizConfig"
+
+#~ msgid "Authorizations"
+#~ msgstr "Auðkenningar"
+
+#~ msgid "Configure authorizations"
+#~ msgstr "Stilla auðkenningar"
+
+#~ msgid "NetApplet"
+#~ msgstr "NetApplet"
+
+#~ msgid "Network monitoring applet"
+#~ msgstr "Net eftirlits spjaldforrit"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Samba stillingar (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Swat stjórnar Samba um vefinn"
+
+#~ msgid "Screenshot grabber"
+#~ msgstr "Skjámyndataka fyrir X-glugga"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "A program for watching TV (nicer interface)"
+#~ msgstr "Forrit til að horfa á sjónvarp (betra viðmót)"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Allt fullt af köplum"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "Mandriva Linux Starter Guide in French"
+#~ msgstr "Mandriva Linux byrjendahandbækur á frönsku"
+
+#~ msgid "The Mandriva Linux manuals in French"
+#~ msgstr "Mandriva Linux handbækur á frönsku"
+
+#~ msgid "Chainsaw"
+#~ msgstr "Chainsaw"
+
+#~ msgid "Log4j log viewer"
+#~ msgstr "Log4j annálaskoðari"
+
+#~ msgid "GUI chessboard game"
+#~ msgstr "Skák - Myndrænt viðmót"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Appearance"
+#~ msgstr "Útlit"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "Sérsníða útlit skjáborðsins"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "Fletta upp orðum og stafsetningu í orðabókum á netinu"
+
+#~ msgid "Google Gadgets (GTK)"
+#~ msgstr "Google Græjur (GTK)"
+
+#~ msgid "Run Google Gadgets in GNOME/GTK environment"
+#~ msgstr "Keyra Google græjur í GNOME/GTK umhverfi"
+
+#~ msgid "Browse the file system and manage the files"
+#~ msgstr "Skoðaðu skráakerfið og sýslaðu með skrár"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr "Finna skjöl og möppur á þessari tölvu eftir nafni eða innihaldi"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Leita að skrám..."
+
+#~ msgid "Avahi VNC Server Browser"
+#~ msgstr "Avahi VNC miðlara-flakkarinn"
+
+#~ msgid "Browse for Zeroconf-enabled VNC Servers"
+#~ msgstr "Leita eftir Zeroconf-virkum VNC miðlurum"
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Ræsa önnur forrit og bjóða upp á ýmis tól til þess að stjórna gluggum, "
+#~ "sýna tímann, o.s.frv."
+
+#~ msgid "Panel"
+#~ msgstr "Skjáspjald"
+
+#~ msgid "Navigate applications and type using alternative input devices"
+#~ msgstr "Flakka um forrit og slá inn texta með sértækum inntakstækjum"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Lyklaborð á skjá"
+
+#~ msgid "Lookup words"
+#~ msgstr "Leita eftir orðum"
+
+#~ msgid "StarDict"
+#~ msgstr "Stardict"
+
+#~ msgid "Compiz"
+#~ msgstr "Compiz"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Viðmót fyrir rp-pppoe"
+
+#~ msgid "TkPPPoE"
+#~ msgstr "TkPPPoE"
+
+#~ msgid "GnuCash Finance Management"
+#~ msgstr "GnuCash fjármálaumsýsla"
+
+#~ msgid "Manage your finances, accounts, and investments"
+#~ msgstr "Sýslaðu með fjármál þín, reikninga og fjárfestingar"
+
+#~ msgid "Audio CD Extractor"
+#~ msgstr "Hljóð-geisladiska Ripper"
+
+#~ msgid "Copy music from your CDs"
+#~ msgstr "Lesa hljóðskrár af geisladiskum"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "CD/DVD skrifarar"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "Búa til geisladiska og DVD"
+
+#~ msgid "Device Manager"
+#~ msgstr "Tækjastjóri"
+
+#~ msgid "Manage devices"
+#~ msgstr "Sýsla með tæki"
+
+#~ msgid "Import the photos on your camera card"
+#~ msgstr "Flytja inn myndir af minniskorti myndavélar"
+
+#~ msgid "Photo Import Tool"
+#~ msgstr "Mynda-innflutnings-tól"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "Sjálfgefin forrit"
+
+#~ msgid "Klotski"
+#~ msgstr "Klotski"
+
+#~ msgid "Slide blocks to solve the puzzle"
+#~ msgstr "Renna til blokkum og leysa þrautina"
+
+#~ msgid "Blender (DRI disabled)"
+#~ msgstr "Blender (Ekki DRI)"
+
+#~ msgid "The free open source 3D content creation suite (with DRI disabled)"
+#~ msgstr ""
+#~ "Opið og frjálst þrívíddar hönnunar og teiknitól (DRI (skjáhraðall) ekki "
+#~ "virkur)"
+
+#~ msgid "3D Chess Game"
+#~ msgstr "Þrívíður skákleikur"
+
+#~ msgid "Chess"
+#~ msgstr "Skák"
+
+#~ msgid "Play the classic two-player boardgame of chess"
+#~ msgstr "Klassísk skák"
+
+#~ msgid "Manage your PulseAudio sound server."
+#~ msgstr "Sýslaðu með PulseAudio hljóðmiðlarann."
+
+#~ msgid "PulseAudio Manager"
+#~ msgstr "PulseAudio Stjórnun"
+
+#~ msgid "Leafpad"
+#~ msgstr "Leafpad"
+
+#~ msgid "Simple text editor"
+#~ msgstr "Einfaldur textaritill"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "Flakka um bókamerktar og staðbundnar nettengingar"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "Búa til og sýsla með notendasnið"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "Sýsla með Notandasnið"
+
+#~ msgid "Chat with other people using Internet Relay Chat"
+#~ msgstr "Spjalla við annað fólk með Internet Relay Chat (IRC)"
+
+#~ msgid "XChat IRC"
+#~ msgstr "XChat IRC"
+
+#~ msgid "Photo Viewer"
+#~ msgstr "Myndaskoðari"
+
+#~ msgid "Bluetooth"
+#~ msgstr "Blátönn"
+
+#~ msgid "Configure Bluetooth settings"
+#~ msgstr "Blátannar-Stillingar"
+
+#~ msgid "GUI Python Shell"
+#~ msgstr "Myndræn Python Skel"
+
+#~ msgid "PyShell"
+#~ msgstr "PyShell"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "Text Editor"
+#~ msgstr "Texta Ritill"
+
+#~ msgid "Office Suite"
+#~ msgstr "Skrifstofuvöndull"
+
+#~ msgid "OpenOffice.org"
+#~ msgstr "OpenOffice.org"
+
+#~ msgid "Capture Volume Meter"
+#~ msgstr "Hljóðupptöku-styrkmælir"
+
+#~ msgid "Monitor the input volume"
+#~ msgstr "Fylgjast með inntakshljóðstyrk"
+
+#~ msgid "PulseAudio Volume Meter (Capture)"
+#~ msgstr "PulseAudio Styrkmælir (upptaka)"
+
+#~ msgid "GBRXvt (GB2312)  "
+#~ msgstr "GBRXvt (GB2312)  "
+
+#~ msgid "Simplified Chinese rxvt terminal  "
+#~ msgstr "Einfaldaður kínverskur rxvt skjáhermir  "
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "Skoða og snúa myndum"
+
+#~ msgid "Monitor the output volume"
+#~ msgstr "Fylgjast með úttakshljóðstyrk"
+
+#~ msgid "Playback Volume Meter"
+#~ msgstr "Afspilunar-styrkmælir"
+
+#~ msgid "PulseAudio Volume Meter (Playback)"
+#~ msgstr "PulseAudio Styrkmælir (Afspilun)"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid ""
+#~ "Perform calculation, analyze information and manage lists in spreadsheets "
+#~ "by using Calc."
+#~ msgstr ""
+#~ "Framkvæma útreikninga, kanna upplýsingar og sýsla með lista í töflureikni "
+#~ "með Calc."
+
+#~ msgid "Control tool for Echoaudio soundcards"
+#~ msgstr "Stjórntól fyrir Echoaudio hljóðkort"
+
+#~ msgid "Echo mixer"
+#~ msgstr "Echo hljóðblandari"
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "Vista myndir af skjáborðinu eða einstökum gluggum"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "Taka skjámynd"
+
+#~ msgid "Phone Manager"
+#~ msgstr "Símastýring"
+
+#~ msgid "Receive and send text messages from your mobile phone"
+#~ msgstr "Taka á móti og senda textaskilaboð frá gemsanum þínum"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "Hjálparvafri fyrir þróendur"
+
+#~ msgid "Devhelp"
+#~ msgstr "Devhelp"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr ""
+#~ "Hollensk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Dutch"
+#~ msgstr "\"Hvernig-á-að\" á hollensku"
+
+#~ msgid "Eclipse"
+#~ msgstr "Eclipse"
+
+#~ msgid "Eclipse Integrated Development Environment"
+#~ msgstr "Eclipse Gagnvikt þróunar-umhverfi"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Flakka um skráakeerfið með skráastjóra"
+
+#~ msgid "File Browser"
+#~ msgstr "Skráavafri"
+
+#~ msgid "Mandriva Linux Starter Guide in English"
+#~ msgstr "Mandriva Linux byrjendahandbækur á ensku"
+
+#~ msgid "The Mandriva Linux manuals in English"
+#~ msgstr "Mandriva Linux handbækur á ensku"
+
+#~ msgid "IDE for Python"
+#~ msgstr "Gagnvirkt þróunarumhverfi fyrir Python"
+
+#~ msgid "Mail notifier"
+#~ msgstr "Póst-tilkynningarforrit"
+
+#~ msgid "Add and organize the OpenOffice.org extensions."
+#~ msgstr "Sýsla með OpenOffice.org viðbætur."
+
+#~ msgid "Extension Manager"
+#~ msgstr "Viðbótastjóri"
+
+#~ msgid "OpenOffice.org Extension Manager"
+#~ msgstr "OpenOffice.org viðbótastjóri"
+
+#~ msgid "Configurator"
+#~ msgstr "Stillingar"
+
+#~ msgid "Dia Diagram Editor"
+#~ msgstr "Dia flæðirita-ritillinn"
+
+#~ msgid "Edit your Diagrams"
+#~ msgstr "Sýsla með flæðirit"
+
+#~ msgid "Monitor and manage OpenJDK applications"
+#~ msgstr "Fylgjast með og stjórna OpenJDK forritum"
+
+#~ msgid "OpenJDK Monitoring & Management Console"
+#~ msgstr "Stjórn- og eftirlitskerfis-stjórnborð fyrir OpenJDK"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "Setja inn þema-pakka fyrir ýmsa hluta skjáborðsins"
+
+#~ msgid "Theme Installer"
+#~ msgstr "Þema-uppsetning"
+
+#~ msgid "Control panel for RME Hammerfall"
+#~ msgstr "Stjórnborð fyrir RME Hammerfall"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Stjórnborð"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Fá hjálp með GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Hjálp"
+
+#~ msgid "A melting digital clock"
+#~ msgstr "Bráðnandi stafræn klukka"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "Stoðtækni"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr "Velja hvaða stoðtæknieiginleika á að virkja þegar þú skráir þig inn"
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "Skoða möppustærðir og laust diskapláss"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "Diskaskoðun"
+
+#~ msgid "Full virtualizer for x86 hardware"
+#~ msgstr "Heildstæður x86 vélbúnaðarhermir"
+
+#~ msgid "VirtualBox OSE"
+#~ msgstr "VirtualBox OSE"
+
+#~ msgid "Create or open user interface designs for GTK+ applications"
+#~ msgstr "Búa til opin notendaviðmót fyrir GTK+ forrit"
+
+#~ msgid "Organize, enjoy, and share your photos"
+#~ msgstr "Raða, njóta og miðla myndunum þínum"
+
+#~ msgid "Photo Manager"
+#~ msgstr "Myndameðhöndlun"
+
+#~ msgid "Graphical user interface for managing log4j log messages"
+#~ msgstr "Myndrænt viðmót til að sýsla með log4j annála"
+
+#~ msgid "LogFactor5"
+#~ msgstr "LogFactor5"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Stillitól fyrir fax miðlara og biðlara"
+
+#~ msgid "Fax configuration"
+#~ msgstr "Fax stillingar"
+
+#~ msgid "Movie Player"
+#~ msgstr "Kvikmyndaspilari"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Leika kvikmyndir og tónlist"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Skjalaskoðari"
+
+#~ msgid "Home Folder"
+#~ msgstr "Heimamappa"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Opna þína persónulegu möppu"
+
+#~ msgid "Frontend for Nvidia TV output"
+#~ msgstr "Viðmót fyrir Nvidia sjónvarps-úttak"
+
+#~ msgid "Nvidia TV Output"
+#~ msgstr "Nvidia sjónvarps-úttak"
+
+#~ msgid "Complete the puzzle by matching numbered tiles"
+#~ msgstr "Ljúka þrautinni með því að fella saman númeraðar hliðar"
+
+#~ msgid "Tetravex"
+#~ msgstr "Tetravex"
+
+#~ msgid "Clone of Sega's \"Chu Chu Rocket\", a multi-player puzzle game"
+#~ msgstr "Klón af - Sega \"Chu Chu Rocket\", fjölnotanda þrautaleikur"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "A graphical designer/dialog builder for Qt4"
+#~ msgstr "Myndrænt (glugga-)hönnunarforrit fyrir Qt4"
+
+#~ msgid "Qt4 Designer"
+#~ msgstr "Qt4 hönnuðurinn"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Stilla sjálfgefin gildi fyrir GStreamer forrit"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Margmiðlunarkerfisuppsetning"
+
+#~ msgid "Configure PalmOS devices"
+#~ msgstr "Stilla samskiptaforrit PalmOS tækja"
+
+#~ msgid "PalmOS Devices"
+#~ msgstr "PalmOS Tæki"
+
+#~ msgid "Access remote desktops"
+#~ msgstr "Tengjast fjarlægum skjáborðum"
+
+#~ msgid "Remote Desktop Viewer"
+#~ msgstr "Tengingar við fjarlæg skjáborð"
+
+#~ msgid "HDSPMixer"
+#~ msgstr "HDSP hljóðblandari"
+
+#~ msgid "Hammerfall DSP matrix mixer control GUI"
+#~ msgstr "Hammerfall DSP myndrænt hljóðblandaraviðmót"
+
+#~ msgid "Audit Configuration"
+#~ msgstr "Eftirlits-Stillingar"
+
+#~ msgid "Modify audit configuration"
+#~ msgstr "Sýsla með eftirlitsstillingar"
+
+#~ msgid "Bluefish Editor"
+#~ msgstr "Bluefish Ritill"
+
+#~ msgid "Web Development Editor"
+#~ msgstr "Vef-Þróunarumhverfi"
+
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgid "Gtk-ocr"
+#~ msgstr "Gtk-ocr"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Gtk-ocr er gtk viðmót fyrir gocr"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "Forðastu vélmennin og láttu þau rekast á hvert annað"
+
+#~ msgid "Robots"
+#~ msgstr "Robots"
+
+#~ msgid "Search"
+#~ msgstr "Leita"
+
+#~ msgid "Search for data on your desktop"
+#~ msgstr "Leita að gögnum á skjáborðinu þínu"
+
+#~ msgid "xine"
+#~ msgstr "xine"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr ""
+#~ "Spænsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Spanish"
+#~ msgstr "\"Hvernig-á-að\" á spænsku"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "Full-featured POP/IMAP mail retrieval daemon"
+#~ msgstr "Fullbyggður POP/IMAP póst-sæki forrit"
+
+#~ msgid "Crack Attack!"
+#~ msgstr "Crack Attack!"
+
+#~ msgid "A free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Opinn og frjáls (GPL) Bomberman-líkur fjölnotanda-leikur"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "GGZ Core Client"
+#~ msgstr "GGZ Core biðlari"
+
+#~ msgid "Gtk+ internet gaming center"
+#~ msgstr "Gtk+ Internet leikamiðstöð"
+
+#~ msgid "ggz-gtk"
+#~ msgstr "ggz-gtk"
+
+#~ msgid "A language for statistical computing"
+#~ msgstr "Forritunarmál til tölfræðireikninga"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Ia Ora Free"
+#~ msgstr "Ia Ora Frjálst"
+
+#~ msgid "Mandriva Screensaver"
+#~ msgstr "Mandriva skjásvæfa"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "Net af pop-listar flöktandi litum."
+
+#~ msgid "Pop art squares"
+#~ msgstr "Pop lista kassar"
+
+#~ msgid "Ia Ora Blue"
+#~ msgstr "Ia Ora Blátt"
+
+#~ msgid "Ia Ora"
+#~ msgstr "Ia Ora"
+
+#~ msgid "Ia Ora Gray"
+#~ msgstr "Ia Ora Grátt"
+
+#~ msgid "Ia Ora One"
+#~ msgstr "Ia Ora Eitt"
+
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr "Skjásýning með F-Spot"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "F-Spot myndir"
+
+#~ msgid "Ia Ora Orange"
+#~ msgstr "Ia Ora Appelsínugult"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "Skjásýning úr mynda-möppunni þinni"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Myndamappa"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "Freyðir GNOME fót merkinu um skjáinn"
+
+#~ msgid "Floating Feet"
+#~ msgstr "Fljótandi fætur"
+
+#~ msgid "Cosmos"
+#~ msgstr "Cosmos"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "Skjásýning með myndum af stjörnuþokum"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "Flakka um alla staðbundna og fjartengda diska (og möppur) aðgengilega frá "
+#~ "þessari tölvu"
+
+#~ msgid "Computer"
+#~ msgstr "Tölva"
+
+#~ msgid "Mandriva Linux Quick Startup Guide in English"
+#~ msgstr "Mandriva Linux byrjenda-handbækur á ensku"
+
+#~ msgid "A graphical front end for browsing installed & available packages"
+#~ msgstr "Myndrænt viðmót til að flakka um uppsettan og tiltækan hugbúnað"
+
+#~ msgid "Browse Available Software"
+#~ msgstr "Skoða tiltækan hugbúnað"
+
+#~ msgid "Convert HTML files to PDF or PostScript"
+#~ msgstr "Breyta HTML skrám í PDF eða Postscript"
+
+#~ msgid "HTMLDoc"
+#~ msgstr "HTMLDoc"
+
+#~ msgid "Bittorrent Checker"
+#~ msgstr "Bittorrent skoðari"
+
+#~ msgid "Mandriva Linux Bittorrent checker"
+#~ msgstr "Mandriva Linux Bittorrent skoðari"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "TeX document processor - especially good at scientific documents"
+#~ msgstr "TeX Ritvinnsla - Sérstaklega góður við smíði vísindarita"
+
+#~ msgid "Interactive C# Shell"
+#~ msgstr "Gagnvirk C# skel"
+
+#~ msgid ""
+#~ "Write C# in an interactive shell, and inject your code into running Mono "
+#~ "processes"
+#~ msgstr ""
+#~ "Skrifaðu C# í gagnvirkri skel, og settu forrit þín inn í keyrandi Mono "
+#~ "forrit"
+
+#~ msgid "gsharp"
+#~ msgstr "gsharp"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Sýna jörðina á skjáborðinu"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Skoða og raða bókamerkjunum þínum"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany bókamerkjaritill"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Vef-bókamerki"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr ""
+#~ "Slóvensk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Slovenian"
+#~ msgstr "\"Hvernig-á-að\" á slóvensku"
+
+#~ msgid "An SSL web-based administration interface for Unix systems"
+#~ msgstr "SSL kerfisstjórnunar-vef-viðmót fyrir Unix kerfi"
+
+#~ msgid "webmin"
+#~ msgstr "webmin"
+
+#~ msgid "Menu Style Configuration"
+#~ msgstr "Uppsetning valmyndastíls"
+
+#~ msgid "Platform Game"
+#~ msgstr "Kerfisleikur"
+
+#~ msgid "Play a classic 2D platform game"
+#~ msgstr "Spila klassískan tvívíðan hoppa og stanga leik"
+
+#~ msgid "SuperTux 2"
+#~ msgstr "SuperTux 2"
+
+#~ msgid "GUI Python Shell with Filling"
+#~ msgstr "Myndræn Python skel með fyllingu"
+
+#~ msgid "PyCrust"
+#~ msgstr "PyCrust"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Leikur sem reynir á hraða og kænsku"
+
+#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
+#~ msgstr "Leita að gulli, fela sig fyrir óvinum og leysa þrautir"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Uppfærslutól valmynda"
+
+#~ msgid "Okular"
+#~ msgstr "Okular"
+
+#~ msgid "KDiamond"
+#~ msgstr "KDiamond"
+
+#~ msgid "Three-in-a-row game"
+#~ msgstr "Raða þremur í röð"
+
+#~ msgid "KSnake"
+#~ msgstr "KSnákur"
+
+#~ msgid "Snake-like Game"
+#~ msgstr "Leikur líkur Snake"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Litavalstól"
+
+#~ msgid "KColorChooser"
+#~ msgstr "Litaval"
+
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "KDE lotutafla"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "Lotukerfið"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Hengimann leikur"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "KDE Hangman leikur"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "KPhotoAlbum"
+#~ msgstr "KPhotoAlbum"
+
+#~ msgid "Photo Album"
+#~ msgstr "Ljósmyndaalbúm"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "Einfaldur myndskoðari"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "Kiriki"
+#~ msgstr "Kiriki"
+
+#~ msgid "Yahtzee-like Dice Game"
+#~ msgstr "Leikur sem líkist Yahtzee"
+
+#~ msgid "KUser"
+#~ msgstr "K-Notandi"
+
+#~ msgid "User Manager"
+#~ msgstr "Notandaumsýsla"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "Hoppandi kubbur"
+
+#~ msgid "Territory Capture Game"
+#~ msgstr "Svæðis-vinninga-leikur"
+
+#~ msgid "Galactic Strategy Game"
+#~ msgstr "Geim-herkænskuleikur"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "Hjálparkorta og orðaforða-kennslutól"
+
+#~ msgid "Flash Card Trainer"
+#~ msgstr "Æfir orðaforða"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "K-Orðaþraut"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Amarok - Rediscover Your Music!"
+#~ msgstr "Amarok - enduruppgötvaðu tónlistina þína!"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "Myndrænt viðmót á CVS"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KReglustika"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Reglustika"
+
+#~ msgid "KSnapshot"
+#~ msgstr "K-Skjámynd"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Forrit sem grípur skjámyndir"
+
+#~ msgid "Character Selector"
+#~ msgstr "Stafaval"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Learn The Alphabet"
+#~ msgstr "Læra stafrófið"
+
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "KDE forrit til að læra stafrófið"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "The SMB/CIFS Share Browser"
+#~ msgstr "SMB/CIFS sameignarflakkarinn"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Dagbók og skipulag"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "Persónuleg dagskinna"
+
+#~ msgid "Home"
+#~ msgstr "Heimasvæðið þitt"
+
+#~ msgid "Personal Files"
+#~ msgstr "Skrárnar þínar"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "Geimeinvígi"
+
+#~ msgid "Space Arcade Game"
+#~ msgstr "Spilakassa-Geim-Skoteikur"
+
+#~ msgid "A Feed Reader for KDE"
+#~ msgstr "Fréttastrimla-lesari fyrir KDE"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "Feed Reader"
+#~ msgstr "Fréttastrimla-lesari"
+
+#~ msgid "KTouch"
+#~ msgstr "K-Vélritun"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Vélritunarkennsla"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "HTML myndakortsritill"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KBlocks"
+#~ msgstr "K-Blokkir"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "Link Checker"
+#~ msgstr "Yfirfer tengla"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "Note Taker"
+#~ msgstr "Minnispunktar"
+
+#~ msgid "KMouth"
+#~ msgstr "KMunnur"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Viðmót á talgerfilinn"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "Augnakonfekt fyrir skjáborðið."
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "Skjáborðshlutir"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SúperKaramba"
+
+#~ msgid "Nepomuk PIMO Shell"
+#~ msgstr "Nepomuk PIMO Skel"
+
+#~ msgid "The simple Nepomuk PIMO Shell"
+#~ msgstr "Einföld Nepomuk PIMO skel"
+
+#~ msgid "Picture Game for Children"
+#~ msgstr "Myndaleikur fyrir börn"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Kartöflukarl"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "Klipp & lím sögutól"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Klippispjaldstól"
+
+#~ msgid "Klipper"
+#~ msgstr "Klippari"
+
+#~ msgid "Battleship Game"
+#~ msgstr "Sjóorustuleikur"
+
+#~ msgid "KBattleship"
+#~ msgstr "KSjóorrusta"
+
+#~ msgid "Go Board Game"
+#~ msgstr "GO borðleikur"
+
+#~ msgid "Kigo"
+#~ msgstr "Kigo"
+
+#~ msgid "Card Game"
+#~ msgstr "Spil"
+
+#~ msgid "LSkat"
+#~ msgstr "LSkat"
+
+#~ msgid "CD Player"
+#~ msgstr "CD spilari"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid ""
+#~ "Manage your photographs like a professional with the power of open source"
+#~ msgstr "Sýslaðu með ljósmyndirnar þínar með krafti opins hugbúnaðar"
+
+#~ msgid "Photo Viewer and Editor"
+#~ msgstr "Ljósmyndaskoðari og ritill"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Bomber"
+#~ msgstr "Bomber"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Bomberman klón"
+
+#~ msgid "Graph Calculator"
+#~ msgstr "Graf-Reiknivél"
+
+#~ msgid "KAlgebra"
+#~ msgstr "K-Algebra"
+
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "Leysa stærðfræðisetningar og myndræn framsetning"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Qt Designer UI (viðmóts-) skráaskoðari"
+
+#~ msgid "3-D Game based on Rubik's Cube"
+#~ msgstr "Þrívíddarleikur byggður á Rubiks teningi"
+
+#~ msgid "A 3-D game based on Rubik's Cube"
+#~ msgstr "Þrívíddarleikur byggður á Rubiks teningi"
+
+#~ msgid "Kubrick"
+#~ msgstr "Kubrick"
+
+#~ msgid "KAppTemplate"
+#~ msgstr "KAppTemplate"
+
+#~ msgid "KDE Template Generator"
+#~ msgstr "KDE sniða-smíð"
+
+#~ msgid "Certificate Manager and Unified Crypto GUI"
+#~ msgstr "Skírteinaumsýsla og almennt dulritunarviðmót"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleópatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Skjáborðsmiðlun"
+
+#~ msgid "Krfb"
+#~ msgstr "Krfb"
+
+#~ msgid "KsirK Skin Editor"
+#~ msgstr "KsirK Skinnritill"
+
+#~ msgid "Skin Editor for the World Domination Strategy Game"
+#~ msgstr "Skinnritill fyrir Heimsyfirráða-Herkænskuleikinn KsirK"
+
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "KDE hópvinnukerfis-ráðgjafi"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "Shisen-Sho kubbaleikur líkur Mahjongg"
+
+#~ msgid "Desktop Search"
+#~ msgstr "Skjáborðsleit"
+
+#~ msgid "Nepomuk Search Client"
+#~ msgstr "Nepomuk Leitarbiðlari"
+
+#~ msgid "The simple Nepomuk Desktop Search Client"
+#~ msgstr "Einfalt Nepomuk skjáborðsleitarforrit"
+
+#~ msgid "A memory enhancement game"
+#~ msgstr "Minnisþjálfunarleikur"
+
+#~ msgid "Blinken"
+#~ msgstr "Blinken"
+
+#~ msgid "Memory Enhancement Game"
+#~ msgstr "Minnisþjálfunarleikur"
+
+#~ msgid "KSudoku"
+#~ msgstr "KSudoku"
+
+#~ msgid "KSudoku, Sudoku game & more for KDE"
+#~ msgstr "KSudoku, Sudoku leikur og meira fyrir KDE"
+
+#~ msgid "Sudoku Game"
+#~ msgstr "Sudoku Leikur"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "Viðmót á GnuPG"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Dulritunartól"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "Smáforrit á spjöld sem stjórnar stærð og snúningi X skjáa."
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Stærð og snúningur skjáa"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "Mail Client"
+#~ msgstr "Póstforrit"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Mahjongg Solitaire"
+#~ msgstr "Þrívíður MahJongg leikur"
+
+#~ msgid "Konsole"
+#~ msgstr "Skjáhermir"
+
+#~ msgid "KReversi"
+#~ msgstr "Viðsnúningur"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "Reversi borðleikur"
+
+#~ msgid "Killbots"
+#~ msgstr "Killbots"
+
+#~ msgid "KMail view"
+#~ msgstr "KMail póstskoðun"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Öflug reiknivél"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Myndrænt viðmót á Diff/Patch"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "Skjástækkunargler"
+
+#~ msgid "Countdown Launcher"
+#~ msgstr "Niðurteljari"
+
+#~ msgid "KTimer"
+#~ msgstr "K-Skeiðklukka"
+
+#~ msgid "skrooge"
+#~ msgstr "skrooge"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Netmöppuálfur"
+
+#~ msgid "UML Modeller"
+#~ msgstr "UML Módel"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "Blackbox kænskuleikur"
+
+#~ msgid "KBlackBox"
+#~ msgstr "Svarti kassinn"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "Nonlinear video editor for KDE"
+#~ msgstr "Video-klippiforrit fyrir KDE"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "Leikur sem líkist Sokoban"
+
+#~ msgid "KPatience"
+#~ msgstr "K-Þolinmæðin"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Kaplar"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "Persónulegur upplýsingastjórnandi"
+
+#~ msgid "Desktop Globe"
+#~ msgstr "Skjáborðs-Heimur"
+
+#~ msgid "Marble"
+#~ msgstr "Marmari"
+
+#~ msgid "Bovo"
+#~ msgstr "Bovo"
+
+#~ msgid "Five-in-a-row Board Game"
+#~ msgstr "Fimm-í-röð borðleikur"
+
+#~ msgid "Annotate..."
+#~ msgstr "Athugasemdir..."
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "Skjámyndataka"
+
+#~ msgid "Parley"
+#~ msgstr "Parley"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Orðaforðaþjálfi"
+
+#~ msgid "Font Viewer"
+#~ msgstr "Leturskoðari"
+
+#~ msgid "KFontView"
+#~ msgstr "K Leturskoðari"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Teiknar gröf falla"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "Teiknar gröf falla"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "Tengjast Netinu með upphringisambandi"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "Gagnvikt þróunar-umhverfi"
+
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#~ msgid "Breakout-like Game"
+#~ msgstr "Breakout-líkur skotleikur"
+
+#~ msgid "KBreakOut"
+#~ msgstr "KBreakOut"
+
+#~ msgid "System Information"
+#~ msgstr "Kerfisupplýsingar"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Skjáborðsstjörnuver"
+
+#~ msgid "KStars"
+#~ msgstr "KStjörnur"
+
+#~ msgid "CD Cover Printer"
+#~ msgstr "Geisladiska-áprentun"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "Four-in-a-row Board Game"
+#~ msgstr "Raða fjórum í röð - borðleikur"
+
+#~ msgid "KFourInLine"
+#~ msgstr "K-Fjórir í röð"
+
+#~ msgid "KNetWalk"
+#~ msgstr "KNetWalk"
+
+#~ msgid "Network Construction Game"
+#~ msgstr "Net-byggingar-leikur"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "Paint Program"
+#~ msgstr "Teikniforrit"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Áminningakerfi"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Tól til að stýra eiginleikum veskisins"
+
+#~ msgid "Eat pills escaping ghosts"
+#~ msgstr "Éta pillur og sleppa frá draugum"
+
+#~ msgid "Kapman"
+#~ msgstr "Kapman"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "Leikur líkur Tron"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Skoða nýtni á diskum"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "A BitTorrent program for KDE"
+#~ msgstr "BitTorrent forrit fyrir KDE"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "BitTorrent biðlari"
+
+#~ msgid "KTorrent"
+#~ msgstr "KTorrent"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "Myndrænt viðmót á afkastakönnuð"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Myndræn framsetning gagna úr afkastakönnun"
+
+#~ msgid "Download Manager"
+#~ msgstr "Niðurhalsstjóri"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "Kajongg"
+#~ msgstr "Kajongg"
+
+#~ msgid "Mah Jongg"
+#~ msgstr "Mahjongg"
+
+#~ msgid "A Geography Learning Program"
+#~ msgstr "Landafræði kennsluforrit"
+
+#~ msgid "Geography Trainer"
+#~ msgstr "Landafræðiþjálfun"
+
+#~ msgid "KGeography"
+#~ msgstr "K-Landafræði"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolor Lines"
+
+#~ msgid "Tactical Game"
+#~ msgstr "Herkænskuleikur"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "Tugabrotaæfingar"
+
+#~ msgid "KBruch"
+#~ msgstr "K-Brot"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Gera æfingar með tugabrotum"
+
+#~ msgid "Lokalize"
+#~ msgstr "Lokalize"
+
+#~ msgid "Info Center"
+#~ msgstr "Upplýsingaborð"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgid "KTeaTime"
+#~ msgstr "K-Tetími"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Te hitarinn"
+
+#~ msgid "Change Password"
+#~ msgstr "Breyta lykilorði"
+
+#~ msgid "Connect the dots to create squares"
+#~ msgstr "Tengja punkta til að búa til ferninga"
+
+#~ msgid "KSquares"
+#~ msgstr "Kferningar"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "KonsoleKalendar"
+
+#~ msgid "KsirK"
+#~ msgstr "KsirK"
+
+#~ msgid "World Domination Strategy Game"
+#~ msgstr "Heimsyfirráða-Herkænskuleikur"
+
+#~ msgid "Jigsaw puzzle game"
+#~ msgstr "Púsl"
+
+#~ msgid "Palapeli"
+#~ msgstr "Palapeli"
+
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "Japanskt uppsláttarrit/kennslutól"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Japanskt uppsláttarrit/kennslutól"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Hljóðblöndun"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "KDE villustjórnun"
+
+#~ msgid "Welcome"
+#~ msgstr "Velkomin(n)"
+
+#~ msgid "Bookmark Editor"
+#~ msgstr "Bókamerkjastjóri"
+
+#~ msgid "Bookmark Organizer and Editor"
+#~ msgstr "Bókamerkjaskipuleggjari"
+
+#~ msgid "Configure Your Desktop"
+#~ msgstr "Stilla skjáborðið þitt"
+
+#~ msgid "KFileReplace"
+#~ msgstr "KFileReplace"
+
+#~ msgid "Search & Replace Tool"
+#~ msgstr "Tól til að leita að, og skipta út texta"
+
+#~ msgid "Akonadi Tray Utility"
+#~ msgstr "Akonadi bakkaforrit"
+
+#~ msgid "Akonaditray"
+#~ msgstr "Akonaditray"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Minigolf"
+
+#~ msgid "KWalletManager"
+#~ msgstr "K-Veskisstjóri"
+
+#~ msgid "Distributed IRC client with central core component"
+#~ msgstr "Dreifður IRC biðlari með grunnkjarnaeiningu"
+
+#~ msgid "Quassel IRC"
+#~ msgstr "Quassel IRC"
+
+#~ msgid "A Subversion client for KDE"
+#~ msgstr "Subversion biðlari fyrir KDE"
+
+#~ msgid "SVN client"
+#~ msgstr "SVN biðlari"
+
+#~ msgid "kdesvn"
+#~ msgstr "kdesvn"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Umsýsla aukamiðla"
+
+#~ msgid "Ball Bouncing Game"
+#~ msgstr "Boltaskoppleikur"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "Sjálfvirkur músahnappasmellir"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Smellir músarhnöppunum fyrir þig og dregur úr áhrifum álagsmeiðsla"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMúsartól"
+
+#~ msgid "Quassel IRC (Client only)"
+#~ msgstr "Quassel IRC (Aðeins biðlari)"
+
+#~ msgid "Sweeper"
+#~ msgstr "Sweeper"
+
+#~ msgid "System Cleaner"
+#~ msgstr "Kerfishreinsir"
+
+#~ msgid "Trash"
+#~ msgstr "Rusl"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "Leikur sem líkist Minesweeper"
+
+#~ msgid "Board Game"
+#~ msgstr "Borðleikur"
+
+#~ msgid "SameGame"
+#~ msgstr "Sama spil"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Photo Management Program"
+#~ msgstr "Ljósmyndameðhöndlunarforrit"
+
+#~ msgid "digiKam"
+#~ msgstr "digiKam"
+
+#~ msgid "KPackageKit"
+#~ msgstr "KPackageKit"
+
+#~ msgid "PackageKit interface for KDE"
+#~ msgstr "PackageKit viðmót fyrir KDE"
+
+#~ msgid "Software Management"
+#~ msgstr "Hugbúnaðarumsýsla"
+
+#~ msgid "Nepomuk Ontology Importer"
+#~ msgstr "Nepomuk innflutningur tengslanets"
+
+#~ msgid "Ontology Import"
+#~ msgstr "Innflutningur tengslanets"
+
+#~ msgid "Simple Client to the Nepomuk Ontology Manager Service"
+#~ msgstr "Einfaldur biðlari við Nepomuk tengslanetsþjónustuna"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Þróaður textaritill"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Hex Editor"
+#~ msgstr "Sextándakerfis-ritill"
+
+#~ msgid "Okteta"
+#~ msgstr "Okteta"
+
+#~ msgid "DBPedia References"
+#~ msgstr "DBPedia Tilvitnanir"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Fréttaforrit"
+
+#~ msgid "Interactive Physical Simulator"
+#~ msgstr "Gagnvirkur eðlisfræðihemir"
+
+#~ msgid "Simulate physics experiments"
+#~ msgstr "Herma eftir eðlisfræðitilraunum"
+
+#~ msgid "Step"
+#~ msgstr "Þrep"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Sýsla með valmyndir"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Tónlistarspilari"
+
+#~ msgid "KTimeTracker"
+#~ msgstr "KTimeTracker"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Fylgjast með í hvað tíminn fer"
+
+#~ msgid "Akonadi Console"
+#~ msgstr "Akonadi Stjórnborð"
+
+#~ msgid "Akonadi Management and Debugging Console"
+#~ msgstr "Akonadi Stjórnun og aflúsun"
+
+#~ msgid "KRDC"
+#~ msgstr "KRDC"
+
+#~ msgid "Remote Desktop Client"
+#~ msgstr "Fjartengt skjáborð"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC þjónn"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "KDE Linux innrauða fjarstýringarstjórnborðið"
+
+#~ msgid "KSystemLog"
+#~ msgstr "Kerfisannáll"
+
+#~ msgid "System Log Viewer"
+#~ msgstr "Kerfisannálabirtir"
+
+#~ msgid "System log viewer tool"
+#~ msgstr "Skoðunartól fyrir kerfisannála"
+
+#~ msgid "Educational Programming Environment"
+#~ msgstr "Logo forritunarumhverfi"
+
+#~ msgid "KTurtle"
+#~ msgstr "K-Skjaldbaka"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Finna skrár/möppur"
+
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr "Upphringisambands annálaskoðari"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "KPPP annálaskoðari"
+
+#~ msgid "A simple ball dodging game"
+#~ msgstr "Einfaldur \"brenni-bolta\" leikur"
+
+#~ msgid "Kollision"
+#~ msgstr "Kollision"
+
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "Rannsaka rúmfræðileg form"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Gagnvirk rúmfræði"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Skráastjóri (sem kerfisstjóri)"
+
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "KDE stafaröðunarleikur"
+
+#~ msgid "Kanagram"
+#~ msgstr "Kanagram"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Stafaröðunarleikur"
+
+#~ msgid "KNotes"
+#~ msgstr "KNotes"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Litlir gulir miðar"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Forsnið disklings"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Dragon Player"
+#~ msgstr "Dragon spilari"
+
+#~ msgid "Acquire images from a scanner"
+#~ msgstr "Grípa myndir frá myndskanna"
+
+#~ msgid "Anthy Dictionary editor"
+#~ msgstr "Anthy orðabókarritill"
+
+#~ msgid "Edit Anthy dictionary."
+#~ msgstr "Sýsla með Anthy orðabók."
+
+#~ msgid "Management tool for a private dictionary of anthy"
+#~ msgstr "Umsýslutól fyrir Anthy einkaorðabók"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Tengja flýtilykla við skipanir"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Flýtilyklar"
+
+#~ msgid "Add urpmi media"
+#~ msgstr "Bæta við urpmi miðli"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid "Mandriva Linux Pxelinux configurator"
+#~ msgstr "Mandriva Linux Pxelinux stilliforrit"
+
+#~ msgid "Network traffic analyzer (root user)"
+#~ msgstr "Fylgjast með umferð á neti (kerfisstjóri)"
+
+#~ msgid "Wireshark (root user)"
+#~ msgstr "Wireshark (kerfisstjóri)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr ""
+#~ "Ítölsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Italian"
+#~ msgstr "\"Hvernig-á-að\" á ítölsku"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr ""
+#~ "Kóreönsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Korean"
+#~ msgstr "\"Hvernig-á-að\" á kóreönsku"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "Forrit til að horfa á sjónvarp"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "GNU Prolog is a free implementation of Prolog"
+#~ msgstr "GNU Prolog er frjáls útgáfa af Prolog"
+
+#~ msgid "HP Device Manager"
+#~ msgstr "HP Tækjastjóri"
+
+#~ msgid "View device status, ink levels and perform maintenance."
+#~ msgstr "Skoða stöðu tækis, blekmagn og framkvæma viðhald."
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Visualization Data Explorer"
+#~ msgstr "Myndrænn gagnaskoðari"
+
+#~ msgid ""
+#~ "Create and edit presentations for slideshows, meeting and Web pages by "
+#~ "using Impress."
+#~ msgstr ""
+#~ "Búa til og sýsla með kynningarefni, skyggnusýningar, fundarefni og "
+#~ "vefsíður með Impress."
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Impress"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Viðmótshönnunartól fyrir Qt"
+
+#~ msgid "Create and edit scientific formulas and equations by using Math."
+#~ msgstr "Búa til og sýsla með stærðfræðiformúlur með Math."
+
+#~ msgid "Formula"
+#~ msgstr "K-Formúla"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Math"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Breyta styrk hljóðs"
+
+#~ msgid "PulseAudio Volume Control"
+#~ msgstr "PulseAudio Styrkstilling"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Basic volume controller"
+#~ msgstr "Einföld hljóðstyrkstilling"
+
+#~ msgid "JRXvt (JIS)  "
+#~ msgstr "JRXvt (JIS)  "
+
+#~ msgid "Japanese rxvt terminal  "
+#~ msgstr "Japanskur rxvt skjáhermir  "
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Stillingar gagnagrunnsumhverfis"
+
+#~ msgid "Database Access Properties"
+#~ msgstr "Gagnagrunns-Aðgangssýsl"
+
+#~ msgid "Enable/disable installed plugins"
+#~ msgstr "Virkja/slökkva á uppsettum einingum"
+
+#~ msgid "Keyboard Indicator plugins"
+#~ msgstr "Lyklaborðs-vísir - einingar"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "Stjórntól fyrir hljóðkort byggð á Envy24 (ice1712)"
+
+#~ msgid "Envy24control"
+#~ msgstr "Envy24Control"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr ""
+#~ "Japönsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Japanese"
+#~ msgstr "\"Hvernig-á-að\" á japönsku"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Fjölnotanda þrívíður skriðdrekaleikur"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in French"
+#~ msgstr "Mandriva Linux DrakXTóla notandahandbækur á frönsku"
+
+#~ msgid "Choose how other users can remotely view your desktop"
+#~ msgstr "Velja hvernig aðrir notendur geta séð skjáborðið þitt"
+
+#~ msgid "Remote Desktop"
+#~ msgstr "Fjartengt skjáborð"
+
+#~ msgid "Screensaver"
+#~ msgstr "Skjásvæfur"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Sýsla með stillingar skjásvæfu"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "Ókeypis, einfalt heimilisbókhaldskerfi fyrir alla."
+
+#~ msgid "HomeBank"
+#~ msgstr "Heimabanki"
+
+#~ msgid "Open Folder"
+#~ msgstr "Opna möppu"
+
+#~ msgid "An Applet for Quick Device Changing"
+#~ msgstr "Smáforrit til hjálpar við útskiptingu tækja"
+
+#~ msgid "Device Chooser"
+#~ msgstr "Tækjaval"
+
+#~ msgid "PulseAudio Device Chooser"
+#~ msgstr "PulseAudio Tækjaval"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "Fjölnotanda þrautaleikur"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Test your logic skills in this number grid puzzle"
+#~ msgstr "Kannaðu rökleikni þína í þessari talnaþraut"
+
+#~ msgid "Mandriva Linux Quick Startup Guide in Brazilian Portuguese"
+#~ msgstr "Mandriva Linux byrjenda-handbækur á brasílísk-portúgölsku"
+
+#~ msgid "Download and share files over BitTorrent"
+#~ msgstr "Sækja skrár og deila með BitTorrent"
+
+#~ msgid "Transmission"
+#~ msgstr "Torrent flutningur"
+
+#~ msgid "Log File Viewer"
+#~ msgstr "Annálaskoðari"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "Skoða eða fylgjast með kerfisannálum"
+
+#~ msgid "System Regional Settings"
+#~ msgstr "Staðfærsla kerfis"
+
+#~ msgid "System wide language & country configurator"
+#~ msgstr "Sjálfgefið tungumál og land kerfis"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Staðgenglar (proxy)"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "Stilltu net-staðgengla þína"
+
+#~ msgid "Mail and News Client"
+#~ msgstr "Póst og frétta-forrit"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilla Thunderbird"
+
+#~ msgid "LXTerminal"
+#~ msgstr "LXTerminal"
+
+#~ msgid "Use the command line"
+#~ msgstr "Nota skipanalínuna"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Hider"
+#~ msgstr "Lexmark Lexmark 5xxx, 7xxx og 11xx hausafelun"
+
+#~ msgid "Lexmark hidecartridges"
+#~ msgstr "Lexmark hausafelun"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "Velja hvaða forrit á að ræsa þegar þú skráir þig inn"
+
+#~ msgid "Startup Applications"
+#~ msgstr "Ræsi-Forrit"
+
+#~ msgid "A manual browser for Qt4 documentation"
+#~ msgstr "Hjálparflettir fyrir Qt4 handbækur"
+
+#~ msgid "Qt4 Assistant"
+#~ msgstr "Qt4 Hjálp"
+
+#~ msgid "Preview fonts"
+#~ msgstr "Forskoða letur"
+
+#~ msgid "Electrical engineering tool"
+#~ msgstr "Rafmagnsverkfræðitól"
+
+#~ msgid "Oregano electrical engineering tool"
+#~ msgstr "Oregano Rafmagnsverkfræðitól"
+
+#~ msgid "Schematic capture and simulation of electronic circuits"
+#~ msgstr "Rafrásateikningar og rafrása-hermir"
+
+#~ msgid "Clear hidden mines from a minefield"
+#~ msgstr "Hreinsa faldar sprengjur af sprengjusvæði"
+
+#~ msgid "Mono IL Contrast"
+#~ msgstr "Mono IL Contrast"
+
+#~ msgid "Codeina"
+#~ msgstr "Codeina"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Taka upp hljóðstubba"
+
+#~ msgid "Gnome Audio CD editor and burner"
+#~ msgstr "Gnome Hljóð-geisladiska ritill og brennari"
+
+#~ msgid "Gnome CD Master"
+#~ msgstr "Gnome CD Master"
+
+#~ msgid "Set your window properties"
+#~ msgstr "Stillingar skjáglugga"
+
+#~ msgid "Windows"
+#~ msgstr "Gluggar"
+
+#~ msgid "HDSPConf"
+#~ msgstr "HDSPConf"
+
+#~ msgid "Hammerfall DSP control application"
+#~ msgstr "Hammerfall DSP Stjórnforrit"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frosnir boltar"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Frosnir boltar - skotleikur"
+
+#~ msgid "Configure power management"
+#~ msgstr "Stilla aflstjórnun"
+
+#~ msgid "Power Management"
+#~ msgstr "Aflstjórnun"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "AisleRiot kapall"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "Spila marga ólíka kapla"
+
+#~ msgid "Notepad"
+#~ msgstr "Notepad"
+
+#~ msgid "XRC resource editor for wxPython"
+#~ msgstr "XRC auðlindaritill fyrir wxPython"
+
+#~ msgid "XRCed"
+#~ msgstr "XRCed"
+
+#~ msgid "DjView3"
+#~ msgstr "DjView3"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "DjVu skoðari"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Bæta við eða fjarlægja notendur og hópa"
+
+#~ msgid "User Administration"
+#~ msgstr "Notendaumsjón"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Flakka á vefnum"
+
+#~ msgid "Firefox Web Browser"
+#~ msgstr "Firefox Vef-Vafri"
+
+#~ msgid "A translation tool for Qt4"
+#~ msgstr "Þýðingartól fyrir Qt4"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt Linguist"
+
+#~ msgid "KRXvt (KSC5601)  "
+#~ msgstr "KRXvt (KSC5601)  "
+
+#~ msgid "Korean rxvt terminal  "
+#~ msgstr "Kóeranskur rxvt skjáhermir  "
+
+#~ msgid "Note-taker"
+#~ msgstr "Minnispunktar"
+
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr "Taka niður minnispunkta, tengja hugmyndir og vera skipulagður"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Tomboy Glósur"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Skráarsafnstjóri"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Sýsla með og breyta skráasafni"
+
+#~ msgid "Cancel, pause, resume or reprint jobs"
+#~ msgstr "Hætta við, halda, sleppa eða endurprenta verk"
+
+#~ msgid "Manage Print Jobs"
+#~ msgstr "Stjórna prentverkum"
+
+#~ msgid "Create and edit Web pages by using Writer."
+#~ msgstr "Búa til og sýsla með vefsíður með Writer."
+
+#~ msgid "OpenOffice.org Writer/Web"
+#~ msgstr "OpenOffice.org Writer/Web"
+
+#~ msgid "Web Page Creation"
+#~ msgstr "Vefsíðuhönnun"
+
+#~ msgid "Configure Desktop Search"
+#~ msgstr "Stilla skjáborðsleitun"
+
+#~ msgid "Search & Indexing"
+#~ msgstr "Leit og flokkun"
+
+#~ msgid "About GNOME"
+#~ msgstr "Um GNOME"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Læra meira um GNOME"
+
+#~ msgid "A QT application to configure Synaptics TouchPad"
+#~ msgstr "QT forrit til að stilla Synaptics snertiborð"
+
+#~ msgid "Qsynaptics"
+#~ msgstr "Qsynaptics"
+
+#~ msgid "Manage running processes"
+#~ msgstr "Sýsla með keyrandi ferli"
+
+#~ msgid "Process manager"
+#~ msgstr "Ferlastjórnun"
+
+#~ msgid "Task Manager"
+#~ msgstr "Ferli og forritastjórnun"
+
+#~ msgid "ImageMagick"
+#~ msgstr "ImageMagick"
+
+#~ msgid "Views Graphics files"
+#~ msgstr "Sýnir myndskrár"
+
+#~ msgid "Blender"
+#~ msgstr "Blender"
+
+#~ msgid "The free open source 3D content creation suite"
+#~ msgstr "Opið og frjálst þrívíddar hönnunar og teiknitól"
+
+#~ msgid "Calculation, Analysis, and Visualization of Information"
+#~ msgstr "Útreikningar, rannsóknir og myndræn framsetning upplýsinga"
+
+#~ msgid "FLTK Photo Software"
+#~ msgstr "FLTK Ljósmyndahugbúnaður"
+
+#~ msgid "flPhoto"
+#~ msgstr "flPhoto"
+
+#~ msgid "Keyboard"
+#~ msgstr "Lyklaborð"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Stilltu lyklaborðið þitt"
+
+#~ msgid "XGPS"
+#~ msgstr "XGPS"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "Taka niður hrúgu af kubbum með því að fjarlægja samstæð pör"
+
+#~ msgid "Mahjongg"
+#~ msgstr "Mahjongg"
+
+#~ msgid "Graphical interface to CVS and SVN"
+#~ msgstr "Myndrænt viðmót fyrir CVS og SVN"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid "Avahi Zeroconf Browser"
+#~ msgstr "Avahi Zeroconf Flakkari"
+
+#~ msgid "Browse for Zeroconf services available on your network"
+#~ msgstr "Flakka um Zeroconf þjónustur á þínu neti"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr ""
+#~ "Ungversk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Hungarian"
+#~ msgstr "\"Hvernig-á-að\" á ungversku"
+
+#~ msgid "GUI Python Shell with Filling and Editor Windows"
+#~ msgstr "Myndræn Python skel með fyllingu og ritil-gluggum"
+
+#~ msgid "PyAlaMode"
+#~ msgstr "PyAlaMode"
+
+#~ msgid "Mouse"
+#~ msgstr "Mús"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Sýsla með músastillingar"
+
+#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
+#~ msgstr ""
+#~ "Taka myndir og myndskeið með vefmyndavélinni, með skemmtilegum myndrænum "
+#~ "brellum"
+
+#~ msgid "Setup utility for gcin input method"
+#~ msgstr "Uppsetningarforrit fyrir gcin inntaksaðferðina"
+
+#~ msgid "gcin Setup"
+#~ msgstr "gcin uppsetning"
+
+#~ msgid "Avahi SSH Server Browser"
+#~ msgstr "Avahi SSH miðlara-flakkarinn"
+
+#~ msgid "Browse for Zeroconf-enabled SSH Servers"
+#~ msgstr "Leita eftir Zeroconf-virkum SSH miðlurum"
+
+#~ msgid "Dominate the board in a classic version of Reversi"
+#~ msgstr "Gerast konungur borðsins í klassískri útgáfu af Reversi"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Install your Mandriva live system to disk"
+#~ msgstr "Setja Mandriva-live kerfi á disk"
+
+#~ msgid "Live Install"
+#~ msgstr "Live innsetning"
+
+#~ msgid "GNOME MDB Viewer"
+#~ msgstr "GNOME MDB skoðari"
+
+#~ msgid "Gmdb"
+#~ msgstr "Gmdb"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "Grrafískt viðmót til aðstoðar við innsetningu RPM skráa"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "Bakgrunnstjórn /breyta/skjásvæfa"
+
+#~ msgid "Mandriva Linux Quick Startup Guide in French"
+#~ msgstr "Mandriva Linux byrjenda-handbækur á frönsku"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr ""
+#~ "Endurskrift á gömlum og góðum leik, þekktum sem Tower Toppler eða Nebulous"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "Observe power management"
+#~ msgstr "Skoða orkustjórnun"
+
+#~ msgid "Power Statistics"
+#~ msgstr "Orku-tölfræði"
+
+#~ msgid ""
+#~ "Create and edit text and graphics in letters, reports, documents and Web "
+#~ "pages by using Writer."
+#~ msgstr ""
+#~ "Búa til og sýsla með texta og myndir í bréfum, skýrslum, skjölum og "
+#~ "vefsíðum með Writer."
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Writer"
+
+#~ msgid "Four-in-a-Row"
+#~ msgstr "Fjórir í röð"
+
+#~ msgid "Make lines of the same color to win"
+#~ msgstr "Búa til línur í sama lit til að vinna"
+
+#~ msgid "Database"
+#~ msgstr "Gagnagrunnar"
+
+#~ msgid ""
+#~ "Manage databases, create queries and reports to track and manage your "
+#~ "information by using Base."
+#~ msgstr ""
+#~ "Sýsla með gagnagrunna, búa til fyrirspurnir og eftirlitsskýrslur og sýsla "
+#~ "með upplýsingar þínar með OpenOffice.Base."
+
+#~ msgid "OpenOffice.org Base"
+#~ msgstr "OpenOffice.org gagnagrunnur"
+
+#~ msgid "Dasher"
+#~ msgstr "Dasher"
+
+#~ msgid "Enter text without a keyboard"
+#~ msgstr "Slá inn texta án lyklaborðs"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "Fyrirsjáanlegur textainnsláttur"
+
+#~ msgid "Lexmark printer manager"
+#~ msgstr "Lexmark prentstjórnun"
+
+#~ msgid "Status, alignment, cartridge maintenance"
+#~ msgstr "Staða, stillingar, hylkjaviðhald"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Freeciv miðlari"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Hágæða teiknikerfi (CAD)"
+
+#~ msgid "Qcad"
+#~ msgstr "Qcad"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "GNOME stillingatækið"
+
+#~ msgid "Pan Newsreader"
+#~ msgstr "Pan Fréttalesari"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Lesa fréttahópa á netinu"
+
+#~ msgid "Perform arithmetic, scientific or financial calculations"
+#~ msgstr "Framkvæma grunn-, vísindalega eða viðskiptalega útreikninga"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "Breyta hegðan og útliti skráastjórnunarglugga"
+
+#~ msgid "File Management"
+#~ msgstr "Skráastjórnun"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "Staðlaði skjáhermirinn fyrir X gluggakerfið"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "Myndrænt viðmót fyrir netskannan nmap"
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "Qt Assistant - 3"
+#~ msgstr "Qt Assistant - 3"
+
+#~ msgid "Tool for translating message catalogues of Qt based programs"
+#~ msgstr "Forrit til að þýða textasöfn QT forrita"
+
+#~ msgid "Planner Project Management"
+#~ msgstr "Planner Verkstjórnun"
+
+#~ msgid "Ekiga Softphone"
+#~ msgstr "Ekiga hugbúnaðarsími"
+
+#~ msgid "IP Telephony, VoIP and Video Conferencing"
+#~ msgstr "IP sími, VoIP og myndfundir"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Tala við fólk yfir Internetið"
+
+#~ msgid "CPU load indicator"
+#~ msgstr "Örgjörvaálag"
+
+#~ msgid "XCpuState"
+#~ msgstr "XCpuState"
+
+#~ msgid "Gendarme"
+#~ msgstr "Gendarme"
+
+#~ msgid "Gendarme Wizard"
+#~ msgstr "Gendarme Ráðgjafi"
+
+#~ msgid "Inspect your .NET and Mono assemblies"
+#~ msgstr "Skoða .NET og Mono uppsetningar"
+
+#~ msgid "A WindowMaker dock network monitor"
+#~ msgstr "WindowMaker neteftirlits-spjald-forrit"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "Google Gadget Designer"
+#~ msgstr "Google Græjuhönnuður"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Blender (FullScreen)"
+#~ msgstr "Blender (Allur skjárinn)"
+
+#~ msgid "Mandriva Linux packages stats"
+#~ msgstr "Mandriva Linux pakkatölfræði"
+
+#~ msgid "Packages Stats"
+#~ msgstr "Pakkatölfræði"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in English"
+#~ msgstr "Mandriva Linux DrakXTóla notandahandbækur á ensku"
+
+#~ msgid "Edit text files"
+#~ msgstr "Sýsla með textaskrár"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "Sprettiglugga tilkynningar"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "Sýslaðu með stillingar sprettiglugga"
+
+#~ msgid "Wine Windows Program Loader"
+#~ msgstr "Wine Windows forritaræsing"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "Bonobo eininga-flakkari"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "Sýna tiltækar Bonobo einingar"
+
+#~ msgid "An easy to use text editor, supporting syntax highlight and UTF-8"
+#~ msgstr ""
+#~ "Textaritill sem er auðveldur í notkun, með málfræði-litun og stuðning við "
+#~ "UTF-8"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Groupware Suite"
+#~ msgstr "Hópvinnukerfi"
+
+#~ msgid "Manage your email, contacts and schedule"
+#~ msgstr "Sýsla með netpóst, tengiliði og dagbók"
+
+#~ msgid "Language & country configuration"
+#~ msgstr "Tungumál og land kerfis"
+
+#~ msgid "Regional Settings"
+#~ msgstr "Svæðisbundnar stillingar"
+
+#~ msgid "OProfile starter"
+#~ msgstr "OProfile ræsiing"
+
+#~ msgid "Start OProfile profiler"
+#~ msgstr "Ræsa OProfile"
+
+#~ msgid "Page Layout"
+#~ msgstr "Síðuútlit (Hönnun)"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr ""
+#~ "Þýsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howtos German"
+#~ msgstr "\"Hvernig-á-að\" á þýsku"
+
+#~ msgid "Network Center"
+#~ msgstr "Netstjórnun"
+
+#~ msgid "IcedTea Java Web Start"
+#~ msgstr "IcedTea Java Web Start"
+
+#~ msgid "Launch Java Web Start applications"
+#~ msgstr "Ræsa Java Web Start forrit"
+
+#~ msgid "Network traffic analyzer"
+#~ msgstr "Fylgjast með umferð á neti"
+
+#~ msgid "Wireshark"
+#~ msgstr "Wireshark"
+
+#~ msgid "Internet Messenger"
+#~ msgstr "Net-Spjallforrit"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Pidgin Net-Spjallforrit"
+
+#~ msgid "A set of Solitaire type games for the X Window System"
+#~ msgstr "Safn kapla fyrir X gluggakerfið"
+
+#~ msgid "xpat2"
+#~ msgstr "xpat2"
+
+#~ msgid "PulseAudio Preferences"
+#~ msgstr "PulseAudio Stillingar"
+
+#~ msgid "Sound Server Preferences"
+#~ msgstr "Valkostir hljóðmiðlara"
+
+#~ msgid "View and modify the configuration of the local sound server"
+#~ msgstr "Skoða og breyta stillingum staðbundins hljóðmiðlara"
+
+#~ msgid "System information"
+#~ msgstr "Upplýsingar um stýrikerfi"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Powerful and easy to use calculator"
+#~ msgstr "Fjölhæf og notendavæn reiknivél"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr ""
+#~ "Rúmensk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Romanian"
+#~ msgstr "\"Hvernig-á-að\" á rúmensku"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "Vélbúnaðaruppsetningar og upplýsingatól"
+
+#~ msgid "Hardware Configuration Tool"
+#~ msgstr "Vélbúnaðarstillingartól"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr ""
+#~ "Pólsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Polish"
+#~ msgstr "\"Hvernig-á-að\" á pólsku"
+
+#~ msgid "Change screensaver properties"
+#~ msgstr "Breyta eiginleikum skjásvæfu"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "Auðveld prentun með CUPS"
+
+#~ msgid "X Printing Panel"
+#~ msgstr "X Prentstjórnun"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "RapidSVN SvnCpp C++ API development libraries"
+#~ msgstr "RapidSVN SvnCpp C++ API undirforritasöfn"
+
+#~ msgid "HP Sendfax"
+#~ msgstr "HP SendFax"
+
+#~ msgid "Utility for sending faxes with HP's multi-function devices"
+#~ msgstr "Forrit til að senda fax með fjölnotatækjum HP"
+
+#~ msgid "GNOME Pilot Install Databases"
+#~ msgstr "GNOME Pilot gagnagrunns-uppsetning"
+
+#~ msgid "Install Databases on your Palm Pilot"
+#~ msgstr "Setja upp gagnagrunna á Palm Pilot"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "Spila og sjá um tónlistarsafnið þitt"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Viewer for TeX DVI files"
+#~ msgstr "Skoðari fyrir TeX DVI skrár"
+
+#~ msgid "XDVI"
+#~ msgstr "XDVI"
+
+#~ msgid "View and organize your images"
+#~ msgstr "Skoða og raða myndunum þínum"
+
+#~ msgid "Font Editor for PostScript, TrueType, OpenType and various fonts"
+#~ msgstr "Leturritill fyrir PostScript, TrueType, OpenType og ýmis letur"
+
+#~ msgid "Registry Editor"
+#~ msgstr "Sýsla með Registry"
+
+#~ msgid "Viewer for Postscript and PDF files"
+#~ msgstr "Skoðari fyrir PostScript og PDF skrár"
+
+#~ msgid "gv"
+#~ msgstr "gv"
+
+#~ msgid "CUPS Web Interface"
+#~ msgstr "CUPS vefviðmót"
+
+#~ msgid "Manage Printing"
+#~ msgstr "Sýsla með prentun"
+
+#~ msgid ""
+#~ "Present on-screen information as speech or braille, or magnify the screen"
+#~ msgstr ""
+#~ "Birta upplýsingar á skjá sem tal eða blindraletur, eða stækka skjáhluta"
+
+#~ msgid "Access digital cameras (via GPhoto2)"
+#~ msgstr "Aðgengi að stafrænum myndavélum (um GPhoto2)"
+
+#~ msgid "GTKam"
+#~ msgstr "GTKam"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr ""
+#~ "Ensk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto English"
+#~ msgstr "\"Hvernig-á-að\" á ensku"
+
+#~ msgid "SCIM Input Method Setup"
+#~ msgstr "SCIM Inntaksaðferðar-uppsetning"
+
+#~ msgid "Setup utility for Smart Common Input Method platform"
+#~ msgstr "Uppsetningarforrit fyrir \"Smart Common Input Method\" grunninn"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Almennur öflugur textaritill"
+
+#~ msgid "VI editor"
+#~ msgstr "VI ritill"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr ""
+#~ "Grísk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "\"Hvernig-á-að\" á grísku"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "FreeCell kapall"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Spilaðu hið vinsæla spil FreeCell"
+
+#~ msgid "Window Manager"
+#~ msgstr "Gluggastjórar"
+
+#~ msgid "A utility to read and manipulate raw images from digital cameras"
+#~ msgstr ""
+#~ "Myndrænt tól til að breyta hráum (RAW) myndum frá stafrænum myndavélum"
+
+#~ msgid "Raw image converter"
+#~ msgstr "Hrá- (RAW/DNG) myndaumbreytir"
+
+#~ msgid "UFRaw"
+#~ msgstr "UFRaw"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr ""
+#~ "Indónesísk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar "
+#~ "verkefninu"
+
+#~ msgid "Howto Indonesian"
+#~ msgstr "\"Hvernig-á-að\" á indónesísku"
+
+#~ msgid "Gnuplot"
+#~ msgstr "Gnuplot"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Víðfrægt falla-teikniforrit"
+
+#~ msgid "Configuration Editor"
+#~ msgstr "Kerfis-Stillingar"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Breyta beint kerfis-uppsetningargrunni"
+
+#~ msgid "Create and edit Scalable Vector Graphics images"
+#~ msgstr "Búa til og sýsla með myndrænar vigurteikningar"
+
+#~ msgid "Belgian eID card viewer"
+#~ msgstr "Belgískur eID kortaskoðari"
+
+#~ msgid "Display and administer your eID card"
+#~ msgstr "Skoða og sýsla með eID kortið þitt"
+
+#~ msgid "beidgui"
+#~ msgstr "beidgui"
+
+#~ msgid "Customize uim input method environment"
+#~ msgstr "Stilla uim inntaksaðferðarumhverfið"
+
+#~ msgid "Input Method"
+#~ msgstr "Inntaks-aðferð"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr ""
+#~ "Kínversk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Chinese"
+#~ msgstr "\"Hvernig-á-að\" á kínversku"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "Autorun kvaðning"
+
+#~ msgid "Tightvnc"
+#~ msgstr "TightVNC"
+
+#~ msgid "Create images and edit photographs"
+#~ msgstr "Búa til myndir og sýsla með ljósmyndir"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "Myndvinnsluforrit"
+
+#~ msgid "Qt Assistant 3"
+#~ msgstr "Qt Assistant 3"
+
+#~ msgid "Tool for online help doc"
+#~ msgstr "Tól fyrir tiltæka hjálp"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Þrívíður mótorhjólaleikur í anda Tron"
+
+#~ msgid "Armagetron Advanced"
+#~ msgstr "Endurbættur ArmageTron"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Villutilkynningar-tól"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "Tilkynna um villur í GNOME hugbúnaði"
+
+#~ msgid "Breakout-style arcade game"
+#~ msgstr "Breakout-skotleikur"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "Manage your mobile phone"
+#~ msgstr "Sýsla með gemsan þinn"
+
+#~ msgid "Mobile Phone Suite"
+#~ msgstr "Farsímatól"
+
+#~ msgid "Xgnokii"
+#~ msgstr "XGnokii"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Leikur líkur boulderdash"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Steinar og Demantar"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr ""
+#~ "Finnsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Finnish"
+#~ msgstr "\"Hvernig-á-að\" á finnsku"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr ""
+#~ "Sænsk \"Hvernig-á-að\" skjöl (html snið) frá Linux skjölunar verkefninu"
+
+#~ msgid "Howto Swedish"
+#~ msgstr "\"Hvernig-á-að\" á sænsku"
+
+#~ msgid "Import into F-Spot"
+#~ msgstr "Flytja inn í F-Spot"
+
+#~ msgid "Coherence"
+#~ msgstr "Coherence"
+
+#~ msgid "DLNA/UPnP MediaServer/MediaRenderer"
+#~ msgstr "DLNA/UPnP Margmiðlunarmiðlari/Miðlarateiknun"
+
+#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
+#~ msgstr "Búa til og sýsla með myndir, flæðirit og Auðkenni (Lógó) með Draw."
+
+#~ msgid "Drawing"
+#~ msgstr "Teikningar"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Draw"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "Hreyfðu orminn í gegnum völundarhúsið"
+
+#~ msgid "Nibbles"
+#~ msgstr "Nibbles"
+
+#~ msgid "A graphical front end for installing, removing and updating packages"
+#~ msgstr "Myndrænt viðmót til að setja inn, fjarlægja og uppfæra hugbúnað"
+
+#~ msgid "Install & Remove Software"
+#~ msgstr "Setja inn og fjarlægja hugbúnað"
+
+#~ msgid "Kill a client by its X resource"
+#~ msgstr "Drepa biðlara byggt á X glugga"
+
+#~ msgid "XKill"
+#~ msgstr "XKill"
+
+#~ msgid "High quality video deinterlacer"
+#~ msgstr "Hágæða myndskeiða aftvinnun"
+
+#~ msgid "TVtime Television Viewer"
+#~ msgstr "TVtime Sjónvarpsforrit"
+
+#~ msgid "Television Viewer"
+#~ msgstr "Sjónvarpsforrit"
+
+#~ msgid "Upgrade to Powerpack"
+#~ msgstr "Uppfæra í Powerpack"
+
+#~ msgid "Join Mandriva Community"
+#~ msgstr "Tengjast Mandriva Samfélaginu"
+
+#~ msgid "Vuze"
+#~ msgstr "Vuze"
+
+#~ msgid "E-book reader"
+#~ msgstr "Raf-bóka-lesari"
+
+#~ msgid "FreeGo"
+#~ msgstr "FreeGo"
+
+#~ msgid "GNUSim8085"
+#~ msgstr "GNUSim8085"
+
+#~ msgid "Intel 8085 microprocessor simulator"
+#~ msgstr "Intel 8085 örgjörvahermir"
+
+#~ msgid "GnomeICU ICQ Instant Messenger"
+#~ msgstr "GnomeICU ICQ samtalsbiðill (Instant Messenger)"
+
+#~ msgid "LiVES "
+#~ msgstr "LiVES "
+
+#~ msgid "Video Editor/VJ tool"
+#~ msgstr "Myndskeiða-klippiforrit/VJ tól"
+
+#~ msgid "Fluxstyle"
+#~ msgstr "Fluxstyle"
+
+#~ msgid "Graphical style manager for fluxbox"
+#~ msgstr "Myndræn stílstjórnun fyrir fluxbox"
+
+#~ msgid "Game"
+#~ msgstr "Leikur"
+
+#~ msgid "PlayOnLinux"
+#~ msgstr "LeikiðÁLinux"
+
+#~ msgid "Edit your source files"
+#~ msgstr "Sýsla með frumskrár"
+
+#~ msgid "SciTE Text Editor"
+#~ msgstr "SciTE Texta ritill"
+
+#~ msgid "Terminal Emulator"
+#~ msgstr "Skjáhermir"
+
+#~ msgid "Bulk Rename"
+#~ msgstr "Magn endurnefna"
+
+#~ msgid "Rename Multiple Files"
+#~ msgstr "Endurnefna margar skrár"
+
+#~ msgid "Open Folder with Thunar"
+#~ msgstr "Opna möppu með Thunar"
+
+#~ msgid "Open the specified folders in Thunar"
+#~ msgstr "Opna tilgreinda möppu í Thunar"
+
+#~ msgid "Browse the filesystem with the file manager"
+#~ msgstr "Flakkaðu um skráakerfið með skráastjóranum"
+
+#~ msgid "Thunar File Manager"
+#~ msgstr "Thunar Skráastjóri"
+
+#~ msgid "Copy websites to your computer"
+#~ msgstr "Afrita vefsvæði yfir á tölvuna þína"
+
+#~ msgid "HTTrack Website Copier"
+#~ msgstr "HTTrack Vefsvæða-afritun"
+
+#~ msgid "Differences tool"
+#~ msgstr "Mismunur skráa"
+
+#~ msgid "File difference and patch visualiser"
+#~ msgstr "Mismunur skráa og sýna plástra"
+
+#~ msgid "Xffm Patch manager"
+#~ msgstr "Xffm Plástra-umsýsla"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "Compose, edit, and view documents"
+#~ msgstr "Búa til, sýsla, og skoða skjöl"
+
+#~ msgid "Affinity Preferences"
+#~ msgstr "Affinity Stillingar"
+
+#~ msgid "Affinity preferences"
+#~ msgstr "Affinity stillingar"
+
+#~ msgid "Affinity Search"
+#~ msgstr "Affinity leit"
+
+#~ msgid "The Affinity Search Tool"
+#~ msgstr "Affinity leitartólið"
+
+#~ msgid "Agave"
+#~ msgstr "Agave"
+
+#~ msgid "Generate color schemes"
+#~ msgstr "Búa til litastef"
+
+#~ msgid "Alexandria Book Collection Manager"
+#~ msgstr "Alexandria Bókasafnsumsýsla"
+
+#~ msgid "Book Collection Manager"
+#~ msgstr "Bókasafnsumsýsla"
+
+#~ msgid "Manage your book collection"
+#~ msgstr "Sýsla með bókasafnið þitt"
+
+#~ msgid "AllTray"
+#~ msgstr "AllTray"
+
+#~ msgid "Dock everything"
+#~ msgstr "Allt á spjaldið"
+
+#~ msgid "Alsaplayer"
+#~ msgstr "Alsa Spilari"
+
+#~ msgid "Versatile audio player for the Audio Linux Sound Architecture"
+#~ msgstr "Fjölhæfur tónlistarspilari fyrir \"Audio Linux Sound Architecture\""
+
+#~ msgid "MSN Messenger for Linux"
+#~ msgstr "MSN Messenger fyrir Linux"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "A LaTeX Editor"
+#~ msgstr "LaTeX ritill"
+
+#~ msgid "AmyEdit LaTex Editor"
+#~ msgstr "AmyEdit LaTeX ritill"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Develop software in an integrated development environment"
+#~ msgstr "Hannaðu hugbúnað í gagnviku þróunar-umhverfi"
+
+#~ msgid "SELinux Policy Analysis"
+#~ msgstr "SELinux stefnugreining"
+
+#~ msgid "SELinux Policy Analysis Tool "
+#~ msgstr "SELinux stefnugreiningartól "
+
+#~ msgid ""
+#~ "This tool can examine, search, and relate policy components and policy "
+#~ "rules "
+#~ msgstr ""
+#~ "Þetta tól getur skoðað, leitað, og tengt stefnueiningar og öryggisstefnu "
+#~ "reglur "
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Arora"
+#~ msgstr "Arora"
+
+#~ msgid ""
+#~ "An application to save tracks from an Audio CD as WAV, MP3, OGG, FLAC, "
+#~ "and/or Wavpack."
+#~ msgstr ""
+#~ "Forrit sem vistar hljóðrásir af geisladisk sem WAV, MP3, OGG, FLAC og/eða "
+#~ "Wavpack."
+
+#~ msgid "Asunder CD Ripper"
+#~ msgstr "Asunder CD afritunartól"
+
+#~ msgid "Audio CD Ripper"
+#~ msgstr "Hljóð-geisladiska afritun"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "Molecule puzzle game"
+#~ msgstr "Mólekúla-þrautaleikur"
+
+#~ msgid "AutoScan Network"
+#~ msgstr "Sjálfvirk skönnun nets"
+
+#~ msgid "AutoScan is a utility for network exploration"
+#~ msgstr "AutoScan er tól til netkönnunar"
+
+#~ msgid "A dock-like window navigator."
+#~ msgstr "Stika sem hægt er að stilla."
+
+#~ msgid "Avant Window Navigator"
+#~ msgstr "Avant Window Navigator"
+
+#~ msgid "Manage Awn preferences, launchers, applets and themes"
+#~ msgstr "Sýsla með Awn valkosti, ræsingu, smáforrit og þemu"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "E-Mail utility"
+#~ msgstr "Póst-tól"
+
+#~ msgid "Monitor the system log files for interesting events"
+#~ msgstr "Vakta kerfisannála, bíða eftir áhugaverðum atvikum"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "Bazaar Preferences"
+#~ msgstr "Bazaar Stillingar"
+
+#~ msgid "Configure Bazaar settings"
+#~ msgstr "Sýsla með Bazaar stillingar"
+
+#~ msgid "BEAST"
+#~ msgstr "BEAST"
+
+#~ msgid "Music Composer"
+#~ msgstr "Tónlistar-vinnslu-forrit"
+
+#~ msgid "An easy to use bible study tool"
+#~ msgstr "Einfalt biblíu-ransókna-tól"
+
+#~ msgid "Bible Study Tool"
+#~ msgstr "biblíu-ransókna-tól"
+
+#~ msgid "Bibus"
+#~ msgstr "Bibus"
+
+#~ msgid "Bibus bibliographic database"
+#~ msgstr "Bibus bókasafns-gagnagrunnur"
+
+#~ msgid "manage references and citations in your publications"
+#~ msgstr "Sýsla með tilvísanir og tilvitnanir í þínum ritum"
+
+#~ msgid "BillReminder"
+#~ msgstr "BillReminder"
+
+#~ msgid "Bills manager"
+#~ msgstr "Reikninga-áminningar"
+
+#~ msgid "Never forget to pay a bill again!"
+#~ msgstr "Aldrei gleyma að borga reikningana lengur!"
+
+#~ msgid "A small and fast BitTorrent client"
+#~ msgstr "Lítill og hraðvirkur BitTorrent biðlari"
+
+#~ msgid "BitStormLite"
+#~ msgstr "BitStormLite"
+
+#~ msgid "Feed reader"
+#~ msgstr "Fréttastrimla-lesari"
+
+#~ msgid "Blueman Bluetooth Manager"
+#~ msgstr "Blueman Blátannar-umsýsla"
+
+#~ msgid "Bluetooth Manager"
+#~ msgstr "Blátannar-umsýsla"
+
+#~ msgid "BMPx (Offline Mode)"
+#~ msgstr "BMPx (ótengdur hamur)"
+
+#~ msgid "BMPx"
+#~ msgstr "BMPx"
+
+#~ msgid "BMP 2"
+#~ msgstr "BMP 2"
+
+#~ msgid "BMPx: Play Files"
+#~ msgstr "BMPx: Spila skrár"
+
+#~ msgid "BOINC Manager"
+#~ msgstr "BOINC Stjórnandi"
+
+#~ msgid "BOINC monitor and control utility"
+#~ msgstr "BIONC eftirlits og stjórnforrit"
+
+#~ msgid "Configure or monitor a BOINC core client"
+#~ msgstr "Stilla eða hafa eftirlit með BOINC grunnbiðlara"
+
+#~ msgid "Classify pour photos and videos"
+#~ msgstr "Flokkaðu myndirnar þínar og myndskeiðin"
+
+#~ msgid "Photos and Videos Classifier"
+#~ msgstr "Mynda og myndskeiða-flokkari"
+
+#~ msgid "Booh"
+#~ msgstr "Booh"
+
+#~ msgid "Create albums to show your photos and videos on the web"
+#~ msgstr "Búa til albúm til að sýna myndirnar þínar og myndskeiðin á vefnum"
+
+#~ msgid "Web Album Generator"
+#~ msgstr "Búa til Vef-Albúm"
+
+#~ msgid "BOUML"
+#~ msgstr "BOUML"
+
+#~ msgid "Free UML 2 modeler"
+#~ msgstr "Frjáls UML 2 módelhönnun"
+
+#~ msgid "An OpenGL breakout"
+#~ msgstr "OpenGL breakout"
+
+#~ msgid "BreakOut"
+#~ msgstr "Breakout"
+
+#~ msgid "Briquolo"
+#~ msgstr "Briquolo"
+
+#~ msgid "BurgerSpace"
+#~ msgstr "BurgerSpace"
+
+#~ msgid "BurgerTime clone"
+#~ msgstr "BurgerTime klón"
+
+#~ msgid "A football manager"
+#~ msgstr "Stjórnum fótboltaliðs"
+
+#~ msgid "Bygfoot"
+#~ msgstr "Bygfoot"
+
+#~ msgid "Bazaar"
+#~ msgstr "Bazaar"
+
+#~ msgid "Bazaar Notification"
+#~ msgstr "Bazaar tilkynningar"
+
+#~ msgid "MacSlow's Cairo-Clock"
+#~ msgstr "MacSlow's Cairo-Clock"
+
+#~ msgid "a super fine analog clock"
+#~ msgstr "mjög falleg klukka"
+
+#~ msgid "Camorama Webcam Viewer"
+#~ msgstr "Camorama vefmyndavélaskoðari"
+
+#~ msgid "View, alter and save images from a webcam"
+#~ msgstr "Skoða, breyta og vista myndir frá vefmyndavél"
+
+#~ msgid "Catfish"
+#~ msgstr "Catfish"
+
+#~ msgid "File search"
+#~ msgstr "Skráaleit"
+
+#~ msgid "Celestia"
+#~ msgstr "Celestia"
+
+#~ msgid "Space Simulator"
+#~ msgstr "Geim Hermir"
+
+#~ msgid "CellWriter"
+#~ msgstr "CellWriter"
+
+#~ msgid "Grid-entry handwriting recognition input panel"
+#~ msgstr "Reitaskipt handritunar inntakssvæði"
+
+#~ msgid "Handwriting input panel"
+#~ msgstr "Handritunar inntakssvæði"
+
+#~ msgid "Chemtool"
+#~ msgstr "Chemtool"
+
+#~ msgid "The molecules drawing program (2D)"
+#~ msgstr "Mólekúlateikniforrit - Tvívítt"
+
+#~ msgid "ChmSee"
+#~ msgstr "ChmSee"
+
+#~ msgid "HTML Help(CHM) viewer"
+#~ msgstr "HTML Hjálpar(CHM) skoðari"
+
+#~ msgid "Chromium Web Browser"
+#~ msgstr "Chromium Vef-Vafri"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Edit high resolution and HDR pictures"
+#~ msgstr "Sýsla með háupplausna myndir"
+
+#~ msgid "Scan for viruses..."
+#~ msgstr "Leita að vírusum..."
+
+#~ msgid "Virus Scanner"
+#~ msgstr "Vírusleitari"
+
+#~ msgid "Claws Mail"
+#~ msgstr "Claws Póstur"
+
+#~ msgid "Gtk+ based Mail Client"
+#~ msgstr "Póstforrit byggt á GTK+"
+
+#~ msgid "Code::Blocks IDE"
+#~ msgstr "Code::Blocks IDE"
+
+#~ msgid "Configurable and extensible IDE"
+#~ msgstr "Stillanlegt og stækkanlegt þróunarumhverfi"
+
+#~ msgid "Edit advanced GNOME settings"
+#~ msgstr "Sýsla með ítarlegri GNOME stillingar"
+
+#~ msgid "GNOME Configurator"
+#~ msgstr "GNOME Stillingar"
+
+#~ msgid "A viewer for comic book archives"
+#~ msgstr "Skoðari fyrir myndasögusöfn"
+
+#~ msgid "Comic Book Viewer"
+#~ msgstr "Myndasöguskoðari"
+
+#~ msgid "Comix"
+#~ msgstr "Comix"
+
+#~ msgid "Synchronization for GNOME"
+#~ msgstr "Samhæfing fyrir GNOME"
+
+#~ msgid "Configure ThinkPad"
+#~ msgstr "Stilla ThinkPad"
+
+#~ msgid "IBM ThinkPad Configuration Tool"
+#~ msgstr "IBM ThinkPad Stillingatól"
+
+#~ msgid "Configure TrackPoint"
+#~ msgstr "Stilla TrackPoint"
+
+#~ msgid "TrackPoint Configuration Tool"
+#~ msgstr "TrackPoint Stillingartól"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Conglomerate XML Ritill"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Sýsla með XML skrár"
+
+#~ msgid "Address book"
+#~ msgstr "Vistfanga-bók"
+
+#~ msgid "Contacts"
+#~ msgstr "Contacts"
+
+#~ msgid "CoolEdit"
+#~ msgstr "CoolEdit"
+
+#~ msgid "Programmer's text editor with Python and shell scripting hooks"
+#~ msgstr "Öflugur forritara-textaritill með krækjur fyrir Python og skriftur"
+
+#~ msgid "CoralFTP"
+#~ msgstr "CoralFTP"
+
+#~ msgid "FTP Client written in PyGTK"
+#~ msgstr "FTP biðlari skrifaður í PyGTK"
+
+#~ msgid "An elegant music organizer"
+#~ msgstr "Snyrtilegur tónlistarflokkari"
+
+#~ msgid "Cowbell Music Organizer"
+#~ msgstr "Cowbell Tónlistarsafnstjóri"
+
+#~ msgid "Music Organizer"
+#~ msgstr "Tónlistarsafnstjóri"
+
+#~ msgid "Cream"
+#~ msgstr "Cream"
+
+#~ msgid "Cream (for Vim) text editor"
+#~ msgstr "Cream (fyrir Vim) textaritill"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "Lead your troops to victory"
+#~ msgstr "Leiddu her þinn til sigurs"
+
+#~ msgid "Turn-Based Strategy Game"
+#~ msgstr "Herkænskuleikur"
+
+#~ msgid "CuteCom"
+#~ msgstr "CuteCom"
+
+#~ msgid "Serial Terminal"
+#~ msgstr "Raðtengdur skjáhermir"
+
+#~ msgid "D2x (OpenGL version)"
+#~ msgstr "D2x (OpenGL útgáfa)"
+
+#~ msgid "The port of Descent 2 for Linux"
+#~ msgstr "Descent 2 útgáfa fyrir Linux"
+
+#~ msgid "D2x (SDL version)"
+#~ msgstr "D2x (SDL útgáfa)"
+
+#~ msgid "Day Planner"
+#~ msgstr "Dagbók"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Grafískt villugreiningar-tól (notar gdb)"
+
+#~ msgid "Graphical debugger frontend"
+#~ msgstr "Myndrænt viðmót á aflúsara"
+
+#~ msgid "Play music"
+#~ msgstr "Leika tónlist"
+
+#~ msgid "A simple audio player"
+#~ msgstr "Einfaldur hljóðspilari"
+
+#~ msgid "Decibel Audio Player"
+#~ msgstr "Decibel hljóðspilari"
+
+#~ msgid "Edit musical scores"
+#~ msgstr "Sýsla með nótur"
+
+#~ msgid "GNU Denemo"
+#~ msgstr "GNU Denemo"
+
+#~ msgid "Score Editor"
+#~ msgstr "Nótu-ritill"
+
+#~ msgid ""
+#~ "Allows to create video CDs and DVDs, suitable to be reproduced in home "
+#~ "DVD players"
+#~ msgstr ""
+#~ "Aðstoðar við að búa til Videó-CD og DVD, sem hægt er að spila í "
+#~ "venjulegum DVD spilurum"
+
+#~ msgid "DVD/CD Video Creator"
+#~ msgstr "DVD/CD Myndabrennsla"
+
+#~ msgid "DeVeDe"
+#~ msgstr "DeVeDe"
+
+#~ msgid "D-Bus Debugger"
+#~ msgstr "D-Bus Aflúsun"
+
+#~ msgid "D-Feet D-Bus Debugger"
+#~ msgstr "D-Feet D-Bus aflúsari"
+
+#~ msgid "Debug D-Bus applications"
+#~ msgstr "Aflúsa D-Bus forrit"
+
+#~ msgid "Ding: Dictionary English-German"
+#~ msgstr "Ding: Orðabók Ensk-Þýsk"
+
+#~ msgid "ding"
+#~ msgstr "ding"
+
+#~ msgid "DjView4"
+#~ msgstr "DjView4"
+
+#~ msgid "Automate your desktop using Dogtail"
+#~ msgstr "Auktu sjálfvirkni á skjáborðinu með Dogtail"
+
+#~ msgid "Dogtail Script Recorder"
+#~ msgstr "Dogtail Skriftu-upptaka"
+
+#~ msgid "dopewars"
+#~ msgstr "dopewars"
+
+#~ msgid "dopewars drug dealing game"
+#~ msgstr "dopewars eiturlyfja-sölu-leikur"
+
+#~ msgid "Dopi iPod Tool"
+#~ msgstr "Dopi iPod Tól"
+
+#~ msgid "Update the music on your Apple iPod"
+#~ msgstr "Uppfærðu tónlistina á Apple iPod"
+
+#~ msgid "Install FON on your router"
+#~ msgstr "Setja upp FON á beininum þínum"
+
+#~ msgid "drakFON"
+#~ msgstr "drakFON"
+
+#~ msgid "Virtualization configuration"
+#~ msgstr "Sýndarkerfisstillingar"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Dr.Geo Stærðfræðitól"
+
+#~ msgid "3D Acceleration"
+#~ msgstr "Þrívíddarhröðun"
+
+#~ msgid "Change 3D Acceleration options"
+#~ msgstr "Breyta valkostum þrívíddarhröðunnar"
+
+#~ msgid "DVD Styler"
+#~ msgstr "DVD Styler"
+
+#~ msgid "Video DVD Production"
+#~ msgstr "Vídeó DVD framleiðsla"
+
+#~ msgid "Audio File Tag Viewer/Editor"
+#~ msgstr "Ritill/Skoðari fyrir tög í hljóðskrám"
+
+#~ msgid "EasyTAG"
+#~ msgstr "EasyTAG"
+
+#~ msgid ""
+#~ "EasyTAG is an utility for viewing and editing tags for MP3, MP2, FLAC, "
+#~ "Ogg Vorbis, MusePack and Monkey's Audio files, with a GTK+ GUI."
+#~ msgstr ""
+#~ "EasyTAG er tól til að skoða og sýsla með tög í MP3, MP2, FLAC, Ogg "
+#~ "Vorbis, MusePack og Monkey's Audio skrám, með GTK+ viðmót."
+
+#~ msgid "A simple viewer for Edje files"
+#~ msgstr "Einfaldur skoðari fyrir Edje skrár"
+
+#~ msgid "Edje Viewer"
+#~ msgstr "Edje sjá"
+
+#~ msgid "Edyuk"
+#~ msgstr "Edyuk"
+
+#~ msgid "Efax-gtk"
+#~ msgstr "Efax-gtk"
+
+#~ msgid "GUI front end for the efax fax program"
+#~ msgstr "Myndrænt viðmót fyrir efax forritið"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Access control list editor"
+#~ msgstr "Aðgangs-stýrilista-ritill"
+
+#~ msgid "Eiciel"
+#~ msgstr "Eiciel"
+
+#~ msgid ""
+#~ "View or change ACL and User Extended Attributes on files and directories"
+#~ msgstr "Skoða eða breyta ACL og ítarlegri tögum (UAE) á skrám og möppum"
+
+#~ msgid "Elementary Test"
+#~ msgstr "Elementary Prófun"
+
+#~ msgid "Elementary Test Application"
+#~ msgstr "Elementary Prófunarforrit"
+
+#~ msgid "Elicit"
+#~ msgstr "Elicit"
+
+#~ msgid "color picker"
+#~ msgstr "Litaval"
+
+#~ msgid "Elitaire"
+#~ msgstr "Elitaire"
+
+#~ msgid "emelFM2"
+#~ msgstr "emelFM2"
+
+#~ msgid "Emerald Theme Manager"
+#~ msgstr "Emerald þemastjórinn"
+
+#~ msgid "Emesene"
+#~ msgstr "Emesene"
+
+#~ msgid "Emphasis"
+#~ msgstr "Emphasis"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Ex Falso"
+#~ msgstr "Ex Falso"
+
+#~ msgid "Gadmin-Squid"
+#~ msgstr "Gadmin-Squid"
+
+#~ msgid "Squid proxy server administration"
+#~ msgstr "Squid staðgengils-stjórnun"
+
+#~ msgid "Galculator"
+#~ msgstr "GTK-Reiknivél"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid "Geany"
+#~ msgstr "Geany"
+
+#~ msgid "gFTP"
+#~ msgstr "gFTP"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "GNOME Hex-ritill fyrir gagnaskrár"
+
+#~ msgid "GLightOff"
+#~ msgstr "GLightOff"
+
+#~ msgid "Globulation2"
+#~ msgstr "Globulation2"
+
+#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
+#~ msgstr "Globulation2 - fullkominn rauntíma-herkænskuleikur"
+
+#~ msgid "Gmasqdialer"
+#~ msgstr "Gmasqdialer"
+
+#~ msgid "A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs"
+#~ msgstr "Tól til að sýsla með Creative Nomad/Zen glymskratta og Dell DJ-a"
+
+#~ msgid "Gnomad 2"
+#~ msgstr "Gnomad 2"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Blog viðmót"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Senda blog færslu á vefinn"
+
+#~ msgid "Configure your printers"
+#~ msgstr "Stillingar fyrir prentara"
+
+#~ msgid ""
+#~ "Do things as quickly as possible (but no quicker) with your files, "
+#~ "bookmarks, applications, music, contacts, and more!"
+#~ msgstr ""
+#~ "Gerðu hluti eins fljótt og mögulegt er (en ekki fljótara) með skráum, "
+#~ "bókamerkjum, forritum, tónlist, tengiliðum og fleira!"
+
+#~ msgid "GNOME Do"
+#~ msgstr "GNOME Do"
+
+#~ msgid "Genius Mathematical Tool and Calculator"
+#~ msgstr "Genius stærðfræðitól og reiknivél"
+
+#~ msgid "Splash"
+#~ msgstr "Splash"
+
+#~ msgid "Plot NumExp functions"
+#~ msgstr "Teikna NumExp föll"
+
+#~ msgid "gNumExp Function Plotter"
+#~ msgstr "gNumExp Falla-teikningar"
+
+#~ msgid "Enter NumExp math queries"
+#~ msgstr "Slá inn NumExp reiknisetningar"
+
+#~ msgid "gNumExp Math Console"
+#~ msgstr "gNumExp stærðfræði-stjórnborð"
+
+#~ msgid "Play and extract CDs"
+#~ msgstr "Spila og afrita geisladiska"
+
+#~ msgid "Create, reorganize, and delete partitions"
+#~ msgstr "Búa til, raða og eyða disksneiðum"
+
+#~ msgid "GParted"
+#~ msgstr "GParted"
+
+#~ msgid "Partition Editor"
+#~ msgstr "Disksneiðaritill"
+
+#~ msgid "Password Manager"
+#~ msgstr "Lykilorða-umsýsla"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "Graveman"
+#~ msgstr "Graveman"
+
+#~ msgid "Grisbi"
+#~ msgstr "Grisbi"
+
+#~ msgid "Personnal finances manager"
+#~ msgstr "Persónuleg fjármálaumsýsla"
+
+#~ msgid "Grsync"
+#~ msgstr "Grsync"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "GTKWave Rafrænn bylgjuskoðari"
+
+#~ msgid "Extra galeon preferences"
+#~ msgstr "Aukastillingar fyrir galeon"
+
+#~ msgid "Extra preferences for application menus"
+#~ msgstr "Aukastillingar fyrir forritavalmyndir"
+
+#~ msgid "Extra nautilus preferences"
+#~ msgstr "Ítarlegri nautilus stillingar"
+
+#~ msgid "Extra session preferences"
+#~ msgstr "Aukastillingar fyrir lotu"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Gwibber"
+#~ msgstr "Gwibber"
+
+#~ msgid "Gwine"
+#~ msgstr "Gwine"
+
+#~ msgid "Manage your wine cellar"
+#~ msgstr "Sýsla með vínkjallarann"
+
+#~ msgid "Hydrogen Drum Machine"
+#~ msgstr "Trommugerfill"
+
+#~ msgid "KardsGT"
+#~ msgstr "KardsGT"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "KThesaurus"
+#~ msgstr "KThesaurus"
+
+#~ msgid "Related Words"
+#~ msgstr "Tengd orð"
+
+#~ msgid "BasKet Note Pads"
+#~ msgstr "BasKet Minnismiðar"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "Kaffeine"
+#~ msgstr "Kaffeine"
+
+#~ msgid "Karbon14"
+#~ msgstr "Karbon14"
+
+#~ msgid "Scalable Graphics"
+#~ msgstr "Scalable Graphics"
+
+#~ msgid "CD Ripper"
+#~ msgstr "CD afritunartól"
+
+#~ msgid "Frontend for audio file creation"
+#~ msgstr "Andlit á tól sem búa til hljóðskrár"
+
+#~ msgid "A viewer of CHM (MS-Help) files"
+#~ msgstr "Skoða CHM hjálparskrár (MS-Hjálp)"
+
+#~ msgid "KchmViewer"
+#~ msgstr "KchmViewer"
+
+#~ msgid "Color Palette Editor"
+#~ msgstr "Sýsla með litaspjöld"
+
+#~ msgid "KColorEdit"
+#~ msgstr "KColorEdit"
+
+#~ msgid "A File And Directory Comparison And Merge Tool"
+#~ msgstr "Skráa og möppu samanburðar og sameiningartól"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "Gjaldmiðilsbreyting og reiknivél"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "Database Creator"
+#~ msgstr "Gagnagrunns hönnuður"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "Fax Viewer"
+#~ msgstr "Fax sjá"
+
+#~ msgid "KFax"
+#~ msgstr "KFax"
+
+#~ msgid "kFlickr"
+#~ msgstr "kFlickr"
+
+#~ msgid "A graphical FTP client"
+#~ msgstr "Grafískur FTP biðlari"
+
+#~ msgid "KFTPGrabber"
+#~ msgstr "KFTPGrabber"
+
+#~ msgid "A Graphviz dot graph editor for KDE"
+#~ msgstr "Graphviz ritill fyrir punktgröf í KDE"
+
+#~ msgid "kgrapheditor"
+#~ msgstr "kgrapheditor"
+
+#~ msgid "A Graphviz dot graph viewer for KDE"
+#~ msgstr "Graphviz dot línuritaskoðari fyrir KDE"
+
+#~ msgid "kgraphviewer"
+#~ msgstr "KGraphViewer"
+
+#~ msgid "Icon Editor"
+#~ msgstr "Táknmyndaritill"
+
+#~ msgid "KIconEdit"
+#~ msgstr "Táknmyndaritill"
+
+#~ msgid "KMediaFactory"
+#~ msgstr "KMediaFactory"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "MSN forrit"
+
+#~ msgid "KMuddy"
+#~ msgstr "KMuddy"
+
+#~ msgid "MUD client"
+#~ msgstr "MUD biðlari"
+
+#~ msgid "KNemo"
+#~ msgstr "KNemo"
+
+#~ msgid "KOffice"
+#~ msgstr "K-Skrifstofan"
+
+#~ msgid "KPlato"
+#~ msgstr "KPlato"
+
+#~ msgid "KPlayer"
+#~ msgstr "KPlayer"
+
+#~ msgid "KPovModeler"
+#~ msgstr "KPovModeler"
+
+#~ msgid "Povray Modeler"
+#~ msgstr "Povray hönnuður"
+
+#~ msgid "KPresenter"
+#~ msgstr "KPresenter"
+
+#~ msgid "KRadio"
+#~ msgstr "KRadio"
+
+#~ msgid "KRadioRipper"
+#~ msgstr "KRadioRipper"
+
+#~ msgid "Cooking Book"
+#~ msgstr "Uppskriftabók"
+
+#~ msgid "Krecipes"
+#~ msgstr "Krecipes"
+
+#~ msgid "The KDE Cooking Book"
+#~ msgstr "KDE uppskriftabókin"
+
+#~ msgid "A batch renamer"
+#~ msgstr "Endurnefna skráa-bunka"
+
+#~ msgid "KRename"
+#~ msgstr "KRename"
+
+#~ msgid "Edit and paint images"
+#~ msgstr "Sýsla og teikna myndir"
+
+#~ msgid "Krita"
+#~ msgstr "Krita"
+
+#~ msgid "Painting and Image Editing"
+#~ msgstr "Málun og myndsýsl"
+
+#~ msgid "Application for Drawing and Handling of Images"
+#~ msgstr "Teikni og myndvinnsluforrit"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Tveggja-glugga skráarstjóri"
+
+#~ msgid "Krusader - root-mode"
+#~ msgstr "Krusader - kerfistjóra-hamur"
+
+#~ msgid "Twin-Panel File Manager with root-privileges"
+#~ msgstr "Tveggja-glugga skráarstjóri með rótarheimildir"
+
+#~ msgid "An advanced shut down utility"
+#~ msgstr "Ítarlegt kerfis-stöðvunartól"
+
+#~ msgid "KShutdown"
+#~ msgstr "KShutdown"
+
+#~ msgid "System Shut Down Utility"
+#~ msgstr "Kerfis-stöðvunartól"
+
+#~ msgid "KSpread"
+#~ msgstr "K-Töflureiknir"
+
+#~ msgid "Kuickshow"
+#~ msgstr "Kuickshow"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "KDE KPart forrit"
+
+#~ msgid "GUI for various VPN clients"
+#~ msgstr "Viðmót fyrir ýmsa VPN biðlara"
+
+#~ msgid "KVpnc"
+#~ msgstr "KVpnc"
+
+#~ msgid "VPN Client GUI"
+#~ msgstr "Myndrænt VPN viðmót"
+
+#~ msgid "A sound editor for KDE"
+#~ msgstr "Hljóð-ritill fyrir KDE"
+
+#~ msgid "Kwave Sound Editor"
+#~ msgstr "Kwave hljóðritill"
+
+#~ msgid "KWord"
+#~ msgstr "K-Ritvinnsla"
+
+#~ msgid "Write text documents"
+#~ msgstr "Skrifa textaskjöl"
+
+#~ msgid "Lemon Point of sale"
+#~ msgstr "Lemon kassakerfi"
+
+#~ msgid "lemon"
+#~ msgstr "lemon"
+
+#~ msgid "A KDE4 Application"
+#~ msgstr "KDE4 forrit"
+
+#~ msgid "LinoBrowser"
+#~ msgstr "LinoBrowser"
+
+#~ msgid "Mailody"
+#~ msgstr "Mailody"
+
+#~ msgid "Enter passphrase to authenticate to the ssh agent"
+#~ msgstr "Slá inn lykilsetningu til að auðkenna þig gagnvart ssh"
+
+#~ msgid "SSH AskPass"
+#~ msgstr "SSH AskPass"
+
+#~ msgid "ssh-add"
+#~ msgstr "ssh-add"
+
+#~ msgid "Opeke"
+#~ msgstr "Opeke"
+
+#~ msgid "KDE Partition Manager"
+#~ msgstr "KDE disksneiðaumsýsla"
+
+#~ msgid "Manage disks, partitions and file systems"
+#~ msgstr "Sýsla með diska, disksneiðar og skráakerfi"
+
+#~ msgid "GUI for the R-project"
+#~ msgstr "Myndrænt viðmót fyrir R-verkefnið"
+
+#~ msgid "RKWard"
+#~ msgstr "RKWard"
+
+#~ msgid "Makes sure you rest now and then"
+#~ msgstr "Sér um að þú hvílist við og við"
+
+#~ msgid "RSIBreak"
+#~ msgstr "RSIBreak"
+
+#~ msgid "Mind mapping software"
+#~ msgstr "Huga-kortlagningar hugbúnaður"
+
+#~ msgid "Semantik"
+#~ msgstr "Semantik"
+
+#~ msgid "Scan and save images"
+#~ msgstr "Skanna og vista myndir"
+
+#~ msgid "Skanlite"
+#~ msgstr "Skanlite"
+
+#~ msgid "lemonPOS administration module"
+#~ msgstr "lemonPOS stjórnsýslueining"
+
+#~ msgid "squeeze"
+#~ msgstr "squeeze"
+
+#~ msgid "KDE subtitle editor"
+#~ msgstr "KDE kvikmyndatexta-ritill"
+
+#~ msgid "Subtitle Composer"
+#~ msgstr "Kvikmyndatexta-ritill"
+
+#~ msgid "A collection manager"
+#~ msgstr "Safnumsjónarkerfi"
+
+#~ msgid "Collection Manager"
+#~ msgstr "Safnstjóri"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
+#~ msgstr "Skjáhermir byggður á KDE skjátækni."
+
+#~ msgid "Yakuake"
+#~ msgstr "Yakuake"
+
+#~ msgid "lash"
+#~ msgstr "lash"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "Einstakur fjölnotanda-stríðsleikur"
+
+#~ msgid "LPairs"
+#~ msgstr "LPairs"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "Mail Notification"
+#~ msgstr "Póst-tilkynningarforrit"
+
+#~ msgid "4stAttack"
+#~ msgstr "4stAttack"
+
+#~ msgid "Connect-four for pygame"
+#~ msgstr "Tengja-fjóra fyrir pygame"
+
+#~ msgid "First person shooter game"
+#~ msgstr "Skjóta alla sem þú sérð"
+
+#~ msgid "A 3D adventure and roleplaying game"
+#~ msgstr "Þrívíður ævintýra og hlutverkaleikur"
+
+#~ msgid "Balazar"
+#~ msgstr "Balazar"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "Arcade Shooter"
+#~ msgstr "Skotleikur"
+
+#~ msgid "Critical Mass"
+#~ msgstr "Krítískur massi"
+
+#~ msgid "Enlightened Terminal Emulator"
+#~ msgstr "Enlightened Skjáhermir"
+
+#~ msgid "Eterm"
+#~ msgstr "Eterm"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "A simple file manager with built-in FTP support"
+#~ msgstr "Einfaldur skráarstjóri með innbyggt FTP"
+
+#~ msgid "FileRunner"
+#~ msgstr "FileRunner"
+
+#~ msgid "Bittorent Gtk2 Interface"
+#~ msgstr "Bittorent Gtk2 viðmót"
+
+#~ msgid "GTorrentViewer"
+#~ msgstr "GTorrentViewer"
+
+#~ msgid "Asteroids game"
+#~ msgstr "Loftsteina leikur"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "Einfaldur músaskotleikur"
+
+#~ msgid "Heartrate monitor viewer"
+#~ msgstr "Skoða hjartalínurit"
+
+#~ msgid "PolarViewer"
+#~ msgstr "PolarViewer"
+
+#~ msgid "A MacOS run-time environment"
+#~ msgstr "MacOS keyrsluumhverfi"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaver"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "Synthesized Loops"
+#~ msgstr "Tölvugrafík"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (VOCP Vefaðgangur að talhólfum)"
+
+#~ msgid ""
+#~ "VOCPweb allows you to log on to the VOCP voice messaging system and "
+#~ "retrieve messages through a browser"
+#~ msgstr ""
+#~ "VOCPweb leyfir þér að skrá þig inn á VOCP talhólfakerfi og sækja skeyti "
+#~ "með vafra"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "Ótrúleg ævintýri Abe!!"
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Klassískur skotleikur"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Upptaka kvikmynda og breytingar"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "Wireless network discovery tool"
+#~ msgstr "Leita uppi þráðlaus net"
+
+#~ msgid "airfart"
+#~ msgstr "airfart"
+
+#~ msgid "AirStrike"
+#~ msgstr "AirStrike"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "Ótrúlega vanabindandi flugvéla skotleikur"
+
+#~ msgid "AlbumShaper"
+#~ msgstr "AlbumShaper"
+
+#~ msgid "Create photo albums"
+#~ msgstr "Búa til ljósmyndaalbúm"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "Textavarps/videotext afkóðun og flakk"
+
+#~ msgid "Action-loaded 2D arcade shooter game"
+#~ msgstr "Spennuhlaðinn tvívíður skotleikur"
+
+#~ msgid "Alien Blaster"
+#~ msgstr "Alien Blaster"
+
+#~ msgid "Alien pool"
+#~ msgstr "Geimveru-pool"
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "Skotleikur - blanda af asteroids og pool"
+
+#~ msgid "Alleyoop"
+#~ msgstr "Alleyoop"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "Myndrænt viðmót við Valgrind minnis-prófara"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "W3C's vafrari/vefsmíði"
+
+#~ msgid "amaya"
+#~ msgstr "amaya"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Alsa Modular Synth"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "Hljóðgervils-forrit fyrir ALSA"
+
+#~ msgid "AmyEdit"
+#~ msgstr "AmyEdit"
+
+#~ msgid "Lightweight LaTeX editor"
+#~ msgstr "Léttur LaTeX ritill"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Angel Wars"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr "Hraður, gamaldags geim-skotleikur"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "Myndrænt viðmót fyrir Genpak"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "Herkænska í hávegum"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "Þrívíður skotleikur - sprengja loftsteina"
+
+#~ msgid "atanks"
+#~ msgstr "atanks"
+
+#~ msgid "An rxvt-based terminal emulator for X11"
+#~ msgstr "X11 skjáhermir byggður á rxvt"
+
+#~ msgid "aterm"
+#~ msgstr "aterm"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Heilabylgjustjórn"
+
+#~ msgid "Bacula Console (wxWindows)"
+#~ msgstr "Bacula stjórnskjár (wxWindows)"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "Bacula Stjórnskjár"
+
+#~ msgid "Bacula Tray Monitor"
+#~ msgstr "Bacula Bakkaforrit"
+
+#~ msgid "Balazar Brothers"
+#~ msgstr "Balazar Bræður"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "Orkusparnaðar-stillingar fyrir tölvuna"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Orkusparnaður"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bbconf er myndrænt stjórntæki fyrir blackbox"
+
+#~ msgid "bbkeys"
+#~ msgstr "bbkeys"
+
+#~ msgid "BB Run"
+#~ msgstr "BB Run"
+
+#~ msgid "BlackBox Run Window"
+#~ msgstr "BlackBox keyrslugluggi"
+
+#~ msgid "Tool for eBay users"
+#~ msgstr "Tól fyrir eBay notendur"
+
+#~ msgid "bidwatcher"
+#~ msgstr "bidwatcher"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "biloba"
+#~ msgstr "biloba"
+
+#~ msgid "BIRT - Batch Image Resizing Thing"
+#~ msgstr "BIRT - Breyta stærð mynda (Batch Image Resizing Thing)"
+
+#~ msgid "GUI tool for easy resizing series of images"
+#~ msgstr "Myndrænt tól til að breyta stærð mynda"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "Tvívítt efnafræði-formúlu teiknitól"
+
+#~ msgid "BKchem"
+#~ msgstr "BKchem"
+
+#~ msgid "Blobby Volley"
+#~ msgstr "Blobby Volley"
+
+#~ msgid "Blobby Volley arcade game"
+#~ msgstr "Hoppa og skoppa skotleikur"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Mario-leikur"
+
+#~ msgid "Invasion: Battle of survival - a real time strategy game"
+#~ msgstr "Invasion: Barátta um tilvist - rauntíma-herkænskuleikur"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (VOCP stillingar talhólfs)"
+
+#~ msgid ""
+#~ "Boxconf presents a graphical user interface used to administer the VOCP "
+#~ "system box configuration"
+#~ msgstr "Boxconf er grafískt viðmót til að stjórna VOCP talhólfum"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "A 3D chess game inspired by Battle Chess"
+#~ msgstr "Þrívíð skák innblásin af Battle Skák"
+
+#~ msgid "Brutal Chess"
+#~ msgstr "Brutal Chess"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "Bakkaforrit sem fylgist með stöðu vélar"
+
+#~ msgid "bubblemon"
+#~ msgstr "bubblemon"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Drepa kvikindi með músinni"
+
+#~ msgid "Bumprace"
+#~ msgstr "Bumprace"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr "C1541 Sjálfstætt diskmeðhöndlunarforrit"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "VICE diskmeðhöndlunarforrit"
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Símstöð (VOCP talhólf)"
+
+#~ msgid ""
+#~ "The VOCP call center is meant to be an \"always on\" call monitor and to "
+#~ "give quick access to other VOCP GUIs and your call log"
+#~ msgstr ""
+#~ "VOCP símstöðin er ætluð til að vera ætið hlustandi eftir köllum og veita "
+#~ "fljótan aðgang í talhólf og VOCP símtalaannála"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "Prófunarforrit fyrir breiðbandstengingar"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Vefmyndavéla-tól"
+
+#~ msgid "camstream"
+#~ msgstr "camstream"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "Stillitól fyrir Canon inkjet prentara"
+
+#~ msgid "CD-Mason"
+#~ msgstr "CD-Mason"
+
+#~ msgid "Simple, powerful CD burning"
+#~ msgstr "Einföld, öflug geisladiskabrennsla"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Dauðagildrur í geimnum"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Leikurinn GO"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Forrit til að búa til músík einingar"
+
+#~ msgid "Cheesetracker"
+#~ msgstr "Cheesetracker"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "Vefflakkari og tól (þarfnast keyrandi miðlara)"
+
+#~ msgid "childsplay"
+#~ msgstr "Barnaleikur"
+
+#~ msgid "A open-source diary program"
+#~ msgstr "Frjálst dagbókarforrit"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Bomberman-líkur fjölnotanda-leikur"
+
+#~ msgid "Controller"
+#~ msgstr "Stjórneining"
+
+#~ msgid "MIDI controller for ZynAddSubFX"
+#~ msgstr "MIDI stjórnborð fyrir ZynAddSubFX"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Crossfire Client"
+#~ msgstr "Crossfire biðlari"
+
+#~ msgid "Cssed"
+#~ msgstr "Cssed"
+
+#~ msgid "CUI Term"
+#~ msgstr "CUI Term"
+
+#~ msgid "Composite user interface"
+#~ msgstr "Composite notandaviðmót"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Veldu bendil-þema"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Bendil-Þemu"
+
+#~ msgid "dap"
+#~ msgstr "dap"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Defender klón"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Einfaldur vafrari"
+
+#~ msgid "Dillo"
+#~ msgstr "Dillo"
+
+#~ msgid "Dino"
+#~ msgstr "Dino"
+
+#~ msgid "DiskSearch"
+#~ msgstr "DiskSearch"
+
+#~ msgid "Search removable media"
+#~ msgstr "Leita á útskiptanlegum miðlum"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Distcc eftirlit"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "Einföld vistfangabók"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "DOS Hermir"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "Dr.GeoCaml"
+#~ msgstr "Dr.GeoCaml"
+
+#~ msgid "DrGeoCaml Interactive Geometry Tool"
+#~ msgstr "DrGeoCaml gagnvirkt rúmfræðitól"
+
+#~ msgid "Dr. Python"
+#~ msgstr "Dr. Python"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "Python ritill og þróunarumhverfi"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "Tvívíður mólekúaritill"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "EBView"
+#~ msgstr "EBView"
+
+#~ msgid "EBView is a browser for EB/EPWING files"
+#~ msgstr "EBView er flakkari fyrir EB/EPWING skár"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "Hljóðvinnsla, margrása upptaka og hljóðlöndun"
+
+#~ msgid "ecasound"
+#~ msgstr "ecasound"
+
+#~ msgid "E-Cell Model Editor"
+#~ msgstr "E-cell-módel-ritill"
+
+#~ msgid "E-Cell Session Monitor"
+#~ msgstr "E-cell lotuskoðari"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animator"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "GTK Skráastjóri"
+
+#~ msgid "Ecasound Mastering Interface"
+#~ msgstr "Ecasound Mastering Interface"
+
+#~ msgid "emi"
+#~ msgstr "emi"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Graphical file manager"
+#~ msgstr "Grafískur skráastjóri"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Enigma er þrautaleikur"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "EPIC er forritanlegur IRC biðlari."
+
+#~ msgid "Epic"
+#~ msgstr "Epic"
+
+#~ msgid "Python IDE"
+#~ msgstr "Python hönnunarumhverfi"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "OSS hljóðblöndun"
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer"
+
+#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
+#~ msgstr "eSvn er almennt grafískt viðmót (byggt á QT), fyrir Subversion"
+
+#~ msgid "esvn"
+#~ msgstr "esvn"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolvotron"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "Gagnvirkt mynsturgerðar-forrit"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash fyrir Linux"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr "Fluxbox-Forrit til að búa til og breyta táknmyndum á skjáborðinu"
+
+#~ msgid "Image viewer at heart, though it does other cool stuff"
+#~ msgstr "Myndaskoðari í grunni, þó hann geri ýmislegt annað snjallt"
+
+#~ msgid "feh"
+#~ msgstr "feh"
+
+#~ msgid "Fish Fillets NG"
+#~ msgstr "Fiskiflök NG"
+
+#~ msgid "Fish Fillets NG puzzle game"
+#~ msgstr "Fiskiflök NG þrautaleikur"
+
+#~ msgid "Flight Gear"
+#~ msgstr "Flight Gear"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "Flug-hermirinn FlightGear"
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "OpenGL billard game"
+#~ msgstr "OpenGL Billjarð/Snooker leikur"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr "Þróaður gagnvirkur ritill sem notar FOX tólin"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Reiknivél sem notar FOX tólin"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX Reiknivél"
+
+#~ msgid "fpm"
+#~ msgstr "fpm"
+
+#~ msgid "FrameWorks"
+#~ msgstr "FrameWorks"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "Stöðva-hreyfa hreyfimynda-tól"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "Bassa hljóðgervill/hljóðraðari/spilari fyrir Linux"
+
+#~ msgid "freebirth"
+#~ msgstr "freebirth"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "Klón af leiknum paradroid á C64"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "Create Playlist for Freeplayer"
+#~ msgstr "Búa til lagalista fyrir FreePlayer"
+
+#~ msgid "Freeplayer-playlist"
+#~ msgstr "Freeplayer-lagalisti"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Hljóðmeðhöndlun"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr "Reiknar fret lengdir? fyrir strengjahljóðfæri"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "Fricorder"
+#~ msgstr "Fricorder"
+
+#~ msgid "A GUI frontend for autotrace"
+#~ msgstr "Grafískt viðmót fyrir autotrace"
+
+#~ msgid "FrontLine"
+#~ msgstr "FrontLine"
+
+#~ msgid "3D file browser"
+#~ msgstr "Þrívíður skráaflakkari"
+
+#~ msgid "fte"
+#~ msgstr "fte"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "FVWM Gluggastjóri"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "Þrívíður kortaskoðari"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Gai-Album"
+#~ msgstr "Gai-Album"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "Xmms þemaskoðari"
+
+#~ msgid "Backgrund switcher"
+#~ msgstr "Bakgrunns-skiptir"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "Blobs skoðari :)"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "Sýnir stöðu gaumljósa á lyklaborði"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "Gai-mailcounter"
+
+#~ msgid "Mail counter"
+#~ msgstr "Póst-teljari"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "Sýnir hvenær sólin rís og sest"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "Gai-visual-studio"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "Myndrænt XMMS úttak"
+
+#~ msgid "Galan"
+#~ msgstr "Galan"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "Skoða mólekúl í þrívídd"
+
+#~ msgid "GTK ASTerisk MANager"
+#~ msgstr "GTK ASTerisk stjórnborð"
+
+#~ msgid "gastman"
+#~ msgstr "gastman"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "Tvívíður blakleikur"
+
+#~ msgid "gav"
+#~ msgstr "gav"
+
+#~ msgid "GTK2 color chooser"
+#~ msgstr "GTK2 Litaval"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "Sýsla með gnome stillingar"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "gdis"
+#~ msgstr "gdis"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Tetris og geimskotleikur í senn"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "gforth"
+#~ msgstr "gforth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Kladdi kennarans"
+
+#~ msgid "ggradebook"
+#~ msgstr "ggradebook"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "GNOME-MM/QM viðmót"
+
+#~ msgid "ghemical"
+#~ msgstr "ghemical"
+
+#~ msgid "DJ Collection Manager"
+#~ msgstr "DJ safnstjóri"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "Flughemir - skotleikur"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "Glest"
+#~ msgstr "Glest"
+
+#~ msgid "Glinuxsms"
+#~ msgstr "Glinuxsms"
+
+#~ msgid "Glinuxsms is a GNOME2 GUI/front-end for linuxsms"
+#~ msgstr "Glinuxsms er GNOME2 grafískt viðmót fyrir linuxsms"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "OpenGL myndaskoðari"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "Þrívíður mótorhjólaleikur í anda Tron"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "Gnome biðlari fyrir masqdialer módaldsþjóninn"
+
+#~ msgid "Memory usage"
+#~ msgstr "Minnisnotkun"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "MIDI hljóðgerfill"
+
+#~ msgid "GMudix GTK mud client"
+#~ msgstr "GMudix GTK mud biðlari"
+
+#~ msgid "gMudix"
+#~ msgstr "gMudix"
+
+#~ msgid "Gneutronica"
+#~ msgstr "Gneutronica"
+
+#~ msgid "MIDI drum sequencer"
+#~ msgstr "MIDI trommu-hljóðraðari"
+
+#~ msgid "GNOME ALSA mixer"
+#~ msgstr "GNOME ALSA hljóðblandari"
+
+#~ msgid "GNOME ALSA mixer (volume control)"
+#~ msgstr "GNOME ALSA hljóðblandari (styrkstilling)"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnome Photo Printer"
+#~ msgstr "Gnome ljósmyndaprentun"
+
+#~ msgid "Quick and simple photo printing"
+#~ msgstr "Einföld og fljótleg ljósmyndaprentun"
+
+#~ msgid "Gnome-SSHMan"
+#~ msgstr "Gnome-SSHMan"
+
+#~ msgid "Manage SSH connections"
+#~ msgstr "Sýsla með SSH tengingar"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Gnometab er Gítargripa-ritill."
+
+#~ msgid "Gnomolicious"
+#~ msgstr "Gnomolicious"
+
+#~ msgid "A ripper, an encoder and an audio converter"
+#~ msgstr "Diskalestur, kóðun og hljóðbreytingar"
+
+#~ msgid "Gnormalize"
+#~ msgstr "Gnormalize"
+
+#~ msgid "GNU Backgammon"
+#~ msgstr "GNU Kotra"
+
+#~ msgid "Gnubik"
+#~ msgstr "Gnubik"
+
+#~ msgid "gnuitar"
+#~ msgstr "gnuitar"
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Robbo"
+
+#~ msgid "A free collaborative editor"
+#~ msgstr "Frjáls hópvinnuritill"
+
+#~ msgid "Gobby"
+#~ msgstr "Gobby"
+
+#~ msgid "Gournal"
+#~ msgstr "Gournal"
+
+#~ msgid "Handwriting notepad"
+#~ msgstr "Handskrifaðir minnismiðar"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "Internetsími"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "Pppoe eftirlit"
+
+#~ msgid "GPRS Easy Connect"
+#~ msgstr "Auðveld GPRS tenging"
+
+#~ msgid "GUI to simplify GPRS cellular data connection"
+#~ msgstr "Grafískt viðmót fyrir GPRS gemsa-gagna-tengingu"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "GPS gagnaflutningur"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "GQ"
+#~ msgstr "GQ"
+
+#~ msgid "GQ is a GTK-based LDAP client"
+#~ msgstr "GQ er LDAP forrit byggt á GTK"
+
+#~ msgid "Control print jobs"
+#~ msgstr "Stjórna prentverkum"
+
+#~ msgid "GQueue"
+#~ msgstr "GQueue"
+
+#~ msgid "Grace"
+#~ msgstr "Grace"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "Grafísk úrvinnsla vísindalegra gagna"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "The cellular automaton simulator"
+#~ msgstr "'cellular automaton' hermir"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "Úrvinnsluforrit fyrir landfræðilegar upplýsingar"
+
+#~ msgid "Greenwich"
+#~ msgstr "Greenwich"
+
+#~ msgid "Whois client"
+#~ msgstr "Whois biðlari"
+
+#~ msgid "GRhino"
+#~ msgstr "GRhino"
+
+#~ msgid "Grip"
+#~ msgstr "Grip"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "RPN Reiknivél"
+
+#~ msgid "GScore"
+#~ msgstr "GScore"
+
+#~ msgid "Musical Score Editor"
+#~ msgstr "Grafískur hljóðritill"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "TetriNET leikjabiðlari fyrir Linux"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "IPTables reglustillingar"
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "Breyta GTK1 Þema"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "GTK Þemaskiptir"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "Gtk viðmót fyrir asp2php"
+
+#~ msgid "GtkAtlantic"
+#~ msgstr "GtkAtlantic"
+
+#~ msgid "Buehlmann ZH-L16 model diving simulation"
+#~ msgstr "Buehlmann ZH-L16 model köfunarhermir"
+
+#~ msgid "GtkDive"
+#~ msgstr "GtkDive"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "Grafískt skráarleitarforrit"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "GTK Gítarbrellur"
+
+#~ msgid "Realtime effects"
+#~ msgstr "Rauntímabrellur"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "GTK viðmót fyrir CUPS"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "GTK viðmót fyrir GTKlp CUPS biðröð"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "Gtk útgáfa af motd"
+
+#~ msgid "GtkPSProc"
+#~ msgstr "GtkPSProc"
+
+#~ msgid "GTKtalog"
+#~ msgstr "GTKtalog"
+
+#~ msgid "The Gnome disk catalog"
+#~ msgstr "Gnome diskflettir"
+
+#~ msgid "Serial port terminal"
+#~ msgstr "Raðtengdur skjáhermir"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Siag Postscript skoðari"
+
+#~ msgid "Gnome Workstation Command Center"
+#~ msgstr "Stjórnborð Gnome vinnustöðvar"
+
+#~ msgid "Network and workstation tools"
+#~ msgstr "Net og vinnustöðva -tól"
+
+#~ msgid "hackwhite_dune"
+#~ msgstr "hackwhite_dune"
+
+#~ msgid "Strategy action game"
+#~ msgstr "Herkænskuleikur"
+
+#~ msgid "hedgewars"
+#~ msgstr "hedgewars"
+
+#~ msgid "Game like Nibbles but different"
+#~ msgstr "Leikur líkur Nibbles en samt öðruvísi."
+
+#~ msgid "Heroes"
+#~ msgstr "Heroes"
+
+#~ msgid "Hexagonal Minesweeper"
+#~ msgstr "Sexhyrndur Minesweeper"
+
+#~ msgid "Hexamine"
+#~ msgstr "Hexamine"
+
+#~ msgid "Hexadecimal calculator"
+#~ msgstr "Sextándakerfisreiknivél"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "HighMoon"
+#~ msgstr "HighMoon"
+
+#~ msgid "Holotz's Castle Editor"
+#~ msgstr "Holotz's Castle Ritill"
+
+#~ msgid "Level editor for Holotz's Castle"
+#~ msgstr "Borða-ritill fyrir Holotz's Castle"
+
+#~ msgid "Holotz's Castle"
+#~ msgstr "Holotz's Castle"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "iaxComm"
+#~ msgstr "iaxComm"
+
+#~ msgid "ibWebAdmin"
+#~ msgstr "ibWebAdmin"
+
+#~ msgid "An X Window System-based calendar program"
+#~ msgstr "Dagatals-forrit fyrir X gluggakerfið"
+
+#~ msgid "Podcast catcher"
+#~ msgstr "Podcast ígrip"
+
+#~ msgid "Configurator for the GTK+2 Japanese Input Module"
+#~ msgstr "Stillingar fyrir japanskt inntak GTK+2"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "ImgSeek myndaumsýsla"
+
+#~ msgid "Inventory"
+#~ msgstr "Inventory"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr "Einfalt lagerkerfi"
+
+#~ msgid "IQNotes"
+#~ msgstr "IQNotes"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Image browser"
+#~ msgstr "Myndavafri"
+
+#~ msgid "Drum machine styled audio sequencer"
+#~ msgstr "Trommuhljóðgerfill og hljóðraðari"
+
+#~ msgid "JackBeat"
+#~ msgstr "JackBeat"
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Mixer for JACK audio server"
+#~ msgstr "Hljóðblandari fyrir JACK hljóðbiðlara"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "Hlaða niður kotrum (púslum)"
+
+#~ msgid "Graphical puzzle game"
+#~ msgstr "Grafískur þrautaleikur"
+
+#~ msgid "Jools"
+#~ msgstr "Jools"
+
+#~ msgid "Administrative web interface for Joomla Open Source (CMS)"
+#~ msgstr "Vef-stjórn-viðmót fyrir opna vefumsjónarkerfið Joomla"
+
+#~ msgid "Joomla Administrator"
+#~ msgstr "Joomla Kerfisstjórnun"
+
+#~ msgid "Jump 'n Bump"
+#~ msgstr "Hoppa og Skoppa"
+
+#~ msgid "Violent game with cute little bunnies"
+#~ msgstr "Hasarleikur með sætum litlum kanínum"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "GTK2 FTP biðlari"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "ALSA connections"
+#~ msgstr "ALSA tengingar"
+
+#~ msgid "KAConnect"
+#~ msgstr "KAConnect"
+
+#~ msgid "Kcheckers"
+#~ msgstr "Kcheckers"
+
+#~ msgid "Cross Platform Password Manager"
+#~ msgstr "Lykilorðaumsýsla óháð kerfum"
+
+#~ msgid "KeePassX"
+#~ msgstr "KeePassX"
+
+#~ msgid "Kiax"
+#~ msgstr "Kiax"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Kiki nanovélmenni"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "QT Mólekúlaskoðari"
+
+#~ msgid "Kodos"
+#~ msgstr "Kodos"
+
+#~ msgid "Visual regular expression editor"
+#~ msgstr "Ritill fyrir reglulegar segðir"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "KTerm"
+#~ msgstr "KTerm"
+
+#~ msgid "Kanji Terminal Emulator"
+#~ msgstr "Kanji skjáhermir"
+
+#~ msgid "Last.FM Player"
+#~ msgstr "Last.FM Spilari"
+
+#~ msgid "Play the last.fm internet radio"
+#~ msgstr "Spila last.fm Internet útvarp"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "Grafískur ferlaskoðari"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Panzer General klón"
+
+#~ msgid "Links (hacked)"
+#~ msgstr "Links (breytt útgáfa)"
+
+#~ msgid "Lynx-like text WWW browser"
+#~ msgstr "Textabundinn netflakkari"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Lynx-like text/graphic Web browser"
+#~ msgstr "Textabundinn netflakkari"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "lintalk"
+#~ msgstr "lintalk"
+
+#~ msgid "Cool script to send SMS"
+#~ msgstr "Snjöll skrifta sem sendir SMS"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "Oki"
+#~ msgstr "Oki"
+
+#~ msgid "LongPlayer"
+#~ msgstr "LongPlayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "Snyrtilegur Nice tetris klón"
+
+#~ msgid "LDAP browser, utility and more"
+#~ msgstr "LDAP flakkari, tól og fleira"
+
+#~ msgid "Luma"
+#~ msgstr "Luma"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr "Fljúga litlu V-laga geimskipi í tvívíðum skotleik"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "Grípa sprengjurnar"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "MahJongg 3D Solitaire"
+#~ msgstr "Þrívíður MahJongg leikur"
+
+#~ msgid ""
+#~ "MahJongg 3D Solitaire - A board game using OpenGL, with several themes"
+#~ msgstr ""
+#~ "Þrívíður MahJongg þrautaleikur - Borðleikur sem notar OpenGL, með mörg "
+#~ "þemu"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit"
+
+#~ msgid "UNIX manual pages editor"
+#~ msgstr "UNIX man-síðu-ritill"
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "MAS Internet ráðstefnur"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS Hljóðblöndun"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "Gagnvirkur fallateiknari"
+
+#~ msgid "Mathplot"
+#~ msgstr "Mathplot"
+
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "Tcl/Tk viðmót við Maxima"
+
+#~ msgid "A bubble bobble like arcade game"
+#~ msgstr "Hoppa og skoppa skotleikur"
+
+#~ msgid "Super Methane Brothers"
+#~ msgstr "Super Methane Brothers"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "MIDI CC Sliders"
+#~ msgstr "MIDI CC Sleðar"
+
+#~ msgid "MIDI Controller"
+#~ msgstr "MIDI Stjórneining"
+
+#~ msgid "MiniSIP"
+#~ msgstr "MiniSIP"
+
+#~ msgid "SIP Videophone"
+#~ msgstr "SIP Sjónvarpssími"
+
+#~ msgid "Mirror Magic"
+#~ msgstr "Mirror Magic"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr "Fjöltyngdur skjáhermir"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Monotone-viz"
+#~ msgstr "Monotone-viz"
+
+#~ msgid "Addictive puzzle game"
+#~ msgstr "Vanabindandi þrautaleikur"
+
+#~ msgid "Monsterz"
+#~ msgstr "Monsterz"
+
+#~ msgid "Create encrypted folder"
+#~ msgstr "Búa til dulkóðaða möppu"
+
+#~ msgid "DrakLoop"
+#~ msgstr "DrakLoop"
+
+#~ msgid "The Sunbird Project is a redesign of the Calendar component"
+#~ msgstr "Sunbird verkefnið er endurhönnun á mozilla-calendar verkefninu"
+
+#~ msgid "MP3 info"
+#~ msgstr "MP3 upplýsingar"
+
+#~ msgid "Utility for MP3 information and tag modification"
+#~ msgstr "Forrit til að sýsla með MP3 upplýsingar"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "A multi-tabbed X terminal emulator"
+#~ msgstr "X skjáhermir með flipa"
+
+#~ msgid "Mrxvt"
+#~ msgstr "Mrxvt"
+
+#~ msgid "Maitretarot"
+#~ msgstr "Maitretarot"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Maitretarot biðlari"
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "Ping/Traceroute netskoðunartól"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "MIDI hljóðraðari"
+
+#~ msgid "MyPasswordSafe"
+#~ msgstr "MyPasswordSafe"
+
+#~ msgid "Nabi"
+#~ msgstr "Nabi"
+
+#~ msgid "Simple Hangul XIM"
+#~ msgstr "Einfaldur Hangul XIM"
+
+#~ msgid "Nagios"
+#~ msgstr "Nagios"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "A text editor for the X Window System"
+#~ msgstr "Textaritill fyrir X gluggakerfið"
+
+#~ msgid "NEdit"
+#~ msgstr "NEdit"
+
+#~ msgid "Development headers for nessus"
+#~ msgstr "Þróunarumhverfi fyrir nessus"
+
+#~ msgid "Nessus"
+#~ msgstr "Nessus"
+
+#~ msgid "NetHack Falcons Eye"
+#~ msgstr "NetHack Falcons Eye"
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "Nuclear Chess"
+
+#~ msgid "Nuface"
+#~ msgstr "Nuface"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Oki map editor"
+#~ msgstr "Oki korta-ritill"
+
+#~ msgid ""
+#~ "A graphical front end for installing, removing and updating packages (old)"
+#~ msgstr ""
+#~ "Grafískt viðmót til að setja inn/uppfæra/fjarlægja hugbúnað (gamalt)"
+
+#~ msgid "Install, Remove & Update Software (old)"
+#~ msgstr "Setja inn, fjarlægja og uppfæra hugbúnað (gamalt)"
+
+#~ msgid "Browse Available Software (old)"
+#~ msgstr "Flakka um uppsettan hugbúnað (gamalt)"
+
+#~ msgid "OpenAlchemist"
+#~ msgstr "OpenAlchemist"
+
+#~ msgid "OpenArena"
+#~ msgstr "OpenArena"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "Stafrænn kladdi"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Mortal Szombat"
+#~ msgstr "Mortal Szombat"
+
+#~ msgid "Openmsx"
+#~ msgstr "Openmsx"
+
+#~ msgid "OpenSi"
+#~ msgstr "OpenSi"
+
+#~ msgid "OpenSi client"
+#~ msgstr "OpenSi biðlari"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Orbital Eunuchs Sniper"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "Forrit til að spila kvikmyndir"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Desktop Publishing for X (PAO)"
+#~ msgstr "Útgáfuforrit (ritvinnsla) fyrir X (PAO)"
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "Logic game"
+#~ msgstr "Rökrænn leikur"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "Klón af hinum klassíska Missile Command leik"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Penguin Command"
+
+#~ msgid "PostgreSQL Access"
+#~ msgstr "PostgreSQL Aðgangur"
+
+#~ msgid "PostgreSQL Tcl/Tk front-end"
+#~ msgstr "PostgreSQL Tcl/Tk viðmót"
+
+#~ msgid "Graphical client for PostgreSQL"
+#~ msgstr "Grafískt viðmót fyrir PostgreSQL"
+
+#~ msgid "pgadmin3"
+#~ msgstr "pgadmin3"
+
+#~ msgid "phpLDAPAdmin"
+#~ msgstr "phpLDAPAdmin"
+
+#~ msgid "phpMyAdmin"
+#~ msgstr "phpMyAdmin"
+
+#~ msgid "phpPgAdmin"
+#~ msgstr "phpPgAdmin"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Emilia 3d Pinball"
+
+#~ msgid "Pinball"
+#~ msgstr "Pinball"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - Ókeypis Lemmings klón"
+
+#~ msgid "Plan"
+#~ msgstr "Plan"
+
+#~ msgid "Ponyprog2000"
+#~ msgstr "Ponyprog2000"
+
+#~ msgid "Serial device programmer"
+#~ msgstr "Raðminnis forritunartæki"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "POPFile - Sjálfvirkk flokkun pósts"
+
+#~ msgid "An enhanced version of DooM - classic 3D shoot-em-up game"
+#~ msgstr "Endurbætt útgáfa af DooM - klassískur þrívíður skotleikur."
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "PrBooM-GL Fjölnotanda"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "PrBooM Fjölnotanda"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Prokyon3"
+#~ msgstr "Prokyon3"
+
+#~ msgid "Free SSH, Telnet and Rlogin client"
+#~ msgstr "Frjáls SSH, Telnet og Rlogin biðlari"
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "Pathetic Writer"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "Siag Office Pathetic ritvinnsla"
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "Python stýrð mólekúl grafík"
+
+#~ msgid "PySyCache"
+#~ msgstr "PySyCache"
+
+#~ msgid "PythonCard Code Editor"
+#~ msgstr "PythonCard forrita-ritill"
+
+#~ msgid ""
+#~ "The codeEditor sample in PythonCard is focused on being a simple to use "
+#~ "Python source code editor"
+#~ msgstr ""
+#~ "Ætlunin með CodeEditor er að búa til einfaldan en nothæfan Python ritil"
+
+#~ msgid "PythonCard Resource Editor"
+#~ msgstr "PythonCard Gagna-ritill"
+
+#~ msgid ""
+#~ "This represents the beginnings of a GUI resource (layout) editor for "
+#~ "PythonCard"
+#~ msgstr "Þetta er grunnur að grafísku útliti (ritli) fyrir PythonCard"
+
+#~ msgid "PythonCard Samples"
+#~ msgstr "PythonCard Dæmi"
+
+#~ msgid ""
+#~ "The main purpose of the samples is to \"stress\" the PythonCard framework "
+#~ "and make sure that the framework is robust and full-featured"
+#~ msgstr ""
+#~ "Aðaltilgangur sýnidæmanna er að leggja álag á PythonCard umhverfið og "
+#~ "staðfesta að grunnurin sé öflugur og stöðugur"
+
+#~ msgid "ALSA Mixer"
+#~ msgstr "ALSA Hljóðlandari"
+
+#~ msgid "QAMix"
+#~ msgstr "QAMix"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "ALSA upptöku viðmót"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Multipage TIFF viewer"
+#~ msgstr "Margsíðu TIFF skoðari"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Quantum GIS"
+#~ msgstr "Quantum GIS"
+
+#~ msgid "Quantum Geographic Information System"
+#~ msgstr "Quantum Landupplýsingakerfi"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Jackit tengill byggður á Qt"
+
+#~ msgid "Emulate keyboard or mouse actions with a joystick"
+#~ msgstr "Líkja eftir lyklaborði eða mús með gleðigandi"
+
+#~ msgid "QJoyPad"
+#~ msgstr "QJoyPad"
+
+#~ msgid "MIDI Arpeggiator"
+#~ msgstr "MIDI Arpeggiator"
+
+#~ msgid "QMidiArp"
+#~ msgstr "QMidiArp"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "QtRadio - hlusta á útvarp með QtRadio."
+
+#~ msgid "Quake II"
+#~ msgstr "Quake II"
+
+#~ msgid "Quake II: Capture The Flag"
+#~ msgstr "Quake II: Finna fánann"
+
+#~ msgid "Quake II: Ground Zero"
+#~ msgstr "Quake II: Ground Zero"
+
+#~ msgid "Quake II: The Reckoning"
+#~ msgstr "Quake II: Skuldadagar"
+
+#~ msgid "Quasar Accounting Software - Setup"
+#~ msgstr "Uppsetning á Quasar bókhaldsforritum"
+
+#~ msgid "Quasar Setup"
+#~ msgstr "Quasar Uppsetning"
+
+#~ msgid "Quasar"
+#~ msgstr "Quasar"
+
+#~ msgid "Quasar Accounting Software"
+#~ msgstr "Quasar Bókhaldsforrit"
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "Búa til þrívíða fractal hluti"
+
+#~ msgid "Quat"
+#~ msgstr "Quat"
+
+#~ msgid "Keep track of things"
+#~ msgstr "Passa upp á hlutina"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "VideoCD (VCD) Brennsla"
+
+#~ msgid "Poker-like card game"
+#~ msgstr "Póker-líkt spil"
+
+#~ msgid "RA Pai Gaw Poker"
+#~ msgstr "RA Pai Gaw Póker"
+
+#~ msgid "Molecular Graphics Visualization Tool"
+#~ msgstr "Mólekúl skoðari"
+
+#~ msgid "RasMol"
+#~ msgstr "RasMol"
+
+#~ msgid "RBBR"
+#~ msgstr "RBBR"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "RuBy forritaskoðari"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "Stafræn hljóðvinnsla"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Ri-li"
+#~ msgstr "Ri-li"
+
+#~ msgid "Ri-li arcade game"
+#~ msgstr "Ri-li skotleikur"
+
+#~ msgid "Data plotting and graphing"
+#~ msgstr "Teiknun grafa og gagna"
+
+#~ msgid "RLPlot"
+#~ msgstr "RLPlot"
+
+#~ msgid "Root-Tail"
+#~ msgstr "Root-Tail"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr "Root-tail prentar texta beint á X11 rótargluggann"
+
+#~ msgid "File Manager of the ROX desktop environment"
+#~ msgstr "Skráavinnsla fyrir ROX gluggaumhverfið"
+
+#~ msgid "Beginners Guide to Linux"
+#~ msgstr "Byrjanda-leiðbeiningar fyrir Linux"
+
+#~ msgid "Rute Users Tutorial and Exposition"
+#~ msgstr "Rute - Notendaleiðbeiningar og skýringar"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr "SDLRoids - endurbættur - Skjóta alla loftsteina"
+
+#~ msgid "Colourful puzzle game"
+#~ msgstr "Litríkur þrautaleikur"
+
+#~ msgid "SDL Vexed"
+#~ msgstr "SDL Vexed"
+
+#~ msgid "SeaMonkey Address Book"
+#~ msgstr "SeaMonkey Netfangaskrá"
+
+#~ msgid "Seamonkey Address Book"
+#~ msgstr "SeaMonkey Netfangaskrá"
+
+#~ msgid "SeaMonkey Composer"
+#~ msgstr "SeaMonkey Composer"
+
+#~ msgid "Seamonkey Composer HTML editor"
+#~ msgstr "Seamonkey Composer HTML ritill"
+
+#~ msgid "SeaMonkey Mail"
+#~ msgstr "SeaMonkey Póstur"
+
+#~ msgid "Seamonkey Mail & Newsgroups e-mail client"
+#~ msgstr "Seamonkey Póst & Ráðstefnu biðlari"
+
+#~ msgid "SeaMonkey News"
+#~ msgstr "SeaMonkey Ráðstefnur"
+
+#~ msgid "Seamonkey Mail & Newsgroups news reader"
+#~ msgstr "Seamonkey Póst & Ráðstefnu skoðari"
+
+#~ msgid "SeaMonkey Navigator"
+#~ msgstr "SeaMonkey Navigator"
+
+#~ msgid "Seamonkey Navigator web browser"
+#~ msgstr "Seamonkey Navigator vafri"
+
+#~ msgid "Helicopter simulator"
+#~ msgstr "Björgunarþyrla - Hermileikur"
+
+#~ msgid "SearchAndRescue"
+#~ msgstr "Leita og bjarga"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "lykkju MIDI hljóðraðari"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr "MIDI blandari"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "SffView"
+#~ msgstr "SffView"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Tekur skjámynd og vistar í skrá"
+
+#~ msgid "A tool for testing SIP-protocol implementation (RFC3261)"
+#~ msgstr "Tól til að kanna SIP samskiptareglur (RFC3261)"
+
+#~ msgid "SipBomber"
+#~ msgstr "SipBomber"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr "Þrívíður netleikur skrifaður í python- Keyra og klessa á"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "Music player"
+#~ msgstr "Forrit til að spila kvikmyndir"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr "Æsilegur skotleikur - safna kössum og skjóta sér undan kúlum"
+
+#~ msgid "Multitrack wave editor"
+#~ msgstr "Margrása hljóðvinnsla"
+
+#~ msgid "Songs"
+#~ msgstr "Söngvar"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "Gítargrip ritill"
+
+#~ msgid "An innovative pong like game"
+#~ msgstr "Hugmyndaríkur pong leikur"
+
+#~ msgid "SPE"
+#~ msgstr "SPE"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "Grass sem notar Spearfish grunninn"
+
+#~ msgid "MIDI software sampler"
+#~ msgstr "MIDI skráa spilari"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "Spiral Modular hljóðgerfilsforrit"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "Spiral Modular Synth"
+
+#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
+#~ msgstr "MIDI hljómborðseining fyrir ZynAddSubFX"
+
+#~ msgid "Spliter"
+#~ msgstr "Spliter"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "Project: Starfighter"
+
+#~ msgid "Star Voyager"
+#~ msgstr "Star Voyager"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "A rythm game"
+#~ msgstr "A rythm game"
+
+#~ msgid "StepMania"
+#~ msgstr "StepMania"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "Grafískt viðmót fyrir Samsung Uproar og Yepp"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "Sophisticated clock for the X Window system"
+#~ msgstr "Mjög fullkominn klukka fyrir X gluggakerfið"
+
+#~ msgid "Sunclock"
+#~ msgstr "Sunclock"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "VLC er ókeypis MPEG, MPEG2, DVD og DivX spilari"
+
+#~ msgid "VLC skinned GUI media player"
+#~ msgstr "VLC margmiðlunarspilari"
+
+#~ msgid "Software manager for WinCE devices"
+#~ msgstr "Hugbúnaðarstjórnun fyrir WinCE tæki"
+
+#~ msgid "Synce-software-manager"
+#~ msgstr "Synce Hugbúnaðarstjóri"
+
+#~ msgid "Sysprof"
+#~ msgstr "Sysprof"
+
+#~ msgid "System-wide Linux Profiler"
+#~ msgstr "Leita að flöskuhálsum í Linux kerfi"
+
+#~ msgid "Quick-configure menu"
+#~ msgstr "Quick valmyndastillingar"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "Ted, Rich Text Processor"
+#~ msgstr "Ted, góður textaritill"
+
+#~ msgid "Go chess for GNOME"
+#~ msgstr "Go tafl fyrir GNOME"
+
+#~ msgid "Tengen"
+#~ msgstr "Tengen"
+
+#~ msgid "Displays a 4D spinning hypercube"
+#~ msgstr "Sýnir hreyfingar tengings í fjórvíðu rúmi"
+
+#~ msgid "Tesseract Trainer"
+#~ msgstr "Tesseract þjálfari"
+
+#~ msgid "Tgif"
+#~ msgstr "Tgif"
+
+#~ msgid "JACK TimeMachine"
+#~ msgstr "JACK tímavél"
+
+#~ msgid "Records audio from ten seconds ago"
+#~ msgstr "Tekur upp hljóð sem heyrðust fyrir 10 sekúndum"
+
+#~ msgid "tn5250"
+#~ msgstr "tn5250"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "Kappakstursleikur"
+
+#~ msgid "Simple clone of Notepad"
+#~ msgstr "Einfaldur Notepad klón"
+
+#~ msgid "TPad"
+#~ msgstr "TPad"
+
+#~ msgid "Tremulous"
+#~ msgstr "Tremulous"
+
+#~ msgid "Trigger Rally"
+#~ msgstr "Trigger Rally"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Tuxedo T. Penguin: Leitin að síldinni"
+
+#~ msgid "Karting with tux"
+#~ msgstr "Kart með tux"
+
+#~ msgid "Fun game to learn math"
+#~ msgstr "Góður leikur til að læra stærðfræði"
+
+#~ msgid "TuxMathScrabble"
+#~ msgstr "TuxMathScrabble"
+
+#~ msgid "Clone of ShufflePuck Cafee"
+#~ msgstr "Klón af ShufflePuck Cafe"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "Educational typing tutor game starring Tux"
+#~ msgstr "Fingrasetning með mörgæsinni Tux"
+
+#~ msgid "TX"
+#~ msgstr "TX"
+
+#~ msgid "XML Editor"
+#~ msgstr "XML Ritill"
+
+#~ msgid "unison"
+#~ msgstr "unison"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "Ur-Quan Masters"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "Ur-Quan Masters"
+
+#~ msgid "Driving simulation"
+#~ msgstr "Bílhermir"
+
+#~ msgid "VDrift"
+#~ msgstr "VDrift"
+
+#~ msgid "3D OpenGL spaceflight simulator"
+#~ msgstr "Þrívíður OpenGL geimskotleikur"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "3D model assembler"
+#~ msgstr "Þrívíð módel bygging"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr "Hinn vinsæli Unix ritill VI með 'Vigor Assistant' viðbótum"
+
+#~ msgid "On-screen ALSA MIDI keyboard"
+#~ msgstr "ALSA MIDI Hljómborð á skjá"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr "VOCPhax (VOCP senda og skoða Föx)"
+
+#~ msgid ""
+#~ "VOCPhax presents a (hopefully) friendly and intuitive graphical interface "
+#~ "to view and send faxes"
+#~ msgstr ""
+#~ "VOCPhax er (vonandi) vinalegt grafískt viðmót til að senda og skoða föx"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "VICE SID músík spilari fyrir Commodore lög"
+
+#~ msgid "VSID music player"
+#~ msgstr "VSID Forrit til að spila músík"
+
+#~ msgid "VYM"
+#~ msgstr "VYM"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "Grafískur hljóðritill"
+
+#~ msgid "WaveSurfer"
+#~ msgstr "WaveSurfer"
+
+#~ msgid "Battle For Wesnoth editor"
+#~ msgstr "Styrjöldin um Wesnoth - Ritill"
+
+#~ msgid "The map editor of Battle for Wesnoth"
+#~ msgstr "Borðritill fyrir Styrjöldina um Wesnoth"
+
+#~ msgid "A fantasy turn-based strategy game."
+#~ msgstr "Herkænska og ævintýri."
+
+#~ msgid "Battle For Wesnoth"
+#~ msgstr "Styrjöldin um Wesnoth"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Frábær sleðaferð með mörgæsinni Tux"
+
+#~ msgid "Wherever Racer"
+#~ msgstr "Wherever Racer"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Settlers ll klón"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "Simple wireless network manager"
+#~ msgstr "Einföld umsjón með þráðlausum netum"
+
+#~ msgid "WIFI radar"
+#~ msgstr "WIFI radar"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Þráðlaust staðarnet - uppsetning"
+
+#~ msgid "Lunuar Ephemeris status docklet"
+#~ msgstr "Bakkaforrit sem sýnir tunglstöðu"
+
+#~ msgid "wmMoonClock"
+#~ msgstr "wmMoonClock"
+
+#~ msgid "Battery/Power status monitor for WindowMaker on laptops"
+#~ msgstr "Rafhlöðu/afl-staða eftirlit fyrir WindowMaker á ferðatölvum"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "Battery status docklet"
+#~ msgstr "Bakkaforrit sem sýnir stöðu rafhlöðu"
+
+#~ msgid "WMbattery"
+#~ msgstr "WMbattery"
+
+#~ msgid "WindowMaker dock application for linuxfr-addicted people"
+#~ msgstr "WindowMaker bakkaforrit fyrir linuxfr-háða"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "Eftirlit með örgjörva í kerfisbakkanum"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "An app to monitor disk IO and available space on partitions"
+#~ msgstr ""
+#~ "forrit til að fylgjast með diskvinnslu og lausu plássi á disksneiðum"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr "Bakkaforrit sem sýnir örgjörvaálag sem loga í lítilli táknmynd"
+
+#~ msgid "Analog clock in a tank fish"
+#~ msgstr "Skífuklukka í fiskabúri"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr "Bakkaforrit sem sýnir jörðina snúast í táknmynd"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "Dockapp OSS sound mixer"
+#~ msgstr "Bakkaforrit OSS hljóðblöndun"
+
+#~ msgid "WMix"
+#~ msgstr "WMix"
+
+#~ msgid "Laptop status docklet"
+#~ msgstr "Bakkaforrit sem sýnir stöðuferðavélar"
+
+#~ msgid "WMLaptop"
+#~ msgstr "WMLaptop"
+
+#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
+#~ msgstr "Bakkaforrit fyrir WindowMaker sem fylgist með minni/biðminni"
+
+#~ msgid "A dockapp for monitoring network interfaces"
+#~ msgstr "Bakkaforrit sem fylgist með nettengjum"
+
+#~ msgid "wmnd"
+#~ msgstr "wmnd"
+
+#~ msgid "UPS monitoring in a dockapp"
+#~ msgstr "Eftirlit með UPS í kerfisbakkanum"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
+#~ msgstr ""
+#~ "Kerfisbakkaforrit sem hefur eftirlit með mörgum pósthólfum (notar pop3)"
+
+#~ msgid "Dockapp sound mixer adjustable with mouse wheel"
+#~ msgstr "Bakkforrit - hljóðblandari stillanlegur með músarhjóli"
+
+#~ msgid "WmsMixer"
+#~ msgstr "WmsMixer"
+
+#~ msgid "A stock quote data display in a small icon"
+#~ msgstr "Bakkaforrit sem sýnir stöðu verðbéfa í lítilli táknmynd"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr "Kerfisupplýsingar (minni, sýndarminni,uppitími, IÚ) sem táknmynd"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "Watch your own webcam in a small dockapp window"
+#~ msgstr "Horfðu á vefmyndavélina þína sem táknmynd í bakkanum"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WMWifi"
+#~ msgstr "WMWifi"
+
+#~ msgid "Wireless network docklet"
+#~ msgstr "Bakkaforrit sem sýnir stöðu Þráðlausrar nettengingar"
+
+#~ msgid "Frontend for xscreensaver in a dock.app"
+#~ msgstr "Viðmót fyrir xscreensaver sem bakkaforrit"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
+#~ msgstr "Skráarstjóri, svipaður Directory Opus á AMIGA"
+
+#~ msgid "Worker"
+#~ msgstr "Worker"
+
+#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
+#~ msgstr "Aðstoðar við að bæta og fyrirbyggja álagsmeiðsli"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "A GUI builder for wxWindows/wxPython"
+#~ msgstr "Grafískt þróunatól fyrir wxWindows/wxPython"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "C128 Hermir"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Commodore 128 Hermir"
+
+#~ msgid "HP48 Emulator"
+#~ msgstr "HP48 Emulator"
+
+#~ msgid "x48"
+#~ msgstr "x48"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "C64 Hermir"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Commodore 64 Hermir"
+
+#~ msgid "Realtime fractal zoomer"
+#~ msgstr "Rauntíma brotaaðdráttur"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "ARCHON klón"
+
+#~ msgid "Defend your computers from Wingdows Viruses"
+#~ msgstr "Verja tölvurnar þínar gegn Wingdows vírusum"
+
+#~ msgid "XBill"
+#~ msgstr "XBill"
+
+#~ msgid "X blast"
+#~ msgstr "X blast"
+
+#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
+#~ msgstr "XBlast TNT er bomberman leikur (Netleikur)"
+
+#~ msgid "View and manage a wine cellar"
+#~ msgstr "Skoða og sýsla með vínkjallarann"
+
+#~ msgid "XCave"
+#~ msgstr "XCave"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "CBM2 Hermir"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Commodore BM 2 Hermir"
+
+#~ msgid "X-CD-Roast"
+#~ msgstr "X-CD-Roast"
+
+#~ msgid "CHM viewer for UNIX"
+#~ msgstr "CHM skoðari fyrir UNIX"
+
+#~ msgid "Xchm"
+#~ msgstr "Xchm"
+
+#~ msgid "Electronic circuit schematic drawing program"
+#~ msgstr "Rafrásateikniforrit"
+
+#~ msgid "XCircuit"
+#~ msgstr "XCircuit"
+
+#~ msgid "Xconq SDL interface"
+#~ msgstr "SDL viðmót fyrir Xconq"
+
+#~ msgid "Xconq Tk interface"
+#~ msgstr "Tk viðmót fyrir Xconq"
+
+#~ msgid "DVI files viewer"
+#~ msgstr "Birta TeX DVI-skjöl"
+
+#~ msgid "XDvi"
+#~ msgstr "XDvi"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Siag textaritill"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "The XEmacs editor"
+#~ msgstr "XEmacs ritillinn"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Siag Skráastjóri"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "An X11 client for Internet Go Server"
+#~ msgstr "Grafískt viðmót fyrir nettengdan Go miðlara"
+
+#~ msgid "xgospel"
+#~ msgstr "xgospel"
+
+#~ msgid "A puzzle game"
+#~ msgstr "Þrautaleikur"
+
+#~ msgid "xlogical"
+#~ msgstr "xlogical"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmms"
+#~ msgstr "Xmms"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "Motocross platform game"
+#~ msgstr "Motocross leikur"
+
+#~ msgid "X-Moto"
+#~ msgstr "X-Moto"
+
+#~ msgid "Mr. Is, a Mr. Do clone for X"
+#~ msgstr "Mr. Is, Mr. Do klón fyrir X"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Display penguins running on your desktop."
+#~ msgstr "Sýnir mörgæsir hlaupandi um á skjánum."
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Commodore PET Hermir"
+
+#~ msgid "PET Emulator"
+#~ msgstr "PET Hermir"
+
+#~ msgid "Fly/shoot arcade game"
+#~ msgstr "Fljúga/skjóta skotleikur"
+
+#~ msgid "Xpilot server"
+#~ msgstr "Xpilot þjónn"
+
+#~ msgid "Xpilot - Requires server"
+#~ msgstr "Xpilot - Þarfnast þjóns"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "CPLU4 Hermir"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Commodore PLUS4 Hermir"
+
+#~ msgid "xpn"
+#~ msgstr "xpn"
+
+#~ msgid "News reader"
+#~ msgstr "Fréttaskoðari"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "Tool for manipulating software packages"
+#~ msgstr "Forrit til að sýsla með forritapakka"
+
+#~ msgid "Cool arcade/thinking game very much like Lode Runner"
+#~ msgstr "Flottur hraða/þrauta leikur mjög líkur Lode Runner"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "Clone of Scorched Earth"
+#~ msgstr "Klón af Scorched Earth"
+
+#~ msgid "XScorch"
+#~ msgstr "XScorch"
+
+#~ msgid "Siag Office spreadsheet"
+#~ msgstr "Siag Office Töflureiknir"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "QT útgáfa af C64 tónlistaspilaranum"
+
+#~ msgid "Xsidplay"
+#~ msgstr "Xsidplay"
+
+#~ msgid "The Skat game"
+#~ msgstr "Skat leikurinn"
+
+#~ msgid "Xskat"
+#~ msgstr "Xskat"
+
+#~ msgid "Fullscreen gesture recognition"
+#~ msgstr "Ráða í hreyfingar músatæka"
+
+#~ msgid "X-Tux"
+#~ msgstr "X-Tux"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Commodore VIC 20 Hermir"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "VIC 20 Hermir"
+
+#~ msgid "On-screen keyboard for X"
+#~ msgstr "X Lyklaborð á skjá"
+
+#~ msgid "Virtual Keyboard"
+#~ msgstr "Sýndarlyklaborð"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (VOCP grafískur símsvari)"
+
+#~ msgid ""
+#~ "Xvocp presents a graphical user interface to the contents of voice mail "
+#~ "boxes"
+#~ msgstr "Xvocp er grafískt viðmót á innihald talhólfa"
+
+#~ msgid "A level editor for DOOM"
+#~ msgstr "Borðaritill fyrir DOOM"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Yudit"
+#~ msgstr "Yudit"
+
+#~ msgid "Real-time MIDI software synth"
+#~ msgstr "Rauntíma MIDI hljóðgerfill"
+
+#~ msgid "ManiaDrive"
+#~ msgstr "ManiaDrive"
+
+#~ msgid "Marlin Sample Editor"
+#~ msgstr "Marlin hljóðbrotaritill"
+
+#~ msgid "A computer algebra system for the console"
+#~ msgstr "Tölvuvætt algebrulausnarkerfi fyrir skjáhermi"
+
+#~ msgid "Computer Algebra System"
+#~ msgstr "Algebru lausnarkerfi"
+
+#~ msgid "Mathomatic"
+#~ msgstr "Mathomatic"
+
+#~ msgid "Battery Monitor"
+#~ msgstr "Rafhlöðueftirlit"
+
+#~ msgid "Panel based Battery Monitor"
+#~ msgstr "Rafhlöðueftirlit í bakkann"
+
+#~ msgid "Panel based clock"
+#~ msgstr "Klukka í bakkann"
+
+#~ msgid "App Launcher"
+#~ msgstr "Forritaræsir"
+
+#~ msgid "CPU/Mem Monitor"
+#~ msgstr "Örgjörva/minnis-eftirlit"
+
+#~ msgid "Panel based Volume control"
+#~ msgstr "Hljóð-styrkhnappur sem dettur í bakkann"
+
+#~ msgid "Volume control"
+#~ msgstr "Hljóð-styrkstilling"
+
+#~ msgid "Panel based wireless monitor"
+#~ msgstr "Spjaldforrit sem sýnir stöðu þráðlauss nets"
+
+#~ msgid "Wireless Monitor"
+#~ msgstr "Ástand þráðlauss nets"
+
+#~ msgid "Term Launcher"
+#~ msgstr "Term ræsir"
+
+#~ msgid "Manage panel configuration "
+#~ msgstr "Sýsla með stillingar spjalds "
+
+#~ msgid "Panel Manager"
+#~ msgstr "Spjaldstjórnun"
+
+#~ msgid "Input Manager"
+#~ msgstr "Inntaksstjórnun"
+
+#~ msgid "Text editor"
+#~ msgstr "Textaritill"
+
+#~ msgid "medit"
+#~ msgstr "medit"
+
+#~ msgid "MegaMek"
+#~ msgstr "MegaMek"
+
+#~ msgid "Play MegaMek"
+#~ msgstr "Spila MegaMek"
+
+#~ msgid "Compare and merge your files"
+#~ msgstr "Bera saman og bræða saman skrár"
+
+#~ msgid "Check a program for leaks and analyze its memory usage"
+#~ msgstr "Athuga leka í forritum og kanna minnisnotkun"
+
+#~ msgid "Memory Profiler"
+#~ msgstr "Minnisnotkunartól"
+
+#~ msgid "Database Administration"
+#~ msgstr "Gagnagrunnsstjórnun"
+
+#~ msgid "Maintain and query a SQL database"
+#~ msgstr "Halda við og flakka um SQL gagnagrunn"
+
+#~ msgid "Mergeant Database Administration"
+#~ msgstr "Mergeant Gagnagrunnsstjórnun"
+
+#~ msgid "GIS Application"
+#~ msgstr "GIS forrit"
+
+#~ msgid "Perform Postgis Operations"
+#~ msgstr "Framkvæma rannsóknir á og með GIS gögnum"
+
+#~ msgid "mezoGIS"
+#~ msgstr "mezoGIS"
+
+#~ msgid "Lightweight web browser"
+#~ msgstr "Léttur vef-vafri"
+
+#~ msgid "Midori"
+#~ msgstr "Midori"
+
+#~ msgid "A fast GTK+ Image Viewer"
+#~ msgstr "Hraður GTK+ Myndavafri"
+
+#~ msgid "Mirage"
+#~ msgstr "Mirage"
+
+#~ msgid "Internet TV"
+#~ msgstr "Internet TV"
+
+#~ msgid "Miro Internet TV"
+#~ msgstr "Miro Internet TV"
+
+#~ msgid "Watch online video"
+#~ msgstr "Horfa á kvikmyndir af netinu"
+
+#~ msgid "A digital DJ interface"
+#~ msgstr "Stafrænn plötusnúður"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "A generic simple XML editor for GNOME"
+#~ msgstr "Almennur einfaldur XML ritill fyrir GNOME"
+
+#~ msgid "MlView Generic XML Editor"
+#~ msgstr "MIView almennur XML ritill"
+
+#~ msgid "MlView XML Editor"
+#~ msgstr "MIView XML ritill"
+
+#~ msgid "3D Modeler"
+#~ msgstr "3d módel"
+
+#~ msgid "3D modeling program"
+#~ msgstr "Þrívíddar-módel-teikniforrit"
+
+#~ msgid "mm3d"
+#~ msgstr "mm3d"
+
+#~ msgid "Monkey Bubble"
+#~ msgstr "Monkey Bubble"
+
+#~ msgid "Monkey Bubble Arcade Game"
+#~ msgstr "Monkey Bubble spilakassaleikur"
+
+#~ msgid "Develop .NET applications in an Integrated Development Environment"
+#~ msgstr "Hanna .NET forrit í gagnvirku þróunar-umhverfi"
+
+#~ msgid "MonoDevelop"
+#~ msgstr "MonoDevelop"
+
+#~ msgid "Mash monsters and save the gnomes"
+#~ msgstr "Kremja skrímsli og bjarga dvergum"
+
+#~ msgid "Monster Masher"
+#~ msgstr "Monster Masher"
+
+#~ msgid "Play movies and songs on TV with remote"
+#~ msgstr "Spila myndir og lög í sjónvarpinu með fjarstýringu"
+
+#~ msgid "GGZ Utility"
+#~ msgstr "GGZ tól"
+
+#~ msgid "MOTD Editor"
+#~ msgstr "MOTD ritill"
+
+#~ msgid "Message Of The Day creation"
+#~ msgstr "Búa til skilaboð dagsins"
+
+#~ msgid "Mousepad"
+#~ msgstr "Mousepad"
+
+#~ msgid "MuseScore"
+#~ msgstr "MuseScore"
+
+#~ msgid "mscore"
+#~ msgstr "mscore"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Hlusta á mína tónlist"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Muine tónlistarspilari"
+
+#~ msgid "MySQL Administration Tool"
+#~ msgstr "MySQL Stjórnforrit"
+
+#~ msgid "MySQL Administrator"
+#~ msgstr "MySQL Stjórnforrit"
+
+#~ msgid "MySQL Query Browser"
+#~ msgstr "MySQL fyrirspurnarvafri"
+
+#~ msgid "MySQL Query Tool"
+#~ msgstr "MySQL fyrirspurnar-tól"
+
+#~ msgid "MySQL Database Design Tool"
+#~ msgstr "MySQL Gagnagrunns-hönnunartól"
+
+#~ msgid "MySQL Workbench"
+#~ msgstr "MySQL Vinnustöð"
+
+#~ msgid "Navit"
+#~ msgstr "Navit"
+
+#~ msgid "C/C++ Debugger"
+#~ msgstr "C/C++ aflúsari"
+
+#~ msgid "Nemiver Debugger"
+#~ msgstr "Nemiver aflúsari"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "Stilla nettæki og tengingar"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Nexuiz (glx client)"
+#~ msgstr "Nexuiz (glx biðlari)"
+
+#~ msgid "Nexuiz (sdl client)"
+#~ msgstr "Nexuiz (sdl client)"
+
+#~ msgid "nip2"
+#~ msgstr "nip2"
+
+#~ msgid "NodeView"
+#~ msgstr "NodeView"
+
+#~ msgid "The central control program of the OpenKiosk system"
+#~ msgstr "Stjórnborð fyrir OpenKiosk kerfið"
+
+#~ msgid "Downloader for X"
+#~ msgstr "Niðurhalari fyrir X"
+
+#~ msgid "Enable/disable write support for NTFS with a simple click."
+#~ msgstr "Virkja/Aftengja skriftar-stuðning á NTFS með einum smell."
+
+#~ msgid "OpenCity"
+#~ msgstr "OpenCity"
+
+#~ msgid "Pioneers Editor"
+#~ msgstr "Pioneers ritill"
+
+#~ msgid "Pioneers Server"
+#~ msgstr "Pioneers Miðlari"
+
+#~ msgid "Pioneers"
+#~ msgstr "Pioneers"
+
+#~ msgid "Poker Card Game"
+#~ msgstr "Pókerspil"
+
+#~ msgid "A video editing and demultiplexing tool"
+#~ msgstr "Myndvinnsla og klipping"
+
+#~ msgid "ProjectX"
+#~ msgstr "ProjectX"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Visual process manager"
+#~ msgstr "Myndrænn forrita-ferlaskoðari"
+
+#~ msgid "Quod Libet"
+#~ msgstr "Quod Libet"
+
+#~ msgid "Organize and secure your passwords"
+#~ msgstr "Sýsla með og varðveita lykilorð"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Configure which services will be run when the system starts"
+#~ msgstr "Stilla hvaða þjónustur verða keyrðar þegar kerfið er ræst"
+
+#~ msgid "Services"
+#~ msgstr "Þjónustur"
+
+#~ msgid "Shared Folders"
+#~ msgstr "Deildar möppur"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "AT-SPI Browser"
+#~ msgstr "AT-SPI flakkari"
+
+#~ msgid "Sound Converter"
+#~ msgstr "Hljóð breytir"
+
+#~ msgid "Stopmotion"
+#~ msgstr "Stopmotion"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Proc Stillingar"
+
+#~ msgid "Terminal Server Administration"
+#~ msgstr "Stjórnun Skjá-miðlara"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "Breyta kerfistíma, dagsetningu og tímabelti"
+
+#~ msgid "Time and Date"
+#~ msgstr "Tími og dagsetning"
+
+#~ msgid "Simple DVD mastering GUI"
+#~ msgstr "Einföld DVD kaflavinnsla"
+
+#~ msgid "TkDVD"
+#~ msgstr "TkDVD"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "Terminal Server biðlari"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Tux Paint: Teikniforrit fyrir alla krakka."
+
+#~ msgid "Drawing program"
+#~ msgstr "Teikniforrit"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Twinkle"
+#~ msgstr "Twinkle"
+
+#~ msgid "Urlgfe"
+#~ msgstr "Urlgfe"
+
+#~ msgid "Users and Groups"
+#~ msgstr "Notendur og hópar"
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid ""
+#~ "A translation tool to help a human translator translate files into other "
+#~ "languages"
+#~ msgstr ""
+#~ "Þýðingartól til að hjálpa mannlegum þýðanda að þýða skrár yfir í önnur "
+#~ "tungumál"
+
+#~ msgid "Virtaal"
+#~ msgstr "Virtaal"
+
+#~ msgid "VLC media player"
+#~ msgstr "VLC margmiðlunarspilari"
+
+#~ msgid "Postnuclear realtime strategy"
+#~ msgstr "Rauntíma herkænskuleikur"
+
+#~ msgid "Warzone 2100"
+#~ msgstr "Warzone 2100"
+
+#~ msgid "Wormux"
+#~ msgstr "Wormux"
+
+#~ msgid "wxMaxima"
+#~ msgstr "wxMaxima"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "IBM 3270 Skjáhermir"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "Xarchiver"
+#~ msgstr "Xarchiver"
+
+#~ msgid "Chat with people using IRC"
+#~ msgstr "Spjalla við fólk með IRC"
+
+#~ msgid "XChat-GNOME IRC Chat"
+#~ msgstr "XChat-GNOME IRC-spjall"
+
+#~ msgid "DOS emulator running under X"
+#~ msgstr "DOS hermir keyrandi undir X"
+
+#~ msgid "XdTV"
+#~ msgstr "XdTV"
+
+#~ msgid "Workspaces"
+#~ msgstr "Vinnusvæði"
+
+#~ msgid "Sticky Notes"
+#~ msgstr "Litlir gulir miðar"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"
+
+#~ msgid "VoIP Phone"
+#~ msgstr "Net-Sími"
+
+#~ msgid "Google Earth Install"
+#~ msgstr "Google Earth uppsetning"
+
+#~ msgid "Sun Java 1.5.0 Plugin Control Panel"
+#~ msgstr "Sun Java 1.5.0 Íforritsstjórnborð"
+
+#~ msgid "Sun Java 1.5.0 Web Start"
+#~ msgstr "Sun Java 1.5.0 Web Start"
+
+#~ msgid "Sun Java 1.5.0 Console"
+#~ msgstr "Sun Java 1.5.0 Stjórnskjár"
+
+#~ msgid "Sun Java 1.5.0 Monitoring & Management Console"
+#~ msgstr "Sun Java 1.5.0 Eftirlit og Stjórnborð"
+
+#~ msgid "Sun Java 1.5.0 Policy Tool"
+#~ msgstr "Sun Java 1.5.0 Reglutól"
+
+#~ msgid "Sun Java 1.6.0 Plugin Control Panel"
+#~ msgstr "Sun Java 1.6.0 Íforritsstjórnborð"
+
+#~ msgid "Sun Java 1.6.0 Web Start"
+#~ msgstr "Sun Java 1.6.0 Web Start"
+
+#~ msgid "Sun Java 1.6.0 Cache Viewer"
+#~ msgstr "Sun Java 1.6.0 Skyndiminnisskoðari"
+
+#~ msgid "Sun Java 1.6.0 Console"
+#~ msgstr "Sun Java 1.6.0 Stjórnskjár"
+
+#~ msgid "Sun Java 1.6.0 Monitoring & Management Console"
+#~ msgstr "Sun Java 1.6.0 Eftirlit og Stjórnborð"
+
+#~ msgid "Sun Java 1.6.0 Policy Tool"
+#~ msgstr "Sun Java 1.6.0 Reglutól"
+
+#~ msgid "FreeCol"
+#~ msgstr "FreeCol"
+
+#~ msgid "FreeCol is an open version of the game Colonization"
+#~ msgstr "FreeCol er opin útgáfa af Colonization leiknum"

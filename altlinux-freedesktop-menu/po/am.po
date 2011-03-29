@@ -1,0 +1,1015 @@
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/am.php3
+#
+# Copyright (C) 2000 MandrakeSoft
+# Alemayehu Gemeda <alemayehu@gmx.at>, 2004, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages-main-am\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2005-01-28 00:06+0100\n"
+"Last-Translator: Alemayehu <alemayehu@gmx.at>\n"
+"Language-Team: Amharic <am-translate@geez.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "ንድፍ"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "ንድፍ"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "ቀላል የምስል ተመልካች"
+
+msgid "Accessibility"
+msgstr "የመገኘት ሁኔታ"
+
+#, fuzzy
+msgid "Action"
+msgstr "ትምህርት"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Adventure"
+msgstr "አደገኛ ሁኔታ"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "አደገኛ ሁኔታ"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "መጠቀሚያ ፕሮግራሞች"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "መጠቀሚያ ፕሮግራሞች"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "አርኬድ"
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "የመዝገብ ቤት መቆጣጠሪያ"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "የፈለክ ጥናት"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "የፈለክ ጥናት"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "የመገናኛ ብዙኃን አጫዋች"
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "ባዮሎጂ"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "ባዮሎጂ"
+
+#, fuzzy
+msgid "Board Games"
+msgstr "ቦርዶች"
+
+msgid "Boards"
+msgstr "ቦርዶች"
+
+msgid "Building"
+msgstr ""
+
+#, fuzzy
+msgid "Calculator"
+msgstr "ተስተካካዮች"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "ተስተካካዮች"
+
+msgid "Calendar"
+msgstr "ካለንደር"
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "ጨዋታዎች"
+
+msgid "Cards"
+msgstr "ካርዶች"
+
+#, fuzzy
+msgid "Chart"
+msgstr "ቻድ"
+
+#, fuzzy
+msgid "Chat"
+msgstr "ቻድ"
+
+msgid "Chemistry"
+msgstr "ኬሚስትሪ"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "ኬሚስትሪ"
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "መጠቀሚያ ፕሮግራሞች"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "ኮምፒውተር ሳይንስ"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "ኮምፒውተር ሳይንስ"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "ኮምፒውተር ሳይንስ"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "ኮምፒውተር ሳይንስ"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "የማስተካከያው አራሚ"
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "ዳታቤዝ"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "ተጨማሪ መጠቀሚያ ፕሮግራሞች"
+
+#, fuzzy
+msgid "Desktop"
+msgstr "የገበታ ካለንደር"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "እድገት"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "መዝገበ ቃላት"
+
+msgid "Dictionary"
+msgstr "መዝገበ ቃላት"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "ማስረጃ"
+
+#, fuzzy
+msgid "Economy"
+msgstr "የፈለክ ጥናት"
+
+msgid "Editors"
+msgstr "አርትኢዎች"
+
+msgid "Education"
+msgstr "ትምህርት"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "ደህንነት"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "መጠቀሚያ ፕሮግራሞች"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "ተስተካካዮች"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "የፋይል ጉባኤ"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "ሲስተም"
+
+msgid "File Transfer"
+msgstr ""
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "የመጻፊያ መሳሪያዎች"
+
+#, fuzzy
+msgid "Finances"
+msgstr "ሳይንስ"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "ኖም"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "ተጨማሪ መጠቀሚያ ፕሮግራሞች"
+
+msgid "Games"
+msgstr "ጨዋታዎች"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "ባዮሎጂ"
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "የስነ-ምድር ሳይንስ"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "የስነ-ምድር ሳይንስ"
+
+msgid "Geosciences"
+msgstr "የስነ-ምድር ሳይንስ"
+
+msgid "Graphics"
+msgstr "ንድፍ"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "ሀርድዌር"
+
+msgid "History"
+msgstr "ታሪክ"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "መጠቀሚያ ፕሮግራሞች"
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "IRC clients"
+msgstr ""
+
+#, fuzzy
+msgid "Image Processing"
+msgstr "የምስል መቃኛ"
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "ኢንተርኔት"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "ተጨማሪ መጠቀሚያ ፕሮግራሞች"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "ቋንቋዎች"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "የስነ አእምሮ ጨዋታ"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "ሂሳብ"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+msgid "Mixers"
+msgstr ""
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "FontForg"
+
+msgid "Multimedia"
+msgstr "የመገናኛ ብዙሃን"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "የመገናኛ ብዙሃን"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "የመገናኛ ብዙኃን አጫዋች"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "የመገናኛ ብዙኃን አጫዋች"
+
+#, fuzzy
+msgid "Music"
+msgstr "መጠቆሚያ"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "መረብ"
+
+msgid "Network-related settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "ቢሮ"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "ሌላ"
+
+msgid "P2P"
+msgstr ""
+
+msgid "P2P programs"
+msgstr ""
+
+msgid "PDA"
+msgstr ""
+
+msgid "Package manager applications"
+msgstr ""
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "ምርጫዎች"
+
+#, fuzzy
+msgid "Personal"
+msgstr "ተርሚናል"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "ፊዚክስ"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "ፊዚክስ"
+
+msgid "Preferences"
+msgstr "ምርጫዎች"
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "ማስረጃ"
+
+msgid "Printing"
+msgstr "ህትመት"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "የዕቅድ ጉባኤ"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "የዕቅድ ጉባኤ"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "ንድፍ"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+#, fuzzy
+msgid "Science"
+msgstr "ሳይንስ"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "የመመልከቻው አዳኝ"
+
+msgid "Security"
+msgstr "ደህንነት"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "ደህንነት"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "ሳይንስ"
+
+msgid "Settings"
+msgstr "ይዞታዎች"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "ትምህርት"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "ድምፅ"
+
+msgid "Sports"
+msgstr "ስፖርት"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "ስፖርት"
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "እቅድ"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "እቅድ"
+
+msgid "System"
+msgstr "ሲስተም"
+
+#, fuzzy
+msgid "System settings"
+msgstr "የኅትመት ስርዓት ስየማዎች"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "ተጨማሪ መጠቀሚያ ፕሮግራሞች"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "መጠቀሚያ ፕሮግራሞች"
+
+msgid "Telephony"
+msgstr ""
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "የመጻፊያ መሳሪያዎች"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+msgid "Terminal emulator applications"
+msgstr ""
+
+#, fuzzy
+msgid "Terminals"
+msgstr "ተርሚናል"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "የመጻፊያ መሳሪያዎች"
+
+msgid "Text tools"
+msgstr "የመጻፊያ መሳሪያዎች"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "መሳሪያዎች"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "መሣሪያዎች ለሶፍትዌር መሻሻል"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "ተጨማሪ መጠቀሚያ ፕሮግራሞች"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "አሻንጉሊቶች"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "ንድፍ"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "ምርጫዎች"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "የመገናኛ ብዙኃን አጫዋች"
+
+msgid "Video Recorders"
+msgstr ""
+
+#, fuzzy
+msgid "Viewers"
+msgstr "የምስል ተመልካች"
+
+msgid "Web Browsing"
+msgstr ""
+
+#, fuzzy
+msgid "Web Development"
+msgstr "እድገት"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> ምን ማድረግ?"
+
+#~ msgid "Edutainment"
+#~ msgstr "ትምህርት"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "ሌሎች"
+
+#~ msgid "Shells"
+#~ msgstr "ሼሎች"
+
+#~ msgid "Servers"
+#~ msgstr "ሰርቨሮች"
+
+#~ msgid "Wine"
+#~ msgstr "ወይን"
+
+#~ msgid "Advanced"
+#~ msgstr "ጠለቅ"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "ጠለቅ ምርጫዎች"
+
+#~ msgid "Information"
+#~ msgstr "መረጃ"
+
+#~ msgid "Accessories"
+#~ msgstr "አጋዥ ፕሮግራሞች"
+
+#~ msgid "Networking"
+#~ msgstr "መረብ"
+
+#~ msgid "Peripherals"
+#~ msgstr "ዳርቻዎች"
+
+#~ msgid "Development Environments"
+#~ msgstr "የእድገት አካባቢዎች"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ድምጽ እና ቪዲዮ"
+
+#~ msgid "Puzzles"
+#~ msgstr "እንቆቅልሾች"
+
+#~ msgid "Appearance"
+#~ msgstr "አቀራረብ"
+
+#~ msgid "Panel"
+#~ msgstr "ፓነል"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Simple text editor"
+#~ msgstr "ቀላል የጽሑፍ ማረሚያ"
+
+#~ msgid "F-Spot"
+#~ msgstr "F-Spot"
+
+#~ msgid "Text Editor"
+#~ msgstr "የጽሑፍ ማቀናጃ"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "ከኖም መረጃ አግኝ"
+
+#~ msgid "Help"
+#~ msgstr "መረጃ"
+
+#~ msgid "Document Viewer"
+#~ msgstr "የሰነድ ተመልካች"
+
+#~ msgid "Home Folder"
+#~ msgstr "የቤት ዶሴ"
+
+#~ msgid "Search"
+#~ msgstr "ፈልግ..."
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "Home"
+#~ msgstr "መጀመሪያ"
+
+#~ msgid "Welcome"
+#~ msgstr "እንኳን ደህና መጡ"
+
+#~ msgid "Hex Editor"
+#~ msgstr "የHex ማቀናጃ"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "የፊደል ሠሌዳው አቋራጭ"
+
+#~ msgid "Windows"
+#~ msgstr "መስኮቶች"
+
+#~ msgid "Browse the Web"
+#~ msgstr "ዌብን ይቃኙ"
+
+#~ msgid "Keyboard"
+#~ msgstr "የፊደል ገበታ"
+
+#~ msgid "Mahjongg"
+#~ msgstr "ማህጆንግ"
+
+#~ msgid "Database"
+#~ msgstr "ዳታቤዝ"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "Edit text files"
+#~ msgstr "የጽሑፍ ፋይሎች ያስተካክሉ"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "View and organize your images"
+#~ msgstr "ምስሎችዎን ይመልከቱና ያዋቅሩ"
+
+#~ msgid "Window Manager"
+#~ msgstr "ማስኮት አስተዳዳሪ"
+
+#~ msgid "AbiWord"
+#~ msgstr "አቢወርድ"
+
+#~ msgid "Extra session preferences"
+#~ msgstr "የተጨማሪ ክፍለ ጊዜ ምርጫዎች"
+
+#~ msgid "Network Monitor"
+#~ msgstr "የመረብ መቆጣጠሪያ"
+
+#~ msgid "Abuse"
+#~ msgstr "አሰቃይ"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "FVWM የመስኮቶች መቆጣጠሪያ"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "3D የካርታ ተመልካች"
+
+#~ msgid "Internet telephone"
+#~ msgstr "የኢንተርኔት ስልክ"
+
+#~ msgid "Kodos"
+#~ msgstr "Kodos"
+
+#~ msgid "Panel Manager"
+#~ msgstr "ፓነል  አስተዳዳሪ"
+
+#~ msgid "Mousepad"
+#~ msgstr "የአይጥ-ስጋጃ"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Services"
+#~ msgstr "አገልግሎቶች"
+
+#~ msgid "Users and Groups"
+#~ msgstr "ተጠቃሚዎች እና መድረኮች"
+
+#~ msgid "Orage"
+#~ msgstr "ዖራጌ"
+
+#~ msgid "Window Manager Tweaks"
+#~ msgstr "የመስኮት አስተዳዳሪ ማሰማመር"
+
+#~ msgid "Calendar Settings"
+#~ msgstr "ካለንደር ስየማዎች"
+
+#~ msgid "Settings for the Xfce 4 Calendar Application"
+#~ msgstr "የሸፍሲ 4 ካለንደር ስየማዎች"
+
+#~ msgid "Xfce 4 Calendar Settings"
+#~ msgstr "የሸፍሲ 4 ካለንደር ስየማዎች"
+
+#~ msgid "Print Manager"
+#~ msgstr "የህትመት አስተዳዳሪ"
+
+#~ msgid "Show the printer list and allow you to manage their jobs"
+#~ msgstr "ያሉትን ማተሚያዎች በማሳየት ለማስተዳደር ያስችልዎታል"
+
+#~ msgid "Xfce 4 Print Manager"
+#~ msgstr "የሸፍሲ 4 የህትመት አስተዳዳሪ"
+
+#~ msgid ""
+#~ "Allow you to select the printing system backend that xfprint will use"
+#~ msgstr "የሸፍሲ ኅትመት ስርዓት የሚጠቀምበትን የጀርባ-ስርዓትለመምረጥ ያስችልዎታል"
+
+#~ msgid "Xfce 4 Printing System Settings"
+#~ msgstr "የሸፍሲ 4 የኅትመት ስርዓት ስየማዎች"
+
+#~ msgid "Print Dialog"
+#~ msgstr "የኅትመት መጠይቅ"
+
+#~ msgid "Print a file and allow you to set up its layout"
+#~ msgstr "ፋይልስ ለማተምና የገጽ አጣጣሉን ለመሰየም ያስችሎታል"
+
+#~ msgid "Xfce 4 Print Dialog"
+#~ msgstr "የሸፍሲ 4 የኅትመት መጠይቅ"

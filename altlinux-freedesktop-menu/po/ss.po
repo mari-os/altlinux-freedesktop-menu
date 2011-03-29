@@ -1,0 +1,861 @@
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ss.php3
+#
+#
+# Copyright (C) 2000 MandrakeSoft
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 1999-08-25 11:07+0200\n"
+"Last-Translator: Nobody\n"
+"Language-Team: ss\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Titfombe-mdvwebo"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Ticelo tesikhungo"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Titfombe-mdvwebo"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "A clock application/applet"
+msgstr ""
+
+msgid "A simple amusement"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "Kutfolakala kalula"
+
+#, fuzzy
+msgid "Action"
+msgstr "Sicelo"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Sicelo"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Sicelo"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr ""
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Audio plejer"
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Imidlalo"
+
+msgid "Boards"
+msgstr ""
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr ""
+
+msgid "Calculators"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Imidlalo"
+
+msgid "Cards"
+msgstr ""
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "Umlandvo"
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "Sicelo"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr ""
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+msgid "Computer science"
+msgstr ""
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Sicelo"
+
+msgid "Desktop"
+msgstr "Desktop "
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Kundlondlobala"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Kugcinwa"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "Bahleli"
+
+#, fuzzy
+msgid "Education"
+msgstr "Ingucuko letentakalekako"
+
+msgid "Electricity"
+msgstr ""
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "Bahleli"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Siphatsi selifayela"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Umshini"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Siphatsi selifayela"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr ""
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Umhleli weQt "
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Games"
+msgstr "Imidlalo"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr "Imidlalo yebantfwana"
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr "Titfombe-mdvwebo"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "History"
+msgstr "Umlandvo"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Sicelo"
+
+msgid "IRC"
+msgstr ""
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "I-Rogue-lefana nemidlalo"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr ""
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+msgid "Mixers"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Tinhlobonhlobo-tetindzaba"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Tinhlobonhlobo-tetindzaba"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Tinhlobonhlobo-tetindzaba"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Tinhlobonhlobo-tetindzaba"
+
+#, fuzzy
+msgid "Music"
+msgstr "Ligundvwane"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Luchungechunge"
+
+msgid "Network-related settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Plugin KDataTool di KTextEditor"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Lokunye"
+
+msgid "P2P"
+msgstr ""
+
+msgid "P2P programs"
+msgstr ""
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+#, fuzzy
+msgid "Personal"
+msgstr "Sikhungo"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Kugcinwa"
+
+msgid "Printing"
+msgstr "Kuhleleka"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr ""
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Titfombe-mdvwebo"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Security tools"
+msgstr ""
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Kuhleleka"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Umsindvo"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+#, fuzzy
+msgid "Strategy"
+msgstr "Masu & indlela yekwenta"
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr "Umshini"
+
+#, fuzzy
+msgid "System settings"
+msgstr "Kuhleleka"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Ticelo tesikhungo"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Sicelo"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Ticelo tesikhungo"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Sikhungo"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Sihleli sembhalo"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#, fuzzy
+msgid "Tools"
+msgstr "AquÃ­ podes modificar o aspecto de Kopete"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "AquÃ­ podes modificar o aspecto de Kopete"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Titfombe-mdvwebo"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Ticelo tesikhungo"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Audio plejer"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Ibrawuza ye-Web "
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Kundlondlobala"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Edutainment"
+#~ msgstr "Infundvo-tfokotisa"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Lokuhlangahlangene"
+
+#~ msgid "Utilities"
+#~ msgstr "Kwekusetjentiswa"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X kwekusetjentiswa kweliwindi"
+
+#~ msgid "X-Utilities"
+#~ msgstr "Kwekusetjentiswa-X"
+
+#~ msgid "Wine"
+#~ msgstr "Iwayini"
+
+#~ msgid "Advanced"
+#~ msgstr "Sembili"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Kuhleleka lokusembili"
+
+#~ msgid "Information"
+#~ msgstr "Imininingwane"
+
+#~ msgid "Peripherals"
+#~ msgstr "Ema-peripherals"
+
+#~ msgid "Control Center"
+#~ msgstr "Sikhungo sekulawula"
+
+#~ msgid "Appearance"
+#~ msgstr "Kuvela"
+
+#~ msgid "Help"
+#~ msgstr "Sita"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "Home"
+#~ msgstr "Ekhaya"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsole"
+
+#~ msgid "KGet"
+#~ msgstr "I-KGet"
+
+#~ msgid "Info Center"
+#~ msgstr "Sikhungo semniningwane"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Sihleli menyu"
+
+#~ msgid "Windows"
+#~ msgstr "Emawindi"
+
+#~ msgid "Keyboard"
+#~ msgstr "Libhodi letinkhinobho"
+
+#~ msgid "Page Layout"
+#~ msgstr "Kushicelela ku desktop"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "Kushicelela ku desktop"

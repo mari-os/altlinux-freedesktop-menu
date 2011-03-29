@@ -1,0 +1,1490 @@
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/xh.php3
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 1999-08-25 11:07+0200\n"
+"Last-Translator: Nobody\n"
+"Language-Team: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Imizobo"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Iinkqubo ngeemo zezibonakalisi-nkqubo"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Imizobo"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Iinkqubo ngeemo zezibonakalisi-nkqubo"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Imidlalo nokuzihlekisa"
+
+msgid "Accessibility"
+msgstr "Unikezelo"
+
+#, fuzzy
+msgid "Action"
+msgstr "Imfundo"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Umdlalo onamaqhinga"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Ulawulo"
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Izicelo"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Izicelo"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Umqolo wesakhiwo esiphatha ubunzima bento"
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Isixhobo Sokuphatha i Archive"
+
+#, fuzzy
+msgid "Art"
+msgstr "Ark"
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Umdlali we Midia"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Isishicileli seSandi"
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Umdlalo Webhodi"
+
+#, fuzzy
+msgid "Boards"
+msgstr "Amakhadi"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Umatshini wokubala"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Umatshini wokubala"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Ikhadi lomdlalo"
+
+msgid "Cards"
+msgstr "Amakhadi"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Itshati yokukheta i K"
+
+msgid "Chat"
+msgstr ""
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "Imbali"
+
+msgid "Chemistry software"
+msgstr ""
+
+#, fuzzy
+msgid "Clock"
+msgstr "KCalc"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Izicelo"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "Ikhompyutha"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Ikhompyutha"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Umhleli wokuMiselwa kweNkqubo yeKhompyutha"
+
+#, fuzzy
+msgid "Construction"
+msgstr "Ulawulo"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "Iziseko zedata"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Izicelo"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Ubhekiso phambili"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "Inkqubo yokuzoba"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Incwadi eneenkcazelo zamagama"
+
+msgid "Dictionary"
+msgstr "Incwadi eneenkcazelo zamagama"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Ulwenziwo lwamaxwebhu"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "Abahleli"
+
+msgid "Education"
+msgstr "Imfundo"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Ukhuseleko"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "KMail"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Izicelo Zesiphelo sendlela"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "Umatshini wokubala"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Dibanisa iibhloko eziwayo"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "Dibanisa iibhloko eziwayo"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Umphathi Wefayile"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Indlela esestyenziswayo"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Umphathi Wefayile"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Izixhobo Zeenkqubo"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Isikhangeli Sefayili"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Iimayini"
+
+msgid "Flow Chart"
+msgstr ""
+
+#, fuzzy
+msgid "GNOME"
+msgstr "Malunga ne-GNOME"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Umyili we Qt"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Izicelo Zesiphelo sendlela"
+
+msgid "Games"
+msgstr "Imidlalo"
+
+msgid "Games and amusements"
+msgstr "Imidlalo nokuzihlekisa"
+
+msgid "Games for Kids"
+msgstr "Imidlalo Yabantwana"
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr "Imizobo"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "History"
+msgstr "Imbali"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Izicelo"
+
+msgid "IRC"
+msgstr ""
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "Umxhasi we IRC"
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Internet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Izicelo Zesiphelo sendlela"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Iilwimi"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Imidlalo efana ne Rogue"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Imathematika"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Iimayini"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Isebenza ngomnatha"
+
+msgid "Multimedia"
+msgstr "Iindlela ezininzi zokwenza"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Imenu Yezixhobo eziphathekayo zokugcina ulwazi ngokuphinda-phindeneyo"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Umdlali we Midia"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Imenu Yezixhobo eziphathekayo zokugcina ulwazi ngokuphinda-phindeneyo"
+
+#, fuzzy
+msgid "Music"
+msgstr "iMouse"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Umsebenzi womnatha"
+
+msgid "Network-related settings"
+msgstr ""
+
+#, fuzzy
+msgid "News"
+msgstr "KNotes"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Ofisi"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Enye"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Udweliso lwenkqubo lwepeyinti"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Izicelo Zesiphelo sendlela"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Iinketho"
+
+#, fuzzy
+msgid "Personal"
+msgstr "Iifayile Zobuqu"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Iinketho"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Umboniso wenkcazelo"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Umboniso wenkcazelo"
+
+msgid "Printing"
+msgstr "Iyashicilela"
+
+#, fuzzy
+msgid "Profiling tools"
+msgstr "Isixhobo Sokuphatha i Archive"
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Impatho Yefayile"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "IiNkqubo eziKhethwayo"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Imizobo"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Iinkqubo ngeemo zezibonakalisi-nkqubo"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "i-Desktop Ekude"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Ulawuli Wezinga lesandi"
+
+#, fuzzy
+msgid "Robotics"
+msgstr "Izibane Zendlela"
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Umgcini wekhusi"
+
+msgid "Security"
+msgstr "Ukhuseleko"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Ukhuseleko"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Izicwangciso"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Imfundo"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Isandi"
+
+msgid "Sports"
+msgstr "Imidlalo"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Imidlalo"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Icwecwe leeseli"
+
+#, fuzzy
+msgid "Strategy"
+msgstr "Amacebo okufumana iinjongo & Amacebo okuzoba"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Ikwa ngumdlalo ofanayo"
+
+msgid "System"
+msgstr "Indlela esestyenziswayo"
+
+#, fuzzy
+msgid "System settings"
+msgstr "Izicwangciso"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Izicelo Zesiphelo sendlela"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Izicelo"
+
+msgid "Telephony"
+msgstr ""
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Izixhobo Zokufundisa"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Izicelo Zesiphelo sendlela"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Isixhobo sangaphandle sekhompuma"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Umhleli wombhalo"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#, fuzzy
+msgid "Tools"
+msgstr "Izinto zokudlala"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Izixhobo zokuphuhlisa ubucukubhede bekhompyutha"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Khetha iinkqubo zakho ezimiselweyo"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Khetha iinkqubo zakho ezimiselweyo"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Izinto zokudlala"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Umboniso wenkcazelo"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Imizobo"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Iinkqubo ngeemo zezibonakalisi-nkqubo"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Iinketho"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Umdlali we Video"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Isishicileli seSandi"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "Umboniseli we DjVu"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Umkhangeli zincwadi we Web"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Ubhekiso phambili"
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Inkqubo Yokuqhuba Amagama"
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Umxhasi Weposi"
+
+#~ msgid "Edutainment"
+#~ msgstr "Ufundiso"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Umxhube wezinto"
+
+#~ msgid "Utilities"
+#~ msgstr "Izinto eziluncedo"
+
+#~ msgid "Programming"
+#~ msgstr "Ukwenziwa kweenkqubo"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X Windows Izinto eziluncedo"
+
+#~ msgid "X-Utilities"
+#~ msgstr "Izinto eziluncedo ze-X"
+
+#~ msgid "Advanced"
+#~ msgstr "Ebhekisa phambili"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Izicwangciso Ezibhekisa phambili"
+
+#~ msgid "Information"
+#~ msgstr "Ulwazi"
+
+#~ msgid "Accessories"
+#~ msgstr "Izinto ezongezelelwayo"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Izinto ezongezelelwayo ze-Desktop"
+
+#~ msgid "Peripherals"
+#~ msgstr "Iilayini zomda"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Umiselo-nkqubo lwendlela emisiweyo kunye nokuhlola"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Isandi neVidiyo"
+
+#~ msgid "Control Center"
+#~ msgstr "Umbindi Wolawulo"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Iinkqubo zokufikelela kwi-Intanethi ezinjenge-web ne-imeyile"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Iinkqubo ezingangeniyo kwezinye iindidi"
+
+#~ msgid "Office Applications"
+#~ msgstr "Iinkqubo ze-Ofisi"
+
+#~ msgid "Tali"
+#~ msgstr "i-Tali"
+
+#~ msgid "Five or More"
+#~ msgstr "U-Five or More"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "Susa iibhola ezinombala ebhodini ngokuthi wenze imigca"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Umtshayeli womgodi"
+
+#~ msgid "System Monitor"
+#~ msgstr "Indlela yokwenza yeCebo lokubonisa"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Isibonisi-Mfanekiso"
+
+#~ msgid "About Me"
+#~ msgstr "Malunga Nam"
+
+#~ msgid "Character Map"
+#~ msgstr "Imephu Yophawu"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Fakela izimo ezizodwa emaxwebhini"
+
+#~ msgid "Appearance"
+#~ msgstr "Inkangeleko"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Khangela iiFayili..."
+
+#~ msgid "gThumb"
+#~ msgstr "i-gThumb"
+
+#~ msgid "Klotski"
+#~ msgstr "I-Klotski"
+
+#~ msgid ""
+#~ "Perform calculation, analyze information and manage lists in spreadsheets "
+#~ "by using Calc."
+#~ msgstr ""
+#~ "Yenza isibalo, hlalutya ulwazi uze ulawule izindwe kumacwecwe eeseli "
+#~ "ngokusebenzisa u-Calc."
+
+#~ msgid "Eclipse"
+#~ msgstr "Ucimo lwelanga okanye inyanga"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Fumana uncedo nge-GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Uncedo"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Dlala imifanekiso-bhanyabhanya neengoma"
+
+#~ msgid "Home Folder"
+#~ msgstr "Isiqulathi -zifayili Sasekhaya"
+
+#~ msgid "Tetravex"
+#~ msgstr "I-Tetravex"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Ukwakha imimiselo yenkqubo yeGStreamer"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "IsiXhobo sokuKhetha iiNkqubo zoSasazo ngeendlela ezininzi"
+
+#~ msgid "Configure PalmOS devices"
+#~ msgstr "Misela izixhobo ze-PalmOS"
+
+#~ msgid "PalmOS Devices"
+#~ msgstr "Izixhobe ze-PalmOS"
+
+#~ msgid "Metacity"
+#~ msgstr "Imetacity"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "Phepha izibane zendlela uze uzenze zingqubane"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Xearth"
+#~ msgstr "Xumhlaba"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Mkhethi Wombala"
+
+#~ msgid "KColorChooser"
+#~ msgstr "Umkhethi Wombala i K"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Umdlalo Wendoda ejingayo"
+
+#~ msgid "KHangMan"
+#~ msgstr "lwandle@translate.org.za"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "Umboniseli olula womfanekiso"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "Umphathi We Calendar"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "Ityhubhu yeKJumping"
+
+#~ msgid "Konquest"
+#~ msgstr "iKonquest"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "CVS Isiqalo sesiphelo"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Screen Ruler"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Iinkcazelo Ezigcina Ikhusi"
+
+#~ msgid "Character Selector"
+#~ msgstr "Umkhethi womsebenzi"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "Undoqoes"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Ikhalenda no Dweliso lwenkqubo Yokucwangcisa"
+
+#~ msgid "KOrganizer"
+#~ msgstr "Umququzeleli weK"
+
+#~ msgid "Home"
+#~ msgstr "Ikhaya"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Umbuyekisi wokufundiweyo Obamba Echwetheza"
+
+#~ msgid "KJots"
+#~ msgstr "Amaxabiso amancinane e K"
+
+#~ msgid "Note Taker"
+#~ msgstr "Umthathi Womakuqwalaselwe"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Umfana wetapile "
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Isixhobo Sebhodi eqhoboshayo"
+
+#~ msgid "Klipper"
+#~ msgstr "Klipper"
+
+#~ msgid "KBattleship"
+#~ msgstr "Udabi luka K"
+
+#~ msgid "CD Player"
+#~ msgstr "Umdlali we CD"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Ukwehlulelana kwe Desktop"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "iKonsole"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Umatshini Wokubala Ezenzululwazi"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Diff/Patch Frontend"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KTimer"
+#~ msgstr "Umjongi Wexesha"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Ikhadi lomdlalo wokunyamezela"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Uqeqeshi Wonobumba ababekwe ngokulandelelana"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Umzobi Womsebenzi"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Indlu ye Desktop"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "KDiskFree"
+#~ msgstr "AkukhoDiski yeK"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Jonga Ukusebenziseka KweDiskic"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Iilayini zeKolor "
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Info Center"
+#~ msgstr "Umbindi Wolwazi"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Umpheki Weti"
+
+#~ msgid "Change Password"
+#~ msgstr "Tshintsha igama eligqithisiweyo"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Ubekiso Lwesijapani/Isixhobo Sokufunda"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Umxubi WokuvakalayoU"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "Umxholo Wokuxoxwa We KDE"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Igalufa encinci"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDiski"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Umdlali wezoSasazo"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Trash"
+#~ msgstr "Inkukumo"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Umfundi weendaba"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Umhleli we Menu"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Umfumani Wexesha Lobuqu"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Umyili Wesiboniso Esingaphakathi"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Umphathi Wefayile - Indlela Ephezulu Yomsebenzisi"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Umdlalo Wolungelanisa Unobumba"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Ivelisa iincwadana"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Floppy formata"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Nikela amaqhosha endlela enqumlayo kwimiyalelo"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Indlela ezimfutshane Zebhodi yezitshixo"
+
+#~ msgid "XawTV"
+#~ msgstr "Umabona-kude we Xaw"
+
+#~ msgid ""
+#~ "Create and edit presentations for slideshows, meeting and Web pages by "
+#~ "using Impress."
+#~ msgstr ""
+#~ "Dala uze uhlele iinkcazelo-mboniso yemiboniso yezlayidi, iintlanganiso "
+#~ "namakhasi Othungelwano ngokusebenzisa i-Impress."
+
+#~ msgid "Create and edit scientific formulas and equations by using Math."
+#~ msgstr ""
+#~ "Dala uze uhlele iindlela zokusebenzisa inzululwazi nongqinelaniso "
+#~ "ngokusebenzisa u-Math."
+
+#~ msgid "Formula"
+#~ msgstr "Indlela yokusebenza"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Lungisa ukuphakama kwesandi"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Unxibelelwano lweKhompyutha esebenza njengomqobo"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr ""
+#~ "Misela uluhlu lokukhetha lonxibelelwano lwekhompyutha esbenza njengomqobo"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Izicatshulwa zoshicilelo lwesandi"
+
+#~ msgid "Set your window properties"
+#~ msgstr "Misela iimpawu zefestile yakho"
+
+#~ msgid "Windows"
+#~ msgstr "Ii windows"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "I-AisleRiot Solitaire"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "Dlala imidlalo emininzi eyahlukeneyo ye-solitaire"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Yongeza okanye susa abasebenzisi namaqela"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Usolwimi we Qt"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Umphathi Kavimba"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Yakha uze ulungise uvimba"
+
+#~ msgid "Find files, folders, and documents on your computer"
+#~ msgstr ""
+#~ "Ukufumana iifayili, iziqulathi zeefayili, namaxwebhu kwikhompyutha yakho"
+
+#~ msgid "Keyboard"
+#~ msgstr "Ibhodi enezitshixo"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Misela uluhlu lokukhetha lwe-keyboard"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "Diliza inqwaba yeethayili ngokuthi ususe izibini ezingqamanayo"
+
+#~ msgid "Mahjongg"
+#~ msgstr "I-Mahjongg"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Misela uluhlu lwakho lokukhetha lwemawusi"
+
+#~ msgid "Iagno"
+#~ msgstr "I-Iagno"
+
+#~ msgid ""
+#~ "Create and edit text and graphics in letters, reports, documents and Web "
+#~ "pages by using Writer."
+#~ msgstr ""
+#~ "Dala uze uhlele isiqendu nezazobe zegrafu ezileteni, iingxelo, amaxwebhu "
+#~ "namakhasi Othungelwano ngokusebenzisa i-Writer."
+
+#~ msgid "Database"
+#~ msgstr "Isiseko seenkcukacha"
+
+#~ msgid ""
+#~ "Manage databases, create queries and reports to track and manage your "
+#~ "information by using Base."
+#~ msgstr ""
+#~ "Lawula iziseko zeenkcukacha, dala iintandabuzo neengxelo ukuze ulande "
+#~ "ekhondweni ngokunjalo ulawule ulwazi lwakho ngokusebenzisa u-Base."
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "Isixhobo sokumiselwa kwe-GNOME"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Thetha nabantu kwi-Intanethi"
+
+#~ msgid "Edit text files"
+#~ msgstr "Hlela iifayili zombhalo"
+
+#~ msgid "gedit"
+#~ msgstr "I-gedit"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "IsiKhangeli seLungu le-Bonobo"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "Ibonisa amalungu e-Bonobo akhoyo"
+
+#~ msgid "Evolution"
+#~ msgstr "Utshintsho lwendawo ngokwenqanawa"
+
+#~ msgid "Groupware Suite"
+#~ msgstr "I-Groupware Suite"
+
+#~ msgid "Page Layout"
+#~ msgstr "Ubeko lwe Phepha"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "Upapasho lwe Desktop"
+
+#~ msgid "View and organize your images"
+#~ msgstr "Buka uze ulungise imifanekiso yakho"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "I-FreeCell Solitaire"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Dlala umdlalo wamakhadi oqhelekileyo i-FreeCell"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr ""
+#~ "Hlela ngqo yonke i-database yakho yokumiselwa kwenkqubo yekhompyutha"
+
+#~ msgid "GIMP"
+#~ msgstr "I-GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "UmHleli woMfanekiso"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Isixhobo Sengxelo Sesiphene"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "Nika ingxelo ngesiphene kwiinkqubo ezisekelwe kwi-GNOME"
+
+#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
+#~ msgstr ""
+#~ "Dala uze uhlele imizobo, iitshati zomqukuqelo, kunye nee-logo "
+#~ "ngokusebenza u-Draw."
+
+#~ msgid "Drawing"
+#~ msgstr "Umzobo"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "Khokela umbungu kwiindlela eziphitheneyo"
+
+#~ msgid "Nibbles"
+#~ msgstr "I-Nibbles"
+
+#~ msgid "KThesaurus"
+#~ msgstr "KThesaurus"
+
+#~ msgid "Karbon14"
+#~ msgstr "Karbon14"
+
+#~ msgid "KPlato"
+#~ msgstr "KPlato"
+
+#~ msgid "KPresenter"
+#~ msgstr "KPresenter"
+
+#~ msgid "Krita"
+#~ msgstr "Krita"
+
+#~ msgid "KSpread"
+#~ msgstr "KSpread"
+
+#~ msgid "KWord"
+#~ msgstr "KWord"
+
+#~ msgid "Text Editor (administrator)"
+#~ msgstr "Umhleli wombhalo (wesixokelelwano)"
+
+#~ msgid "Configure your printers"
+#~ msgstr "Misela izishicileli zakho"
+
+#~ msgid "Network Tools"
+#~ msgstr "IziXhobo zoThungelwano"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "Imposiso yoshicilelo yenzekile"
+
+#~ msgid "FTP Client"
+#~ msgstr "Umxhasi we FTP"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "Umxhasi we MSN"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "I KDE KPart Isicelo"
+
+#~ msgid "Defendguin"
+#~ msgstr "Khusela intaka yaselwandle engakwazi kubhabha"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Umyalelo wentaka yolwandle engakwazi ukubhabha"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "Misa isimo sezixhobo zothungelwano noqhagamshelwano"
+
+#~ msgid "Configure which services will be run when the system starts"
+#~ msgstr "Misa ukuba zeziphi na iinkonzo eziya kusebenza xa inkqubo iqalisa"
+
+#~ msgid "Services"
+#~ msgstr "Iinkonzo"
+
+#~ msgid "Configure which folders are available for your network neighborhood"
+#~ msgstr ""
+#~ "Misa ukuba zeziphi na izigcini-zifayili ezikhoyo kuthungelwano "
+#~ "lwasebumelwaneni"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "Tshintsha ixesha lenkqubo, umhla nezowuni yexesha"
+
+#~ msgid "Time and Date"
+#~ msgstr "UMhla neXesha"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "Umxhasi Weseva We-Terminal"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Inkqubo yokuzoba yabantwana."
+
+#~ msgid "Tux Paint"
+#~ msgstr "Ipeyinti yeTux"
+
+#~ msgid "Users and Groups"
+#~ msgstr "Abasebenzisi neQela"

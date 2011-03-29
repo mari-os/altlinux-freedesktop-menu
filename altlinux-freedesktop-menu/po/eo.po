@@ -1,0 +1,2354 @@
+# Menu section translation
+# Joost Witteveen <joostje@debian.org>, 2000-2003.
+# MJ Ray <mjr@debian.org>, 2005.
+# Felipe Castro <fefcas@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-section 2.1.9-3\n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2008-06-28 17:54-0300\n"
+"Last-Translator: Felipe Castro <fefcas@gmail.com>\n"
+"Language-Team:  <debian-l10n-esperanto@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafikado"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafikado"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Dosier-administrado"
+
+msgid "Accessibility"
+msgstr "Alirebleco"
+
+msgid "Action"
+msgstr "Tuj-agado"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Tuj-agado"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Administrado"
+
+msgid "Adventure"
+msgstr "Aventuro"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Aventuro"
+
+msgid "Amateur Radio"
+msgstr "Diletanta Radio"
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Aplikaĵoj"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Aplikaĵoj"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Arkado"
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Astronomio"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Astronomio"
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "Biologio"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Biologio"
+
+msgid "Board Games"
+msgstr "Tabuloludoj"
+
+msgid "Boards"
+msgstr "Tabuloj"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Kalkulilo"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Ŝajnigiloj"
+
+msgid "Calendar"
+msgstr "Kalendaro"
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Kartludoj"
+
+msgid "Cards"
+msgstr "Kartludoj"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Ludkartoj"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Kemio"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Kemio"
+
+#, fuzzy
+msgid "Clock"
+msgstr "Blokoj"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Komunikado"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Komputiko"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Tero-scienco"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Komunikado"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "Datumbazoj"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Aplikaĵoj"
+
+msgid "Desktop"
+msgstr "Tabulo"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Programado"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr "Vortaro"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Dokumentaro"
+
+#, fuzzy
+msgid "Economy"
+msgstr "Astronomio"
+
+msgid "Editors"
+msgstr "Redaktado"
+
+msgid "Education"
+msgstr "Edukado"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Elektroniko"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr "Elektroniko"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Aplikaĵoj"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Ŝajnigiloj"
+
+msgid "Engineering"
+msgstr "Inĝenierado"
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Blokoj"
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Dosier-administrado"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sistemo"
+
+msgid "File Transfer"
+msgstr "Dosier-transŝuto"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+msgid "GUI designer applications"
+msgstr ""
+
+msgid "Games"
+msgstr "Ludoj"
+
+msgid "Games and amusements"
+msgstr "Ludoj kaj amuzoj"
+
+msgid "Games for Kids"
+msgstr "Ludoj por infanoj"
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "Biologio"
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr "Tero-scienco"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Tero-scienco"
+
+msgid "Geosciences"
+msgstr "Geosciencoj"
+
+msgid "Graphics"
+msgstr "Grafikado"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Aparataro"
+
+msgid "History"
+msgstr "Historio"
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Aplikaĵoj"
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Interreto"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Aplikaĵoj"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Lingvoj"
+
+msgid "Literature"
+msgstr "Literaturo"
+
+msgid "Logic Games"
+msgstr "Logika ludo"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Matematiko"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Montriloj"
+
+msgid "Monitoring"
+msgstr "Kontrolado"
+
+msgid "Multimedia"
+msgstr "Plurmedio"
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Reto"
+
+msgid "Network-related settings"
+msgstr ""
+
+#, fuzzy
+msgid "News"
+msgstr "Ret-novaĵoj"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+#, fuzzy
+msgid "Numeric Analysis"
+msgstr "Datumar-analizo"
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Oficejo"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Aliaj"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Programado"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Pak-administrado"
+
+msgid "Packaging"
+msgstr "Pakaĵado"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Fiziko"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Fiziko"
+
+msgid "Preferences"
+msgstr "Agordaĵoj"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr "Printado"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "Projekt-administrado"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Projekt-administrado"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafikado"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "Ŝparado"
+
+msgid "Science"
+msgstr "Scienco"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Ekrano"
+
+msgid "Security"
+msgstr "Sekureco"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Sekureco"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Agordo"
+
+msgid "Simulation"
+msgstr "Simulado"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Simulado"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Soniloj"
+
+msgid "Sports"
+msgstr "Sportoj"
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "Strategio"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Strategio"
+
+msgid "System"
+msgstr "Sistemo"
+
+msgid "System settings"
+msgstr ""
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr "TV kaj Radio"
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "TV kaj Radio"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Aplikaĵoj"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Terminaloj (ŝajnigiloj)"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Terminaloj (ŝajnigiloj)"
+
+msgid "Text tool utilities"
+msgstr ""
+
+msgid "Text tools"
+msgstr "Tekstiloj"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Iloj"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Ludiloj"
+
+msgid "Translation"
+msgstr "Traduko"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafikado"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Montriloj"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr "Montriloj"
+
+msgid "Web Browsing"
+msgstr "Ret-foliumado"
+
+msgid "Web Development"
+msgstr "Interreto (programado)"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Data Management"
+#~ msgstr "Datumar-administrado"
+
+#~ msgid "Mobile Devices"
+#~ msgstr "Moveblaj Aparatoj"
+
+#~ msgid "Medicine"
+#~ msgstr "Medicino"
+
+#~ msgid "Social"
+#~ msgstr "Soci-scienco"
+
+#~ msgid "Shells"
+#~ msgstr "Ŝeloj"
+
+#~ msgid "Language Environment"
+#~ msgstr "Lingva Medio"
+
+#~ msgid "Text"
+#~ msgstr "Teksto"
+
+#~ msgid "Puzzles"
+#~ msgstr "Enigmoj"
+
+#~ msgid "Help"
+#~ msgstr "Helpo"
+
+#~ msgid "Window Managers"
+#~ msgstr "Fenestro-regiloj"
+
+#~ msgid "FVWM Modules"
+#~ msgstr "FVWM-moduloj"
+
+#~ msgid "Window Maker"
+#~ msgstr "Window Maker"
+
+# Non official sections from WindowMaker
+#~ msgid "Appearance"
+#~ msgstr "Aspekto"
+
+#~ msgid "WorkSpace"
+#~ msgstr "LaborSpaco"
+
+# Frequently used unofficial sections.
+# From Apps/Net/Mozilla Components
+#~ msgid "Iceape Components"
+#~ msgstr "Mozilo (Iceape)"
+
+# From Games/Toys/Teddies
+#~ msgid "Teddies"
+#~ msgstr "Ursetoj"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Ĉiuj aplikaĵoj"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Kion fari?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Amuzedukado"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Diversaj"
+
+#~ msgid "Utilities"
+#~ msgstr "Utilaĵoj"
+
+#~ msgid "Backups"
+#~ msgstr "Savkopioj"
+
+#~ msgid "Programming"
+#~ msgstr "Programado"
+
+#~ msgid "Servers"
+#~ msgstr "Serviloj"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "Utilaĵoj por la X-Fenestrosistemo"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X-Utilaĵoj"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Pliaj"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Evoluitaj parametroj"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Perdita kaj trovita"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Taktikoj & Strategioj"
+
+#~ msgid "Information"
+#~ msgstr "Informoj"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Personaj preferoj"
+
+#~ msgid "Accessories"
+#~ msgstr "Utilaĵoj"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Labortablaj utilaĵoj"
+
+#~ msgid "Networking"
+#~ msgstr "Retumado"
+
+#~ msgid "PIM"
+#~ msgstr "PCI"
+
+#~ msgid "Science & Math"
+#~ msgstr "Scienco kaj Matematiko"
+
+#~ msgid "Peripherals"
+#~ msgstr "Periferaĵoj"
+
+#~ msgid "File"
+#~ msgstr "Dosiero"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "Instruiloj"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Agordi kaj kontroli sistemon"
+
+#~ msgid "KDE Menu"
+#~ msgstr "KDEa Menuo"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Personaj preferoj kaj administraj agordoj"
+
+#~ msgid "Development Environments"
+#~ msgstr "Programaj medioj"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Sono kaj video"
+
+#~ msgid "Control Center"
+#~ msgstr "Stircentro"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Filudoj"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Programoj por TTT-uzo, ekzemple por TTT-legado kaj retpoŝto"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Aplikaĵoj neagordaj aliajn kategoriojn"
+
+#~ msgid "Office Applications"
+#~ msgstr "Oficejaj aplikaĵoj"
+
+#~ msgid ".hidden"
+#~ msgstr ".hidden"
+
+#~ msgid "XCam"
+#~ msgstr "X-Fotilo"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Mandriva Linux-Ĝisdatigo (Mandriva Linux Update)"
+
+#~ msgid "Audacity"
+#~ msgstr "Aŭdaco"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la franca"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Minserĉanto"
+
+#~ msgid "System Monitor"
+#~ msgstr "Sistemstato-programo"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Bildorigardilo"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Media Player"
+#~ msgstr "Ludilo por sonor-dosieroj"
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "IM Client"
+#~ msgstr "Tujmesaĝilo"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Foliumi la TTT-on"
+
+#~ msgid "Character Map"
+#~ msgstr "Signotabelo"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Enmeti specialajn signojn en dokumentojn"
+
+#~ msgid "Xwpick"
+#~ msgstr "X-Ekranfotilo"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "Trovi dokumentojn kaj dosierujojn en ĉi tiu komputilo laŭ nomo aŭ enhavo"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Serĉi dosierojn..."
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Ruli aliajn aplikaĵojn kaj oferi diversajn utilaĵojn por aranĝi "
+#~ "fenestrojn, montri tempon, ktp."
+
+#~ msgid "Panel"
+#~ msgstr "Panelo"
+
+#~ msgid "Simple text editor"
+#~ msgstr "Simpla tekstomodifilo"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "Foliumi legosignitajn kaj lokajn retlokojn"
+
+#~ msgid "Text Editor"
+#~ msgstr "Tekstredaktilo"
+
+#~ msgid "Office Suite"
+#~ msgstr "Oficejoprogramaro"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "Krei ekranopion"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "Programisto-Helpilo"
+
+#~ msgid "Devhelp"
+#~ msgstr "Devhelp"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la nederlanda"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Foliumi dosiersistemon per dosiera mastrumilo"
+
+#~ msgid "File Browser"
+#~ msgstr "Foliumilo de dosieroj"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Ricevu helpon kun GNOME"
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "Kontroli dosierujajn grandojn kaj disponeblan diskmemoron"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "Diskuzada analizilo"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Agordilo por faksiloj"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Dokumenta rigardilo"
+
+#~ msgid "Home Folder"
+#~ msgstr "Hejma dosierujo"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Malfermi vian personan dosierujon"
+
+#~ msgid "Qt4 Designer"
+#~ msgstr "Qt4-Desegnilo"
+
+#~ msgid "Search"
+#~ msgstr "Serĉu"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la hispana"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Poŝtprenilo"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "L"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "Foliumu ĉiujn lokajn kaj forajn diskojn kaj dosierujojn atingeblajn de ĉi "
+#~ "tiu komputilo."
+
+#~ msgid "Computer"
+#~ msgstr "Komputilo"
+
+#~ msgid "A graphical front end for browsing installed & available packages"
+#~ msgstr "Grafika fasado por trafoliumi instalitajn kaj haveblajn pakaĵojn"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Vidu kaj organizu viajn legosignojn"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la slovena"
+
+#~ msgid "Menu Style Configuration"
+#~ msgstr "Agordo de la menu-stilo"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Ludo de agado kaj enigmosolvado"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Aktualigi la K-Menuaron"
+
+#~ msgid "Okular"
+#~ msgstr "Okular"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Ilo por elekti koloron"
+
+#~ msgid "KColorChooser"
+#~ msgstr "Kolorelektilo"
+
+#~ msgid "Blogilo"
+#~ msgstr "Blogilo"
+
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "KDE Perioda Tablo de la elementoj"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalziumo"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "Perioda Tablo de la elementoj"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Pendigulo Ludo"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "KDE Pendigulo Ludo"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "Simpla bildorigardilo"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "Kiriki"
+#~ msgstr "Kiriki"
+
+#~ msgid "Yahtzee-like Dice Game"
+#~ msgstr "Ĵetkuba ludo simila al Yahtzee"
+
+#~ msgid "KUser"
+#~ msgstr "Uzantoadministrilo"
+
+#~ msgid "User Manager"
+#~ msgstr "Administrilo por la uzantoj de la komputilo"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "Saltanta kubo"
+
+#~ msgid "Galactic Strategy Game"
+#~ msgstr "Galaksia Strategiludo"
+
+#~ msgid "Konquest"
+#~ msgstr "Konkero"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "Afiŝkarda kaj vortoproviza programo"
+
+#~ msgid "Flash Card Trainer"
+#~ msgstr "Fulmokarta ekzercilo"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Amarok - Rediscover Your Music!"
+#~ msgstr "Amarok - Remalkovru vian muzikon!"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "Fasado por la versioadministrilo \"CVS\""
+
+#~ msgid "Cervisia"
+#~ msgstr "Versioadministrilo"
+
+#~ msgid "KRuler"
+#~ msgstr "Liniilo"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Ekranliniilo"
+
+#~ msgid "KSnapshot"
+#~ msgstr "Ekranfotilo"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Ekranfota programo"
+
+#~ msgid "Character Selector"
+#~ msgstr "Elektilo por signoj"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konkeranto"
+
+#~ msgid "KLettres"
+#~ msgstr "Literoj"
+
+#~ msgid "Learn The Alphabet"
+#~ msgstr "Lernu la alfabeton"
+
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "KDE programo por lerni la alfabeton"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Kalendara kaj plana programo"
+
+#~ msgid "KOrganizer"
+#~ msgstr "Organizilo"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "Persona Organizilo"
+
+#~ msgid "Home"
+#~ msgstr "Hejmo"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "Spacduelo"
+
+#~ msgid "Space Arcade Game"
+#~ msgstr "Kosma arkadoludo"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "KTouch"
+#~ msgstr "Tuŝo"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Tajpada intruisto"
+
+#~ msgid "KJots"
+#~ msgstr "Notlibro"
+
+#~ msgid "Note Taker"
+#~ msgstr "Notolibro"
+
+#~ msgid "KMouth"
+#~ msgstr "KBuŝo"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Fasado Por Parolsintezilo"
+
+#~ msgid "Konversation"
+#~ msgstr "Konversation"
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "Tabulaj fenestraĵoj"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Picture Game for Children"
+#~ msgstr "Bildludo por infanoj"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Terpomulo"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "Eltonda kaj alglua historia ilo "
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Ilo por la poŝo"
+
+#~ msgid "Klipper"
+#~ msgstr "Poŝilo"
+
+#~ msgid "Battleship Game"
+#~ msgstr "Batalŝipa ludo"
+
+#~ msgid "KBattleship"
+#~ msgstr "Batalŝipo"
+
+#~ msgid "Kigo"
+#~ msgstr "Kigo"
+
+#~ msgid "Card Game"
+#~ msgstr "Kartludo"
+
+#~ msgid "LSkat"
+#~ msgstr "LSkat"
+
+#~ msgid "CD Player"
+#~ msgstr "Lumdiskludilo"
+
+#~ msgid "KsCD"
+#~ msgstr "Lumdiskludilo"
+
+#~ msgid "Bomber"
+#~ msgstr "Bomber"
+
+#~ msgid "Granatier"
+#~ msgstr "Granatier"
+
+#~ msgid "Graph Calculator"
+#~ msgstr "Kalkulilo de grafikaĵoj"
+
+#~ msgid "KAlgebra"
+#~ msgstr "KAlgebra"
+
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "Solvilo kaj desegnilo de matematikaj esprimoj"
+
+#~ msgid "Kubrick"
+#~ msgstr "Kubrick"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Tabuloj komunaj"
+
+#~ msgid "Krfb"
+#~ msgstr "Krfb"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Ŝisen-Ŝo"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "Shisen-Sho Mahjongg-simila kahel-ludo"
+
+#~ msgid "A memory enhancement game"
+#~ msgstr "Ludo por plibonigi sian memoron"
+
+#~ msgid "Blinken"
+#~ msgstr "Blinken"
+
+#~ msgid "KSudoku, Sudoku game & more for KDE"
+#~ msgstr "KSudoku, sudoka ludo kaj pli por KDE"
+
+#~ msgid "Sudoku Game"
+#~ msgstr "Ludo de sudoko"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "Fasado por GnuPG"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Ilo por Ĉifrado"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "Panela aplikaĵeto por regrandigi kaj reorienti la X ekranojn."
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Regrandigi kaj Turni Ekranon"
+
+#~ msgid "KMail"
+#~ msgstr "Retpoŝto"
+
+#~ msgid "KMahjongg"
+#~ msgstr "Mahjongo"
+
+#~ msgid "Konsole"
+#~ msgstr "Konzolo"
+
+#~ msgid "KReversi"
+#~ msgstr "Renverso"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "\"Renverso\"-Tabuloludo"
+
+#~ msgid "Killbots"
+#~ msgstr "Killbots"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Scienca kalkulilo"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Fasado por la programoj \"diff\" kaj \"patch\""
+
+#~ msgid "Kompare"
+#~ msgstr "Komparilo"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "Ekrano-pligrandigilo"
+
+#~ msgid "KTimer"
+#~ msgstr "Tempoplanilo"
+
+#~ msgid "skrooge"
+#~ msgstr "skrooge"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Retdosierujo-analizilo"
+
+#~ msgid "UML Modeller"
+#~ msgstr "UML-Modelilo "
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "Divenlogika ludo"
+
+#~ msgid "KBlackBox"
+#~ msgstr "Nigra kesto"
+
+#~ msgid "KAtomic"
+#~ msgstr "Atomoj"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "Logikludo simila al Sokoban"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Pacienca Kartludo"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "Persona Inform-Mastrumilo"
+
+#~ msgid "Desktop Globe"
+#~ msgstr "Tabula globo"
+
+#~ msgid "Marble"
+#~ msgstr "Marble"
+
+#~ msgid "Bovo"
+#~ msgstr "Bovo"
+
+#~ msgid "Five-in-a-row Board Game"
+#~ msgstr "Gobanga bretludo"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "Surekrana kreaĵo"
+
+#~ msgid "Parley"
+#~ msgstr "Parley"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Vortara Trejnado"
+
+#~ msgid "KFontView"
+#~ msgstr "Tiparorigardilo"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Funkcia desegnilo"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPloto"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "Matematika funkcia desegnilo"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "Ilo por konekti al Interreto"
+
+#~ msgid "KPPP"
+#~ msgstr "Interretkonektilo"
+
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Labortabla Planetario"
+
+#~ msgid "KStars"
+#~ msgstr "Steloj"
+
+#~ msgid "Four-in-a-row Board Game"
+#~ msgstr "Gobanga bretludo"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "KAlarm"
+#~ msgstr "Alarmilo"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Persona alarmplanilo"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Paperuja administrilo"
+
+#~ msgid "Kapman"
+#~ msgstr "Kapman"
+
+#~ msgid "KTron"
+#~ msgstr "Trono"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "\"Tron\"-simila ludo"
+
+#~ msgid "KDiskFree"
+#~ msgstr "Diskuzo"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Montras la okupitan kaj liberan spacon sur la diskoj"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "BitTorrent-Kliento"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "Fasado de Profililo"
+
+#~ msgid "Download Manager"
+#~ msgstr "Elŝut-administrilo"
+
+#~ msgid "KGet"
+#~ msgstr "Prenilo"
+
+#~ msgid "A Geography Learning Program"
+#~ msgstr "Programo por lerni geografion"
+
+#~ msgid "Geography Trainer"
+#~ msgstr "Geografia trajnilo"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolorlinioj"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "Ekzercaj Frakcioj"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Ekzerci kun frakcioj"
+
+#~ msgid "Lokalize"
+#~ msgstr "Lokalize"
+
+#~ msgid "Info Center"
+#~ msgstr "Infocentro"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgid "KTeaTime"
+#~ msgstr "KTeaTime"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Teinfuzilo"
+
+#~ msgid "Change Password"
+#~ msgstr "Ŝanĝu pasvorton"
+
+#~ msgid "Connect the dots to create squares"
+#~ msgstr "Konektu la punktojn por krei kvadratojn"
+
+#~ msgid "KSquares"
+#~ msgstr "KSquares"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "KonzolKalendaro"
+
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "Japana referenc- kaj studilo"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Japana referenc- kaj studilo"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "Miksilo"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Sonormiksilo"
+
+#~ msgid "KBugBuster"
+#~ msgstr "Eraroĉasilo"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "KDE-Eraroadministrado"
+
+#~ msgid "Welcome"
+#~ msgstr "Bonvenon"
+
+#~ msgid "Kolf"
+#~ msgstr "Golfo"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Eta golfludo"
+
+#~ msgid "KwikDisk"
+#~ msgstr "Diskokroĉilo"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Ŝanĝebla disko ilo"
+
+#~ msgid "Ball Bouncing Game"
+#~ msgstr "Ludo de saltadantaj pilkoj"
+
+#~ msgid "KBounce"
+#~ msgstr "Saltpilko"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "Aŭtomata Musklako"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Klakas la muson por vi, tio reduktas la efekton de RSI"
+
+#~ msgid "KMouseTool"
+#~ msgstr "Kmusilo"
+
+#~ msgid "System Cleaner"
+#~ msgstr "Sistema purigilo"
+
+#~ msgid "Trash"
+#~ msgstr "Rubujo"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "\"Minesweeper\"-simila ludo"
+
+#~ msgid "Board Game"
+#~ msgstr "Tabuloludo"
+
+#~ msgid "SameGame"
+#~ msgstr "Samludo"
+
+#~ msgid "KWrite"
+#~ msgstr "Malnova simpla kodredaktilo"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Pli bona Tekstredaktilo"
+
+#~ msgid "Kate"
+#~ msgstr "Kodredaktilo"
+
+#~ msgid "Okteta"
+#~ msgstr "Okteta"
+
+#~ msgid "KNode"
+#~ msgstr "Diskutrondoj"
+
+#~ msgid "News Reader"
+#~ msgstr "Legilo por diskutrondoj"
+
+#~ msgid "Step"
+#~ msgstr "Step"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Menuredaktilo"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Muzikludilo"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Tempomezurilo por viaj aktivecoj"
+
+#~ msgid "KRDC"
+#~ msgstr "KRDC"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC-servilo"
+
+#~ msgid "Educational Programming Environment"
+#~ msgstr "Edukema programara ĉirkaŭaĵo"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Trovu Dosierojn/Dosierujojn"
+
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr "Raporta vidilo por telefona interreto"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "PPP-protokolorigardilo"
+
+#~ msgid "Kollision"
+#~ msgstr "Kollision"
+
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "Explorado de geometriaj konstruaĵoj"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Interaga geometrios"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Dosieradministrilo (kiel sistemestro)"
+
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "KDE literordiga ludo"
+
+#~ msgid "Kanagram"
+#~ msgstr "Kanagramo"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Literordiga ludo"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Glunotoj"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Formatilo por disketoj"
+
+#~ msgid "KFloppy"
+#~ msgstr "Disketingo"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Klavkombinoj"
+
+#~ msgid "Add urpmi media"
+#~ msgstr "Aldoni urpmi-portilojn"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid "Mandriva Linux Pxelinux configurator"
+#~ msgstr "Mandriva agordilo de Pxelinux"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la itala"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la korea"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prologo"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Qt-Interfacdesegnilo"
+
+#~ msgid "Aumix"
+#~ msgstr "Sonmiksilo"
+
+#~ msgid "Enable/disable installed plugins"
+#~ msgstr "Enŝalti/elŝalti instalitaj kromaĵoj"
+
+#~ msgid "Keyboard Indicator plugins"
+#~ msgstr "Klavarindikilaj kromaĵoj"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "Agordilo por son-kardoj bazitaj sur Envy24 (ice1712)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la japana"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Tridimensia Tankbatalludo por plurludantoj"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Open Folder"
+#~ msgstr "Malfermu dosierujon"
+
+#~ msgid "Download and share files over BitTorrent"
+#~ msgstr "Elŝuti kaj kunhavigi dosierojn per BitTorrent"
+
+#~ msgid "Transmission"
+#~ msgstr "Transmission"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilo Thunderbird"
+
+#~ msgid "Use the command line"
+#~ msgstr "Uzi komandolinion"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "Elektu kiujn aplikaĵojn startigi kiam vi ensalutas."
+
+#~ msgid "Startup Applications"
+#~ msgstr "Komencaj aplikaĵoj"
+
+#~ msgid "Windows"
+#~ msgstr "Fenestroj"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Frozen Bubble arkado-ludo"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "AisleRiot ermitludo"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "DjVu-rigardilo"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Foliumi la TTT-on"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt-Lingvisto"
+
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr "Notigi, ligi ideojn kaj resti organizata"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Tomboy-notoj"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Arkivo-administrilo"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Krei kaj modifi arkivon"
+
+#~ msgid "About GNOME"
+#~ msgstr "Pri GNOME"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Lernu pli pri GNOME"
+
+#~ msgid "Task Manager"
+#~ msgstr "Taskmanaĝero"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeriko"
+
+#~ msgid "Keyboard"
+#~ msgstr "Klavaro"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la hungara"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Agordi vian muson"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Database"
+#~ msgstr "Datumbazoj"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Freeciv servilo"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "Ŝanĝi la konduton kaj aperon de dosieradministrilaj fenestroj"
+
+#~ msgid "File Management"
+#~ msgstr "Dosieradministrado"
+
+#~ msgid "Qt Assistant - 3"
+#~ msgstr "Qt-Lingvisto - 3"
+
+#~ msgid "Tool for translating message catalogues of Qt based programs"
+#~ msgstr "Ilo por tradukado de mesaĝaroj de Qt-bazitaj programoj"
+
+#~ msgid "Ekiga Softphone"
+#~ msgstr "Softvartelefono Ekiga"
+
+#~ msgid "IP Telephony, VoIP and Video Conferencing"
+#~ msgstr "IP-Telefonio, VoIP kaj VideoKonferenco"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Babelu kun personoj en Interreto"
+
+#~ msgid "Edit text files"
+#~ msgstr "Redakti tekstajn dosierojn"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Page Layout"
+#~ msgstr "DTP-programo"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "DTP-programo"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la germana"
+
+#~ msgid "Howtos German"
+#~ msgstr "KielFari-aj dokumentoj germanaj"
+
+#~ msgid "Network Center"
+#~ msgstr "Reta centro"
+
+#~ msgid "Internet Messenger"
+#~ msgstr "Interreta Mesaĝilo"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Piĝin Interreta Mesaĝilo"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la rumana"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la pola"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la angla"
+
+#~ msgid "VI editor"
+#~ msgstr "VI redaktilo"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la greka"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "KielFari-aj dokumentoj grekaj"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Ludi la popularan kartludon FreeCell"
+
+#~ msgid "Window Manager"
+#~ msgstr "Administradilo de Fenestroj"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la indonezia"
+
+#~ msgid "Create and edit Scalable Vector Graphics images"
+#~ msgstr "Kreu kaj redaktu bildoj en formato SVG (Scalable Vector Graphics)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la ĉina"
+
+#~ msgid "Create images and edit photographs"
+#~ msgstr "Kreu bildojn aŭ redaktu fotojn"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "Bilada Redaktilo"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Alia 3-dimensia lumocikla ludo"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr ""
+#~ "KIELFARI-aj dokumentoj (html formataj) de la Linuksa Dokumentada Projekto "
+#~ "en la sveda"
+
+#~ msgid "A graphical front end for installing, removing and updating packages"
+#~ msgstr "Grafika fasado por instali, forigi kaj ĝisdatigi pakaĵojn"
+
+#~ msgid "Install & Remove Software"
+#~ msgstr "Instali kaj Forigi Programojn"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "KOffice"
+#~ msgstr "KOffice"
+
+#~ msgid "Kaffeine"
+#~ msgstr "Kaffeine"
+
+#~ msgid "Terminal Emulator"
+#~ msgstr "Terminala Simulilo"
+
+#~ msgid "Bulk Rename"
+#~ msgstr "Amasa Renomilo"
+
+#~ msgid "Rename Multiple Files"
+#~ msgstr "Renomigu Multajn Dosierojn"
+
+#~ msgid "Open Folder with Thunar"
+#~ msgstr "Malfermu dosierujon per Thunar"
+
+#~ msgid "Open the specified folders in Thunar"
+#~ msgstr "Malfermu definitajn dosierujojn per Thunar"
+
+#~ msgid "Browse the filesystem with the file manager"
+#~ msgstr "Rigardu dosier-sistemon per dosier-administrilo"
+
+#~ msgid "Thunar File Manager"
+#~ msgstr "Thunar dosier-administrilo"
+
+#~ msgid "AbiWord"
+#~ msgstr "Abi-Verkilo"
+
+#~ msgid "A dock-like window navigator."
+#~ msgstr "Doka fenestro navigilo."
+
+#~ msgid "Avant Window Navigator"
+#~ msgstr "Avant fenestro-eksplorilo"
+
+#~ msgid "Manage Awn preferences, launchers, applets and themes"
+#~ msgstr "Administri preferaĵojn, lanĉilojn, apletojn kaj etosojn"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Virtualization configuration"
+#~ msgstr "Konfigurado de la virtualigo"
+
+#~ msgid "A tool to create edje files"
+#~ msgstr "Ilo por krei edje-dosieroj"
+
+#~ msgid "Edje Editor"
+#~ msgstr "Edje-redaktilo"
+
+#~ msgid "A simple viewer for Edje files"
+#~ msgstr "Simpla rigardilo por Edje-dosieroj"
+
+#~ msgid "Edje Viewer"
+#~ msgstr "Edje-rigardilo"
+
+#~ msgid "Elitaire Card Games"
+#~ msgstr "Elitaire kartludoj"
+
+#~ msgid "Nice looking card solitaire games for the E17 Desktop Shell"
+#~ msgstr "Belaspekta kartludaro por E17"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigmo"
+
+#~ msgid "Uncover pairs of stones while navigating obstacles using a marble"
+#~ msgstr "Malkovru parojn de ŝtonojn dum vi navigas obstaklojn kun globeto"
+
+#~ msgid "EFL Multimedia Center"
+#~ msgstr "Plurmedia centro (interfaco per EFL)"
+
+#~ msgid "Enna"
+#~ msgstr "Enna"
+
+#~ msgid "An Audio CD Ripper and Encoder"
+#~ msgstr "Aŭdio- eltirilo kaj kodilo"
+
+#~ msgid "Extrackt"
+#~ msgstr "Extrackt"
+
+#~ msgid "Firestarter"
+#~ msgstr "Firestarter"
+
+#~ msgid "A GTK+ Jabber client"
+#~ msgstr "GTK+bazita jabber-kliento"
+
+#~ msgid "Gajim Instant Messenger"
+#~ msgstr "Gajim tujmesaĝilo"
+
+#~ msgid "Jabber IM Client"
+#~ msgstr "Jabber-tujmesaĝilo"
+
+#~ msgid "Subtitle Editor"
+#~ msgstr "Sukteksta Redaktilo"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "Administrado por GCompris"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "Eduka ludo por 2 ĝis 10 jaruloj"
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "Eduka aro GCompris"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr "Plur-aktiveca eduka ludo"
+
+#~ msgid "Create labels, business cards and media covers"
+#~ msgstr "Kreu etikedojn, vizitkartojn kaj kovrilojn de plurmediaĵoj"
+
+#~ msgid "A two paned file manager"
+#~ msgstr "Dupanela dosieradministrilo"
+
+#~ msgid "GNOME Commander"
+#~ msgstr "GNOME Commander"
+
+#~ msgid "Gwibber"
+#~ msgstr "Gwibber"
+
+#~ msgid "Watch & listen"
+#~ msgstr "Rigardu kaj aŭskultu"
+
+#~ msgid "Choqok"
+#~ msgstr "Choqok"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "Database Creator"
+#~ msgstr "Datumbazkreilo"
+
+#~ msgid "kgrapheditor"
+#~ msgstr "kgrapheditor"
+
+#~ msgid "kgraphviewer"
+#~ msgstr "kgraphviewer"
+
+#~ msgid "(La)TeX development environment"
+#~ msgstr "Programadmedio por (La)TeX"
+
+#~ msgid "Kile"
+#~ msgstr "Kile"
+
+#~ msgid "LaTeX Frontend"
+#~ msgstr "Fasado por LaTeX"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "MSN-kliento"
+
+#~ msgid "KNetworkManager"
+#~ msgstr "KNetworkManager"
+
+#~ msgid "Application for Drawing and Handling of Images"
+#~ msgstr "Aplikaĵo por Desegnado kaj Mastrumado de Bildoj"
+
+#~ msgid "Kuickshow"
+#~ msgstr "Kuickshow"
+
+#~ msgid "Mailody"
+#~ msgstr "Mailody"
+
+#~ msgid "Scan and save images"
+#~ msgstr "Skani kaj konservi bildojn"
+
+#~ msgid "Skanlite"
+#~ msgstr "Skanlite"
+
+#~ msgid "A collection manager"
+#~ msgstr "Mastrumilo de Kolektoj"
+
+#~ msgid "Collection Manager"
+#~ msgstr "Mastrumilo de Kolektoj"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "Yakuake"
+#~ msgstr "Yakuake"
+
+#~ msgid "Defendguin"
+#~ msgstr "Pingvindefendo"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash por Linukso"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr ""
+#~ "Fluxbox-a programo por krei kaj regi la piktogramojn sur la labortablo"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "FlightGear estas aviadila stirludo"
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "OpenGL billard game"
+#~ msgstr "OpenGL-a bilard-ludo"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr "A.D.I.E. - Evoluita dialoga redaktilo uzante la ilaro FOX"
+
+#~ msgid "FOX Adie"
+#~ msgstr "ADIE, FOX-a redaktilo"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Kalkulilo uzante la ilaro FOX"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX-a kalkulilo"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Pingvinkomando"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "XScorch"
+#~ msgstr "XSkorĉo"
+
+#~ msgid "Panel Manager"
+#~ msgstr "Administrilo de Panelo"
+
+#~ msgid "It's the internet"
+#~ msgstr "Jen la interreto"
+
+#~ msgid "Mousepad"
+#~ msgstr "Muskuseno"
+
+#~ msgid "Communicate over the Jabber network"
+#~ msgstr "Ĵabbera Klientilo"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Services"
+#~ msgstr "Servoj"
+
+#~ msgid "Sound Converter"
+#~ msgstr "Konvertoro sonoro"
+
+#~ msgid "A subtitle editor based on GStreamer and Gtk+"
+#~ msgstr "Subteksta redaktilo bazita je GStreamer kaj Gtk+"
+
+#~ msgid "Easy quick task management"
+#~ msgstr "Facila, rapida administrado de taskoj"
+
+#~ msgid "Tasque"
+#~ msgstr "Tasque"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Desegnoprogramo por infanoj"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux-Desegnilo"
+
+#~ msgid "Desktop calendar"
+#~ msgstr "Labortabla kalendaro"
+
+#~ msgid "Orage"
+#~ msgstr "Oraĝo"
+
+#~ msgid "Graphical Settings Manager for Xfce 4"
+#~ msgstr "Grafika Administradilo de Parametroj por Xfce 4"
+
+#~ msgid "Settings Manager"
+#~ msgstr "Administrilo de Parametroj"
+
+#~ msgid "Xfce 4 Settings Manager"
+#~ msgstr "Xfce 4 Administrilo de Parametroj"
+
+#~ msgid "Window Manager Tweaks"
+#~ msgstr "Rafina Agordo de la Administradilo de Fenestroj"
+
+#~ msgid "Calendar Settings"
+#~ msgstr "Kalendaraj parametroj"
+
+#~ msgid "Settings for the Xfce 4 Calendar Application"
+#~ msgstr "Parametroj por la Xfce 4 Kalendara Aplikaĵo"
+
+#~ msgid "Xfce 4 Calendar Settings"
+#~ msgstr "Xfce 4 Kalendaraj Parametroj"
+
+#~ msgid "Print Manager"
+#~ msgstr "Presada mastrumilo"
+
+#~ msgid "Xfce 4 Print Manager"
+#~ msgstr "Xfce 4 presada mastrumilo"
+
+#~ msgid "Xfce 4 Printing System Settings"
+#~ msgstr "Xfce 4 pres-sistemaj agordoj"
+
+#~ msgid "Print Dialog"
+#~ msgstr "Presa dialogujo"
+
+#~ msgid "Xfce 4 Print Dialog"
+#~ msgstr "Xfce 4 presa dialogujo"
+
+#~ msgid "Jot down notes for later"
+#~ msgstr "Ekskribu notojn por pliposte"

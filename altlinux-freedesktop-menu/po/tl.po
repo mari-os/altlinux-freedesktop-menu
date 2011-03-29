@@ -1,0 +1,3086 @@
+# Menu section translation to Tagalog
+# Copyright (C) 2005 Eric Pareja
+# This file is distributed under the same license as the menu package.
+# Original file, Bill Allombert <ballombe@debian.org>, 2003.
+# Translation by Eric Pareja <xenos@upm.edu.ph>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-section 2.1.9-3\n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2006-08-10 20:11+0800\n"
+"Last-Translator: Eric Pareja <xenos@upm.edu.ph>\n"
+"Language-Team: Tagalog <debian-tl@banwa.upm.edu.ph>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grapiks"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grapiks"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+msgid "A simple amusement"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+#, fuzzy
+msgid "Action"
+msgstr "Edukasyon"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Edukasyon"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Adventure"
+msgstr "Abentura"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Abentura"
+
+msgid "Amateur Radio"
+msgstr ""
+
+msgid "Application to burn a disc"
+msgstr ""
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Application"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Arcade"
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr "Artificial Intelligence (AI)"
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Astronomy"
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "Biology"
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Palaro"
+
+msgid "Boards"
+msgstr "Board"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Calculator"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Mga Emulator"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Palaro"
+
+msgid "Cards"
+msgstr "Baraha"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Baraha"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Chemistry"
+
+msgid "Chemistry software"
+msgstr ""
+
+#, fuzzy
+msgid "Clock"
+msgstr "Lock"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Edukasyon"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Agham pang-Computer"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Agham"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Edukasyon"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr "Visualization ng Data"
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "Database"
+
+msgid "Debug Applications"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Paglilinang"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionary"
+msgstr "Edukasyon"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Dokumentasyon"
+
+msgid "Economy"
+msgstr "Ekonomiya"
+
+msgid "Editors"
+msgstr "Panulat"
+
+msgid "Education"
+msgstr "Edukasyon"
+
+msgid "Electricity"
+msgstr "Elektrisidad"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email applications"
+msgstr ""
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Mga Emulator"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Lock"
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Tagapangasiwa ng Tanaw"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sistema"
+
+msgid "File Transfer"
+msgstr ""
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+msgid "GUI designer applications"
+msgstr ""
+
+msgid "Games"
+msgstr "Palaro"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr "Geography"
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Agham"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Agham"
+
+msgid "Geosciences"
+msgstr "Geosciences"
+
+msgid "Graphics"
+msgstr "Grapiks"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "History"
+msgstr "Kasaysayan"
+
+msgid "IDE"
+msgstr ""
+
+msgid "IDE applications"
+msgstr ""
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr "Pagpoproseso ng image"
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Internet applications"
+msgstr ""
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Wika"
+
+msgid "Literature"
+msgstr "Literatura"
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Palaro"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Mathematics"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Mga viewer"
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Network-related settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr "Numeric Analysis"
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Opisina"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Iba pa"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Pagprograma"
+
+msgid "PDA"
+msgstr ""
+
+msgid "Package manager applications"
+msgstr ""
+
+msgid "Packaging"
+msgstr "Pagpa-Package"
+
+msgid "Parallel Computing"
+msgstr "Parallel Computing"
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Physics"
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Mga Pagtatangi"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr "Pagpi-print"
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr ""
+
+msgid "Project management applications"
+msgstr ""
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grapiks"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr "Robotics"
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "Magtipid"
+
+msgid "Science"
+msgstr "Agham"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Tabing/Telon"
+
+msgid "Security"
+msgstr "Seguridad"
+
+msgid "Security tools"
+msgstr ""
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Mga Setting"
+
+msgid "Simulation"
+msgstr "Simulasiyon"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Simulasiyon"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Tunog"
+
+msgid "Sports"
+msgstr "Palakasan"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Palakasan"
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "Stratehiya"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Stratehiya"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "System settings"
+msgstr ""
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+msgid "TV and Radio applications"
+msgstr ""
+
+msgid "TV applications"
+msgstr ""
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Mga Emulator"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Mga Emulator"
+
+msgid "Text tool utilities"
+msgstr ""
+
+msgid "Text tools"
+msgstr "Kasangkapang pang-text"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Kasangkapan"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Mga Laruan"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grapiks"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Mga viewer"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr "Mga viewer"
+
+msgid "Web Browsing"
+msgstr ""
+
+msgid "Web Development"
+msgstr ""
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Shells"
+#~ msgstr "Mga Shell"
+
+#~ msgid "Text"
+#~ msgstr "Teksto"
+
+#~ msgid "Puzzles"
+#~ msgstr "Palaisipan"
+
+#~ msgid "Help"
+#~ msgstr "Tulong"
+
+#, fuzzy
+#~ msgid "FVWM Modules"
+#~ msgstr "Mga module"
+
+#, fuzzy
+#~ msgid "Window Maker"
+#~ msgstr "Tagapangasiwa ng Tanaw"
+
+#~ msgid "Appearance"
+#~ msgstr "Hitsura"
+
+#~ msgid "WorkSpace"
+#~ msgstr "WorkSpace"
+
+#, fuzzy
+#~ msgid "Iceape Components"
+#~ msgstr "Bahagi ng Mozilla"
+
+#~ msgid "Teddies"
+#~ msgstr "Mga Teddy"
+
+#~ msgid "Apps"
+#~ msgstr "Aplikasyon"
+
+#~ msgid "Hamradio"
+#~ msgstr "Radyo"
+
+#~ msgid "Math"
+#~ msgstr "Matematika"
+
+#~ msgid "Technical"
+#~ msgstr "Teknikal"
+
+#~ msgid "Tetris-like"
+#~ msgstr "Parang Tetris"
+
+#~ msgid "Root-window"
+#~ msgstr "Pangunahing Tanaw"
+
+#~ msgid "XShells"
+#~ msgstr "Mga XShell"
+
+#~ msgid "Admin"
+#~ msgstr "Pangangasiwa"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Anong gagawin?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Libangang pang-edukasyon"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Samut-samot"
+
+#~ msgid "Backups"
+#~ msgstr "Mga backup"
+
+#~ msgid "Internationalization"
+#~ msgstr "Internationalization"
+
+#~ msgid "Servers"
+#~ msgstr "Server"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Advanced"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Mga Advanced na Setting"
+
+#~ msgid "Information"
+#~ msgstr "Inpormasyon"
+
+#~ msgid "Accessories"
+#~ msgstr "Karagdagang Gamit"
+
+#~ msgid "Development Environments"
+#~ msgstr "Kapaligirang Panglinang"
+
+#~ msgid "Control Center"
+#~ msgstr "Sentro ng Kontrol"
+
+#~ msgid ".hidden"
+#~ msgstr ".nakatago"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Pakiusap, huwag alisin o baguhin!"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Mandriva Linux Update"
+
+#~ msgid "Audacity"
+#~ msgstr "Audacity"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang French"
+
+#~ msgid "MIDI file player"
+#~ msgstr "Tagapagpatugtog ng MIDI file"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Minesweeper"
+
+#~ msgid "System Monitor"
+#~ msgstr "Tagamanman ng Sistema"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr ""
+#~ "Tanawin ang mga kasalukuyang proseso at manmanan ang kalagayan ng sistema"
+
+#~ msgid "GQview"
+#~ msgstr "GQview"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "Isang application ng pagmamanman na batay sa GTK"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "I-browse ang web (WWW)"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Samba Configuration (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Samba Web Administration Tool (SWAT) - pamamahala ng SAMBA"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Lahat ng mga larong solitaryo sa baraha"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "GUI chessboard game"
+#~ msgstr "GUI na larong chessboard"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Panel"
+#~ msgstr "Panel"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Keyboard sa Screen"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Frontend para sa rp-pppoe"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Dutch"
+
+#~ msgid "IDE for Python"
+#~ msgstr "IDE para sa Python"
+
+#~ msgid "Mail notifier"
+#~ msgstr "Tagapag-abisu ng mail o liham"
+
+#~ msgid "Configurator"
+#~ msgstr "Taga-configure"
+
+#~ msgid "Control panel for RME Hammerfall"
+#~ msgstr "Control panel para sa RME Hammerfall"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Digicontrol"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Kumuha ng tulong sa GNOME"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Kasangkapang pang-configure ng client at server FAX"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Magpatugtog ng sine at musika"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Gtk-ocr ay isang GTK front-end para sa gocr"
+
+#~ msgid "Search"
+#~ msgstr "Maghanap"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Spanish"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Browse Available Software"
+#~ msgstr "Tingnan ang mga Available na Software"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Ipakita ang Mundo sa iyong desktop"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "I-browse at isaayos ang iyong mga bookmark"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Slovenian"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Larong aksyon at paglutas ng palaisipan"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Programang kalendaryo at pang-schedule"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Home"
+#~ msgstr "Tahanan"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "Isang engine para sa cool desktop eyecandy."
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Potato Guy"
+
+#~ msgid "KBattleship"
+#~ msgstr "KBattleship"
+
+#~ msgid "CD Player"
+#~ msgstr "Tagapagpatugtog ng CD"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Clone ng Bomberman"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "Front-end sa GnuPG"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr ""
+#~ "Isang applet ng panel para sa pagbabago ng laki at pagbabago ng "
+#~ "orientation ng mga screen ng X"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Pangbago ng Laki & Pang-Ikit ng Screen"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsole"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "Nonlinear video editor for KDE"
+#~ msgstr "Non-linear na pang-edit ng video para sa KDE"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Taga-plot ng function"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Visualization ng Data ng Pagpo-Profile sa Pagkakaganap"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolor Lines"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Mga pagsasanay na ehersisyo tungkol sa mga fraction"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Tsaa Tayo!"
+
+#~ msgid "Change Password"
+#~ msgstr "Baguhin ang Password"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "Welcome"
+#~ msgstr "Maligayang pagdating"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr ""
+#~ "Kini-click ang mouse para sa iyo, binabawasan ang epekto ng RSI "
+#~ "(pinsalang dulot ng paulit-ulit na strain)"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "SameGame"
+#~ msgstr "SameGame"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Pang-Edit ng Menu"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Pansariling Pangsubaybay ng Oras"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "Pang-KDE na Linux infrared remote control server."
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Tagapangasiwa ng File - Super User Mode"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Mga Pop-up Note"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Tagaformat ng Floppy"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Keyboard Shortcuts"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Italian"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Korean"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "Program para sa panonood ng TV"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Visualization Data Explorer"
+#~ msgstr "Visualization Data Explorer"
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Impress"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Math"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "I-configure ang iyong kapaligirang database"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr ""
+#~ "Kasangkapang pangkontrol para sa mga sound card na batay sa Envy24 "
+#~ "(ice1712)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Japanese"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Pangmaramihang larong 3D tungkol sa labanan o giyera ng tangke"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "Larong palaisipan na pangmaramihan"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilla Thunderbird"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Frozen Bubble - larong arcade"
+
+#~ msgid "Notepad"
+#~ msgstr "Notepad"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Magdagdag o magtanggal ng mga user o grupo"
+
+#~ msgid "Browse the Web"
+#~ msgstr "I-browse ang Web"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt Linguist"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Keyboard"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Hungarian"
+
+#~ msgid "Mouse"
+#~ msgstr "Mouse"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr ""
+#~ "Graphical na front-end para mag-install ng mga RPM file (software package)"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "ChBg - Tagapangasiwa at Pangbago ng background/screensaver"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr ""
+#~ "Muling pagpapatupad ng lumang game na kilala bilang Tower Toppler o "
+#~ "Nebulous"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Writer"
+
+#~ msgid "Database"
+#~ msgstr "Database"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Freeciv server"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Isang professional na sistema ng CAD"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Magbasa ng News mula sa Usenet"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr ""
+#~ "And standard terminal emulator (manggagaya terminal) para sa X Window "
+#~ "System"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "Front-end para sa nmap port scanner (pang-scan ng port)"
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCConfig"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid ""
+#~ "A version of the rxvt terminal with support for Traditional Chinese, "
+#~ "Simplified Chinese, Japanese and Korean."
+#~ msgstr ""
+#~ "Isang version ng rxvt terminal na may suporta para sa Traditional "
+#~ "Chinese, Simplified Chinese, Japanese at Korean."
+
+#~ msgid "RXvt"
+#~ msgstr "RXvt"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang German"
+
+#~ msgid "Howtos German"
+#~ msgstr "Mga HOWTO sa wikang German"
+
+#~ msgid "System information"
+#~ msgstr "Inpormasyon sa Sistema"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Romanian"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr ""
+#~ "Sentrong pagco-configure at inpormasyon na kasangkapang pang-hardware"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Polish"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "Frontend para sa madaling pagpi-print gamit ang CUPS"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Registry Editor"
+#~ msgstr "Pang-edit ng Registry"
+
+#~ msgid "Screen Reader and Magnifier"
+#~ msgstr "Pangbasa at pangpalaki ng Screen"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang English"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "All-purpose na pang-edit ng text"
+
+#~ msgid "VI editor"
+#~ msgstr "VI - pang-edit"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Greek"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Mga HOWTO sa wikang Greek"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Indonesian"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Ang tanyag na program na nagpa-plot ng function"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "I-edit ng direkta ang iyong buong database ng configuration"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Chinese"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Isa pang 3D na larong lightcycle"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Larong parang boulderdash"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Rocks n Diamonds"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Finnish"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr ""
+#~ "Mga dokumentong HOWTO (html format) mula sa Proyektong Pagdodokumento ng "
+#~ "Linux, sa wikang Swedish"
+
+#~ msgid "Drawing"
+#~ msgstr "Pagguguhit"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Draw"
+
+#~ msgid "Battery Monitor"
+#~ msgstr "Tagamanman ng Baterya"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Conglomerate XML Editor"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Mag-edit ng mga XML file"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Pang-debug ng Data Display"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Dr. Geo - kasangkapang pang-matematika"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Firestarter"
+#~ msgstr "Firestarter"
+
+#~ msgid "Galculator"
+#~ msgstr "Galculator"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "GNOME na Hexadecimal na Pang-edit"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Blog Entry Poster"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Magpaskil ng entry sa isang web log"
+
+#~ msgid "Hearts"
+#~ msgstr "Hearts"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "Pangtanaw ng GTKWave Electronic Waveform"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Knights"
+#~ msgstr "Knights"
+
+#~ msgid "A batch renamer"
+#~ msgstr "Isang pangbago ng pangalan na pang-maramihan"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Twin-Panel na Tagapangasiwa ng File"
+
+#~ msgid "Kuickshow"
+#~ msgstr "Kuickshow"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "Isang natatanging larong giyera na pang-maramihan"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "First person shooter game"
+#~ msgstr "Larong barilan na \"first person\""
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "Simpleng larong barilan na gamit ang mouse."
+
+#~ msgid "A MacOS run-time environment"
+#~ msgstr "Run-time environment para sa MacOS"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaver"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "Synthesized Loops"
+#~ msgstr "Synthesized Loops"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (Pangkuha ng Malayong Mensahe sa Web)"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "Kahanga-hangang Pakikipagsapalaran ni Abe!!"
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Ang tanyag na larong Crack-Dot-Com"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Pangkuha at pang-convert ng video"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "AirStrike"
+#~ msgstr "AirStrike"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "Nakakaadik na larong 2D na labanang panghimpapawid"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "Pang-decode at pang-browse ng Teletext/Videotext"
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "Istilong arcade na pinaghalong asteroids at pool"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "Graphical na frontend sa Valgrind na tagasuri ng memory"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "Kasangkapang pang-browse at pagkatha sa web ng W3C"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Alsa Modular Synth"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "Modular na Synthesizer para sa ALSA"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Angel Wars"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr ""
+#~ "Mabilisan at makalumang \"side-scrolling\" na barilang pangkalawakan"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "GUI para sa Genpak"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "Advanced Strategic Command"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "Isang 3D na \"first-person\" na larong pagpapasabog ng mga asteroid"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Asteroids3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Pangkontrol ng brainwave"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "Console ng Bacula Director"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "I-configure ang pagtitipid ng enerhiya para sa sistema mo"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Pagtitipid ng Enerhiya"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr ""
+#~ "Ang Bbconf ay isang kompletong GUI na kasangkapang pang-configure para sa "
+#~ "blackbox"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "Kasangkapang pangguhit ng 2D na istruktura ng kemikal"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Parang Super Mario Brothers (TM) na laro"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (VOCP Box Configuration interface)"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "Nagmamanman na pato sa garapon na dockapp"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Pumatay ng mga insekto gamit ang mouse"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr ""
+#~ "C1541 na \"stand alone\" na program ng pagkakandili ng image ng disk"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "VICE kasangkapang pang-image ng disk"
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Callcenter (VOCP Sentro ng Tawag)"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "Program na pangsubok ng broadband na koneksyon"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Kasangkapang pang-webcam (web camera)"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "Kasangkapang pangkandili para sa mga inkjet printer ng Canon"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Certain Death via Space Things (CDvST)"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Graphical na laro ng GO"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Isang program para sa paggawa ng mga musika na module"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr ""
+#~ "Pang-browse ng Network at mga Kasangkapan (kailangan ang umaandar na "
+#~ "agent)"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr ""
+#~ "Clanbomber - libreng (GPL) pangmaramihang laro na katulad ng Bomberman"
+
+#~ msgid "MIDI controller for ZynAddSubFX"
+#~ msgstr "MIDI controller para sa ZynAddSubFX"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander na OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Pumili ng tema ng mouse na cursor"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Cursor Themes (tema ng cursor)"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Isang clone ng Defender"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Isang simpleng web browser"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Distcc monitor"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "Isang madaling gamitin na aklat ng tirahan (address book)"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "Isang manggagaya ng DOS"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "Dr. Python"
+#~ msgstr "Dr. Python"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "Pang-edit ng python at IDE (Pinagbuklod na Kapaligirang Panglinang)"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "2D na pang-edit ng molecule"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "FICS chess-server interface"
+#~ msgstr "Interface ng FICS chess-server"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr ""
+#~ "Pagpoproseso ng tunog, multitrack na pagrerecord, at mga kasangkapang "
+#~ "pang-mix"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animator"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "Isang GTK na tagapangasiwa ng file"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Ang Enigma ay isang larong palaisipan"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "Ang EPIC ay ang (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+
+#~ msgid "Python IDE"
+#~ msgstr "Pinagbuklod na Kapaligirang Panglinang pang-Python"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "Isang OSS mixer na puno ng katangian"
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolvotron"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "Interactive na software ng \"generative art\""
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash para sa Linux"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr ""
+#~ "Isang application ng Fluxbox para gumawa at pangasiwaan ang mga icon sa "
+#~ "desktop mo"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "FlightGear Flight Simulator (nagpapanggap na paglipad)"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr "A.D.I.E. - Advanced Interactive Editor gamit ang FOX toolkit"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Isang calculator na gumagamit ng FOX toolkit"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX Calculator"
+
+#~ msgid "FrameWorks"
+#~ msgstr "FrameWorks"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "Stop-motion animation na kasangkapan"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "Bass synth/sequencer/sample na tagapagpatugtog para sa linux"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "Clone ng larong Paradroid sa C64"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Taga-manipulate ng tunog"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr ""
+#~ "Kalkulahin ang mga layo ng fret para sa mga de-taling instrumentong "
+#~ "pangmusika"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "3D file browser"
+#~ msgstr "3D na pang-browse ng file"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "FVWM Window manager (tagapangasiwa ng bintana)"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "3D na pangtanaw ng mapa"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "Xmms na pangtanaw ng takip"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "Pangtanaw ng blobs :)"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "Ipakita ang kalagayan ng mga LED (ilaw) ng keyboard"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "Gai-mailcounter"
+
+#~ msgid "Mail counter"
+#~ msgstr "Tagabilang ng liham"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "Ipakita ang oras kung takipsilim o bukang-liwayway"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "Gai-visual-studio"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "I-visualize ang output ng XMMS"
+
+#~ msgid "Galan"
+#~ msgstr "Galan"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "3D na Pangtanaw ng Molecule"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "2D na larong volleyball"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "I-edit ang iyong mga pagtatangi sa GNOME"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Nagtagpo ang Tetris at Space Invaders"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Aklat ng grado para sa mga guro"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "GNOME na Frontend ng MM/QM"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "aksyon na flight simulator (nagpapanggap na paglipad)"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "OpenGL na pangtanaw ng graphics"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "3D na larong lightcycle"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "Gnome Client para sa masqdialer modem server"
+
+#~ msgid "Memory usage"
+#~ msgstr "Paggamit ng memory"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "MIDI Auto-Accompaniment"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Ang Gnometab ay isang pang-edit ng tablatura ng gitara."
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Robbo"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "Teleponong pang-Internet"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "Pppoe monitor"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "Paglilipat ng Data ng GPS"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "Control print jobs"
+#~ msgstr "Kontrolin ang mga gawaing pagpi-print"
+
+#~ msgid "Grace"
+#~ msgstr "Grace"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "Graphical na visualization ng scientific data"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "The cellular automaton simulator"
+#~ msgstr "Ang cellular automaton simulator"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "Geographic Resources Analysis Support System (GRASS)"
+
+#~ msgid "Greenwich"
+#~ msgstr "Greenwich"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "Isang RPN calculator"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "TetriNET game client para sa Linux"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "Configuration ng mga IPTables Rule"
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "Baguhin ang tema ng GTK1"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "Pangbago ng Tema ng GTK"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "Gtk frontend sa asp2php"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "Graphical na program para sa paghahanap ng file"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "GTK Guitar Effects"
+
+#~ msgid "Realtime effects"
+#~ msgstr "Realtime effects"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "GTK frontend para sa CUPS"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "GTK frontend sa GTKlp CUPS Queue"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "Gtk na version ng motd"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Siag - pangtanaw ng postscript (ps)"
+
+#~ msgid "Heroes"
+#~ msgstr "Heroes"
+
+#~ msgid "Hexadecimal calculator"
+#~ msgstr "Hexadecimal na calculator"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "Othello clone"
+#~ msgstr "Clone ng Othello"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "Configurator for the GTK+2 Japanese Input Module"
+#~ msgstr "Taga-configure para sa GTK+2 na Japanese Input Module"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "ImgSeek Photo Manager - tagapangasiwa ng litrato o larawan"
+
+#~ msgid "Inventory"
+#~ msgstr "Inventory"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr ""
+#~ "Isang Simpleng Program na Pang-Inventory (talaan ng mga kasangkapan / "
+#~ "gamit)"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Image browser"
+#~ msgstr "Pang-browse ng image o larawan"
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "Jigsaw Download"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "GTK2 na FTP client"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "ALSA connections"
+#~ msgstr "Mga ALSA na koneksyon"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Si Kiki ang nanobot"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "QT na Pangtanaw ng Molecule"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "Isang graphical na pangtanaw ng process o proseso"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Isang clone ng Panzer General"
+
+#~ msgid "Lynx-like text WWW browser"
+#~ msgstr "Pang-browse ng Web (WWW) na kahawig ng lynx"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "LongPlayer"
+#~ msgstr "LongPlayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "Magandang clone ng tetris"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr ""
+#~ "Magpalipad ng maliit na hugis V na \"ship\" sa isang 2D na larong arcade"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "Saluhin ang mga bomba"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit"
+
+#~ msgid "UNIX manual pages editor"
+#~ msgstr "Pang-edit ng mga pahina ng UNIX manual"
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "MAS - Pagpupulong sa Internet"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS - Mixer"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "Interactive na pang-graph ng function"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "Tcl/Tk na interface sa Maxima"
+
+#~ msgid "A bubble bobble like arcade game"
+#~ msgstr "Larong arcade na parang bubble bobble"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "Mirror Magic"
+#~ msgstr "Mirror Magic"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr ""
+#~ "Isang terminal emulator (manggagaya ng terminal) na pangmaramihang wika"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Maitretarot Client"
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "Ping/Traceroute network diagnostic tool"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "MIDI sequencer"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "Nessus"
+#~ msgstr "Nessus"
+
+#~ msgid "NiL Isn't Liero"
+#~ msgstr "NiL Isn't Liero"
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "Nuclear Chess"
+
+#~ msgid "NexTView EPG decoder and browser"
+#~ msgstr "NexTView EPG decoder at pang-browse"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "Digital na Gradebook"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Orbital Eunuchs Sniper"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "OSD Xine Video Player"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Desktop Publishing for X (PAO)"
+#~ msgstr "Desktop Publishing para sa X (PAO)"
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "Isang clone ng tanyag na larong Missile Command"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Penguin Command"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Emilia 3d Pinball"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - Isang libreng clone ng Lemmings"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "POPFile - Automatic na Pagklasipika ng Liham"
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "PrBooM-GL Multiplayer"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "PrBooM Multiplayer"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Free SSH, Telnet and Rlogin client"
+#~ msgstr "Libreng SSH, Telnet at Rlogin client"
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "Pathetic Writer"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "Siag Office Pathetic writer"
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "Mga kontroladong graphics ng molecule na gawa sa python"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "GUI para sa pagre-record sa ALSA"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Multipage TIFF viewer"
+#~ msgstr "Maramihang pahina na pangtanaw ng TIFF"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Jackit Connector na batay sa Qt"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "QtRadio - makinig sa radyo gamit ang QtRadio."
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "Lumikha ng mga 3D na fractal object"
+
+#~ msgid "Keep track of things"
+#~ msgstr "Subaybayan o bakasan ang mga bagay-bagay"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "Panggawa ng Video CD (VCD)"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "RuBy BRowser"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "Pang-edit ng Digital audio"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr ""
+#~ "Root-tail ay nagpi-print ng direkta sa isang X11 na bintana ng root (root "
+#~ "window)"
+
+#~ msgid "File Manager of the ROX desktop environment"
+#~ msgstr "Tagapangasiwa ng File ng ROX na kapaligirang pang-desktop"
+
+#~ msgid "High-level language for numerical computations"
+#~ msgstr "High-level language para sa mga numerical computation"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr ""
+#~ "SDLRoids - isang pinaigting na shoot-the-asteroids (barilin ang mga "
+#~ "asteroid)"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "Loop-based MIDI sequencer"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr "MIDI event mixer"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Kumukuha ng litrato ng screen at sine-save sa file"
+
+#~ msgid "SimSam"
+#~ msgstr "SimSam"
+
+#~ msgid "Simple Sampler"
+#~ msgstr "Simple Sampler"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr ""
+#~ "Larong 3D na pangmaramihang karera at wasakan ng sasakyan na gawa sa "
+#~ "Python"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "GPL sound font editor"
+#~ msgstr "GPL na pang-edit ng sound font"
+
+#~ msgid "Music player"
+#~ msgstr "Tagapagpatugtog ng musika"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr ""
+#~ "2D na magulong larong arcade tungkol sa pagkokolekta ng mga kahon at pag-"
+#~ "iwas sa mga bala"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "Pang-edit ng tablatura ng gitara"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "Grass ginagamit ang Spearfish na sample data set"
+
+#~ msgid "MIDI software sampler"
+#~ msgstr "MIDI software sampler"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "Spiral Modular Software Synthesizer"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "Spiral Modular Synth"
+
+#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
+#~ msgstr "MIDI keyboard splitter para sa ZynAddSubFX"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "Project: Starfighter"
+
+#~ msgid "Star Voyager"
+#~ msgstr "Star Voyager"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "GUI para sa Samsung Uproar at Yepp"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr ""
+#~ "Ang VLC ay isang libreng tagapagpatugtog ng MPEG, MPEG2, DVD at DivX"
+
+#~ msgid "VLC skinned GUI media player"
+#~ msgstr "GUI na tagapagpatugtog ng media na nakabalat na VLC"
+
+#~ msgid "Swami"
+#~ msgstr "Swami"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "JACK TimeMachine"
+#~ msgstr "JACK TimeMachine"
+
+#~ msgid "Records audio from ten seconds ago"
+#~ msgstr "Nagre-record ng audio mula sa nakaraang sampung segundo"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "The Open Racing Car Simulator (TORCS) - karera ng sasakyan"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Tuxedo T. Penguin: A Quest For Herring"
+
+#~ msgid "Karting with tux"
+#~ msgstr "Karting kasama si tux"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "Ang mga Ur-Quan Masters"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "Ur-Quan Masters"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "3D model assembler"
+#~ msgstr "Tagabuo ng 3D na model"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr ""
+#~ "Ang tanyag na pang-edit ng UNIX na vi na dinagdagan ng Vigor na Alalay"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr "VOCPhax (VOCP GUI na Pangtanaw Pangpadala ng Fax)"
+
+#~ msgid "Main Volume control dockapp"
+#~ msgstr "Dockapp na pangkontrol ng Main Volume"
+
+#~ msgid "Volume knob"
+#~ msgstr "Volume knob"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "VICE SID na tagapagpatugtog ng musika para sa nga tono ng Commodore"
+
+#~ msgid "VSID music player"
+#~ msgstr "VSID tagapagpatugtog ng musika"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "Graphical na pang-edit ng sound"
+
+#~ msgid "Battle For Wesnoth editor"
+#~ msgstr "Battle For Wesnoth pang-edit"
+
+#~ msgid "The map editor of Battle for Wesnoth"
+#~ msgstr "Pang-edit ng mapa ng Battle for Wesnoth"
+
+#~ msgid "A fantasy turn-based strategy game."
+#~ msgstr "Isang larong pantasya na turn-based."
+
+#~ msgid "Battle For Wesnoth"
+#~ msgstr "Battle For Wesnoth"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Magandang larong karera kung saan bida si Tux"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Clone ng Settlers II"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Configuration ng Wireless LAN"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "WindowMaker dock application for linuxfr-addicted people"
+#~ msgstr "WindowMaker na dock application para sa mga taong adik sa linuxfr"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "Pagmamanman ng CPU na nasa dockapp"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr "Dockapp na nagpapakita ng load ng CPU bilang apoy sa maliit na icon"
+
+#~ msgid "Analog clock in a tank fish"
+#~ msgstr "Orasang analog sa loob ng tangke ng isda (aquarium)"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr "Isang dockapp na nagpapakita ng umiikot na Mundo sa isang icon"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "Dockapp OSS sound mixer"
+#~ msgstr "Dockapp OSS sound mixer"
+
+#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
+#~ msgstr "Dockapp na nagmamanman ng Memory / Swap para sa WindowMaker"
+
+#~ msgid "UPS monitoring in a dockapp"
+#~ msgstr "Pagmamanman ng UPS sa isang dockapp"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
+#~ msgstr ""
+#~ "Dockapp na nagmamanman ng maramihang kahon ng liham (mailbox) via POP3"
+
+#~ msgid "WmsMixer"
+#~ msgstr "WmsMixer"
+
+#~ msgid "A stock quote data display in a small icon"
+#~ msgstr "Pagpapakita ng data sa maliit na icon tungkol sa \"stock quote\""
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr "Inpormasyong Sistema (memory, swap, uptime, IO) sa maliit na icon"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "Watch your own webcam in a small dockapp window"
+#~ msgstr ""
+#~ "Panoorin ang iyong sariling webcam sa isang maliit na bintana ng dockapp"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
+#~ msgstr "Tagapangasiwa ng file, katulad ng Directory Opus sa AMIGA"
+
+#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
+#~ msgstr ""
+#~ "Umaalalay sa pagbawi at pagpigil ng Repetitive Strain Injury (RSI) o "
+#~ "pinasala na dulot ng paulit-ulit na strain"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "A GUI builder for wxWindows/wxPython"
+#~ msgstr "Pangbuo ng GUI para sa wxWindows/wxPython"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "Manggagaya ng C128"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Manggagaya ng Commodore 128"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "Manggagaya ng C64"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Manggagaya ng Commodore 64"
+
+#~ msgid "Realtime fractal zoomer"
+#~ msgstr "Realtime fractal zoomer"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "Clone ng larong ARCHON"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "Manggagaya ng CBM2"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Manggagaya ng Commodore BM 2"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Siag - pang-edit ng text"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "The XEmacs editor"
+#~ msgstr "Ang XEmacs na pang-edit"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Siag - tagapangasiwa ng file"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "A mp3 playlist frontend"
+#~ msgstr "Frontend ng mp3 playlist (talaan ng patutugtuging mp3)"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "Mr. Is, a Mr. Do clone for X"
+#~ msgstr "Mr. Is, clone ng Mr. Do para sa X"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Display penguins running on your desktop."
+#~ msgstr "Magpakita ng mga penguin na tumatakbo sa iyong desktop."
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Manggagaya ng Commodore PET"
+
+#~ msgid "PET Emulator"
+#~ msgstr "Manggagaya ng PET"
+
+#~ msgid "Fly/shoot arcade game"
+#~ msgstr "Larong arcade tungkol sa paglipad at barilan"
+
+#~ msgid "Xpilot server"
+#~ msgstr "Xpilot server"
+
+#~ msgid "Xpilot - Requires server"
+#~ msgstr "Xpilot - kailangan ng server"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "Manggagaya ng CPLUS4"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Manggagaya ng Commodore PLUS4"
+
+#~ msgid "News reader"
+#~ msgstr "Pangbasa ng balita o news"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "Tool for manipulating software packages"
+#~ msgstr "Kasangkapang pangkalikot ng mga software package"
+
+#~ msgid "Cool arcade/thinking game very much like Lode Runner"
+#~ msgstr "Ayos na larong arcade/pag-iisip na katulad ng Lode Runner"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "Clone of Scorched Earth"
+#~ msgstr "Clone ng Scorched Earth"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "QT na version ng tagapagpatugtog ng musika ng Commodore 64"
+
+#~ msgid "The Skat game"
+#~ msgstr "Ang larong Skat"
+
+#~ msgid "Shooting game on X Window System"
+#~ msgstr "Larong barilan sa X Window System"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Manggagaya ng Commodore VIC 20"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "Manggagaya ng VIC 20"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (Graphical na pangkuha ng mga mensaheng boses)"
+
+#~ msgid "A level editor for DOOM"
+#~ msgstr "Pang-edit ng level para sa DOOM"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Real-time MIDI software synth"
+#~ msgstr "Real-time MIDI software synth"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Mash monsters and save the gnomes"
+#~ msgstr "Lamasin ang mga halimaw at iligtas ang mga gnome"
+
+#~ msgid "Monster Masher"
+#~ msgstr "Monster Masher"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Makinig sa iyong musika"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Muine Music Player"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Downloader for X"
+#~ msgstr "Downloader for X"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Organize and secure your passwords"
+#~ msgstr "Isaayos at i-secure ang iyong mga password"
+
+#~ msgid "ripperX"
+#~ msgstr "ripperX"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Scorched Earth 3D OpenGL Remake"
+#~ msgstr "Muling paggawa ng Scorched Earth sa 3D na OpenGL"
+
+#~ msgid "Services"
+#~ msgstr "Mga service"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Configuration ng Proc"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "Terminal Server Client"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid "VLC media player"
+#~ msgstr "VLC tagapagpatugtog ng media"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "IBM 3270 Terminal Emulator - manggagaya ng terminal"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "DOS emulator running under X"
+#~ msgstr "Manggagaya ng DOS na umaandar sa ilalim ng X"
+
+#~ msgid "Sticky Notes"
+#~ msgstr "Madikit na mga note o tanda"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"

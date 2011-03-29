@@ -1,0 +1,832 @@
+# Translation into Limburgish
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/li.php3
+#
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2002-12-27 17:12+0530\n"
+"Last-Translator: Nobody\n"
+"Language-Team: Limburgish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafis"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafis"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Besjtandjwirtsjaf"
+
+msgid "Accessibility"
+msgstr ""
+
+#, fuzzy
+msgid "Action"
+msgstr "Toepassinge"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Toepassinge"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Toepassinge"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr ""
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Sjpelkes"
+
+#, fuzzy
+msgid "Boards"
+msgstr "Kaarte"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr ""
+
+msgid "Calculators"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Sjpelkes"
+
+msgid "Cards"
+msgstr "Kaarte"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Kaarte"
+
+msgid "Chat"
+msgstr ""
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "Historie"
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "Toepassinge"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr ""
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+msgid "Computer science"
+msgstr ""
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Kóngfiggerasie-editor"
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Toepassinge"
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Development"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Beveiliging"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Toepassinge"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr ""
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Besjtandjwirtsjaf"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Systeem"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Besjtandjwirtsjaf"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Systeem"
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Kentoertoepassinge"
+
+msgid "Games"
+msgstr "Sjpelkes"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr "Grafis"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "History"
+msgstr "Historie"
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Toepassinge"
+
+msgid "IRC"
+msgstr ""
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Internet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Toepassinge"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr ""
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Sjpräök"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Sjpelkes"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr ""
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+msgid "Mixers"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Multimediamenu"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Multimediamenu"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Multimediamenu"
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Network-related settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Kentoer"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Euverige"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Ontwikkeling"
+
+msgid "PDA"
+msgstr ""
+
+msgid "Package manager applications"
+msgstr ""
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Prifferensies"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Prifferensies"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr ""
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Besjtandjwirtsjaf"
+
+msgid "Project management applications"
+msgstr ""
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafis"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+msgid "Security"
+msgstr "Beveiliging"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Beveiliging"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Geluud"
+
+msgid "Sports"
+msgstr "Sjport"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Sjport"
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr ""
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "System settings"
+msgstr ""
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+msgid "TV and Radio applications"
+msgstr ""
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Toepassinge"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+msgid "Terminal emulator applications"
+msgstr ""
+
+msgid "Terminals"
+msgstr ""
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Getuug"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Getuug"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Programme veur software-ontwikkeling"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+#, fuzzy
+msgid "Toys"
+msgstr "Getuug"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Transmission"
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafis"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Prifferensies"
+
+msgid "Video Editing"
+msgstr ""
+
+msgid "Video Players"
+msgstr ""
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Wèb Browser"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Development"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Advanced"
+#~ msgstr "Geavvanseerd"
+
+#~ msgid "Information"
+#~ msgstr "Infermasie"
+
+#~ msgid "Accessories"
+#~ msgstr "Hulpmiddele"
+
+#~ msgid "System Monitor"
+#~ msgstr "Prosesbeheer"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Tuin huijig proses en bekiek systeemtoesjtandj"
+
+#~ msgid "Browse the web"
+#~ msgstr "Blajere op internet"
+
+#~ msgid "Appearance"
+#~ msgstr "Uterlik"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Hulp bie GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Hulp"
+
+#~ msgid "Home Folder"
+#~ msgstr "Heimmap"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Eur blaadwiezers bekieke en wirtsjafte"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Wèb blaadwiezers"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "Home"
+#~ msgstr "Sjtart"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "BitTorrent-client"
+
+#~ msgid "Download and share files over BitTorrent"
+#~ msgstr "Bestanje binnehoalen en deilen via BitTorrent"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "De ganse kóngfiggerasie-database direk bewirke"

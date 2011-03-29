@@ -1,0 +1,1326 @@
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/mn.php3
+#
+#
+# Copyright (C) 2000 MandrakeSoft
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 1999-08-25 11:07+0200\n"
+"Last-Translator: Nobody\n"
+"Language-Team: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "График"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "График програмууд"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "График"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "График програмууд"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Тоглоом, зугаа цэнгэл"
+
+msgid "Accessibility"
+msgstr "Хэрэглэх тохь"
+
+#, fuzzy
+msgid "Action"
+msgstr "Боловсрол"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Хөлөгт тоглоом"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Удирдлага"
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Х.программууд"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Х.программууд"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Сансар"
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Архив Менежер"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Аудио-изведувач"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Дуу Бичигч"
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+msgid "Board Games"
+msgstr "Хөлөгт тоглоом"
+
+#, fuzzy
+msgid "Boards"
+msgstr "Хөлөгт тоглоом"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Тооны машин"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Тооны машин"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Хөзрийн тоглоом"
+
+#, fuzzy
+msgid "Cards"
+msgstr "Хөзрийн тоглоом"
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "Түүх"
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "Х.программууд"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "тооцоолуур"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "тооцоолуур"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Тохируулга боловсруулагч"
+
+#, fuzzy
+msgid "Construction"
+msgstr "Удирдлага"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+#, fuzzy
+msgid "Databases"
+msgstr "Өгөгдлийн сан"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Х.программууд"
+
+msgid "Desktop"
+msgstr "Ажлын тавцан"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Хөгжүүлэл"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Толь бичиг"
+
+msgid "Dictionary"
+msgstr "Толь бичиг"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Баримтжуулалт"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "Боловсруулагч"
+
+msgid "Education"
+msgstr "Боловсрол"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Баталгаа"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Терминал-Програм"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "Тооны машин"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Файл удирдагч"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Систем"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Файл удирдагч"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Системийн хэрэгслүүд"
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+#, fuzzy
+msgid "Finances"
+msgstr "Тэслэлт"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "Гном"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Qt-Дизайнер"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Терминал-Програм"
+
+msgid "Games"
+msgstr "Тоглоом"
+
+msgid "Games and amusements"
+msgstr "Тоглоом, зугаа цэнгэл"
+
+msgid "Games for Kids"
+msgstr "Хүүхдийн тоглоом"
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr "График"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Техник хангамж"
+
+msgid "History"
+msgstr "Түүх"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Х.программууд"
+
+msgid "IRC"
+msgstr ""
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "IRC хэрэглэгч"
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Интернет Мессенжер"
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Интернэт"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Терминал-Програм"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Хэл"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Rogue-тоглоом"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Математикийн"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Тэслэлт"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Сүлжээ"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Мультимедиа цэс"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Мультимедиа цэс"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Мультимедиа цэс"
+
+#, fuzzy
+msgid "Music"
+msgstr "Хулгана"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Сүлжээ"
+
+msgid "Network-related settings"
+msgstr "Сүлжээтэй холбоотой тохиргоо"
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Албан газар"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Бусад"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Програмчилал"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Терминал-Програм"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Тохируулгууд"
+
+msgid "Personal"
+msgstr "Хувийн"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Тохируулгууд"
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Баримтжуулалт"
+
+msgid "Printing"
+msgstr "Хэвлэх"
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Файлуудыг зохицуулах"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Эрхэмлэсэн х.программууд"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "График"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "График програмууд"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "Зайн Дэсктоп"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Дууны хянагч"
+
+#, fuzzy
+msgid "Robotics"
+msgstr "Роботууд"
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "_Дэлгэц гамнагчүүд"
+
+msgid "Security"
+msgstr "Баталгаа"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Баталгаа"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "_Дэлгэц гамнагчүүд"
+
+msgid "Settings"
+msgstr "Тохируулга"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Боловсрол"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Чимээ"
+
+msgid "Sports"
+msgstr "Спорт"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Хөлөгт тоглоом"
+
+msgid "Spreadsheets"
+msgstr ""
+
+#, fuzzy
+msgid "Strategy"
+msgstr "Тактик & стратеги"
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr "Систем"
+
+msgid "System settings"
+msgstr "Системийн тохиргоо"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Терминал-Програм"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Х.программууд"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Терминал-Програм"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Aterm-Терминал"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Текст боловсруулагч"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#, fuzzy
+msgid "Tools"
+msgstr "Наадгай"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Программ хангамж хөгжүүлэгч хэрэгслүүд"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Та өөрийн стандарт х.программыг сонгоно уу"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Та өөрийн стандарт х.программыг сонгоно уу"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Наадгай"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "График"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "График програмууд"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Тохируулгууд"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Аудио-изведувач"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Дуу Бичигч"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "Зураг харагч"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Вэб-Хөтөч"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Хөгжүүлэл"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Бүх программууд"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Юу хийх ёстой?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Боловсролын програм"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Янз бүрийн"
+
+#~ msgid "Utilities"
+#~ msgstr "Хэрэгсэл програмууд"
+
+#~ msgid "Servers"
+#~ msgstr "Серверүүд"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "X-Виндов-хэрэгсэл програмууд"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X-Хэрэгслүүд"
+
+#~ msgid "Advanced"
+#~ msgstr "Өргөтгөсөн"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Өргөтгөсөн тохируулга"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Алдагдал & Олдолт"
+
+#~ msgid "Information"
+#~ msgstr "Мэдээлэл"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Хувийн тохиргоо"
+
+#~ msgid "Accessories"
+#~ msgstr "Хэрэгсэл"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Дэлгэцийн нэмэлт төхөөрөмжүүд"
+
+#~ msgid "Peripherals"
+#~ msgstr "Залгаатай төхөөрөмжүүд"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Харагдах байдал"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Ажлын талбарын харагдалт ба харьцааны тохиргоо"
+
+#~ msgid "File"
+#~ msgstr "Файл"
+
+#~ msgid "Personal settings"
+#~ msgstr "Хувийн тохиргоо"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "_Дэлгэц гамнагчийн загварууд"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Системийн тохиргоо болон хяналт"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Техник хангамжийн тохиргоо"
+
+#~ msgid "KDE Menu"
+#~ msgstr "КДЭ цэс"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Хувийн тохиргоо болон удирдлагын тохируулгууд"
+
+#~ msgid "Universal Access"
+#~ msgstr "Саадгүй хандалт"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Саадгүй хандалтын тохиргоо"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "Систем нийтийн тохируулгыг өөрчлөх (бүх хэрэглэгчдэд нөлөөлнө)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Дуу & Видео"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Интернет болон сүлжээ"
+
+#~ msgid "Control Center"
+#~ msgstr "Удирдах төв"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Вэб болон э-шуудан гэх мэт интернэт хандалтын програмууд"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Бусад ангилалд тохирохгүй програмууд"
+
+#~ msgid "Office Applications"
+#~ msgstr "Албан газрын программууд"
+
+#~ msgid "Tali"
+#~ msgstr "Тали"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "Шулууны хэлбэрээр өнгөт бөмбөгүүдийг хөлөгөөс устгана"
+
+#~ msgid "System Monitor"
+#~ msgstr "Системийн монитор"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Идэвхитэй процессуудыг харах ба системын төлвийг шалгах"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Үндсэн дүрмийн түгжээний буулгалтыг тохируулах"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Засварлагчийн түгжээг буулгах"
+
+#~ msgid "About Me"
+#~ msgstr "Миний тухай"
+
+#~ msgid "Set your personal information"
+#~ msgstr "MIME-төрлийн мэдээлэл"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "Үндсэн цэсэнд ямар програмууд харагдахыг өөрчлөх"
+
+#~ msgid "Main Menu"
+#~ msgstr "Үндсэн цэс"
+
+#~ msgid "Browse the web"
+#~ msgstr "Веб броузе хийх"
+
+#~ msgid "Epiphany"
+#~ msgstr "Эпипани"
+
+#~ msgid "Character Map"
+#~ msgstr "Тэмдэгтийн хүснэгт"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Баримт руу тусгай тэмдэгт оруулах"
+
+#~ msgid "Appearance"
+#~ msgstr "Харагдалт"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Дэлгэц гар"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "CD/DVD үүсгэгч"
+
+#~ msgid "Klotski"
+#~ msgstr "Клотски"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "Хэрэглэгчид зориулсан Профайлуудыг үүсгэн засварлах"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "Хэрэглэгчийн Профайл Засварлагч "
+
+#~ msgid "Bluetooth"
+#~ msgstr "Блүтүүт"
+
+#~ msgid "Configure Bluetooth settings"
+#~ msgstr "Блүтүүтийн тохиргоог тохируулах"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "ГНОМЕ-р тусламж авах"
+
+#~ msgid "Help"
+#~ msgstr "Тусламж"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Баримт бичиг үзүүлэгч"
+
+#~ msgid "View multi-page documents"
+#~ msgstr "Олон хуудаст баримт бичиг үзэх"
+
+#~ msgid "Home Folder"
+#~ msgstr "Хувийн лавлах"
+
+#~ msgid "Tetravex"
+#~ msgstr "Дөрвөн талт"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Тоглоомны авианы програмуудын анхдагч утгыг тогтоох"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Малтимедиа систем тэмдэглэгч"
+
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgid "Search"
+#~ msgstr "Тандах"
+
+#~ msgid "R"
+#~ msgstr "Р"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "Шаргал өнгийн pop-art-ish grid хүснэг"
+
+#~ msgid "Pop art squares"
+#~ msgstr "Тэгш өнцөгтийн pop хэлбэр"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "Таны Зургийн хавтаснаас слайдыг харуулах"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Зурийн хавтас"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "Дэлгэцний доор хөлний лого бүхий GNOME-г гаргах."
+
+#~ msgid "Floating Feet"
+#~ msgstr "Хөлийг ашиглалтанд оруулах"
+
+#~ msgid "Cosmos"
+#~ msgstr "Сансар"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "Сансрын зургуудын слайдыг үзүүлэх"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Хавчуургыг нээх болон зохион байгуулах"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany Вэб тэмдэглэлгээнүүд"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Веб тэмдэглэлгээнүүд"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Цэс идэвхижүүлэгч хэрэгсэл"
+
+#~ msgid "Kalzium"
+#~ msgstr "Кальци"
+
+#~ msgid "Hangman Game"
+#~ msgstr "HangMan-ий Тоглоом"
+
+#~ msgid "KHangMan"
+#~ msgstr "Дүүжлүүр"
+
+#~ msgid "KUser"
+#~ msgstr "КДЕ Хэрэглэгч"
+
+#~ msgid "User Manager"
+#~ msgstr "Хэрэглэгч Зохицуулагч"
+
+#~ msgid "KRuler"
+#~ msgstr "КШугам"
+
+#~ msgid "Konqueror"
+#~ msgstr "Конкюрор"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Home"
+#~ msgstr "Гэр"
+
+#~ msgid "Personal Files"
+#~ msgstr "Өөрийн файлууд"
+
+#~ msgid "KTouch"
+#~ msgstr "KМэдрэхүй"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Бичгийн машины зааварлагч"
+
+#~ msgid "KMouth"
+#~ msgstr "KМаф(КMouth)"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Клипборд хэрэгсэл"
+
+#~ msgid "CD Player"
+#~ msgstr "СD тоглуулагч"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Ажлын байрыг хамтран эзэмших"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "X дэлгэцүүдийн хэмжээ солих ба эргүүлдэг цонхны апплет."
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Дэлгэцийн хэмжээ & эргүүлэлт"
+
+#~ msgid "Konsole"
+#~ msgstr "Консол"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Эгшигийн дасгал"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Функцийн плоттер"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Дэлгэцэн дээрх Оддын Хотхон"
+
+#~ msgid "KStars"
+#~ msgstr "K-Од"
+
+#~ msgid "Info Center"
+#~ msgstr "Мэд төв"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Япон хэлний сурах программ"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "Welcome"
+#~ msgstr "Тавтай морил"
+
+#~ msgid "Trash"
+#~ msgstr "Хогийн сав"
+
+#~ msgid "KWrite"
+#~ msgstr "Кврайт"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Текст боловсруулагч"
+
+#~ msgid "Kate"
+#~ msgstr "Кате"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Цэс-Боловсруулагч"
+
+#~ msgid "Music Player"
+#~ msgstr "Хөгжмийн тоглуулагч"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Конкюрор (Системийн удирдлагын-Горим)"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Үсэг цэгцлэх тоглоом"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "А-диск форматлагч"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Тушаалуудад товчилуурын хослол оноох"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Гарын богино товчилуур"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Дууны түвшиг тохируулах"
+
+#~ msgid "Screensaver"
+#~ msgstr "Дэлгэц гамнагч"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Дэлгэц гамнагчийн тохиргоонуудыг байрлуул."
+
+#~ msgid "Network Proxy"
+#~ msgstr "Сүлжээ-итгэмжилэгч"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "Сүлжээ-итгэмжлэгчийн тохируулгыг хийх"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Мозилла түндэрбөрд"
+
+#~ msgid "Use the command line"
+#~ msgstr "Тушаалын мөр хэрэглэ"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Дууны клипуудыг бичих"
+
+#~ msgid "Set your window properties"
+#~ msgstr "Цонхны тохируулгыг хийх"
+
+#~ msgid "Windows"
+#~ msgstr "Цонх"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "АйслеРойт хөзөр"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "Өөр олон хөзрийн тоглоомууд тоглох"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt-Хэл зүй"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Архив үүсгэх ба өөрчилөх"
+
+#~ msgid "About GNOME"
+#~ msgstr "Гномын тухай"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Гномын талаар мэдэж авах"
+
+#~ msgid "Keyboard"
+#~ msgstr "Гар"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Өөрийн гарын тохируулга тогтоох"
+
+#~ msgid "Mahjongg"
+#~ msgstr "Хорол"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Хулганы тохируулга хийх"
+
+#~ msgid "Iagno"
+#~ msgstr "Ягно"
+
+#~ msgid "Dasher"
+#~ msgstr "Дашэр"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "Текстийг урьдчилан оруулах"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "GNOME-тохируулгын хэрэгсэл"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Интернэтээр хүмүүстэй ярилцах"
+
+#~ msgid "Edit text files"
+#~ msgstr "Текст файл боловсруулах"
+
+#~ msgid "gedit"
+#~ msgstr "Гедит"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "Bonobo-ийн хэсгийн Хөтөч"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "Хүчинтэй Bonodo бүрэлдэхүүн хэсгийг харуулах"
+
+#~ msgid "Evolution"
+#~ msgstr "Эволюшин"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Пизин Интернет Мессенжер"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "Хөгжмийн цуглуулгаа тоглуулж, зохион байгуул"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Ритмбокс"
+
+#~ msgid "Screen Reader and Magnifier"
+#~ msgstr "Дэлгэц уншигч ба  -томруулдаг шил"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "Нүд чөлөөлөх хөзөр"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Түгээмэл нүд чөлөөлөх хөзрийн тоглоом тоглох"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Бүхийл тохируулгын өгөгдлийн баазад шууд хандах боломж"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Алдаагаа тайлагнах хэрэгсэл"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "ГНОМЕ-д суурилсан програмууд дахь согогыг мэдээлэх"
+
+#~ msgid "Drawing"
+#~ msgstr "Зурах"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "Төөрдөг хашаанд өтийг газарчил"
+
+#~ msgid "Nibbles"
+#~ msgstr "Газарч"
+
+#~ msgid "Balsa"
+#~ msgstr "Балса"
+
+#~ msgid "Text Editor (administrator)"
+#~ msgstr "Текст боловсруулагч (администратор)"
+
+#~ msgid "Network Tools"
+#~ msgstr "Мэдээллийн Хэрэгслүүд"
+
+#~ msgid "Find, download, and play free music."
+#~ msgstr "Find, download, and play free music."
+
+#~ msgid "Gnomoradio Music Player"
+#~ msgstr "Gnomoradio Music Player"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "MSN хэрэглэгч"
+
+#~ msgid "Services"
+#~ msgstr "Үйлчилгээ"
+
+#~ msgid "Sticky Notes"
+#~ msgstr "Наалттай тэмдэглэгээ"

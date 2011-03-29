@@ -1,0 +1,1714 @@
+# Translation into Kannada
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/kn.php3
+#
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2002-12-27 17:12+0530\n"
+"Last-Translator: Nobody\n"
+"Language-Team: Kannada\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "ಚಿತ್ರರಚನೆ"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "ಗ್ರಾಫಿಕ್ಸ್ ಅನ್ವಯಗಳು"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "ಚಿತ್ರರಚನೆ"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "ಗ್ರಾಫಿಕ್ಸ್ ಅನ್ವಯಗಳು"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "ಆಟಗಳು ಹಾಗು ರಂಜನೆಗಳು"
+
+msgid "Accessibility"
+msgstr "ನಿಲುಕಣೆ (ಆಕ್ಸೆಸಿಬಿಲಿಟಿ)"
+
+#, fuzzy
+msgid "Action"
+msgstr "ಶಿಕ್ಷಣ"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "ಫಲಾಕದಾಟಗಳು (ಬೋರ್ಡ್ ಗೇಮ್ಸ್)"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "ನಿರ್ವಹಣೆ"
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "ಅನ್ವಯಗಳು"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "ಅನ್ವಯಗಳು"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "ಆರ್ಕೇಡ್"
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "ಆರ್ಕೈವ್ ನಿರ್ವಾಹಕ"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "ಸಂಗೀತ ಚಾಲಕ"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "ಧ್ವನಿ ರೆಕಾರ್ಡರ್"
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+msgid "Board Games"
+msgstr "ಫಲಾಕದಾಟಗಳು (ಬೋರ್ಡ್ ಗೇಮ್ಸ್)"
+
+#, fuzzy
+msgid "Boards"
+msgstr "ಫಲಾಕದಾಟಗಳು (ಬೋರ್ಡ್ ಗೇಮ್ಸ್)"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "ಕ್ಯಾಲ್ಕುಲೇಟರ್"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "ಕ್ಯಾಲ್ಕುಲೇಟರ್"
+
+msgid "Calendar"
+msgstr ""
+
+#, fuzzy
+msgid "Camera tools, etc."
+msgstr "ಜಾವ ಉಪಕರಣಗಳು"
+
+msgid "Card Games"
+msgstr "ಎಲೆಯಾಟಗಳು"
+
+#, fuzzy
+msgid "Cards"
+msgstr "ಎಲೆಯಾಟಗಳು"
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr ""
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "ಅನ್ವಯಗಳು"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "ಗಣಕ"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "ಗಣಕ"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "ಸಂರಚನಾ ಸಂಪಾದಕ"
+
+#, fuzzy
+msgid "Construction"
+msgstr "ನಿರ್ವಹಣೆ"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "ಹೆಚ್ಚುವರಿ ಅನ್ವಯಗಳು"
+
+msgid "Desktop"
+msgstr "ಗಣಕತೆರೆ"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "ಅಭಿವೃದ್ಧಿ"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "ಶಬ್ಧಕೋಶ"
+
+msgid "Dictionary"
+msgstr "ಶಬ್ಧಕೋಶ"
+
+msgid "Disc burning"
+msgstr ""
+
+#, fuzzy
+msgid "Documentation"
+msgstr "ದಸ್ತಾವೇಜು ವೀಕ್ಷಕ"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "ಸಂಪಾದನಾನ್ವಯಗಳು"
+
+msgid "Education"
+msgstr "ಶಿಕ್ಷಣ"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "ಮೆಟಾಸಿಟಿ"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "ಆದೇಶತೆರೆ ಆನ್ವಯಗಳು"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "ಕ್ಯಾಲ್ಕುಲೇಟರ್"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "ಬೀಳುತ್ತಿರುವ ಇಟ್ಟಿಗೆಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿ"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "ಬೀಳುತ್ತಿರುವ ಇಟ್ಟಿಗೆಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿ"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪಕ"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "ಗಣಕ"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪಕ"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "ಗಣಕ ಉಪಕರಣಗಳು"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "ಕಡತ ವೀಕ್ಷಕ"
+
+#, fuzzy
+msgid "Finances"
+msgstr "ಮೈನ್‍ಗಳು"
+
+msgid "Flow Chart"
+msgstr ""
+
+#, fuzzy
+msgid "GNOME"
+msgstr "GNOME ನ ಬಗ್ಗೆ"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "ಆದೇಶತೆರೆ ಆನ್ವಯಗಳು"
+
+msgid "Games"
+msgstr "ಆಟಗಳು"
+
+msgid "Games and amusements"
+msgstr "ಆಟಗಳು ಹಾಗು ರಂಜನೆಗಳು"
+
+msgid "Games for Kids"
+msgstr "ಮಕ್ಕಳ ಆಟಗಳು"
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "ವಿಜ್ಞಾನ"
+
+msgid "Geoscience software"
+msgstr ""
+
+#, fuzzy
+msgid "Geosciences"
+msgstr "ವಿಜ್ಞಾನ"
+
+msgid "Graphics"
+msgstr "ಚಿತ್ರರಚನೆ"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "ಯಂತ್ರಾಂಶ"
+
+msgid "History"
+msgstr ""
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "ಅನ್ವಯಗಳು"
+
+msgid "IRC"
+msgstr ""
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "IM ಕ್ಲೈಂಟ್"
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "ಇಂಟರ್ನೆಟ್ ಮೆಸ್ಸೆಂಜರ್ "
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "ಅಂತರ್ಜಾಲ"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "ಹೆಚ್ಚುವರಿ ಅನ್ವಯಗಳು"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr ""
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "ಭಾಷೆಗಳು"
+
+msgid "Literature"
+msgstr ""
+
+msgid "Logic Games"
+msgstr "ತಾರ್ಕಿಕ ಆಟಗಳು"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "ಗಣಿತ"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "ಮೈನ್‍ಗಳು"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "ತೆರೆಗಳು"
+
+msgid "Multimedia"
+msgstr "ಬಹುಮಾಧ್ಯಾಮ"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "ಬಹುಮಾಧ್ಯಾಮ ಪರಿವಿಡಿ"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "ಬಹುಮಾಧ್ಯಾಮ ಪರಿವಿಡಿ"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "ಬಹುಮಾಧ್ಯಾಮ ಪರಿವಿಡಿ"
+
+#, fuzzy
+msgid "Music"
+msgstr "ಮೌಸ್"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "ಜಾಲಬಂಧ"
+
+msgid "Network-related settings"
+msgstr "ಜಾಲಬಂಧ-ಸಂಬಂಧಿತ ಸಂಯೋಜನೆಗಳು"
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "ಕಛೇರಿ"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "ಬೇರೆ"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "ಕ್ರಮವಿಧಿ ರಚನೆ"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "ಆದೇಶತೆರೆ ಆನ್ವಯಗಳು"
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "ಇಚ್ಛೆಗಳು"
+
+msgid "Personal"
+msgstr "ವೈಯಕ್ತಿಕ"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "ಇಚ್ಛೆಗಳು"
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "ವೈಯಕ್ತಿಕ ಸಂಯೋಜನೆಗಳು"
+
+msgid "Printing"
+msgstr "ಮುದ್ರನೆ"
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "ವಿದ್ಯುಚ್ಚಕ್ತಿಯ ನಿರ್ವಹಣೆ"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "ಅಪೇಕ್ಷಿತ ಅನ್ವಯಗಳು"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "ಚಿತ್ರರಚನೆ"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "ಗ್ರಾಫಿಕ್ಸ್ ಅನ್ವಯಗಳು"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "ದೂರಸ್ಥ ಗಣಕತೆರೆ"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "ಧ್ವನಿಪ್ರಮಾಣ ನಿಯಂತ್ರಣ"
+
+#, fuzzy
+msgid "Robotics"
+msgstr "ರೋಬೋಟ್ಸ್‍"
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "ವಿಜ್ಞಾನ"
+
+msgid "Screensavers"
+msgstr "ಸ್ಕ್ರೀನ್‌ಸೇವರುಗಳು"
+
+#, fuzzy
+msgid "Security"
+msgstr "ಮೆಟಾಸಿಟಿ"
+
+msgid "Security tools"
+msgstr ""
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "ಸ್ಕ್ರೀನ್‌ಸೇವರುಗಳು"
+
+msgid "Settings"
+msgstr "ಪರಿಸ್ಥಿತಿಗಳು"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "ಶಿಕ್ಷಣ"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+#, fuzzy
+msgid "Software to learn science"
+msgstr "ತಂತ್ರಾಂಶ ಅಪ್‌ಡೇಟ್ ವೀಕ್ಷಕ"
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "ತಂತ್ರಾಂಶ ದಾಖಲೆ ವೀಕ್ಷಕ"
+
+#, fuzzy
+msgid "Software to teach music"
+msgstr "ತಂತ್ರಾಂಶ ಆಕರಗಳು"
+
+msgid "Sound"
+msgstr "ಶಬ್ದ"
+
+#, fuzzy
+msgid "Sports"
+msgstr "F-Spot"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "ಫಲಾಕದಾಟಗಳು (ಬೋರ್ಡ್ ಗೇಮ್ಸ್)"
+
+msgid "Spreadsheets"
+msgstr ""
+
+#, fuzzy
+msgid "Strategy"
+msgstr "ತಂತ್ರೋಪಾಯ"
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr "ಗಣಕ"
+
+msgid "System settings"
+msgstr "ಗಣಕ ಸಂಯೋಜನೆಗಳು"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "ಅನ್ವಯದ ಕುಸಿತವನ್ನು ನೋಡಿ ಹಾಗು ವರದಿ ಮಾಡಿ"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "ಅನ್ವಯಗಳು"
+
+msgid "Telephony"
+msgstr ""
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "ಬೋಧನಾ ಸಲಕರಣೆಗಳು"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "ಆದೇಶತೆರೆ ಆನ್ವಯಗಳು"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "ಟರ್ಮಿನಲ್"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "ಪಠ್ಯ ಸಂಪಾದಕ"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#, fuzzy
+msgid "Tools"
+msgstr "ಆಟಿಕೆಗಳು"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "ತಂತ್ರಾಂಶ ಅಭಿವೃದ್ದಿಗೆ ಉಪಕರಣಗಳು"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಅನ್ವಯಗಳನ್ನು ಆರಿಸಿ"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಅನ್ವಯಗಳನ್ನು ಆರಿಸಿ"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to manage printers"
+msgstr "ಮುದ್ರಕವನ್ನು ಸ್ವರೂಪಿಸು"
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "ಆಟಿಕೆಗಳು"
+
+msgid "Translation"
+msgstr "ಭಾಷಾಂತರ"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "ಭಾಷಾಂತರ"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "ಚಿತ್ರರಚನೆ"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "ಗ್ರಾಫಿಕ್ಸ್ ಅನ್ವಯಗಳು"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "ಇಚ್ಛೆಗಳು"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "ಚಲನಚಿತ್ರ ಚಾಲಕ"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "ಧ್ವನಿ ರೆಕಾರ್ಡರ್"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "ಅಕ್ಷರಶೈಲಿ ವೀಕ್ಷಕ"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "ಜಾಾಲ ವೀಕ್ಷಕ"
+
+msgid "Web Development"
+msgstr "ಜಾಲ ಅಭಿವೃದ್ಧಿ"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Miscellaneous"
+#~ msgstr "ಮಿಶ್ರ/ಇತರೆ"
+
+#~ msgid "Utilities"
+#~ msgstr "ಸೌಲಭ್ಯಗಳು"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "ಕ್ಸ ಕಿಟಕಿ ಸೌಲಭ್ಯಗಳು"
+
+#~ msgid "X-Utilities"
+#~ msgstr "ಕ್ಸ-ಸೌಲಭ್ಯಗಳು"
+
+#~ msgid "Lost & Found"
+#~ msgstr "ಲುಪ್ತ ಮತ್ತು ಲಬ್ಧ"
+
+#~ msgid "Information"
+#~ msgstr "ಮಾಹಿತಿ"
+
+#~ msgid "Personal preferences"
+#~ msgstr "ವೈಯಕ್ತಿಕ ಆದ್ಯತೆಗಳು"
+
+#~ msgid "Accessories"
+#~ msgstr "ಸಾಮಗ್ರಿಗಳು"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "ಗಣಕತೆರೆ ಬಿಡಿ ಭಾಗಗಳು"
+
+#~ msgid "PIM"
+#~ msgstr "ಪಿಐಎಮ್"
+
+#~ msgid "Science & Math"
+#~ msgstr "ವಿಜ್ಞಾನ ಮತ್ತು ಗಣಿತ"
+
+#~ msgid "Peripherals"
+#~ msgstr "ಪೂರಕಯಂತ್ರಾಂಶಗಳು (ಪೆರಿಫೆರಲ್)"
+
+#~ msgid "Look and Feel"
+#~ msgstr "ನೋಟ ಹಾಗು ಮಾಟ"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "ಗಣಕತೆರೆಯ ಸ್ವರೂಪ ಹಾಗು ವರ್ತನೆಯನ್ನು ನಿಯಂತ್ರಿಸುವ ಸಂಯೋಜನೆಗಳು"
+
+#~ msgid "File"
+#~ msgstr "ಕಡತ"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "ಸ್ಕ್ರೀನ್‌ಸೇವರ್ ಥೀಮ್‌ಗಳು"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "ಗಣಕ ಸಂರಚನೆ ಹಾಗು ಪರಿವೀಕ್ಷಣೆ"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "ಹಲವಾರು ಯಂತ್ರಾಂಶ ಸಾಧನಗಳಿಗಾಗಿನ ಸಂಯೋಜನೆಗಳು"
+
+#~ msgid "KDE Menu"
+#~ msgstr "ಕೆಡಿಇ ಪರಿವಿಡಿ"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "ವೈಯಕ್ತಿಕ ಆದ್ಯತೆಗಳು ಹಾಗು ನಿರ್ವಹಣಾ ಸಂಯೋಜನೆಗಳು"
+
+#~ msgid "Universal Access"
+#~ msgstr "ಜಾಗತಿಕ ನಿಲುಕಣೆ(Universal Access)"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "ಜಾಗತಿಕ ನಿಲುಕಣೆ ಸಂಯೋಜನೆಗಳು"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "ಗಣಕಾದ್ಯಂತದ ಸಂಯೋಜನೆಗಳನ್ನು ಬದಲಾಯಿಸು (ಎಲ್ಲಾ ಬಳಕೆದಾರರಿಗೂ ಪರಿಣಾಮಬೀರುತ್ತದೆ)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ಧ್ವನಿ ಹಾಗು ದೃಶ್ಯ"
+
+#~ msgid "Internet and Network"
+#~ msgstr "ಅಂತರ್ಜಾಲ ಹಾಗು ಜಾಲಬಂಧ"
+
+#~ msgid "Control Center"
+#~ msgstr "ನಿಯಂತ್ರಣ ಕೇಂದ್ರ"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "ರೋಗ್-ನಂತಹ ಆಟಗಳು"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "ಜಾಲ ಹಾಗು ಈಮೇಲಿನಂತಹ ಅಂತರ್ಜಾಲ ನಿಲುಕಣೆಗಾಗಿನ ಪ್ರೊಗ್ರಾಂಗಳು"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "ಬೇರೆ ವರ್ಗಗಳಿಗೆ ಸೇರದೇ ಇರುವಂತಹ ಅನ್ವಯಗಳು"
+
+#~ msgid "Office Applications"
+#~ msgstr "ಕಾರ್ಯಾಲಯ ಅನ್ವಯಗಳು"
+
+#~ msgid "Beat the odds in a poker-style dice game"
+#~ msgstr "ಪೋಕರ್ ಶೈಲಿಯ ದಾಳದ ಆಟದಲ್ಲಿ ಎದುರಾಳಿಗಳನ್ನು ಸೋಲಿಸಿ"
+
+#~ msgid "Tali"
+#~ msgstr "ಟಾಲಿ"
+
+#~ msgid "Enable or disable software sources"
+#~ msgstr "ತಂತ್ರಾಂಶ ಆಕರಗಳನ್ನು ಶಕ್ತಗೊಳಿಸು ಅಥವ ಅಶಕ್ತಗೊಳಿಸು"
+
+#~ msgid "Five or More"
+#~ msgstr "ಐದು ಅಥವ ಹೆಚ್ಚಿನ"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "ಗೆರೆಗಳನ್ನು ರಚಿಸುವ ಮೂಲಕ ಬಣ್ಣದ ಚೆಂಡುಗಳನ್ನು ಬೋರ್ಡಿನಿಂದ ತೆಗೆದು ಹಾಕಿ"
+
+#~ msgid "System Monitor"
+#~ msgstr "ಗಣಕ ಮೇಲ್ವಿಚಾರಕ"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "ಪ್ರಸಕ್ತ ಪ್ರಕ್ರಿಯೆಗಳು ಹಾಗು ಮೇಲ್ವಿಚಾರಣ ವ್ಯವಸ್ಥೆಯ ಸ್ಥಿತಿಯನ್ನು ನೋಡಿ"
+
+#~ msgid "Image Viewer"
+#~ msgstr "ಚಿತ್ರ ವೀಕ್ಷಕ"
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "ಲಾಕ್‍ಡೌನ್ ಪಾಲಿಸಿಯನ್ನು ರೂಪಿಸಿ"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "ಸಂಪಾದಕವನ್ನು ಲಾಕ್‍ಡೌನ್ ಮಾಡು"
+
+#~ msgid "About Me"
+#~ msgstr "ನನ್ನ ಬಗ್ಗೆ"
+
+#~ msgid "Set your personal information"
+#~ msgstr "ನಿಮ್ಮ ವಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿಸಿ"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "CD ಮತ್ತು DVDಗಳನ್ನು ಸೃಷ್ಟಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "ಮುಖ್ಯ ಪರಿವಿಡಿಯಲ್ಲಿ ಯಾವ ಅನ್ವಯವನ್ನು ತೋರಿಸಬೇಕು ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Main Menu"
+#~ msgstr "ಮುಖ್ಯ ಪರಿವಿಡಿ"
+
+#~ msgid "Browse the web"
+#~ msgstr "ಜಾಲವನ್ನು ವೀಕ್ಷಿಸಿ"
+
+#~ msgid "Epiphany"
+#~ msgstr "Epiphany"
+
+#~ msgid "Character Map"
+#~ msgstr "ಅಕ್ಷರ ನಕ್ಷೆ"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "ವಿಶೇಷ ಅಕ್ಷರಗಳನ್ನು ದಸ್ತಾವೇಜಿನಲ್ಲಿ ಸೇರಿಸಿ"
+
+#~ msgid "Create service packs for sharing with other computers"
+#~ msgstr "ಇತರೆ ಗಣಕಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಬಹುದಾದಂತಹ ಸೇವಾ ಪ್ಯಾಕ್‌ಗಳನ್ನು ನಿರ್ಮಿಸು"
+
+#~ msgid "Service Pack Creator"
+#~ msgstr "ಸರ್ವಿಸ್ ಪ್ಯಾಕ್‌ ನಿರ್ಮಾಣಗಾರ"
+
+#~ msgid "Appearance"
+#~ msgstr "ಗೋಚರಿಕೆ"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "ಗಣಕತೆರೆಯನ್ನು ನೋಟವನ್ನು ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "ಒಂದು ಆನ್‌ಲೈನ್‌ ಶಬ್ಧಕೋಶದಲ್ಲಿ ಪದದ ವಿವರಣೆಗಳನ್ನು ಹಾಗು ಕಾಗುಣಿತಗಳನ್ನು ನೋಡು"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "ಹೆಸರು ಅಥವ ವಿಷಯಗಳ ಆಧಾರದ ಮೇಲೆ ಈ ಗಣಕ ಯಂತ್ರದಲ್ಲಿನ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮತ್ತು "
+#~ "ಕಡತಕೋಶಗಳನ್ನು ಹುಡುಕಿ"
+
+#~ msgid "Search for Files..."
+#~ msgstr "ಕಡತಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ..."
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "ಇತರೆ ಅನ್ವಯಗಳನ್ನು ಆರಂಭಿಸು ಹಾಗು ವಿಂಡೋಗಳನ್ನು ನಿರ್ವಹಣೆ, ಸಮಯವನ್ನು ತೋರಿಕೆ ಮೊದಲಾದ "
+#~ "ಸವಲತ್ತುಗಳನ್ನು ಒದಗಿಸು."
+
+#~ msgid "Panel"
+#~ msgstr "ಫಲಕ"
+
+#~ msgid "Navigate applications and type using alternative input devices"
+#~ msgstr ""
+#~ "ಅನ್ವಯಗಳಿಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡು ಹಾಗು ಪರ್ಯಾಯ ಇನ್‌ಪುಟ್‌ ಸಾಧನಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಮೂದಿಸು"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "ತೆರೆಯ ಮೇಲಿನ ಕೀಲಿಮಣೆ"
+
+#~ msgid "Audio CD Extractor"
+#~ msgstr "ಆಡಿಯೋ ಸೀಡಿ ಎಕ್ಸ್‌ಟ್ರಾಕ್ಟರ್"
+
+#~ msgid "Copy music from your CDs"
+#~ msgstr "ನಿಮ್ಮ ಸೀಡಿಗಳಿಂದ ಸಂಗೀತವನ್ನು ಕಾಪಿ ಮಾಡಿ"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "CD/DVD ಸೃಜಕ"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "CD ಹಾಗು DVDಗಳನ್ನು ತಯಾರಿಸಿ"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Klotski"
+#~ msgstr "ಕ್ಲಾಟ್‌ಸ್ಕಿ"
+
+#~ msgid "Slide blocks to solve the puzzle"
+#~ msgstr "ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಇಟ್ಟಿಗೆಗಳನ್ನು ಜಾರಿಸಿ"
+
+#~ msgid "Chess"
+#~ msgstr "ಚೆಸ್"
+
+#~ msgid "Play the classic two-player boardgame of chess"
+#~ msgstr "ಸಾಂಪ್ರದಾಯಿಕವಾದ ಇಬ್ಬರು ಆಟಗಾರರು ಆಡುವಂತಹ ಚೆಸ್ಸನ್ನು ಆಡಿ"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "ಬುಕ್‍ಮಾರ್ಕ್ ಮಾಡಲಾದ ಹಾಗು ಸ್ಥಳೀಯ ಜಾಲಬಂಧ ಸ್ಥಳಗಳನ್ನು ವೀಕ್ಷಿಸು"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "ಬಳಕೆದಾರರಿಗಾಗಿ ಪ್ರೊಫೈಲುಗಳನ್ನು ಸ್ಥಾಪಿಸಿ ಹಾಗು ಸಂಪಾದಿಸಿ"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "ಬಳಕೆದಾರ ಪ್ರೊಫೈಲ್‌ ಸಂಪಾದಕ"
+
+#~ msgid "Photo Viewer"
+#~ msgstr "ಫೋಟೋ ವೀಕ್ಷಕ"
+
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgid "Configure Bluetooth settings"
+#~ msgstr "Bluetooth ಸಿದ್ಧತೆಗಳನ್ನು ಸಂರಚಿಸಿ"
+
+#~ msgid "Disk Utility"
+#~ msgstr "ಡಿಸ್ಕಿನ ಸವಲತ್ತು"
+
+#~ msgid "Manage Drives and Media"
+#~ msgstr "ಡ್ರೈವ್‌ಗಳನ್ನು ಹಾಗು ಮಾಧ್ಯಮವನ್ನು ನಿರ್ವಹಿಸಿ"
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "ಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸು ಹಾಗು ತಿರುಗಿಸು"
+
+#~ msgid "Catalog Installer"
+#~ msgstr "ಸೂಚಿ ಅನುಸ್ಥಾಪಕ"
+
+#~ msgid "Install a catalog of software on the system"
+#~ msgstr "ಒಂದು ತಂತ್ರಾಂಶದ ಸೂಚಿಯನ್ನು ಗಣಕದಲ್ಲಿ ಅನುಸ್ಥಾಪಿಸು"
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "ನಿಮ್ಮ ಗಣಕತೆರೆಯನ್ನು ಅಥವ ಪ್ರತ್ಯೇಕ ವಿಂಡೋಗಳ ಚಿತ್ರವನ್ನು ಉಳಿಸಿ"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "ಒಂದು ತೆರೆಚಿತ್ರವನ್ನು ತೆಗೆದುಕೋ"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪಕದೊಂದಿಗೆ ಕಡತ ವ್ಯವಸ್ಥೆಯನ್ನು ಶೋಧಿಸು"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "ಗಣಕತೆರೆಯ ವಿವಿಧ ಭಾಗಗಳಿಗೆ ಪ್ಯಾಕೇಜುಗಳ ಥೀಮ್‍ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ"
+
+#~ msgid "Theme Installer"
+#~ msgstr "ಥೀಮ್ ಅನುಸ್ಥಾಪಕ"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "ಘನೋಮಿನ ಬಗ್ಗೆ ಸಹಾಯ ಪಡೆ"
+
+#~ msgid "Help"
+#~ msgstr "ಸಹಾಯ"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "ಸಹಾಯಕ ತಂತ್ರಜ್ಞಾನಗಳು"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr ""
+#~ "ನೀವು ಪ್ರವೇಶಿಸಿದಾಗ ಯಾವ ನಿಲುಕಣಾ ಸವಲತ್ತುಗಳನ್ನು ಶಕ್ತಗೊಳಿಸಬೇಕು ಎಂದು ಆಯ್ಕೆ ಮಾಡಿ"
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "ಕಡತಕೋಶದ ಗಾತ್ರಗಳು ಹಾಗು ಲಭ್ಯವಿರುವ ಡಿಸ್ಕಿನ ಜಾಗಕ್ಕಾಗಿ ನೋಡು"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "ಡಿಸ್ಕ್‌ ಬಳಕೆಯ ವಿಶ್ಲೇಷಕ"
+
+#~ msgid "Organize, enjoy, and share your photos"
+#~ msgstr ""
+#~ "ನಿಮ್ಮ ಫೋಟೊಗಳನ್ನು ವ್ಯವಸ್ಥಿತವಾಗಿ ಜೋಡಿಸಿ, ಆನಂದಿಸಿ ಹಾಗು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+
+#~ msgid "Photo Manager"
+#~ msgstr "ಫೋಟೊ ವ್ಯವಸ್ಥಾಪಕ"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "ಚಲನಚಿತ್ರಗಳನ್ನು ಹಾಗು ಹಾಡುಗಳನ್ನು ಚಲಾಯಿಸಿ"
+
+#~ msgid "View multi-page documents"
+#~ msgstr "ಬಹು-ಪುಟ ದಸ್ತಾವೇಜುಗಳನ್ನು ವೀಕ್ಷಿಸು"
+
+#~ msgid "Home Folder"
+#~ msgstr "ನೆಲೆ (Home) ಕಡತಕೋಶ"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಡತಕೋಶವನ್ನು ತೆರೆಯಿರಿ"
+
+#~ msgid "Complete the puzzle by matching numbered tiles"
+#~ msgstr "ಸಂಖ್ಯೆಯ ಇಟ್ಟಿಗೆಗಳನ್ನು ಹೊಂದಿಸುವ ಮೂಲಕ ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿ"
+
+#~ msgid "Tetravex"
+#~ msgstr "ಟೆಟ್ರಾವೆಕ್ಸ್‍"
+
+#~ msgid "View past package management tasks"
+#~ msgstr "ಈ ಹಿಂದಿನ ಪ್ಯಾಕೇಜ್ ವ್ಯವಸ್ಥಾಪನಾ ಕಾರ್ಯಗಳನ್ನು ನೋಡು"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "GStreamer ಅನ್ವಯಗಳಿಗಾಗಿನ ಡೀಫಾಲ್ಟನ್ನು ಸಂರಚಿಸಿ"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "ಮಲ್ಟಿಮೀಡಿಯಾ ವ್ಯವಸ್ಥೆಗಳ ಆಯ್ಕೆಗಾರ"
+
+#~ msgid "Access remote desktops"
+#~ msgstr "ದೂರಸ್ಥ ಗಣಕತೆರೆಗಳನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಿ"
+
+#~ msgid "Remote Desktop Viewer"
+#~ msgstr "ದೂರಸ್ಥ ಗಣಕತೆರೆಗಳ ವೀಕ್ಷಕ"
+
+#~ msgid "Audit Configuration"
+#~ msgstr "ಆಡಿಟ್ ಸಂರಚನೆ"
+
+#~ msgid "Modify audit configuration"
+#~ msgstr "ಆಡಿಟ್ ಸಂರಚನೆಯನ್ನು ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "ಯಂತ್ರಮಾನವರಿಂದ ತಪ್ಪಿಸು ಹಾಗು ಅವುಗಳೆ ಒಬ್ಬರಿಗೊಬ್ಬರು ಢಿಕ್ಕಿಯಾಗುವಂತೆ ಮಾಡಿ"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "ಮಿನುಗುವ ಬಣ್ಣಗಳ ಕಲಾತ್ಮಕ ಚೌಕಗಳನ್ನು ಹೊಂದಿರುವ ಪುಟಿಕೆ ಚೌಕುಳಿಗಳು."
+
+#~ msgid "Pop art squares"
+#~ msgstr "ಕಲಾ ಚೌಕಗಳನ್ನು ಪುಟಿಸು"
+
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr "F-Spot ನಿಂದ ಒಂದು ಜಾರುಫಲಕ ಪ್ರದರ್ಶನವನ್ನು ತೋರಿಸು"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "F-Spot ಫೋಟೊಗಳು"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "ನಿಮ್ಮ ಚಿತ್ರದ ಕೋಶದಿಂದ ಒಂದು ಚಿತ್ರಪ್ರದರ್ಶನವನ್ನು(ಸ್ಲೈಡ್‌ಶೋ) ತೋರಿಸು"
+
+#~ msgid "Pictures folder"
+#~ msgstr "ಚಿತ್ರಗಳ ಕೋಶ"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "GNOME ಪಾದದ ಚಿಹ್ನೆಯನ್ನು ತೆರೆಯ ತುಂಬೆಲ್ಲಾ ಬಬಲ್ ಮಾಡುತ್ತದೆ"
+
+#~ msgid "Floating Feet"
+#~ msgstr "ತೇಲುವ ಪಾದ"
+
+#~ msgid "Cosmos"
+#~ msgstr "ಕಾಸ್ಮೋಸ್"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "ಅಂತರಿಕ್ಷದ ಚಿತ್ರಗಳ ಒಂದು ಚಿತ್ರಪ್ರದರ್ಶನವನ್ನು(ಸ್ಲೈಡ್‌ಶೋ) ತೋರಿಸುತ್ತದೆ"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "ಈ ಗಣಕಿದಿಂದ ನಿಲುಕಿಸಿಕೊಳ್ಳಬಹುದಾದಂತಹ ಸ್ಥಳೀಯ ಹಾಗು ದೂರಸ್ಥ ಡಿಸ್ಕುಗಳನ್ನು ಮತ್ತು "
+#~ "ಕಡತಕೋಶಗಳನ್ನು ವೀಕ್ಷಿಸು"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ವೀಕ್ಷಿಸಿ ಹಾಗು ವ್ಯವಸ್ಥಿತವಾಗಿ ಜೋಡಿಸಿ"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany ಜಾಲ ಬುಕ್‌ಮಾರ್ಕುಗಳು"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "ಜಾಲ ಬುಕ್‌ಮಾರ್ಕುಗಳು"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "ಪರಿವಿಡಿ ನವೀಕರಣ ಸಲಕರಣೆ"
+
+#~ msgid "Konqueror"
+#~ msgstr "ಕಾಂಕರರ್"
+
+#~ msgid "Home"
+#~ msgstr "ಪ್ರಾರಂಭಿಕ ಪುಟ"
+
+#~ msgid "Personal Files"
+#~ msgstr "ವೈಯಕ್ತಿಕ ಕಡತಗಳು"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "ಕತ್ತರಿಸು ಮತ್ತು ಅಂಟಿಸು ಚರಿತ್ರೆ ಸೌಲಭ್ಯ"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "ಹಿಡಿಕೆ ಕಟ್ಟು (ಕ್ಲಿಪ್ ಬೋರ್ಡ್) ಸಲಕರಣೆ"
+
+#~ msgid "Klipper"
+#~ msgstr "ಕ್ಲಿಪ್ಪರ್"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr ""
+#~ "ಕ್ಸ ತೆರೆಗಳ ಗಾತ್ರ ಬದಲಾಯಿಸಲು ಮತ್ತು ನಿಲುವು (ಓರಿಯಂಟೇಶನ್) ಬದಲಾಯಿಸಲು ಒಂದು ಪುಟೀಪು "
+#~ "(ಪಾನೆಲ್) ಅನ್ವಯಾಂಶ (ಆಪ್ಲೆಟ್)"
+
+#~ msgid "KRandRTray"
+#~ msgstr "ಕೆರಾಂಡರ್ಟ್ರೇ"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "ತೆರೆಯ ಗಾತ್ರ ಬದಲಿಸು ಮತ್ತು ತಿರುಗಿಸು"
+
+#~ msgid "Konsole"
+#~ msgstr "ಕನ್ಸೋಲ್"
+
+#~ msgid "KNetAttach"
+#~ msgstr "ಕೆನೆಟ್ ಅಟಾಚ್"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "ಜಾಲ ಕಡತಕೋಶ ಮಾಂತ್ರಿಕ (ವಿಜಾರ್ಡ್)"
+
+#~ msgid "KFontView"
+#~ msgstr "ಕೆಫಾಂಟ್ ವ್ಯೂ"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "ಸಂಘಟಿತ ಅಭಿವೃದ್ಧಿ ವಾತಾವರಣ"
+
+#~ msgid "Dolphin"
+#~ msgstr "ಡಾಲ್ಫಿನ್"
+
+#~ msgid "Info Center"
+#~ msgstr "ಮಾಹಿತಿ ಕೇಂದ್ರ"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "ಕೆಮಾಹಿತಿ ಕೇಂದ್ರ"
+
+#~ msgid "Change Password"
+#~ msgstr "ಗುಪ್ತಪದವನ್ನು (ಪಾಸ್ ವರ್ಡ್) ಬದಲಾಯಿಸು"
+
+#~ msgid "Bookmark Editor"
+#~ msgstr "ಅಂಕನ (ಬುಕ್ಮಾರ್ಕ್) ಸಂಪಾದಕ"
+
+#~ msgid "Bookmark Organizer and Editor"
+#~ msgstr "ಪುಟಗುರುತು ವ್ಯವಸ್ಥಾಪಕ ಹಾಗು ಸಂಪಾದಕ"
+
+#~ msgid "KWrite"
+#~ msgstr "ಕೆರೈಟ್"
+
+#~ msgid "Menu Editor"
+#~ msgstr "ಅಂಶಪಟ್ಟಿ ಸಂಪಾದಕ"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "ಕಡತಗಳನ್ನು/ಕಡತಕೋಶಗಳನ್ನು ಹುಡುಕು"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪಕ - ನಿರ್ವಾಹಕ ವಿಧಾನ (ಸೂಪರ್ ಯೂಸರ್ ಮೋಡ್)"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "ಫ್ಲಾಪಿ ಫಾರ್ಮ್ಯಾಟುಗಾರ"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "ಆಜ್ಞೆಗಳಿಗೆ ಶಾರ್ಟ್-ಕಟ್ ಕೀಲಿಗಳನ್ನು ನಿಯೋಜಿಸು"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "ಕೀಲಿಮಣೆ ಶಾರ್ಟ್-ಕಟ್‍ಗಳು"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "ಧ್ವನಿ ಪ್ರಮಾಣದ ಮಟ್ಟವನ್ನು ಹೊಂದಿಸಿ"
+
+#~ msgid "PulseAudio Volume Control"
+#~ msgstr "PulseAudio ಧ್ವನಿ ಪ್ರಮಾಣ ನಿಯಂತ್ರಣ"
+
+#~ msgid "Enable/disable installed plugins"
+#~ msgstr "ಅನುಸ್ಥಾಪಿಸಲಾದ ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಶಕ್ತಗೊಳಿಸು/ಅಶಕ್ತಗೊಳಿಸು"
+
+#~ msgid "Keyboard Indicator plugins"
+#~ msgstr "ಕೀಲಿಮಣೆ ಸೂಚಕ ಪ್ಲಗ್‌ಇನ್‌ಗಳು"
+
+#~ msgid "Change sound volume and sound events"
+#~ msgstr "ಧ್ವನಿಯ ಪ್ರಮಾಣ ಹಾಗು ಧ್ವನಿಗಳನ್ನು ಸನ್ನಿವೇಶಗಳನ್ನು ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Choose how other users can remotely view your desktop"
+#~ msgstr ""
+#~ "ಬೇರೆಯವರು ಹೇಗೆ ದೂರದಿಂದ ನಿಮ್ಮ ಗಣಕವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಬಹುದು ಎಂಬುದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+
+#~ msgid "Screensaver"
+#~ msgstr "ಸ್ಕ್ರೀನ್‌ಸೇವರ್"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "ನಿಮ್ಮ ಸ್ಕ್ರೀನ್‌ಸೇವರ್ ಆದ್ಯತೆಗಳನ್ನು ಅಣಿಗೊಳಿಸಿ"
+
+#~ msgid "Open Folder"
+#~ msgstr "ಕಡತಕೋಶವನ್ನು ತೆರೆ"
+
+#~ msgid "Install selected software on the system"
+#~ msgstr "ಆರಿಸಲಾದ ತಂತ್ರಾಂಶವನ್ನು ಗಣಕದಲ್ಲಿ ಅನುಸ್ಥಾಪಿಸು"
+
+#~ msgid "Package Installer"
+#~ msgstr "ಪ್ಯಾಕೇಜ್ ಅನುಸ್ಥಾಪಕ"
+
+#~ msgid "Sudoku"
+#~ msgstr "ಸುಡೊಕು"
+
+#~ msgid "Test your logic skills in this number grid puzzle"
+#~ msgstr "ಈ ಸಂಖ್ಯೆಯ ಚೌಕಗಳಲ್ಲಿ ನಿಮ್ಮ ತಾರ್ಕಿಕ ಬುದ್ಧಿಮತ್ತೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ"
+
+#~ msgid "Log File Viewer"
+#~ msgstr "ದಾಖಲೆ ಕಡತದ ವೀಕ್ಷಕ"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "ವ್ಯವಸ್ಥೆಯ ದಾಖಲೆ ಕಡತಗಳನ್ನು ನೋಡಿ ಅಥವ ಮೇಲ್ವಿಚಾರಣೆ ನಡೆಸಿ"
+
+#~ msgid "Network Proxy"
+#~ msgstr "ಜಾಲಬಂಧ ಪ್ರಾಕ್ಸಿ"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "ಜಾಲಬಂಧ ಪ್ರಾಕ್ಸಿಯ ಆದ್ಯತೆಗಳನ್ನು ಹೊಂದಿಸಿ"
+
+#~ msgid "Use the command line"
+#~ msgstr "ಆಜ್ಞಾ ಸಾಲನ್ನು ಬಳಸು"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "ನೀವು ಪ್ರವೇಶಿಸಿದಾಗ ಯಾವ ಅನ್ವಯವನ್ನು ಆರಂಭಿಸಬೇಕು ಎನ್ನುವುದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+
+#~ msgid "Startup Applications"
+#~ msgstr "ಆರಂಭಿಕ ಅನ್ವಯಗಳು"
+
+#~ msgid "Preview fonts"
+#~ msgstr "ಅಕ್ಷರಶೈಲಿಯ ಮುನ್ನೋಟ"
+
+#~ msgid "Clear hidden mines from a minefield"
+#~ msgstr "ಅಡಗಿಸಲಾದ ಮೈನ್‌ಗಳನ್ನು ಮೈನ್‌ಫೀಲ್ಡಿನಿಂದ ತೆರವುಗೊಳಿಸು"
+
+#~ msgid "Record sound clips"
+#~ msgstr "ಧ್ವನಿ ಕ್ಲಿಪ್‌ಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ"
+
+#~ msgid "Set your window properties"
+#~ msgstr "ನಿಮ್ಮ ವಿಂಡೊ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿಸಿ"
+
+#~ msgid "Windows"
+#~ msgstr "ವಿಂಡೋಗಳು"
+
+#~ msgid "Configure power management"
+#~ msgstr "ವಿದ್ಯುಚ್ಚಕ್ತಿಯ ನಿರ್ವಹಣೆಯನ್ನು ಸಂರಚಿಸು"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "AisleRiot ಸಾಲಿಟೇರ್"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "ಅನೇಕ ಬಗೆಯ ಸಾಲಿಟೇರ್ ಆಟವನ್ನು ಆಡು"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "ಬಳಕೆದಾರರ ಹಾಗು ಗುಂಪುಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ ಅಥವ ತೆಗೆದುಹಾಕುತ್ತದೆ"
+
+#~ msgid "Note-taker"
+#~ msgstr "ಟಿಪ್ಪಣಿ-ಮಾಡುವವ"
+
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr ""
+#~ "ಟಿಪ್ಪಣಿಗಳನ್ನು ಮಾಡಿಕೊಳ್ಳಿ, ವಿಚಾರಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಿ, ಹಾಗು ಎಲ್ಲವನ್ನೂ ವ್ಯವಸ್ಥಿತವಾಗಿ "
+#~ "ಇರಿಸಿಕೊಳ್ಳಿ"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "ಟಾಮ್‍ಬಾಯ್ ಟಿಪ್ಪಣಿಗಳು"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "ಒಂದು ಆರ್ಕೈವನ್ನು ಸೃಜಿಸು ಹಾಗು ಮಾರ್ಪಡಿಸು"
+
+#~ msgid "Cancel, pause, resume or reprint jobs"
+#~ msgstr ""
+#~ "ರದ್ದು ಮಾಡು, ತಾತ್ಕಾಲಿಕ ಸ್ಥಗಿತಗೊಳಿಸು, ಪುನರಾರಂಭಿಸು ಅಥವ ಕಾರ್ಯಗಳನ್ನು ಪುನರ್ ಮುದ್ರಿಸು"
+
+#~ msgid "Manage Print Jobs"
+#~ msgstr "ಮುದ್ರಣ ಕೆಲಸಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸು"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "GNOME ನ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+
+#~ msgid "Keyboard"
+#~ msgstr "ಕೀಲಿಮಣೆ"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "ನಿಮ್ಮ ಕೀಲಿಮಣೆ ಆದ್ಯತೆಗಳನ್ನು ಹೊಂದಿಸಿ"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr ""
+#~ "ತಾಳೆಯಾಗುವ ಜೋಡಿಗಳನ್ನು ತೆಗೆದು ಹಾಕುವ ಮೂಲಕ ಇಟ್ಟಿಗೆಗಳ ಒಂದು ಜೋಡಣೆಯನ್ನು ತೆಗೆದು ಹಾಕಿ"
+
+#~ msgid "Mahjongg"
+#~ msgstr "ಮಾಜೋಂಗ್"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "ನಿಮ್ಮ ಮೌಸ್‍ನ ಆದ್ಯತೆಗಳನ್ನು ಹೊಂದಿಸಿ"
+
+#~ msgid "Cheese"
+#~ msgstr "ಚೀಸ್"
+
+#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
+#~ msgstr ""
+#~ "ನಿಮ್ಮ ವೆಬ್‌ಕ್ಯಾಮ್‌ ಅನ್ನು ಬಳಸಿಕೊಂಡು ತಮಾಷೆಯ ಗ್ರಾಫಿಕಲ್ ಪರಿಣಾಮಗಳೊಂದಿಗೆ ಚಿತ್ರಗಳನ್ನು ಹಾಗು "
+#~ "ವಿಡಿಯೋಗಳನ್ನು ತೆಗೆಯಿರಿ"
+
+#~ msgid "Dominate the board in a classic version of Reversi"
+#~ msgstr "ರಿವಾರ್ಸಿಯ ಒಂದು ಸಾಂಪ್ರದಾಯಿಕ ಆವೃತ್ತಿಯೊಂದಿಗೆ ಬೋರ್ಡನ್ನು ಗೆಲ್ಲಿ"
+
+#~ msgid "Iagno"
+#~ msgstr "ಲ್ಯಾಗ್ನೋ"
+
+#~ msgid "Add or remove software installed on the system"
+#~ msgstr "ಗಣಕಕ್ಕೆ ತಂತ್ರಾಂಶವನ್ನು ಸೇರಿಸು ಅಥವ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿರುವುದನ್ನು ತೆಗೆದು ಹಾಕು"
+
+#~ msgid "Add/Remove Software"
+#~ msgstr "ತಂತ್ರಾಂಶವನ್ನು ಸೇರಿಸು ಅಥವ ತೆಗೆ"
+
+#~ msgid "Software Update"
+#~ msgstr "ತಂತ್ರಾಂಶ ಅಪ್‌ಡೇಟ್‌"
+
+#~ msgid "Update software installed on the system"
+#~ msgstr "ಗಣಕದಲ್ಲಿ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿರುವ ತಂತ್ರಾಂಶವನ್ನು ಅಪ್ಡೇಟ್ ಮಾಡು"
+
+#~ msgid "Observe power management"
+#~ msgstr "ವಿದ್ಯುಚ್ಛಕ್ತಿ ನಿರ್ವಹಣೆಯನ್ನು ಗಮನಿಸು"
+
+#~ msgid "Power Statistics"
+#~ msgstr "ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಅಂಕಿಅಂಶಗಳು"
+
+#~ msgid "Four-in-a-Row"
+#~ msgstr "ಫೋರ್-ಇನ್-ಎ-ರೋ"
+
+#~ msgid "Make lines of the same color to win"
+#~ msgstr "ಗೆಲ್ಲಲು ಒಂದೆ ಬಣ್ಣದ ಗೆರೆಗಳನ್ನು ರಚಿಸು"
+
+#~ msgid "Time Tracker"
+#~ msgstr "ಸಮಯದ ಟ್ರ್ಯಾಕರ್"
+
+#~ msgid "Dasher"
+#~ msgstr "Dasher"
+
+#~ msgid "Enter text without a keyboard"
+#~ msgstr "ಜಾಗತಿಕ ಕೀಲಿಮಣೆ ಗ್ರಾಬ್"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "ಊಹಾತ್ಮಕ ಪಠ್ಯ ನಮೂದು"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "GNOME ಸಂರಚನಾ ಉಪಕರಣ"
+
+#~ msgid "Perform arithmetic, scientific or financial calculations"
+#~ msgstr "ಗಣಿತ, ವೈಜ್ಞಾನಿಕ ಅಥವಾ ಹಣಕಾಸಿನ ಲೆಕ್ಕಚಾರಗಳನ್ನು ಮಾಡಿ"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪಕ ವಿಂಡೋದ ವರ್ತನೆ ಹಾಗು ಗೋಚರಿಕೆಯನ್ನು ಬದಲಾಯಿಸು"
+
+#~ msgid "File Management"
+#~ msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪನೆ"
+
+#~ msgid "Ekiga Softphone"
+#~ msgstr "ಎಕೀಗಾ ಸಾಫ್ಟ್‍ಫೋನ್"
+
+#~ msgid "IP Telephony, VoIP and Video Conferencing"
+#~ msgstr "IP ದೂರವಾಣಿ, VoIP ಹಾಗು ವೀಡಿಯೋ ಸಮಾವೇಶ"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "ಅಂತರ್ಜಾಲದ ಮೂಲಕ ಜನರೊಂದಿಗೆ ಮಾತನಾಡಿ"
+
+#~ msgid "Edit text files"
+#~ msgstr "ಪಠ್ಯ ಕಡತಗಳನ್ನು ಸಂಪಾದಿಸು"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Change software update preferences"
+#~ msgstr "ತಂತ್ರಾಂಶ ಅಪ್‌ಡೇಟ್ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಾಯಿಸು"
+
+#~ msgid "Software Updates"
+#~ msgstr "ತಂತ್ರಾಂಶ ಅಪ್‌ಡೇಟ್‌ಗಳು"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "Bonobo ಘಟಕ ವೀಕ್ಷಕ"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "ಲಭ್ಯವಿರುವ Bonobo ಘಟಕಗಳನ್ನು ತೋರಿಸುತ್ತದೆ"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Groupware Suite"
+#~ msgstr "ಗ್ರೂಪ್‌ವೇರ್ ಸೂಟ್"
+
+#~ msgid "Manage your email, contacts and schedule"
+#~ msgstr "ನಿಮ್ಮ ಇಮೈಲ್‌, ಸಂಪರ್ಕ ವಿಳಾಸಗಳನ್ನು ಹಾಗು ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಿರ್ವಹಿಸು"
+
+#~ msgid ""
+#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
+#~ msgstr ""
+#~ "IM ಮೂಲಕ ಮಾತುಕತೆ.  AIM, Google Talk, Jabber/XMPP, MSN, Yahoo ಹಾಗು ಇನ್ನೂ "
+#~ "ಬಹಳಷ್ಟನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "ಪಿಜಿನ್ ಇಂಟರ್ನೆಟ್ ಮೆಸೆಂಜರ್"
+
+#~ msgid "PulseAudio Preferences"
+#~ msgstr "PulseAudio ನ ಆದ್ಯತೆಗಳು"
+
+#~ msgid "Sound Server Preferences"
+#~ msgstr "ಧ್ವನಿ ಪರಿಚಾರಕದ ಆದ್ಯತೆಗಳು"
+
+#~ msgid "View and modify the configuration of the local sound server"
+#~ msgstr "ಸ್ಥಳೀಯ ಧ್ವನಿ ಪರಿಚಾರಕದ ಸಂರಚನೆಯನ್ನು ನೋಡಿ ಹಾಗು ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "ನಿಮ್ಮ ಸಂಗೀತದ ಸಂಗ್ರಹವನ್ನು ಚಲಾಯಿಸಿ ಹಾಗು ವ್ಯವಸ್ಥಿತವಾಗಿ ಜೋಡಿಸಿ"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "View and organize your images"
+#~ msgstr "ನಿಮ್ಮ ಚಿತ್ರಗಳನ್ನು ನೋಡಿ ಹಾಗು ಜೋಡಿಸಿ"
+
+#~ msgid "SCIM Input Method Setup"
+#~ msgstr "SCIM ಆದಾನ ಕ್ರಮ ಸೆಟ್ಅಪ್"
+
+#~ msgid "Setup utility for Smart Common Input Method platform"
+#~ msgstr "ಸ್ಮಾರ್ಟ್ ಕಾಮನ್ ಇನ್‍ಪುಟ್ ಮೆಥಡ್ ಪ್ಲಾಟ್‍ಫಾರ್ಮಿಗಾಗಿ ಸಹಾಯಕವನ್ನು ಹೊಂದಿಸು"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "ಫ್ರೀಸೆಲ್ ಸಾಲಿಟೇರ್"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "ಜನಪ್ರಿಯ ಫ್ರೀಸೆಲ್ ಇಸ್ಪೀಟು ಆಟವನ್ನು ಆಡು"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "ನೇರವಾಗಿ ನಿಮ್ಮ ಸಂಪೂರ್ಣ ಸಂರಚನಾ ದತ್ತಸಂಚಯವನ್ನು ಸಂಪಾದಿಸಿ"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "ತಾನಾಗಿಯೆ ಚಲಾಯಿಸುವ ಪ್ರಾಪ್ಟ್"
+
+#~ msgid "Create images and edit photographs"
+#~ msgstr "ಚಿತ್ರಗಳನ್ನು ರಚಿಸಿ ಹಾಗು ಫೋಟೋಗ್ರಾಫ್‌ಗಳನ್ನು ಸಂಪಾದಿಸಿ"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "ಚಿತ್ರ ಸಂಪಾದಕ"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "ದೋಷ ವರದಿ ಉಪಕರಣ"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "GNOME-ಆಧರಿತ ಅನ್ವಯಗಳಲ್ಲಿನ ದೋಷಗಳ ವಿರುದ್ಧ ಒಂದು ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿ"
+
+#~ msgid "Lights Off"
+#~ msgstr "ದೀಪಗಳನ್ನು ಆಫ್ ಮಾಡು"
+
+#~ msgid "Turn off all the lights"
+#~ msgstr "ಎಲ್ಲಾ ದೀಪಗಳನ್ನು ಆಫ್‌ ಮಾಡು"
+
+#~ msgid "Import into F-Spot"
+#~ msgstr "F-Spot ಗೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "ಒಂದು ಹುಳುವನ್ನು ಚಕ್ರವ್ಯೂಹದಲ್ಲಿ ನಡೆಯಲು ದಾರಿ ತೋರಿಸಿ"
+
+#~ msgid "Nibbles"
+#~ msgstr "ನಿಬಲ್ಸ್"
+
+#~ msgid "Automatic Bug Reporting Tool"
+#~ msgstr "ಸ್ವಯಂಚಾಲಿತ ದೋಷ ವರದಿ ಮಾಡುವ ಉಪಕರಣ"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Develop software in an integrated development environment"
+#~ msgstr "ಸಂಘಟಿತ ಅಭಿವೃದ್ಧಿ ವಾತಾವರಣದಲ್ಲಿ ತಂತ್ರಾಂಶವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತದೆ"
+
+#~ msgid "Atomix"
+#~ msgstr "ಅಟೂಮಿಕ್ಸ್"
+
+#~ msgid "Network Tools"
+#~ msgstr "ಜಾಲಬಂಧ ಉಪಕರಣಗಳು"
+
+#~ msgid "View information about your network"
+#~ msgstr "ನಿಮ್ಮ ಜಾಲಬಂಧದ ಬಗೆಗಿನ ಮಾಹಿತಿಯನ್ನು ನೋಡಿ"
+
+#~ msgid "Personal File Sharing"
+#~ msgstr "ವೈಯಕ್ತಿಕ ಕಡತ ಹಂಚಿಕೆ"
+
+#~ msgid "Preferences for sharing of files"
+#~ msgstr "ಕಡತಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಆದ್ಯತೆಗಳು"
+
+#~ msgid "Gnote"
+#~ msgstr "Gnote"
+
+#~ msgid "Gwibber"
+#~ msgstr "ಗ್ವಿಬರ್"
+
+#~ msgid "IBus Preferences"
+#~ msgstr "IBus ಆದ್ಯತೆಗಳು"
+
+#~ msgid "Set IBus Preferences"
+#~ msgstr "IBus ಆದ್ಯತೆಗಳನ್ನು ಸಿದ್ಧಗೊಳಿಸು"
+
+#~ msgid "IBus"
+#~ msgstr "IBus"
+
+#~ msgid "Input Method Framework"
+#~ msgstr "IBus ವಿಧಾನದ ಫ್ರೇಮ್‌ವರ್ಕ್"
+
+#~ msgid "Start IBus Input Method Framework"
+#~ msgstr "IBus ಇನ್‌ಪುಟ್ ವಿಧಾನದ ಫ್ರೇಮ್‌ವರ್ಕ್ ಅನ್ನು ಆರಂಭಿಸು"
+
+#~ msgid "Add items to the Nautilus popup menu"
+#~ msgstr "Nautilus ಪುಟಿಕೆ ಮೆನುವನ್ನು ಅಂಶಗಳನ್ನು ಸೇರಿಸಿ"
+
+#~ msgid "Nautilus Actions Configuration"
+#~ msgstr "Nautilus ಕ್ರಿಯೆಗಳ ಸಂರಚನೆ"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "ಜಾಲಬಂಧ ಸಾಧನ ಹಾಗು ಸಂಪರ್ಕಗಳನ್ನು ಸಂರಚಿಸಿ"
+
+#~ msgid "Manage and change your network connection settings"
+#~ msgstr "ನಿಮ್ಮ ಜಾಲಬಂಧ ಸಂಪರ್ಕಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಹಾಗು ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Network Connections"
+#~ msgstr "ಜಾಲಬಂಧ ಸಂಪರ್ಕಗಳು"
+
+#~ msgid "Decrypt File"
+#~ msgstr "ಕಡತವನ್ನು ಡೀಕ್ರಿಪ್ಟ್‍ ಮಾಡು"
+
+#~ msgid "Import Key"
+#~ msgstr "ಕೀಲಿಯನ್ನು ಆಮದು ಮಾಡಿಕೊ"
+
+#~ msgid "Configure key servers and other encryption settings"
+#~ msgstr ""
+#~ "ಕೀಲಿ ಪರಿಚಾರಕಗಳನ್ನು ಹಾಗು ಇತರೆ ಗೂಢಲಿಪೀಕರಣ(ಎನ್‌ಕ್ರಿಪ್ಶನ್) ಸಂಯೋಜನೆಗಳನ್ನು ಸಂರಚಿಸು"
+
+#~ msgid "Encryption and Keyrings"
+#~ msgstr "ಗೂಢಲಿಪೀಕರಣ ಹಾಗು ಕೀರಿಂಗ್‍ಗಳು"
+
+#~ msgid "Verify Signature"
+#~ msgstr "ಸಹಿಯನ್ನು ಪರಿಶೀಲಿಸು"
+
+#~ msgid "Manage your passwords and encryption keys"
+#~ msgstr "ನಿಮ್ಮ ಗುಪ್ತಪದ ಮತ್ತು ಗೂಢಲಿಪೀಕರಣ ಕೀಲಿಯನ್ನು ನಿರ್ವಹಿಸಿ"
+
+#~ msgid "Passwords and Encryption Keys"
+#~ msgstr "ಗುಪ್ತಪದಗಳು ಹಾಗು ಗೂಢಲಿಪೀಕರಣ ಕೀಲಿಗಳು"
+
+#~ msgid "Configure which services will be run when the system starts"
+#~ msgstr "ಗಣಕವು ಆರಂಭಗೊಂಡಾಗ ಯಾವ ಸೇವೆಗಳು ಚಲಾಯಿಸಲ್ಪಡಬೇಕು ಎಂಬುದನ್ನು ಸಂರಚಿಸಿ"
+
+#~ msgid "Services"
+#~ msgstr "ಸೇವೆಗಳು"
+
+#~ msgid "Configure which folders are available for your network neighborhood"
+#~ msgstr "ನಿಮ್ಮ ಜಾಲಬಂಧ ನೆರೆಹೊರೆಯಲ್ಲಿ ಯಾವ ಕಡತವು ಲಭ್ಯವಿರಬೇಕಿರುವ ಎಂದು ಸಂರಚಿಸಿ"
+
+#~ msgid "Shared Folders"
+#~ msgstr "ಹಂಚಲಾದ ಕಡತಕೋಶಗಳು"
+
+#~ msgid "Play Adobe Flash files"
+#~ msgstr "Adobe ಫ್ಲಾಶ್ ಕಡತಗಳನ್ನು ಚಲಾಯಿಸುತ್ತದೆ"
+
+#~ msgid "Swfdec Flash Player"
+#~ msgstr "Swfdec ಫ್ಲ್ಯಾಶ್ ಪ್ಲೇಯರ್"
+
+#~ msgid "Change the default Java toolset"
+#~ msgstr "ಡೀಫಾಲ್ಟ್‍ ಜಾವ ಉಪಕರಣಗಳನ್ನು ಬದಲಾಯಿಸು"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "ಗಣಕದ ಸಮಯ, ದಿನಾಂಕ, ಹಾಗು ಕಾಲವಲಯವನ್ನು ಬದಲಾಯಿಸಿ"
+
+#~ msgid "Time and Date"
+#~ msgstr "ಸಮಯ ಹಾಗು ದಿನಾಂಕ"
+
+#~ msgid "Users and Groups"
+#~ msgstr "ಬಳಕೆದಾರರು ಹಾಗು ಗುಂಪುಗಳು"
+
+#~ msgid "Manage virtual machines"
+#~ msgstr "ವರ್ಚುವಲ್‌ ಗಣಕವನ್ನು ನಿರ್ವಹಿಸಿ"
+
+#~ msgid "Virtual Machine Manager"
+#~ msgstr "ವಾಸ್ತವ ಯಂತ್ರ ವ್ಯವಸ್ಥಾಪಕ"

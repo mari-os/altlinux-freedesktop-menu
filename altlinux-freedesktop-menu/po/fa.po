@@ -1,0 +1,4326 @@
+# translation of menu-messages-main-fa.po to 
+# translation of menu-messages_fa.po to Persian
+# translation of menu-messages-fa.po to Persian
+# translation of menu-messages.po to Persian
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER.
+# Abbas Izad <abbasizad@hotmail.com>, 2003, 2004, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages-main-fa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2005-02-06 08:07-0500\n"
+"Last-Translator: \n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Generator: KBabel 1.9.1\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "گرافیک"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "برنامه‌های گرافیکی"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "گرافیک"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "برنامه‌های گرافیکی"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "بازی و سرگرمی"
+
+msgid "Accessibility"
+msgstr "توان‌یابی"
+
+#, fuzzy
+msgid "Action"
+msgstr "آموزش"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "بازی فعال-پازل"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "مدیریت"
+
+msgid "Adventure"
+msgstr "ماجرا"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "بازی شبیه به تتریس"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "برنامه‌های کاربردی"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "برنامه‌های کاربردی"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "آرکید"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "بازی ویدیوی آرکید"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "ابزار بایگانی"
+
+#, fuzzy
+msgid "Art"
+msgstr "آرک"
+
+msgid "Artificial Intelligence"
+msgstr "Artificial Intelligence"
+
+#, fuzzy
+msgid "Artificial Intelligence software"
+msgstr "Artificial Intelligence"
+
+msgid "Astronomy"
+msgstr "نجوم"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "نجوم"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "پخش‌کنندۀ صوتی"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "ضبط‌گر صدا"
+
+msgid "Biology"
+msgstr "زیست‌شناسی"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "نرم‌افزار مرفین"
+
+msgid "Board Games"
+msgstr "بازیهای تخته"
+
+msgid "Boards"
+msgstr "بازیهای تخته‌ای"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "ماشین‌حساب"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "ماشین‌حساب"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "بازیهای کارت"
+
+msgid "Cards"
+msgstr "بازیهای ورق"
+
+#, fuzzy
+msgid "Chart"
+msgstr "KCharSelect"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "شیمی"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "شیمی"
+
+#, fuzzy
+msgid "Clock"
+msgstr "ساعت خورشیدی"
+
+#, fuzzy
+msgid "Communications"
+msgstr "برنامه‌های کاربردی"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "دانش رایانه‌ای"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "دانش رایانه‌ای"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "دانش رایانه‌ای"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "دانش رایانه‌ای"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "ویراستار پیکربندی"
+
+#, fuzzy
+msgid "Construction"
+msgstr "بازی ساخت شبکه"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr "به تصویر کشیدن داده"
+
+#, fuzzy
+msgid "Data visualization software"
+msgstr "به تصویر کشیدن داده"
+
+msgid "Databases"
+msgstr "بانک‌های اطلاعاتی"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "برنامه‌های کاربردی بیشتر"
+
+msgid "Desktop"
+msgstr "رومیزی"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "برنامه‌نویسی"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "یک برنامه‌ی نمودار ۳بعدی"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "لغت‌نامه"
+
+msgid "Dictionary"
+msgstr "لغت‌نامه"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "نوشتارها"
+
+msgid "Economy"
+msgstr "اقتصاد"
+
+msgid "Editors"
+msgstr "ویرایشگرها"
+
+msgid "Education"
+msgstr "آموزش"
+
+msgid "Electricity"
+msgstr "برق"
+
+#, fuzzy
+msgid "Electricity software"
+msgstr "برق"
+
+#, fuzzy
+msgid "Electronics"
+msgstr "برق"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Xmailbox"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "کاربردهای پایانه"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "شبیه‌سازها"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "جور کردن بلوک‌های در حال سقوط با یکدیگر"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "جور کردن بلوک‌های در حال سقوط با یکدیگر"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "مدیر پرونده"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "سیستم"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "مدیر پرونده"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "ابزارهای سیستم"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "ابزار متن"
+
+#, fuzzy
+msgid "Finances"
+msgstr "دانش"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "گنومه"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "طراح واسط"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "کاربردهای پایانه"
+
+msgid "Games"
+msgstr "بازی‌ها"
+
+msgid "Games and amusements"
+msgstr "بازی و سرگرمی"
+
+msgid "Games for Kids"
+msgstr "بازیهایی برای بچه‌ها"
+
+msgid "Geography"
+msgstr "جغرافیا"
+
+#, fuzzy
+msgid "Geology"
+msgstr "زیست‌شناسی"
+
+#, fuzzy
+msgid "Geology software"
+msgstr "نرم‌افزار مرفین"
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "زمین‌شناسی"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "زمین‌شناسی"
+
+msgid "Geosciences"
+msgstr "زمین‌شناسی"
+
+msgid "Graphics"
+msgstr "گرافیک"
+
+#, fuzzy
+msgid "HAM radio software"
+msgstr "نرم‌افزار مرفین"
+
+msgid "Hardware"
+msgstr "سخت‌افزار"
+
+msgid "History"
+msgstr "تاریخچه"
+
+#, fuzzy
+msgid "IDE"
+msgstr "بیکار"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "برنامه‌های کاربردی"
+
+msgid "IRC"
+msgstr "IRC"
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "کارخواه IRC"
+
+msgid "Image Processing"
+msgstr "پردازش تصویر"
+
+#, fuzzy
+msgid "Image Processing software"
+msgstr "پردازش تصویر"
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "پیام‌رسان آنی"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "کارگیر پیغام درجای جهانی "
+
+msgid "Internet"
+msgstr "اینترنت"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "برنامه‌های کاربردی بیشتر"
+
+#, fuzzy
+msgid "Java"
+msgstr "Lavaps"
+
+msgid "KDE"
+msgstr "کدئی"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "زبان‌ها"
+
+msgid "Literature"
+msgstr "نوشتجات"
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "بازی منطقی"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "نرم‌افزار مرفین"
+
+msgid "Mathematics"
+msgstr "ریاضیات"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "نرم‌افزار دیسکوچی"
+
+#, fuzzy
+msgid "Medical software"
+msgstr "نرم‌افزار مرفین"
+
+#, fuzzy
+msgid "Mixers"
+msgstr "مین‌ها"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "شبکه‌کاری"
+
+msgid "Multimedia"
+msgstr "مولتی‌مدیا"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "منوی چندرسانه‌ای"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "پخشگر چندرسانه"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "پخشگر چندرسانه"
+
+#, fuzzy
+msgid "Music"
+msgstr "میوز"
+
+#, fuzzy
+msgid "Musical software"
+msgstr "نرم‌افزار مرفین"
+
+msgid "Network"
+msgstr "شبکه"
+
+msgid "Network-related settings"
+msgstr "تنظیمات مربوط به شبکه"
+
+#, fuzzy
+msgid "News"
+msgstr "یادداشت‌ها"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr "تحلیل اعدادی"
+
+#, fuzzy
+msgid "Numerical analysis software"
+msgstr "تحلیل اعدادی"
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "دفتری"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "غیره"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "برنامه نقاشی"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "کاربردهای پایانه"
+
+msgid "Packaging"
+msgstr "بسته‌بندی"
+
+msgid "Parallel Computing"
+msgstr "محاسبه‌ی موازی"
+
+#, fuzzy
+msgid "Parallel computing software"
+msgstr "محاسبه‌ی موازی"
+
+#, fuzzy
+msgid "Performance"
+msgstr "ارجحیت‌ها"
+
+msgid "Personal"
+msgstr "شخصی"
+
+#, fuzzy
+msgid "Photography"
+msgstr "جغرافیا"
+
+msgid "Physics"
+msgstr "فیزیک"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "نرم‌افزار مرفین"
+
+msgid "Preferences"
+msgstr "ارجحیت‌ها"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "نرم‌افزار مرفین"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "نوشتارها"
+
+msgid "Printing"
+msgstr "چاپ"
+
+#, fuzzy
+msgid "Profiling tools"
+msgstr "ابزار بایگانی"
+
+msgid "Project Management"
+msgstr "مدیریت پروژه"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "مدیریت پروژه"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "گرافیک"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "برنامه‌های گرافیکی"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "رومیزی دوردست"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "کنترل حجم"
+
+msgid "Robotics"
+msgstr "روبوت‌ها"
+
+#, fuzzy
+msgid "Robotics software"
+msgstr "نرم‌افزار مرفین"
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "علمی"
+
+msgid "Screensavers"
+msgstr "محافظ‌های صفحهٔ نمایش"
+
+msgid "Security"
+msgstr "امنیت"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "امنیت"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "دانش"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "شبیه‌ساز Minitel"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "بازی کشف فضا"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "مدیر رسانه‌های نرم‌افزاری"
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "صدا"
+
+msgid "Sports"
+msgstr "ورزش‌ها"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "بازیهای تخته"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "برگ‌های‌حساب دفتر Siag "
+
+msgid "Strategy"
+msgstr "تاکتیکی"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "تاکتیکی"
+
+msgid "System"
+msgstr "سیستم"
+
+msgid "System settings"
+msgstr "تنظیمات سیستم"
+
+#, fuzzy
+msgid "TV"
+msgstr "MoTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "دیدن و گزارش شکستهای برنامه"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "برنامه‌های کاربردی"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "تلفن ISDN "
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "ابزار متن"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "کاربردهای پایانه"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "پایانه"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "ابزار متن"
+
+msgid "Text tools"
+msgstr "ابزار متن"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "ابزار"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "ابزارهای تولید نرم‌افزار"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "انتخاب برنامه‌ی پیش‌فرض"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "انتخاب برنامه‌ی پیش‌فرض"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "اسباب‌بازی‌ها"
+
+msgid "Translation"
+msgstr "ترجمه"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "ترجمه"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "ابزار نقاشی گرافیک بُرداری"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "برنامه‌های گرافیکی"
+
+#, fuzzy
+msgid "Video"
+msgstr "Jigdo"
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "ارجحیت‌ها"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "پخشگر ویدیو"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "ضبط ویدیوی دیجیتال"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "KUIViewer"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "مرورگر وب"
+
+msgid "Web Development"
+msgstr "توسعۀ وب"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "کارگیر Whois "
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> تمام برنامه‌ها"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> چکار شود؟"
+
+#~ msgid "Edutainment"
+#~ msgstr "تفریحی-آموزشی"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "متفرقه"
+
+#~ msgid "Shells"
+#~ msgstr "پوسته‌ها"
+
+#~ msgid "Utilities"
+#~ msgstr "برنامه‌های سودمند"
+
+#~ msgid "Backups"
+#~ msgstr "ذخیره‌های پشتیبانی"
+
+#~ msgid "Internationalization"
+#~ msgstr "بین‌المللی کردن"
+
+#~ msgid "Programming"
+#~ msgstr "برنامه‌سازی"
+
+#~ msgid "Servers"
+#~ msgstr "کارگزارها"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "پیکربندی رایانه خود"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "برنامه‌های سودمند پنجرۀ X"
+
+#~ msgid "X-Utilities"
+#~ msgstr "برنامه‌های سودمند X"
+
+#~ msgid "Wine"
+#~ msgstr "واین"
+
+#~ msgid "Advanced"
+#~ msgstr "پیشرفته"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "تنظیمات پیش‌رفته"
+
+#~ msgid "Lost & Found"
+#~ msgstr "گم‌شده و یافته‌شده"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "راهکارها و راهبردها"
+
+#~ msgid "Information"
+#~ msgstr "اطلاعات"
+
+#~ msgid "Personal preferences"
+#~ msgstr "ترجیحات شخصی"
+
+#~ msgid "Accessories"
+#~ msgstr "لوازم"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "لوازم رومیزی"
+
+#~ msgid "Science & Math"
+#~ msgstr "علوم و ریاضی"
+
+#~ msgid "Peripherals"
+#~ msgstr "وسایل جانبی"
+
+#~ msgid "Look and Feel"
+#~ msgstr "شکل و رفتار"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "تنظیماتی که ظاهر و رفتار رومیزی را کنترل می‌کنند"
+
+#~ msgid "File"
+#~ msgstr "پرونده"
+
+#~ msgid "Personal settings"
+#~ msgstr "تنظیمات شخصی"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "تم‌های محافظ صفحهٔ نمایش"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "ابزارهای آموزشی"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "پیکربندی و پایشگری سیستم"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "تنظیمات دستگاه‌های مختلف سخت‌افزاری"
+
+#~ msgid "KDE Menu"
+#~ msgstr "گزینگان KDE"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "ترجیحات شخصی و تنظیمات مدیریتی"
+
+#~ msgid "Development Environments"
+#~ msgstr "محیط‌های برنامه‌نویسی"
+
+#~ msgid "Universal Access"
+#~ msgstr "دسترسی همگانی"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "تنظیمات دسترسی همگانی"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "تغییر تنظیمات کل سیستم (همه‌ی کاربران متأثر می‌شوند)‏"
+
+#~ msgid "Sound & Video"
+#~ msgstr "صدا و تصویر"
+
+#~ msgid "Internet and Network"
+#~ msgstr "اینترنت و شبکه"
+
+#~ msgid "Control Center"
+#~ msgstr "مرکز کنترل"
+
+#~ msgid "Puzzles"
+#~ msgstr "پازل‌ها"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "بازیهای شبیه Rogue"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "برنامه‌هایی برای دست‌یابی به اینترنت مثل وب و پست الکترونیکی"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "برنامه‌هایی که در مقولات دیگر جا نمی‌گیرند"
+
+#~ msgid "Office Applications"
+#~ msgstr "برنامه‌های اداری"
+
+#~ msgid ".hidden"
+#~ msgstr "پنهان"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "لطفاً برندارید یا تغییر ندهید"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "بروزسازی ماندریبا"
+
+#~ msgid "Tali"
+#~ msgstr "تالی"
+
+#~ msgid "Audacity"
+#~ msgstr "آوداسیتی"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در فرانسوی"
+
+#~ msgid "MIDI file player"
+#~ msgstr "پخشگر پرونده MIDI"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "Five or More"
+#~ msgstr "پنج یا بیشتر"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "حذف توپ‌های رنگی از صفحه با تشکیل خط"
+
+#~ msgid "Minesweeper"
+#~ msgstr "مین پاک‌کن"
+
+#~ msgid "System Monitor"
+#~ msgstr "نمایشگر سیستم"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "نمای پروسه‌های کنونی و نمایش شرایط سیستم"
+
+#~ msgid "GQview"
+#~ msgstr "نمای گ‌کیو"
+
+#~ msgid "Image Viewer"
+#~ msgstr "نمایشگر تصویر"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "یک برنامه زیرنظرگیری براساس-GTK"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "Media Player"
+#~ msgstr "پخش‌کنندۀ رسانه"
+
+#~ msgid "About Me"
+#~ msgstr "‌درباره‌ی من"
+
+#~ msgid "Set your personal information"
+#~ msgstr "اطلاعات شخصی خود را تنظیم کنید"
+
+#~ msgid "IceBreaker"
+#~ msgstr "یخ‌شکن"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "مرور بر وب"
+
+#~ msgid "Character Map"
+#~ msgstr "جدول نویسه‌ها"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "درج نویسه‌های خاص در نوشتار"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "تنظیمات سامبا (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "ابزار مدیریت سامبا سوات"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "تمام بازی‌های ورق تنهایی"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "GUI chessboard game"
+#~ msgstr "واسط گرافیکی بازی شطرنج"
+
+#~ msgid "XBoard"
+#~ msgstr "شطرنج"
+
+#~ msgid "Appearance"
+#~ msgstr "ظاهر"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "بررسی معانی و املای کلمات در یک لغت‌نامهٔ برخط"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "پیدا کردن نوشتارها و پوشه‌های موجود در این کامپیوتر با استفاده از نام یا "
+#~ "محتوای آنها"
+
+#~ msgid "Search for Files..."
+#~ msgstr "جستجوی پرونده‌ها..."
+
+#~ msgid "Panel"
+#~ msgstr "تابلو"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "صفحه‌کلید بر-صفحه"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "ظاهری برای rp-pppoe"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "سی‌دی/دی‌وی‌دی ساز"
+
+#~ msgid "Device Manager"
+#~ msgstr "مدیر دستگاه"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "برنامه‌های ترجیحی"
+
+#~ msgid "Klotski"
+#~ msgstr "کی‌لاتسکی"
+
+#~ msgid "Leafpad"
+#~ msgstr "Leafpad"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "ایجاد و ویرایش مجموعه تنظیمات برای کاربر"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "ویرایشگر مجموعه تنظیمات کاربر"
+
+#~ msgid "F-Spot"
+#~ msgstr "اِف- اِسپات"
+
+#~ msgid "Photo Viewer"
+#~ msgstr "نمایش‌دهندهٔ عکس"
+
+#~ msgid "Emacs"
+#~ msgstr "ایمکس"
+
+#~ msgid "Text Editor"
+#~ msgstr "ویرایشگر متن"
+
+#~ msgid "Office Suite"
+#~ msgstr "مجموعۀ دفتری"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "ماشین‌حساب دفترآزاد"
+
+#~ msgid "Control tool for Echoaudio soundcards"
+#~ msgstr "ابزار کنترل برای کارتهای صدای Echoaudio "
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "ذخیرهٔ تصاویر رومیزی یا پنجره‌های جداگانه‌"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "گرفتن عکس صفحه"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در هلندی"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "مرور سیستم پرونده‌ها با مدیر پرونده‌ها"
+
+#~ msgid "File Browser"
+#~ msgstr "مرورگر پرونده"
+
+#~ msgid "IDE for Python"
+#~ msgstr "IDE برای پایتون"
+
+#~ msgid "Mail notifier"
+#~ msgstr "یادآور پست"
+
+#~ msgid "Configurator"
+#~ msgstr "تنظیم‌گر"
+
+#~ msgid "Control panel for RME Hammerfall"
+#~ msgstr "تابلوی کنترل برای RME·Hammerfall"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Digicontrol"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "راهنمایی گرفتن در مورد گنوم"
+
+#~ msgid "Help"
+#~ msgstr "راهنما"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "تحلیل‌گر فضای مصرفی دیسک"
+
+#~ msgid "Organize, enjoy, and share your photos"
+#~ msgstr ""
+#~ "عکس‌های خود را سازمان‌دهی کنید، از آنها لذت ببرید،  و با دیگران قسمت کنید "
+
+#~ msgid "Photo Manager"
+#~ msgstr "مدیر عکس"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "ابزار پیکربندی کارگزار و کارگیر دورنگار"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "پخش فیلم و آوازها"
+
+#~ msgid "Document Viewer"
+#~ msgstr "نمایشگر نوشتار"
+
+#~ msgid "Home Folder"
+#~ msgstr "پوشه‌ی آغازه"
+
+#~ msgid "Tetravex"
+#~ msgstr "تِتراوِکس"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "پیکربندی پیشفرضها برای برنامه های GStreamer"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "انتخابگر سیستمهای چندرسانه"
+
+#~ msgid "Metacity"
+#~ msgstr "متاسیتی"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Gtk-ocr یک ظاهر gtk برای gocr"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "از روبات‌ها دوری کنید و کاری کنید که با هم تصادف کنند"
+
+#~ msgid "Robots"
+#~ msgstr "روبات‌ها"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در اسپانیایی"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "تنظیم‌گر فچمیل"
+
+#~ msgid "ClanBomber"
+#~ msgstr "کلن‌بمبرمن"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "چهارخانه‌ای با رنگ‌های تپنده به سبک هنر پاپ."
+
+#~ msgid "Pop art squares"
+#~ msgstr "مربع‌های پاپ"
+
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr "نمایش اسلایدهایی از اِف-اِسپات"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "عکس‌های اِف-اِسپات"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "اسلایدهایی از پوشهٔ تصاویر شما نمایش داده شود"
+
+#~ msgid "Pictures folder"
+#~ msgstr "پوشهٔ تصاویر"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "حباب‌پراکنی از لوگوی پای گنوم در اطراف صفحهٔ نمایش"
+
+#~ msgid "Floating Feet"
+#~ msgstr "پاهای شناور"
+
+#~ msgid "Cosmos"
+#~ msgstr "کیهان"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "اسلایدهایی از تصاویر کیهان نمایش داده شود"
+
+#~ msgid "Computer"
+#~ msgstr "کامپیوتر"
+
+#~ msgid "Browse Available Software"
+#~ msgstr "مرور نرم‌افزار موجود"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "نمایش زمین بر رومیزی شما"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "مرور و مرتب کردن چوب‌الف‌های شما"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "چوب‌الف‌های وب Epiphany"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "چوب‌الف‌های وب"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در اسلووینیایی"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "بازی پر حادثه و حل پازل"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "ابزار به‌روزرسانی گزینگان"
+
+#~ msgid "KDiamond"
+#~ msgstr "جواهرات"
+
+#~ msgid "Three-in-a-row game"
+#~ msgstr "بازی «سه در یک سطر»"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "انتخاب‌‌کنندۀ رنگ"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KColorChooser"
+
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "جدول تناوبی عناصر KDE"
+
+#~ msgid "Kalzium"
+#~ msgstr "کلزیوم"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "جدول تناوبی عناصر"
+
+#~ msgid "Hangman Game"
+#~ msgstr "بازی جلاد"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "بازی جلاد KDE"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "یک مشاهده‌گر تصویر ساده"
+
+#~ msgid "Kiriki"
+#~ msgstr "کیریکی"
+
+#~ msgid "Yahtzee-like Dice Game"
+#~ msgstr "بازی طاس شبیه Yahtzee"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "مدیر کاربر"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Galactic Strategy Game"
+#~ msgstr "بازی Galactic Strategy"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "A flashcard and vocabulary learning program"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "پایانۀ CVS"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "خط‌کش پرده"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "برنامۀ گیراندازی پرده"
+
+#~ msgid "Character Selector"
+#~ msgstr "گزینندۀ نویسه"
+
+#~ msgid "Konqueror"
+#~ msgstr "کانکرر"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "یک برنامۀ KDE برای یادگیری الفبا"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "The SMB/CIFS Share Browser"
+#~ msgstr "مرورگر اشتراک CIFS/SMB"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "برنامه زمان‌بندی و تقویم"
+
+#~ msgid "KOrganizer"
+#~ msgstr "سازمانده"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "سازمان‌دهندۀ شخصی"
+
+#~ msgid "Home"
+#~ msgstr "خانه"
+
+#~ msgid "Personal Files"
+#~ msgstr "پرونده‌های شخصی"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "دوال‌فضایی "
+
+#~ msgid "Space Arcade Game"
+#~ msgstr "بازی گذرگاه فضایی"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "مهارت تحریر آموختار"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "ویرایشگر نگاشت تصویر زنگام"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "Link Checker"
+#~ msgstr "بررسی‌کنندۀ پیوند"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "Note Taker"
+#~ msgstr "یادداشت بردار"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "پایانۀ ترکیب‌دهندۀ گفتار"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "eyecandy موتوری برای سرد کردن رومیزی."
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "عنصرهای رومیزی"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "سوپرکارامبا"
+
+#~ msgid "Picture Game for Children"
+#~ msgstr "بازی تصویری برای بچه‌‌‌ها"
+
+#~ msgid "Potato Guy"
+#~ msgstr "سیب‌زمینی"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "برنامۀ سودمند تاریخچۀ برش و چسباندن"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "ابزار تخته‌یادداشت"
+
+#~ msgid "Battleship Game"
+#~ msgstr "بازی Battleship"
+
+#~ msgid "KBattleship"
+#~ msgstr "کشتی‌جنگی"
+
+#~ msgid "Card Game"
+#~ msgstr "بازی ورق"
+
+#~ msgid "CD Player"
+#~ msgstr "پخشگر سی‌دی"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid ""
+#~ "Manage your photographs like a professional with the power of open source"
+#~ msgstr " مدیریت عکس KDE"
+
+#~ msgid "Photo Viewer and Editor"
+#~ msgstr "مشاهده‌گر تصویر"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "کلون بمب‌گذار"
+
+#~ msgid "Graph Calculator"
+#~ msgstr "ماشین حساب گراف"
+
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "حل‌کننده و رسام عبارت ریاضی"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "مشاهده‌گر پروندۀ واسط نگاره‌ای طراح Qt"
+
+#~ msgid "A 3-D game based on Rubik's Cube"
+#~ msgstr "یک بازی سه‌بعدی بر اساس بازی روبیک"
+
+#~ msgid "Kubrick"
+#~ msgstr "کوبریک"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "اشتراک رومیزی"
+
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "جادوگر KDE Groupware"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "شیسن-شو"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "بازی کاشی شبیه Shisen-Sho Mahjongg"
+
+#~ msgid "A memory enhancement game"
+#~ msgstr "بازی تقویت حافظه"
+
+#~ msgid "KSudoku, Sudoku game & more for KDE"
+#~ msgstr "KSudoku، بازی Sudoku و بیشتر برای KDE"
+
+#~ msgid "Sudoku Game"
+#~ msgstr "بازی سودوکو"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "A GnuPG frontend"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "میلۀ رمزبندی"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "تابلوی برنامکی برای تغییر اندازه و جهت صفحات X."
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "تغییر اندازه & چرخش صفحه"
+
+#~ msgid "KMail"
+#~ msgstr "پست"
+
+#~ msgid "Mail Client"
+#~ msgstr "کارخواه‌نامه"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Mahjongg Solitaire"
+#~ msgstr "فال Mahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "کنسول"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "بازی Reversi Board"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "ماشین حساب علمی"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "پایانۀ Diff/کژنه"
+
+#~ msgid "Kompare"
+#~ msgstr "مقایسه"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "درشت‌نمای پرده"
+
+#~ msgid "Countdown Launcher"
+#~ msgstr "راه‌انداز شمارش معکوس"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "جادوگر پوشۀ شبکه"
+
+#~ msgid "UML Modeller"
+#~ msgstr "مدل‌ساز UML"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "بازی Blackbox Logic"
+
+#~ msgid "KBlackBox"
+#~ msgstr "جعبه‌سیاه"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "Nonlinear video editor for KDE"
+#~ msgstr "ویرایشگر ویدیوی غیرخطی برای کدئی"
+
+#~ msgid "KAtomic"
+#~ msgstr "اتمی"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "بازی منطق شبیه Sokoban"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "بازی Patience Card"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "مدیر اطلاعات شخصی"
+
+#~ msgid "Desktop Globe"
+#~ msgstr "کره رومیزی"
+
+#~ msgid "Bovo"
+#~ msgstr "بُوُ"
+
+#~ msgid "Five-in-a-row Board Game"
+#~ msgstr "بازی تخته پنج در یک سطر"
+
+#~ msgid "AMOR"
+#~ msgstr "آمور"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "ایجاد‌کنندۀ روی پرده"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "مربی واژه‌ها"
+
+#~ msgid "Font Viewer"
+#~ msgstr "مشاهده‌گر قلم"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Function Plotter"
+#~ msgstr "ترسیم تابع"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "رسام تابع ریاضی"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "ابزار شماره‌گیری اینترنت"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "سیاره نمای رومیزی"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "Four-in-a-row Board Game"
+#~ msgstr "بازی تخته چهار در یک سطر"
+
+#~ msgid "KFourInLine"
+#~ msgstr "چهار-در-یک-خط"
+
+#~ msgid "KNetWalk"
+#~ msgstr "گشت شبکه‌"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "Paint Program"
+#~ msgstr "برنامۀ رنگ"
+
+#~ msgid "KAlarm"
+#~ msgstr "زنگ‌خطر"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "زمان‌بند هشدار شخصی"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "ابزار مدیریت  Wallet"
+
+#~ msgid "KTron"
+#~ msgstr "ترون"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "بازی شبیهTron"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "مشاهدۀ کاربرد دیسک"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "A BitTorrent program for KDE"
+#~ msgstr "یک برنامۀ BitTorrent برای KDE"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "کارخواه BitTorrent"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "پایانۀ گزارش‌گیر"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "به تصویر کشیدن داده نمایه‌ی قابلیت اجرایی"
+
+#~ msgid "Download Manager"
+#~ msgstr "مدیر بارگیری"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "A Geography Learning Program"
+#~ msgstr "برنامۀ یادگیری جغرافیا"
+
+#~ msgid "Geography Trainer"
+#~ msgstr "مربی جغرافیا"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "خطوط رنگی"
+
+#~ msgid "Tactical Game"
+#~ msgstr "بازی برنامه‌ریزی‌شده"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "تمرین کسرها"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "انجام تمرین‌ها برای کسرها"
+
+#~ msgid "Info Center"
+#~ msgstr "مرکز اطلاعات"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "چایی داغ"
+
+#~ msgid "Change Password"
+#~ msgstr "تغییر گذرواژه"
+
+#~ msgid "Connect the dots to create squares"
+#~ msgstr "اتصال نقطه‌ها برای ایجاد مربعها"
+
+#~ msgid "KSquares"
+#~ msgstr "نقطه‌بازی"
+
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "ابزار مرجع و مطالعۀ ژاپنی"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "ابزار مرجع/مطالعۀ ژاپنی"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "مخلوط‌کن صدا"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "مدیریت اشکال KDE"
+
+#~ msgid "Welcome"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Configure Your Desktop"
+#~ msgstr "تنظیم رومیزی خود"
+
+#~ msgid "Search & Replace Tool"
+#~ msgstr "ابزار جستجو و جایگزینی"
+
+#~ msgid "Kolf"
+#~ msgstr "کلف"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "گلف مینیاتوری"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "برنامۀ سودمند رسانه‌ای قابل حذف"
+
+#~ msgid "Ball Bouncing Game"
+#~ msgstr "بازی پرش توپ‌ها"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "فشار خودکار موشی"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "موشی را برایتان کلیک می‌کند، جلوه‌های RSI را کم می‌کند"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "Sweeper"
+#~ msgstr "جارو"
+
+#~ msgid "System Cleaner"
+#~ msgstr "پاک‌کنندۀ سیستم"
+
+#~ msgid "Trash"
+#~ msgstr "زباله"
+
+#~ msgid "KMines"
+#~ msgstr "مین‌ها"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "بازی Minesweeper-like"
+
+#~ msgid "Board Game"
+#~ msgstr "بازی تخته"
+
+#~ msgid "SameGame"
+#~ msgstr "بازی‌سیم"
+
+#~ msgid "KWrite"
+#~ msgstr "نوشتار K"
+
+#~ msgid "Photo Management Program"
+#~ msgstr "مدیریت عکس"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "ویرایشگر متن پیشرفته"
+
+#~ msgid "Kate"
+#~ msgstr "کِیت"
+
+#~ msgid "KNode"
+#~ msgstr "گره"
+
+#~ msgid "News Reader"
+#~ msgstr "خوانندۀ اخبار"
+
+#~ msgid "Menu Editor"
+#~ msgstr "ویرایشگر فهرست"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "پخش‌کنندۀ موسیقی"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "ردیاب شخصی زمان"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "کارگزار LIRC کدئی"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "کارگزار کنترل از راه دور مادون قرمز لینوکس کدئی."
+
+#~ msgid "Educational Programming Environment"
+#~ msgstr "محیط برنامه‌سازی آموزشی"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "یافتن پرونده‌ها/پوشه‌ها"
+
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr "ابزار مشاهده‌گر ثبت شماره‌گیری اینترنت"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "نمای ثبت KPPP"
+
+#~ msgid "A simple ball dodging game"
+#~ msgstr "بازی ساده جا‌خالی دادن"
+
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "کاوش ساختارهای هندسی"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "هندسۀ تعاملی"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "مدیر پرونده - حالت ابرکاربر"
+
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "بازی ترتیب حروف KDE"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "بازی ترتیب حرف"
+
+#~ msgid "Popup Notes"
+#~ msgstr "یادداشتهای بالاپر"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "قالب‌بند دیسک نرم"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "گذاشتن کلیدهای میانبر به فرمانها"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "میانبرهای صفحه کلید"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در ایتالیایی"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در کره‌ای"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "برنامه‌ای برای تماشای تلویزیون"
+
+#~ msgid "XawTV"
+#~ msgstr "تلویزیون Xaw"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Visualization Data Explorer"
+#~ msgstr "رویت مرورگر داده‌ها"
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "تأثیرگذار دفترآزاد"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "رياضی دفترآزاد"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "میزان کردن سطح حجم"
+
+#~ msgid "Aumix"
+#~ msgstr "آیومیکس"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "پیکربندی محیط پایگاه‌داده"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "ابزار کنترل برای کارتهای صدای بر اساس حسادت۲۴ (ice1712) "
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در ژاپن"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "یک بازی ۳بعدی جنگ تانک چندنفره"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Screensaver"
+#~ msgstr "ناجی‌پرده"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "ترجیحات محافظ صفحهٔ نمایش خود را تنظیم کنید"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "حسابداری شخصی رایگان و آسان"
+
+#~ msgid "HomeBank"
+#~ msgstr "بانک خانگی"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "بازی چندنفره‌ی پازل"
+
+#~ msgid "Quadra"
+#~ msgstr "کوآدرا"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "نمایش یا پایش پرونده‌های ثبت وقایع سیستم"
+
+#~ msgid "Network Proxy"
+#~ msgstr "پیشکار شبکه"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "ترجیحات پیشکار شبکه‌تان تنظیم کنید"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "پرنده‌صاعقه موزیلا"
+
+#~ msgid "LXTerminal"
+#~ msgstr "پایانه ی LX"
+
+#~ msgid "Use the command line"
+#~ msgstr "استفاده از سطر فرمان"
+
+#~ msgid "Record sound clips"
+#~ msgstr "ضبط قطعه های صدا"
+
+#~ msgid "Set your window properties"
+#~ msgstr "ویژگی‌های پنجره‌ی خود را تنظیم کنید"
+
+#~ msgid "Windows"
+#~ msgstr "ویندوز"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "بازی آرکید حباب منجمد"
+
+#~ msgid "Configure power management"
+#~ msgstr "پیکربندی مدیریت برق"
+
+#~ msgid "Power Management"
+#~ msgstr "مدیریت برق"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "بازی با ورق تک نفره‌‌ی AisleRiot"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "بازی‌های مختلف یک نفره بازی کنید"
+
+#~ msgid "Notepad"
+#~ msgstr "دفتریادداشت"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "افزودن یا برداشتن کاربران و گروه‌ها"
+
+#~ msgid "User Administration"
+#~ msgstr "مدیریت کاربر"
+
+#~ msgid "Browse the Web"
+#~ msgstr "مرور بر وب"
+
+#~ msgid "Firefox Web Browser"
+#~ msgstr "مرورگر اینترنتی Firefox"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt زبانی"
+
+#~ msgid "Archive Manager"
+#~ msgstr "مدیر آرشیو"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "ایجاد و تغییر آرشیو "
+
+#~ msgid "Find files, folders, and documents on your computer"
+#~ msgstr "پیدا کردن پرونده‌ها، پوشه‌ها و نوشتارها در کامپیوتر شما"
+
+#~ msgid "About GNOME"
+#~ msgstr "درباره‌ی گنوم"
+
+#~ msgid "A QT application to configure Synaptics TouchPad"
+#~ msgstr "برنامه QT برای پیکربندی  Synaptics TouchPad"
+
+#~ msgid "Manage running processes"
+#~ msgstr "مدیریت فرآیندهای درحال اجرا"
+
+#~ msgid "Process manager"
+#~ msgstr "مدیر فرآیند"
+
+#~ msgid "Task Manager"
+#~ msgstr "مدیر وظیفه"
+
+#~ msgid "Gnumeric"
+#~ msgstr "محاسبگر G"
+
+#~ msgid "Keyboard"
+#~ msgstr "صفحه‌کلید"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "تنظیم ترجیحات صفحه‌کلید"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "برداشتن توده‌ی کاشی‌ها با حذف جفت‌های جور شده"
+
+#~ msgid "Mahjongg"
+#~ msgstr "ماهجونگ"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در مجارستانی"
+
+#~ msgid "Mouse"
+#~ msgstr "موش"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "تنظیم ترجیحات ماوس"
+
+#~ msgid "Iagno"
+#~ msgstr "لاگنو"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "ظاهر تصویری برای نصب پرونده‌های RPM"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "ChBg - Desktop background manager/changer/screensaver"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr "بازنویسی بازی قدیمی شناخته شده مانند فاتح قلعه"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "فاتح برج"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "نگارنده دفترآزاد"
+
+#~ msgid "Four-in-a-Row"
+#~ msgstr "چهار تا پشت سر هم"
+
+#~ msgid "Database"
+#~ msgstr "بانک ‌اطلاعات"
+
+#~ msgid "Dasher"
+#~ msgstr "دَشِر"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "ورودی متن پیشگو"
+
+#~ msgid "Freeciv server"
+#~ msgstr "کارگزار Freeciv"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "یک سیستم CAD حرفه‌ای"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "ابزار پیکربندی گنوم"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "خواندن اخبار از Usenet"
+
+#~ msgid "File Management"
+#~ msgstr "مدیریت پرونده"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "شبیه‌ساز پایانه استاندارد در سیستم پنجره X "
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "یک ظاهر برای پویشگر درگاه nmap "
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCConfig"
+
+#~ msgid "Planner Project Management"
+#~ msgstr "مدیریت پروژه‌ی برنامه‌ریز"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "با مردم در اینترنت صحبت کنید"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Edit text files"
+#~ msgstr "ویرایش پرونده‌های متنی"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "مرورگر مؤلفه‌های بونوبو"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "مؤلفه‌های موجود بونوبو را نمایش می‌دهد"
+
+#~ msgid "Joe"
+#~ msgstr "جو"
+
+#~ msgid "Evolution"
+#~ msgstr "تکامل"
+
+#~ msgid "Page Layout"
+#~ msgstr "نشر میزکار"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "اسکریباس"
+
+#~ msgid "Scribus"
+#~ msgstr "اسکریباس"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در آلمانی "
+
+#~ msgid "Howtos German"
+#~ msgstr "چگونگی‌های آلمانی"
+
+#~ msgid "Internet Messenger"
+#~ msgstr "پیغام‌رسان اینترنتی"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "پیغام‌رسان اینترنتی پیجین"
+
+#~ msgid "System information"
+#~ msgstr "اطلاعات سیستم"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در رومانیایی"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "ابزار اطلاعات/تنظیمات مرکزی سخت‌افزار"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در لهستانی"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "ظاهری برای چاپ آسان با CUPS"
+
+#~ msgid "RapidSVN"
+#~ msgstr "‌اس‌وی‌ان سریع"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "View and organize your images"
+#~ msgstr "تصاویر خود را ببنینید و سازمان‌دهی کنید"
+
+#~ msgid "Registry Editor"
+#~ msgstr "ویرایشگر ثبت‌گری"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در انگلیسی "
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "ویرایشگر متن هر-منظوری"
+
+#~ msgid "VI editor"
+#~ msgstr "ویرایشگر VI "
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در یونانی"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "چگونگی‌ها یونانی"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "بازی یک نفره‌ی فری‌سل"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "شروع بازی کارتی پرطرفدار فری سل "
+
+#~ msgid "Window Manager"
+#~ msgstr "مدیر پنجره‌"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در اندونزیایی"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "برنامه‌ی مشهور ترسیم تابع"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "ویرایش مستقیم کل پایگاه‌داده‌ی پیکربندی"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در چینی"
+
+#~ msgid "GIMP"
+#~ msgstr "گیمپ"
+
+#~ msgid "Image Editor"
+#~ msgstr "ویرایشگر تصویر"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "یک بازی دیگر ۳بعدی چرخش نور"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "ابزار گزارش اشکال"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "گزارش اشکالی در برنامه‌های گنومی"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "یک بازی شبیه به بولدرداش"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "تخته‌سنگها و الماس‌ها"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در فنلاندی "
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr "اسناد چگونگی‌ها ( قالب html) از پروژه اسناد لینوکس در سوئدی"
+
+#~ msgid "Drawing"
+#~ msgstr "ترسیم"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "رسم دفترآزاد"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "کِرم را اطراف ماز راهنمایی کنید"
+
+#~ msgid "Nibbles"
+#~ msgstr "نیبلز"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "Personal Finance Manager"
+#~ msgstr "مدیر مالی شخصی"
+
+#~ msgid "AbiWord"
+#~ msgstr "اَبی‌ورد"
+
+#~ msgid "Automatic Bug Reporting Tool"
+#~ msgstr "ابزار گزارش خودکار خطا"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "اتومیکس"
+
+#~ msgid "Balsa"
+#~ msgstr "‌بالسا"
+
+#~ msgid "Barrage"
+#~ msgstr "برریج"
+
+#~ msgid "Bluetooth Manager"
+#~ msgstr "مدیریت Bluetooth"
+
+#~ msgid "Chromium Web Browser"
+#~ msgstr "مرورگر اینترنتی Chromium"
+
+#~ msgid "CinePaint"
+#~ msgstr "نقاشی‌سینما"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "گردآوری ویرایشگر XML "
+
+#~ msgid "Edit XML files"
+#~ msgstr "ویرایش پرونده‌های XML"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "محوطه‌های کریمسن"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "اشکال‌زدای نمایش داده‌ها"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "ابزار ریاضی دکترژئو"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "معما"
+
+#~ msgid "Firestarter"
+#~ msgstr "آتشباز"
+
+#~ msgid "Galculator"
+#~ msgstr "Galculator"
+
+#~ msgid "Gamazons"
+#~ msgstr "مناطق‌بازی"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "مدیریت جی کامپریز"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "بازي فكري براي بچه هاي 2 سال به بالا"
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "برنامه های فکری جی کومپریز"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr "بازی های فکری چند کاره"
+
+#~ msgid "Text Editor (administrator)"
+#~ msgstr "ویرایشگر متن سیستم"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "ویرایش‌گر هکس‌اعشار گنومه"
+
+#~ msgid "Globulation2"
+#~ msgstr "Globulation2"
+
+#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
+#~ msgstr "Globulation2 - یک بازی هنرمندانه تاکتیکی "
+
+#~ msgid "Gnomad 2"
+#~ msgstr "Gnomad 2"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "پستچی ورودی بلاگ"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "پست کردن ورودی به یک ثبت وب"
+
+#~ msgid "Configure your printers"
+#~ msgstr "چاپگر خود را پیکربندی و تنظیم نمایید"
+
+#~ msgid ""
+#~ "Do things as quickly as possible (but no quicker) with your files, "
+#~ "bookmarks, applications, music, contacts, and more!"
+#~ msgstr ""
+#~ "اجرای کار‌ها با حداکثر سرعت ممکن (اما نه سریع‌ترین) با فایل‌های شما، آدرس‌های "
+#~ "اینترنتی ذخیره‌شده،برنامه‌ها،موزیک،مخاطبات و بسیاری دیگر!"
+
+#~ msgid "GNOME Do"
+#~ msgstr "Gnome Do"
+
+#~ msgid "Genius Mathematical Tool and Calculator"
+#~ msgstr "ماشین حساب و ابزار ریاضی نابغه"
+
+#~ msgid "Network Tools"
+#~ msgstr "ابزارهای شبکه"
+
+#~ msgid "Play and extract CDs"
+#~ msgstr "پخش و استخراج سی‌دی‌ها"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "Graveman"
+#~ msgstr "Graveman"
+
+#~ msgid "GTetrinet"
+#~ msgstr "گ‌تترینت"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "نماگر موجی الکترونیکی GTKWave"
+
+#~ msgid "Extra galeon preferences"
+#~ msgstr "ترجیحات اضافی گالئون"
+
+#~ msgid "Extra preferences for application menus"
+#~ msgstr "ترجیحات اضافی برای منوهای برنامه"
+
+#~ msgid "Extra nautilus preferences"
+#~ msgstr "ترجیحات اضافی ناتیلوس"
+
+#~ msgid "Extra session preferences"
+#~ msgstr "ترجیحات اضافی نشست"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Katoob"
+#~ msgstr "کاتوب"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "یک مبدل ارز و ماشین حساب"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "Database Creator"
+#~ msgstr "ایجادکنندۀ دادگان"
+
+#~ msgid "KMess"
+#~ msgstr "کمس"
+
+#~ msgid "Network Monitor"
+#~ msgstr "پایشگری شبکه"
+
+#~ msgid "Knights"
+#~ msgstr "Knights"
+
+#~ msgid "A batch renamer"
+#~ msgstr "یک نامگذار بچ"
+
+#~ msgid "Application for Drawing and Handling of Images"
+#~ msgstr "کاربرد برای ترسیم و به کار بردن تصاویر"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "مدیر پرونده پیشخوان-دوقلو"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "برنامه کدئی KPart"
+
+#~ msgid "A collection manager"
+#~ msgstr "مدیر کلکسیون"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "KScope"
+#~ msgstr "KScope"
+
+#~ msgid "Connect to Internet Relay Chat"
+#~ msgstr "اتصال به گپ اینترنتی"
+
+#~ msgid "Licq"
+#~ msgstr "لیسک"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "یک بازی جنگی چندبازیگری یگانه"
+
+#~ msgid "LPairs"
+#~ msgstr "LPairs"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "Configure keyboard, mouse, and other input devices"
+#~ msgstr "پیکربندی صفحه کلید، موشواره و دیگر دستگاه‌های ورودی"
+
+#~ msgid "First person shooter game"
+#~ msgstr "بازی اولین شلیک کننده"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "غریزه‌ی‌بمبی"
+
+#~ msgid "Arcade Shooter"
+#~ msgstr "شلیک آرکید"
+
+#~ msgid "Critical Mass"
+#~ msgstr "جرم بحرانی"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "GTorrentViewer"
+#~ msgstr "GTorrentViewer"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "بازی خیلی ساده‌ی شلیکی با موشی"
+
+#~ msgid "A MacOS run-time environment"
+#~ msgstr "محیط زمان-اجرای MacOS"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaver"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "حلقه‌های فنری"
+
+#~ msgid "Synthesized Loops"
+#~ msgstr "حلقه‌های ترکیب شده"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (دربافت پیغام از راه دور اینترنت VOCP)"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "ماجراهای سرگرم کننده Abe's "
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "بازی کلاسیک کراک-دات-کام "
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "پاره کردن ویدیو و تبدیل آن"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "AirStrike"
+#~ msgstr "حمله‌هوایی"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "بازی بطرز باورنکردنی اعتیاد آور ۲ بعدی جنگ سگها"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "رمزگشا و مرورگر تلکس/ویدیوتکس "
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "ترکیب سبک-آرکیدی از سنگهای آسمانی و استخر"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "ظاهر گرافیکی برای بررسی‌گر حافظه‌ی Valgrind"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "مرورگر/وسیله نگارنده وب W3C"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "ترکیب‌گر بخش‌های Alsa "
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "ترکیب‌گر بخش برای ALSA"
+
+#~ msgid "Angel Wars"
+#~ msgstr "جنگ‌های فرشته"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr "فاست-پیست، تیرانداز فضایی"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "ظاهری برای جن‌پک"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "فرمان تاکتیکی پیشرفته"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "یک بازی تک نفری ۳بعدی انفجار سنگهای آسمانی است"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "استروئیدز"
+
+#~ msgid "AutoZen"
+#~ msgstr "آوتوزن"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "کنترل کننده موج‌مغز"
+
+#~ msgid "Bacula Console (wxWindows)"
+#~ msgstr "کنسول باکولا (وی‌اکس ویندوز)"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "کنسول کارگردان باکولا"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "تنظیم ذخیره انرژی برای سیستم شما"
+
+#~ msgid "Energy Saving"
+#~ msgstr "ذخیره انرژی"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bbconf یک وسیله‌ی تنظیم ظاهری برایblackbox"
+
+#~ msgid "BB Run"
+#~ msgstr "BB Run"
+
+#~ msgid "BlackBox Run Window"
+#~ msgstr "پنجره اجرای جعبه سیاه"
+
+#~ msgid "Tool for eBay users"
+#~ msgstr "ابزاری برای کاربران eBay"
+
+#~ msgid "bigForth"
+#~ msgstr "بیگ‌فورث"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "وسیله‌ی رسم ساختار شیمیایی ۲بعدی"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr " بازی‌های شبیه ماریو"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (واسط تنظیم جعبه VOCP)"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "زیرنظرگیری پارک-در-یک-شیشه پارک برنامه"
+
+#~ msgid "Bugsquish"
+#~ msgstr "حشره‌کش"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "کشتن حشرات با موش رایانه"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr "برنامه نگهداری تصویر دیسک تکی C1541"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "ابزار تصویر دیسک VICE "
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Callcenter (مرکز تلفن VOCP)"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "برنامه‌ی آزمایش اتصال پهنای‌بند"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "ابزار دوربین اینترنت"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "ابزار نگهداری برای چاپگران inkjet Canon"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "مرگ حتمی با چیزهای فضایی"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "بازی تصویری گو"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "برنامه‌ای برای ساختن بخش‌های موسیقی"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "ابزار و مرورگرهای شبکه (احتیاج به اجرای واسطه دارد)"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "کلن‌بمبرمن - بازی آزاد چندنفره شبیه بمبرمن"
+
+#~ msgid "MIDI controller for ZynAddSubFX"
+#~ msgstr "کنترل کننده MIDI برای ZynAddSubFX"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "فرمانده-کوپتر OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "فرمانده-کوپتر Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "فرمانده کوپتر"
+
+#~ msgid "Cssed"
+#~ msgstr "Cssed"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "انتخاب یک تم جانما"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "تم‌های جانما"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "یک کلون از دیفندر"
+
+#~ msgid "Defendguin"
+#~ msgstr "دیفندگویین"
+
+#~ msgid "A simple web browser"
+#~ msgstr "یک مرورگر ساده‌ی وب"
+
+#~ msgid "DiskSearch"
+#~ msgstr "DiskSearch"
+
+#~ msgid "Search removable media"
+#~ msgstr "جستجوی در رسانه قابل انتقال"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "زیرنظرگیری Distcc"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "دفتر نشانی آسان برای استفاده"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "یک شبیه‌ساز داس"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "Dr. Python"
+#~ msgstr "دکتر پایتون"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "ظاهر و ویرایشگر پایتون"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "ویرایشگر ۲بعدی مولکول‌ها"
+
+#~ msgid "EasyChem"
+#~ msgstr "شیمی‌‌ساده"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "FICS chess-server interface"
+#~ msgstr "واسط کارگزار شطرنج FICS"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "پردازش صدا، ضبط کردن چندردّی، و ابزار ترکیب"
+
+#~ msgid ""
+#~ "A software suite for modeling, simulation, and analysis of biological "
+#~ "cells"
+#~ msgstr "دسته نرم‌افزاری برای مدل دهی، شبیه سازی و تجزیه سلولهای بیولوژیکی"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "متحرک‌ساز Egon دفتر Siag"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "مدیر پرونده‌ی GTK"
+
+#~ msgid "Ecasound Mastering Interface"
+#~ msgstr "واسط مهارت صوتی Ecasound"
+
+#~ msgid "Endeavour"
+#~ msgstr "کوشش"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "انیگما یک بازی پازلی است"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "اپیک یک کارگیر IRC قابل برنامه ریزی پیشرفته می‌باشد."
+
+#~ msgid "Epic"
+#~ msgstr "Epic"
+
+#~ msgid "Python IDE"
+#~ msgstr "ظاهر پایتون"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "یک ترکیب‌گر OSS تمام عیار"
+
+#~ msgid "Ermixer"
+#~ msgstr "ارمیکسر"
+
+#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
+#~ msgstr "eSvn ظاهری چند-پایه‌ای (بر اساسQT) برای زیرنسخه است"
+
+#~ msgid "Evolvotron"
+#~ msgstr "ایول‌وترون"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "نرم‌افزار هنر تولیدی تداخلی"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "فلاش برای لینوکس"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr "برنامه-Fluxbox برای ایجاد و اداره‌ی شمایل‌ها بر  روی رومیز شما"
+
+#~ msgid "Fish Fillets NG"
+#~ msgstr "Fish Fillets NG"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "شبیه‌ساز پرواز فلایت‌گییر "
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "OpenGL billard game"
+#~ msgstr "بازی بیلیارد OpenGL"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr ""
+#~ "A.D.I.E. - ویرایشگر تأثیرمتقابل پیشرفته با استفاده از جعبه ابزار فوکس"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "حسابگر با استفاده از جعبه‌ابزار فوکس"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "محاسبه‌گر FOX"
+
+#~ msgid "FrameWorks"
+#~ msgstr "کارهای قابی"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "ابزار انیمیشن ایست-حرکت"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "پخشگر باس ترکیب/توالی/نمونه برای لینوکس"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "کلون بازی C64 پارادروید"
+
+#~ msgid "Freedroid"
+#~ msgstr "فری‌دروید"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "لردهای آزاد"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "دستکاری صدا"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr "فاصله‌ی فرت را برای الات موسیقی سیم‌دار محاسبه می‌کند"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "A GUI frontend for autotrace"
+#~ msgstr "ظاهری برای autotrace"
+
+#~ msgid "3D file browser"
+#~ msgstr "مرورگر ۳بعدی پرونده"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "مدیر پنجره‌های FVWM"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "نماگر ۳بعدی نقشه"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "نماگر جلد Xmms"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "نماگر Blob :)"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "وضعیت لامپ‌های صفحه‌کلید را نمایش می‌دهد"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "شمارنده‌ی‌پست-Gai"
+
+#~ msgid "Mail counter"
+#~ msgstr "شمارنده‌ی پست"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "زمان غروب و طلوع خورشید را نمایش می‌دهد"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "استودیوی-رؤیتی-گی"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "تصویرسازی برونداد XMMS"
+
+#~ msgid "Galan"
+#~ msgstr "گالان"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "نماگر ۳بعدی مولکول‌ها"
+
+#~ msgid "GTK ASTerisk MANager"
+#~ msgstr "GTK ASTerisk MANager"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "والیبال ۲-بعدی"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "ویرایش ترجیحات گنوم شما"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "ملاقات تتریس با اشغال‌گران فضا "
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "دفتر نمره آموزگار"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "ظاهر MM/QM گنوم"
+
+#~ msgid "DJ Collection Manager"
+#~ msgstr "مدیر کلکسیون دی جی"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "شبیه‌ساز پرواز پرحادثه"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "Glinuxsms"
+#~ msgstr "Glinuxsms"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "نماگر گرافیک OpenGL"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "بازی چرخ نور ۳ بعدی"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "کارگیر گنوم برای کارگزار مودم ماسک‌دایلر"
+
+#~ msgid "Memory usage"
+#~ msgstr "حافظه‌ی استفاده شونده"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "همنوازی-خودکار MIDI"
+
+#~ msgid "GMudix GTK mud client"
+#~ msgstr "GMudix GTK mud client"
+
+#~ msgid "gMudix"
+#~ msgstr "gMudix"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnometab"
+#~ msgstr "گنومتب"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "گنومتب یک ویرایشگر نت گیتار است."
+
+#~ msgid "GNU Backgammon"
+#~ msgstr "تخته نرد گنو"
+
+#~ msgid "GNU Robbo"
+#~ msgstr "گنو روبو"
+
+#~ msgid "Gournal"
+#~ msgstr "Gournal"
+
+#~ msgid "Handwriting notepad"
+#~ msgstr "دفتر یادداشت دست نویسی"
+
+#~ msgid "Gphone"
+#~ msgstr "گفون"
+
+#~ msgid "Internet telephone"
+#~ msgstr "تلفن اینترنت"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "نمایش Pppoe"
+
+#~ msgid "GPRS Easy Connect"
+#~ msgstr "اتصال آسان GPRS"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "انتقال‌ داده‌های GPS"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "Control print jobs"
+#~ msgstr "کنترل کارهای چاپ"
+
+#~ msgid "Grace"
+#~ msgstr "وقار"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "تصویرنمایی گرافیکی داده‌های علمی"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "The cellular automaton simulator"
+#~ msgstr "شبیه‌ساز خودکار سلولی"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "سیستم پشتیبانی تحلیل منابع تصویری"
+
+#~ msgid "Greenwich"
+#~ msgstr "گرینویچ"
+
+#~ msgid "GRhino"
+#~ msgstr "GRhino"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "یک ماشین‌حساب RPN "
+
+#~ msgid "GScore"
+#~ msgstr "GScore"
+
+#~ msgid "Musical Score Editor"
+#~ msgstr "ویرایشگر امتیاز موسیقی"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "کارگیر بازی تتری‌نت برای لینوکس"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "تنظیمات قواعد IPTables "
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "تغییر تم GTK1"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "تعویض تم GTK"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "ظاهر Gtk برای asp2php"
+
+#~ msgid "GtkAtlantic"
+#~ msgstr "GtkAtlantic"
+
+#~ msgid "Buehlmann ZH-L16 model diving simulation"
+#~ msgstr "شبیه سازی شیرجه مدل Buehlmann ZH-L16"
+
+#~ msgid "GtkDive"
+#~ msgstr "GtkDive"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "برنامه‌ی جستجوی پرونده‌ی تصویری"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "جلوه‌های گیتار GTK"
+
+#~ msgid "Realtime effects"
+#~ msgstr "جلوه‌های بلادرنگ"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "ظاهر GTK برای CUPS"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "ظاهر GTK برای صف GTKlp CUPS"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "نسخه Gtk از motd"
+
+#~ msgid "GtkPSProc"
+#~ msgstr "GtkPSProc"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "نمایش‌گر پست‌اسکریپت Siag "
+
+#~ msgid "Gnome Workstation Command Center"
+#~ msgstr "مرکز فرمان ایستگاه کار گنوم"
+
+#~ msgid "Network and workstation tools"
+#~ msgstr "ابزار ایستگاه کار و شبکه"
+
+#~ msgid "Heroes"
+#~ msgstr "قهرمان‌ها"
+
+#~ msgid "Hexadecimal calculator"
+#~ msgstr "ماشین‌حساب شانزده‌گانی"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "Othello clone"
+#~ msgstr "کلون اتللو"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "Configurator for the GTK+2 Japanese Input Module"
+#~ msgstr "پیکربند برای ماژول درونداد ژاپنی GTK+2"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "مدیر عکس ImgSeek"
+
+#~ msgid "Inventory"
+#~ msgstr "صورت برداری"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr "برنامه صورت‌برداری ساده"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Image browser"
+#~ msgstr "مرورگر تصویر"
+
+#~ msgid "Drum machine styled audio sequencer"
+#~ msgstr "Drum machine styled audio sequencer"
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Mixer for JACK audio server"
+#~ msgstr "میکسر برای کارگزار صوتی جک"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "بارگیری Jigsaw "
+
+#~ msgid "Graphical puzzle game"
+#~ msgstr "بازی پازل تصویری"
+
+#~ msgid "Jools"
+#~ msgstr "Jools"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "کارگیر اف‌تی‌پی GTK2"
+
+#~ msgid "Junkie"
+#~ msgstr "معتاد"
+
+#~ msgid "ALSA connections"
+#~ msgstr "ارتباطات ALSA"
+
+#~ msgid "KAConnect"
+#~ msgstr "KAConnect"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Kiki the nanobot"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "نماگر مولکول QT "
+
+#~ msgid "Kodos"
+#~ msgstr "Kodos"
+
+#~ msgid "Visual regular expression editor"
+#~ msgstr "ویرایشگر عبارت باقاعده تصویری"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "یک نماگر پروسه تصویری"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "یک کلون از ژنرال تانک"
+
+#~ msgid "Lynx-like text WWW browser"
+#~ msgstr "مرورگر وب متنی شبیه-Lynx"
+
+#~ msgid "LinPopUp"
+#~ msgstr "لین‌پاپ‌آپ"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "LongPlayer"
+#~ msgstr "LongPlayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "کلون خوبی از تتریس"
+
+#~ msgid "Luma"
+#~ msgstr "Luma"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr "پرواز یک هواپیمای شکل ۷ در یک بازی ۲بعدی آرکید"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "گرفتن بمب‌ها"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit"
+
+#~ msgid "UNIX manual pages editor"
+#~ msgstr "ویرایشگر صفحات راهنما UNIX "
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "کنفرانس اینترنتی MAS"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS Mixer"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "تصویرساز تابع تأثیری"
+
+#~ msgid "Maxima"
+#~ msgstr "ماکسیما"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "واسط Tcl/Tk برای Maxima"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "MIDI CC Sliders"
+#~ msgstr "MIDI CC Sliders"
+
+#~ msgid "MIDI Controller"
+#~ msgstr "MIDI Controller"
+
+#~ msgid "Mirror Magic"
+#~ msgstr "آینه‌ی جادو"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr "یک شبیه‌گر پایانه چند-زبانه"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "A multi-tabbed X terminal emulator"
+#~ msgstr "یک شبیه‌گر پایانه چند-جهشی اکس"
+
+#~ msgid "Mrxvt"
+#~ msgstr "Mrxvt"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "کارگیر Maitretarot "
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "ابزار تشخیصی شبکه مسیریابی/پینگ"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "پایانه-چندگانه"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "توالی‌گر MIDI"
+
+#~ msgid "Nabi"
+#~ msgstr "Nabi"
+
+#~ msgid "Simple Hangul XIM"
+#~ msgstr "Simple Hangul XIM"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "Nessus"
+#~ msgstr "Nessus"
+
+#~ msgid "NiL Isn't Liero"
+#~ msgstr "NiL یکLiero نیست"
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "شطرنج اتمی"
+
+#~ msgid "NexTView EPG decoder and browser"
+#~ msgstr "مرورگر و رمزگشای NexTView EPG"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "دفتر نمره دیجیتال"
+
+#~ msgid "OpenGrade"
+#~ msgstr "نمره‌آزاد"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Orbital Eunuchs Sniper"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "پخشگر ویدیو OSD Xine"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Desktop Publishing for X (PAO)"
+#~ msgstr "نشر رومیزی برای X (PAO("
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "یک کلون از بازی فرمان موشک کلاسیک"
+
+#~ msgid "Penguin Command"
+#~ msgstr "فرمان پنگوئن"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Emilia 3d Pinball"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - یک کلون آزاد Lemmings"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "پرونده‌پاپ - طبقه‌بندی پست الکترونیکی خودکار"
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "PrBooM-GL چندنفره"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "بازی چندنفره PrBooM "
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Free SSH, Telnet and Rlogin client"
+#~ msgstr "SSH آزاد, کارگیر Telnet and Rlogin "
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "نگارنده رقت‌انگیز"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "نگارنده رقت‌انگیز دفتر Siag "
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "تصاویر مولکولی کنترل شده پایتون"
+
+#~ msgid "ALSA Mixer"
+#~ msgstr "ALSA Mixer"
+
+#~ msgid "QAMix"
+#~ msgstr "QAMix"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "ظاهر ضبط کردن ALSA "
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Multipage TIFF viewer"
+#~ msgstr "نماگر چندضفحه‌ای TIFF"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Quantum GIS"
+#~ msgstr "Quantum GIS"
+
+#~ msgid "Quantum Geographic Information System"
+#~ msgstr "سیستم اطلاعات جغرافیایی Quantum"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Qt-based Jackit Connector"
+
+#~ msgid "QJoyPad"
+#~ msgstr "QJoyPad"
+
+#~ msgid "MIDI Arpeggiator"
+#~ msgstr "MIDI Arpeggiator"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "رادیو کیو ‌تی - با رادیو کیو تی به رادیو گوش دهید."
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "تولید اشیای کسری ۳بعدی"
+
+#~ msgid "Quat"
+#~ msgstr "Quat"
+
+#~ msgid "Keep track of things"
+#~ msgstr "نگهداری از ردّ چیزها"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "ایجادگر سی‌دی ویدیو"
+
+#~ msgid "Poker-like card game"
+#~ msgstr "بازی ورق شبیه به پوکر"
+
+#~ msgid "RA Pai Gaw Poker"
+#~ msgstr "RA Pai Gaw Poker"
+
+#~ msgid "Molecular Graphics Visualization Tool"
+#~ msgstr "ابزار به تصویرکشی گرافیک مولکولی"
+
+#~ msgid "RasMol"
+#~ msgstr "RasMol"
+
+#~ msgid "RBBR"
+#~ msgstr "RBBR"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "RuBy BRowser"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "ویرایشگر صوتی دیجیتال"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr "Root-tail متن را مستقیماً به یک ریشه‌ی پنجره X11 چاپ می‌کند"
+
+#~ msgid "File Manager of the ROX desktop environment"
+#~ msgstr "مدیر پنجره‌ی محیط رومیزی ROX"
+
+#~ msgid "High-level language for numerical computations"
+#~ msgstr "زبان سطح-بالا برای محاسبات اعدادی"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr "SDLRoids - یک شلیک-سنگهای آسمانی بهینه‌شده"
+
+#~ msgid "Colourful puzzle game"
+#~ msgstr "بازی پازل رنگین"
+
+#~ msgid "SDL Vexed"
+#~ msgstr "SDL Vexed"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "توالی‌گر MIDI باساس-دورانی"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr "ترکیب‌گر رویداد می‌دی"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "اشکال خاموش کن فوکس"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "یک عکس صفحه گرفته و آن را به یک پرونده ذخیره می‌کند"
+
+#~ msgid "SimSam"
+#~ msgstr "SimSam"
+
+#~ msgid "Simple Sampler"
+#~ msgstr "نمونه‌گیر ساده"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr "یک بازی مسابقه‌ای-تصادفی ۳بعدی چندنفره در پایتون "
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "GPL sound font editor"
+#~ msgstr "ویرایشگر قلم صدای GPL "
+
+#~ msgid "Music player"
+#~ msgstr "پخشگر موزیک"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr "بازی آرکید ۲بعدی جمع‌آوری جعبه‌ها و جاخالی به گلوله‌ها"
+
+#~ msgid "Multitrack wave editor"
+#~ msgstr "ویرایشگر موج چند ردیی"
+
+#~ msgid "Songs"
+#~ msgstr "Songs"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "ویرایشگر بند گیتار"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "گراس (ارّه ماهی)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "گراس با استفاده از مجموعه داده نمونه ارّه‌ماهی"
+
+#~ msgid "MIDI software sampler"
+#~ msgstr "نمونه‌بردار نرم‌افزار MIDI"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "نرم‌افزار ترکیب‌گر فنری بخشی"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "ترکیب‌گر بخشی فنری "
+
+#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
+#~ msgstr "صفحه‌کلید منشعب‌‌‌گر MIDI برای ZynAddSubFX"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "پروژه: جنگجوی‌ستاره"
+
+#~ msgid "Star Voyager"
+#~ msgstr "پیشتازان فضا"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "طاهری برای Samsung Uproar و Yepp"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "Sophisticated clock for the X Window system"
+#~ msgstr "ساعت پیشرفته‌ای برای سیستم پنجره X"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "VLC یک پخشگر آزاد MPEG, MPEG2, DVD و DivX می‌باشد"
+
+#~ msgid "VLC skinned GUI media player"
+#~ msgstr "پوست VLC واسط گراقیکی پخشگر رسانه‌"
+
+#~ msgid "Swami"
+#~ msgstr "Swami"
+
+#~ msgid "Software manager for WinCE devices"
+#~ msgstr "مدیر نرم‌افزار برای دستگاه‌های WinCE"
+
+#~ msgid "Synce-software-manager"
+#~ msgstr "Synce-software-manager"
+
+#~ msgid "Quick-configure menu"
+#~ msgstr "منوی پیکربندی سریع"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "Ted, Rich Text Processor"
+#~ msgstr "TED ویرایشگر متن غنی"
+
+#~ msgid "Go chess for GNOME"
+#~ msgstr "شطرنج گو برای گنوم"
+
+#~ msgid "Tengen"
+#~ msgstr "Tengen"
+
+#~ msgid "JACK TimeMachine"
+#~ msgstr "JACK TimeMachine"
+
+#~ msgid "Records audio from ten seconds ago"
+#~ msgstr "ضبط صوت از ده ثانیه‌ی پیش"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "شبیه‌گر اتومبیل‌رانی باز"
+
+#~ msgid "Simple clone of Notepad"
+#~ msgstr "کلون ساده‌ای برای یادداشت"
+
+#~ msgid "TPad"
+#~ msgstr "TPad"
+
+#~ msgid "Tulip"
+#~ msgstr "تولیپ"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Tuxedo T. پنگوئن: جستجو برای شاه‌ماهی"
+
+#~ msgid "Karting with tux"
+#~ msgstr "ماشین‌سواری با تاکس"
+
+#~ msgid "Fun game to learn math"
+#~ msgstr "بازی جالبی برای یادگیری ریاضی"
+
+#~ msgid "TuxMathScrabble"
+#~ msgstr "TuxMathScrabble"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "تاکس‌پاک"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "قهرمانان Ur-Quan"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "قهرمانان Ur-Quan"
+
+#~ msgid "Vega Strike"
+#~ msgstr "حمله‌ Vega"
+
+#~ msgid "3D model assembler"
+#~ msgstr "سازنده مدل ۳بعدی"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr "ویرایشگر معروف یونیکس vi به اضافه‌ی دستیار Vigor"
+
+#~ msgid "On-screen ALSA MIDI keyboard"
+#~ msgstr "صفحه کلید بر- صفحه ALSA MIDI"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr "VOCPhax (نماگر دورنگار VOCP و GUI ارسال‌گر)"
+
+#~ msgid "Main Volume control dockapp"
+#~ msgstr "بارانداز اصلی کنترل حجم"
+
+#~ msgid "Volume knob"
+#~ msgstr "دکمه حجم"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "پخشگر موزیک VICE SID برای آواهای کومودور"
+
+#~ msgid "VSID music player"
+#~ msgstr "پخشگر موزیک VSID "
+
+#~ msgid "BananaPOS Point Of Sale Terminal"
+#~ msgstr "BananaPOS Point Of Sale Terminal"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "ویرایشگر صدای تصویری"
+
+#~ msgid "WaveSurfer"
+#~ msgstr "موج سوار"
+
+#~ msgid "Battle For Wesnoth editor"
+#~ msgstr "ویرایشگر کارزار برای وسناث"
+
+#~ msgid "The map editor of Battle for Wesnoth"
+#~ msgstr "ویرایشگر نقشه‌ی کارزار برای وسناث"
+
+#~ msgid "A fantasy turn-based strategy game."
+#~ msgstr "بازی تاکتیکی بر پایه نوبت تخیلی."
+
+#~ msgid "Battle For Wesnoth"
+#~ msgstr "کارزار برای وسداث"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "یک بازی مسابقه‌ای عالی با شرکت تاکس"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Settlers II clone"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "تنظیمات شبکه بی‌سیم"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "WindowMaker dock application for linuxfr-addicted people"
+#~ msgstr "بارانداز برنامه WindowMaker برای linuxfr-addicted "
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "زیرنظرگیری پردازه‌گر در یک بارانداز برنامه"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr ""
+#~ "یک بارانداز که بار پردازه‌گر را مانند شعله آتش در یک شمایل کوچک نشان می‌دهد"
+
+#~ msgid "Analog clock in a tank fish"
+#~ msgstr "ساعت آنالوگ در یک مخزن ماهی"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr "یک بارانداز که یک کره زمین چرخنده را در یک شمایل نشان می‌دهد"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "Dockapp OSS sound mixer"
+#~ msgstr "بارانداز ترکیب‌گر صدای OSS "
+
+#~ msgid "Laptop status docklet"
+#~ msgstr "بارانداز وضعیت رایانه همراه"
+
+#~ msgid "WMLaptop"
+#~ msgstr "WMLaptop"
+
+#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
+#~ msgstr "بارانداز زیرنظرگیری حافظه مبادله/حافظه برای پنجره‌ساز"
+
+#~ msgid "UPS monitoring in a dockapp"
+#~ msgstr "پایشگری UPS در بارانداز برنامه"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
+#~ msgstr "زیرنظرگیری چندین جعبه‌پست از طریق Pop3 در یک بارانداز"
+
+#~ msgid "WmsMixer"
+#~ msgstr "WmsMixer"
+
+#~ msgid "A stock quote data display in a small icon"
+#~ msgstr "یک نمایش داده‌های سهمیه سهام در یک شمایل کوچک"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr "اطلاعات سیستم (حافظه، حافظه مبادله، مدت‌اجرا، IO) در یک شمایل کوچک"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "Watch your own webcam in a small dockapp window"
+#~ msgstr "دوربین شبکه‌ی خود را در یک پنجره بارانداز کوچک نماشا کنید"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WMWifi"
+#~ msgstr "WMWifi"
+
+#~ msgid "Wireless network docklet"
+#~ msgstr "بارانداز شبکه بی‌سیم"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
+#~ msgstr "یک مدیر پنجره، شبیه به شاخه اوپوس بر آمیگا"
+
+#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
+#~ msgstr "دستیاری در بهبود و جلوگیری از حوادث پیج خوردگی تکراری (RSI)"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "A GUI builder for wxWindows/wxPython"
+#~ msgstr "یک سازنده‌ی ظاهر برای wxWindows/wxPython"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "شبیه‌ساز C128 "
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "شبیه‌ساز کومودور ۱۲۸"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "شبیه‌ساز C64"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "شبیه‌ساز کومودور ۶۴"
+
+#~ msgid "Realtime fractal zoomer"
+#~ msgstr "درشت‌نمای کسری بلادرنگ"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "کلون بازی آرچون"
+
+#~ msgid "Defend your computers from Wingdows Viruses"
+#~ msgstr "از رایانه خود را در مقابل با ویروسهای وینگدوز محافظت کنید"
+
+#~ msgid "XBill"
+#~ msgstr "XBill"
+
+#~ msgid "X blast"
+#~ msgstr "X blast"
+
+#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
+#~ msgstr "XBlast TNT یک بازی شبیه بمبرمن (چندبازیگر("
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "شبیه‌ساز CBM2"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "شبیه‌ساز کومودور BM 2"
+
+#~ msgid "CHM viewer for UNIX"
+#~ msgstr "نماگر CHM برای یونیکس"
+
+#~ msgid "Siag text editor"
+#~ msgstr "ویرایشگر متن Siag "
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "Siag File manager"
+#~ msgstr "مدیر پرونده Siag"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "A mp3 playlist frontend"
+#~ msgstr "یک ظاهر فهرست‌پخش ام‌پی‌تری"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "Mr. Is, a Mr. Do clone for X"
+#~ msgstr "Mr. Is, یک کلون از Mr. Do برای X"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Display penguins running on your desktop."
+#~ msgstr "پنگوئن‌های دونده را بر رومیزی شما مشان می‌دهد."
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "شبیه‌ساز PET کومودور"
+
+#~ msgid "PET Emulator"
+#~ msgstr "شبیه‌ساز PET"
+
+#~ msgid "Fly/shoot arcade game"
+#~ msgstr "بازی آرکید پرواز/تیراندازی"
+
+#~ msgid "Xpilot server"
+#~ msgstr "کارگزار Xpilot"
+
+#~ msgid "Xpilot - Requires server"
+#~ msgstr "Xpilot - کارگزار لازم دارد"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "شبیه‌ساز CPLUS4"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "شبیه‌ساز کومودور PLUS4"
+
+#~ msgid "News reader"
+#~ msgstr "خواننده اخبار"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "Tool for manipulating software packages"
+#~ msgstr "ابزار برای دستکاری بسته‌های نرم‌افزار"
+
+#~ msgid "Cool arcade/thinking game very much like Lode Runner"
+#~ msgstr "بازی باحال تفکری/آرکید خیلی شبیه Lode Runner"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "Clone of Scorched Earth"
+#~ msgstr "کلون از Scorched Earth"
+
+#~ msgid "XScorch"
+#~ msgstr "اسکروچ X"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "نسخه QT از پخشگر موزیک C64"
+
+#~ msgid "The Skat game"
+#~ msgstr "بازی اسکیت"
+
+#~ msgid "Xskat"
+#~ msgstr "Xskat"
+
+#~ msgid "Shooting game on X Window System"
+#~ msgstr "بازی تیراندازی بر سیستم پنجره X"
+
+#~ msgid "Fullscreen gesture recognition"
+#~ msgstr "بازشناسی قیافه تمام صفحه"
+
+#~ msgid "X-Tux"
+#~ msgstr "X-Tux"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "شبیه‌ساز کومودور VIC 20"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "شبیه‌ساز VIC 20"
+
+#~ msgid "On-screen keyboard for X"
+#~ msgstr "صفحه کلید بر- صفحه برای X"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (دریافت تصویری پیغام صوتی)"
+
+#~ msgid "A level editor for DOOM"
+#~ msgstr "پیرایشگر سطح برای بازی DOOM"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Real-time MIDI software synth"
+#~ msgstr "نرم‌افزار ترکیب MIDI"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Monkey Bubble"
+#~ msgstr "حباب میمون"
+
+#~ msgid "Monkey Bubble Arcade Game"
+#~ msgstr "بازی آرکید حباب میمون"
+
+#~ msgid "MonoDevelop"
+#~ msgstr "MonoDevelop"
+
+#~ msgid "Mash monsters and save the gnomes"
+#~ msgstr "هیولاها را له می‌کند و گنوم‌ها را نجات می‌دهد"
+
+#~ msgid "Monster Masher"
+#~ msgstr "کوبنده‌ی هیولا"
+
+#~ msgid "Listen to your music"
+#~ msgstr "گوش دادن به موزیک‌تان"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "پخشگر موزیک موئین"
+
+#~ msgid "MySQL Administrator"
+#~ msgstr "مدیر MySQL"
+
+#~ msgid "MySQL Query Browser"
+#~ msgstr "مرورگر پرسش MySQL"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "پیکربندی دستگاه‌های شبکه و اتصالات"
+
+#~ msgid "Neverball"
+#~ msgstr "توپ‌هرگز"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Downloader for X"
+#~ msgstr "بارگیر برای X"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Quarry"
+#~ msgstr "Quarry"
+
+#~ msgid "Organize and secure your passwords"
+#~ msgstr "سازماندهی و امنیت گذرواژه‌هایتان"
+
+#~ msgid "ripperX"
+#~ msgstr "ripperX"
+
+#~ msgid "Sawfish"
+#~ msgstr "اره‌ماهی"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Scorched Earth 3D OpenGL Remake"
+#~ msgstr "بازسازی Scorched Earth 3D OpenGL "
+
+#~ msgid "Configure which services will be run when the system starts"
+#~ msgstr "پیکربندی کنید که کدام سرویس‌ها هنگام شروع به کار سیستم اجرا می‌شوند"
+
+#~ msgid "Services"
+#~ msgstr "سرویس‌ها"
+
+#~ msgid "Configure which folders are available for your network neighborhood"
+#~ msgstr ""
+#~ "پیکربندی کنید که کدام پوشه‌ها برای همسایگان شبکه‌ای شما قابل دسترسی هستند"
+
+#~ msgid "Shared Folders"
+#~ msgstr "پوشه‌های به اشتراک گذاشته شده"
+
+#~ msgid "Sirius"
+#~ msgstr "سیریوس"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "تنظیمات Proc"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "تغییر زمان سیستم، تاریخ و منطقه‌ی زمانی"
+
+#~ msgid "Time and Date"
+#~ msgstr "زمان و تاریخ"
+
+#~ msgid "Simple DVD mastering GUI"
+#~ msgstr "ظاهر ساده ساخت دی‌وی‌دی"
+
+#~ msgid "TkDVD"
+#~ msgstr "TkDVD"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "کارگیر کارگزار پایانه"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "برنامه رسم برای کودکان."
+
+#~ msgid "Tux Paint"
+#~ msgstr "نقاشی تاکس"
+
+#~ msgid "Urlgfe"
+#~ msgstr "Urlgfe"
+
+#~ msgid "Users and Groups"
+#~ msgstr "کاربران و گروه‌ها"
+
+#~ msgid "Viking"
+#~ msgstr "ویکینگ"
+
+#~ msgid "VLC media player"
+#~ msgstr "پخشگر رسانه‌های VLC "
+
+#~ msgid "Wormux"
+#~ msgstr "Wormux"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "شبیه‌گر پایانه IBM 3270"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "DOS emulator running under X"
+#~ msgstr "اجرای شبیه‌ساز داس در X"
+
+#~ msgid "Study the Bible"
+#~ msgstr "کتابمقدس چه می‌گوید؟"
+
+#~ msgid "Xiphos Bible Guide"
+#~ msgstr "زیفوس-نرم·افزار·مطالعه·کتابمقدس"
+
+#~ msgid "Sticky Notes"
+#~ msgstr "یادداشت‌های چسبان"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"

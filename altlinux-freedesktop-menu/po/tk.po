@@ -1,0 +1,847 @@
+# Turkmen translation
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/tk.php3
+#
+# Copyright (C) 2004 Free Software Foundation
+# Mühemmet Amut <m_amout@yahoo.com>, 2004.
+# Gurban Mühemmet Tewekgeli <gmtavakkoli@yahoo.com>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2004-05-25 17:47+0330\n"
+"Last-Translator: Nobody\n"
+"Language-Team: Turkmen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafyklar"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafyklar"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Faýl Müdirlemegi"
+
+msgid "Accessibility"
+msgstr ""
+
+#, fuzzy
+msgid "Action"
+msgstr "Äplikeýşenler"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Äplikeýşenler"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Äplikeýşenler"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr ""
+
+msgid "Arcade style game"
+msgstr ""
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Arşiw Mudyry"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "CD Oýinçisi"
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Oýunlar"
+
+msgid "Boards"
+msgstr ""
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Çot"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Çot"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Oýunlar"
+
+msgid "Cards"
+msgstr ""
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "Geçmiş"
+
+msgid "Chemistry software"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "Äplikeýşenler"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "_Kampýuter"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "_Kampýuter"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Äplikeýşenler"
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Programlemek"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "Editçiler"
+
+msgid "Education"
+msgstr ""
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Metacity"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Äplikeýşenler"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "Çot"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Faýl Müdiri"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sistem"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Faýl Müdiri"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Sistem Wesileleri"
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Ofys Äplikeýşenler"
+
+msgid "Games"
+msgstr "Oýunlar"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr ""
+
+msgid "Geoscience software"
+msgstr ""
+
+msgid "Geosciences"
+msgstr ""
+
+msgid "Graphics"
+msgstr "Grafyklar"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "History"
+msgstr "Geçmiş"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Äplikeýşenler"
+
+msgid "IRC"
+msgstr ""
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr "Internet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Äplikeýşenler"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Diller"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Oýunlar"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr ""
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+msgid "Mixers"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Möltimedýa"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Möltimedýa menöwsi"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Möltimedýa menöwsi"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Möltimedýa menöwsi"
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Şebeke"
+
+msgid "Network-related settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Afys"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Başga"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Programlemek"
+
+msgid "PDA"
+msgstr ""
+
+msgid "Package manager applications"
+msgstr ""
+
+msgid "Packaging"
+msgstr ""
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Seçenekler"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Seçenekler"
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr ""
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Faýl Müdirlemegi"
+
+msgid "Project management applications"
+msgstr ""
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafyklar"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Hejim Kontroli"
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+#, fuzzy
+msgid "Security"
+msgstr "Metacity"
+
+msgid "Security tools"
+msgstr ""
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Tenzimler"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Ses"
+
+msgid "Sports"
+msgstr "Sport"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Sport"
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr ""
+
+msgid "Strategy Games"
+msgstr ""
+
+msgid "System"
+msgstr "Sistem"
+
+#, fuzzy
+msgid "System settings"
+msgstr "Tenzimler"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+msgid "TV and Radio applications"
+msgstr ""
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Äplikeýşenler"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+msgid "Terminal emulator applications"
+msgstr ""
+
+msgid "Terminals"
+msgstr ""
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Metin Editçi"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Saftwar östirmek wesileleri"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr ""
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafyklar"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Seçenekler"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "CD Oýinçisi"
+
+msgid "Video Recorders"
+msgstr ""
+
+#, fuzzy
+msgid "Viewers"
+msgstr "Resim Namaýyşçysy"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Web Ahtarçysy"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Programlemek"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Information"
+#~ msgstr "Maglumat"
+
+#~ msgid "Accessories"
+#~ msgstr "Esbaplar"
+
+#~ msgid "Development Environments"
+#~ msgstr "Programlemek Tewerekleri"
+
+#~ msgid "Browse the web"
+#~ msgstr "Webi Ahtar"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "GNOME bilen ýardam tap"
+
+#~ msgid "Help"
+#~ msgstr "Ýardam"
+
+#~ msgid "Home Folder"
+#~ msgstr "Öý Haltasy"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Nişanlariňizi ahtariň we çäklendiriň"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany WEB Nyşanlary"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Web nişanlary"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "Home"
+#~ msgstr "Öy"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Hejim derejesini tenzim et"
+
+#~ msgid "Windows"
+#~ msgstr "Äpişgeler"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Bir arşiwi bejerip üýtget"
+
+#~ msgid "About GNOME"
+#~ msgstr "GNOME barada"
+
+#~ msgid "Dasher"
+#~ msgstr "Däşer"
+
+#~ msgid "Edit text files"
+#~ msgstr "Metin faýllary editle"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"

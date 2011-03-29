@@ -1,0 +1,1496 @@
+#  Menu tree branch (found in usr/lib/menu/simplified/mandrake)
+#  translate it the same way as in menudrake
+#  Menu entry for usr/lib/menu/3ddesktop
+#  Menu description for usr/lib/menu/3ddesktop
+msgid ""
+msgstr ""
+"Project-Id-Version: hay menu-messages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2004-03-19 22:36+0300\n"
+"Last-Translator: Norayr Chilingaryan <norik@hay.am>\n"
+"Language-Team: hay.am <norik@hay.am>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Գրաֆիկա"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Գրաֆիկա"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Խաղեր և զվարճություններ"
+
+msgid "Accessibility"
+msgstr "Մատչելիություն"
+
+#, fuzzy
+msgid "Action"
+msgstr "Ուսուցում"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Կառավարում"
+
+msgid "Adventure"
+msgstr "Արկածային"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Տետրիսանման խաղ"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Կիրառական ծրագրեր"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Կիրառական ծրագրեր"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Արկադ"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Եռաչափ արշավ"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Արխիվի մենեջեր"
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Աստղագիտություն"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Աստղագիտություն"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Մուլտիմեդիա փլեյեր"
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "Կենսաբանություն"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Կենսաբանություն"
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Սեղանի Խաղեր"
+
+msgid "Boards"
+msgstr "Սեղանի Խաղեր"
+
+msgid "Building"
+msgstr ""
+
+#, fuzzy
+msgid "Calculator"
+msgstr "Գհաշվիչ"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Գհաշվիչ"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Խաղեր"
+
+msgid "Cards"
+msgstr "Թղթախաղեր"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Թղթախաղեր"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Քիմիա"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Քիմիա"
+
+msgid "Clock"
+msgstr ""
+
+#, fuzzy
+msgid "Communications"
+msgstr "Կիրառական ծրագրեր"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "Համակարգիչ"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Համակարգիչ"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Կառավարում"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+msgid "Databases"
+msgstr "Տվյալների բազաներ"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Այլ ծրագրեր"
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Ծրագրավորում"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Ձեռնարկ"
+
+#, fuzzy
+msgid "Economy"
+msgstr "Աստղագիտություն"
+
+msgid "Editors"
+msgstr "Խմբագրիչներ"
+
+msgid "Education"
+msgstr "Ուսուցում"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Անվտանգուրյուն"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Էմուլատորներ"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Ֆայլի մենեջեր"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Համակարգ"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Ֆայլի մենեջեր"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Համակարգի գործիքներ"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Տեքստի Գործիքներ"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Գիտություններ"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+msgid "Games"
+msgstr "Խաղեր"
+
+msgid "Games and amusements"
+msgstr "Խաղեր և զվարճություններ"
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "Կենսաբանություն"
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Երկրաբանություն"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Երկրաբանություն"
+
+msgid "Geosciences"
+msgstr "Երկրաբանություն"
+
+msgid "Graphics"
+msgstr "Գրաֆիկա"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Սարքավորումներ"
+
+#, fuzzy
+msgid "History"
+msgstr "Քիմիա"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Կիրառական ծրագրեր"
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Համընդհանուր ակնթարթային հաղորդակցող կլիենտ"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Համընդհանուր ակնթարթային հաղորդակցող կլիենտ"
+
+msgid "Internet"
+msgstr "Համացանց"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Այլ ծրագրեր"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Լեզուներ"
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Տրամաբանական խաղ"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "DJ Ծրագիր"
+
+msgid "Mathematics"
+msgstr "Մաթեմատիկա"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "DJ Ծրագիր"
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Էրմիքսեր"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Հաղորդակցություն"
+
+msgid "Multimedia"
+msgstr "Բազմասփյուռ"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Համասփյուռ ծրագրերի ցանկ"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Մուլտիմեդիա փլեյեր"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Մուլտիմեդիա փլեյեր"
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Ցանց"
+
+msgid "Network-related settings"
+msgstr "Ցանցային հատկություններ"
+
+msgid "News"
+msgstr ""
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Գրասենյակ"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Այլ"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Ծրագրավորում"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+msgid "Packaging"
+msgstr "Փաթեթներ"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Հատկություններ"
+
+msgid "Personal"
+msgstr "Անձնական"
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Ֆիզիկա"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Ֆիզիկա"
+
+msgid "Preferences"
+msgstr "Հատկություններ"
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Ձեռնարկ"
+
+msgid "Printing"
+msgstr "Տպում"
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Ֆայլերի կառավարում"
+
+msgid "Project management applications"
+msgstr ""
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Գրաֆիկա"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "Գիտություն"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Գիտություններ"
+
+msgid "Security"
+msgstr "Անվտանգուրյուն"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Անվտանգուրյուն"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Գիտություններ"
+
+#, fuzzy
+msgid "Settings"
+msgstr "Համակարգի հատկություններ"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Ուսուցում"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Ձայն"
+
+msgid "Sports"
+msgstr "Սպորտ"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Սպորտ"
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "Ստրատեգիա"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Ստրատեգիա"
+
+msgid "System"
+msgstr "Համակարգ"
+
+msgid "System settings"
+msgstr "Համակարգի հատկություններ"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Կիրառական ծրագրեր"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "ISDN հեռախոս"
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Տեքստի Գործիքներ"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+msgid "Terminal emulator applications"
+msgstr ""
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Տերմինալ"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Տեքստի Գործիքներ"
+
+msgid "Text tools"
+msgstr "Տեքստի Գործիքներ"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Գործիքներ"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Ծրագրերի մշակման գործիքներ"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Բոլոր Ծրագրերը"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Այլ ծրագրեր"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Խաղալիքներ"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Գրաֆիկա"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Հատկություններ"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Մուլտիմեդիա փլեյեր"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Թվային Վիդեոգրիչ"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "Եռաչափ Քարտեզների Ցուցադրիչ"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Զննիչ"
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Ծրագրավորում"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Ի՞նչ անել"
+
+#~ msgid "Edutainment"
+#~ msgstr "Ինքնաուսուցում"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Խառը"
+
+#~ msgid "Shells"
+#~ msgstr "Միջավայրեր"
+
+#~ msgid "Advanced"
+#~ msgstr "Լրացուցիչ"
+
+#~ msgid "Information"
+#~ msgstr "Տեղեկություն"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Անհատական նախընտրանքներ"
+
+#~ msgid "Accessories"
+#~ msgstr "Լրացուցիչ Ծրագրեր"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Աշխատասեղանի աքսեսուարներ"
+
+#~ msgid "Peripherals"
+#~ msgstr "Արտաքին սարքավորումներ"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Տեսք"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Աշխատասեղանի տեսքի և վարքի հատկություններ"
+
+#~ msgid "Personal settings"
+#~ msgstr "Հատկություններ"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Համակարգի կարգավորում և վերահսկում"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Տարբեր սարքերի հատկություններ"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Անհատական և կառավարման կարգավորումներ"
+
+#~ msgid "Development Environments"
+#~ msgstr "Ծրագրավորման միջավայր"
+
+#~ msgid "Universal Access"
+#~ msgstr "Ընդհանուր Մատչելիություն"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Հնարավորությունների կարգավորումներ"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ձայն և Վիդեո"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Ինտերնետ և Ցանց"
+
+#~ msgid "Puzzles"
+#~ msgstr "Գլուխկոտրուկներ"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Համացանցում աշխատելու ծրագրեր, ինչպես վեպ զննիչը"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Ծրագրեր, որոնք այլ կատեգորիաներին չեն համապատասխանում"
+
+#~ msgid "Office Applications"
+#~ msgstr "Օֆիսային Ծրագրեր"
+
+#~ msgid "Audacity"
+#~ msgstr "Աուդասիթի"
+
+#~ msgid "Documentation Browser"
+#~ msgstr "Փաստաթղթի զննիչ"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Կոնֆիգուրացնել արգելափակման կանոնները"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Արգելափակման Խմբագրիչ"
+
+#~ msgid "Browse the web"
+#~ msgstr "Զննել վեբը"
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Windows–ը կառավարելու համար գործարկել այլ ծրագրեր և ապահովել տարբեր "
+#~ "օժանդակ ծրագրերով. ցույց տալ ժամը և այլն։"
+
+#~ msgid "Panel"
+#~ msgstr "Վահանակ"
+
+#~ msgid "Text Editor"
+#~ msgstr "Տեքստի խմբագրիչ"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "Օգնություն ծրագիր նախագծողի  համար"
+
+#~ msgid "Devhelp"
+#~ msgstr "Devhelp"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Ֆայլերի համակարգում բրաուզ կատարել ֆայլերի մենեջերի միջոցով։"
+
+#~ msgid "File Browser"
+#~ msgstr "Ֆայլի զննիչ"
+
+#~ msgid "Help"
+#~ msgstr "Օգնություն"
+
+#~ msgid "Home Folder"
+#~ msgstr "Սեփական տուն պանակ"
+
+#~ msgid "Metacity"
+#~ msgstr "Մետասիթի"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Զննել և կարգավորել էջանշանները"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Էպիֆանի էջանշանները"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Էջանշաններ"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "Home"
+#~ msgstr "Տուն"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Bomberman խաղի կլոն"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "Նախագծման Ինտեգրված Միջավայր"
+
+#~ msgid "Welcome"
+#~ msgstr "Ողջույն"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Ցանկի Խմբագրիչ"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Զբոսնել Ցանցում"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Կերտել և մոդիֆիկացնել արխիվը"
+
+#~ msgid "About GNOME"
+#~ msgstr "Գնոմի Մասին"
+
+#~ msgid "gedit"
+#~ msgstr "գեդիտ"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord Խմբագիր"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Develop software in an integrated development environment"
+#~ msgstr "Ծրագրակազմի մշակում նախագծման ինտեգրված միջավայրում"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Աթոմիքս"
+
+#~ msgid "Barrage"
+#~ msgstr "Արգելակրակ"
+
+#~ msgid "CinePaint"
+#~ msgstr "ՍինեՓէյնթ"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Միացյալ XML Խմբագրիչ"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Խմբագրել XML ֆայլերը"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Քրմզոն Դաշտեր"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Տվյալներ ցուցադրող դեբագ ծրագիր"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Դր. Գեո"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Դր. Գեո մաթեմատիկական ծրագիր"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Առեղծված"
+
+#~ msgid "Firestarter"
+#~ msgstr "Ֆայրստարտեր"
+
+#~ msgid "Gamazons"
+#~ msgstr "Գամազոնս"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "ԳՆՈՄ տասնվեցական խմբագրիչ"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Բլոգ հաղորդագրությունների փոստաձի"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Վեպ մատյանում հաղորդակցությունների հրատարակություն"
+
+#~ msgid "Filelight"
+#~ msgstr "Ֆայլլայթ"
+
+#~ msgid "First person shooter game"
+#~ msgstr "Եռաչափ հրախաղ"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "ՌմբակոցմանԲնազդ"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "Աբոյի Զարմանահրաշ Արկածները"
+
+#~ msgid "Abuse"
+#~ msgstr "Նախատինք"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Դասական Քռէք-Դոթ-Քոմ խաղ"
+
+#~ msgid "AcidRip"
+#~ msgstr "ԱսիդՐիփ"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Տեսաֆայլերի րիփինգ և կոնվերսիա"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Ադոնթել Ամայի Վայրը"
+
+#~ msgid "AirStrike"
+#~ msgstr "Օդային Հարված"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "Երկչափ կռիվ, որն առաջացնում է անհավատալի կախվածություն"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "հեուստատեքստ/վիդեոտեքստի դեկոդեր և զննիչ"
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "Աստերոյիդ-արկադային խաղ"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "Գրաֆիկական ինթերֆեյս Valgrind memory checker ծրագրի համար"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "W3C զննիչ/վեպ էջ խմբագիր"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Alsa Modular Synth"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "ALSA -ի Մոդուլային Սինթեզատոր"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Կռվի հրեշտակ"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr "Արագ, հնաոճ կռվախաղ տիեզերքում"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "Genpak ծրագրերի ԳՈւԻ"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "Ստրատեգիկ Ճնշում"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "եռաչափ խաղ աստերոիդների պայթեցմամբ"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Աստերոիդներ 3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "ԱութոՁեն"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Ուղեղի ալիքների ղեկավարում"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "Բակուլա Ղեկավար Կոնսոլ"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "Կազմակերպել էնէրգիայի խանյումը Ձեր համակարգում"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Էնէրգիայի խնայում"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bcconf - ը դա blackbox միջավայրի ամբողջական ԳՈւԻ կոնֆիգուրատոր է"
+
+#~ msgid "Tool for eBay users"
+#~ msgstr "eBay զննելու գործիք"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "Երկչափանի քիմիական կառուցվածքներ նկարելու գործիք"
+
+#~ msgid "BoboBot"
+#~ msgstr "ԲոբոԲոթ"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Մարիոնման խաղ"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "Monitoring-duck-in-a-jar ապլետ"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Միջատաջարդ"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Սպանեք միջատներին մկնիկի օգնությամբ"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "Broadband միացման փորձարկող ծրագիր"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Վեբ խցիկ սպասարկո գործիք"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonԳործիք"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "Canon հոսքային տպիչները սպասարկող գործիք"
+
+#~ msgid "CDvST"
+#~ msgstr "ՎՄՏ"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Վստահ Մահ Տիեզերքում"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Go Գրաֆիկական խաղը"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Երաժշտական մոդուլներ ստեղծելու ծրագիր"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Քեոփս-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "Ցանցային Զննիչ և Գործիքներ (պահանջում է աշխատացրած ագենտ)"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Ընտրեք  Կուրսոր Թեման"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Կուրսոր Թեմաներ"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Defender խաղի կլոն"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Պարզագույն Վեբ Զննիչ"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Distcc մոնիտոր"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "Պարզ հասցեագիրք"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "DOS էմուլատոր"
+
+#~ msgid "DOSBox"
+#~ msgstr "ԴոսԲոքս"
+
+#~ msgid "Dr. Python"
+#~ msgstr "Դր. Փիթոն"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "Python Խմբագիր և Ծրագրավորման Միջավայր"
+
+#~ msgid "DVR"
+#~ msgstr "Թվային Վիդեոգրիչ"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "Երկչափ մոլեկուլների խմբագրիչ"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "FICS chess-server interface"
+#~ msgstr "FICS շախմատային բանավարի ինտերֆեյս"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "Ձայնի  բազմաողի մշակման և միքսելու ծրագիր"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animator"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "GTK ֆայլ կառավարում"
+
+#~ msgid "Endeavour"
+#~ msgstr "Ճիգ"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Առեղծվածային խաղ"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "EPIC-ը դա the (E)nhanced (P)rogrammable (I)RC-II (C)lient ծրագիր է"
+
+#~ msgid "Python IDE"
+#~ msgstr "Python ծրագրավորման միջավայր"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "Բազմաֆունկցիոնալ OSS միքսեր"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Էվոլվոտրոն"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "Ինտերակտիվ ստեղծագոծական ծրագիր"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Ֆլէշ Լինուքսի համար"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr "գրասեղանի նշանակներ ստեղծելու և վրելու համար fluxbox-գործիք"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "Թռչող Մեքենա թռիչքների սիմուլատոր"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr ""
+#~ "A.D.I.E. - Advanced Interactive Editor, որն օգտագործում է Ֆոքս գործիքները"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Հաշվիչ, որն օգտագործում է Ֆոքս գործիքները"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "Ֆոքս հաշվիչ"
+
+#~ msgid "FrameWorks"
+#~ msgstr "ՖրեյմՈւորքս"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "Անիմացիայի գործիք"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "բաս-սինտեզատոր/սինտեզատոր/սեմթլերի փլեյեր Լինուքսի համար"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "C64 համակարգչի Paradroid խաղի կլոն"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Չայնամշակիչ"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr "Լարային երաժշտական գործիքների մաշվածության հաշվիչ"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "3D file browser"
+#~ msgstr "եռաչափ ֆայլ զննիչ"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "FVWM Պատուհանային վարիչ"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "Xmms ծածկոցները զննելու ծրագիր"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Գայ-խորապատկեր փոխանջատիչ"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "Blobs նաելու ծրագիր"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Գայ-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "Ցույց է տալիս ստեղնաշարի լուսարձակող դիոդների աշխատավիճակը"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-լույսեր"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "Գայ-նամակահաշվիչ"
+
+#~ msgid "Mail counter"
+#~ msgstr "Հաշվում ե նամակների քանակը"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Գայ-պալ"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "Ցուց է տալիս մայրամուտի և արևածագի ժամանակը"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Գայ-արև"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "Գայ-տեսաստուդիա"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "XMMS ելքային տվյալների վիզուալիզացիա"
+
+#~ msgid "Galan"
+#~ msgstr "Գալան"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "Եռաչափ մոլեկուլ նաելու ծրագիր"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "Երկչափ Վոլեյբոլ"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "Փոխեք Gnome նախընտրանքները"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Տետրիս և Տիեզերական հյուրերը"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Դասատուի gradebook"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "MM/QM GNOME գրաֆիկական արտադեմ"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "թռիչքի սիմուլատոր"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "OpenGL դիտիչ"
+
+#~ msgid "Gltron"
+#~ msgstr "Glտրոն"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "masqdialer մոդեմ բանավարի Գնոմ սպասառու"
+
+#~ msgid "Memory usage"
+#~ msgstr "Հիշողության գործածություն"
+
+#~ msgid "GMorgan"
+#~ msgstr "Գմորգան"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "MIDI ինքնա-նվագակցում"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Գնոմ-Կերբերոս"
+
+#~ msgid "Gnometab"
+#~ msgstr "Գնոմտաբ"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Կիթառային տաբուլատուրաների խմբագրիչ"
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Ռոբբո"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Վերցնում է էկրանի պատկերը, և գրում ֆայլի մեջ"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "VLC-ն՝ MPEG, MPEG2, DVD և DivX ազատ փլեյեր է"
+
+#~ msgid "Downloader for X"
+#~ msgstr "X Քաշիչ"
+
+#~ msgid "Services"
+#~ msgstr "Ծառայություններ"

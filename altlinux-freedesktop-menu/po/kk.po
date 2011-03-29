@@ -1,0 +1,845 @@
+# Menu section translation
+# Copyright (C) 2007
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2007.
+# Dauren Sarsenov <daur88@inbox.ru>, 2009
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-section 2.1.35\n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2009-03-24 14:50+0600\n"
+"Last-Translator: Dauren Sarsenov <daur88@inbox.ru>\n"
+"Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Графика"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Графика"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Файлдарды Басқару"
+
+msgid "Accessibility"
+msgstr "Арнайы мүмкіндіктер"
+
+msgid "Action"
+msgstr "Экшн"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Экшн"
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Администратор"
+
+msgid "Adventure"
+msgstr "Рөлдік"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Рөлдік"
+
+msgid "Amateur Radio"
+msgstr "Әуесқойлық Радио"
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Бағдарламалар"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Бағдарламалар"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr ""
+
+msgid "Arcade style game"
+msgstr ""
+
+msgid "Archiving"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr "Астрономия"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Астрономия"
+
+msgid "Audio Editing"
+msgstr ""
+
+msgid "Audio Players"
+msgstr ""
+
+msgid "Audio Recorders"
+msgstr ""
+
+msgid "Biology"
+msgstr "Биология"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Биология"
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Ойындар"
+
+#, fuzzy
+msgid "Boards"
+msgstr "Тақталық"
+
+msgid "Building"
+msgstr ""
+
+#, fuzzy
+msgid "Calculator"
+msgstr "Эмуляторлар"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Эмуляторлар"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Ойындар"
+
+#, fuzzy
+msgid "Cards"
+msgstr "Карта"
+
+#, fuzzy
+msgid "Chart"
+msgstr "Карта"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Химия"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Химия"
+
+#, fuzzy
+msgid "Clock"
+msgstr "Блок"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Байланысу"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "Ғылым"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Геоғылымдар"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Байланысу"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+#, fuzzy
+msgid "Databases"
+msgstr "Деректерді Талдау"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Бағдарламалар"
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+#, fuzzy
+msgid "Development"
+msgstr "Веб Бағдарламалау"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionary"
+msgstr "Экшн"
+
+msgid "Disc burning"
+msgstr ""
+
+#, fuzzy
+msgid "Documentation"
+msgstr "Байланысу"
+
+#, fuzzy
+msgid "Economy"
+msgstr "Астрономия"
+
+msgid "Editors"
+msgstr "Редакторлар"
+
+msgid "Education"
+msgstr "Оқу-білім"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Электроника"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr "Электроника"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Бағдарламалар"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Эмуляторлар"
+
+msgid "Engineering"
+msgstr "Инженерия"
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Блок"
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Файлдарды Басқару"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Жүйе"
+
+msgid "File Transfer"
+msgstr "Файл Тасымалдау"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+msgid "File tools"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr ""
+
+msgid "GUI Designers"
+msgstr ""
+
+msgid "GUI designer applications"
+msgstr ""
+
+msgid "Games"
+msgstr "Ойындар"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+#, fuzzy
+msgid "Geology"
+msgstr "Биология"
+
+msgid "Geology software"
+msgstr ""
+
+msgid "Geoscience"
+msgstr "Геоғылымдар"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Геоғылымдар"
+
+#, fuzzy
+msgid "Geosciences"
+msgstr "Геоғылымдар"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Жабдық"
+
+#, fuzzy
+msgid "History"
+msgstr "Химия"
+
+msgid "IDE"
+msgstr ""
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Бағдарламалар"
+
+msgid "IRC"
+msgstr ""
+
+msgid "IRC clients"
+msgstr ""
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+msgid "Instant Messaging"
+msgstr ""
+
+msgid "Instant messaging clients"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Бағдарламалар"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr ""
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Literature"
+msgstr ""
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Ойындар"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Математика"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Қараушылар"
+
+msgid "Monitoring"
+msgstr "Бақылау Құралдары"
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Multimedia Editing"
+msgstr ""
+
+msgid "Multimedia Players"
+msgstr ""
+
+msgid "Multimedia Recorders"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Желі"
+
+msgid "Network-related settings"
+msgstr ""
+
+#, fuzzy
+msgid "News"
+msgstr "Веб Жаңалықтар"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+#, fuzzy
+msgid "Numeric Analysis"
+msgstr "Деректерді Талдау"
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Бағдарламалау"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Дестелерді Басқару"
+
+#, fuzzy
+msgid "Packaging"
+msgstr "Бекіту"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Photography"
+msgstr ""
+
+msgid "Physics"
+msgstr "Физика"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Физика"
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Presentation software"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Printing"
+msgstr ""
+
+msgid "Profiling tools"
+msgstr ""
+
+msgid "Project Management"
+msgstr "Жобаларды Басқару"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Жобаларды Басқару"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Графика"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "Сақтау"
+
+msgid "Science"
+msgstr "Ғылым"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Экран"
+
+msgid "Security"
+msgstr "Қауіпсіздік"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Қауіпсіздік"
+
+msgid "Sequencers"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Simulation"
+msgstr "Симулятор"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Симулятор"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Дыбыс"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sports Games"
+msgstr ""
+
+msgid "Spreadsheets"
+msgstr ""
+
+msgid "Strategy"
+msgstr "Стратегиялық"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Стратегиялық"
+
+msgid "System"
+msgstr "Жүйе"
+
+msgid "System settings"
+msgstr ""
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr "ТВ және Радио"
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "ТВ және Радио"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Бағдарламалар"
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telephony tools"
+msgstr ""
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Терминал Эмуляторлары"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Терминал Эмуляторлары"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Құралдар"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Құралдар"
+
+msgid "Tools for web developers"
+msgstr ""
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+msgid "Tools to build applications"
+msgstr ""
+
+msgid "Tools to debug applications"
+msgstr ""
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Ойыншықтар"
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation tools"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Графика"
+
+msgid "Vector based graphical applications"
+msgstr ""
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Video Conference software"
+msgstr ""
+
+msgid "Video Conferences"
+msgstr ""
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Қараушылар"
+
+msgid "Video Recorders"
+msgstr ""
+
+msgid "Viewers"
+msgstr "Қараушылар"
+
+msgid "Web Browsing"
+msgstr "Веб Браузерлер"
+
+msgid "Web Development"
+msgstr "Веб Бағдарламалау"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+msgid "chat clients"
+msgstr ""
+
+#~ msgid "Data Management"
+#~ msgstr "Деректерді Басқару"
+
+#~ msgid "Mobile Devices"
+#~ msgstr "Қалталық Құрылғылар"
+
+#~ msgid "Medicine"
+#~ msgstr "Медицина"
+
+#~ msgid "Social"
+#~ msgstr "Әлеуметтік Ғылымдар"
+
+#~ msgid "Shells"
+#~ msgstr "Қоршамдар"
+
+#~ msgid "Language Environment"
+#~ msgstr "Тілдік Орта"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Puzzles"
+#~ msgstr "Паззл"
+
+#~ msgid "Help"
+#~ msgstr "Көмек"
+
+#~ msgid "Window Managers"
+#~ msgstr "Терезелер Менеджері"
+
+#~ msgid "FVWM Modules"
+#~ msgstr "FVWM модульдері"
+
+#~ msgid "Window Maker"
+#~ msgstr "Window Maker"
+
+#~ msgid "Appearance"
+#~ msgstr "Көрініс"
+
+#~ msgid "WorkSpace"
+#~ msgstr "WorkSpace"
+
+#~ msgid "Iceape Components"
+#~ msgstr "Iceape Құрамасы"
+
+#~ msgid "Teddies"
+#~ msgstr "Тедди"

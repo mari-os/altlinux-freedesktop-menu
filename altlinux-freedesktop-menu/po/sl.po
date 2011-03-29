@@ -1,0 +1,8075 @@
+# translation of sl.po to Slovenian
+# Translation of menu-messages-main-sl.po to Slovenian
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/sl.php3
+#
+# Collection of titles/sections of Linux-Mandrake menu's.
+# It's generated from the /usr/lib/menu/* files.
+#
+# Copyright (C) 2000 MandrakeSoft
+#
+# Alen Salamun <alien@alienworld.org>, 2000.
+# Gregor Pirnaver <gregor.pirnaver@email.si>, 2002.
+# Tadej Panjtar <panjtar@email.si>, 2003.
+# Gregor Pirnaver <gregor.pirnaver@siol.net>, 2003,2004.
+# Aljoša Ločičnik <aljosa.locicnik@mandrakeprinas.org>, 2004.
+# Mitja Masten <mitja.masten@email.si>, 2004.
+# Jure Repinc <jlp@holodeck1.com>, 2005, 2006, 2007, 2008, 2009, 2010.
+# Matjaž Kaše <matjaz.kase@g-kabel.si>, 2005.
+# Matjaž Kaše <matjaz.kase@telemach.net>, 2006.
+# Matej Štrovs <matej.strovs@gmail.com>, 2006.
+# Matej Repinc <mrepinc@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: sl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2010-05-09 19:36+0200\n"
+"Last-Translator: Jure Repinc <jlp@holodeck1.com>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms:  nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafika"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Grafični programi"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafika"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Grafični programi"
+
+#, fuzzy
+msgid "A clock application/applet"
+msgstr "Program proučevanje pakiranja pravokotnikov"
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Igre in zabava"
+
+msgid "Accessibility"
+msgstr "Dostopnost"
+
+#, fuzzy
+msgid "Action"
+msgstr "Izobraževanje"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Igra sestavljank z akcijo"
+
+#, fuzzy
+msgid "AddressBooks"
+msgstr "K Imenik"
+
+msgid "Administration"
+msgstr "Administracija"
+
+msgid "Adventure"
+msgstr "Pustolovščina"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Igra, podobna tetrisu"
+
+#, fuzzy
+msgid "Amateur Radio"
+msgstr "QtRadio"
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Uporabniški programi"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Uporabniški programi"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Arkade"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Arkadna video igra"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Orodje za ravnanje z arhivi"
+
+#, fuzzy
+msgid "Art"
+msgstr "Ark"
+
+msgid "Artificial Intelligence"
+msgstr "Umetna inteligenca"
+
+#, fuzzy
+msgid "Artificial Intelligence software"
+msgstr "Umetna inteligenca"
+
+msgid "Astronomy"
+msgstr "Astronomija"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Astronomija"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Predvajalnik zvoka"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Snemalnik zvokov"
+
+msgid "Biology"
+msgstr "Biologija"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "\"Morphing\" program"
+
+msgid "Board Games"
+msgstr "Namizne igre"
+
+msgid "Boards"
+msgstr "Deske"
+
+#, fuzzy
+msgid "Building"
+msgstr "Grajenje z opekami"
+
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Kalkulator"
+
+#, fuzzy
+msgid "Calendar"
+msgstr "Blender"
+
+#, fuzzy
+msgid "Camera tools, etc."
+msgstr "Nabor orodij za Javo"
+
+msgid "Card Games"
+msgstr "Igre s kartami"
+
+msgid "Cards"
+msgstr "Karte"
+
+#, fuzzy
+msgid "Chart"
+msgstr "KCharSelect"
+
+#, fuzzy
+msgid "Chat"
+msgstr "Klepet IRC"
+
+msgid "Chemistry"
+msgstr "Kemija"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Kemija"
+
+#, fuzzy
+msgid "Clock"
+msgstr "Xlock"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Komunicirajte s prijatelji"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Računalniške vede"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "Računalniške vede"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "Računalniške vede"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Računalniške vede"
+
+#, fuzzy
+msgid "Configuration tools for the GUI"
+msgstr "Nastavitveno orodje ODBC (uporabnik root)"
+
+#, fuzzy
+msgid "Construction"
+msgstr "Igra gradnje omrežja"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr "Vizualizacija podatkov"
+
+#, fuzzy
+msgid "Data visualization software"
+msgstr "Vizualizacija podatkov"
+
+msgid "Databases"
+msgstr "Zbirke podatkov"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Drugi programi"
+
+msgid "Desktop"
+msgstr "Namizje"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Razvoj"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "Program za 3D grafe"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Slovar"
+
+msgid "Dictionary"
+msgstr "Slovar"
+
+#, fuzzy
+msgid "Disc burning"
+msgstr "Zapisovanje nosilcev"
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+msgid "Economy"
+msgstr "Ekonomija"
+
+msgid "Editors"
+msgstr "Urejevalniki"
+
+msgid "Education"
+msgstr "Izobraževanje"
+
+msgid "Electricity"
+msgstr "Elektrika"
+
+#, fuzzy
+msgid "Electricity software"
+msgstr "Elektrika"
+
+#, fuzzy
+msgid "Electronics"
+msgstr "Elektrika"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Exaile"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Terminalski programi"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Emulatorji"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Igra padajočih kock"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "Igra padajočih kock"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Upravljalnik datotek"
+
+msgid "File Systems"
+msgstr "Datotečni sistemi"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Upravljalnik datotek"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Datotečni sistemi"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Besedilna orodja"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Vede"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Snovalnik za Qt"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Program za načrtovanje"
+
+msgid "Games"
+msgstr "Igre"
+
+msgid "Games and amusements"
+msgstr "Igre in zabava"
+
+msgid "Games for Kids"
+msgstr "Igre za otroke"
+
+msgid "Geography"
+msgstr "Geografija"
+
+#, fuzzy
+msgid "Geology"
+msgstr "Biologija"
+
+#, fuzzy
+msgid "Geology software"
+msgstr "\"Morphing\" program"
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Geološke vede"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Geološke vede"
+
+msgid "Geosciences"
+msgstr "Geološke vede"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+#, fuzzy
+msgid "HAM radio software"
+msgstr "\"Morphing\" program"
+
+msgid "Hardware"
+msgstr "Strojna oprema"
+
+msgid "History"
+msgstr "Zgodovina"
+
+#, fuzzy
+msgid "IDE"
+msgstr "IDLE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Program proučevanje pakiranja pravokotnikov"
+
+msgid "IRC"
+msgstr "IRC"
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "Odjemalec za IRC"
+
+msgid "Image Processing"
+msgstr "Obdelovanje slik"
+
+#, fuzzy
+msgid "Image Processing software"
+msgstr "Obdelovanje slik"
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Neposredno sporočanje"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Univerzalen odjemalec za takojšnje sporočanje"
+
+msgid "Internet"
+msgstr "Splet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Drugi programi"
+
+#, fuzzy
+msgid "Java"
+msgstr "Lavaps"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Jeziki"
+
+msgid "Literature"
+msgstr "Književnost"
+
+msgid "Logic Games"
+msgstr "Logične igre"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "\"Morphing\" program"
+
+msgid "Mathematics"
+msgstr "Matematika"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "Program za DJ-je"
+
+#, fuzzy
+msgid "Medical software"
+msgstr "\"Morphing\" program"
+
+#, fuzzy
+msgid "Mixers"
+msgstr "Mine"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Zasloni"
+
+msgid "Multimedia"
+msgstr "Večpredstavnost"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Večpredstavnostni meni"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Večpredstavnostni predvajalnik"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Večpredstavnostni predvajalnik"
+
+#, fuzzy
+msgid "Music"
+msgstr "MusE"
+
+#, fuzzy
+msgid "Musical software"
+msgstr "\"Morphing\" program"
+
+msgid "Network"
+msgstr "Omrežje"
+
+msgid "Network-related settings"
+msgstr "Nastavitve omrežja"
+
+#, fuzzy
+msgid "News"
+msgstr "Pošta/Novičarske skupine"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr "Numerična analiza"
+
+#, fuzzy
+msgid "Numerical analysis software"
+msgstr "Numerična analiza"
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Pisarna"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Drugo"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Program za slikanje"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Program za skeniranje slik"
+
+msgid "Packaging"
+msgstr "Programski paketi"
+
+msgid "Parallel Computing"
+msgstr "Paralelno računanje"
+
+#, fuzzy
+msgid "Parallel computing software"
+msgstr "Paralelno računanje"
+
+#, fuzzy
+msgid "Performance"
+msgstr "Nastavitve"
+
+msgid "Personal"
+msgstr "Osebno"
+
+#, fuzzy
+msgid "Photography"
+msgstr "Geografija"
+
+msgid "Physics"
+msgstr "Fizika"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "\"Morphing\" program"
+
+msgid "Preferences"
+msgstr "Nastavitve"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Predstavitev"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Predstavitev"
+
+msgid "Printing"
+msgstr "Tiskanje"
+
+#, fuzzy
+msgid "Profiling tools"
+msgstr "Orodje za ravnanje z arhivi"
+
+msgid "Project Management"
+msgstr "Projektno vodenje"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Orodje za upravljanje s tiskalniki"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafika"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Grafični programi"
+
+#, fuzzy
+msgid "Remote access"
+msgstr "Oddaljeni grafični dostop"
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Kontrola glasnosti"
+
+msgid "Robotics"
+msgstr "Robotika"
+
+#, fuzzy
+msgid "Robotics software"
+msgstr "\"Morphing\" program"
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+#, fuzzy
+msgid "Scanning"
+msgstr "XSane - skeniranje"
+
+msgid "Science"
+msgstr "Znanost"
+
+msgid "Screensavers"
+msgstr "Ohranjevalniki zaslona"
+
+msgid "Security"
+msgstr "Varnost"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Varnost"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Sekvenčnik MIDI"
+
+msgid "Settings"
+msgstr "Nastavitve"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Igra simulacije mesta"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Igra simulacije mesta"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+#, fuzzy
+msgid "Software to learn science"
+msgstr "Pregledovalnik posodobitve programske opreme"
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "Upravnik medijev programske opreme"
+
+#, fuzzy
+msgid "Software to teach music"
+msgstr "Viri programske opreme"
+
+msgid "Sound"
+msgstr "Zvok"
+
+msgid "Sports"
+msgstr "Športi"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Namizne igre"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Razpredelnica"
+
+msgid "Strategy"
+msgstr "Strategije"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Strategije"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System settings"
+msgstr "Sistemske nastavitve"
+
+#, fuzzy
+msgid "TV"
+msgstr "MoTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Terminalski programi"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Uporabniški programi"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "ISDN telefon"
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Besedilna orodja"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Terminalski programi"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Terminal"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Besedilna orodja"
+
+msgid "Text tools"
+msgstr "Besedilna orodja"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Orodja"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Orodja za razvoj programske opreme"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Izberi vaše privzete programe"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Izberi vaše privzete programe"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to manage printers"
+msgstr "Nastavitve tiskalnikov"
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Igrače"
+
+msgid "Translation"
+msgstr "Prevajanje"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "Prevajanje"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Urejevalnik vektorskih slik"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Grafični programi"
+
+#, fuzzy
+msgid "Video"
+msgstr "Jigdo"
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Nastavitve"
+
+#, fuzzy
+msgid "Video Editing"
+msgstr "Urejevalnik videa"
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Predvajalnik videa"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Digitalni Video Snemalec"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "KUIViewer"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Spletni brskalnik"
+
+msgid "Web Development"
+msgstr "Spletni razvoj"
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Urejevalnik besedil"
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Poštni odjemalci"
+
+#~ msgid "-> All Applications"
+#~ msgstr "→ Vsi programi"
+
+#~ msgid "-> What to do?"
+#~ msgstr "→ Kaj storiti?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Zabava in učenje"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Razno"
+
+#~ msgid "Shells"
+#~ msgstr "Lupine"
+
+#~ msgid "Utilities"
+#~ msgstr "Pripomočki"
+
+#~ msgid "Advocacy"
+#~ msgstr "Zagovarjanje"
+
+#~ msgid "Backups"
+#~ msgstr "Varnostne kopije"
+
+#~ msgid "Benchmarking"
+#~ msgstr "Primerjalni preskus"
+
+#~ msgid "Bootstrapping"
+#~ msgstr "Zaganjanje"
+
+#~ msgid "Network bootstrapping"
+#~ msgstr "Omrežno zaganjanje"
+
+#~ msgid "Multiboot"
+#~ msgstr "Zagon več sistemov"
+
+#~ msgid "Clustering and Parallel processing"
+#~ msgstr "Gručenje in vzporedna obdelava"
+
+#~ msgid "Community and services"
+#~ msgstr "Skupnost in storitve"
+
+#~ msgid "CPU design"
+#~ msgstr "Zasnova CPU"
+
+#~ msgid "Generic Linux Documentation"
+#~ msgstr "Splošna dokumentacija za Linux"
+
+#~ msgid "Input hardware"
+#~ msgstr "Vhodna strojna oprema"
+
+#~ msgid "Grahical hardware"
+#~ msgstr "Grafična strojna oprema"
+
+#~ msgid "Kernel internals"
+#~ msgstr "Funkcije jedra"
+
+#~ msgid "Internationalization"
+#~ msgstr "Internacionalizacija"
+
+#~ msgid "Installation"
+#~ msgstr "Namestitev"
+
+#~ msgid "Kiosk"
+#~ msgstr "Kiosk"
+
+#~ msgid "Laptops and PDA"
+#~ msgstr "Prenosni računalniki in dlančniki"
+
+#~ msgid "Power saving"
+#~ msgstr "Varčevanje z energijo"
+
+#~ msgid "Linux on specific architectures"
+#~ msgstr "Linux na specifičnih arhitekturah"
+
+#~ msgid "Network connection"
+#~ msgstr "Omrežna povezava"
+
+#~ msgid "Network concepts"
+#~ msgstr "Omrežne zasnove"
+
+#~ msgid "VPN"
+#~ msgstr "VPN"
+
+#~ msgid "Network configuration"
+#~ msgstr "Nastavitve omrežja"
+
+#~ msgid "Network clients"
+#~ msgstr "Omrežni odjemalci"
+
+#~ msgid "Network servers"
+#~ msgstr "Omrežni strežniki"
+
+#~ msgid "OSes cohabitation"
+#~ msgstr "Sobivanje operacijskih sistemov"
+
+#~ msgid "Programming"
+#~ msgstr "Programiranje"
+
+#~ msgid "Servers"
+#~ msgstr "Strežniki"
+
+#~ msgid "Storage"
+#~ msgstr "Shranjevanje"
+
+#~ msgid "Migration"
+#~ msgstr "Prehod"
+
+#~ msgid "X Window"
+#~ msgstr "Okno X"
+
+#~ msgid "Other howtos"
+#~ msgstr "Druga navodila (howto)"
+
+#~ msgid "Buy it"
+#~ msgstr "Kupite Mandrivo"
+
+#~ msgid "Subscribe"
+#~ msgstr "Pridružite se Klubu Mandriva"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "Nastavite svoj računalnik"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "Potrebščine za X Window"
+
+#~ msgid "X-Utilities"
+#~ msgstr "Potrebščine za X"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Napredno"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Napredne nastavitve"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Izgubljeno in najdeno"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Taktika in strategija"
+
+#~ msgid "Information"
+#~ msgstr "Informacije"
+
+#~ msgid "More"
+#~ msgstr "Več"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Osebne nastavitve"
+
+#~ msgid "Accessories"
+#~ msgstr "Pripomočki"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Namizni pripomočki"
+
+#~ msgid "Networking"
+#~ msgstr "Povezovanje"
+
+#~ msgid "PIM"
+#~ msgstr "Osebni podatki"
+
+#~ msgid "Science & Math"
+#~ msgstr "Znanost in matematika"
+
+#~ msgid "GGZ Gaming Zone"
+#~ msgstr "GGZ Gaming Zone"
+
+#~ msgid "Peripherals"
+#~ msgstr "Strojni dodatki"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Videz in občutek"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Nastavitve videza in obnašanja namizja"
+
+#~ msgid "File"
+#~ msgstr "Datoteke"
+
+#~ msgid "Personal settings"
+#~ msgstr "Osebne nastavitve"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "Teme ohranjevalnika zaslona"
+
+#~ msgid "System Tools"
+#~ msgstr "Sistemska orodja"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "Orodje za učenje"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Nastavitve in nadziranje sistema"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Nastavitve več strojnih naprav"
+
+#~ msgid "KDE Menu"
+#~ msgstr "Meni KDE"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Osebne izbire in skrbniške nastavitve"
+
+#~ msgid "Development Environments"
+#~ msgstr "Razvojna okolja"
+
+#~ msgid "Universal Access"
+#~ msgstr "Univerzalni dostop"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Nastavitve univerzalnega dostopa"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "Spremenite sistemske nastavitve (vplivajo na vse uporabnike)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Zvok in video"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Internet in omrežje"
+
+#~ msgid "Control Center"
+#~ msgstr "Nadzorno središče"
+
+#~ msgid "Puzzles"
+#~ msgstr "Sestavljanke"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Igre kot Rogue"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Programi za dostop do interneta kot sta brskalnik in e-pošta"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Programi, ki ne sodijo v druge kategorije"
+
+#~ msgid "Office Applications"
+#~ msgstr "Pisarniški programi"
+
+#~ msgid ".hidden"
+#~ msgstr ".skrito"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Ne odstranite ali spreminjajte"
+
+#~ msgid "CRXvt (Big5)  "
+#~ msgstr "CRXvt (Big5)  "
+
+#~ msgid "Traditional Chinese rxvt terminal  "
+#~ msgstr "Konzola rxvt za tradicionalno kitajščino  "
+
+#~ msgid "Manage OpenJDK policy files"
+#~ msgstr "Upravljanje datotek s politiko za OpenJDK"
+
+#~ msgid "OpenJDK Policy Tool"
+#~ msgstr "Politika za OpenJDK"
+
+#~ msgid "A SANE-based frontend for webcams"
+#~ msgstr "Grafični vmesnik za spletne kamere"
+
+#~ msgid "XCam"
+#~ msgstr "XCam"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Mandriva Linux posodobitev"
+
+#~ msgid "Freeciv"
+#~ msgstr "Freeciv"
+
+#~ msgid ""
+#~ "Turn-based strategy game inspired by the history of human civilization"
+#~ msgstr "Potezna strategija, ki navdih išče v zgodovini človeštva"
+
+#~ msgid "Beat the odds in a poker-style dice game"
+#~ msgstr "Zmagajte v igri s kockami, podobni pokru"
+
+#~ msgid "Tali"
+#~ msgstr "Tali"
+
+#~ msgid "Enable or disable software sources"
+#~ msgstr "Omogočanje in onemogočanje virov programske opreme"
+
+#~ msgid "Audacity"
+#~ msgstr "Audacity"
+
+#~ msgid "Record and edit audio files"
+#~ msgstr "Snemanje in urejanje zvočnih datotek"
+
+#~ msgid "Sound Editor"
+#~ msgstr "Urejevalnik zvoka"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v francoskem jeziku"
+
+#~ msgid "Howto French"
+#~ msgstr "Francoski HOWTO"
+
+#~ msgid "MIDI file player"
+#~ msgstr "Predvajalnik MIDI datotek"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "PowerManga"
+#~ msgstr "PowerManga"
+
+#~ msgid "Shoot 'em up game with 3D graphics"
+#~ msgstr "Strelska igra s 3D grafiko"
+
+#~ msgid "Extreme Tux Racer"
+#~ msgstr "Extreme Tux Racer"
+
+#~ msgid "OpenGL racing game featuring Tux"
+#~ msgstr "OpenGL dirkaška igra s Tuxom"
+
+#~ msgid "Edit DV video"
+#~ msgstr "Urejevalnik videa DV"
+
+#~ msgid "Kino"
+#~ msgstr "Kino"
+
+#~ msgid "A graphical traceroute"
+#~ msgstr "Grafično omrežno sledenje"
+
+#~ msgid "xtraceroute"
+#~ msgstr "xtraceroute"
+
+#~ msgid "Five or More"
+#~ msgstr "Pet ali več"
+
+#~ msgid "Remove colored balls from the board by forming lines"
+#~ msgstr "Odstranite obarvane kroglice s tvorjenjem linij"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Miner"
+
+#~ msgid "A simple frontend for the SANE scanning system"
+#~ msgstr "Preprost grafični vmesnik za skeniranje prek SANE"
+
+#~ msgid "XScanImage"
+#~ msgstr "XScanImage"
+
+#~ msgid "C++ IDE for developing Qt applications"
+#~ msgstr "Integrirano razvojno okolje za C++/Qt"
+
+#~ msgid "Qt Creator"
+#~ msgstr "Qt Creator"
+
+#~ msgid "Screem HTML/XML Editor"
+#~ msgstr "Urejevalnik HTML/XML Screem"
+
+#~ msgid "Website editor and management system"
+#~ msgstr "Urejevalnik spletnih strani ter upravljalnik sistema"
+
+#~ msgid "Documentation Browser"
+#~ msgstr "Pregledovalnik dokumentacije"
+
+#~ msgid "Mono Documentation"
+#~ msgstr "Dokumentacija za Mono"
+
+#~ msgid "View, search and edit documentation related to Mono"
+#~ msgstr "Pregled, iskanje in urejanje dokumentacije povezane z Mono"
+
+#~ msgid "System Monitor"
+#~ msgstr "Nadzornik sistema"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Glej trenutne procese in nadzoruj stanje sistema"
+
+#~ msgid "Reboot"
+#~ msgstr "Znova zaženi"
+
+#~ msgid "GQview"
+#~ msgstr "GQview"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Pregledovalnik slik"
+
+#~ msgid "View and manage images"
+#~ msgstr "Ogled in upravljanje s slikami"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "Nazdorno orodje za aplikacije, osnovano na GTK-ju"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Media Player"
+#~ msgstr "Večpredstavnostni predvajalnik"
+
+#~ msgid "Play and organize your media collection"
+#~ msgstr "Predvajanje in upravljanje glasbene zbirke"
+
+#~ msgid "Lets you watch TV in a window"
+#~ msgstr "Vam omogoča gledanje televizije"
+
+#~ msgid "Zapping TV Viewer"
+#~ msgstr "Prikazovalnik TV Zapping"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Viewer"
+#~ msgstr "Pregledovalnik kartuš za Lexmark Lexmark 5xxx, 7xxx and 11xx"
+
+#~ msgid "Lexmark showcartridges"
+#~ msgstr "Lexmark showcartridges"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner"
+#~ msgstr "Poravnava glav za Lexmark 5xxx, 7xxx in 11xx"
+
+#~ msgid "Lexmark headalign"
+#~ msgstr "Poravnava glav za Lexmark"
+
+#~ msgid "Chat on Google Talk, Facebook, MSN, and many other chat services"
+#~ msgstr ""
+#~ "Klepet na Google Talk, Facebook, MSN in drugih klepetalnih storitvah."
+
+#~ msgid "Empathy"
+#~ msgstr "Empathy"
+
+#~ msgid "IM Client"
+#~ msgstr "Odjemalec trenutnih sporočil"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Nastavi pravila zaklepanja"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Urejevalec zaklepanja"
+
+#~ msgid "A 3D table tennis game"
+#~ msgstr "3D igra namiznega tenisa"
+
+#~ msgid "CannonSmash"
+#~ msgstr "CannonSmash"
+
+#~ msgid "About Me"
+#~ msgstr "O meni"
+
+#~ msgid "Set your personal information"
+#~ msgstr "Nastavite osebne podatke"
+
+#~ msgid "Action-puzzle game involving bouncing penguins"
+#~ msgstr "Akcijska-ugankarska igra, kjer sodelujejo skakjoči pingvini"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner"
+#~ msgstr "Čiščenje glav za Lexmark 5xxx, 7xxx in 11xx"
+
+#~ msgid "Lexmark headclean"
+#~ msgstr "Čiščenje glav za Lexmark"
+
+#~ msgid "CMake"
+#~ msgstr "CMake"
+
+#~ msgid "Cross-platform buildsystem"
+#~ msgstr "Sistem za gradnjo za več platform"
+
+#~ msgid "Access EXIF information from pictures"
+#~ msgstr "Dostop do EXIF podatkov iz slik"
+
+#~ msgid "Gexif"
+#~ msgstr "Gexif"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Create and copy CDs and DVDs"
+#~ msgstr "CD/DVD ustvarjanje in kopiranje"
+
+#~ msgid "Disc Burner and Copier"
+#~ msgstr "Zapisovalnik in kopirnik diskov"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "Spremenite, kateri programi so prikazani v osnovnem meniju"
+
+#~ msgid "Main Menu"
+#~ msgstr "Glavni meni"
+
+#~ msgid "Google Gadgets (Qt)"
+#~ msgstr "Google Gadgets (KDE/Qt)"
+
+#~ msgid "Run Google Gadgets in KDE/Qt environment"
+#~ msgstr "Poganjajte Google Gadgets v okolju KDE/Qt"
+
+#~ msgid "Graphical interface to diff"
+#~ msgstr "Grafični vmesnik za diff"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Brskaj po spletu"
+
+#~ msgid "Epiphany"
+#~ msgstr "Epiphany"
+
+#~ msgid "Alignment, ink level, cartridge maintenance"
+#~ msgstr "Poravnava, stanje in vzdrževanje kartuš"
+
+#~ msgid "Epson Inkjet Printer Manager"
+#~ msgstr "Upravljalnik za tiskalnike Epson Inkjet"
+
+#~ msgid "Character Map"
+#~ msgstr "Razpredelnica znakov"
+
+#~ msgid "Insert special characters into documents"
+#~ msgstr "Vstavi posebne znake v dokumente"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in Brazilian Portuguese"
+#~ msgstr "Mandrivina dokumentacija za DrakXTools v brazilski portugalščini"
+
+#~ msgid "The Mandriva Linux manuals in Brazilian Portuguese"
+#~ msgstr "Mandrivina dokumentacija v brazilski portugalščini"
+
+#~ msgid "Python complete reference"
+#~ msgstr "Popoln priročnik za Python"
+
+#~ msgid "Python documentation"
+#~ msgstr "Dokumentacija za Python"
+
+#~ msgid "X11 screen saver"
+#~ msgstr "Ohranjevalnik zaslona"
+
+#~ msgid "CompizConfig Settings Manager"
+#~ msgstr "Upravljalnik nastavitev za Compiz"
+
+#~ msgid "Configure Compiz with CompizConfig"
+#~ msgstr "Nastavite možnosti za Compiz"
+
+#~ msgid "Authorizations"
+#~ msgstr "Avtorizacija"
+
+#~ msgid "Configure authorizations"
+#~ msgstr "Nastavitev avtorizacije"
+
+#~ msgid "NetApplet"
+#~ msgstr "NetApplet"
+
+#~ msgid "Network monitoring applet"
+#~ msgstr "Programček za nadzor omrežja"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Samba nastavitve (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Swat Samba nastavitveno orodje"
+
+#~ msgid "Screenshot grabber"
+#~ msgstr "Zajemalnik zaslonskih posnetkov"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "A program for watching TV (nicer interface)"
+#~ msgstr "Program za gledanje televizije"
+
+#~ msgid "Create service packs for sharing with other computers"
+#~ msgstr "Ustvarite pakete popravkov za deljenje z drugimi računalniki"
+
+#~ msgid "Service Pack Creator"
+#~ msgstr "Ustvarjalnik servisnega paketa popravkov"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Igre s kartami"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "Create Web Pages"
+#~ msgstr "Ustvarite spletne strani"
+
+#~ msgid "KompoZer"
+#~ msgstr "KompoZer"
+
+#~ msgid "Web Authoring System"
+#~ msgstr "Sistem za ustvarjanje spletnih strani"
+
+#~ msgid "Mandriva Linux Starter Guide in French"
+#~ msgstr "Mandrivin vodnik za začetnike v francoskem jeziku"
+
+#~ msgid "The Mandriva Linux manuals in French"
+#~ msgstr "Mandrivina dokumentacija v francoskem jeziku "
+
+#~ msgid "Chainsaw"
+#~ msgstr "Chainsaw"
+
+#~ msgid "Log4j log viewer"
+#~ msgstr "Pregledovalnik dnevnikov Log4j"
+
+#~ msgid "GUI chessboard game"
+#~ msgstr "Grafični vmesnik za šahovsko igro"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Appearance"
+#~ msgstr "Videz"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "Prilagodite izgled namizja"
+
+#~ msgid "Check word definitions and spellings in an online dictionary"
+#~ msgstr "Poglejte razlago in črkovanje besede v mrežnem slovarju."
+
+#~ msgid "Google Gadgets (GTK)"
+#~ msgstr "Google Gadgets (GTK)"
+
+#~ msgid "Run Google Gadgets in GNOME/GTK environment"
+#~ msgstr "Poganjajte Google Gadgets v okolju GTK/GNOME"
+
+#~ msgid "Browse the file system and manage the files"
+#~ msgstr "Brskajte po datotečnem sistemu in upravljajte datoteke"
+
+#~ msgid "Locate documents and folders on this computer by name or content"
+#~ msgstr ""
+#~ "Poiščite dokumente in mape na računalniku s pomočjo imena ali vsebine"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Iskanje datotek ..."
+
+#~ msgid "Avahi VNC Server Browser"
+#~ msgstr "Brskalnik za strežnike VNC"
+
+#~ msgid "Browse for Zeroconf-enabled VNC Servers"
+#~ msgstr "Brskajte po strežnikih VNC, ki podpirajo Zeroconf"
+
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Zagon drugih programov in podpora pri različnih pripomočkih za "
+#~ "upravljanje z okni, časom ..."
+
+#~ msgid "Panel"
+#~ msgstr "Pult"
+
+#~ msgid "Navigate applications and type using alternative input devices"
+#~ msgstr "Upravljajte s programi preko alternativnih vnosnih naprav."
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Zaslonska tipkovnica"
+
+#~ msgid "Browse your database's contents"
+#~ msgstr "Brskajte po vsebini podatkovnih zbirk"
+
+#~ msgid "Database browser"
+#~ msgstr "Brskalnik podatkovne zbirke"
+
+#~ msgid "Lookup words"
+#~ msgstr "Poiščite pomen besed"
+
+#~ msgid "StarDict"
+#~ msgstr "StarDict"
+
+#~ msgid "Compiz"
+#~ msgstr "Compiz"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Vmesnik za rp-pppoe"
+
+#~ msgid "TkPPPoE"
+#~ msgstr "TkPPPoE"
+
+#~ msgid "GnuCash Finance Management"
+#~ msgstr "Upravljalnik financ z GnuCash"
+
+#~ msgid "Manage your finances, accounts, and investments"
+#~ msgstr "Urejajte svoje finance, račune ter naložbe"
+
+#~ msgid "Download and upload files via FTP, FTPS and SFTP"
+#~ msgstr "Prenašanje datotek prek FTP, SFTP in FTPS"
+
+#~ msgid "FTP client"
+#~ msgstr "Odjemalec za FTP"
+
+#~ msgid "FileZilla"
+#~ msgstr "FileZilla"
+
+#~ msgid "Audio CD Extractor"
+#~ msgstr "Zvočni CD pretvornik"
+
+#~ msgid "Copy music from your CDs"
+#~ msgstr "Pretvorite glasbo s CD-jev."
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "Zapisovalec CD/DVD"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "Ustvarjanje CD-jev in DVD-jev"
+
+#~ msgid "Device Manager"
+#~ msgstr "Upravljalnik naprav"
+
+#~ msgid "Manage devices"
+#~ msgstr "Upravljajte z napravami"
+
+#~ msgid "Import the photos on your camera card"
+#~ msgstr "Uvozite fotografije s svojega fotoaparata"
+
+#~ msgid "Photo Import Tool"
+#~ msgstr "Orodje za uvoz fotografij"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "Zaželeni programi"
+
+#~ msgid "Klotski"
+#~ msgstr "Klotski"
+
+#~ msgid "Slide blocks to solve the puzzle"
+#~ msgstr "Za rešitev miselne igre premikajte bloke"
+
+#~ msgid "Blender (DRI disabled)"
+#~ msgstr "Blender (brez DRI)"
+
+#~ msgid "The free open source 3D content creation suite (with DRI disabled)"
+#~ msgstr "Program za ustvarjanje 3D vsebin (onemogočen DRI)"
+
+#~ msgid "3D Chess Game"
+#~ msgstr "3D šah"
+
+#~ msgid "Chess"
+#~ msgstr "Šah"
+
+#~ msgid "Play the classic two-player boardgame of chess"
+#~ msgstr "Igrajte klasično igro šaha za dva igralca"
+
+#~ msgid "Manage your PulseAudio sound server."
+#~ msgstr "Upravljanje z zvočnim strežnikom PulseAudio."
+
+#~ msgid "PulseAudio Manager"
+#~ msgstr "Upravljalnik s PulseAudio"
+
+#~ msgid "Leafpad"
+#~ msgstr "Leafpad"
+
+#~ msgid "Simple text editor"
+#~ msgstr "Preprost urejevalnik besedil"
+
+#~ msgid "Browse bookmarked and local network locations"
+#~ msgstr "Brskanje med mesti lokalnega omrežja"
+
+#~ msgid "Establish and Edit Profiles for Users"
+#~ msgstr "Vzpostavi in uredi profile uporabnikov"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "Urejevalnik profilov uporabnikov"
+
+#~ msgid "Chat with other people using Internet Relay Chat"
+#~ msgstr "Pogovor z ljudmi z uporabo Internet Relay Chat"
+
+#~ msgid "XChat IRC"
+#~ msgstr "Odjemalec IRC"
+
+#~ msgid "F-Spot"
+#~ msgstr "F-Spot"
+
+#~ msgid "Photo Viewer"
+#~ msgstr "Pregledovalnik fotografij"
+
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgid "Configure Bluetooth settings"
+#~ msgstr "Nastavitve Bluetooth"
+
+#~ msgid "GUI Python Shell"
+#~ msgstr "Grafični vmesnik za lupino Python"
+
+#~ msgid "PyShell"
+#~ msgstr "PyShell - Lupina Python"
+
+#~ msgid "Edit text"
+#~ msgstr "Urejanje besedili"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "Text Editor"
+#~ msgstr "Urejevalnik besedil"
+
+#~ msgid "Manage Messaging and VoIP accounts"
+#~ msgstr "Upravljanje s sporočanjem in VoIP računi"
+
+#~ msgid "Messaging and VoIP Accounts"
+#~ msgstr "Sporočanje in VoIP računi"
+
+#~ msgid "Disk Utility"
+#~ msgstr "Diskovna orodja"
+
+#~ msgid "Manage Drives and Media"
+#~ msgstr "Upravljanje pogonov in medijev"
+
+#~ msgid "Office Suite"
+#~ msgstr "Pisarniški paket"
+
+#~ msgid "OpenOffice.org"
+#~ msgstr "OpenOffice.org"
+
+#~ msgid "Configure login screen behavior"
+#~ msgstr "Nastavitve obnašanja zaslona za prijavo"
+
+#~ msgid "Login Screen"
+#~ msgstr "Prijavni zaslon"
+
+#~ msgid "Capture Volume Meter"
+#~ msgstr "Merilnik glasnosti snemanja"
+
+#~ msgid "Monitor the input volume"
+#~ msgstr "Meritev vhodne glasnosti zvoka"
+
+#~ msgid "PulseAudio Volume Meter (Capture)"
+#~ msgstr "Merilnik glasnosti PulseAudio (snemanje)"
+
+#~ msgid "GBRXvt (GB2312)  "
+#~ msgstr "GBRXvt (GB2312)  "
+
+#~ msgid "Simplified Chinese rxvt terminal  "
+#~ msgstr "Konzola rxvt za poenostavljeno kitajščino  "
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "Brskajte in obračajte slike"
+
+#~ msgid "Catalog Installer"
+#~ msgstr "Namestilnik katalogov"
+
+#~ msgid "Install a catalog of software on the system"
+#~ msgstr "Namestitev kataloga programske opreme v sistem"
+
+#~ msgid "Monitor the output volume"
+#~ msgstr "Meritev izhodne glasnosti zvoka"
+
+#~ msgid "Playback Volume Meter"
+#~ msgstr "Merilnik glasnosti predvajanja"
+
+#~ msgid "PulseAudio Volume Meter (Playback)"
+#~ msgstr "Merilnik glasnosti PulseAudio (predvajanje)"
+
+#~ msgid "Change resolution and position of monitors"
+#~ msgstr "Spremeni ločljivost in položaj zaslonov"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid ""
+#~ "Perform calculation, analyze information and manage lists in spreadsheets "
+#~ "by using Calc."
+#~ msgstr ""
+#~ "S Calcom izvajajte računske operacije, analizirajte podatke in "
+#~ "upravljajte s seznami v preglednicah."
+
+#~ msgid "Control tool for Echoaudio soundcards"
+#~ msgstr "Nadzorno orodje za zvočne kartice Echoaudio"
+
+#~ msgid "Echo mixer"
+#~ msgstr "Echo mixer"
+
+#~ msgid "Save images of your desktop or individual windows"
+#~ msgstr "Shranite slike namizja ali posameznih oken"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "Zajemi zaslonsko sliko"
+
+#~ msgid "Phone Manager"
+#~ msgstr "Upravljalnik telefonov"
+
+#~ msgid "Receive and send text messages from your mobile phone"
+#~ msgstr "Prejemanje in odpošiljanje kratkih sporočil z mobilnega telefona"
+
+#~ msgid "Developer's Help program"
+#~ msgstr "Program za pomoč razvijalcem "
+
+#~ msgid "Devhelp"
+#~ msgstr "Devhelp"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v nizozemskem jeziku"
+
+#~ msgid "Howto Dutch"
+#~ msgstr "Nizozemski HOWTO"
+
+#~ msgid "Eclipse"
+#~ msgstr "Eclipse"
+
+#~ msgid "Eclipse Integrated Development Environment"
+#~ msgstr "Integrirano razvojno okolje Eclipse"
+
+#~ msgid "Browse the file system with the file manager"
+#~ msgstr "Brskaj datotečni sistem z upraviteljem datotek"
+
+#~ msgid "File Browser"
+#~ msgstr "Brskalnik datotek"
+
+#~ msgid "ODBConfig (Root User)"
+#~ msgstr "ODBCConfig (uporabnik root) "
+
+#~ msgid "Mandriva Linux Starter Guide in English"
+#~ msgstr "Mandrivin vodnik za začetnike v angleškem jeziku"
+
+#~ msgid "The Mandriva Linux manuals in English"
+#~ msgstr "Mandrivina dokumentacija v angleškem jeziku"
+
+#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
+#~ msgstr "Počisti zaslon z odstranjevanjem skupin barvnih ploščic"
+
+#~ msgid "Swell Foop"
+#~ msgstr "Pravi Pavliha"
+
+#~ msgid "IDE for Python"
+#~ msgstr "IDE za Python"
+
+#~ msgid "Mail notifier"
+#~ msgstr "Indikator novoprispele pošte"
+
+#~ msgid "Xmailbox"
+#~ msgstr "Xmailbox"
+
+#~ msgid "Add and organize the OpenOffice.org extensions."
+#~ msgstr "Dodajanje in upravljanje razširitev za OpenOffice.org"
+
+#~ msgid "Extension Manager"
+#~ msgstr "Upravljalnik razširitev"
+
+#~ msgid "OpenOffice.org Extension Manager"
+#~ msgstr "Upravljalnik razširitev za OpenOffice.org"
+
+#~ msgid "Configurator"
+#~ msgstr "Nastavljalnik"
+
+#~ msgid "Dia Diagram Editor"
+#~ msgstr "Dia - urejevalnik diagramov"
+
+#~ msgid "Edit your Diagrams"
+#~ msgstr "Uredite diagrame"
+
+#~ msgid "Monitor and manage OpenJDK applications"
+#~ msgstr "Nadzorovanje in upravljanje programov OpenJDK"
+
+#~ msgid "OpenJDK Monitoring & Management Console"
+#~ msgstr "Konzola za nadzorovanje in upravljanje OpenJDK"
+
+#~ msgid "Installs themes packages for various parts of the desktop"
+#~ msgstr "Namesti pakete tem za različne dele namizja"
+
+#~ msgid "Theme Installer"
+#~ msgstr "Namestitveni program za teme"
+
+#~ msgid "Control panel for RME Hammerfall"
+#~ msgstr "Nadzorna plošča za RME Hammerfall"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Digicontrol"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Dobi pomoč o GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Pomoč"
+
+#~ msgid "A melting digital clock"
+#~ msgstr "Topljiva digitalna ura"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "Assistive Technologies"
+#~ msgstr "Pomožne tehnologije"
+
+#~ msgid "Choose which accessibility features to enable when you log in"
+#~ msgstr "Izbor pomožnih tehnologij, ki naj bodo omogočene ob zagonu"
+
+#~ msgid "Check folder sizes and available disk space"
+#~ msgstr "Pregled velikosti map in prostega prostora na disku"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "Orodje za analizo porabe diska"
+
+#~ msgid "Full virtualizer for x86 hardware"
+#~ msgstr "Polna virtualizacija za procesorje x86"
+
+#~ msgid "VirtualBox OSE"
+#~ msgstr "VirtualBox OSE"
+
+#~ msgid "Create or open user interface designs for GTK+ applications"
+#~ msgstr "Oblikovanje in odpiranje uporabniških vmesnikov za GTK+ aplikacije"
+
+#~ msgid "Glade 3"
+#~ msgstr "Glade 3"
+
+#~ msgid "Interface Designer"
+#~ msgstr "Snovalnik vmesnikov"
+
+#~ msgid "Organize, enjoy, and share your photos"
+#~ msgstr "Organizirajte fotografije in jih delite z drugimi"
+
+#~ msgid "Photo Manager"
+#~ msgstr "Upravljalnik fotografij"
+
+#~ msgid "Graphical user interface for managing log4j log messages"
+#~ msgstr "Grafični uporabniški vmesnik za upravljanje dnevnikov log4j"
+
+#~ msgid "LogFactor5"
+#~ msgstr "LogFactor5"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Orodje za nastavitev odjemalca in strežnika faksa"
+
+#~ msgid "Fax configuration"
+#~ msgstr "Nastavitve faksa"
+
+#~ msgid "Movie Player"
+#~ msgstr "Predvajalnik filmov"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Predvajanje filmov in skladb"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Pregledovalnik dokumentov"
+
+#~ msgid "View multi-page documents"
+#~ msgstr "Poglejte večstranske dokumente"
+
+#~ msgid "Home Folder"
+#~ msgstr "Domača mapa"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Odprite osebne mape"
+
+#~ msgid "Frontend for Nvidia TV output"
+#~ msgstr "Vmesnik za Nvidia TV izhod"
+
+#~ msgid "Nvidia TV Output"
+#~ msgstr "Nvidia TV izhod"
+
+#~ msgid "Fit falling blocks together"
+#~ msgstr "Pospravite padajoče bloke"
+
+#~ msgid "Quadrapassel"
+#~ msgstr "Kvadetris"
+
+#~ msgid "Complete the puzzle by matching numbered tiles"
+#~ msgstr "Rešite miselno igro z ujemanjem oštevilčenih ploščic"
+
+#~ msgid "Tetravex"
+#~ msgstr "Tetravex"
+
+#~ msgid "Software Log Viewer"
+#~ msgstr "Pregledovalnik dnevnika programske opreme"
+
+#~ msgid "View past package management tasks"
+#~ msgstr "Pregled zgodovine upravljanja s paketi"
+
+#~ msgid "Clone of Sega's \"Chu Chu Rocket\", a multi-player puzzle game"
+#~ msgstr "Klon Seginega Chu Chu Rocketa, miselne igre za več igralcev"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "A graphical designer/dialog builder for Qt4"
+#~ msgstr "Grafični oblikovalec / ustavarjalec dialogov za Qt4"
+
+#~ msgid "Qt4 Designer"
+#~ msgstr "Snovalnik Qt4"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Privzete nastavitve za programe GStreamer"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Izbor sistema za večpredstavnost"
+
+#~ msgid "Configure PalmOS devices"
+#~ msgstr "Nastavitev naprav PalmOS"
+
+#~ msgid "PalmOS Devices"
+#~ msgstr "Naprave PalmOS"
+
+#~ msgid "Access remote desktops"
+#~ msgstr "Dostop do oddaljenih namizij"
+
+#~ msgid "Remote Desktop Viewer"
+#~ msgstr "Pregledovalnik oddaljenih namizij"
+
+#~ msgid "HDSPMixer"
+#~ msgstr "HDSPMixer"
+
+#~ msgid "Hammerfall DSP matrix mixer control GUI"
+#~ msgstr "Matrična mešalna miza za Hammerfall DSP"
+
+#~ msgid "Audit Configuration"
+#~ msgstr "Nastavitve revizije"
+
+#~ msgid "Modify audit configuration"
+#~ msgstr "Spremenite nastavitve revizije"
+
+#~ msgid "Bluefish Editor"
+#~ msgstr "Urejevalnik Bluefish"
+
+#~ msgid "Web Development Editor"
+#~ msgstr "Urejevalnik za spletni razvoj"
+
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgid "Gtk-ocr"
+#~ msgstr "Gtk-ocr"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Grafični vmesnik za gocr"
+
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr "Izogibajte se robotom in poskrbite, da se zaletijo en v drugega"
+
+#~ msgid "Robots"
+#~ msgstr "Roboti"
+
+#~ msgid "Search"
+#~ msgstr "Poišči"
+
+#~ msgid "Search for data on your desktop"
+#~ msgstr "Poišči podatke na namizju"
+
+#~ msgid "xine"
+#~ msgstr "xine"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v španskem jeziku"
+
+#~ msgid "Howto Spanish"
+#~ msgstr "Španski HOWTO"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "Full-featured POP/IMAP mail retrieval daemon"
+#~ msgstr "Pritajen program za pridobivanje e-pošte prek POP/IMAP"
+
+#~ msgid "Crack Attack!"
+#~ msgstr "Crack Attack!"
+
+#~ msgid "A free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Prosta (GPL), večuporabniška igra podobna Bomberman-u"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "GGZ Core Client"
+#~ msgstr "Osnovni odjemalec za GGZ"
+
+#~ msgid "Gtk+ internet gaming center"
+#~ msgstr "Spletno središče za igre"
+
+#~ msgid "ggz-gtk"
+#~ msgstr "ggz-gtk"
+
+#~ msgid "A language for statistical computing"
+#~ msgstr "Jezik za statistično računanje"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Ia Ora Free"
+#~ msgstr "Ia Ora Free"
+
+#~ msgid "Mandriva Screensaver"
+#~ msgstr "Ohranjevalnik zaslona Mandriva"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "Tabela utripajočih barv v slogu pop-arta."
+
+#~ msgid "Pop art squares"
+#~ msgstr "Kvadrati pop-arta"
+
+#~ msgid "Ia Ora Blue"
+#~ msgstr "Ia Ora - modro"
+
+#~ msgid "Ia Ora"
+#~ msgstr "Ia Ora"
+
+#~ msgid "Ia Ora Gray"
+#~ msgstr "Ia Ora - sivo"
+
+#~ msgid "Ia Ora One"
+#~ msgstr "Ia Ora One"
+
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr "Prikaži predstavitev iz F-Spot"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "Fotografije F-Spot"
+
+#~ msgid "Ia Ora Orange"
+#~ msgstr "Ia Ora - oranžno"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "Prikaži diaprojekcijo iz mape slike"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Mapa slik"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "Premikanje mehurčkov z logotipom noge GNOME po zaslonu"
+
+#~ msgid "Floating Feet"
+#~ msgstr "Lebdeče noge"
+
+#~ msgid "Cosmos"
+#~ msgstr "Vesolje"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "Prikaži diaprojekcijo slik vesolja"
+
+#~ msgid ""
+#~ "Browse all local and remote disks and folders accessible from this "
+#~ "computer"
+#~ msgstr ""
+#~ "Brskanje po vseh lokalnih in oddaljenih diskih in mapah, ki so na voljo "
+#~ "preko tega računalnika"
+
+#~ msgid "Computer"
+#~ msgstr "Računalnik"
+
+#~ msgid "Mandriva Linux Quick Startup Guide in English"
+#~ msgstr "Mandrivin vodnik za začetnike v angleškem jeziku"
+
+#~ msgid "A graphical front end for browsing installed & available packages"
+#~ msgstr ""
+#~ "Grafični vmesnik za brskanje po nameščenih in razpoložljivih paketih"
+
+#~ msgid "Browse Available Software"
+#~ msgstr "Brskanje po razpoložljivi programski opremi"
+
+#~ msgid "Convert HTML files to PDF or PostScript"
+#~ msgstr "Pretvarjanje datotek HTML v PDF ali PostScript"
+
+#~ msgid "HTMLDoc"
+#~ msgstr "HTMLDoc"
+
+#~ msgid "Bittorrent Checker"
+#~ msgstr "Preverjanje za BitTorrent"
+
+#~ msgid "Mandriva Linux Bittorrent checker"
+#~ msgstr "Mandrivino preverjanje za BitTorrent"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "TeX document processor - especially good at scientific documents"
+#~ msgstr "TeX besedilno orodje - posebno uporabno pri znanstvenih dokumentih"
+
+#~ msgid "Interactive C# Shell"
+#~ msgstr "Interaktivna lupina za C#"
+
+#~ msgid ""
+#~ "Write C# in an interactive shell, and inject your code into running Mono "
+#~ "processes"
+#~ msgstr ""
+#~ "Pišite C# v interaktivni lupini in vstavljajte svojo kodo v tekoče "
+#~ "procese Mono"
+
+#~ msgid "gsharp"
+#~ msgstr "gsharp"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Prikaži Zemljo na namizju"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Brskajte po Vaših zaznamkih in jih organizirajte"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Spletni zaznamki programa Epiphany"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Spletni zaznamki"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v slovenskem jeziku"
+
+#~ msgid "Howto Slovenian"
+#~ msgstr "Slovenski HOWTO"
+
+#~ msgid "An SSL web-based administration interface for Unix systems"
+#~ msgstr "Spletno SSL nadzorno središče za sisteme Unix"
+
+#~ msgid "webmin"
+#~ msgstr "webmin"
+
+#~ msgid "Menu Style Configuration"
+#~ msgstr "Nastavitev sloga menijev"
+
+#~ msgid "Platform Game"
+#~ msgstr "Ploščadna igra"
+
+#~ msgid "Play a classic 2D platform game"
+#~ msgstr "Klasična 2D ploščadna igra"
+
+#~ msgid "SuperTux 2"
+#~ msgstr "SuperTux 2"
+
+#~ msgid "GUI Python Shell with Filling"
+#~ msgstr "Grafični vmesnik Python Shell with Filling"
+
+#~ msgid "PyCrust"
+#~ msgstr "PyCrust"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Igra akcije in reševanja ugank"
+
+#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
+#~ msgstr "Iščite zlato, izmikajte se sovražnikom in rešujte uganke"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Orodje za posodabljanje menijev"
+
+#~ msgid "Okular"
+#~ msgstr "Okular"
+
+#~ msgid "KDiamond"
+#~ msgstr "KDiamond"
+
+#~ msgid "Three-in-a-row game"
+#~ msgstr "Namizna igra tri v vrsto"
+
+#~ msgid "KSnake"
+#~ msgstr "KSnake"
+
+#~ msgid "Snake-like Game"
+#~ msgstr "Igra podobna Snake"
+
+#~ msgid "Disk writing program"
+#~ msgstr "Program za zapisovanje nosilcev"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Izbirnik barv"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KColorChooser"
+
+#~ msgid "A KDE Blogging Client"
+#~ msgstr "KDE-jev odjemalec za bloganje"
+
+#~ msgid "Blogilo"
+#~ msgstr "Blogilo"
+
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "KDE periodna tabela elementov"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "Periodna tabela elementov"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Igra vislic"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "KDE igra Vislice"
+
+#~ msgid "KHangMan"
+#~ msgstr "KVislice"
+
+#~ msgid "Contact Manager"
+#~ msgstr "Upravitelj stikov"
+
+#~ msgid "KPhotoAlbum"
+#~ msgstr "KPhotoAlbum"
+
+#~ msgid "Photo Album"
+#~ msgstr "Album za fotografije"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "Preprost pregledovalnik slik"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "Kiriki"
+#~ msgstr "Kiriki"
+
+#~ msgid "Yahtzee-like Dice Game"
+#~ msgstr "Igra s kockami, podobna Jamb-u (Yahtzee)"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "Upravljalnik uporabnikov"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Territory Capture Game"
+#~ msgstr "Igra osvajanja ozemlja"
+
+#~ msgid "Galactic Strategy Game"
+#~ msgstr "Galaktična strateška igra"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "Program za učenje s kartami in učenje besedišča"
+
+#~ msgid "Flash Card Trainer"
+#~ msgstr "Učenje s spominskimi kartami"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Kontact Administration"
+#~ msgstr "Upravljanje Kontacta"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Amarok - Rediscover Your Music!"
+#~ msgstr "Amarok - Ponovno odkrijte glasbo!"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "Vmesnik CVS"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Zaslonsko ravnilo"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Program za zajem zaslona"
+
+#~ msgid "Character Selector"
+#~ msgstr "Izbiranje znakov"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Learn The Alphabet"
+#~ msgstr "Učenje abecede"
+
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "Program za učenje abecede"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "The SMB/CIFS Share Browser"
+#~ msgstr "Brskalnik po virih deljenih prek SMB/CIFS"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Koledarček obveznosti"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "Osebni organizator"
+
+#~ msgid "Home"
+#~ msgstr "Domov"
+
+#~ msgid "Personal Files"
+#~ msgstr "Osebne datoteke"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "Space Arcade Game"
+#~ msgstr "Vesoljska arkadna igra"
+
+#~ msgid "A Feed Reader for KDE"
+#~ msgstr "Bralnik virov za KDE"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator "
+
+#~ msgid "Feed Reader"
+#~ msgstr "Bralnik virov"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Učenje tipkanja"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "Urejevalnik slikovnih zemljevidov v HTML"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KBlocks"
+#~ msgstr "KBlocks"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "Link Checker"
+#~ msgstr "Preverjalnik povezav"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "Note Taker"
+#~ msgstr "Majhna beležnica"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Vmesnik za sintezo govora"
+
+#~ msgid "Konversation"
+#~ msgstr "Konversation"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "Pogon za lišpanje namizja."
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "Namizni gradniki"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Nepomuk PIMO Shell"
+#~ msgstr "Lupina za Nepomuk PIMO"
+
+#~ msgid "The simple Nepomuk PIMO Shell"
+#~ msgstr "Preprosta lupina za Nepomuk PIMO"
+
+#~ msgid "Picture Game for Children"
+#~ msgstr "Slikovna igra za otroke"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Krompirjar"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "Orodje z zgodovino za izreži in prilepi"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Orodje za odložišče"
+
+#~ msgid "Klipper"
+#~ msgstr "Klipper"
+
+#~ msgid "Battleship Game"
+#~ msgstr "Igra potapljanja ladjic"
+
+#~ msgid "KBattleship"
+#~ msgstr "KBojnaLadja"
+
+#~ msgid "Go Board Game"
+#~ msgstr "Namizna igra Go"
+
+#~ msgid "Kigo"
+#~ msgstr "Kigo"
+
+#~ msgid "Card Game"
+#~ msgstr "Igra s kartami"
+
+#~ msgid "LSkat"
+#~ msgstr "LSkat"
+
+#~ msgid "CD Player"
+#~ msgstr "Predvajalnik zgoščenk"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid ""
+#~ "Manage your photographs like a professional with the power of open source"
+#~ msgstr "Profesionalno upravljanje fotografij z močjo odprte kode"
+
+#~ msgid "Photo Viewer and Editor"
+#~ msgstr "Pregledovalnik in urejevalnik fotografij"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Arcade Bombing Game"
+#~ msgstr "Arkadna igra bombardiranja"
+
+#~ msgid "Bomber"
+#~ msgstr "Bomber"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Bomberman klon"
+
+#~ msgid "Granatier"
+#~ msgstr "Granatier"
+
+#~ msgid "Graph Calculator"
+#~ msgstr "Računalo z grafi"
+
+#~ msgid "KAlgebra"
+#~ msgstr "KAlgebra"
+
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "Reševalnik matematičnih enačb in risalnik grafov"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Pregledovalnik datotek UI za Qt Designer"
+
+#~ msgid "3-D Game based on Rubik's Cube"
+#~ msgstr "3-D igra Rubikove kocke"
+
+#~ msgid "A 3-D game based on Rubik's Cube"
+#~ msgstr "3-D igra Rubikove kocke"
+
+#~ msgid "Kubrick"
+#~ msgstr "Kubrick"
+
+#~ msgid "KAppTemplate"
+#~ msgstr "KAppTemplate"
+
+#~ msgid "KDE Template Generator"
+#~ msgstr "Ustvarjalnik predlog za KDE"
+
+#~ msgid "Certificate Manager and Unified Crypto GUI"
+#~ msgstr "Upravljalnik potrdil in poenoten grafični vmesnik za šifriranje"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Deljenje namizja"
+
+#~ msgid "Krfb"
+#~ msgstr "Krfb"
+
+#~ msgid "KsirK Skin Editor"
+#~ msgstr "Urejevalnik tem za KsirK"
+
+#~ msgid "Skin Editor for the World Domination Strategy Game"
+#~ msgstr "Urejevalnik tem za strateško igro osvajanja ozemlja"
+
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "Čarovnik KDE Groupware"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "Igra s ploščicami Shisen-Sho, podobna Mahjonggu"
+
+#~ msgid "Desktop Search"
+#~ msgstr "Namizni iskalnik"
+
+#~ msgid "Nepomuk Search Client"
+#~ msgstr "Odjemalec za iskanje Nepomuk"
+
+#~ msgid "The simple Nepomuk Desktop Search Client"
+#~ msgstr "Preprost odjemalec za namizno iskanje Nepomuk"
+
+#~ msgid "A memory enhancement game"
+#~ msgstr "Igra za izboljšanje spomina"
+
+#~ msgid "Blinken"
+#~ msgstr "Blinken"
+
+#~ msgid "Memory Enhancement Game"
+#~ msgstr "Igra za izboljšanje spomina"
+
+#~ msgid "KSudoku"
+#~ msgstr "KSudoku"
+
+#~ msgid "KSudoku, Sudoku game & more for KDE"
+#~ msgstr "KSudoku, igra Sudoku in ostale za KDE"
+
+#~ msgid "Sudoku Game"
+#~ msgstr "Igra Sudokuja"
+
+#~ msgid "Graph Theory Tool for Professors and Students."
+#~ msgstr "Orodje za teorijo grafov za profesorje in študente."
+
+#~ msgid "Rocs"
+#~ msgstr "Rocs"
+
+#~ msgid "Rocs Graph Theory"
+#~ msgstr "Teorija grafov z Rocs"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "Vmesnik za GnuPG"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Šifrirno orodje"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "Orodje za spreminjanje velikosti in usmeritve zaslonov."
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Spreminjanje velikosti in obračanje zaslona"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "Mail Client"
+#~ msgstr "Poštni odjemalec"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Mahjongg Solitaire"
+#~ msgstr "Pasjansa Mahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "Konzola"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "Namizna igra Reversi"
+
+#~ msgid "Killbots"
+#~ msgstr "Killbots"
+
+#~ msgid "KMail view"
+#~ msgstr "KMailov prikaz"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Znanstveni kalkulator"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Vmesnik za diff/patch"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "Povečevalnik zaslona"
+
+#~ msgid "Countdown Launcher"
+#~ msgstr "Zaganjalec odštevanja"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "Manage your money"
+#~ msgstr "Upravljajte s svojim denarjem"
+
+#~ msgid "skrooge"
+#~ msgstr "Skrooge"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Čarovnik za omrežne mape"
+
+#~ msgid "UML Modeller"
+#~ msgstr "Mofdelirnik UML"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "Logična igra Blackbox"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "Nonlinear video editor for KDE"
+#~ msgstr "Nelinearni video urejevalnik za KDE"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "Logična igra podobna Sokobanu"
+
+#~ msgid "KPatience"
+#~ msgstr "KPatience"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Igra s kartami Patience"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "Osebni upravitelj informacij"
+
+#~ msgid "Desktop Globe"
+#~ msgstr "Namizni globus"
+
+#~ msgid "Marble"
+#~ msgstr "Marble"
+
+#~ msgid "Bovo"
+#~ msgstr "Bovo"
+
+#~ msgid "Five-in-a-row Board Game"
+#~ msgstr "NNamizna igra Pet v vrsto"
+
+#~ msgid "Annotate..."
+#~ msgstr "Označi ..."
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "Zaslonska živalca"
+
+#~ msgid "Parley"
+#~ msgstr "Parely"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Učitelj besednega zaklada"
+
+#~ msgid "Font Viewer"
+#~ msgstr "Pregledovalnik pisav"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Risanje funkcij"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPilot"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "Risanje matematičnih funkcij"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "Orodje za klicni priklop na internet"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "Združeno razvojno okolje"
+
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#~ msgid "Breakout-like Game"
+#~ msgstr "Igra podobna Breakoutu"
+
+#~ msgid "KBreakOut"
+#~ msgstr "KBreakOut"
+
+#~ msgid "System Information"
+#~ msgstr "Podatki o sistemu"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Namizni planetarij"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "CD Cover Printer"
+#~ msgstr "Tiskanje ovitkov za zgoščenke"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "Four-in-a-row Board Game"
+#~ msgstr "Namizna igra Štiri v vrsto"
+
+#~ msgid "KFourInLine"
+#~ msgstr "KFourInLine"
+
+#~ msgid "KNetWalk"
+#~ msgstr "KNetWalk"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "Paint Program"
+#~ msgstr "Slikarski program"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Razporejevalnik osebnih alarmov"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Orodje za upravljanje z denarnicami"
+
+#~ msgid "Eat pills escaping ghosts"
+#~ msgstr "Jejte tablete in pobegnite duhovom"
+
+#~ msgid "Kapman"
+#~ msgstr "Kapman"
+
+#~ msgid "Pac-Man Clone"
+#~ msgstr "Klon Pac-Mana"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "Igra podobna Tronu"
+
+#~ msgid "KDiskFree"
+#~ msgstr "Prosti disk"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Pokaže porabo diska"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "A BitTorrent program for KDE"
+#~ msgstr "BitTorrent program za KDE"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "Odjemalec za BitTorrent"
+
+#~ msgid "KTorrent"
+#~ msgstr "KTorrent"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "Vmesnik profilnika"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Vizualizacija podatkov profilnih zmogljivosti"
+
+#~ msgid "Download Manager"
+#~ msgstr "Upravitelj prenosov"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "A Geography Learning Program"
+#~ msgstr "Program za učenje geografije"
+
+#~ msgid "Geography Trainer"
+#~ msgstr "Učenje zemljepisa"
+
+#~ msgid "KGeography"
+#~ msgstr "KGeography"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Barvne črte"
+
+#~ msgid "Tactical Game"
+#~ msgstr "Taktična igra"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "Vaje z ulomki"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Vaje računanja z ulomki"
+
+#~ msgid "Computer-Aided Translation System"
+#~ msgstr "Sistem za računalniško podprto prevajanje"
+
+#~ msgid "Lokalize"
+#~ msgstr "Lokalize"
+
+#~ msgid "Info Center"
+#~ msgstr "Informacijsko središče"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgid "KTeaTime"
+#~ msgstr "KTeaTime"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Kuhalnik čaja"
+
+#~ msgid "Change Password"
+#~ msgstr "Spreminjanje gesla"
+
+#~ msgid "Connect the dots to create squares"
+#~ msgstr "Povežite pikice da ustvarite kvadrate"
+
+#~ msgid "KSquares"
+#~ msgstr "KSquares"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "KonsoleKalendar"
+
+#~ msgid "KsirK"
+#~ msgstr "KsirK"
+
+#~ msgid "World Domination Strategy Game"
+#~ msgstr "Strateška igra osvajanja ozemlja"
+
+#~ msgid "Cantor"
+#~ msgstr "Cantor"
+
+#~ msgid "Jigsaw puzzle game"
+#~ msgstr "Igra sestavljanke"
+
+#~ msgid "Palapeli"
+#~ msgstr "Palapeli"
+
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "Orodje za referenco/študij japonščine"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Orodje za referenco/študij japonščine"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Mešalnik zvoka"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "Upravljanje s hrošči v KDE"
+
+#~ msgid "Welcome"
+#~ msgstr "Dobrodošli"
+
+#~ msgid "Bookmark Editor"
+#~ msgstr "Urejevalnik zaznamkov"
+
+#~ msgid "Bookmark Organizer and Editor"
+#~ msgstr "Organizator in urejevalnik zaznamkov"
+
+#~ msgid "Configure Your Desktop"
+#~ msgstr "Nastavite svoje namizje"
+
+#~ msgid "KFileReplace"
+#~ msgstr "KFileReplace"
+
+#~ msgid "Search & Replace Tool"
+#~ msgstr "Orodje za iskanje in zamenjavo"
+
+#~ msgid "Akonadi Tray Utility"
+#~ msgstr "Akonadi orodje za sistemsko vrstico"
+
+#~ msgid "Akonaditray"
+#~ msgstr "Akonaditray"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Mini golf"
+
+#~ msgid "KWalletManager"
+#~ msgstr "KWalletManager"
+
+#~ msgid "Distributed IRC client with central core component"
+#~ msgstr "Porazdeljen odjemalec za IRC z osrednjim jedrom"
+
+#~ msgid "Quassel IRC"
+#~ msgstr "Quassel IRC"
+
+#~ msgid "A Subversion client for KDE"
+#~ msgstr "Odjemalec za KDE Subversion"
+
+#~ msgid "SVN client"
+#~ msgstr "Odjemalec za SVN"
+
+#~ msgid "kdesvn"
+#~ msgstr "kdesvn"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Pripomoček za izmenjevalne medije"
+
+#~ msgid "Ball Bouncing Game"
+#~ msgstr "Odbijajoča se žogica"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "Samodejni klik miške"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Za vas klika miško, da vam olajša bolečine v zapestju"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "Quassel IRC (Client only)"
+#~ msgstr "Quassel IRC (samo odjemalec)"
+
+#~ msgid "Sweeper"
+#~ msgstr "Pometač"
+
+#~ msgid "System Cleaner"
+#~ msgstr "Čistilec sistema"
+
+#~ msgid "Contains removed files"
+#~ msgstr "Vsebuje odstranjene datoteke"
+
+#~ msgid "Trash"
+#~ msgstr "Smeti"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "Igra, podobna Minesweeperju"
+
+#~ msgid "Board Game"
+#~ msgstr "Namizna igra"
+
+#~ msgid "SameGame"
+#~ msgstr "Igra istih"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Photo Management Program"
+#~ msgstr "Program za upravljanje fotografij"
+
+#~ msgid "digiKam"
+#~ msgstr "digiKam"
+
+#~ msgid "KPackageKit"
+#~ msgstr "KPackageKit"
+
+#~ msgid "PackageKit interface for KDE"
+#~ msgstr "Uporabniški vmesnik za PackageKit"
+
+#~ msgid "Software Management"
+#~ msgstr "Upravljanje programske opreme"
+
+#~ msgid "Nepomuk Ontology Importer"
+#~ msgstr "Uvoznik ontologij Nepomuk"
+
+#~ msgid "Ontology Import"
+#~ msgstr "Uvoz ontologij"
+
+#~ msgid "Simple Client to the Nepomuk Ontology Manager Service"
+#~ msgstr "Preprost odjemalec za storitev upravljalnika ontologij Nepomuk"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Napredni urejevalnik besedil"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Hex Editor"
+#~ msgstr "Urejevalnik binarnih datotek"
+
+#~ msgid "Okteta"
+#~ msgstr "Okteta"
+
+#~ msgid "DBPedia References"
+#~ msgstr "Reference DBPedia"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Bralnik novic"
+
+#~ msgid "Interactive Physical Simulator"
+#~ msgstr "Interaktivni fizikalni simulator"
+
+#~ msgid "Simulate physics experiments"
+#~ msgstr "Simulacija fizikalnih poskusov"
+
+#~ msgid "Step"
+#~ msgstr "Step"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Urejevalnik menujev"
+
+#~ msgid "KDE Bluetooth"
+#~ msgstr "KDE Bluetooth"
+
+#~ msgid "kbluetooth"
+#~ msgstr "kbluetooth"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Predvajalnik glasbe"
+
+#~ msgid "KTimeTracker"
+#~ msgstr "KTimeTracker"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Osebni merilec časa"
+
+#~ msgid "Akonadi Console"
+#~ msgstr "Konzola Akonadi"
+
+#~ msgid "Akonadi Management and Debugging Console"
+#~ msgstr "Konzola za upravljanje in razhroščevanje Akonadi"
+
+#~ msgid "KRDC"
+#~ msgstr "KRDC"
+
+#~ msgid "Remote Desktop Client"
+#~ msgstr "Odjemalec za oddaljeno namizje"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "Strežnik KDE LIRC"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "Strežnik KDE Linux za infrardeči daljninski upravljalnik"
+
+#~ msgid "KSystemLog"
+#~ msgstr "KSystemLog"
+
+#~ msgid "System log viewer tool"
+#~ msgstr "Orodje za pregledovanje sistemskih dnevnikov"
+
+#~ msgid "Educational Programming Environment"
+#~ msgstr "Okolje za učenje programiranja"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Poišči datoteke/mape"
+
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr "Orodje za ogled dnevnika KPPP"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "KPPP - Pregled dnevniških datotek "
+
+#~ msgid "A simple ball dodging game"
+#~ msgstr "Preprosta igra izmikanja kroglam"
+
+#~ msgid "Kollision"
+#~ msgstr "Kollision"
+
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "Raziščite geometrične konstrukcije"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Interaktivna geometrija"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Upravitelj datotek (skrbniški način)"
+
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "KDE igra vrstnega reda črk"
+
+#~ msgid "Kanagram"
+#~ msgstr "Kanagram"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Igra vrstnega reda črk"
+
+#~ msgid "KNotes"
+#~ msgstr "KNotice"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Prilepljajoče se notice"
+
+#~ msgid "KDE SVN Build"
+#~ msgstr "Gradnja KDE-ja iz SVN-ja"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Formatiranje disket"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Dragon Player"
+#~ msgstr "Predvajalnik Dragon"
+
+#~ msgid "Configure email accounts"
+#~ msgstr "Urejanje elektronskih računov"
+
+#~ msgid "Email Settings"
+#~ msgstr "Nastavitve elektronske pošte"
+
+#~ msgid "Acquire images from a scanner"
+#~ msgstr "Zajemite slike z optičnim čitalnikom"
+
+#~ msgid "About Mandriva"
+#~ msgstr "O Mandrivi"
+
+#~ msgid "More about Mandriva"
+#~ msgstr "Več o Mandrivi"
+
+#~ msgid "Anthy Dictionary editor"
+#~ msgstr "Urejevalnik slovarja za Anthy"
+
+#~ msgid "Edit Anthy dictionary."
+#~ msgstr "Uredite slovar za Anthy."
+
+#~ msgid "Management tool for a private dictionary of anthy"
+#~ msgstr "Orodje za upravljanje zasebnega slovarja anthy"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Ukazom določi tipkovne bližnjice"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Tipkovnične bližnjice"
+
+#~ msgid "Add urpmi media"
+#~ msgstr "Dodaj vir urpmi"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "DrakPXELinux"
+
+#~ msgid "Mandriva Linux Pxelinux configurator"
+#~ msgstr "Mandrivine nastavitve za PXELinux"
+
+#~ msgid "Network traffic analyzer (root user)"
+#~ msgstr "Analizator omrežnega prometa (uporabnik root)"
+
+#~ msgid "Wireshark (root user)"
+#~ msgstr "Wireshark (uporabnik root)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v italijanskem jeziku"
+
+#~ msgid "Howto Italian"
+#~ msgstr "Italijanski HOWTO"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v korejskem jeziku"
+
+#~ msgid "Howto Korean"
+#~ msgstr "Korejski HOWTO"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "Program za gledanje televizije"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "GNU Prolog is a free implementation of Prolog"
+#~ msgstr "GNU Prolog je prosta izvedba Prologa"
+
+#~ msgid "HP Device Manager"
+#~ msgstr "Upravljalnik naprav HP"
+
+#~ msgid "View device status, ink levels and perform maintenance."
+#~ msgstr "Pregled in vzdrževanje naprav ter stanje kartuš"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Visualization Data Explorer"
+#~ msgstr "Visualization Data Explorer"
+
+#~ msgid ""
+#~ "Create and edit presentations for slideshows, meeting and Web pages by "
+#~ "using Impress."
+#~ msgstr ""
+#~ "Z Impressom ustvarjajte in urejajte prosojnice za predstavitve in spletne "
+#~ "strani."
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Impress"
+
+#~ msgid "Qt interface designer"
+#~ msgstr "Snovalnik vmesnika za QT"
+
+#~ msgid "Create and edit scientific formulas and equations by using Math."
+#~ msgstr "Z Mathom ustvarjajte in urejajte znanstvene formule in enačbe."
+
+#~ msgid "Formula"
+#~ msgstr "Enačbe"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Math"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Nastavi nivo glasnosti"
+
+#~ msgid "PulseAudio Volume Control"
+#~ msgstr "Nadzor glasnosti za PulseAudio"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Basic volume controller"
+#~ msgstr "Osnovni nadzor glasnosti"
+
+#~ msgid "JRXvt (JIS)  "
+#~ msgstr "JRXvt (JIS)  "
+
+#~ msgid "Japanese rxvt terminal  "
+#~ msgstr "Konzola rxvt za japonščino"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Nastavi okolje zbirke podatkov"
+
+#~ msgid "Database Access Properties"
+#~ msgstr "Lastnosti dostopa do zbirk podatkov"
+
+#~ msgid "Linphone"
+#~ msgstr "Linphone"
+
+#~ msgid "Linphone is a web-phone"
+#~ msgstr "Programski telefon"
+
+#~ msgid "Enable/disable installed plugins"
+#~ msgstr "Vključi/izključi nameščene vključke"
+
+#~ msgid "Keyboard Indicator plugins"
+#~ msgstr "Vključek določila tipkovnice"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "Nadzorno orodje za Envy24 (ice 1712) zvočne kartice"
+
+#~ msgid "Envy24control"
+#~ msgstr "Envy24Control"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v japonskem jeziku"
+
+#~ msgid "Howto Japanese"
+#~ msgstr "Japonski HOWTO"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Večuporabniška 3D tankovska igra"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Change sound volume and sound events"
+#~ msgstr "Spremenite glasnost zvoka in povežite zvoke z dogodki"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in French"
+#~ msgstr "Mandrivina dokumentacija  za DrakXTools  v francoskem jeziku"
+
+#~ msgid "Choose how other users can remotely view your desktop"
+#~ msgstr ""
+#~ "Izberite, na kakšen način drugi uporabniki dostopajo do vašega namizja"
+
+#~ msgid "Remote Desktop"
+#~ msgstr "Oddaljeno namizje"
+
+#~ msgid "Screensaver"
+#~ msgstr "Ohranjevalnik zaslona"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Spreminjanje nastavitev GNOME"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "Preprosto vodenje osebnih financ za vsakogar"
+
+#~ msgid "HomeBank"
+#~ msgstr "HomeBank"
+
+#~ msgid "Open Folder"
+#~ msgstr "Odpri mapo"
+
+#~ msgid "Install selected software on the system"
+#~ msgstr "Namestitev izbrane programske opreme na sistem"
+
+#~ msgid "Package Installer"
+#~ msgstr "Namestilnik paketov"
+
+#~ msgid "An Applet for Quick Device Changing"
+#~ msgstr "Vstavek za hitro menjavanje naprav"
+
+#~ msgid "Device Chooser"
+#~ msgstr "Izbiralnik naprav"
+
+#~ msgid "PulseAudio Device Chooser"
+#~ msgstr "Izbirnik naprav PulseAudio"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "Večuporabniška igra puzel"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Test your logic skills in this number grid puzzle"
+#~ msgstr "Preverite svoje logične sposobnosti v tej miselni igri s števili"
+
+#~ msgid "Mandriva Linux Quick Startup Guide in Brazilian Portuguese"
+#~ msgstr "Mandrivin vodnik za začetnike v brazilski portugalščini"
+
+#~ msgid "Download and share files over BitTorrent"
+#~ msgstr "Snemanje in deljenje datotek preko BitTorrenta"
+
+#~ msgid "Transmission"
+#~ msgstr "Transmission"
+
+#~ msgid "Log File Viewer"
+#~ msgstr "Pregledovalnik datotek beleženja"
+
+#~ msgid "View or monitor system log files"
+#~ msgstr "Ogled ali nadzor sistemskih dnevniških datotek"
+
+#~ msgid "System Regional Settings"
+#~ msgstr "Sistemske področne nastavitve"
+
+#~ msgid "System wide language & country configurator"
+#~ msgstr "Nastavljanje sistemskih področnih nastavitev"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Omrežni posrednik"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "Nastavitve vašega posrednika omrežja"
+
+#~ msgid "Mail and News Client"
+#~ msgstr "Odjemalec za e-pošto in novice"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilla Thunderbird"
+
+#~ msgid "LXTerminal"
+#~ msgstr "LXTerminal"
+
+#~ msgid "Use the command line"
+#~ msgstr "Uporabi ukazno vrstico"
+
+#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Hider"
+#~ msgstr "Pregled kartuš za Lexmark Lexmark 5xxx, 7xxx and 11xx "
+
+#~ msgid "Lexmark hidecartridges"
+#~ msgstr "Lexmark hidecartridges"
+
+#~ msgid "Choose what applications to start when you log in"
+#~ msgstr "Izbor programov za samodejni zagon ob prijavi"
+
+#~ msgid "Startup Applications"
+#~ msgstr "Zagonski programi"
+
+#~ msgid "A manual browser for Qt4 documentation"
+#~ msgstr "Brskalnik priročnika za Qt4 dokumentacijo"
+
+#~ msgid "Qt4 Assistant"
+#~ msgstr "Pomočnik za Qt4"
+
+#~ msgid "Preview fonts"
+#~ msgstr "Predogled pisav"
+
+#~ msgid "Electrical engineering tool"
+#~ msgstr "Orodje za sestavo električnih vezij"
+
+#~ msgid "Oregano electrical engineering tool"
+#~ msgstr "Orodje za izdelavo električnih vezij Oregano"
+
+#~ msgid "Schematic capture and simulation of electronic circuits"
+#~ msgstr "Shematično povzemanje in simulacija elektronskih vezij"
+
+#~ msgid "Clear hidden mines from a minefield"
+#~ msgstr "Očistite minsko polje skritih min"
+
+#~ msgid "Assembly Comparison Tool"
+#~ msgstr "Orodje za primerjanje zbirk"
+
+#~ msgid "Identify differences in the API exposed by mono library assemblies."
+#~ msgstr "Identifikacija razlik v API-ju razkritem v zbirkah knjižnic Mono."
+
+#~ msgid "Mono IL Contrast"
+#~ msgstr "Mono IL Contrast"
+
+#~ msgid "Codeina"
+#~ msgstr "Codeina"
+
+#~ msgid "Gstreamer Codec Installer"
+#~ msgstr "Namestilnik kodekov za GStreamer"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Posnami zvočne vzorce"
+
+#~ msgid "Gnome Audio CD editor and burner"
+#~ msgstr "Urejevalnik in zapisovalnik glasbenih CD-jev"
+
+#~ msgid "Gnome CD Master"
+#~ msgstr "Urejevalnik CD-jev"
+
+#~ msgid "Set your window properties"
+#~ msgstr "Nastavite lastnosti oken"
+
+#~ msgid "Windows"
+#~ msgstr "Okna"
+
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
+
+#~ msgid "HDSPConf"
+#~ msgstr "HDSPConf"
+
+#~ msgid "Hammerfall DSP control application"
+#~ msgstr "Nadzorni program za Hammerfall DSP"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Frozen Bubble arkadna igrica"
+
+#~ msgid "Configure power management"
+#~ msgstr "Nastavi upravitelja porabe"
+
+#~ msgid "Power Management"
+#~ msgstr "Upravitelj porabe"
+
+#~ msgid "AisleRiot Solitaire"
+#~ msgstr "Pasjansa AisleRiot"
+
+#~ msgid "Play many different solitaire games"
+#~ msgstr "Igrajte več različnih iger pasjanse"
+
+#~ msgid "Notepad"
+#~ msgstr "Beležnica"
+
+#~ msgid "XRC resource editor for wxPython"
+#~ msgstr "Urejevalnik sredstev XRC za wxPython"
+
+#~ msgid "XRCed"
+#~ msgstr "XRCed"
+
+#~ msgid "DjView3"
+#~ msgstr "DjView3"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "Pregledovalnik datotek DjVu"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Dodajte ali odstranite uporabnike ter skupine"
+
+#~ msgid "User Administration"
+#~ msgstr "Upravljanje uporabnikov"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Brskanje po spletu"
+
+#~ msgid "Firefox Web Browser"
+#~ msgstr "Spletni brskalnik Firefox"
+
+#~ msgid "A translation tool for Qt4"
+#~ msgstr "Prevajalno orodje za Qt4"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Jezikoslovec Qt"
+
+#~ msgid "KRXvt (KSC5601)  "
+#~ msgstr "KRXvt (KSC5601)  "
+
+#~ msgid "Korean rxvt terminal  "
+#~ msgstr "Konzola rxvt za korejščino"
+
+#~ msgid "Note-taker"
+#~ msgstr "Zapisovalnik"
+
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr "Zapiši si opombe, povezave, ideje in ostani organiziran."
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Zapiski Tomboy"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Upravljalnik arhivov"
+
+#~ msgid "Create and modify an archive"
+#~ msgstr "Ustvari in spremeni arhiv"
+
+#~ msgid "Cancel, pause, resume or reprint jobs"
+#~ msgstr "Preklicevanje, premor, nadaljevanje in ponovno tiskanje"
+
+#~ msgid "Manage Print Jobs"
+#~ msgstr "Upravljanje s tiskalnimi opravili"
+
+#~ msgid "Create and edit Web pages by using Writer."
+#~ msgstr "Ustvarjajte in urejajte spletnih strani z Writerjem."
+
+#~ msgid "OpenOffice.org Writer/Web"
+#~ msgstr "OpenOffice.org Writer/Splet"
+
+#~ msgid "Web Page Creation"
+#~ msgstr "Ustvarjanje spletne strani"
+
+#~ msgid "Configure Desktop Search"
+#~ msgstr "Nastavite namizni iskalnik"
+
+#~ msgid "Search & Indexing"
+#~ msgstr "Iskanje in indeksiranje"
+
+#~ msgid "Find files, folders, and documents on your computer"
+#~ msgstr "Najdi datoteke, mape in dokumente na računalniku"
+
+#~ msgid "About GNOME"
+#~ msgstr "O GNOME"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Več o GNOME"
+
+#~ msgid "A QT application to configure Synaptics TouchPad"
+#~ msgstr "QT program za nastavljanje sledilne ploščice Synaptic"
+
+#~ msgid "Qsynaptics"
+#~ msgstr "Qsynaptics"
+
+#~ msgid "Manage running processes"
+#~ msgstr "Upravljajte z zagnanimi procesi"
+
+#~ msgid "Process manager"
+#~ msgstr "Upravljalnik procesov"
+
+#~ msgid "Task Manager"
+#~ msgstr "Upravljalnik opravil"
+
+#~ msgid "ImageMagick"
+#~ msgstr "ImageMagick"
+
+#~ msgid "Views Graphics files"
+#~ msgstr "Pregledujte grafične datoteke"
+
+#~ msgid "The free open source 3D content creation suite"
+#~ msgstr "Program za ustvarjanje 3D vsebin"
+
+#~ msgid "Calculation, Analysis, and Visualization of Information"
+#~ msgstr "Izračun, analiza in prikaz informacij"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "FLTK Photo Software"
+#~ msgstr "Program za delo s fotografijami"
+
+#~ msgid "flPhoto"
+#~ msgstr "flPhoto"
+
+#~ msgid "Command Line"
+#~ msgstr "Ukazna vrstica"
+
+#~ msgid "Keyboard"
+#~ msgstr "Tipkovnica"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Nastavitve tipkovnice"
+
+#~ msgid "XGPS"
+#~ msgstr "XGPS"
+
+#~ msgid "Disassemble a pile of tiles by removing matching pairs"
+#~ msgstr "Razstavljanje kupa ploščic z odstranjevanjem parov"
+
+#~ msgid "Mahjongg"
+#~ msgstr "Mahjongg"
+
+#~ msgid "Graphical interface to CVS and SVN"
+#~ msgstr "CVS in SVN grafični vmesnik"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid "Avahi Zeroconf Browser"
+#~ msgstr "Brskalnik za Zeroconf"
+
+#~ msgid "Browse for Zeroconf services available on your network"
+#~ msgstr "Brskajte po storitvah Zeroconf, ki so na voljo na omrežju"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v madžarskem jeziku"
+
+#~ msgid "Howto Hungarian"
+#~ msgstr "Madžarski HOWTO"
+
+#~ msgid "GUI Python Shell with Filling and Editor Windows"
+#~ msgstr "Grafični vmesnik Python Shell s Filling and Editor Windows"
+
+#~ msgid "PyAlaMode"
+#~ msgstr "PyAlaMode"
+
+#~ msgid "Mouse"
+#~ msgstr "Miška"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Nastavi lastnosti miške"
+
+#~ msgid "Cheese"
+#~ msgstr "Cheese"
+
+#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
+#~ msgstr ""
+#~ "Zajem slik in posnetkov s spletno kamero ter veliko grafičnimi učinki"
+
+#~ msgid "Setup utility for gcin input method"
+#~ msgstr "Nastavitveno orodje za vnosni način gcin"
+
+#~ msgid "gcin Setup"
+#~ msgstr "Nastavitev gcin"
+
+#~ msgid "Avahi SSH Server Browser"
+#~ msgstr "Brskalnik po strežnikih SSH"
+
+#~ msgid "Browse for Zeroconf-enabled SSH Servers"
+#~ msgstr "Brskanje po strežnikih SSH, ki podpirajo Zeroconf"
+
+#~ msgid "Dominate the board in a classic version of Reversi"
+#~ msgstr "Dominirajte na igralni plošči v klasični igri Reversi"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Install your Mandriva live system to disk"
+#~ msgstr "Namestitev sistema Mandriva na trdi disk"
+
+#~ msgid "Live Install"
+#~ msgstr "Namestitev"
+
+#~ msgid "GNOME MDB Viewer"
+#~ msgstr "Prikazovalnik MDB za GNOME"
+
+#~ msgid "Gmdb"
+#~ msgstr "Gmdb"
+
+#~ msgid "Add or remove software installed on the system"
+#~ msgstr "Nameščanje in odstranjevanje programske opreme sistema"
+
+#~ msgid "Add/Remove Software"
+#~ msgstr "Upravljanje programske opreme"
+
+#~ msgid "Software Update"
+#~ msgstr "Posodobitev programske opreme"
+
+#~ msgid "Update software installed on the system"
+#~ msgstr "Posodobitev programske opreme nameščene na sistemu"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "Grafični vmesnik za nameščanje RPM datotek"
+
+#~ msgid "Software Installer"
+#~ msgstr "Program za nameščanje "
+
+#~ msgid "A ball-and-paddle game with nice graphics."
+#~ msgstr "Igra z loparjem in žogice ter lepo grafiko."
+
+#~ msgid "LBreakout2"
+#~ msgstr "LBreakout2"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "ChBg - Nastavitve ozadja namizja in ohranjevalnika zaslona"
+
+#~ msgid "Mandriva Linux Quick Startup Guide in French"
+#~ msgstr "Mandrivin vodnik za začetnike v francoskem jeziku"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr "Ponovna izvedba stare igre znane kot Tower Toppler oz. Nebolous"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "Observe power management"
+#~ msgstr "Spremljanje porabe energije"
+
+#~ msgid "Power Statistics"
+#~ msgstr "Statistika porabe"
+
+#~ msgid ""
+#~ "Create and edit text and graphics in letters, reports, documents and Web "
+#~ "pages by using Writer."
+#~ msgstr ""
+#~ "Z Writerjem ustvarjajte in urejajte besedilo in slike v pismih, "
+#~ "poročilih, dokumentih in spletnih straneh."
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Writer"
+
+#~ msgid "Four-in-a-Row"
+#~ msgstr "Štiri v vrsto"
+
+#~ msgid "Make lines of the same color to win"
+#~ msgstr "Tvorite linije ene barve in zmagajte"
+
+#~ msgid "Database"
+#~ msgstr "Podatkovna zbirka"
+
+#~ msgid ""
+#~ "Manage databases, create queries and reports to track and manage your "
+#~ "information by using Base."
+#~ msgstr ""
+#~ "Z Base upravljajte s podatkovnimi zbirkami, ustvarjajte povpraševanja in "
+#~ "poročila za sledenje in upravljanje s podatki."
+
+#~ msgid "OpenOffice.org Base"
+#~ msgstr "OpenOffice.org Base"
+
+#~ msgid "Project Hamster - track your time"
+#~ msgstr "Projekt Hamster - sledenje času"
+
+#~ msgid "Time Tracker"
+#~ msgstr "Sledenje času"
+
+#~ msgid "Dasher"
+#~ msgstr "Dasher"
+
+#~ msgid "Enter text without a keyboard"
+#~ msgstr "Vnos besedila brez tipkovnice"
+
+#~ msgid "Predictive text entry"
+#~ msgstr "Vnos besedila brez tipkovnice"
+
+#~ msgid "Lexmark printer manager"
+#~ msgstr "Upravljalnik za tiskalnike Lexmark"
+
+#~ msgid "Status, alignment, cartridge maintenance"
+#~ msgstr "Poravnava, stanje in vzdrževanje kartuš"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Strežnik Freeciv"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Profesionalni sistem CAD"
+
+#~ msgid "Qcad"
+#~ msgstr "Qcad"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "Nastavitveno orodje GNOME-a."
+
+#~ msgid "Pan Newsreader"
+#~ msgstr "Bralnik novic Pan"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Branje Usenet novic"
+
+#~ msgid "Perform arithmetic, scientific or financial calculations"
+#~ msgstr "Opravljajte aritmetične, znanstvene in finančne izračune"
+
+#~ msgid "Change the behaviour and appearance of file manager windows"
+#~ msgstr "Spremeni obnašanje in videz okna urejevalnika."
+
+#~ msgid "File Management"
+#~ msgstr "Upravljanje datotek"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "Standardna kozola za X okna"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "Vmesnik za nmap \"port scanner\""
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "Atomix-like enhanced puzzle game."
+#~ msgstr "Napredna miselna igra podobna Atomix-u."
+
+#~ msgid "LMarbles"
+#~ msgstr "LMarbles"
+
+#~ msgid "Qt Assistant - 3"
+#~ msgstr "Qt Assistant - 3"
+
+#~ msgid "Tool for translating message catalogues of Qt based programs"
+#~ msgstr ""
+#~ "Orodje za prevajanje sporočilnih katalogov programov temelječih na Qt"
+
+#~ msgid "ODBC Configuration Tool"
+#~ msgstr "Nastavitve CDDB"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBC nastavitve"
+
+#~ msgid "Planner Project Management"
+#~ msgstr "Vodenje projektov"
+
+#~ msgid "Ekiga Softphone"
+#~ msgstr "Programski telefon Ekiga"
+
+#~ msgid "IP Telephony, VoIP and Video Conferencing"
+#~ msgstr "IP-telefonija, VoIP in videokonference"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Pogovor z ljudmi prek interneta"
+
+#~ msgid "CPU load indicator"
+#~ msgstr "Indikator obremenitve procesorja"
+
+#~ msgid "XCpuState"
+#~ msgstr "XCpuState"
+
+#~ msgid "Gendarme"
+#~ msgstr "Gendarme"
+
+#~ msgid "Gendarme Wizard"
+#~ msgstr "Čarovnik Gendarme"
+
+#~ msgid "A WindowMaker dock network monitor"
+#~ msgstr "Nadzornik omrežja za WindowMaker"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "Google Gadget Designer"
+#~ msgstr "Snovalnik za Google Gadgets"
+
+#~ msgid "Desktop organizer application for the Palm PDAs"
+#~ msgstr "Namizno orodje za urejanje Palm PDAjev"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Blender (FullScreen)"
+#~ msgstr "Blender (celozaslonski način)"
+
+#~ msgid "Mandriva Linux packages stats"
+#~ msgstr "Pregled paketov Mandriva Linux"
+
+#~ msgid "Packages Stats"
+#~ msgstr "Pregled paketov"
+
+#~ msgid "Configure your database access environment"
+#~ msgstr "Nastavitev okoljskih značilnosti dostopa do podatkovne zbirke."
+
+#~ msgid "Database access control center"
+#~ msgstr "Nadzorno središče za dostop do podatkovne zbirke"
+
+#~ msgid "Mandriva Linux DrakXTools User Manual in English"
+#~ msgstr "Mandrivina dokumentacija  za DrakXTools  v angleškem jeziku"
+
+#~ msgid ""
+#~ "A version of the rxvt terminal with support for Traditional Chinese, "
+#~ "Simplified Chinese, Japanese and Korean."
+#~ msgstr ""
+#~ "Različica konzole rxvt s podporo za tradicionalno kitajščino, "
+#~ "poenostavljeno kitajščino, japonščino in korejščino."
+
+#~ msgid "RXvt"
+#~ msgstr "RXvt"
+
+#~ msgid "Edit text files"
+#~ msgstr "Urejanje datotek z besedili"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "Pojavna obvestila"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "Prilagodite nastavitve pojavnih obvestil"
+
+#~ msgid "Wine Windows Program Loader"
+#~ msgstr "Nalagalnik windows programov Wine"
+
+#~ msgid "Configure file indexing with Tracker"
+#~ msgstr "Nastavitev priprave kazala datotek"
+
+#~ msgid "Search and Indexing"
+#~ msgstr "Iskanje in priprava kazala"
+
+#~ msgid "Change software update preferences"
+#~ msgstr "Spreminjanje možnosti posodabljanja programske opreme"
+
+#~ msgid "Software Updates"
+#~ msgstr "Programske posodobitve"
+
+#~ msgid "Bonobo Component Browser"
+#~ msgstr "Brskalnik komponent Bonobo"
+
+#~ msgid "Shows available Bonobo components"
+#~ msgstr "Prikaže komponente Bonobo, ki so na voljo"
+
+#~ msgid "An easy to use text editor, supporting syntax highlight and UTF-8"
+#~ msgstr ""
+#~ "Urejevalnik besedila, ki je preprost za uporabo in podpira poudarjanje "
+#~ "sintakse in UTF-8"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Groupware Suite"
+#~ msgstr "Zbirka za skupinsko delo"
+
+#~ msgid "Manage your email, contacts and schedule"
+#~ msgstr "Upravljajte s pošto, stiki in nalogami"
+
+#~ msgid "Language & country configuration"
+#~ msgstr "Nastavitev jezika in države"
+
+#~ msgid "Regional Settings"
+#~ msgstr "Področne nastavitve"
+
+#~ msgid "OProfile starter"
+#~ msgstr "Zaganjalnik OProfile"
+
+#~ msgid "Start OProfile profiler"
+#~ msgstr "Zagon ustvarjalnika profilov OProfile"
+
+#~ msgid "Page Layout"
+#~ msgstr "Namizno založništvo"
+
+#~ msgid "Page Layout and Publication"
+#~ msgstr "Namizno založništvo"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v nemškem jeziku"
+
+#~ msgid "Howtos German"
+#~ msgstr "Nemški HOWTO-ji"
+
+#~ msgid "Network Center"
+#~ msgstr "Omrežno središče"
+
+#~ msgid "IcedTea Java Web Start"
+#~ msgstr "IcedTea Java Web Start"
+
+#~ msgid "Launch Java Web Start applications"
+#~ msgstr "Poganjanje programov Java Web Start"
+
+#~ msgid "Network traffic analyzer"
+#~ msgstr "Analizator omrežnega prometa"
+
+#~ msgid "Wireshark"
+#~ msgstr "Wireshark"
+
+#~ msgid ""
+#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
+#~ msgstr ""
+#~ "Klepetajte s svetom. Podpira AIM, Google Talk, Jabber/XMPP, MSN, Yahoo in "
+#~ "druge."
+
+#~ msgid "Internet Messenger"
+#~ msgstr "Spletni sel"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Spletni sel Pidgin"
+
+#~ msgid "A set of Solitaire type games for the X Window System"
+#~ msgstr "Zbirka pasjans za okenski sistem X"
+
+#~ msgid "xpat2"
+#~ msgstr "xpat2"
+
+#~ msgid "PulseAudio Preferences"
+#~ msgstr "Nastavitve PulseAudio"
+
+#~ msgid "Sound Server Preferences"
+#~ msgstr "Nastavitve zvočnega strežnika"
+
+#~ msgid "View and modify the configuration of the local sound server"
+#~ msgstr "Pregled in urejanje nastavitev lokalnega zvočnega strežnika"
+
+#~ msgid "System information"
+#~ msgstr "Informacije o sistemu"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Powerful and easy to use calculator"
+#~ msgstr "Preprost in zmogljiv namizni kalkulator"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v romunskem jeziku"
+
+#~ msgid "Howto Romanian"
+#~ msgstr "Romunski HOWTO"
+
+#~ msgid ""
+#~ "Locate documents and folders on this computer by name or content using "
+#~ "Tracker"
+#~ msgstr ""
+#~ "Poiščite dokumente in mape na računalniku po imenu ali vsebini z uporabo "
+#~ "Trackerja"
+
+#~ msgid "Tracker Search Tool"
+#~ msgstr "Iskalno orodje Tracker"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "Osrednji program za nastavitve in informacije o strojni opremi"
+
+#~ msgid "Hardware Configuration Tool"
+#~ msgstr "Orodje za nastavitev strojne opreme"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v poljskem jeziku"
+
+#~ msgid "Howto Polish"
+#~ msgstr "Poljski HOWTO"
+
+#~ msgid "Change screensaver properties"
+#~ msgstr "Nastavljanje ohranjevalnika zaslona"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "Vmesnik za enostavno tiskanje z CUPS-om"
+
+#~ msgid "X Printing Panel"
+#~ msgstr "X Printing Panel"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "RapidSVN SvnCpp C++ API development libraries"
+#~ msgstr "RapidSVN SvnCpp C++ API razvijalske knjižnice"
+
+#~ msgid "HP Sendfax"
+#~ msgstr "HP Sendfax"
+
+#~ msgid "Utility for sending faxes with HP's multi-function devices"
+#~ msgstr "Program za pošiljanje faksov z večnamensko napravo HP"
+
+#~ msgid "GNOME Pilot Install Databases"
+#~ msgstr "Nameščanje podatkovnih zbirk Pilot za GNOME"
+
+#~ msgid "Install Databases on your Palm Pilot"
+#~ msgstr "Nameščanje podatkovnih zbirk na Palm Pilot"
+
+#~ msgid "Play and organize your music collection"
+#~ msgstr "Predvajanje in upravljanje glasbe"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Viewer for TeX DVI files"
+#~ msgstr "Prikazovalnik datotek TeX DVI"
+
+#~ msgid "XDVI"
+#~ msgstr "XDVI"
+
+#~ msgid "View and organize your images"
+#~ msgstr "Preglej in si organiziraj svoje slike"
+
+#~ msgid "Font Editor for PostScript, TrueType, OpenType and various fonts"
+#~ msgstr "Urejevalnik pisav PostScript, TrueType, OpenType in ostalih"
+
+#~ msgid "FontForge"
+#~ msgstr "FontForge"
+
+#~ msgid "Registry Editor"
+#~ msgstr "Urejevalnik registra"
+
+#~ msgid "Viewer for Postscript and PDF files"
+#~ msgstr "Prikazovalnik datotek PostScript, PDF in DVI"
+
+#~ msgid "gv"
+#~ msgstr "gv"
+
+#~ msgid "CUPS Web Interface"
+#~ msgstr "Spletni vmesnik za tiskalniški sistem CUPS"
+
+#~ msgid "Manage Printing"
+#~ msgstr "Upravljajte s tiskanjem"
+
+#~ msgid "MPlayer Media Player"
+#~ msgstr "Predvajalnik MPlayer"
+
+#~ msgid "Orca"
+#~ msgstr "Orka"
+
+#~ msgid ""
+#~ "Present on-screen information as speech or braille, or magnify the screen"
+#~ msgstr ""
+#~ "Vsebino zaslona prikaže v Braillovi pisavi ali jo prebere in povečuje "
+#~ "zaslon"
+
+#~ msgid "Screen Reader and Magnifier"
+#~ msgstr "Bralnik zaslona in povečevalo"
+
+#~ msgid "Access digital cameras (via GPhoto2)"
+#~ msgstr "Dostop do digitalnih fotoaparatov (z GPhoto2)"
+
+#~ msgid "GTKam"
+#~ msgstr "GTKam"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v angleškem jeziku"
+
+#~ msgid "Howto English"
+#~ msgstr "Angleški HOWTO"
+
+#~ msgid "Ffado Mixer"
+#~ msgstr "Mešalnik zvoka Ffado"
+
+#~ msgid "Mixer for Firewire Audio Devices"
+#~ msgstr "Mešalnik za zvočne naprave Firewire"
+
+#~ msgid "SCIM Input Method Setup"
+#~ msgstr "Nastavitev vhodne metode SCIM"
+
+#~ msgid "Setup utility for Smart Common Input Method platform"
+#~ msgstr "Nastavitveno orodje platforme Smart Common Input Method"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Urejevalnik besedila za vse namene"
+
+#~ msgid "VI editor"
+#~ msgstr "Urejevalnik VI"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v grškem jeziku"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Grški HOWTO-ji"
+
+#~ msgid "FreeCell Solitaire"
+#~ msgstr "Pasjansa Freecell"
+
+#~ msgid "Play the popular FreeCell card game"
+#~ msgstr "Igrajte priljubljeno igro s kartami FreeCell"
+
+#~ msgid "Window Manager"
+#~ msgstr "Upravljalnik oken"
+
+#~ msgid "A utility to read and manipulate raw images from digital cameras"
+#~ msgstr "Orodje za branje in urejanje slik RAW z digitalnih fotoaparatov"
+
+#~ msgid "Raw image converter"
+#~ msgstr "Pretvornik slik RAW"
+
+#~ msgid "UFRaw"
+#~ msgstr "UFRaw"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v indonezijskem jeziku"
+
+#~ msgid "Howto Indonesian"
+#~ msgstr "Indonezijski HOWTO"
+
+#~ msgid "Gnuplot"
+#~ msgstr "Gnuplot"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Znani program za risanje funkcij"
+
+#~ msgid "Configuration Editor"
+#~ msgstr "Urejevalnik nastavitev"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Neposredno urejaj celotno zbirko podatkov nastavitev"
+
+#~ msgid "Create and edit Scalable Vector Graphics images"
+#~ msgstr "Ustvarjajte in urejajte vektorske slike SVG"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid "Belgian eID card viewer"
+#~ msgstr "Belgijski pregledovalnik kartic eID"
+
+#~ msgid "Display and administer your eID card"
+#~ msgstr "Prikaz in urejanje vaše kartice eID"
+
+#~ msgid "beidgui"
+#~ msgstr "beidgui"
+
+#~ msgid "Customize uim input method environment"
+#~ msgstr "Urejanje vnosnega okolja uim"
+
+#~ msgid "Input Method"
+#~ msgstr "Način vnašanja"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v kitajskem jeziku"
+
+#~ msgid "Howto Chinese"
+#~ msgstr "Kitajski HOWTO"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "Autorun pozivni ukaz"
+
+#~ msgid "Tightvnc"
+#~ msgstr "Tightvnc"
+
+#~ msgid "Create images and edit photographs"
+#~ msgstr "Ustvarjajte slike in urejajte fotografije"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "Urejevalnik slik"
+
+#~ msgid "Qt Assistant 3"
+#~ msgstr "Qt Assistant 3"
+
+#~ msgid "Tool for online help doc"
+#~ msgstr "Orodje za ogled pomoči"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Še ena 3d igra s potujočim svetlobnim žarkom"
+
+#~ msgid "Armagetron Advanced"
+#~ msgstr "Napredni ArmageTron"
+
+#~ msgid "Vector Graphics Drawing Tool"
+#~ msgstr "Risalno orodje za vektorsko grafiko"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Orodje za poročanje o hroščih"
+
+#~ msgid "Report a bug in GNOME-based applications"
+#~ msgstr "Poročaj o hrošču v programih, ki temeljijo na GNOME"
+
+#~ msgid "Breakout-style arcade game"
+#~ msgstr "Arkadna igra podobna Breakoutu"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "Manage your mobile phone"
+#~ msgstr "Upravljanje mobilnega telefona"
+
+#~ msgid "Mobile Phone Suite"
+#~ msgstr "Orodja za mobilne telefone"
+
+#~ msgid "Xgnokii"
+#~ msgstr "Xgnokii"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Igra podobna Boulderdashu"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Skale in diamanti"
+
+#~ msgid "Lights Off"
+#~ msgstr "Ugasni luči"
+
+#~ msgid "Turn off all the lights"
+#~ msgstr "Ugasni vse luči"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v finskem jeziku"
+
+#~ msgid "Howto Finnish"
+#~ msgstr "Finski HOWTO"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr "HOWTO dokumetni (html format) od LDP v švedskem jeziku"
+
+#~ msgid "Howto Swedish"
+#~ msgstr "Švedski HOWTO"
+
+#~ msgid "Import into F-Spot"
+#~ msgstr "Uvažanje v F-Spot"
+
+#~ msgid "Coherence"
+#~ msgstr "Coherence"
+
+#~ msgid "DLNA/UPnP MediaServer/MediaRenderer"
+#~ msgstr "DLNA/UPnP Večpredstavnostni strežnik/izrisovalnik"
+
+#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
+#~ msgstr "Z Drawom ustvarjajte in urejajte slike, diagrame in logotipe."
+
+#~ msgid "Drawing"
+#~ msgstr "Risanje"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Draw"
+
+#~ msgid "Guide a worm around a maze"
+#~ msgstr "Vodite črva po blodnjaku"
+
+#~ msgid "Nibbles"
+#~ msgstr "Nibbles"
+
+#~ msgid "A graphical front end for installing, removing and updating packages"
+#~ msgstr ""
+#~ "Grafični vmesnik za nameščanje, odstranjevanje in posodabljanje "
+#~ "programskih paketov"
+
+#~ msgid "Install & Remove Software"
+#~ msgstr "Namesti in odstrani programsko opremo"
+
+#~ msgid "Kill a client by its X resource"
+#~ msgstr "Poboj odjemalca prek njegovega X vira"
+
+#~ msgid "XKill"
+#~ msgstr "XKill"
+
+#~ msgid "High quality video deinterlacer"
+#~ msgstr "Odpletovalnik visoko kakovostnega videa"
+
+#~ msgid "TVtime Television Viewer"
+#~ msgstr "Ogledovalnik televizije TVtime"
+
+#~ msgid "Television Viewer"
+#~ msgstr "Prikazovalnik TV"
+
+#~ msgid "Upgrade to Powerpack"
+#~ msgstr "Nadgradite na PowerPack"
+
+#~ msgid "Join Mandriva Community"
+#~ msgstr "Pridružite se skupnosti Mandriva"
+
+#~ msgid "Install on Hard Disk"
+#~ msgstr "Namesti na trdi disk"
+
+#~ msgid "Vuze"
+#~ msgstr "Vuze"
+
+#~ msgid "E-book reader"
+#~ msgstr "Bralnik e-knjig"
+
+#~ msgid "FreeGo"
+#~ msgstr "FreeGo"
+
+#~ msgid "GNUSim8085"
+#~ msgstr "GNUSim8085"
+
+#~ msgid "Intel 8085 microprocessor simulator"
+#~ msgstr "Simulator mikroprocesorja Intel 8085"
+
+#~ msgid "GnomeICU ICQ Instant Messenger"
+#~ msgstr "Takojšnji sporočilnik za ICQ"
+
+#~ msgid "LiVES "
+#~ msgstr "LiVES "
+
+#~ msgid "Video Editor/VJ tool"
+#~ msgstr "Urejevalnik videa/orodje za VJ-je"
+
+#~ msgid "Fluxstyle"
+#~ msgstr "Fluxstyle"
+
+#~ msgid "Graphical style manager for fluxbox"
+#~ msgstr "Grafični upravljalnik slogov za Fluxbox"
+
+#~ msgid "Game"
+#~ msgstr "Game"
+
+#~ msgid "PlayOnLinux"
+#~ msgstr "PlayOnLinux"
+
+#~ msgid "Edit your source files"
+#~ msgstr "Urejajte datoteke z izvorno kodo"
+
+#~ msgid "SciTE Text Editor"
+#~ msgstr "Urejevalnik besedila SciTE"
+
+#~ msgid "Terminal Emulator"
+#~ msgstr "Terminalski emulator"
+
+#~ msgid "Bulk Rename"
+#~ msgstr "Preimenuj paketno"
+
+#~ msgid "Rename Multiple Files"
+#~ msgstr "Preimenujte več datotek hkrati"
+
+#~ msgid "Open Folder with Thunar"
+#~ msgstr "Odpri mapo v Thunarju"
+
+#~ msgid "Open the specified folders in Thunar"
+#~ msgstr "Odprite izbrane mape v Thunarju"
+
+#~ msgid "Browse the filesystem with the file manager"
+#~ msgstr "Brskajte po datotečnem sistemu z upravljalnikom datotek"
+
+#~ msgid "Thunar File Manager"
+#~ msgstr "Upravljalnik datotek Thunar"
+
+#~ msgid "Copy websites to your computer"
+#~ msgstr "Skopirajte spletne strani na računalnik"
+
+#~ msgid "HTTrack Website Copier"
+#~ msgstr "Kopirnik spletnih strani HTTrack"
+
+#~ msgid "Differences tool"
+#~ msgstr "Orodje za prikaz razlik"
+
+#~ msgid "File difference and patch visualiser"
+#~ msgstr "Prikazovalnik razlik med datotekami in popravkov"
+
+#~ msgid "Xffm Patch manager"
+#~ msgstr "Upravljalnik popravkov Xffm"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "Compose, edit, and view documents"
+#~ msgstr "Sestavljajte, urejajte in prikazujte dokumente"
+
+#~ msgid "Accerciser"
+#~ msgstr "Accerciser"
+
+#~ msgid "Give your application an accessibility workout"
+#~ msgstr "Programu omogočite vaje dostopnosti"
+
+#~ msgid "Agave"
+#~ msgstr "Agave"
+
+#~ msgid "Generate color schemes"
+#~ msgstr "Ustvarite barvne sheme"
+
+#~ msgid "Alexandria Book Collection Manager"
+#~ msgstr "Upravljalnik zbirke knjig Alexandria"
+
+#~ msgid "Book Collection Manager"
+#~ msgstr "Upravljalnik zbirke knjig"
+
+#~ msgid "Manage your book collection"
+#~ msgstr "Upravljajte svojo zbirko knjig"
+
+#~ msgid "AllTray"
+#~ msgstr "AllTray"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Develop software in an integrated development environment"
+#~ msgstr "Programska oprema v združenem razvojnem okolju"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "Simple backup system"
+#~ msgstr "Enostaven sistem ustvarjanja varnostnih kopij"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "E-Mail utility"
+#~ msgstr "E-poštni program"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "Bibus"
+#~ msgstr "Bibus"
+
+#~ msgid "BillReminder"
+#~ msgstr "BillReminder"
+
+#~ msgid "Bills manager"
+#~ msgstr "Upravitelj računov"
+
+#~ msgid "Never forget to pay a bill again!"
+#~ msgstr "Nikoli več ne pozabi plačati računa!"
+
+#~ msgid "Blam Feed Reader"
+#~ msgstr "Blam prikazovalnik virov"
+
+#~ msgid "Feed reader"
+#~ msgstr "Bralnik virov"
+
+#~ msgid "Bluetooth Manager"
+#~ msgstr "Upravljalnik Bluetooth"
+
+#~ msgid "BMPx"
+#~ msgstr "BMPx"
+
+#~ msgid "Booh"
+#~ msgstr "Booh"
+
+#~ msgid "An OpenGL breakout"
+#~ msgstr "Igra Breakout s pospeševanjem OpenGL"
+
+#~ msgid "Briquolo"
+#~ msgstr "Briquolo"
+
+#~ msgid "MacSlow's Cairo-Clock"
+#~ msgstr "MacSlow Cairo Ura"
+
+#~ msgid "a super fine analog clock"
+#~ msgstr "popolnoma Kekčeva analogna ura"
+
+#~ msgid "Camorama Webcam Viewer"
+#~ msgstr "Camorama pregledovalnik spletne kamere"
+
+#~ msgid "View, alter and save images from a webcam"
+#~ msgstr "Poglej, spremeni in shrani slike preko spletne kamere"
+
+#~ msgid "Chromium Web Browser"
+#~ msgstr "Spletni brskalnik Chromium"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Scan for viruses..."
+#~ msgstr "Preglej za virusi..."
+
+#~ msgid "Virus Scanner"
+#~ msgstr "Virusni pregledovalec"
+
+#~ msgid "Conduit Synchronizer"
+#~ msgstr "Usklajevalnik Conduit"
+
+#~ msgid "Synchronization for GNOME"
+#~ msgstr "Usklajevalnik za GNOME"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Conglomerate XML Urejevalnik"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Urejevalnik XML datotek"
+
+#~ msgid "Address book"
+#~ msgstr "Imenik"
+
+#~ msgid "Contacts"
+#~ msgstr "Stiki"
+
+#~ msgid "CoolEdit"
+#~ msgstr "CoolEdit"
+
+#~ msgid "Cream"
+#~ msgstr "Cream"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "CuteCom"
+#~ msgstr "CuteCom"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Data Display Debugger"
+
+#~ msgid "Play music"
+#~ msgstr "Predvajaj glasbo"
+
+#~ msgid "Ding: Dictionary English-German"
+#~ msgstr "Ding: Angleško-nemški slovar"
+
+#~ msgid "Virtualization configuration"
+#~ msgstr "Nastavitev virtualizacije"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Dr.Geo Matematično orodje"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Ex Falso"
+#~ msgstr "Ex Falso"
+
+#~ msgid "Scanner Utility"
+#~ msgstr "Pripomoček za skeniranje"
+
+#~ msgid "Simply scan images"
+#~ msgstr "Preprosto skeniranje slik"
+
+#~ msgid "Gadmin-Bind"
+#~ msgstr "Gadmin-Bind"
+
+#~ msgid "Gadmin-Dhcpd"
+#~ msgstr "Gadmin-Dhcpd"
+
+#~ msgid "Gadmin-HTTPD"
+#~ msgstr "Gadmin-HTTPD"
+
+#~ msgid "Gadmin-OpenVPN-client"
+#~ msgstr "Gadmin-OpenVPN-client"
+
+#~ msgid "Gadmin-OpenVPN-server"
+#~ msgstr "Gadmin-OpenVPN-server"
+
+#~ msgid "Gadmin-Proftpd"
+#~ msgstr "Gadmin-Proftpd"
+
+#~ msgid "GAdmin-Rsync"
+#~ msgstr "GAdmin-Rsync"
+
+#~ msgid "Gadmin-Samba"
+#~ msgstr "Gadmin-Samba"
+
+#~ msgid "Gadmin-Squid"
+#~ msgstr "Gadmin-Squid"
+
+#~ msgid "Galculator"
+#~ msgstr "Galculator"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid ""
+#~ "Play games that challenge your logic, verbal, calculation and memory "
+#~ "abilities"
+#~ msgstr ""
+#~ "Igrajte igre ki izzivajo vaše besedne sposobnosti, sposobnosti  logike, "
+#~ "miselnega računanja in spomina"
+
+#~ msgid "gbrainy"
+#~ msgstr "gbrainy"
+
+#~ msgid "ICC Profile Installer"
+#~ msgstr "Namestitveni program profilov ICC"
+
+#~ msgid "ICC profile installer"
+#~ msgstr "Namestitveni program profilov ICC"
+
+#~ msgid "Install ICC profiles"
+#~ msgstr "Namesti profile ICC"
+
+#~ msgid "Color Profiles"
+#~ msgstr "Barvni profili"
+
+#~ msgid "Manage ICC color profiles"
+#~ msgstr "Upravljanje barvnih profilov ICC"
+
+#~ msgid "A frontend for mkisofs/mkhybrid/cdda2wav/cdrecord/cdlabelgen"
+#~ msgstr "Vmesnik za mkisofs, mkhybrid, cdda2wav, cdrecord in cdlabelgen"
+
+#~ msgid "Administration for gcompris"
+#~ msgstr "Skrbništvo za gcompris"
+
+#~ msgid "GCompris Administration"
+#~ msgstr "Skrbništvo GCompris"
+
+#~ msgid "Educational game for ages 2 to 10"
+#~ msgstr "Izobraževalne igre za otroke od 2 do 10"
+
+#~ msgid "Educational suite GCompris"
+#~ msgstr "Izobraževalni paket GCompris"
+
+#~ msgid "Multi-activity educational game"
+#~ msgstr "Izobraževalna igra z več dejavnostmi"
+
+#~ msgid "A fast and lightweight IDE using GTK2"
+#~ msgstr "Hitro in lahkotno vdelano razvojno okolje z uporabo GTK2"
+
+#~ msgid "Geany"
+#~ msgstr "Geany"
+
+#~ msgid "Text Editor (administrator)"
+#~ msgstr "Urejevalnik besedil (skrbnika)"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "Urejevalnik binarnih datotek"
+
+#~ msgid "Giggle"
+#~ msgstr "Giggle"
+
+#~ msgid "Git repository viewer"
+#~ msgstr "Pregledovalnik skladišč git"
+
+#~ msgid "Git repository browser"
+#~ msgstr "Brskalnik git skladišč"
+
+#~ msgid "gitg"
+#~ msgstr "gitg"
+
+#~ msgid "Create labels, business cards and media covers"
+#~ msgstr "Ustvarjanje nalepk, poslovnih vizitk in medijskih platnic"
+
+#~ msgid "gLabels Label Designer 3"
+#~ msgstr "snovalnik nalepk gLabels 3"
+
+#~ msgid "GLightOff"
+#~ msgstr "GLightOff"
+
+#~ msgid "Globulation2"
+#~ msgstr "Globulation2"
+
+#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
+#~ msgstr "Globulation2 - Realno-časovna strateška igra (RTS)"
+
+#~ msgid "A user-friendly database environment."
+#~ msgstr "Uporabniku prijazno okolje podatkovnih zbirk."
+
+#~ msgid "Glom"
+#~ msgstr "Glom"
+
+#~ msgid "Gmasqdialer"
+#~ msgstr "Gmasqdialer"
+
+#~ msgid "A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs"
+#~ msgstr "Orodje za upravljanje s Creative Nomad/Zen Jukeboxi in Dell DJs"
+
+#~ msgid "Gnomad 2"
+#~ msgstr "Gnomad 2"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Pošiljatelj vnosov za \"blog\""
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Pošljite vnos v spletni dnevnik (blog)"
+
+#~ msgid "A two paned file manager"
+#~ msgstr "Dvostrani urejevalec datotek"
+
+#~ msgid "GNOME Commander"
+#~ msgstr "GNOME Commander"
+
+#~ msgid "Genius Mathematical Tool and Calculator"
+#~ msgstr "Genius matematično orodje in kalkulator"
+
+#~ msgid "Configure your remote control"
+#~ msgstr "Nastavitev daljinskega upravljalnika"
+
+#~ msgid "Infrared Remote Control"
+#~ msgstr "Infrardeči daljinski upravljalnik"
+
+#~ msgid "Network Tools"
+#~ msgstr "Omrežna orodja"
+
+#~ msgid "View information about your network"
+#~ msgstr "Pregled omrežnih podatkov"
+
+#~ msgid "Manage your system tasks"
+#~ msgstr "Upravljanje s sistemskimi nalogami"
+
+#~ msgid "Splash"
+#~ msgstr "Uvodni zaslon"
+
+#~ msgid "Personal File Sharing"
+#~ msgstr "Osebna souporaba"
+
+#~ msgid "Preferences for sharing of files"
+#~ msgstr "Nastavitve souporabe osebnih datotek"
+
+#~ msgid "Gnote"
+#~ msgstr "Gnote"
+
+#~ msgid "Plot NumExp functions"
+#~ msgstr "Izris funkcij NumExp"
+
+#~ msgid "gNumExp Function Plotter"
+#~ msgstr "Risalnik funkcij za gNumExp"
+
+#~ msgid "Enter NumExp math queries"
+#~ msgstr "Vnos matematičnega zaporedja NumExp"
+
+#~ msgid "gNumExp Math Console"
+#~ msgstr "Konzola gNumExp Math"
+
+#~ msgid "Play and extract CDs"
+#~ msgstr "Predvajalnik in riper glasbenih CDjev"
+
+#~ msgid "Gourmet Recipe Manager"
+#~ msgstr "Gourmet Recipe Manager"
+
+#~ msgid "Create, reorganize, and delete partitions"
+#~ msgstr "Ustvarjanje, urejanje in spreminjanje razdelkov"
+
+#~ msgid "GParted"
+#~ msgstr "GParted"
+
+#~ msgid "Partition Editor"
+#~ msgstr "Urejevalnik razdelkov na disku"
+
+#~ msgid "Password Manager"
+#~ msgstr "Upravljalnik gesel"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid ""
+#~ "Manage genealogical information, perform genealogical research and "
+#~ "analysis"
+#~ msgstr ""
+#~ "Upravljaj z rodoslovnimi podatki, vodi rodoslovne raziskave in analize."
+
+#~ msgid "Graveman"
+#~ msgstr "Graveman"
+
+#~ msgid "Grsync"
+#~ msgstr "Grsync"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "Pregledovalnik elektronskega valovanja GTKWave"
+
+#~ msgid "Gtranslator PO Editor"
+#~ msgstr "Gtranslator PO urejevalnik"
+
+#~ msgid "Translate and localize applications and libraries"
+#~ msgstr "Prevajanje in jezikovno oblikovanje programov"
+
+#~ msgid "Extra galeon preferences"
+#~ msgstr "Dodatne lastnosti galeon-a"
+
+#~ msgid "Extra preferences for application menus"
+#~ msgstr "Dodatne lastnosti za menije aplikacij"
+
+#~ msgid "Extra nautilus preferences"
+#~ msgstr "Dodatne lastnosti nautilus-a"
+
+#~ msgid "Extra session preferences"
+#~ msgstr "Dodatne lastnosti seje"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Gwibber"
+#~ msgstr "Gwibber"
+
+#~ msgid "Gwine"
+#~ msgstr "Gwine"
+
+#~ msgid "Manage your wine cellar"
+#~ msgstr "Upravljajte svojo vinsko klet"
+
+#~ msgid "Hydrogen Drum Machine"
+#~ msgstr "Hydrogen Drum Machine"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "BasKet Note Pads"
+#~ msgstr "Beležke BasKet "
+
+#~ msgid "Multi-Purpose Notepad"
+#~ msgstr "Beležnica za več namenov"
+
+#~ msgid "Taking care of your ideas."
+#~ msgstr "Skrbi za vaše ideje."
+
+#~ msgid "A tool which queries bugs and tutorials based on plugged in devices"
+#~ msgstr "Orodje, ki poizve o napakah in vodičih glede na priključene naprave"
+
+#~ msgid "Bugger"
+#~ msgstr "Bugger"
+
+#~ msgid "DeviceSync"
+#~ msgstr "DeviceSync"
+
+#~ msgid "Eqonomize!"
+#~ msgstr "Eqonomize!"
+
+#~ msgid "Manage your personal finances"
+#~ msgstr "Upravljajte s svojimi osebnimi financami"
+
+#~ msgid "Personal Accounting"
+#~ msgstr "Osebno vodenje računov"
+
+#~ msgid "Disk Usage Statistics"
+#~ msgstr "Statistika porabe diska"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "View disk usage information"
+#~ msgstr "Preglejte podatke o porabi diska"
+
+#~ msgid "Frescobaldi"
+#~ msgstr "Frescobaldi"
+
+#~ msgid "LilyPond Music Editor"
+#~ msgstr "Urejevalnik glasbe LilyPond"
+
+#~ msgid "Blog Manager"
+#~ msgstr "Upravljalnik blogov"
+
+#~ msgid "KBlogger"
+#~ msgstr "KBlogger"
+
+#~ msgid "A viewer of CHM (MS-Help) files"
+#~ msgstr "Pregledovalnik CHM (MS-pomoč) datotek"
+
+#~ msgid "CHM file viewer"
+#~ msgstr "Pregledovalnik datotek CHM"
+
+#~ msgid "KchmViewer"
+#~ msgstr "KchmViewer"
+
+#~ msgid "KDevmon"
+#~ msgstr "KDevmon"
+
+#~ msgid "Network traffic applet"
+#~ msgstr "Programček omrežnega prometa"
+
+#~ msgid "A File And Directory Comparison And Merge Tool"
+#~ msgstr "Orodje za primerjanje in združevanje datotek in map"
+
+#~ msgid "KDiff3"
+#~ msgstr "KDiff3"
+
+#~ msgid "Kepas"
+#~ msgstr "Kepas"
+
+#~ msgid "Kepas - KDE Easy Publish and Share"
+#~ msgstr "Preprosto objavljanje in deljenje"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "Pretvornik valut in kalkulator"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "A standalone Flickr uploader for KDE"
+#~ msgstr "Samostojni nalagalnik slik za Flickr"
+
+#~ msgid "kFlickr"
+#~ msgstr "kFlickr"
+
+#~ msgid "A graphical FTP client"
+#~ msgstr "Grafični odjemalec za FTP"
+
+#~ msgid "FTP Client"
+#~ msgstr "Odjemalec za FTP"
+
+#~ msgid "KFTPGrabber"
+#~ msgstr "KFTPGrabber"
+
+#~ msgid "A Graphviz dot graph editor for KDE"
+#~ msgstr "Urejevalnik grafov DOT od Graphviz-a"
+
+#~ msgid "kgrapheditor"
+#~ msgstr "KGraphEditor"
+
+#~ msgid "A Graphviz dot graph viewer for KDE"
+#~ msgstr "Pregledovalnik grafov DOT od Graphviz-a"
+
+#~ msgid "kgraphviewer"
+#~ msgstr "KGraphViewer"
+
+#~ msgid "Kid3"
+#~ msgstr "Kid3"
+
+#~ msgid "(La)TeX development environment"
+#~ msgstr "Razvojno okolje za (La)TeX"
+
+#~ msgid "Kile"
+#~ msgstr "Kile"
+
+#~ msgid "LaTeX Frontend"
+#~ msgstr "Vmesnik za LaTeX"
+
+#~ msgid "DVD Authoring"
+#~ msgstr "Ustvarjanje DVD-jev"
+
+#~ msgid "KMediaFactory"
+#~ msgstr "KMediaFactory"
+
+#~ msgid "Template based DVD authoring software"
+#~ msgstr "Program za ustvarjanje DVD-jev na podlagi predlog"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "Odjemnik za MSN"
+
+#~ msgid "KMuddy"
+#~ msgstr "KMuddy"
+
+#~ msgid "MUD client"
+#~ msgstr "Odjemalec za MUD"
+
+#~ msgid "KNemo"
+#~ msgstr "KNemo"
+
+#~ msgid "Knights"
+#~ msgstr "Knights"
+
+#~ msgid "KPlayer"
+#~ msgstr "KPlayer"
+
+#~ msgid "KRadio"
+#~ msgstr "KRadio"
+
+#~ msgid "KRadioRipper"
+#~ msgstr "KRadioRipper"
+
+#~ msgid "Cooking Book"
+#~ msgstr "Kuharska knjiga"
+
+#~ msgid "Krecipes"
+#~ msgstr "Krecipes"
+
+#~ msgid "The KDE Cooking Book"
+#~ msgstr "Kuharska knjiga za recepte"
+
+#~ msgid "A batch renamer"
+#~ msgstr "Paketni preimenovalnik"
+
+#~ msgid "KRename"
+#~ msgstr "KRename"
+
+#~ msgid "Application for Drawing and Handling of Images"
+#~ msgstr "Program za risanje in rokovanje s slikami"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Dvostranski upravljalnik datotek"
+
+#~ msgid "Krusader - root-mode"
+#~ msgstr "Krusader - administratorski način"
+
+#~ msgid "Twin-Panel File Manager with root-privileges"
+#~ msgstr "Dvostranski upravljalnik datotek - administratorski način"
+
+#~ msgid "An advanced shut down utility"
+#~ msgstr "Napredno orodje za izklop računalnika"
+
+#~ msgid "KShutdown"
+#~ msgstr "KShutdown"
+
+#~ msgid "System Shut Down Utility"
+#~ msgstr "Orodje za izklop računalnika"
+
+#~ msgid "Write spreadsheet documents"
+#~ msgstr "Pišite dokumente s preglednicami"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "Program KPart za KDE"
+
+#~ msgid "GUI for various VPN clients"
+#~ msgstr "Grafični vmesnik za razne odjemalce VPN"
+
+#~ msgid "KVpnc"
+#~ msgstr "KVpnc"
+
+#~ msgid "VPN Client GUI"
+#~ msgstr "Grafični odjemalec za VPN"
+
+#~ msgid "A sound editor for KDE"
+#~ msgstr "Urejevalnik zvoka"
+
+#~ msgid "Kwave Sound Editor"
+#~ msgstr "Urejevalnik zvoka Kwave "
+
+#~ msgid "Lemon Point of sale"
+#~ msgstr "Lemon - točka prodaje"
+
+#~ msgid "lemon"
+#~ msgstr "Lemon"
+
+#~ msgid "LinoBrowser"
+#~ msgstr "LinoBrowser"
+
+#~ msgid "Mailody"
+#~ msgstr "Mailody"
+
+#~ msgid "Enter passphrase to authenticate to the ssh agent"
+#~ msgstr "Vnesite šifrirno frazo za overjanje pri posredniku SSH"
+
+#~ msgid "SSH AskPass"
+#~ msgstr "SSH AskPass"
+
+#~ msgid "ssh-add"
+#~ msgstr "ssh-add"
+
+#~ msgid "Opeke"
+#~ msgstr "Opeke"
+
+#~ msgid "KDE Partition Manager"
+#~ msgstr "KDE Partition Manager"
+
+#~ msgid "Manage disks, partitions and file systems"
+#~ msgstr "Upravljajte diske, razdelke in datotečne sisteme"
+
+#~ msgid "GUI for the R-project"
+#~ msgstr "Grafični vmesnik za R-project"
+
+#~ msgid "RKWard"
+#~ msgstr "RKWard"
+
+#~ msgid "Makes sure you rest now and then"
+#~ msgstr "Poskrbi, da si od časa do časa vzamete odmor"
+
+#~ msgid "RSIBreak"
+#~ msgstr "RSIBreak"
+
+#~ msgid "Mind mapping software"
+#~ msgstr "Program za izdelavo miselnih vzorcev"
+
+#~ msgid "Semantik"
+#~ msgstr "Semantik"
+
+#~ msgid "Scan and save images"
+#~ msgstr "Skenirajte in shranjujte slike"
+
+#~ msgid "Skanlite"
+#~ msgstr "Skanlite"
+
+#~ msgid "lemonPOS administration module"
+#~ msgstr "Administratorski modul za lemonPOS"
+
+#~ msgid "squeeze"
+#~ msgstr "squeeze"
+
+#~ msgid "KDE subtitle editor"
+#~ msgstr "Urejevalnik podnapisov"
+
+#~ msgid "Subtitle Composer"
+#~ msgstr "Subtitle Composer"
+
+#~ msgid "A collection manager"
+#~ msgstr "Upravljalnik zbirk"
+
+#~ msgid "Collection Manager"
+#~ msgstr "Upravljalnik zbirk"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
+#~ msgstr ""
+#~ "Spustni emulator terminala v slogu Quake, ki temelji na tehnologiji "
+#~ "Konzole za KDE"
+
+#~ msgid "Yakuake"
+#~ msgstr "Yakuake"
+
+#~ msgid "Kiba-Dock"
+#~ msgstr "Kiba-Dock"
+
+#~ msgid "Kiba-Dock settings editor"
+#~ msgstr "Urejevalnik nastavitev za Kiba-Dock"
+
+#~ msgid "Kiba-Settings"
+#~ msgstr "Kiba - nastavitve"
+
+#~ msgid "Network Authentication"
+#~ msgstr "Overitev omrežja"
+
+#~ msgid "Set your Kerberos network authentication preferences"
+#~ msgstr "Nastavitev možnosti Kerberos overitve omrežja"
+
+#~ msgid "KScope"
+#~ msgstr "KScope"
+
+#~ msgid "Source editing environment"
+#~ msgstr "Orodje za urejanje izvorne kode"
+
+#~ msgid "Source-editing environment for large C projects"
+#~ msgstr "Okolje za urejanje izvorne kode za obsežne projekte v C"
+
+#~ msgid "A 2D animation toolkit"
+#~ msgstr "Orodja za 2D animacije"
+
+#~ msgid "KToon: A 2D Animation toolkit"
+#~ msgstr "KToon: Orodja za 2D animacije"
+
+#~ msgid "Connect to Internet Relay Chat"
+#~ msgstr "Povežite se na IRC in klepetajte"
+
+#~ msgid "KVIrc 4"
+#~ msgstr "KVIrc 4"
+
+#~ msgid "Licq"
+#~ msgstr "Licq"
+
+#~ msgid "Lincity-NG"
+#~ msgstr "Lincity-NG"
+
+#~ msgid ""
+#~ "Plan and Build a city and take care of transport, economics, "
+#~ "electricityand others."
+#~ msgstr ""
+#~ "Načrtujte in zgradite mesto, poskrbite za transport, ekonomijo, elektriko "
+#~ "in ostalo."
+
+#~ msgid "linpacker"
+#~ msgstr "Linpacker"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "Edinstvena vojna igra za več igralcev"
+
+#~ msgid "Linux MultiMedia Studio"
+#~ msgstr "Linux MultiMedia Studio"
+
+#~ msgid "easy music production for everyone!"
+#~ msgstr "Enostavno ustvarjanje glasbe za vsakogar!"
+
+#~ msgid "music production suite"
+#~ msgstr "Paket za ustvarjanje glasbe"
+
+#~ msgid "LPairs"
+#~ msgstr "LPairs"
+
+#~ msgid "Backup & Sync tool"
+#~ msgstr "Orodje za varnostne kopije in usklajevanje"
+
+#~ msgid "Backup & sync your data with the power of rsync"
+#~ msgstr "Ustvarjanje varnostnih kopij in usklajevanje z uporabo rsync"
+
+#~ msgid "luckyBackup (super user)"
+#~ msgstr "luckyBackup (super uporabnik)"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "Configure keyboard, mouse, and other input devices"
+#~ msgstr "Nastavitve tipkovnice, miške in drugih vhodnih enot"
+
+#~ msgid "Keyboard and Mouse"
+#~ msgstr "Tipkovnica in miška"
+
+#~ msgid "Mail Notification"
+#~ msgstr "Obveščanje o pošti"
+
+#~ msgid "Connect-four for pygame"
+#~ msgstr "Igra Štiri v vrsto za igralni sistem pygame. "
+
+#~ msgid "First person shooter game"
+#~ msgstr "Prvoosebna streljaška igra"
+
+#~ msgid "A 3D adventure and roleplaying game"
+#~ msgstr "3D pustolovska igra v prvi osebi"
+
+#~ msgid "Balazar"
+#~ msgstr "Balazar"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "Arcade Shooter"
+#~ msgstr "Arkadna streljanka"
+
+#~ msgid "Critical Mass"
+#~ msgstr "Kritična Masa"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "A simple file manager with built-in FTP support"
+#~ msgstr "Preprost upravljalnik datotek z vgrajeno podporo za FTP"
+
+#~ msgid "FileRunner"
+#~ msgstr "FileRunner"
+
+#~ msgid "GTorrentViewer"
+#~ msgstr "GTorrentViewer"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "Zelo preprosta streljaška igra z miško"
+
+#~ msgid "Heartrate monitor viewer"
+#~ msgstr "Prikazovalnik z nadzor Heartrate"
+
+#~ msgid "A MacOS run-time environment"
+#~ msgstr "Izvajalno okolje MacOS"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaver"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "Synthesized Loops"
+#~ msgstr "Glasbeni sampler"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (oddaljen dostop do sporočil VOCP preko spleta)"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "Abeova neverjetna avantura!!"
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Klasična igra podjetja Crack-Dot-Com"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Zajemanje in pretvorba videa"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "AirStrike"
+#~ msgstr "ZračniNapad"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "2D streljačina, ki te hitro zasvoji"
+
+#~ msgid "AlbumShaper"
+#~ msgstr "AlbumShaper"
+
+#~ msgid "Create photo albums"
+#~ msgstr "Ustvari slikovni album"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "Dekodirnik in brskalnik za teletekst/videotekst"
+
+#~ msgid "Action-loaded 2D arcade shooter game"
+#~ msgstr "Akcijska 2D strelska arkadna igra"
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "Arkadna igra, ki je neke vrste mešanica med asteroidi in biljardom"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "Grafični vmesnik do preverjevalnika pomnilnika Valgrind"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "W3C brskalnik/spletno pooblastilno orodje"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Alsa modularni sintetizator"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "Modularni sintetizator zvoka za ALSA sistem"
+
+#~ msgid "AmyEdit"
+#~ msgstr "AmyEdit"
+
+#~ msgid "Lightweight LaTeX editor"
+#~ msgstr "Peresno lahki urejevalnik LaTeX"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Angelske vojne"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr "Streljačina starega tipa s pomikanjem zaslona"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "Grafični uporabniški vmesnik za Genpak"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "Advanced Strategic Command"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "3D prvoosebna streljačina, v kateri streljate asteroide"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Asteroidi 3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Upravljalnik možganskega valovanja"
+
+#~ msgid "Bacula Console (wxWindows)"
+#~ msgstr "Bacula konzola (wxWindows)"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "Konzola za Bacula Director"
+
+#~ msgid "Balazar Brothers"
+#~ msgstr "Balazar Brothers"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "Prikrojite porabo energije za svoj sistem"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Varčevanje z energijo"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bbconf je celovito prilagoditveno orodje za blackbox"
+
+#~ msgid "BB Run"
+#~ msgstr "Poženi BB "
+
+#~ msgid "BlackBox Run Window"
+#~ msgstr "BlackBox zagonsko okno"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "A tactical board game"
+#~ msgstr "Taktična namizna igra"
+
+#~ msgid "BIRT - Batch Image Resizing Thing"
+#~ msgstr ""
+#~ "BIRT - Batch Image Resizing Thing (orodje za spreminjanje velikosti slik)"
+
+#~ msgid "GUI tool for easy resizing series of images"
+#~ msgstr "Orodje z grafičnim vmesnikom za spreminjanje velikosti serije slik"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "Orodje za risanje 2D kemijskih struktur"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Igra kot Mario"
+
+#~ msgid "Invasion: Battle of survival - a real time strategy game"
+#~ msgstr "Invasion:Boj za preživetje - Realno-časovna strateška igra (RTS)"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (VOCP vmesnik za nastavitve predalov)"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr ""
+#~ "Sidriščna aplikacija za nadzor sistemskih virov (s pomočjo vode, račke, "
+#~ "steklenice)"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Pobijanje hroščev z miško"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr "Program za vzdrževanje diskovnih slik samostojne naprave C1541"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "Orodje za upravljanje z VICE diskovnimi slikami"
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Callcenter (klicni center VOCP)"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "Program za testiranje širokopasovnih povezav"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Orodje za spletno kamero"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "Orodje za vzdrževanje brizgalnih tiskalnikov Cannon"
+
+#~ msgid "CD-Mason"
+#~ msgstr "CD-Mason"
+
+#~ msgid "Simple, powerful CD burning"
+#~ msgstr "Enostaven, zmogljiv CD zapisovalnik"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Zanesljiva smrt, ki jo prinašajo vesoljska bitja"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Grafična igra go"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Urejevalnik in snovalnik za glasbene module"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "Omrežni brskalnik in orodja (agent mora biti pognan)"
+
+#~ msgid "A open-source diary program"
+#~ msgstr "Odprtokodni program za dnevnik"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Clanbomber - prosta (GPL) večuporabniška igra podobna Bomberman-u"
+
+#~ msgid "MIDI controller for ZynAddSubFX"
+#~ msgstr "Nadzornik MIDI za ZynAddSubFX"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Crossfire Client"
+#~ msgstr "Odjemalec Crossfire"
+
+#~ msgid "Cssed"
+#~ msgstr "Cssed"
+
+#~ msgid "CUI Term"
+#~ msgstr "CUI Term"
+
+#~ msgid "Composite user interface"
+#~ msgstr "Kompozitni grafični vmesnik"
+
+#~ msgid "cultivation"
+#~ msgstr "cultivation"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Izbira teme za kurzor"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Teme za kurzor"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Pingvin branitelj"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Preprost spletni brskalnih"
+
+#~ msgid "Dino"
+#~ msgstr "Dino"
+
+#~ msgid "DiskSearch"
+#~ msgstr "DiskSearch"
+
+#~ msgid "Search removable media"
+#~ msgstr "Iskanje datotek na izmenljivih nosilcih"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Nadzor Distcc"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "Imenik, enostaven za uporabo"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "Emulator za DOS"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "Dr.GeoCaml"
+#~ msgstr "Dr.GeoCaml"
+
+#~ msgid "DrGeoCaml Interactive Geometry Tool"
+#~ msgstr "Interaktivna geometrija za KDE "
+
+#~ msgid "Dr. Python"
+#~ msgstr "Dr. Python"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "Urejevalnik in razvojno okolje (IDE) za Python"
+
+#~ msgid "DrScheme"
+#~ msgstr "DrScheme"
+
+#~ msgid "Scheme IDE"
+#~ msgstr "Razvojno okolje (IDE) za Scheme"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "2D urejevalnik molekul"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Šah Eboard"
+
+#~ msgid "EBView"
+#~ msgstr "EBView"
+
+#~ msgid "EBView is a browser for EB/EPWING files"
+#~ msgstr "EBView je pregledovalnik za datoteke EB/EPWING"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "Zvočno obdelovanje, snemanjte več pesmi naekrat in mešalna orodja"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animator"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "GTK-jev upravljalnik datotek"
+
+#~ msgid "Ecasound Mastering Interface"
+#~ msgstr "Vmesnik Ecasound Mastering"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Igra puzel"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+
+#~ msgid "Epic"
+#~ msgstr "Epic"
+
+#~ msgid "Eric"
+#~ msgstr "Eric"
+
+#~ msgid "Python IDE"
+#~ msgstr "Python IDE"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "Celoten OSS mikser"
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer mešalna miza"
+
+#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
+#~ msgstr "Grafični (Qt) vmesnik za Subversion za več platform"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolvotron"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "Interaktivni program za proizvajanie umetnin"
+
+#~ msgid "Exim Monitor"
+#~ msgstr "Exim Monitor"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash za Linux"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr "Fluxbox - aplikacija za upravljanje in ustvarjanje icon na namizju"
+
+#~ msgid "Image viewer at heart, though it does other cool stuff"
+#~ msgstr "Prikazovalnik slik, s katerim lahko počnete marsikaj zanimivega"
+
+#~ msgid "Fish Fillets NG"
+#~ msgstr "Fish Fillets NG"
+
+#~ msgid "Flight Gear"
+#~ msgstr "Flight Gear"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "Simulator letenja FlightGear"
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "OpenGL billard game"
+#~ msgstr "OpenGL igra - Biljard"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr ""
+#~ "A.D.I.E. - napredni interaktivni urejevalnik, narejen s kompletom "
+#~ "programskih orodij FOX"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Kalkulator, narejen s kompletom programskih orodij FOX"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX kalkulator"
+
+#~ msgid "FrameWorks"
+#~ msgstr "FrameWorks"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "Orodje za zajem slik zaustavljenih animacij"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "Sintetizator basa/koračni sekvenčnik/predvajalnik vzorcev za linux"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "Klon igre Paradroid na računalniku C64"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "Create Playlist for Freeplayer"
+#~ msgstr "Ustvari predvajalni seznam za Freeplayer"
+
+#~ msgid "Freeplayer-playlist"
+#~ msgstr "Freeplayer-playlist"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Urjejevalnik Zvoka"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr "Računanje razdalj med rebri pri glasbenih instrumentih na strune"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "Fricorder"
+#~ msgstr "Fricorder"
+
+#~ msgid "A GUI frontend for autotrace"
+#~ msgstr "Grafični vmesnik za autotrace"
+
+#~ msgid "3D file browser"
+#~ msgstr "3D brskalnik po datotekah"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "Upravljalnik oken FVWM"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "3D pogled Zemljevida"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "Xmms pregledovalnik ovitkov"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "Prikazovalnik mehurčkov :)"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "Prikazuje status LED lučk na tipkovnici"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "Gai-mailcounter"
+
+#~ msgid "Mail counter"
+#~ msgstr "Števec pošte"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "Prikazuje čas, ko sonce vzhaja in zahaja"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "Gai-visual-studio"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "Vizualizacija izhodnega zvoka iz XMMS-a"
+
+#~ msgid "Galan"
+#~ msgstr "Galan"
+
+#~ msgid "Gambas 2"
+#~ msgstr "Gambas 2"
+
+#~ msgid "Gambas 2 IDE"
+#~ msgstr "Gambas 2 IDE"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "Pregledovalnik 3D molekul"
+
+#~ msgid "GTK ASTerisk MANager"
+#~ msgstr "GTK ASTerisk MANager"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "2D GNU arkadna igra odbojke (gav)"
+
+#~ msgid "GTK2 color chooser"
+#~ msgstr "Izbirnik barv za GTK2"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "Spremenite nastavitve za GNOME"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Tetris sreča napadalce iz vesolja"
+
+#~ msgid "Interactive software for dynamical mathematics"
+#~ msgstr "Interaktivno programje za dinamično matematiko"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Učiteljeva redovalnica"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "GNOME-ov vmesnik za MM/QM"
+
+#~ msgid "DJ Collection Manager"
+#~ msgstr "Upravljalnik zbirk za DJ-je"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "Akcijski letalski simulator"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "Glest"
+#~ msgstr "Glest"
+
+#~ msgid "Glinuxsms"
+#~ msgstr "Glinuxsms"
+
+#~ msgid "Glinuxsms is a GNOME2 GUI/front-end for linuxsms"
+#~ msgstr "Glinuxsms je GNOME2 grafični vmesnik za linuxsms"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "OpenGL grafični pogledovalnik"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "3d igra potujočega svetlobnega žarka"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "Gnome-ov odjemalec za modemski strežnik masqdialer"
+
+#~ msgid "Memory usage"
+#~ msgstr "Uporaba pomnilnika"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "Samodejna spremljava za MIDI"
+
+#~ msgid "GMudix GTK mud client"
+#~ msgstr "GMudix GTK mud client"
+
+#~ msgid "gMudix"
+#~ msgstr "gMudix"
+
+#~ msgid "Gneutronica"
+#~ msgstr "Gneutronica"
+
+#~ msgid "MIDI drum sequencer"
+#~ msgstr "Bobenski sekvenčnik za MIDI"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnome Photo Printer"
+#~ msgstr "Tiskanje fotografija za GNOME"
+
+#~ msgid "Quick and simple photo printing"
+#~ msgstr "Hitro in enostavno tiskanje fotografij"
+
+#~ msgid "Gnome-SSHMan"
+#~ msgstr "Gnome-SSHMan"
+
+#~ msgid "Manage SSH connections"
+#~ msgstr "Upravljanje povezav SSH"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Gnometab je urejevalnik not za kitaro."
+
+#~ msgid "GNOME applet to post link on the del.icio.us"
+#~ msgstr "Program za ustvarjanje povezav na del.icio.us za GNOM"
+
+#~ msgid "Gnomolicious"
+#~ msgstr "Gnomolicious"
+
+#~ msgid "A ripper, an encoder and an audio converter"
+#~ msgstr "Orodje za dekodiranje in konvertiranje glasbenih datotek"
+
+#~ msgid "Gnormalize"
+#~ msgstr "Gnormalize"
+
+#~ msgid "GNU Backgammon"
+#~ msgstr "GNU Backgammon"
+
+#~ msgid "Gnubik"
+#~ msgstr "Gnubik"
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Robbo"
+
+#~ msgid "A free collaborative editor"
+#~ msgstr "Prosti skupni urejevalnik"
+
+#~ msgid "Gobby"
+#~ msgstr "Gobby"
+
+#~ msgid "Gournal"
+#~ msgstr "Gournal"
+
+#~ msgid "Handwriting notepad"
+#~ msgstr "Beležnica za pisanje na roko"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "Internet telefon"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "Nadzor Pppoe"
+
+#~ msgid "GPRS Easy Connect"
+#~ msgstr "GPRS Easy Connect"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "Prenos podatkov GPS"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "GQ"
+#~ msgstr "GQ"
+
+#~ msgid "GQ is a GTK-based LDAP client"
+#~ msgstr "GQ je GTK odjemalec za LDAP"
+
+#~ msgid "Control print jobs"
+#~ msgstr "Nadzor nad vrstami za printanje"
+
+#~ msgid "GQueue"
+#~ msgstr "GQueue"
+
+#~ msgid "Grace"
+#~ msgstr "Grafi"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "Grafični prikaz znanstvenih podatkov"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "The cellular automaton simulator"
+#~ msgstr "Simulator celičnega avtomata"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "Podporni sistem za analizo geografskih virov"
+
+#~ msgid "Greenwich"
+#~ msgstr "Greenwich"
+
+#~ msgid "Whois client"
+#~ msgstr "Whois odjemalec"
+
+#~ msgid "GRhino"
+#~ msgstr "GRhino"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "RPN kalkulator"
+
+#~ msgid "GScore"
+#~ msgstr "GScore"
+
+#~ msgid "Musical Score Editor"
+#~ msgstr "Urejevalnik glasbe"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "TetriNET igralni odjemalec za Linux"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "Nastavitve pravil IPTables "
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "Zamenjaj temo za GTK1"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "Menjava GTK-jeve teme"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "Gtk-jev vmesnik do asp2php"
+
+#~ msgid "GtkAtlantic"
+#~ msgstr "GtkAtlantic"
+
+#~ msgid "Buehlmann ZH-L16 model diving simulation"
+#~ msgstr "Simulacija potapljanja po modelu Buehlmann ZH-L16"
+
+#~ msgid "GtkDive"
+#~ msgstr "GtkDive"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "Grafični iskalec datotek"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "GTK-jevi Učinki kitare"
+
+#~ msgid "Realtime effects"
+#~ msgstr "GTK-jevi Učinki kitare v realnem času"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "GTK-jev vmesnik za CUPS"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "GTK-jev vmesnik do čakalne vrste GTKlp CUPS"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "Gtk-jeva verzija programa motd"
+
+#~ msgid "GtkPSProc"
+#~ msgstr "GtkPSProc"
+
+#~ msgid "Serial port terminal"
+#~ msgstr "Konzola serijskih vrat"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Postscript pregledovalnik podjetja Siag"
+
+#~ msgid "Gnome Workstation Command Center"
+#~ msgstr "Gnomeov komandni center"
+
+#~ msgid "Network and workstation tools"
+#~ msgstr "Nastavitve računalnika in omrežja"
+
+#~ msgid "Game like Nibbles but different"
+#~ msgstr "Igra, podobna igri Nibbles, vendar drugačna. "
+
+#~ msgid "Heroes"
+#~ msgstr "Heroji"
+
+#~ msgid "Hexagonal Minesweeper"
+#~ msgstr "Šesterokotni Minesweeper"
+
+#~ msgid "Hexamine"
+#~ msgstr "Hexamine"
+
+#~ msgid "Hexadecimal calculator"
+#~ msgstr "Kalkulator za delo v šestnajstiškem načinu"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "Othello clone"
+#~ msgstr "Klon igre Othello"
+
+#~ msgid "Artillery/Worms-like Game in Open Space"
+#~ msgstr "Vesoljska igra"
+
+#~ msgid "HighMoon"
+#~ msgstr "HighMoon"
+
+#~ msgid "Holotz's Castle Editor"
+#~ msgstr "Holotz's Castle Editor"
+
+#~ msgid "Level editor for Holotz's Castle"
+#~ msgstr "Urejevalnik nivojev za Holotz's Castle"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "iaxComm"
+#~ msgstr "iaxComm"
+
+#~ msgid "Podcast catcher"
+#~ msgstr "Zajem audio vsebin Podcast "
+
+#~ msgid "Configurator for the GTK+2 Japanese Input Module"
+#~ msgstr "Nastavitve GTK+2-jevega vnosnega modula za Japonski jezik"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "Upravljalnik fotografij ImgSeek"
+
+#~ msgid "Inventory"
+#~ msgstr "Inventory"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr "Enostaven program za vodenje inventarja"
+
+#~ msgid "IQNotes"
+#~ msgstr "IQNotes"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Image browser"
+#~ msgstr "Brskalnik slik"
+
+#~ msgid "Drum machine styled audio sequencer"
+#~ msgstr "Večstezni avdio sekvenčnik"
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Mixer for JACK audio server"
+#~ msgstr "Mešalna miza za zvočni strežnik JACK"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "Prenosi Jigsaw"
+
+#~ msgid "Graphical puzzle game"
+#~ msgstr "Grafična igra sestavljanke"
+
+#~ msgid "Jools"
+#~ msgstr "Jools"
+
+#~ msgid "Administrative web interface for Joomla Open Source (CMS)"
+#~ msgstr "Vmesnik za administracijo Joomla Open Source prek spleta"
+
+#~ msgid "Joomla Administrator"
+#~ msgstr "Administracija Joomla"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "GTK2-jev odjemalec za FTP"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "ALSA connections"
+#~ msgstr "ALSA povezave"
+
+#~ msgid "KAConnect"
+#~ msgstr "KAConnect"
+
+#~ msgid "Kcheckers"
+#~ msgstr "Kcheckers"
+
+#~ msgid "Kcheckers - Draughts game for KDE"
+#~ msgstr "Kcheckers"
+
+#~ msgid "Cross Platform Password Manager"
+#~ msgstr "Upravljalnik gesel za več platform"
+
+#~ msgid "KeePassX"
+#~ msgstr "KeePassX"
+
+#~ msgid "IAX softphone"
+#~ msgstr "Programski telefon za IAX"
+
+#~ msgid "Kiax"
+#~ msgstr "Kiax"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Kiki the nanobot"
+
+#~ msgid "Klavaro"
+#~ msgstr "Klavaro"
+
+#~ msgid "KMovisto"
+#~ msgstr "KMovisto"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "3D prikazovalnik molekul"
+
+#~ msgid "Kodos"
+#~ msgstr "Kodos"
+
+#~ msgid "Visual regular expression editor"
+#~ msgstr "Grafični urejevalnik regularnih izrazov"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "KTerm"
+#~ msgstr "KTerm"
+
+#~ msgid "Kanji Terminal Emulator"
+#~ msgstr "Terminalski emulator Kanji"
+
+#~ msgid "Last.FM Player"
+#~ msgstr "Last.FM Player"
+
+#~ msgid "Play the last.fm internet radio"
+#~ msgstr "Predvaja internetni radio last.fm"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "Grafični pregledovalnik procesov"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Klon Panzer General"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "Cool script to send SMS"
+#~ msgstr "Zabavna skripta za pošiljanje SMS"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "Oki"
+#~ msgstr "Oki"
+
+#~ msgid "LongPlayer"
+#~ msgstr "LongPlayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "Prijeten klon tetrisa"
+
+#~ msgid "LDAP browser, utility and more"
+#~ msgstr "Pregledovalnik in orodjarna za LDAP"
+
+#~ msgid "Luma"
+#~ msgstr "Luma"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr "V 2D arkadni igri pomagaj leteti ladjo v obliki V"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "Ujami bombe"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "MahJongg 3D Solitaire"
+#~ msgstr "MahJongg 3D Solitaire"
+
+#~ msgid ""
+#~ "MahJongg 3D Solitaire - A board game using OpenGL, with several themes"
+#~ msgstr "3D MahJongg"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit (Urejevalnik priročnikov)"
+
+#~ msgid "UNIX manual pages editor"
+#~ msgstr "Urejevalnik UNIX priročnikov"
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "Internetna konferenca MAS"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS Mixer"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "Interaktivni risalec funkcij"
+
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "Vmesnik Tcl/Tk za sistem Maxima"
+
+#~ msgid "A bubble bobble like arcade game"
+#~ msgstr "Arkadna igra podobna igri bubble bobble"
+
+#~ msgid "Super Methane Brothers"
+#~ msgstr "Super Methane Brothers"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "MIDI CC Sliders"
+#~ msgstr "Drsniki za kontrolo MIDI"
+
+#~ msgid "MIDI Controller"
+#~ msgstr "Nadornik MIDI"
+
+#~ msgid "MiniSIP"
+#~ msgstr "MiniSIP"
+
+#~ msgid "SIP Videophone"
+#~ msgstr "Video telefon SIP"
+
+#~ msgid "Mirror Magic"
+#~ msgstr "Mirror Magic"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr "Večjezični terminalski emulator"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Monotone-viz"
+#~ msgstr "Monotone-viz"
+
+#~ msgid "Visualizes monotone ancestry graphs"
+#~ msgstr "Prikazovalnik grafov"
+
+#~ msgid "Addictive puzzle game"
+#~ msgstr "Sestavljanka"
+
+#~ msgid "Monsterz"
+#~ msgstr "Monsterz"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "A multi-tabbed X terminal emulator"
+#~ msgstr "Terminalski emulator za X z zavihki"
+
+#~ msgid "Mrxvt"
+#~ msgstr "Mrxvt"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Odjemalec za Maitretarot"
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "Orodje za mrežno diagnostiko ping-a/traceroute-a"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "MIDI sekvenčnik"
+
+#~ msgid "MyPasswordSafe"
+#~ msgstr "MyPasswordSafe"
+
+#~ msgid "Nabi"
+#~ msgstr "Nabi"
+
+#~ msgid "Simple Hangul XIM"
+#~ msgstr "Preprost Hangul XIM"
+
+#~ msgid "Nagios"
+#~ msgstr "Nagios"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "Šah Nuclear"
+
+#~ msgid "Nuface"
+#~ msgstr "Nuface"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Oki map editor"
+#~ msgstr "Oki urejevalnik map"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "Digitalna redovalnica"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Mortal Szombat"
+#~ msgstr "Mortal Szombat"
+
+#~ msgid "Parody of Mortal Kombat"
+#~ msgstr "Parodija na Mortal Kombat"
+
+#~ msgid "Openmsx"
+#~ msgstr "Openmsx"
+
+#~ msgid "OpenSi"
+#~ msgstr "OpenSi"
+
+#~ msgid "OpenSi client"
+#~ msgstr "Odjemalec OpenSi"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Orbital Eunuchs Sniper"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "OSD Xine predvajalnik videov"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Desktop Publishing for X (PAO)"
+#~ msgstr "Namizno založništvo za X (PAO)"
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "Logic game"
+#~ msgstr "Logična igra"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "Klon klasične Missile command igre"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Penguin Command"
+
+#~ msgid "Graphical client for PostgreSQL"
+#~ msgstr "Grafični odjemalec PostgreSQL"
+
+#~ msgid "phpLDAPAdmin"
+#~ msgstr "phpLDAPAdmin"
+
+#~ msgid "phpMyAdmin"
+#~ msgstr "phpMyAdmin"
+
+#~ msgid "phpPgAdmin"
+#~ msgstr "phpPgAdmin"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Emilia 3D fliper"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - Prost Lemmings klon"
+
+#~ msgid "Plan"
+#~ msgstr "Plan"
+
+#~ msgid "Ponyprog2000"
+#~ msgstr "Ponyprog2000"
+
+#~ msgid "Serial device programmer"
+#~ msgstr "Orodje za programiranje serijskih naprav"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "POPFile - samodejno razvrščanje e-pošte"
+
+#~ msgid "An enhanced version of DooM - classic 3D shoot-em-up game"
+#~ msgstr "Izboljšana različica igre DooM - klasična 3D streljaška igra. "
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "PrBooM-GL Večigralno"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "PrBooM Večigralno"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Debug information for package prokyon3"
+#~ msgstr "Več podatkov o paketu prokyon3"
+
+#~ msgid "Prokyon3"
+#~ msgstr "Prokyon3"
+
+#~ msgid "Free SSH, Telnet and Rlogin client"
+#~ msgstr "Prosti odjemalec za SSH, telnet in rlogin"
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "Pathetic Writer"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "Urejevalnik besedil Pathetic writer pisarniškega paketa Siag Office"
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "Molekularna grafika, nadzorovana s Python-om"
+
+#~ msgid "PySyCache"
+#~ msgstr "PySyCache"
+
+#~ msgid "PythonCard Code Editor"
+#~ msgstr "Urejevalnik kode PythonCard"
+
+#~ msgid ""
+#~ "The codeEditor sample in PythonCard is focused on being a simple to use "
+#~ "Python source code editor"
+#~ msgstr ""
+#~ "CodeEditor je primer preprostega urejevalnika izvorne kode izdelanega v "
+#~ "PythonCardu. "
+
+#~ msgid "PythonCard Resource Editor"
+#~ msgstr "Urejevalnik virov PythonCard"
+
+#~ msgid ""
+#~ "This represents the beginnings of a GUI resource (layout) editor for "
+#~ "PythonCard"
+#~ msgstr "Predstavlja začetek urejevalnika virov PythonCard"
+
+#~ msgid "PythonCard Samples"
+#~ msgstr "Primeri PythonCard"
+
+#~ msgid ""
+#~ "The main purpose of the samples is to \"stress\" the PythonCard framework "
+#~ "and make sure that the framework is robust and full-featured"
+#~ msgstr ""
+#~ "Osnovni namen teh primerov je preveriti robustnost in polno "
+#~ "funkcionalnost ogrodja PythonCard."
+
+#~ msgid "ALSA Mixer"
+#~ msgstr "ALSA mešalnik"
+
+#~ msgid "QAMix"
+#~ msgstr "QAMix"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "Grafični vmesnik za snemanje v ALSA zvočnem sistemu"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Development Environment for Qt4"
+#~ msgstr "Razvojno okolje za Qt 4"
+
+#~ msgid "Multipage TIFF viewer"
+#~ msgstr "Pregledovalnik večstranskih TIFF datotek"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Quantum GIS"
+#~ msgstr "Quantum GIS"
+
+#~ msgid "Quantum Geographic Information System"
+#~ msgstr "Geografski informacijski sistem Quantum"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Povezovalnik Jackit, ki temelji na Qt"
+
+#~ msgid "QJoyPad"
+#~ msgstr "QJoyPad"
+
+#~ msgid "MIDI Arpeggiator"
+#~ msgstr "MIDI Arpeggiator"
+
+#~ msgid "A graphical user interface for QEMU"
+#~ msgstr "Grafični vmesnik za QEMU"
+
+#~ msgid "QtEmu"
+#~ msgstr "QtEmu"
+
+#~ msgid "Data analysis and scientific plotting"
+#~ msgstr "Analiziranje podatkov in risanje znanstvenih grafikonov"
+
+#~ msgid "qtiplot"
+#~ msgstr "QtiPlot"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "Poslušanje radia s programom QtRadio."
+
+#~ msgid "Qtstalker"
+#~ msgstr "Qtstalker"
+
+#~ msgid "Quake II"
+#~ msgstr "Quake II"
+
+#~ msgid "Quasar Accounting Software - Setup"
+#~ msgstr "Računovodski program Quasar - nastavitve"
+
+#~ msgid "Quasar Setup"
+#~ msgstr "Nastavitve za Quasar"
+
+#~ msgid "Quasar"
+#~ msgstr "Quasar"
+
+#~ msgid "Quasar Accounting Software"
+#~ msgstr "Računovodski program Quasar"
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "Generator 3d fraktalnih objektov"
+
+#~ msgid "Quat"
+#~ msgstr "Quat"
+
+#~ msgid "Keep track of things"
+#~ msgstr "Hrani sledi za različne stvari"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "Video CD ustvarjalnik"
+
+#~ msgid "Poker-like card game"
+#~ msgstr "Igra, podobna pokru"
+
+#~ msgid "RA Pai Gaw Poker"
+#~ msgstr "RA Pai Gaw Poker"
+
+#~ msgid "Molecular Graphics Visualization Tool"
+#~ msgstr "Orodje za molekularno grafično vizualizacijo"
+
+#~ msgid "RasMol"
+#~ msgstr "RasMol"
+
+#~ msgid "RBBR"
+#~ msgstr "RBBR"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "Brskalnik RuBy"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "Digitalni zvočni urejevalnik"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Ri-li"
+#~ msgstr "Ri-li"
+
+#~ msgid "Ri-li arcade game"
+#~ msgstr "Arkadna igra Ri-li"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr "Root-tail prikaže besedilo neposredno v korenskem X11 oknu"
+
+#~ msgid "High-level language for numerical computations"
+#~ msgstr "Visoko nivojski jezik za numerična izračunavanja"
+
+#~ msgid "Scilab"
+#~ msgstr "Scilab"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr "SDLRoids - izboljšana igra za streljanje asteroidov"
+
+#~ msgid "Colourful puzzle game"
+#~ msgstr "Slikovita igra sestavljanke"
+
+#~ msgid "SDL Vexed"
+#~ msgstr "SDL Vexed"
+
+#~ msgid "SeaMonkey News"
+#~ msgstr "SeaMonkey novice"
+
+#~ msgid "Helicopter simulator"
+#~ msgstr "Simulacija helikopterja "
+
+#~ msgid "SearchAndRescue"
+#~ msgstr "Išči in Reši"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "Sekvenčnik za urejanje in predvajanje MIDI ponavljajočega zvoka"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr ""
+#~ "MIDI mešalna miza, ki povezuje razne vhodne in izhodne glasbene naprave"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Zajame zaslonsko sliko in jo shrani v datoteko"
+
+#~ msgid "SimSam"
+#~ msgstr "SimSam"
+
+#~ msgid "Simple Sampler"
+#~ msgstr "Preprost vzorčevalec"
+
+#~ msgid "A tool for testing SIP-protocol implementation (RFC3261)"
+#~ msgstr "Orodje za testiranje uporabe protokola SIP (RFC3261)"
+
+#~ msgid "SipBomber"
+#~ msgstr "SipBomber"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr "Večigralska 3D dirkalna in avto-razbijalna igra v Python-u"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "GPL sound font editor"
+#~ msgstr "Urejevalnik zvočne pisave"
+
+#~ msgid "Music player"
+#~ msgstr "Glasbeni predvajalnik"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr "2D arkadna igra v kateri pobiraš škatle in se umikaš metkom"
+
+#~ msgid "Multitrack wave editor"
+#~ msgstr "Večpasovni wave urejevalnik"
+
+#~ msgid "Songs"
+#~ msgstr "Pesmi"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "Urejevalnik not za kitaro"
+
+#~ msgid "An innovative pong like game"
+#~ msgstr "Inovativna igra podobna Pongu"
+
+#~ msgid "SPE"
+#~ msgstr "SPE"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "Grass program, ki omogoča uporabo vzorca Spearfish nabora podatkov"
+
+#~ msgid "MIDI software sampler"
+#~ msgstr "Program za MIDI vzorčenje"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "Modularni programski sintetizator glasbe"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "Spiral Modular Synth"
+
+#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
+#~ msgstr "Razdelilna miza MIDI za ZynAddSubFX"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "Projekt: Zvezdni bojevnik (Project: Starfighter)"
+
+#~ msgid "Space Exploration Game"
+#~ msgstr "Igra, pri kateri raziskujemo vesolje"
+
+#~ msgid "Star Voyager"
+#~ msgstr "Star Voyager"
+
+#~ msgid "Desktop planetarium"
+#~ msgstr "Namizni planetarij"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "A rythm game"
+#~ msgstr "Ritmična igra"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "Grafični vmesnik za Samsung Uproar in Yepp"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "Sophisticated clock for the X Window system"
+#~ msgstr "Rafinirana ura za okensko okolje X"
+
+#~ msgid "Sunclock"
+#~ msgstr "Sončna ura"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "VLC je prost predvajalnik MPEG, MPEG2, DVD in DivX"
+
+#~ msgid "VLC skinned GUI media player"
+#~ msgstr "VLC preoblečen večpredstavnostni predvajalnik"
+
+#~ msgid "Software manager for WinCE devices"
+#~ msgstr "Programski upravitelj za naprave WinCE"
+
+#~ msgid "Synce-software-manager"
+#~ msgstr "Synce-software-manager"
+
+#~ msgid "Sysprof"
+#~ msgstr "Sysprof"
+
+#~ msgid "System-wide Linux Profiler"
+#~ msgstr "Nastavitve profilov za celoten sistem"
+
+#~ msgid "Quick-configure menu"
+#~ msgstr "Nastavitveni modul Quick"
+
+#~ msgid "A simple-in-use GTK-based text editor"
+#~ msgstr "Urejevalnik besedil, ki je preprost za uporabo (stara različica)"
+
+#~ msgid "tea"
+#~ msgstr "TEA"
+
+#~ msgid "A simple-in-use Qt-based text editor"
+#~ msgstr "Urejevalnik besedil, ki je preprost za uporabo"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "Ted, Rich Text Processor"
+#~ msgstr "Ted, urejevalnik besedila"
+
+#~ msgid "Go chess for GNOME"
+#~ msgstr "Šah Go za GNOME"
+
+#~ msgid "Tengen"
+#~ msgstr "Tengen"
+
+#~ msgid "Displays a 4D spinning hypercube"
+#~ msgstr "Prikaz 4D hiperkocke"
+
+#~ msgid "Tesseract Trainer"
+#~ msgstr "Tesseract Trainer"
+
+#~ msgid "Tgif"
+#~ msgstr "Tgif"
+
+#~ msgid "JACK TimeMachine"
+#~ msgstr "JACK TimeMachine"
+
+#~ msgid "Records audio from ten seconds ago"
+#~ msgstr "Snema zvok za deset sekund nazaj"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "Simulator avtomobilskih dirk, ki uporablja OpenGL"
+
+#~ msgid "Simple clone of Notepad"
+#~ msgstr "Enostaven klon Beležnice"
+
+#~ msgid "TPad"
+#~ msgstr "TPad"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Pingvin Tuxedo T.: Iskanje slanikov"
+
+#~ msgid "Karting with tux"
+#~ msgstr "Karting z Linuxovim pingvinom"
+
+#~ msgid "Fun game to learn math"
+#~ msgstr "Zabavna igra za učenje matematike"
+
+#~ msgid "TuxMathScrabble"
+#~ msgstr "TuxMathScrabble"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "Educational typing tutor game starring Tux"
+#~ msgstr "Program z učenje strojepisja s Tuxom v glavni vlogi"
+
+#~ msgid "TX"
+#~ msgstr "TX"
+
+#~ msgid "XML Editor"
+#~ msgstr "Urejevalnik za XML"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "Igra Ur-Quan Masters"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "Ur-Quan Masters"
+
+#~ msgid "3D OpenGL spaceflight simulator"
+#~ msgstr "3D simulator letenja po vesolju"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "3D model assembler"
+#~ msgstr "Načrtovalec 3D modelov"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr "Popularni Unix urejevalnik vi z dodanim pomočnikom Vigor"
+
+#~ msgid "On-screen ALSA MIDI keyboard"
+#~ msgstr "ALSA MIDI tipkovnica na zaslonu"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr ""
+#~ "VOCPhax (grafični vmesnik VOCP za pregledovanje in pošiljanje faks "
+#~ "sporočil)"
+
+#~ msgid "Main Volume control dockapp"
+#~ msgstr "Sidriščni program za centralni nadzor glasnosti"
+
+#~ msgid "Volume knob"
+#~ msgstr "Gumb za glasnost"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "Glasbeni predvajalnik VICE SID za Commodore melodije"
+
+#~ msgid "VSID music player"
+#~ msgstr "Glasbeni predvajalnik VSID"
+
+#~ msgid "VYM"
+#~ msgstr "VYM"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "Grafični urejevalnik zvoka"
+
+#~ msgid "WaveSurfer"
+#~ msgstr "WaveSurfer"
+
+#~ msgid "Battle For Wesnoth editor"
+#~ msgstr "Urejevalnik za igro Bitka za Wesnoth"
+
+#~ msgid "The map editor of Battle for Wesnoth"
+#~ msgstr "Urejevalnik zemljevidov za igro Battle For Wesnoth"
+
+#~ msgid "A fantasy turn-based strategy game."
+#~ msgstr "Domišljijska strateška igra"
+
+#~ msgid "Battle For Wesnoth"
+#~ msgstr "Bitka za Wesnoth"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Odlična dirkaška igra s Tuxom v glavni vlogi"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Kon igre Settlers II"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "Simple wireless network manager"
+#~ msgstr "Enostaven urejevalnik brezžičnega omrežja"
+
+#~ msgid "WIFI radar"
+#~ msgstr "WIFI radar"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Nastavitev brezžičnega krajevnega omrežja"
+
+#~ msgid "Lunuar Ephemeris status docklet"
+#~ msgstr "Vstavek z Lununimi menami"
+
+#~ msgid "wmMoonClock"
+#~ msgstr "wmMoonClock"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "Battery status docklet"
+#~ msgstr "Vstavek za stanje baterij"
+
+#~ msgid "WMbattery"
+#~ msgstr "WMbattery"
+
+#~ msgid "WindowMaker dock application for linuxfr-addicted people"
+#~ msgstr ""
+#~ "Sidriščni program za WindowMaker namenjen ljudem, ki uporabljajo linuxfr"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "Sidriščni program za nadzor CPE"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr ""
+#~ "Sidriščni program, ki v majhni ikoni v obliki ognja prikazuje obremenitev "
+#~ "CPE"
+
+#~ msgid "Analog clock in a tank fish"
+#~ msgstr "Analogna ura v akvariju"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr "Sidriščni program, ki v ikoni prikazuje vrtečo se Zemljo"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "Dockapp OSS sound mixer"
+#~ msgstr "Sidriščni program za mešalnik zvoka OSS"
+
+#~ msgid "Laptop status docklet"
+#~ msgstr "Vstavek za stanje prenosnika"
+
+#~ msgid "WMLaptop"
+#~ msgstr "WMLaptop"
+
+#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
+#~ msgstr ""
+#~ "Sidriščni program za nadzorovanje pomnilnika in izmenjevalnega pomnilnika "
+#~ "za WindowMaker"
+
+#~ msgid "UPS monitoring in a dockapp"
+#~ msgstr "Sidriščni program za nadzorovanje brezprekinitvenega napajanja"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
+#~ msgstr ""
+#~ "Sidriščni program za nadzorovanje več poštnih predalov, ki delujejo preko "
+#~ "POP3"
+
+#~ msgid "WmsMixer"
+#~ msgstr "WmsMixer"
+
+#~ msgid "A stock quote data display in a small icon"
+#~ msgstr "Prikaz podatkov o borzni kotaciji v majhni ikoni"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr ""
+#~ "Informacije sistema (pomnilnik, izmenjevalni pomnilnik, čas vključenosti, "
+#~ "V/I) v majhni ikoni"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "Watch your own webcam in a small dockapp window"
+#~ msgstr "Sidriščni program za gledanje lastne spletne kamere v majhnem oknu"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WMWifi"
+#~ msgstr "WMWifi"
+
+#~ msgid "Wireless network docklet"
+#~ msgstr "Vstavek brezžične povezave"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
+#~ msgstr "Upravljalec datotek, podoben programu Directory Opus na AMIGI"
+
+#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
+#~ msgstr ""
+#~ "Pomoč pri okrevanju in preprečevanju ponavljajočih se poškodb zaradi "
+#~ "prenapetosti mišic"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "A GUI builder for wxWindows/wxPython"
+#~ msgstr "Grafični graditelj za wxWindows/wxPython"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "Emulator C128"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Emulator za Commodore 128"
+
+#~ msgid "HP48 Emulator"
+#~ msgstr "Emulator HP48"
+
+#~ msgid "x48"
+#~ msgstr "x48"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "Emulator C64"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Emulator za Commodore 64"
+
+#~ msgid "Realtime fractal zoomer"
+#~ msgstr "Približevalnik fraktalov v realnem času"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "Klon igre ARCHON"
+
+#~ msgid "Defend your computers from Wingdows Viruses"
+#~ msgstr "Branite svoje računalnike pred virusom Wingdows"
+
+#~ msgid "XBill"
+#~ msgstr "XBill"
+
+#~ msgid "X blast"
+#~ msgstr "X blast"
+
+#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
+#~ msgstr "Igra za več igralcev podobna Bombermanu"
+
+#~ msgid "View and manage a wine cellar"
+#~ msgstr "Pregledujte in upravljajte vinsko klet"
+
+#~ msgid "XCave"
+#~ msgstr "XCave"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "Emulator CBM2"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Emulator za Commodore BM 2"
+
+#~ msgid "CHM viewer for UNIX"
+#~ msgstr "Pregledovalnik CHM za UNIX"
+
+#~ msgid "Xchm"
+#~ msgstr "Xchm"
+
+#~ msgid "Electronic circuit schematic drawing program"
+#~ msgstr "Program za risanje shem elektronskih vezij"
+
+#~ msgid "XCircuit"
+#~ msgstr "XCircuit"
+
+#~ msgid "General turn-based 2D strategy game system, SDL interface"
+#~ msgstr "2D strateška igra z vmesnikom SDL"
+
+#~ msgid "Xconq SDL interface"
+#~ msgstr "SDL vmesnik Xconq"
+
+#~ msgid "General turn-based 2D strategy game system, Tk interface"
+#~ msgstr "2D strateška igra z vmesnikom Tk"
+
+#~ msgid "Xconq Tk interface"
+#~ msgstr "Tk vmesnik Xconq"
+
+#~ msgid "DVI files viewer"
+#~ msgstr "Prikazovalnik datotek DVI"
+
+#~ msgid "XDvi"
+#~ msgstr "XDvi"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Urejevalnik besedil podjetja Siag"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Upravljalnik datotek podjetja Siag"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "A puzzle game"
+#~ msgstr "Sestavljanka"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmms"
+#~ msgstr "Xmms"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "Motocross platform game"
+#~ msgstr "Motokros igra"
+
+#~ msgid "X-Moto"
+#~ msgstr "X-Moto"
+
+#~ msgid "Mr. Is, a Mr. Do clone for X"
+#~ msgstr "Mr. Is je klon igre Mr. Do za X okna"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Display penguins running on your desktop."
+#~ msgstr "Na namizju prikaži pingvine, ki tekajo naokoli"
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Emulator za Commodore PET"
+
+#~ msgid "PET Emulator"
+#~ msgstr "Emulator PET"
+
+#~ msgid "Fly/shoot arcade game"
+#~ msgstr "Leti in streljaj arkadna igra"
+
+#~ msgid "Xpilot server"
+#~ msgstr "Xpilot strežnik"
+
+#~ msgid "Xpilot - Requires server"
+#~ msgstr "Xpilot - Potrebuje strežnik"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "Emulator CPLUS4"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Emulator za Commodore Plus 4"
+
+#~ msgid "News reader"
+#~ msgstr "Bralnik novic"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "Tool for manipulating software packages"
+#~ msgstr "Orodje za upravljanje s paketi programske opreme"
+
+#~ msgid "Cool arcade/thinking game very much like Lode Runner"
+#~ msgstr "Zanimiva arkadna/miselna igra, precej podobna igri Lode Runner"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "Clone of Scorched Earth"
+#~ msgstr "Klon igre Scorched Earth"
+
+#~ msgid "XScorch"
+#~ msgstr "XScorch"
+
+#~ msgid "Siag Office spreadsheet"
+#~ msgstr "Siag Office preglednica"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "QT verzija glasbenega predvajalnika za C64"
+
+#~ msgid "The Skat game"
+#~ msgstr "Igra Skat"
+
+#~ msgid "Fullscreen gesture recognition"
+#~ msgstr "Celozaslonsko prepoznavanje gest"
+
+#~ msgid "Minitel emulation"
+#~ msgstr "Minitel emulation"
+
+#~ msgid "X-Tux"
+#~ msgstr "X-Tux"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Emulator za Commodore VIC 20"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "Emulator VIC 20"
+
+#~ msgid "On-screen keyboard for X"
+#~ msgstr "Zaslonska tipkovnica"
+
+#~ msgid "Virtual Keyboard"
+#~ msgstr "Navidezna tipkovnica"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (VOCP grafični vmesnik do glasovnih sporočil)"
+
+#~ msgid "A level editor for DOOM"
+#~ msgstr "Urejevalnik nivojev za igro DOOM"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Yudit"
+#~ msgstr "Yudit"
+
+#~ msgid "Real-time MIDI software synth"
+#~ msgstr "Programski sintetizator MIDI za obdelavo v realnem času"
+
+#~ msgid "Compare and merge your files"
+#~ msgstr "Primerjava in združevanje datotek"
+
+#~ msgid "Diff Viewer"
+#~ msgstr "Pregledovalnik sprememb"
+
+#~ msgid "Meld"
+#~ msgstr "Meld"
+
+#~ msgid "Check a program for leaks and analyze its memory usage"
+#~ msgstr "Orodje za profiliranje pomnilnika"
+
+#~ msgid "Memory Profiler"
+#~ msgstr "MemProf"
+
+#~ msgid "Maintain and query a SQL database"
+#~ msgstr "Upravljanje in poizvedovanje SQL podatkovne zbirke"
+
+#~ msgid "Mergeant Database Administration"
+#~ msgstr "Urejanje Mergeant podatkovne zbirke"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Monkey Bubble"
+#~ msgstr "Monkey Bubble"
+
+#~ msgid "Monkey Bubble Arcade Game"
+#~ msgstr "Monkey Bubble arkadna igrica"
+
+#~ msgid "MonoDevelop"
+#~ msgstr "MonoDevelop"
+
+#~ msgid "Mash monsters and save the gnomes"
+#~ msgstr "Uniči pošasti in reši škrate"
+
+#~ msgid "Monster Masher"
+#~ msgstr "Monster Masher"
+
+#~ msgid "Mousepad"
+#~ msgstr "Mousepad"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Poslušanje glasbe"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Glasbeni predvajalnik Muine"
+
+#~ msgid "MySQL Administrator"
+#~ msgstr "MySQL skrbnik"
+
+#~ msgid "MySQL Query Browser"
+#~ msgstr "Brskalnik po MySQL-ovih vprašanjih"
+
+#~ msgid "Add items to the Nautilus popup menu"
+#~ msgstr "Dodaj predmete v pojavno okno Nautilusa."
+
+#~ msgid "Nautilus Actions Configuration"
+#~ msgstr "Nastavitev dejanj Nautilusa"
+
+#~ msgid "Configure network devices and connections"
+#~ msgstr "Nastavite mrežne naprave in povezave"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Nexuiz (glx client)"
+#~ msgstr "Nexuiz (odjemalec glx)"
+
+#~ msgid "Nexuiz (sdl client)"
+#~ msgstr "Nexuiz (odjemalec sdl)"
+
+#~ msgid "Manage and change your network connection settings"
+#~ msgstr "Upravljanje in spreminjanje nastavitev omrežne povezave"
+
+#~ msgid "Network Connections"
+#~ msgstr "Omrežne povezave"
+
+#~ msgid "NodeView"
+#~ msgstr "NodeView"
+
+#~ msgid "The central control program of the OpenKiosk system"
+#~ msgstr "Osrednji program za nadzor sistema OpenKiosk"
+
+#~ msgid "Downloader for X"
+#~ msgstr "Prenos za X"
+
+#~ msgid "Monitor TV programs"
+#~ msgstr "Nadziranje TV programov"
+
+#~ msgid "OnTV"
+#~ msgstr "OnTV"
+
+#~ msgid "PHoto bATCH Processor"
+#~ msgstr "Serijsko Procesiranje Slik"
+
+#~ msgid "Phatch PHoto bATCH Processor"
+#~ msgstr "Phatch Serijsko Procesiranje Slik"
+
+#~ msgid "Pioneers Editor"
+#~ msgstr "Izdaja igre Pioneers"
+
+#~ msgid "Pioneers Server"
+#~ msgstr "Strežnik za igro Pioneers"
+
+#~ msgid "Pioneers"
+#~ msgstr "Pioneers"
+
+#~ msgid "Create and edit your own movies"
+#~ msgstr "Ustvarjajte in urejajte vaše filme"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi urejevalnik videa"
+
+#~ msgid "A video editing and demultiplexing tool"
+#~ msgstr "Orodje za urejanje videa "
+
+#~ msgid "ProjectX"
+#~ msgstr "ProjectX"
+
+#~ msgid "Communicate over the Jabber network"
+#~ msgstr "Odjemalec za Jabber"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Manage virtual machine configurations"
+#~ msgstr "Upravljajte nastavitve navideznih računalnikov"
+
+#~ msgid "Qemu Launcher"
+#~ msgstr "Zaganjalnik Qemu"
+
+#~ msgid "Qemu Virtual Engines manager"
+#~ msgstr "Upravljalnik navideznih pogonov za Qemu"
+
+#~ msgid "Qemulator"
+#~ msgstr "Qemulator"
+
+#~ msgid "JACK Control"
+#~ msgstr "Kontrolnik za JACK"
+
+#~ msgid "QjackCtl"
+#~ msgstr "QjackCtl"
+
+#~ msgid "QjackCtl is a JACK Audio Connection Kit Qt GUI Interface"
+#~ msgstr "QjackCtl je grafični vmesnik za JACK Audio Connection Kit"
+
+#~ msgid "GPS device mapping utility"
+#~ msgstr "Orodje za izdelavo kart s pomočjo GPS-a"
+
+#~ msgid "QLandkarteGT"
+#~ msgstr "QLandkarteGT"
+
+#~ msgid "Qmmp"
+#~ msgstr "Qmmp"
+
+#~ msgid "Qt4-based Multimedia Player"
+#~ msgstr "Večpredstavnostni predvajalnik, temelječ na Qt 4"
+
+#~ msgid "GUI version version of \"ps\" or \"top\""
+#~ msgstr "Grafična različica programov ps ali top"
+
+#~ msgid "Visual process manager"
+#~ msgstr "Grafični upravljalnik procesov"
+
+#~ msgid "qps"
+#~ msgstr "Qps"
+
+#~ msgid "Qsampler"
+#~ msgstr "Qsampler"
+
+#~ msgid "Qsampler is a LinuxSampler Qt GUI Interface"
+#~ msgstr "Qsampler je grafični vmesnik za Linux Sampler"
+
+#~ msgid "QStarDict"
+#~ msgstr "QStarDict"
+
+#~ msgid "QStarDict is Qt version of StarDict"
+#~ msgstr "QStarDict je različica StarDict-a, napisana v Qt"
+
+#~ msgid "Qsynth"
+#~ msgstr "Qsynth"
+
+#~ msgid "Qsynth is a FluidSynth Qt GUI Interface"
+#~ msgstr "Qsynth je grafični vmesnik za FluidSynth"
+
+#~ msgid "qt-recordMyDesktop"
+#~ msgstr "qt-recordMyDesktop"
+
+#~ msgid "BBS Client"
+#~ msgstr "Odjemalec za BBS"
+
+#~ msgid "BBS client based on Qt library in linux"
+#~ msgstr "Odjemalec za BBS za Linux, ki temelji na Qt"
+
+#~ msgid "QTerm"
+#~ msgstr "QTerm"
+
+#~ msgid "Frontend for Octave"
+#~ msgstr "Grafični vmesnik za Octave"
+
+#~ msgid "QtOctave"
+#~ msgstr "QtOctave"
+
+#~ msgid "HDR imaging"
+#~ msgstr "Urejanje slik HDR"
+
+#~ msgid "Qtpfsgui"
+#~ msgstr "Qtpfsgui"
+
+#~ msgid ""
+#~ "Qtpfsgui is a graphical user interface used to create and tonemap HDR "
+#~ "images"
+#~ msgstr "Qtpfsgui je grafični vmesnik za ustvarjanje in urejanje slik HDR"
+
+#~ msgid "Multi-track Sequencer"
+#~ msgstr "Več-stezni sekvenčnik"
+
+#~ msgid "Qtractor"
+#~ msgstr "Qtractor"
+
+#~ msgid "Qtractor is an Audio/MIDI multi-track sequencer application"
+#~ msgstr "Qtracktor je več-stezni sekvenčnik za zvok/MIDI"
+
+#~ msgid "Quarry"
+#~ msgstr "Quarry"
+
+#~ msgid "Listen to, browse, or edit your audio collection"
+#~ msgstr "Poslušajte, pregledujte in urejajte svojo glasbeno zbirko"
+
+#~ msgid "Quod Libet"
+#~ msgstr "Quod Libet"
+
+#~ msgid "QuteCom"
+#~ msgstr "QuteCom"
+
+#~ msgid ""
+#~ "Talk to people over the Internet and send instant messages over multiple "
+#~ "protocols"
+#~ msgstr ""
+#~ "Pogovarjajte se prek interneta in pošiljajte takojšnja sporočila prek več "
+#~ "omrežij"
+
+#~ msgid "VoIP softphone and IM client"
+#~ msgstr "Programski telefon za VoIP in odjemalec za takojšnje sporočanje"
+
+#~ msgid "Search and replace using regular expressions"
+#~ msgstr "Išči in zamenjaj s pomočjo logičnih izrazov"
+
+#~ msgid "regexxer Search Tool"
+#~ msgstr "regexxer orodje za iskanje"
+
+#~ msgid "Organize and secure your passwords"
+#~ msgstr "Urejanje in varovanje gesel"
+
+#~ msgid "ripperX"
+#~ msgstr "ripperX"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Scorched Earth 3D OpenGL Remake"
+#~ msgstr "Prenovljena igra Scorched Earth v 3D OpenGL izvedbi"
+
+#~ msgid "Decrypt File"
+#~ msgstr "Dešifriranje datoteke"
+
+#~ msgid "Import Key"
+#~ msgstr "Uvozi ključ"
+
+#~ msgid "Configure key servers and other encryption settings"
+#~ msgstr "Nastavitve strežnikov ključev in ostale nastavitve šifriranja"
+
+#~ msgid "Encryption and Keyrings"
+#~ msgstr "Šifriranje in zbirke ključev"
+
+#~ msgid "Verify Signature"
+#~ msgstr "Overitev podpisa"
+
+#~ msgid "Manage your passwords and encryption keys"
+#~ msgstr "Upravljanje z gesli in šifrirnimi ključi"
+
+#~ msgid "Passwords and Encryption Keys"
+#~ msgstr "Gesla in šifrirni ključi"
+
+#~ msgid "Configure which services will be run when the system starts"
+#~ msgstr "Nastavite, katere storitve naj se zaženejo, ko se zažene sistem"
+
+#~ msgid "Services"
+#~ msgstr "Storitve"
+
+#~ msgid "Configure which folders are available for your network neighborhood"
+#~ msgstr "Nastavite, katere mape so na voljo za vašo mrežno soseščino"
+
+#~ msgid "Shared Folders"
+#~ msgstr "Souporaba map"
+
+#~ msgid "Organize your photos"
+#~ msgstr "Shotwell Photo Manager"
+
+#~ msgid "Scan Documents"
+#~ msgstr "Skeniraj dokumente"
+
+#~ msgid "Simple Scan"
+#~ msgstr "Preprosto skeniranje"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "A great MPlayer front-end"
+#~ msgstr "Odličen grafični vmesnik za MPlayer"
+
+#~ msgid "SMPlayer"
+#~ msgstr "SMPlayer"
+
+#~ msgid "Add file(s) to the SMPlayer playlist"
+#~ msgstr "Dodaj datoteke v predvajalni seznam v SMPlayer"
+
+#~ msgid "Enqueue in SMPlayer"
+#~ msgstr "Dodaj v vrsto v SMPlayer"
+
+#~ msgid "AT-SPI Browser"
+#~ msgstr "Brskalnik AT-SPI"
+
+#~ msgid "Browse your Assistive Technology-enabled desktop"
+#~ msgstr "Preglejte orodja za olajšanje dostopnosti"
+
+#~ msgid "Sound Converter"
+#~ msgstr "Pretvornik zvoka"
+
+#~ msgid "Stopmotion"
+#~ msgstr "Stopmotion"
+
+#~ msgid "Play Adobe Flash files"
+#~ msgstr "Predvajanje Adobe Flash datotek"
+
+#~ msgid "Swfdec Flash Player"
+#~ msgstr "Swfdec predvajalnik"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Nastavitev sistemskih parametrov"
+
+#~ msgid "Change the default Java toolset"
+#~ msgstr "Spremenite privzet nabor orodij za Javo"
+
+#~ msgid "Easy quick task management"
+#~ msgstr "Enostavno in hitro upravljanje nalog"
+
+#~ msgid "Tasque"
+#~ msgstr "Tasque"
+
+#~ msgid "Change system time, date, and timezone"
+#~ msgstr "Spremenite sistemski čas, datum in časovni pas"
+
+#~ msgid "Time and Date"
+#~ msgstr "Čas in datum"
+
+#~ msgid "Simple DVD mastering GUI"
+#~ msgstr "Preprost DVD mastering grafični vmesnik"
+
+#~ msgid "TkDVD"
+#~ msgstr "TkDVD"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "Odjemalec za terminalski strežnik"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Otroški program za risanje"
+
+#~ msgid "Drawing program"
+#~ msgstr "Risarski program"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "A SIP softphone"
+#~ msgstr "Programski telefon za SIP"
+
+#~ msgid "Twinkle"
+#~ msgstr "Twinkle"
+
+#~ msgid "Urlgfe"
+#~ msgstr "Urlgfe"
+
+#~ msgid "Users and Groups"
+#~ msgstr "Uporabniki in skupine"
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid "Read, capture, broadcast your multimedia streams"
+#~ msgstr "Predvajajte, zajemajte in oddajajte večpredstavnostne tokove"
+
+#~ msgid "VLC media player"
+#~ msgstr "Večpredstavnostni predvajalnik VLC"
+
+#~ msgid "Postnuclear realtime strategy"
+#~ msgstr "Strateška igra, ki se odvija v realnem času"
+
+#~ msgid "Warzone 2100"
+#~ msgstr "Warzone 2100"
+
+#~ msgid "Easy installation of Windows applications through Wine"
+#~ msgstr "Preprosto nameščanje programov za Windows prek Wine"
+
+#~ msgid "Windows application Installer"
+#~ msgstr "Namestilnik programov za Windows"
+
+#~ msgid "Wine-Doors"
+#~ msgstr "Wine-Doors"
+
+#~ msgid "A 2D game where funny characters launch funny weapons"
+#~ msgstr "2D igra, kjer smešni liki izstreljujejo smešna orožja"
+
+#~ msgid "Arcade Game"
+#~ msgstr "Arkadna igra"
+
+#~ msgid "Wormux"
+#~ msgstr "Wormux"
+
+#~ msgid "wxMaxima"
+#~ msgstr "wxMaxima"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "IBM 3270 terminalski emulator"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "Xarchiver"
+#~ msgstr "Xarchiver"
+
+#~ msgid "Chat with people using IRC"
+#~ msgstr "Klepetajte prek IRC-a"
+
+#~ msgid "XChat-GNOME IRC Chat"
+#~ msgstr "XChat"
+
+#~ msgid "DOS emulator running under X"
+#~ msgstr "Emulator za DOS"
+
+#~ msgid "Xdosemu"
+#~ msgstr "Xdosemu"
+
+#~ msgid "XdTV"
+#~ msgstr "XdTV"
+
+#~ msgid "Workspaces"
+#~ msgstr "Delovne površine"
+
+#~ msgid "MPD client"
+#~ msgstr "MPD odjemalec"
+
+#~ msgid "MPD client written in GTK+ for Xfce"
+#~ msgstr "MPD odjemalec spisan v GTK+ za Xfce"
+
+#~ msgid "Xfmpc"
+#~ msgstr "Xfmpc"
+
+#~ msgid "Study the Bible"
+#~ msgstr "Proučevanje Biblije"
+
+#~ msgid "Xiphos Bible Guide"
+#~ msgstr "Xiphosov biblijski vodič"
+
+#~ msgid "Sticky Notes"
+#~ msgstr "Lepljive Opombe"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"
+
+#~ msgid "YahQtzee"
+#~ msgstr "YahQtzee"
+
+#~ msgid "Place phone calls over the Internet"
+#~ msgstr "Opravljajte telefonske klice prek interneta"
+
+#~ msgid "VoIP Phone"
+#~ msgstr "Telefon VoIP"
+
+#~ msgid "OpenGL-based function-viewer and solver"
+#~ msgstr "Prikazovalnik in reševalnik funkcij, ki temelji na OpenGL"
+
+#~ msgid "Zhu3D"
+#~ msgstr "Zhu3D"
+
+#~ msgid "SNES (Super Nintendo) emulator that uses x86 assembly"
+#~ msgstr "Emulator za SNES (Super Nintendo)"
+
+#~ msgid "ZSNES"
+#~ msgstr "ZSNES"
+
+#~ msgid "ATI Catalyst Control Center"
+#~ msgstr "Nadzorno središče ATI Catalyst"
+
+#~ msgid "Google Earth Install"
+#~ msgstr "Namestitev Google Earth"
+
+#~ msgid "Sun Java 1.5.0 Plugin Control Panel"
+#~ msgstr "Nastavitve za vstavek Sun Java 1.5.0"
+
+#~ msgid "Sun Java 1.5.0 Web Start"
+#~ msgstr "Sun Java 1.5.0 Web Start"
+
+#~ msgid "Sun Java 1.5.0 Console"
+#~ msgstr "Konzola za Sun Java 1.5.0"
+
+#~ msgid "Sun Java 1.5.0 Monitoring & Management Console"
+#~ msgstr "Konzola za upravljanje in nadzor za Sun Java 1.5.0"
+
+#~ msgid "Sun Java 1.5.0 Policy Tool"
+#~ msgstr "Orodje za nastavljanje politike za Sun Java 1.5.0"
+
+#~ msgid "Sun Java 1.6.0 Plugin Control Panel"
+#~ msgstr "Nastavitve za vstavek Sun Java 1.6.0"
+
+#~ msgid "Sun Java 1.6.0 Web Start"
+#~ msgstr "Sun Java 1.6.0 Web Start"
+
+#~ msgid "Sun Java 1.6.0 Cache Viewer"
+#~ msgstr "Pregledovalnik predpomnilnika za Sun Java 1.6.0"
+
+#~ msgid "Sun Java 1.6.0 Console"
+#~ msgstr "Konzola za Sun Java 1.6.0"
+
+#~ msgid "Sun Java 1.6.0 Monitoring & Management Console"
+#~ msgstr "Konzola za upravljanje in nadzor za Sun Java 1.6.0"
+
+#~ msgid "Sun Java 1.6.0 Policy Tool"
+#~ msgstr "Orodje za nastavljanje politike za Sun Java 1.6.0"
+
+#~ msgid "Clustal X"
+#~ msgstr "Clustal X"
+
+#~ msgid "GUI interface for ClustalW"
+#~ msgstr "Grafični vmesnik za ClustalW"
+
+#~ msgid "Dell Remote Console Switch Software"
+#~ msgstr "Dell Remote Console Switch"
+
+#~ msgid "drcss"
+#~ msgstr "drcss"
+
+#~ msgid "FreeCol"
+#~ msgstr "FreeCol"
+
+#~ msgid "FreeCol is an open version of the game Colonization"
+#~ msgstr "FreeCol je odprto-kodna različica igre Colonization"
+
+#~ msgid "tuxfw"
+#~ msgstr "tuxfw"
+
+#~ msgid "Tux Droid Interface"
+#~ msgstr "Vmesnik za Tux Droid"
+
+#~ msgid "Tux Droid graphical interface"
+#~ msgstr "Grafični vmesnik za Tux Droid"
+
+#~ msgid "Tux Gadget Maker"
+#~ msgstr "Izdelovalec Tux Gadget"
+
+#~ msgid "Tux droid gadget maker written by Rémi Jocaille"
+#~ msgstr ""
+#~ "Izdelovalec pripomočkov za Tux Droida spisan s strani Rémi Jocaillea"
+
+#~ msgid "Tux Gadget Manager"
+#~ msgstr "Upravljalnik Tux Gadgetov"
+
+#~ msgid "Tux droid gadget manager written by Rémi Jocaille"
+#~ msgstr ""
+#~ "Upravljalnik pripomočkov za Tux Droida spisan s strani Rémi Jocaillea"
+
+#~ msgid "Tux Shell"
+#~ msgstr "Tux Shell"
+
+#~ msgid "Tux droid shell written by Rémi Jocaille"
+#~ msgstr "Lupina za Tux Droid spisana s strani Rémi Jocaillea"

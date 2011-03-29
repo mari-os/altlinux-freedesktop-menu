@@ -1,0 +1,3394 @@
+# translation of menu-messages-main-sc.po to Sardu
+# translation of menu-messages-sc.po to Sardu
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# ANTONIO PISTIS <antonio.pistis@virgilio.it>, 2004.
+# Antoni Pistis <antonio.pistis@virgilio.it>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages-main-sc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2005-01-30 18:17+0100\n"
+"Last-Translator: Antoni Pistis <antonio.pistis@virgilio.it>\n"
+"Language-Team: Sardu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Generator: KBabel 1.3\n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Gràfiga"
+
+msgid "2D based graphical applications"
+msgstr ""
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Gràfiga"
+
+msgid "3D based graphical applications"
+msgstr ""
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Manijadura File"
+
+msgid "Accessibility"
+msgstr "Acessilidadi"
+
+#, fuzzy
+msgid "Action"
+msgstr "Imparu"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+#, fuzzy
+msgid "Administration"
+msgstr "Aministradura de is Umperadoris"
+
+msgid "Adventure"
+msgstr "Aventura"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Jogu tipu Tetris"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Programas"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Programas"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Arcade"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Jogu arcade vìdeo"
+
+msgid "Archiving"
+msgstr ""
+
+#, fuzzy
+msgid "Art"
+msgstr "Ark"
+
+msgid "Artificial Intelligence"
+msgstr "Intelligèntzia Artifitziali"
+
+#, fuzzy
+msgid "Artificial Intelligence software"
+msgstr "Intelligèntzia Artifitziali"
+
+msgid "Astronomy"
+msgstr "Astronomia"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Astronomia"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Amostadori vìdeo"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Arregistradori de Sonus"
+
+msgid "Biology"
+msgstr "Bioloxia"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Bioloxia"
+
+#, fuzzy
+msgid "Board Games"
+msgstr "Jogus de mesa"
+
+msgid "Boards"
+msgstr "Jogus de mesa"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Calculator"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Calculator"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera tools, etc."
+msgstr ""
+
+#, fuzzy
+msgid "Card Games"
+msgstr "Jogus"
+
+msgid "Cards"
+msgstr "Cartas"
+
+#, fuzzy
+msgid "Chart"
+msgstr "KCharSelect"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Kìmiga"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Kìmiga"
+
+#, fuzzy
+msgid "Clock"
+msgstr "Sunclock"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Programas"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Informàtiga"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "Informàtiga"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "Informàtiga"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Informàtiga"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr "Amostamentu Dadus"
+
+#, fuzzy
+msgid "Data visualization software"
+msgstr "Amostamentu Dadus"
+
+msgid "Databases"
+msgstr "Database"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Atrus Programas"
+
+#, fuzzy
+msgid "Desktop"
+msgstr "Desktop Sharing"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Adelantamentu"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "Programa de gràfiga 3D"
+
+msgid "Dialup"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Documentadura"
+
+msgid "Economy"
+msgstr "Economia"
+
+msgid "Editors"
+msgstr "Manijadoris"
+
+msgid "Education"
+msgstr "Imparu"
+
+msgid "Electricity"
+msgstr "Eletrixidadi"
+
+#, fuzzy
+msgid "Electricity software"
+msgstr "Eletrixidadi"
+
+#, fuzzy
+msgid "Electronics"
+msgstr "Eletrixidadi"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Xmailbox"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Programas"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Emuladoris"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Maniju file"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Sistema"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Maniju file"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Ainas po scriri"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Scèntzias"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GUI Designers"
+msgstr ""
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Programas preferius"
+
+msgid "Games"
+msgstr "Jogus"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr ""
+
+msgid "Geography"
+msgstr "Jogravia"
+
+#, fuzzy
+msgid "Geology"
+msgstr "Bioloxia"
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Scèntzias de sa terra"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Scèntzias de sa terra"
+
+msgid "Geosciences"
+msgstr "Scèntzias de sa terra"
+
+msgid "Graphics"
+msgstr "Gràfiga"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "History"
+msgstr "Stòria"
+
+#, fuzzy
+msgid "IDE"
+msgstr "IDLE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Programas"
+
+msgid "IRC"
+msgstr "IRC"
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "Whois client"
+
+msgid "Image Processing"
+msgstr "Manijadura Màginis"
+
+#, fuzzy
+msgid "Image Processing software"
+msgstr "Manijadura Màginis"
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Instant Messenger"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Universal Instant Messaging Client"
+
+msgid "Internet"
+msgstr "Internet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Atrus Programas"
+
+#, fuzzy
+msgid "Java"
+msgstr "Lavaps"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Lìnguas"
+
+msgid "Literature"
+msgstr "Literadura"
+
+#, fuzzy
+msgid "Logic Games"
+msgstr "Jogu de Lòxiga"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "Programa DJ"
+
+msgid "Mathematics"
+msgstr "Matemàtiga"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "Programa DJ"
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "WmsMixer"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Arretza"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Ligidori Multimedia"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Ligidori Multimedia"
+
+#, fuzzy
+msgid "Music"
+msgstr "MusE"
+
+#, fuzzy
+msgid "Musical software"
+msgstr "Manijadori de spartidus musigalis"
+
+msgid "Network"
+msgstr "Arretza"
+
+#, fuzzy
+msgid "Network-related settings"
+msgstr "Ainas po arretza e workstation"
+
+#, fuzzy
+msgid "News"
+msgstr "KNotes"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr "Anàlisi numèriga"
+
+#, fuzzy
+msgid "Numerical analysis software"
+msgstr "Anàlisi numèriga"
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Ofìtziu"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Atru"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Programa de pintura"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Programas preferius"
+
+msgid "Packaging"
+msgstr "Pakitadura"
+
+msgid "Parallel Computing"
+msgstr "Càrculu parallelu"
+
+#, fuzzy
+msgid "Parallel computing software"
+msgstr "Càrculu parallelu"
+
+#, fuzzy
+msgid "Performance"
+msgstr "Sceras"
+
+#, fuzzy
+msgid "Personal"
+msgstr "Terminali"
+
+#, fuzzy
+msgid "Photography"
+msgstr "Jogravia"
+
+msgid "Physics"
+msgstr "Fìsiga"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Fìsiga"
+
+msgid "Preferences"
+msgstr "Sceras"
+
+msgid "Presentation software"
+msgstr ""
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Documentadura"
+
+msgid "Printing"
+msgstr "Imprenta"
+
+msgid "Profiling tools"
+msgstr ""
+
+#, fuzzy
+msgid "Project Management"
+msgstr "Manijadura File"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Programas preferius"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Gràfiga"
+
+msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Remote access"
+msgstr ""
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Controllu Volùmini"
+
+msgid "Robotics"
+msgstr "Arrobòtiga"
+
+#, fuzzy
+msgid "Robotics software"
+msgstr "Arrobòtiga"
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+#, fuzzy
+msgid "Science"
+msgstr "Scèntzias"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Screensaver"
+
+msgid "Security"
+msgstr "Siguresa"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Siguresa"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Scèntzias"
+
+msgid "Settings"
+msgstr "Assètius"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Emuladori de Minitel"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Jogu de sproramentu spatziali"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "Manijadori de mèdius Software"
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Sonu"
+
+msgid "Sports"
+msgstr "Sport"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Sport"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Follyu de càrculu Siag Office"
+
+msgid "Strategy"
+msgstr "Stradexia"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Stradexia"
+
+msgid "System"
+msgstr "Sistema"
+
+#, fuzzy
+msgid "System settings"
+msgstr "Assètius"
+
+#, fuzzy
+msgid "TV"
+msgstr "MoTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Atrus Programas"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Programas"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "Telèfunu ISDN"
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Ainas po scriri"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Sçobera is programas predefinius"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Terminali"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Ainas po scriri"
+
+msgid "Text tools"
+msgstr "Ainas po scriri"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Ainas"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Aina po umperadoris de eBay"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Sçobera is programas predefinius"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Sçobera is programas predefinius"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Joghitus"
+
+msgid "Translation"
+msgstr ""
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "Ainas po arretza e workstation"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Aina de desinnu vetoriali"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Sçobera is programas predefinius"
+
+#, fuzzy
+msgid "Video"
+msgstr "Jigdo"
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Sceras"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Amostadori vìdeo"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Arregistradori de Vìdeo Digidali"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "KUIViewer"
+
+msgid "Web Browsing"
+msgstr ""
+
+#, fuzzy
+msgid "Web Development"
+msgstr "Adelantamentu"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Whois client"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Totu is Programas"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Ita fàiri?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Spàssiu-stùdiu"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Amesturu"
+
+#~ msgid "Shells"
+#~ msgstr "Shell"
+
+#~ msgid "Backups"
+#~ msgstr "Backup"
+
+#~ msgid "Internationalization"
+#~ msgstr "Intrenatzionallisadura"
+
+#~ msgid "Servers"
+#~ msgstr "Server"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "Assètia sa computadora"
+
+#~ msgid "Wine"
+#~ msgstr "Wine"
+
+#~ msgid "Advanced"
+#~ msgstr "Adelantadas"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Assètius adelantaus"
+
+#~ msgid "Information"
+#~ msgstr "Informatzionis"
+
+#~ msgid "Accessories"
+#~ msgstr "Acessòrius"
+
+#~ msgid "Peripherals"
+#~ msgstr "Trastus"
+
+#~ msgid "Development Environments"
+#~ msgstr "Ambientis de adelantamentu"
+
+#~ msgid "Control Center"
+#~ msgstr "Centru de Controllu"
+
+#~ msgid "Puzzles"
+#~ msgstr "Puzzle"
+
+#~ msgid ".hidden"
+#~ msgstr ".hidden"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Po praxeri, no movast e no mudist"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Mandriva Linux Update"
+
+#~ msgid "Audacity"
+#~ msgstr "Audacity"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Frantzesu"
+
+#~ msgid "MIDI file player"
+#~ msgstr "Sonadori de file MIDI"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Minesweeper"
+
+#~ msgid "System Monitor"
+#~ msgstr "Bisori de Sistema"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Bisura is processus currentis e controlla su stadu de su sistema"
+
+#~ msgid "GQview"
+#~ msgstr "GQview"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "Unu programa de controllu fraigau cun GTK"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Sfollya s'arretza"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Assètiu Samba (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "S'aina de aministradura Samba Swat"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Totu is jogus de cartas a solu"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "GUI chessboard game"
+#~ msgstr "Jogu de scacus GNU"
+
+#~ msgid "XBoard"
+#~ msgstr "XBoard"
+
+#~ msgid "Appearance"
+#~ msgstr "Aparèntzia"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Tecrau apitz''e bisori"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Bisori po rp-pppoe"
+
+#~ msgid "Device Manager"
+#~ msgstr "Device Manager"
+
+#~ msgid "Leafpad"
+#~ msgstr "Leafpad"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Calc"
+
+#~ msgid "Control tool for Echoaudio soundcards"
+#~ msgstr "Aina de controllu po skedas de sonu Echoaudio"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Olandesu"
+
+#~ msgid "IDE for Python"
+#~ msgstr "IDE po Python"
+
+#~ msgid "Mail notifier"
+#~ msgstr "Scedadori de curreu"
+
+#~ msgid "Configurator"
+#~ msgstr "Assetiadori"
+
+#~ msgid "Control panel for RME Hammerfall"
+#~ msgstr "Pannellu de Controllu po RME Hammerfall"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Digicontrol"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Agata ajudu cun GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Ajudu"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Aina po assetiai su client e su server fax"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Amostat film e sonat cantzonis"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Assètia su predefiniu po su programa GStreamer"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Sceradori de Sistemas Multimedia"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Gtk-ocr est unu bisori gtk po gocr"
+
+#~ msgid "Search"
+#~ msgstr "Circa"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Spannyolu"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Fetchmailconf"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Browse Available Software"
+#~ msgstr "Sfollya is programas a disposta"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Amostat sa Terra in sa scriania tua"
+
+#~ msgid "Xearth"
+#~ msgstr "Xearth"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Sfollya e organisa is preferius"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Slovenu"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Unu jogu de atzioni e de puzzle"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KColorChooser"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "The SMB/CIFS Share Browser"
+#~ msgstr "Su sfollyadori de acumonus SMB/CIFS"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Programa de calendàriu e po apariçai"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "Motori po una scriania toga."
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Potato Guy"
+
+#~ msgid "KBattleship"
+#~ msgstr "KBattleship"
+
+#~ msgid "CD Player"
+#~ msgstr "CD Player"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Còpia de Bomberman"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "Unu bisori po GnuPG"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "Una applet po assestai e girai is bisuras X"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Screen Resize & Rotate"
+
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsole"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "Nonlinear video editor for KDE"
+#~ msgstr "Manijadori vìdeo no lineari po KDE"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Function Plotter"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Desktop Planetarium"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "Kover"
+#~ msgstr "Kover"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Bisura de is dadus de prestatzioni"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolor Lines"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Fainas pràtigas cun fratzionis"
+
+#~ msgid "Info Center"
+#~ msgstr "Centru Scedas"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Tea Cooker"
+
+#~ msgid "Change Password"
+#~ msgstr "Muda password"
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "Welcome"
+#~ msgstr "Beni beniu"
+
+#~ msgid "Configure Your Desktop"
+#~ msgstr "Assètia sa Scriania"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Crica su sòrixi po tui, arredusendi is efetus de RSI"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "KMines"
+#~ msgstr "KMines"
+
+#~ msgid "SameGame"
+#~ msgstr "SameGame"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Manijadori de Listas"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC Server"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "Server de controllu atesu a infrarrùbius KDE po Linux"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Floppy Formatter"
+
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Acàpia tecras cumbinadas a is cumandus"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Tecras cumbinadas"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Italianu"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Coreanu"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "Unu programa po castiai sa TV"
+
+#~ msgid "XawTV"
+#~ msgstr "XawTV"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Prolog"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Visualization Data Explorer"
+#~ msgstr "Visualization Data Explorer"
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Impress"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Math"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Arrègula su volùmini"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Assètia s'ambienti de su database"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr "Aina de controllu is skedas de sonu fraigadas cun Envy24 (ice1712)"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Japonesu"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Jogu a truma, batalla 3D a carru armau"
+
+#~ msgid "BZflag"
+#~ msgstr "BZflag"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "Jogu de puzzle a truma"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilla Thunderbird"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Arregistra sonus"
+
+#~ msgid "Windows"
+#~ msgstr "Fentanas"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Jogu arcade Frozen Bubble"
+
+#~ msgid "Notepad"
+#~ msgstr "Notepad"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Açungi o burra umperadoris e grupus"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Sfollya s'arretza"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt Linguist"
+
+#~ msgid "A QT application to configure Synaptics TouchPad"
+#~ msgstr "Programa QT po assetiai su TouchPad Synaptics"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Tecrau"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Assètia is preferèntzias po su tecrau"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Ungheresu"
+
+#~ msgid "Mouse"
+#~ msgstr "Sòrixi"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Assètia is preferèntzias po su sòrixi"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "Bisori gràfigu po aposentai file RPM"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "ChBg - Manijadori/mudadori/screensaver po su fundali de sa scriania"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr "Ajorronadura de su jogu beçu connotu ke Tower Toppler o Nebulous"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Writer"
+
+#~ msgid "Database"
+#~ msgstr "Database"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Freeciv server"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Unu sistema CAD professionali"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Ligi is Noas de Internet"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "S'emuladori de terminali standard po su X Window System"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "Unu bisori po su scannidori de portas nmap"
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCConfig"
+
+#~ msgid "Talk to people over the Internet"
+#~ msgstr "Kistiona a sa genti in Internat"
+
+#~ msgid "WMnet"
+#~ msgstr "WMnet"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Pilot"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Tedescu"
+
+#~ msgid "Howtos German"
+#~ msgstr "Howto in Tedescu"
+
+#~ msgid "System information"
+#~ msgstr "Scedas de Sistema"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Arromanu"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "Aina de assètiu/sceda centrali de hardware"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in Polacu"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "Bisori po imprentai a fàtzili cun CUPS"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Registry Editor"
+#~ msgstr "Manijadori de su Registry"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Ingresu"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Manijadori de scritura totu-funtzionis"
+
+#~ msgid "VI editor"
+#~ msgstr "VI"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in Gregu"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Howto in Gregu"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Indonesianu"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Su programa po fai plot de funtzionis"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Manija in manera dereta totu su database de assètius"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr ""
+#~ "Documentus de HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Cinesu"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Un'atru jogu a luxis 3d"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Bug Report Tool"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Unu jogu tipu boulderdash"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Rocks n Diamonds"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr ""
+#~ "Documentus HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Finlandesu"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr ""
+#~ "Documentus de HOWTO (formau html) de su Linux Documentation Project in "
+#~ "Svedesu"
+
+#~ msgid "Drawing"
+#~ msgstr "Desinnu"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Draw"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "Personal Finance Manager"
+#~ msgstr "Manijadori de sienda personali"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Manijadori XML Conglomerate"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Manija file XML"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Data Display Debugger"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Dr.Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Aina de matemàtiga Dr.Geo"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Firestarter"
+#~ msgstr "Firestarter"
+
+#~ msgid "Galculator"
+#~ msgstr "Galculator"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "Manijadori esadeximali de GNOME"
+
+#~ msgid "Globulation2"
+#~ msgstr "Globulation2"
+
+#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
+#~ msgstr "Globulation2 - su mellus de is jogus Real Time Strategy (RTS)"
+
+#~ msgid "Gnomad 2"
+#~ msgstr "Gnomad 2"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Blog Entry Poster"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Poni una boxi in d-unu web log"
+
+#~ msgid "Genius Mathematical Tool and Calculator"
+#~ msgstr "Aina matemàtiga e carculadori Genius"
+
+#~ msgid "Play and extract CDs"
+#~ msgstr "Sona e strai CD"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "Graveman"
+#~ msgstr "Graveman"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "Amostadori de Undas Eletrònigas GTKWave"
+
+#~ msgid "Extra galeon preferences"
+#~ msgstr "Preferèntzias extra po galeon"
+
+#~ msgid "Extra preferences for application menus"
+#~ msgstr "Preferèntzias extra po sa listra programas"
+
+#~ msgid "Extra nautilus preferences"
+#~ msgstr "Preferèntzias extra po nautilus"
+
+#~ msgid "Extra session preferences"
+#~ msgstr "Preferèntzias extra po sa sessioni"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "Furriadori de muneda e carculadori"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Network Monitor"
+#~ msgstr "Network Monitor"
+
+#~ msgid "Knights"
+#~ msgstr "Knights"
+
+#~ msgid "A batch renamer"
+#~ msgstr "Po arrenominai a truma"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Manijadori de file twin-panel"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "Programa KDE KPart"
+
+#~ msgid "A collection manager"
+#~ msgstr "Unu manijadori de arregortas"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "KScope"
+#~ msgstr "KScope"
+
+#~ msgid "Connect to Internet Relay Chat"
+#~ msgstr "Acàpiu a sa Internet Relay Chat"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "Jogu a truma de gherra, stravanau"
+
+#~ msgid "LPairs"
+#~ msgstr "LPairs"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "First person shooter game"
+#~ msgstr "Sparadori in primu personi"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "Arcade Shooter"
+#~ msgstr "Sparadori arcade"
+
+#~ msgid "Critical Mass"
+#~ msgstr "Critical Mass"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "GTorrentViewer"
+#~ msgstr "GTorrentViewer"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "Sparadori simpli simpli cun su sòrixi"
+
+#~ msgid "A MacOS run-time environment"
+#~ msgstr "Ambienti MacOS run-time"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaver"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (VOCP Web Remote Message Retrieval)"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "S'aventura stravanada de Abe!!"
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Su jogu cràssigu Crack-Dot-Com"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Straidura e cumbertidura vìdeo"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "AirStrike"
+#~ msgstr "AirStrike"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "Jogu de batalla aèrea 2D stravanau diaderus"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "Decoder e browser Teletext/Videotext"
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "Amesturu de asteròidis e biliardu in stili Arcade"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "Bisori gràfigu po su controlladori de memòria Valgrind"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "Sfollyadori/Cunvalidadori web de su Consortu W3C"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Alsa Modular Synth"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "Sintesisadori Modulari po ALSA"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Angel Wars"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr ""
+#~ "Sparadori spatziali \"antigu\", a barra laderali curriditza e ritmu lestru"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-phone"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "Interfaci gràfiga po Genpack"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "Advanced Strategic Command"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "Jogu 3D in primu personi, de sçusçai asteròidis"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Asteroids3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Brainwave controller"
+
+#~ msgid "Bacula Console (wxWindows)"
+#~ msgstr "Bacula Console (wxWindows)"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "Bacula Director Console"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "Assètia s'arrespàrmiu de energia de su sistema"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Arrespàrmiu de Energia"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bbconf est un'aina gràfiga de assètiu po blackbox"
+
+#~ msgid "BB Run"
+#~ msgstr "BB Run"
+
+#~ msgid "BlackBox Run Window"
+#~ msgstr "Fentana de esecutadura po BlackBox"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "Aina po desinnai struturas kìmigas in 2D"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Jogu tipu Mario"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (VOCP Box Configuration interface)"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "Monitoring-duck-in-a-jar dockapp"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Boci is babalotis cun su sòrixi"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr "Mantenimentu màgini discu C1541 stand alone"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "VICE disk image tool"
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Callcenter (VOCP Call Center)"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "Programa po testai s'acàpiu a banda larga"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Aina po webcam"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "Aina de mantenimentu po imprentadoras inkjet Canon"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Certain Death via Space Things"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Jogu gràfigu de Go"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Unu programa po creai mòdulus musigalis"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "Sfollyadori e ainas po s'arretza (bolit un'agenti esecutendi)"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Clanbomber - jogu (GPL) a truma tipu Bomberman"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Cssed"
+#~ msgstr "Cssed"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Sçobera unu tema de cursoris"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Temas de Cursoris"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Còpia de Defender"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Unu sfollyadoreddu de arretza"
+
+#~ msgid "DiskSearch"
+#~ msgstr "DiskSearch"
+
+#~ msgid "Search removable media"
+#~ msgstr "Circa mèdius arremoviditzus"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Bisori distcc"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "Unu bivimentàriu de impreu fàtzili"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "Un'emuladori de DOS"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "Dr. Python"
+#~ msgstr "Dr. Python"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "Manijadori e IDE po Python"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "Manijadori de molèculas in 2D"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "FICS chess-server interface"
+#~ msgstr "Interfaci po su server de scacus FICS"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "Ainas po manijai, scriri in multitrack e amesturai sonus"
+
+#~ msgid ""
+#~ "A software suite for modeling, simulation, and analysis of biological "
+#~ "cells"
+#~ msgstr "Ainas po modellai, simulai e analisai partixeddas biolòxigas"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animator"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "Manijadori de file in GTK"
+
+#~ msgid "Ecasound Mastering Interface"
+#~ msgstr "Ecasound Mastering Interface"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Enigma est unu jogu de puzzle"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "EPIC est su (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+
+#~ msgid "Epic"
+#~ msgstr "Epic"
+
+#~ msgid "Python IDE"
+#~ msgstr "IDE po Python"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "Unu mixer po OSS cun totu is trastus."
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer"
+
+#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
+#~ msgstr "eSvn est una interfaci cross-platform (QT) po Subversion"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolvotron"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "Programa interatzionali po arti"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash for Linux"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr "Programa Fluxbox po creai e manijai iconas in sa scriania"
+
+#~ msgid "Fish Fillets NG"
+#~ msgstr "Fish Fillets NG"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "Su simuladori de bòlidu FlightGear"
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "OpenGL billard game"
+#~ msgstr "Jogu de biliardu OpenGL"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr "A.D.I.E. - Advanced Interactive Editor ki impreat su toolkit FOX"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Carculadori ki impreat su toolkit FOX"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX Calculator"
+
+#~ msgid "FrameWorks"
+#~ msgstr "FrameWorks"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "Aina de animadura stop-motion"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "Còpia de su jogu po C64 Paradroid"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Manijadori de sonus"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr "Càrculat su tretu aintru de is acòrdius po ainas musigalis a cordas"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "A GUI frontend for autotrace"
+#~ msgstr "Interfaci po autotrace"
+
+#~ msgid "3D file browser"
+#~ msgstr "Sfollyadori de file 3D"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "Manijadori de fentanas FVWM"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "Amostadori de Mapas 3D"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "Amostadori de cobertas de Xmms"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "Amostadori de blobs :)"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "Amostat su stadu de is led de su tecrau"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "Gai-mailcounter"
+
+#~ msgid "Mail counter"
+#~ msgstr "Contadori de su curreu"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "Amostat candu su soli si pesat e si corcat"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "Gai-visual-studio"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "Bisuradori de s'output de XMMS"
+
+#~ msgid "Galan"
+#~ msgstr "Galan"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "Amostadori 3D de Molèculas"
+
+#~ msgid "GTK ASTerisk MANager"
+#~ msgstr "GTK ASTerisk MANager"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "Jogu de boça-a-bolu 2-D"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "Muda is preferèntzias tuas po Gnome"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Tetris atòbiat Space Invaders"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Diàriu de s'Imparadori"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "Interfaci de MM/QM po GNOME"
+
+#~ msgid "DJ Collection Manager"
+#~ msgstr "Manijadori de arregortas po DJ"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "Simuladori de bòlidu"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "Glinuxsms"
+#~ msgstr "Glinuxsms"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "Amostadori de màginis OpenGL"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "Jogu de luxis 3D"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "Client de su server de modem masqdialer po Gnome"
+
+#~ msgid "Memory usage"
+#~ msgstr "Impreu de sa Memòria"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "Acumpanjamentu automàtigu MIDI"
+
+#~ msgid "GMudix GTK mud client"
+#~ msgstr "Client mud GTK GMudix"
+
+#~ msgid "gMudix"
+#~ msgstr "gMudix"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Gnometab est unu manijadori de intauladuras po ghitarra."
+
+#~ msgid "GNU Backgammon"
+#~ msgstr "GNU Backgammon"
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Robbo"
+
+#~ msgid "Gournal"
+#~ msgstr "Gournal"
+
+#~ msgid "Handwriting notepad"
+#~ msgstr "Cartulàriu de apuntus"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "Telèfunu Internet"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "Bisori de pppoe"
+
+#~ msgid "GPRS Easy Connect"
+#~ msgstr "GPRS Easy Connect"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "Trasladamentu dadus GPS"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "Control print jobs"
+#~ msgstr "Controlla is traballus de imprenta"
+
+#~ msgid "Grace"
+#~ msgstr "Grace"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "Amostadura gràfiga de dadus scentìfigus"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "Sistema de Suportu po s'Anàlisi de is Arrecatus Jogràfigus"
+
+#~ msgid "Greenwich"
+#~ msgstr "Greenwich"
+
+#~ msgid "GRhino"
+#~ msgstr "GRhino"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "Carculadori RPN"
+
+#~ msgid "GScore"
+#~ msgstr "GScore"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "Client de su jogu TetriNET po Linux"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "Assètiu de is Arrègulas de IPTables"
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "Càmbia temas GTK1"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "GTK Theme Switch"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "Interfaci gtk po asp2php"
+
+#~ msgid "GtkAtlantic"
+#~ msgstr "GtkAtlantic"
+
+#~ msgid "GtkDive"
+#~ msgstr "GtkDive"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "Programa gràfigu po agatai file"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "GTK Guitar Effects"
+
+#~ msgid "Realtime effects"
+#~ msgstr "Efetus in realtime"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "Interfaci GTK po CUPS"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "Interfaci GTK po GTKlp CUPS Queue"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "Versioni gtk de motd"
+
+#~ msgid "GtkPSProc"
+#~ msgstr "GtkPSProc"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Amostadori Postscript de Siag"
+
+#~ msgid "Gnome Workstation Command Center"
+#~ msgstr "Gnome Workstation Command Center"
+
+#~ msgid "Heroes"
+#~ msgstr "Heroes"
+
+#~ msgid "Hexadecimal calculator"
+#~ msgstr "Carculadori esadeximali"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "Othello clone"
+#~ msgstr "Còpia de Othello"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "Configurator for the GTK+2 Japanese Input Module"
+#~ msgstr "Assetiadori po su mòdulu de input japonesu de GTK+2"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "Manijadori de foto ImgSeek"
+
+#~ msgid "Inventory"
+#~ msgstr "Inventory"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr "Programeddu po imbentariai"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Image browser"
+#~ msgstr "Sfollyadori de màginis"
+
+#~ msgid "Drum machine styled audio sequencer"
+#~ msgstr "Sequencer àudio tipu \"drum machine\""
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Mixer for JACK audio server"
+#~ msgstr "Mixer po su server àudio JACK"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "Scarrigamentu de Jigsaw"
+
+#~ msgid "Graphical puzzle game"
+#~ msgstr "Jogu gràfigu de puzzle"
+
+#~ msgid "Jools"
+#~ msgstr "Jools"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "Client ftp in GTK2"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "ALSA connections"
+#~ msgstr "Acàpius ALSA"
+
+#~ msgid "KAConnect"
+#~ msgstr "KAConnect"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Kiki the nanobot"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "Amostadori de molèculas po QT"
+
+#~ msgid "Kodos"
+#~ msgstr "Kodos"
+
+#~ msgid "Visual regular expression editor"
+#~ msgstr "Manijadori gràfigu po espressadas arregularis"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "Amostadori gràfigu de processus"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Còpia de Panzer General"
+
+#~ msgid "Lynx-like text WWW browser"
+#~ msgstr "Sfollyadori web tipu Lynx"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "LongPlayer"
+#~ msgstr "LongPlayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "Còpia bellixedda de tetris"
+
+#~ msgid "Luma"
+#~ msgstr "Luma"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr "Bola in d-una navixedda a forma de V in d-unu jogu arcade 2D"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "Cassa is bombas"
+
+#~ msgid "MadBomber"
+#~ msgstr "MadBomber"
+
+#~ msgid "ManEdit"
+#~ msgstr "ManEdit"
+
+#~ msgid "UNIX manual pages editor"
+#~ msgstr "Manijadori de pàginas de manuali UNIX"
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "Cunferèntzias internet MAS"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS Mixer"
+
+#~ msgid "MASMix"
+#~ msgstr "MASMix"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "Desinnadori interatiu de funtzionis"
+
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "Interfaci po Maxima in Tcl/Tk"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "MIDI CC Sliders"
+#~ msgstr "MIDI CC Sliders"
+
+#~ msgid "MIDI Controller"
+#~ msgstr "MIDI Controller"
+
+#~ msgid "Mirror Magic"
+#~ msgstr "Mirror Magic"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr "Emuladori de terminali medalinguali"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "A multi-tabbed X terminal emulator"
+#~ msgstr "Emuladori de terminali X multi-skeda"
+
+#~ msgid "Mrxvt"
+#~ msgstr "Mrxvt"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Maitretarot Client"
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "Aina diannyòstiga de arretza cun Ping/Traceroute"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "MIDI sequencer"
+
+#~ msgid "Nabi"
+#~ msgstr "Nabi"
+
+#~ msgid "Simple Hangul XIM"
+#~ msgstr "XIM Hangul simpli"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natmonitor "
+
+#~ msgid "Nessus"
+#~ msgstr "Nessus"
+
+#~ msgid "NiL Isn't Liero"
+#~ msgstr "NiL Isn't Liero"
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "Nuclear Chess"
+
+#~ msgid "NexTView EPG decoder and browser"
+#~ msgstr "Sfollyadori e decoder EPG de NexTView"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "Diàriu de crassi digidali"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Orbital Eunuchs Sniper"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "Amostadori vìdeo OSD Xine"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Desktop Publishing for X (PAO)"
+#~ msgstr "Desktop Publishing po X (PAO)"
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "Còpia de su jogu Missile Command"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Penguin Command"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Emilia 3d Pinball"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - Còpia lìbera de Lemmings"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "POPFile - Incardigadura automàtiga de su curreu"
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "PrBooM-GL Multiplayer"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "PrBooM Multiplayer"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Free SSH, Telnet and Rlogin client"
+#~ msgstr "Client lìberu po SSH, Telnet e Rlogin"
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "Pathetic Writer"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "Siag Office Pathetic writer"
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "Gràfiga moleculari controllada cun Python"
+
+#~ msgid "ALSA Mixer"
+#~ msgstr "ALSA Mixer"
+
+#~ msgid "QAMix"
+#~ msgstr "QAMix"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "GUI de arregistradura ALSA"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Multipage TIFF viewer"
+#~ msgstr "Amostadori TIFF in prus pàginas"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Quantum GIS"
+#~ msgstr "Quantum GIS"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Acapiadori de Jackit fraigau cun QT"
+
+#~ msgid "QJoyPad"
+#~ msgstr "QJoyPad"
+
+#~ msgid "MIDI Arpeggiator"
+#~ msgstr "Arpejadori MIDI"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "QtRadio - ascurta s'arràdiu cun QtRadio."
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "Produsit ogetus fratalis 3D"
+
+#~ msgid "Quat"
+#~ msgstr "Quat"
+
+#~ msgid "Keep track of things"
+#~ msgstr "Teni arrastu de is cosas"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "Creadori de VideoCD"
+
+#~ msgid "Poker-like card game"
+#~ msgstr "Jogu de cartas tipu poker"
+
+#~ msgid "RA Pai Gaw Poker"
+#~ msgstr "RA Pai Gaw Poker"
+
+#~ msgid "Molecular Graphics Visualization Tool"
+#~ msgstr "Aina po amostai màginis de molèculas"
+
+#~ msgid "RasMol"
+#~ msgstr "RasMol"
+
+#~ msgid "RBBR"
+#~ msgstr "RBBR"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "RuBy BRowser"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "Manijadori de sonu digidali"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr "Root-tail imprentat scritura deretamenti in d-una fentana root"
+
+#~ msgid "File Manager of the ROX desktop environment"
+#~ msgstr "Manijadori de file po s'ambienti de scriania ROX"
+
+#~ msgid "High-level language for numerical computations"
+#~ msgstr "Linguaju de arrasu artu po càrculus numèrigus"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr "SDLRoids - spara-asteròidis amellorau"
+
+#~ msgid "Colourful puzzle game"
+#~ msgstr "Jogu de puzzle coloraus"
+
+#~ msgid "SDL Vexed"
+#~ msgstr "SDL Vexed"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "Sequencer MIDi fraigau cun Loop"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr "Mixer MIDI po acadèssius"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Pigat una foto de su bisori e da sarvat in d-unu file"
+
+#~ msgid "SimSam"
+#~ msgstr "SimSam"
+
+#~ msgid "Simple Sampler"
+#~ msgstr "Campionadori"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr "Jogu a truma 3D in Python de gara e arroga-màkina"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "GPL sound font editor"
+#~ msgstr "GPL sound font editor"
+
+#~ msgid "Music player"
+#~ msgstr "Sonadori de mùsiga"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr "Jogu 2D arcade de arregolli casças e straviai ballas"
+
+#~ msgid "Multitrack wave editor"
+#~ msgstr "Manijadori de sonu in multitrack"
+
+#~ msgid "Songs"
+#~ msgstr "Songs"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "Manijadori TAB po ghitarra"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "Grass cun su set de dadus campionis Spearfish"
+
+#~ msgid "MIDI software sampler"
+#~ msgstr "Campionadori MIDI"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "Sintesisadori"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "Spiral Modular Synth"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "Project: Starfighter"
+
+#~ msgid "Star Voyager"
+#~ msgstr "Star Voyager"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "Interfaci po Samsung Uproar e Yepp"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "Sophisticated clock for the X Window system"
+#~ msgstr "Arreloju stravanau po su Sistema de Fentanas X"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "VLC est unu essighidori lìberu de MPEG, MPEG2, DVD e DivX"
+
+#~ msgid "VLC skinned GUI media player"
+#~ msgstr "VLC skinned GUI media player"
+
+#~ msgid "Swami"
+#~ msgstr "Swami"
+
+#~ msgid "Software manager for WinCE devices"
+#~ msgstr "Manijadori de programas po trastus WinCE"
+
+#~ msgid "Synce-software-manager"
+#~ msgstr "Synce-software-manager"
+
+#~ msgid "Quick-configure menu"
+#~ msgstr "Listra de assètiu lestru"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "Ted, Rich Text Processor"
+#~ msgstr "Ted, manijadori de Rich Text"
+
+#~ msgid "Go chess for GNOME"
+#~ msgstr "Scacus Go po GNOME"
+
+#~ msgid "Tengen"
+#~ msgstr "Tengen"
+
+#~ msgid "JACK TimeMachine"
+#~ msgstr "JACK TimeMachine"
+
+#~ msgid "Records audio from ten seconds ago"
+#~ msgstr "Scrit àudio de 10 segundus agoa"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "The Open Racing Car Simulator"
+
+#~ msgid "Simple clone of Notepad"
+#~ msgstr "Còpia de Notepad"
+
+#~ msgid "TPad"
+#~ msgstr "TPad"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Tuxedo T. Penguin: in circa de salmonis"
+
+#~ msgid "Karting with tux"
+#~ msgstr "Go-kart cun Tux"
+
+#~ msgid "Fun game to learn math"
+#~ msgstr "Jogu spassiosu po studiai sa matemàtiga"
+
+#~ msgid "TuxMathScrabble"
+#~ msgstr "TuxMathScrabble"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "Is meris de Ur-Quan"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "Ur-Quan Masters"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "3D model assembler"
+#~ msgstr "Cuncordadori de modellus 3D"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr "Su manijadori Unix vi cun Vigor Assistant in açunta"
+
+#~ msgid "On-screen ALSA MIDI keyboard"
+#~ msgstr "Tecrau MIDI (in bisori) de ALSA"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr "VOCPhax (GUI po castiai e mandai Fax VOCP)"
+
+#~ msgid "Volume knob"
+#~ msgstr "Volume knob"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "Sonadori VICE SID po mùsigas Commodore"
+
+#~ msgid "VSID music player"
+#~ msgstr "VSID music player"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "Manijadori gràfigu de sonu"
+
+#~ msgid "WaveSurfer"
+#~ msgstr "WaveSurfer"
+
+#~ msgid "Battle For Wesnoth editor"
+#~ msgstr "Battle For Wesnoth editor"
+
+#~ msgid "The map editor of Battle for Wesnoth"
+#~ msgstr "Manijadori de mapas de Battle for Wesnoth"
+
+#~ msgid "Battle For Wesnoth"
+#~ msgstr "Battle For Wesnoth"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Unu grandu jogu de gara cun primatori Tux"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Còpia de Settlers II"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Assètiu LAN wireless"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "Controllu de sa CPU in d-una dockapp"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr "Dockapp ki amostat su càrrigu CPU ke fogu in d-una maginedda"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr "Dockapp ki amostat una Terra girendi in d-una màgini"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "WMLaptop"
+#~ msgstr "WMLaptop"
+
+#~ msgid "UPS monitoring in a dockapp"
+#~ msgstr "Dockapp po controllai su UPS"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr "Scedas de Sistema (memòria, swap, uptime, IO) in d-una maginedda"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WMWifi"
+#~ msgstr "WMWifi"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "Emuladori po C128"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Emuladori po Commodore 128"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "Emuladori po C64"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Emuladori po Commodore 64"
+
+#~ msgid "XBill"
+#~ msgstr "XBill"
+
+#~ msgid "X blast"
+#~ msgstr "X blast"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "Emuladori po CBM2"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Emuladori po Commodore BM 2"
+
+#~ msgid "CHM viewer for UNIX"
+#~ msgstr "Amostadori CHM po UNIX"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Manijadori de scritura Siag"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Manijadori file Siag"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Emuladori po Commodore PET"
+
+#~ msgid "PET Emulator"
+#~ msgstr "Emuladori po PET"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "Emuladori po CPLUS4"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Emuladori po Commodore PLUS4"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "XScorch"
+#~ msgstr "XScorch"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "Versioni QT de su sona-mùsiga de su C64"
+
+#~ msgid "The Skat game"
+#~ msgstr "Su jogu Skat"
+
+#~ msgid "Xskat"
+#~ msgstr "Xskat"
+
+#~ msgid "X-Tux"
+#~ msgstr "X-Tux"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Emiladori po Commodore VIC 20"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "Emuladori po VIC 20"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (VOCP Graphical voice message retrieval)"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Monkey Bubble"
+#~ msgstr "Monkey Bubble"
+
+#~ msgid "Monkey Bubble Arcade Game"
+#~ msgstr "Jogu arcade Monkey Bubble"
+
+#~ msgid "MonoDevelop"
+#~ msgstr "MonoDevelop"
+
+#~ msgid "Monster Masher"
+#~ msgstr "Monster Masher"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Ascurta mùsiga"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Muine Music Player"
+
+#~ msgid "MySQL Administrator"
+#~ msgstr "MySQL Administrator"
+
+#~ msgid "MySQL Query Browser"
+#~ msgstr "MySQL Query Browser"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Downloader for X"
+#~ msgstr "Scarrigadori po X"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Quarry"
+#~ msgstr "Quarry"
+
+#~ msgid "Organize and secure your passwords"
+#~ msgstr "Organisa e assegura is password tuas"
+
+#~ msgid "ripperX"
+#~ msgstr "ripperX"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Scorched Earth 3D OpenGL Remake"
+#~ msgstr "Scorched Earth 3D OpenGL torrau a fai"
+
+#~ msgid "Services"
+#~ msgstr "Serbìtzius"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Assètiu Proc"
+
+#~ msgid "Simple DVD mastering GUI"
+#~ msgstr "Interfaci simpli po scriri DVD"
+
+#~ msgid "TkDVD"
+#~ msgstr "TkDVD"
+
+#~ msgid "Trackballs"
+#~ msgstr "Trackballs"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "Terminal Server Client"
+
+#~ msgid "A drawing program for children."
+#~ msgstr "Programa de desinnu po pipius."
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Urlgfe"
+#~ msgstr "Urlgfe"
+
+#~ msgid "Viking"
+#~ msgstr "Viking"
+
+#~ msgid "VLC media player"
+#~ msgstr "VLC media player"
+
+#~ msgid "Wormux"
+#~ msgstr "Wormux"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"

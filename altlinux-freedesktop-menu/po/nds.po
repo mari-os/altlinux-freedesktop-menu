@@ -1,0 +1,2341 @@
+# Translation into Low Saxon
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/nds.php3
+#
+#
+# Copyright (C) 2000 MandrakeSoft
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 1999-08-25 11:07+0200\n"
+"Last-Translator: Nobody\n"
+"Language-Team: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Grafik"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Grafikprogramme"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Grafik"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Grafikprogramme"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Speel un Spoos"
+
+msgid "Accessibility"
+msgstr "Behinnertenhülp"
+
+#, fuzzy
+msgid "Action"
+msgstr "Lexen"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Taktikspeel"
+
+#, fuzzy
+msgid "AddressBooks"
+msgstr "KAdressbook"
+
+msgid "Administration"
+msgstr "Verwaltens"
+
+msgid "Adventure"
+msgstr ""
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Programmen"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Programmen"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Speelhall"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Speelhall-Bombenspeel"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Archivwarktüüch"
+
+#, fuzzy
+msgid "Art"
+msgstr "Ark"
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Artificial Intelligence software"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Astronomy software"
+msgstr ""
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Klangafspeler"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Tonopnehmer"
+
+msgid "Biology"
+msgstr ""
+
+msgid "Biology software"
+msgstr ""
+
+msgid "Board Games"
+msgstr "Brettspelen"
+
+#, fuzzy
+msgid "Boards"
+msgstr "Brettspelen"
+
+msgid "Building"
+msgstr ""
+
+#, fuzzy
+msgid "Calculator"
+msgstr "Funkschonenreekner"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Funkschonenreekner"
+
+#, fuzzy
+msgid "Calendar"
+msgstr "Konsole-Kalenner"
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Koortspelen"
+
+#, fuzzy
+msgid "Cards"
+msgstr "Koortspelen"
+
+#, fuzzy
+msgid "Chart"
+msgstr "KCharSelect"
+
+#, fuzzy
+msgid "Chat"
+msgstr "Cantor"
+
+#, fuzzy
+msgid "Chemistry"
+msgstr "Vörgeschicht"
+
+msgid "Chemistry software"
+msgstr ""
+
+#, fuzzy
+msgid "Clock"
+msgstr "KBlocks"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Programmen"
+
+msgid "Compression"
+msgstr ""
+
+#, fuzzy
+msgid "Computer Science"
+msgstr "Rekner"
+
+msgid "Computer Science software"
+msgstr ""
+
+msgid "Computer Sience software"
+msgstr ""
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Rekner"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+#, fuzzy
+msgid "Construction"
+msgstr "Nettwark-Buuspeel"
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr ""
+
+msgid "Data visualization software"
+msgstr ""
+
+#, fuzzy
+msgid "Databases"
+msgstr "Datenbank-Opstellen"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Mehr Programmen"
+
+msgid "Desktop"
+msgstr "Schriefdisch"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Entwickeln"
+
+msgid "Dial-up programs"
+msgstr ""
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Wöörbook"
+
+msgid "Dictionary"
+msgstr "Wöörbook"
+
+#, fuzzy
+msgid "Disc burning"
+msgstr "Brennen"
+
+msgid "Documentation"
+msgstr "Dokmentatschoon"
+
+msgid "Economy"
+msgstr ""
+
+msgid "Editors"
+msgstr "Editoren"
+
+msgid "Education"
+msgstr "Lexen"
+
+#, fuzzy
+msgid "Electricity"
+msgstr "Sekerheit"
+
+msgid "Electricity software"
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "KMail"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Terminalprogrammen"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+#, fuzzy
+msgid "Emulators"
+msgstr "Editoren"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+#, fuzzy
+msgid "Falling Blocks"
+msgstr "Speel mit fallen Blöck"
+
+#, fuzzy
+msgid "Falling blocks games"
+msgstr "Speel mit fallen Blöck"
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Dateipleger"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Systeem"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Dateipleger"
+
+#, fuzzy
+msgid "File system tools"
+msgstr "Systemprogramme"
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Dateikieker"
+
+msgid "Finances"
+msgstr ""
+
+msgid "Flow Chart"
+msgstr ""
+
+#, fuzzy
+msgid "GNOME"
+msgstr "Över GNOME"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Böversietmaker"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Terminalprogrammen"
+
+msgid "Games"
+msgstr "Spelen"
+
+msgid "Games and amusements"
+msgstr "Speel un Spoos"
+
+msgid "Games for Kids"
+msgstr "Spelen för Kinners"
+
+#, fuzzy
+msgid "Geography"
+msgstr "KGeographie"
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geology software"
+msgstr ""
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Wetenschap"
+
+msgid "Geoscience software"
+msgstr ""
+
+#, fuzzy
+msgid "Geosciences"
+msgstr "Wetenschap"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "HAM radio software"
+msgstr ""
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "History"
+msgstr "Vörgeschicht"
+
+#, fuzzy
+msgid "IDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Programmen"
+
+msgid "IRC"
+msgstr ""
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "IRC-Klöönprogramm"
+
+msgid "Image Processing"
+msgstr ""
+
+msgid "Image Processing software"
+msgstr ""
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Kortnarichten-Maker"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Kortnarichten-Maker"
+
+msgid "Internet"
+msgstr "Innernet"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Mehr Programmen"
+
+msgid "Java"
+msgstr ""
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Spraken"
+
+msgid "Literature"
+msgstr ""
+
+msgid "Logic Games"
+msgstr "Logikspelen"
+
+msgid "MIDI"
+msgstr ""
+
+msgid "Math software"
+msgstr ""
+
+msgid "Mathematics"
+msgstr "Reeknen"
+
+msgid "Medical Software"
+msgstr ""
+
+msgid "Medical software"
+msgstr ""
+
+#, fuzzy
+msgid "Mixers"
+msgstr "KMines"
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Medienafspeler"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Multimedia"
+
+#, fuzzy
+msgid "Music"
+msgstr "Muus"
+
+msgid "Musical software"
+msgstr ""
+
+msgid "Network"
+msgstr "Nettwark"
+
+msgid "Network-related settings"
+msgstr "Nettwarksinstellens"
+
+#, fuzzy
+msgid "News"
+msgstr "KNotes"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr ""
+
+msgid "Numerical analysis software"
+msgstr ""
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Kontoor"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Annerswat"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Maalprogramm"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Bildinlees-Programm"
+
+#, fuzzy
+msgid "Packaging"
+msgstr "KPackageKit"
+
+msgid "Parallel Computing"
+msgstr ""
+
+msgid "Parallel computing software"
+msgstr ""
+
+#, fuzzy
+msgid "Performance"
+msgstr "Instellen"
+
+msgid "Personal"
+msgstr "Persönlich"
+
+#, fuzzy
+msgid "Photography"
+msgstr "KGeographie"
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physics software"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Instellen"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Presentatschoon"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Presentatschoon"
+
+msgid "Printing"
+msgstr "Drucken"
+
+#, fuzzy
+msgid "Profiling tools"
+msgstr "Archivwarktüüch"
+
+msgid "Project Management"
+msgstr "Projektpleeg"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Projektpleeg"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Grafik"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Grafikprogramme"
+
+msgid "Remote access"
+msgstr ""
+
+msgid "Revision Control"
+msgstr ""
+
+#, fuzzy
+msgid "Robotics"
+msgstr "Rocs"
+
+msgid "Robotics software"
+msgstr ""
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "Wetenschap"
+
+msgid "Screensavers"
+msgstr "Billschirmschoners"
+
+msgid "Security"
+msgstr "Sekerheit"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Sekerheit"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Billschirmschoners"
+
+msgid "Settings"
+msgstr "Instellen"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Lexen"
+
+msgid "Simulation Games"
+msgstr ""
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Kläng"
+
+#, fuzzy
+msgid "Sports"
+msgstr "F-Spot"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Brettspelen"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Tabellenutreken"
+
+#, fuzzy
+msgid "Strategy"
+msgstr "Taktik & Strategie"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr " Galaktsch Strategiespeel"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "System settings"
+msgstr "Systeminstellens"
+
+msgid "TV"
+msgstr ""
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Terminalprogrammen"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Programmen"
+
+msgid "Telephony"
+msgstr ""
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Lehrprogrammen"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Terminalprogrammen"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Konsool"
+
+msgid "Text tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "Text tools"
+msgstr "Texteditor"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+#, fuzzy
+msgid "Tools"
+msgstr "Speelkraam"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Hölpsprogrammen to'r Programmentwicklung"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Terminalprogrammen"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Mehr Programmen"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to manage printers"
+msgstr "Druckers instellen"
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Speelkraam"
+
+msgid "Translation"
+msgstr "Översetten"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "Översetten"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Grafik"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Grafikprogramme"
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Instellen"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Videoafspeler"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Tonopnehmer"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "KUIViewer"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Nettkieker"
+
+msgid "Web Development"
+msgstr "Nett-Utwickeln"
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Textprogramm"
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Nettpostprogramm"
+
+#~ msgid "Edutainment"
+#~ msgstr "Spelen & Lehren"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Anner Kraam"
+
+#~ msgid "Utilities"
+#~ msgstr "Warktüüch"
+
+#~ msgid "Programming"
+#~ msgstr "Programmeeren"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "Hülpmiddel för X Window"
+
+#~ msgid "X-Utilities"
+#~ msgstr "X-Warktüüch"
+
+#~ msgid "Advanced"
+#~ msgstr "Verwiedert"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Verwiedert Instellen"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Passt narms sünst"
+
+#~ msgid "Information"
+#~ msgstr "Informatschoon"
+
+#~ msgid "Personal preferences"
+#~ msgstr "Persönliche Instellens"
+
+#~ msgid "Accessories"
+#~ msgstr "Tobehör"
+
+#~ msgid "Desktop accessories"
+#~ msgstr "Schrievdisk Tobehör"
+
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgid "Science & Math"
+#~ msgstr "Wetenschap & Mathematik"
+
+#~ msgid "Peripherals"
+#~ msgstr "Reedschappen"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Utsehn"
+
+#~ msgid "Settings controlling the desktop appearance and behavior"
+#~ msgstr "Instellensstüerungen vun Schrievdiskverhollen un -utsehn"
+
+#~ msgid "File"
+#~ msgstr "Datei"
+
+#~ msgid "Personal settings"
+#~ msgstr "Persönliche Instellens"
+
+#~ msgid "Screensaver themes"
+#~ msgstr "Billschirmschonerthemen"
+
+#~ msgid "System configuration and monitoring"
+#~ msgstr "Systemkonfiguratschoon un Oppassens"
+
+#~ msgid "Settings for several hardware devices"
+#~ msgstr "Instellens för unnerscheedliche Hardware"
+
+#~ msgid "KDE Menu"
+#~ msgstr "KDE Menü"
+
+#~ msgid "Personal preferences and administration settings"
+#~ msgstr "Persönliche Vorleeben un administrative Instellens"
+
+#~ msgid "Universal Access"
+#~ msgstr "Togreep in'n Groten un Ganzen"
+
+#~ msgid "Universal Access Settings"
+#~ msgstr "Togreepinstellens in'n Groten un Ganzen"
+
+#~ msgid "Change system-wide settings (affects all users)"
+#~ msgstr "Systemwiete Instellens ännern (Geit all Bruker wat an)"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ton un Bild"
+
+#~ msgid "Internet and Network"
+#~ msgstr "Innernet un Nettwark"
+
+#~ msgid "Control Center"
+#~ msgstr "Kuntrullzentrum"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Spelen so as Rogue"
+
+#~ msgid "Programs for Internet access such as web and email"
+#~ msgstr "Programme för Innernettogreep as Web un Epost"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Programme de keene Schieblade passen"
+
+#~ msgid "Office Applications"
+#~ msgstr "Kontorprogramme"
+
+#~ msgid "System Monitor"
+#~ msgstr "Systeemkieker"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Aktuelle Prozesse un Systemtostandsmonitor opwiesen"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Bildkieker"
+
+#~ msgid "Configure the lockdown policy"
+#~ msgstr "Dat Grote un Ganze vu'm Avsluten instellen"
+
+#~ msgid "Lockdown Editor"
+#~ msgstr "Avslutbewarker"
+
+#~ msgid "About Me"
+#~ msgstr "Över mik"
+
+#~ msgid "Set your personal information"
+#~ msgstr "Giv dien persönliche Informatschoonen in"
+
+#~ msgid "Brasero"
+#~ msgstr "Brasero"
+
+#~ msgid "Change which applications are shown on the main menu"
+#~ msgstr "Programme de Hööftmenü todeelen"
+
+#~ msgid "Main Menu"
+#~ msgstr "Hööftmenü"
+
+#~ msgid "Browse the web"
+#~ msgstr "Netkieken"
+
+#~ msgid "Epiphany"
+#~ msgstr "Epiphany"
+
+#~ msgid "Appearance"
+#~ msgstr "Utsehn"
+
+#~ msgid "Customize the look of the desktop"
+#~ msgstr "Schrievdiskutsehn anpassen"
+
+#~ msgid "Search for Files..."
+#~ msgstr "Nah Dateien söken..."
+
+#~ msgid "Panel"
+#~ msgstr "Balken"
+
+#~ msgid "CD/DVD Creator"
+#~ msgstr "CD/DVD-Ersteller"
+
+#~ msgid "Create CDs and DVDs"
+#~ msgstr "CDs un DVDs erstellen"
+
+#~ msgid "Photo Import Tool"
+#~ msgstr "Billinfögenwarktüüg"
+
+#~ msgid "gThumb"
+#~ msgstr "gThumb"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "Leevste Programme"
+
+#~ msgid "User Profile Editor"
+#~ msgstr "Brukertogang bewarken"
+
+#~ msgid "Office Suite"
+#~ msgstr "Kontoorprogrammen"
+
+#~ msgid "Browse and rotate images"
+#~ msgstr "Billers ankieken un dreihn"
+
+#~ msgid "Take Screenshot"
+#~ msgstr "Billschirmfoto scheten"
+
+#~ msgid "Theme Installer"
+#~ msgstr "Themen installerer"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Hulp bie GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Hülp"
+
+#~ msgid "Disk Usage Analyzer"
+#~ msgstr "Spiekergebruk unnersöken"
+
+#~ msgid "Document Viewer"
+#~ msgstr "Dokmentkieker"
+
+#~ msgid "Home Folder"
+#~ msgstr "Tohuus-Orner"
+
+#~ msgid "Open your personal folder"
+#~ msgstr "Hemverteeknis opmaken"
+
+#~ msgid "A pop-art-ish grid of pulsing colors."
+#~ msgstr "Een net vun dollen Klöörs, de as Popart utsehn."
+
+#~ msgid "Pop art squares"
+#~ msgstr "Popkunstruten"
+
+#~ msgid "F-Spot photos"
+#~ msgstr "F-Spot Billers"
+
+#~ msgid "Display a slideshow from your Pictures folder"
+#~ msgstr "Een Döörloop vu'm Billerverteeknis opwiesen"
+
+#~ msgid "Pictures folder"
+#~ msgstr "Billerverteeknis"
+
+#~ msgid "Bubbles the GNOME foot logo around the screen"
+#~ msgstr "Da fleugt dat GNOME Emblem övern Billschirm"
+
+#~ msgid "Floating Feet"
+#~ msgstr "Fleugende Fööt"
+
+#~ msgid "Cosmos"
+#~ msgstr "Universum"
+
+#~ msgid "Display a slideshow of pictures of the cosmos"
+#~ msgstr "Een Döörloop vun Universumsbillers opwiesen"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Leseteken döörsöken un organiseren"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "Epiphany Netleseteken"
+
+#~ msgid "Web Bookmarks"
+#~ msgstr "Netleseteken"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Een Speel mit veel Akschoon un Radels"
+
+#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
+#~ msgstr "Söök Gold, gah Feenden ut'n Weg, un löös Radels"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KGoldrunner"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Menü aktualiseren"
+
+#~ msgid "Okular"
+#~ msgstr "Okular"
+
+#~ msgid "KDiamond"
+#~ msgstr "KDiamant"
+
+#~ msgid "Three-in-a-row game"
+#~ msgstr "\"Dree op de Reeg\"-Speel"
+
+#~ msgid "KSnake"
+#~ msgstr "KSnake"
+
+#~ msgid "Snake-like Game"
+#~ msgstr "Snake-liek Speel"
+
+#~ msgid "Disk writing program"
+#~ msgstr "Brennprogramm"
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Klöörutwahl"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KColorChooser"
+
+#~ msgid "A KDE Blogging Client"
+#~ msgstr "En Nettdaagbook-Programm för KDE"
+
+#~ msgid "Blogilo"
+#~ msgstr "Blogilo"
+
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "Periodensysteem vun de Elementen för KDE"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kalzium"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "Periodensysteem vun de Elementen"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Galgenmanntje-Speel"
+
+#~ msgid "KDE Hangman Game"
+#~ msgstr "Galgenmanntje-Speel för KDE"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "Contact Manager"
+#~ msgstr "Kontaktenpleger"
+
+#~ msgid "KPhotoAlbum"
+#~ msgstr "KPhotoAlbum"
+
+#~ msgid "Photo Album"
+#~ msgstr "Fotoalbum"
+
+#~ msgid "A simple image viewer"
+#~ msgstr "En eenfach Bildkieker"
+
+#~ msgid "Gwenview"
+#~ msgstr "Gwenview"
+
+#~ msgid "Kiriki"
+#~ msgstr "Kiriki"
+
+#~ msgid "Yahtzee-like Dice Game"
+#~ msgstr "Yahtzee-liek Wörpelspeel"
+
+#~ msgid "KUser"
+#~ msgstr "KUser"
+
+#~ msgid "User Manager"
+#~ msgstr "Bruker-Pleger"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KJumpingCube"
+
+#~ msgid "Territory Capture Game"
+#~ msgstr "\"Rebeden besetten\"-Speel"
+
+#~ msgid "Konquest"
+#~ msgstr "Konquest"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "En Naslakoort- un Vokavellehr-Programm"
+
+#~ msgid "Flash Card Trainer"
+#~ msgstr "Koorten-Lehrprogramm"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgid "Kontact Administration"
+#~ msgstr "Kontaktenpleeg"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "Amarok - Rediscover Your Music!"
+#~ msgstr "Amarok - Beleev Dien Musik nieg!"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "CVS-Böversiet"
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KRuler"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Schirmlineaal"
+
+#~ msgid "KSnapshot"
+#~ msgstr "KSnapshot"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Schirmfotos opnehmen"
+
+#~ msgid "Character Selector"
+#~ msgstr "Tekenutwähler"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Learn The Alphabet"
+#~ msgstr "Dat Alfabeet lehren"
+
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "En KDE-Programm för't Lehren vun't Alfabeet"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Kalenner un Tietplaner"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KOrganizer"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "Persöönlich Mötenkalenner"
+
+#~ msgid "Home"
+#~ msgstr "Tohuus"
+
+#~ msgid "Personal Files"
+#~ msgstr "De egen Dateien"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KSpaceDuel"
+
+#~ msgid "Space Arcade Game"
+#~ msgstr "Speelhall-Weltruumspeel"
+
+#~ msgid "A Feed Reader for KDE"
+#~ msgstr "En Mellenstroom-Kieker för KDE"
+
+#~ msgid "Akregator"
+#~ msgstr "Akregator"
+
+#~ msgid "Feed Reader"
+#~ msgstr "Mellenstroom-Kieker"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Schriefmaschien öven"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "Editor för HTML-Bildkoorten"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KImageMapEditor"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "Link Checker"
+#~ msgstr "Linkprööv"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "Note Taker"
+#~ msgstr "Notizen maken"
+
+#~ msgid "KMouth"
+#~ msgstr "KMouth"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Böversiet för de Blicksnuut"
+
+#~ msgid "Konversation"
+#~ msgstr "Konversation"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "En Ümgeven för wunnerbore Schriefdischeffekten"
+
+#~ msgid "Desktop Widgets"
+#~ msgstr "Schriefdisch-Verwiedern"
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Nepomuk PIMO Shell"
+#~ msgstr "Nepomuk-TIM-Konsool"
+
+#~ msgid "The simple Nepomuk PIMO Shell"
+#~ msgstr "De eenfache Nepomuk-TIM-Konsool"
+
+#~ msgid "Picture Game for Children"
+#~ msgstr "Billerspeel för Kinners"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Kantüffelfips"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "Vörgeschicht vun't Knippen un Infögen"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Warktüüch för de Twischenaflaag"
+
+#~ msgid "Klipper"
+#~ msgstr "Klipper"
+
+#~ msgid "Battleship Game"
+#~ msgstr "Scheep versenken"
+
+#~ msgid "KBattleship"
+#~ msgstr "Scheep versenken"
+
+#~ msgid "Go Board Game"
+#~ msgstr "Go-Brettspeel"
+
+#~ msgid "Kigo"
+#~ msgstr "Kigo"
+
+#~ msgid "Card Game"
+#~ msgstr "Koortenspeel"
+
+#~ msgid "LSkat"
+#~ msgstr "LSkat"
+
+#~ msgid "CD Player"
+#~ msgstr "CD-Afspeler"
+
+#~ msgid "KsCD"
+#~ msgstr "KsCD"
+
+#~ msgid ""
+#~ "Manage your photographs like a professional with the power of open source"
+#~ msgstr "KDE-Fotopleger"
+
+#~ msgid "Photo Viewer and Editor"
+#~ msgstr "Bildkieker"
+
+#~ msgid "showFoto"
+#~ msgstr "showFoto"
+
+#~ msgid "Bomber"
+#~ msgstr "Bomber"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Bomberman-Kloon"
+
+#~ msgid "Granatier"
+#~ msgstr "Granatier"
+
+#~ msgid "KAlgebra"
+#~ msgstr "KAlgebra"
+
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "Löser för mathemaatsche Utdrück un Bagenschriever"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Kieker för Qt-Designer sien UI-Dateien"
+
+#~ msgid "3-D Game based on Rubik's Cube"
+#~ msgstr "3D-Speel, dat op Rubik sien Wörpel opbuut"
+
+#~ msgid "A 3-D game based on Rubik's Cube"
+#~ msgstr "En 3D-Speel, dat op Rubik sien Wörpel opbuut"
+
+#~ msgid "Kubrick"
+#~ msgstr "Kubrick"
+
+#~ msgid "KAppTemplate"
+#~ msgstr "KAppTemplate"
+
+#~ msgid "KDE Template Generator"
+#~ msgstr "KDE-Vörlagenopsteller"
+
+#~ msgid "Certificate Manager and Unified Crypto GUI"
+#~ msgstr "Zertifikatenpleger un liekmaakt Verslötel-Böversiet"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kleopatra"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Schriefdisch-Freegaav"
+
+#~ msgid "Krfb"
+#~ msgstr "KRfb"
+
+#~ msgid "KsirK Skin Editor"
+#~ msgstr "KsirK-Böversieteditor"
+
+#~ msgid "Skin Editor for the World Domination Strategy Game"
+#~ msgstr "Böversieteditor för't Strategiespeel \"World Domination\""
+
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "Groupware-Hölper vun KDE"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Shisen-Sho"
+
+#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
+#~ msgstr "Mahjongg-liek Speel"
+
+#~ msgid "Desktop Search"
+#~ msgstr "Schrievdischsöök"
+
+#~ msgid "Nepomuk Search Client"
+#~ msgstr "Nepomuk-Söök-Client"
+
+#~ msgid "The simple Nepomuk Desktop Search Client"
+#~ msgstr "De Client för de eenfache Nepomuk-Schriefdischsöök"
+
+#~ msgid "A memory enhancement game"
+#~ msgstr "En Speel för't Verbetern vun't Behollen"
+
+#~ msgid "Blinken"
+#~ msgstr "Blinken"
+
+#~ msgid "Memory Enhancement Game"
+#~ msgstr "Speel för't Verbetern vun't Behollen"
+
+#~ msgid "KSudoku"
+#~ msgstr "KSudoku"
+
+#~ msgid "KSudoku, Sudoku game & more for KDE"
+#~ msgstr "KSudoku, Sudoku-Speel un mehr för KDE"
+
+#~ msgid "Sudoku Game"
+#~ msgstr "Sudoku-Speel"
+
+#~ msgid "Graph Theory Tool for Professors and Students."
+#~ msgstr "Graphentheorie för Professors un Studenten"
+
+#~ msgid "Rocs Graph Theory"
+#~ msgstr "Graphentheorie »Rocs«"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "En GnuPG-Böversiet"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Verslötel-Warktüüch"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr ""
+#~ "En Lüttprogramm för dat Paneel, dat de Grött un de Utrichten vun den X-"
+#~ "Schirm ännern kann."
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Schirmgrött un -utrichten ännern"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KMahjongg"
+
+#~ msgid "Mahjongg Solitaire"
+#~ msgstr "Eenspeler-Mahjongg"
+
+#~ msgid "Konsole"
+#~ msgstr "Konsool"
+
+#~ msgid "KReversi"
+#~ msgstr "KReversi"
+
+#~ msgid "Reversi Board Game"
+#~ msgstr "Reversi-Brettspeel"
+
+#~ msgid "Killbots"
+#~ msgstr "Killbots"
+
+#~ msgid "KMail view"
+#~ msgstr "KMail-Ansicht"
+
+#~ msgid "KCalc"
+#~ msgstr "KCalc"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Wetenschaplich Taschenreekner"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Böversiet för \"diff\" un \"patch\""
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "Schirmluup"
+
+#~ msgid "Countdown Launcher"
+#~ msgstr "Teller starten"
+
+#~ msgid "KTimer"
+#~ msgstr "KTimer"
+
+#~ msgid "Snippets datafile editor"
+#~ msgstr "Editor för Snippels-Datendateien"
+
+#~ msgid "skrooge"
+#~ msgstr "Skrooge"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Hölper för Nettwarkorner"
+
+#~ msgid "UML Modeller"
+#~ msgstr "UML-Modellmaker"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "Blackbox Logic Game"
+#~ msgstr "Blackbox Logikspeel"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KBlackBox"
+
+#~ msgid "KAtomic"
+#~ msgstr "KAtomic"
+
+#~ msgid "Sokoban-like Logic Game"
+#~ msgstr "Sokoban-liek Logikspeel"
+
+#~ msgid "KPatience"
+#~ msgstr "KPatience"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Patiencen leggen"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "Pleger för persöönliche Informatschonen"
+
+#~ msgid "Desktop Globe"
+#~ msgstr "Schriefdisch-Globus"
+
+#~ msgid "Marble"
+#~ msgstr "Marble"
+
+#~ msgid "Bovo"
+#~ msgstr "Bovo"
+
+#~ msgid "Five-in-a-row Board Game"
+#~ msgstr "\"Fief op de Reeg\"-Speel"
+
+#~ msgid "Annotate..."
+#~ msgstr "Anmarken..."
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "Schriefdisch-Maskottje"
+
+#~ msgid "Parley"
+#~ msgstr "Parley"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Vokaveln lehren"
+
+#~ msgid "Font Viewer"
+#~ msgstr "Schriftoortkieker"
+
+#~ msgid "KFontView"
+#~ msgstr "Schriftoortkieker"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Bagenschriever för Funkschonen"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "Mathemaatsch Bagenschriever"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "Internetinwahl-Warktüüch"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "Integrated Development Environment"
+#~ msgstr "Programmsmeed"
+
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#~ msgid "Breakout-like Game"
+#~ msgstr "Breakout-liek Speel"
+
+#~ msgid "KBreakOut"
+#~ msgstr "KBreakOut"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Planetarium för'n Schrievdisch"
+
+#~ msgid "KStars"
+#~ msgstr "KStars"
+
+#~ msgid "Four-in-a-row Board Game"
+#~ msgstr "\"Veer op de Reeg\"-Speel"
+
+#~ msgid "KFourInLine"
+#~ msgstr "KFourInLine"
+
+#~ msgid "KNetWalk"
+#~ msgstr "KNetWalk"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KolourPaint"
+
+#~ msgid "KAlarm"
+#~ msgstr "KAlarm"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Persöönlich Anstöötgever"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Knipp-Pleger"
+
+#~ msgid "Eat pills escaping ghosts"
+#~ msgstr "Pillen freten un vör Spökels utneihen"
+
+#~ msgid "Kapman"
+#~ msgstr "Kapman"
+
+#~ msgid "Pac-Man Clone"
+#~ msgstr "Pacman-Kloon"
+
+#~ msgid "KRemoteControl Notifier Item"
+#~ msgstr "Bescheden-Element för KDE-Feernbedenen"
+
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#~ msgid "Tron-like Game"
+#~ msgstr "Tron-liek Speel"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KDiskFree"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Fastplattbruuk wiesen"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "A BitTorrent program for KDE"
+#~ msgstr "En Bittorrent-Programm för KDE"
+
+#~ msgid "BitTorrent Client"
+#~ msgstr "Bittorrent-Programm"
+
+#~ msgid "KTorrent"
+#~ msgstr "KTorrent"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "Profiler-Böversiet"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Visualiseren vun Programmleisten-Looptietdaten"
+
+#~ msgid "Download Manager"
+#~ msgstr "Daallaadpleger"
+
+#~ msgid "KGet"
+#~ msgstr "KGet"
+
+#~ msgid "Kajongg"
+#~ msgstr "Kajongg"
+
+#~ msgid "Mah Jongg"
+#~ msgstr "Mah Jongg"
+
+#~ msgid "The ancient Chinese board game for 4 players"
+#~ msgstr "Dat oorole chinees'sche Brettspeel för veer Spelers"
+
+#~ msgid "A Geography Learning Program"
+#~ msgstr "En Eerdkunn-Lehrprogramm"
+
+#~ msgid "Geography Trainer"
+#~ msgstr "Eerdkunn lehren"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Kolor Lines"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "Brookreken öven"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Brookreken öven"
+
+#~ msgid "Computer-Aided Translation System"
+#~ msgstr "Reeknerünnerstütt Översettensysteem"
+
+#~ msgid "Lokalize"
+#~ msgstr "Lokalize"
+
+#~ msgid "Info Center"
+#~ msgstr "Infozentrum"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "KDE-Infozentrum"
+
+#~ msgid "KTeaTime"
+#~ msgstr "KTeaTime"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Teekaker"
+
+#~ msgid "Change Password"
+#~ msgstr "Passwoort ännern"
+
+#~ msgid "Connect the dots to create squares"
+#~ msgstr "Pünkt verbinnen, so dat Quadraten dor bi rutkaamt"
+
+#~ msgid "KSquares"
+#~ msgstr "KSquares"
+
+#~ msgid "KsirK"
+#~ msgstr "KsirK"
+
+#~ msgid "World Domination Strategy Game"
+#~ msgstr "Weltherrschop-Strategiespeel"
+
+#~ msgid "KDE Frontend to Mathematical Software"
+#~ msgstr "KDE-Böversiet för Rekenprogrammen"
+
+#~ msgid "Jigsaw puzzle game"
+#~ msgstr "Pusselspeel"
+
+#~ msgid "Palapeli"
+#~ msgstr "Palapeli"
+
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "Nakiek- un Lehrwarktüüch för Japaansch "
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Nakiek- un Lehrwarktüüch för Japaansch "
+
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgid "KMix"
+#~ msgstr "KMix"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Klangmischer"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "KDE-Programmfehler-Pleeg"
+
+#~ msgid "Bookmark Editor"
+#~ msgstr "Leesteken-Editor"
+
+#~ msgid "Bookmark Organizer and Editor"
+#~ msgstr "Leestekenpleger un -editor"
+
+#~ msgid "KFileReplace"
+#~ msgstr "KFileReplace"
+
+#~ msgid "Search & Replace Tool"
+#~ msgstr "Söök- un Utwesselwarktüüch"
+
+#~ msgid "Akonadi Tray Utility"
+#~ msgstr "Akonadi-Systeemafsnittprogramm"
+
+#~ msgid "Akonaditray"
+#~ msgstr "Akonaditray"
+
+#~ msgid "Kolf"
+#~ msgstr "Kolf"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Minigolf"
+
+#~ msgid "KWalletManager"
+#~ msgstr "KDE-Knippenpleger"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Deenstprogramm för tuuschbore Medien"
+
+#~ msgid "Ball Bouncing Game"
+#~ msgstr "Speel mit springen Bäll"
+
+#~ msgid "KBounce"
+#~ msgstr "KBounce"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "Automaatsche Muusklicks"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Klickt de Muus för Di, minnert de Effekten vun RSI af"
+
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgid "Sweeper"
+#~ msgstr "Leuwagen"
+
+#~ msgid "System Cleaner"
+#~ msgstr "Systeemreenmaken"
+
+#~ msgid "Trash"
+#~ msgstr "Affalltünn"
+
+#~ msgid "Minesweeper-like Game"
+#~ msgstr "Minesweeper-liek Speel"
+
+#~ msgid "Board Game"
+#~ msgstr "Brettspeel"
+
+#~ msgid "SameGame"
+#~ msgstr "SameGame"
+
+#~ msgid "KWrite"
+#~ msgstr "KWrite"
+
+#~ msgid "Photo Management Program"
+#~ msgstr "Fotopleger"
+
+#~ msgid "digiKam"
+#~ msgstr "digiKam"
+
+#~ msgid "PackageKit interface for KDE"
+#~ msgstr "KPackageKit-Koppelsteed för KDE"
+
+#~ msgid "Software Management"
+#~ msgstr "Programmpleeg"
+
+#~ msgid "Nepomuk Ontology Importer"
+#~ msgstr "Nepomuk-Weeswarkimport"
+
+#~ msgid "Ontology Import"
+#~ msgstr "Weeswark-Import"
+
+#~ msgid "Simple Client to the Nepomuk Ontology Manager Service"
+#~ msgstr "Eenfach Client för den Weeswark-Pleegdeenst vun Nepomuk"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Verwiedert Text-Editor"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "Hex Editor"
+#~ msgstr "Hexeditor"
+
+#~ msgid "Okteta"
+#~ msgstr "Okteta"
+
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgid "News Reader"
+#~ msgstr "Usenet-Narichtenkieker"
+
+#~ msgid "Interactive Physical Simulator"
+#~ msgstr "Interaktiev Physik-Simuleren"
+
+#~ msgid "Simulate physics experiments"
+#~ msgstr "Physik-Experimenten simuleren"
+
+#~ msgid "Step"
+#~ msgstr "Step"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Menüeditor"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Musikafspeler"
+
+#~ msgid "KTimeTracker"
+#~ msgstr "KTimeTracker"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Persöönlich Tietlogbook"
+
+#~ msgid "Akonadi Console"
+#~ msgstr "Akonadi-Konsool"
+
+#~ msgid "Akonadi Management and Debugging Console"
+#~ msgstr "Akonadi sien Pleeg- un Fehlersöök-Konsool"
+
+#~ msgid "KRDC"
+#~ msgstr "KRDC"
+
+#~ msgid "Remote Desktop Client"
+#~ msgstr "Schriefdisch-Feernverbinnen"
+
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC-Server"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "KDE-Linux Infraroot-Feernbedeenkuntrullserver"
+
+#~ msgid "KSystemLog"
+#~ msgstr "KSystemLog"
+
+#~ msgid "System Log Viewer"
+#~ msgstr "Kieker för't Systeemlogbook"
+
+#~ msgid "System log viewer tool"
+#~ msgstr "Kieker för Systeem-Logböker"
+
+#~ msgid "Educational Programming Environment"
+#~ msgstr "Lehr-Programmsmeed"
+
+#~ msgid "KTurtle"
+#~ msgstr "KTurtle"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Dateien/Ornern söken"
+
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr "Protokollkieker för Internetinwahl"
+
+#~ msgid "KPPPLogview"
+#~ msgstr "KPPPLogview"
+
+#~ msgid "A simple ball dodging game"
+#~ msgstr "En eenfach Ball-Utwiekspeel"
+
+#~ msgid "Kollision"
+#~ msgstr "Kollision"
+
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "Geometersch Konstrukschonen bekieken"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Wesselwarken Geometrie"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Dateipleger, Systeemplegerbedrief"
+
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "KDE-Bookstavenspeel"
+
+#~ msgid "Kanagram"
+#~ msgstr "Kanagram"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Bookstaven ornen"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Opduk-Notizen"
+
+#~ msgid "KDE SVN Build"
+#~ msgstr "KDE SVN Build"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Diskettformaterer"
+
+#~ msgid "KFloppy"
+#~ msgstr "KDiskett"
+
+#~ msgid "Dragon Player"
+#~ msgstr "Draken-Speler"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Tastkombinatschonen"
+
+#~ msgid "Screensaver"
+#~ msgstr "Billschirmschoner"
+
+#~ msgid "Set your screensaver preferences"
+#~ msgstr "Billschirmschonerinstellens setten"
+
+#~ msgid "Free, easy, personal accounting for everyone."
+#~ msgstr "Kostenlose, einfache, persönliche Buchhaltung für jedermann."
+
+#~ msgid "HomeBank"
+#~ msgstr "HomeBank"
+
+#~ msgid "Open Folder"
+#~ msgstr "Verteeknis opmaken"
+
+#~ msgid "Network Proxy"
+#~ msgstr "Netwark-Proxy"
+
+#~ msgid "Set your network proxy preferences"
+#~ msgstr "Netwark-Proxy-Instellens setten"
+
+#~ msgid "Use the command line"
+#~ msgstr "De Orderreeg bruken"
+
+#~ msgid "Startup Applications"
+#~ msgstr "Systemstartprogramme"
+
+#~ msgid "Preview fonts"
+#~ msgstr "Schriftartutblick"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Tonclips opnehmen"
+
+#~ msgid "Windows"
+#~ msgstr "Finstern"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Bruker un Gruppen hentofögen or löschen"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Qt Linguist (Spraakwarktüüch)"
+
+#~ msgid "Archive Manager"
+#~ msgstr "Archivoppasser"
+
+#~ msgid "Learn more about GNOME"
+#~ msgstr "Mehr över GNOME rutkriegen"
+
+#~ msgid "Task Manager"
+#~ msgstr "Opgavoppassens"
+
+#~ msgid "Keyboard"
+#~ msgstr "Tastatuur"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Knöppboordinstellens setten"
+
+#~ msgid "Cheese"
+#~ msgstr "Cheese"
+
+#~ msgid "The GNOME configuration tool"
+#~ msgstr "GNOME-Konfiguratschoonswarktügg"
+
+#~ msgid "File Management"
+#~ msgstr "Dateioppassen"
+
+#~ msgid "Edit text files"
+#~ msgstr "Textdateien bewarken"
+
+#~ msgid "gedit"
+#~ msgstr "gedit"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Autorun Prompt"
+#~ msgstr "Autorun Avfrage"
+
+#~ msgid "GIMP"
+#~ msgstr "GIMP"
+
+#~ msgid "Image Editor"
+#~ msgstr "Billbewarker"
+
+#~ msgid "KMPlayer"
+#~ msgstr "KMPlayer"
+
+#~ msgid "Karbon14"
+#~ msgstr "Karbon14"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "KOffice"
+#~ msgstr "KOffice"
+
+#~ msgid "KPlato"
+#~ msgstr "KPlato"
+
+#~ msgid "KPlato WorkPackage Handler"
+#~ msgstr "Arbeitpaket-Hanteerer KPlato"
+
+#~ msgid "KPresenter"
+#~ msgstr "KPresenter"
+
+#~ msgid "Krita"
+#~ msgstr "Krita"
+
+#~ msgid "KSpread"
+#~ msgstr "KSpread"
+
+#~ msgid "KWord"
+#~ msgstr "KWord"
+
+#~ msgid "Personal Finance Manager"
+#~ msgstr "Geldsaken plegen"
+
+#~ msgid "TV Viewer"
+#~ msgstr "Feernsehkieker"
+
+#~ msgid "Avant Window Navigator"
+#~ msgstr "Avant Window Navigator"
+
+#~ msgid "Partition Editor"
+#~ msgstr "Partitschonen-Editor"
+
+#~ msgid "KThesaurus"
+#~ msgstr "KThesaurus"
+
+#~ msgid "Choqok"
+#~ msgstr "Choqok"
+
+#~ msgid "KDE Micro-blogging Client"
+#~ msgstr "KDE-Programm för Mikro-Nettdaagböker"
+
+#~ msgid "DeviceSync"
+#~ msgstr "Reedschapsynkroniseren"
+
+#~ msgid "Disk Usage Statistics"
+#~ msgstr "Fastplaatbruuk-Statistik"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "View disk usage information"
+#~ msgstr "Wiest Informatschonen över den Bruuk vun de Fastplaat"
+
+#~ msgid "Game Creation Tool"
+#~ msgstr "Game Creation Tool"
+
+#~ msgid "Gluon Creator"
+#~ msgstr "Gluon Creator"
+
+#~ msgid "Kaffeine"
+#~ msgstr "Kaffeine"
+
+#~ msgid "KAudioCreator"
+#~ msgstr "KAudioCreator"
+
+#~ msgid "Blog Manager"
+#~ msgstr "Nettdaagbook-Pleger"
+
+#~ msgid "kdetv"
+#~ msgstr "Kdetv"
+
+#~ msgid "A File And Directory Comparison And Merge Tool"
+#~ msgstr ""
+#~ "En Warktüüch för't Verglieken un Tosamenföhren vun Dateien un Ornern"
+
+#~ msgid "Kepas - KDE Easy Publish and Share"
+#~ msgstr "Kepas - KDE Easy Publish and Share (Eenfach apen maken un delen)"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "En Taschenreekner un Ümreekner för Geldsoorten"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "A graphical FTP client"
+#~ msgstr "En graafsch FTP-Client"
+
+#~ msgid "FTP Client"
+#~ msgstr "FTP-Client"
+
+#~ msgid "A Graphviz dot graph editor for KDE"
+#~ msgstr "Editor för GraphViz-Dot-Diagrammen för KDE"
+
+#~ msgid "kgrapheditor"
+#~ msgstr "KGraphEditor"
+
+#~ msgid "A Graphviz dot graph viewer for KDE"
+#~ msgstr "Kieker för GraphViz-Dot-Diagrammen för KDE"
+
+#~ msgid "kgraphviewer"
+#~ msgstr "KGraphViewer"
+
+#~ msgid "KIconEdit"
+#~ msgstr "KIconEdit"
+
+#~ msgid "(La)TeX development environment"
+#~ msgstr "(La)TeX-Dokmentensmeed"
+
+#~ msgid "Kile"
+#~ msgstr "Kile"
+
+#~ msgid "LaTeX Frontend"
+#~ msgstr "LaTeX-Böversiet"
+
+#~ msgid "A KDE4 MIDI/Karaoke Player"
+#~ msgstr "En Midi- un Karaoke-Afspeler för KDE-4"
+
+#~ msgid "KMid"
+#~ msgstr "KMid"
+
+#~ msgid "KMyMoney"
+#~ msgstr "KMyMoney"
+
+#~ msgid "KNemo"
+#~ msgstr "KNemo"
+
+#~ msgid "Network Monitor"
+#~ msgstr "Nettwark-Kieker"
+
+#~ msgid "A KDE frontend for NetworkManager"
+#~ msgstr "En KDE-Böversiet för »NetworkManager«"
+
+#~ msgid "KNetworkManager"
+#~ msgstr "KNetworkManager"
+
+#~ msgid "Network Manager"
+#~ msgstr "Nettwarkpleger"
+
+#~ msgid "Write presentation documents"
+#~ msgstr "Presentatschonen opstellen"
+
+#~ msgid "Cooking Book"
+#~ msgstr "Kookbook"
+
+#~ msgid "Krecipes"
+#~ msgstr "Krecipes"
+
+#~ msgid "The KDE Cooking Book"
+#~ msgstr "Dat Kookbook vun KDE"
+
+#~ msgid "Application for Drawing and Handling of Images"
+#~ msgstr "Programm för't Teken un Bildhanteren"
+
+#~ msgid "Write spreadsheet documents"
+#~ msgstr "Tabellenutreken opstellen"
+
+#~ msgid "Kuickshow"
+#~ msgstr "Kuickshow"
+
+#~ msgid "A KDE KPart Application"
+#~ msgstr "En KPart-Deelprogramm för KDE"
+
+#~ msgid "KVerbos"
+#~ msgstr "KVerbos"
+
+#~ msgid "GUI for various VPN clients"
+#~ msgstr "Böversiet för verscheden VPN-Clients"
+
+#~ msgid "KVpnc"
+#~ msgstr "KVpnc"
+
+#~ msgid "VPN Client GUI"
+#~ msgstr "VPN-Client-Böversiet"
+
+#~ msgid "A KDE4 Application"
+#~ msgstr "En KDE4-Programm"
+
+#~ msgid "Mailody"
+#~ msgstr "Mailody"
+
+#~ msgid "Mail Viewer"
+#~ msgstr "Nettpostkieker"
+
+#~ msgid "MailodyMailViewer"
+#~ msgstr "Mailody-Nettpostkieker"
+
+#~ msgid "KDE Partition Manager"
+#~ msgstr "KDE-Partitschonenpleger"
+
+#~ msgid "Manage disks, partitions and file systems"
+#~ msgstr "Fastplaten, Partitschonen un Dateisystemen plegen"
+
+#~ msgid "rekonq"
+#~ msgstr "Rekonq"
+
+#~ msgid "Makes sure you rest now and then"
+#~ msgstr "Stellt seker, dat Du af Di af un an verpusten deist"
+
+#~ msgid "Scan and save images"
+#~ msgstr "Biller inlesen un sekern"
+
+#~ msgid "Skanlite"
+#~ msgstr "Skanlite"
+
+#~ msgid "A collection manager"
+#~ msgstr "En Sammeln-Pleger"
+
+#~ msgid "Collection Manager"
+#~ msgstr "Sammeln-Pleger"
+
+#~ msgid "Tellico"
+#~ msgstr "Tellico"
+
+#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
+#~ msgstr "En Konsool-Emulater, de sik utklappen lett, op KDE-Konsole opbuut."
+
+#~ msgid "Drop-down Terminal"
+#~ msgstr "Utklapp-Konsool"
+
+#~ msgid "Yakuake"
+#~ msgstr "Yakuake"
+
+#~ msgid "Services"
+#~ msgstr "Deensten"
+
+#~ msgid "Easy quick task management"
+#~ msgstr "Eenfaches un fixes Opgavoppassen"
+
+#~ msgid "Tasque"
+#~ msgstr "Tasque"
+
+#~ msgid "Time and Date"
+#~ msgstr "Tied un Dag"
+
+#~ msgid "Users and Groups"
+#~ msgstr "Bruker un Gruppen"

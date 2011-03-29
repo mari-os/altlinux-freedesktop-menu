@@ -1,0 +1,3689 @@
+# translation of menu-messages-tg.po to Tajik
+# translation of menu-messages-tg.po to Тоҷикӣ
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/tg.php3
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Copyright (C) 2000 MandrakeSoft
+# 2004, infoDev, a World Bank organization
+# 2004, Khujand Computer Technologies, Inc.
+# 2004, KCT1, NGO
+# Dilshod Marupov <kct_tj@yahoo.co.uk>, 2002,2004
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: menu-messages-tg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 11:07+0200\n"
+"PO-Revision-Date: 2004-10-04 21:37+0000\n"
+"Last-Translator: Abrorova <H_Abrorova@rambler.ru>\n"
+"Language-Team: Tajik\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#, fuzzy
+msgid "2D Graphics"
+msgstr "Графикаҳо"
+
+#, fuzzy
+msgid "2D based graphical applications"
+msgstr "Барномаҳои поёна"
+
+#, fuzzy
+msgid "3D Graphics"
+msgstr "Графикаҳо"
+
+#, fuzzy
+msgid "3D based graphical applications"
+msgstr "Барномаҳои поёна"
+
+msgid "A clock application/applet"
+msgstr ""
+
+#, fuzzy
+msgid "A simple amusement"
+msgstr "Барномаи оддӣ барои намоиши тасвир"
+
+msgid "Accessibility"
+msgstr "Тавонёбӣ"
+
+#, fuzzy
+msgid "Action"
+msgstr "Маълумот"
+
+#, fuzzy
+msgid "Action Games"
+msgstr "Бозии амал - муаммо"
+
+msgid "AddressBooks"
+msgstr ""
+
+#, fuzzy
+msgid "Administration"
+msgstr "Идораи Корванд"
+
+msgid "Adventure"
+msgstr "Саргузаштҳо"
+
+#, fuzzy
+msgid "Adventure style games"
+msgstr "Бозии ба монанди tetris"
+
+msgid "Amateur Radio"
+msgstr ""
+
+#, fuzzy
+msgid "Application to burn a disc"
+msgstr "Замимаҳо"
+
+msgid "Application to manage your finance"
+msgstr ""
+
+msgid "Applications"
+msgstr "Замимаҳо"
+
+msgid "Applications like cvs or subversion"
+msgstr ""
+
+msgid "Applications to manage a database"
+msgstr ""
+
+msgid "Applications/applets that monitors some resource or activity"
+msgstr ""
+
+msgid "Arcade"
+msgstr "Қаторравоқҳо"
+
+#, fuzzy
+msgid "Arcade style game"
+msgstr "Бозии аркадавии видео"
+
+#, fuzzy
+msgid "Archiving"
+msgstr "Асбобҳои Бойгонӣ"
+
+#, fuzzy
+msgid "Art"
+msgstr "Ark"
+
+msgid "Artificial Intelligence"
+msgstr "Ақли сунъӣ"
+
+#, fuzzy
+msgid "Artificial Intelligence software"
+msgstr "Ақли сунъӣ"
+
+msgid "Astronomy"
+msgstr "Ситорашиносӣ"
+
+#, fuzzy
+msgid "Astronomy software"
+msgstr "Ситорашиносӣ"
+
+msgid "Audio Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Audio Players"
+msgstr "Аудио Плейер"
+
+#, fuzzy
+msgid "Audio Recorders"
+msgstr "Сабткунаки Садо "
+
+msgid "Biology"
+msgstr "Биология"
+
+#, fuzzy
+msgid "Biology software"
+msgstr "Morphing таъминоти барномавӣ"
+
+msgid "Board Games"
+msgstr "Тахта бозиҳо"
+
+msgid "Boards"
+msgstr "Тахтаҳо"
+
+msgid "Building"
+msgstr ""
+
+msgid "Calculator"
+msgstr "Ҳисобкунак"
+
+#, fuzzy
+msgid "Calculators"
+msgstr "Ҳисобкунак"
+
+#, fuzzy
+msgid "Calendar"
+msgstr "Блендер"
+
+msgid "Camera tools, etc."
+msgstr ""
+
+msgid "Card Games"
+msgstr "Корт бозиҳо"
+
+msgid "Cards"
+msgstr "Кортҳо"
+
+#, fuzzy
+msgid "Chart"
+msgstr "KИнтихобгари Аломатҳо"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chemistry"
+msgstr "Кимиё"
+
+#, fuzzy
+msgid "Chemistry software"
+msgstr "Кимиё"
+
+#, fuzzy
+msgid "Clock"
+msgstr "KМошинаи ҳисобкунак"
+
+#, fuzzy
+msgid "Communications"
+msgstr "Замимаҳо"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer Science"
+msgstr "Илми компютер"
+
+#, fuzzy
+msgid "Computer Science software"
+msgstr "Илми компютер"
+
+#, fuzzy
+msgid "Computer Sience software"
+msgstr "Илми компютер"
+
+#, fuzzy
+msgid "Computer science"
+msgstr "Илми компютер"
+
+msgid "Configuration tools for the GUI"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Contact Management, e.g. an address book"
+msgstr ""
+
+msgid "Data Visualization"
+msgstr "Дидоринамоии додаҳо"
+
+#, fuzzy
+msgid "Data visualization software"
+msgstr "Дидоринамоии додаҳо"
+
+msgid "Databases"
+msgstr "Манбаи додаҳо"
+
+#, fuzzy
+msgid "Debug Applications"
+msgstr "Бисёртар ариза"
+
+msgid "Desktop"
+msgstr "Мизи Корӣ"
+
+msgid "Desktop Publishing applications and Color Management tools"
+msgstr ""
+
+msgid "Development"
+msgstr "Пешрафт"
+
+#, fuzzy
+msgid "Dial-up programs"
+msgstr "Барномаи нақшаи севазъа"
+
+msgid "Dialup"
+msgstr ""
+
+#, fuzzy
+msgid "Dictionaries"
+msgstr "Луғат"
+
+msgid "Dictionary"
+msgstr "Луғат"
+
+msgid "Disc burning"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Ҳуҷҷатҳо"
+
+msgid "Economy"
+msgstr "Иқтисодиёт"
+
+msgid "Editors"
+msgstr "Муҳаррир"
+
+msgid "Education"
+msgstr "Маълумот"
+
+msgid "Electricity"
+msgstr "Нерӯи барқ"
+
+#, fuzzy
+msgid "Electricity software"
+msgstr "Нерӯи барқ"
+
+#, fuzzy
+msgid "Electronics"
+msgstr "Нерӯи барқ"
+
+msgid "Electronics software, e.g. circuit designers"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr "Xқуттии пост"
+
+#, fuzzy
+msgid "Email applications"
+msgstr "Барномаҳои поёна"
+
+msgid "Emulator of another platform"
+msgstr ""
+
+msgid "Emulators"
+msgstr "Намунасозҳо"
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Engineering software, e.g. CAD programs"
+msgstr ""
+
+msgid "Falling Blocks"
+msgstr ""
+
+msgid "Falling blocks games"
+msgstr ""
+
+#, fuzzy
+msgid "File Managers"
+msgstr "Мудири файл"
+
+#, fuzzy
+msgid "File Systems"
+msgstr "Систем"
+
+#, fuzzy
+msgid "File Transfer"
+msgstr "Мудири файл"
+
+msgid "File system tools"
+msgstr ""
+
+msgid "File tool utilities"
+msgstr ""
+
+#, fuzzy
+msgid "File tools"
+msgstr "Асбобҳои матнӣ"
+
+#, fuzzy
+msgid "Finances"
+msgstr "Илмӣ"
+
+msgid "Flow Chart"
+msgstr ""
+
+msgid "GNOME"
+msgstr "GNOME"
+
+#, fuzzy
+msgid "GUI Designers"
+msgstr "Тароҳи Qt"
+
+#, fuzzy
+msgid "GUI designer applications"
+msgstr "Барномаҳои поёна"
+
+msgid "Games"
+msgstr "Бозиҳо"
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Games for Kids"
+msgstr "Бозиҳо барои бачаҳо"
+
+msgid "Geography"
+msgstr "Ҷуғрофия"
+
+#, fuzzy
+msgid "Geology"
+msgstr "Биология"
+
+#, fuzzy
+msgid "Geology software"
+msgstr "Morphing таъминоти барномавӣ"
+
+#, fuzzy
+msgid "Geoscience"
+msgstr "Геофизика"
+
+#, fuzzy
+msgid "Geoscience software"
+msgstr "Геофизика"
+
+msgid "Geosciences"
+msgstr "Геофизика"
+
+msgid "Graphics"
+msgstr "Графикаҳо"
+
+#, fuzzy
+msgid "HAM radio software"
+msgstr "Morphing таъминоти барномавӣ"
+
+msgid "Hardware"
+msgstr "Сахтафзор"
+
+msgid "History"
+msgstr "Таърих"
+
+#, fuzzy
+msgid "IDE"
+msgstr "IDLE"
+
+#, fuzzy
+msgid "IDE applications"
+msgstr "Замимаҳо"
+
+msgid "IRC"
+msgstr "IRC"
+
+#, fuzzy
+msgid "IRC clients"
+msgstr "Мизоҷи IRC"
+
+msgid "Image Processing"
+msgstr "Пардозиши симоҳо"
+
+#, fuzzy
+msgid "Image Processing software"
+msgstr "Пардозиши симоҳо"
+
+#, fuzzy
+msgid "Instant Messaging"
+msgstr "Пайғоми ахборот"
+
+#, fuzzy
+msgid "Instant messaging clients"
+msgstr "Мизоҷи Ҳаматарафа Барои Ивази Паёмҳои Фаврӣ"
+
+msgid "Internet"
+msgstr "Интернет"
+
+#, fuzzy
+msgid "Internet applications"
+msgstr "Бисёртар ариза"
+
+#, fuzzy
+msgid "Java"
+msgstr "Lavaps"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "LXDE"
+msgstr ""
+
+msgid "Languages"
+msgstr "Забонҳо"
+
+msgid "Literature"
+msgstr "Адабиёт"
+
+msgid "Logic Games"
+msgstr "Бозиҳои мантиқӣ"
+
+msgid "MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Math software"
+msgstr "Morphing таъминоти барномавӣ"
+
+msgid "Mathematics"
+msgstr "Математика"
+
+#, fuzzy
+msgid "Medical Software"
+msgstr "Таъминоти Барномавии DJ"
+
+#, fuzzy
+msgid "Medical software"
+msgstr "Morphing таъминоти барномавӣ"
+
+#, fuzzy
+msgid "Mixers"
+msgstr "WmsMixer"
+
+#, fuzzy
+msgid "Monitoring"
+msgstr "Шабакасозӣ"
+
+msgid "Multimedia"
+msgstr "Мултимедия"
+
+#, fuzzy
+msgid "Multimedia Editing"
+msgstr "Мултимедия"
+
+#, fuzzy
+msgid "Multimedia Players"
+msgstr "Бозигари Бисёрмуҳита"
+
+#, fuzzy
+msgid "Multimedia Recorders"
+msgstr "Бозигари Бисёрмуҳита"
+
+#, fuzzy
+msgid "Music"
+msgstr "MusE"
+
+#, fuzzy
+msgid "Musical software"
+msgstr "Morphing таъминоти барномавӣ"
+
+msgid "Network"
+msgstr "Шабака"
+
+msgid "Network-related settings"
+msgstr ""
+
+#, fuzzy
+msgid "News"
+msgstr "KNotes"
+
+msgid "News readers or news tickers"
+msgstr ""
+
+msgid "Numeric Analysis"
+msgstr "Таҳлили ададӣ"
+
+#, fuzzy
+msgid "Numerical analysis software"
+msgstr "Таҳлили ададӣ"
+
+msgid "OCR"
+msgstr ""
+
+msgid "Office"
+msgstr "Идора"
+
+msgid "Optical character recognition applications"
+msgstr ""
+
+msgid "Other"
+msgstr "Дигар"
+
+msgid "P2P"
+msgstr ""
+
+#, fuzzy
+msgid "P2P programs"
+msgstr "Барномаи расмкашӣ"
+
+msgid "PDA"
+msgstr ""
+
+#, fuzzy
+msgid "Package manager applications"
+msgstr "Барномаҳои поёна"
+
+msgid "Packaging"
+msgstr "Бастаи барномаҳо"
+
+msgid "Parallel Computing"
+msgstr "Ҳисобкунаки паралелӣ"
+
+#, fuzzy
+msgid "Parallel computing software"
+msgstr "Ҳисобкунаки паралелӣ"
+
+#, fuzzy
+msgid "Performance"
+msgstr "Хусусият"
+
+msgid "Personal"
+msgstr "Танзимотҳои шахсӣ"
+
+#, fuzzy
+msgid "Photography"
+msgstr "Ҷуғрофия"
+
+msgid "Physics"
+msgstr "Физика"
+
+#, fuzzy
+msgid "Physics software"
+msgstr "Morphing таъминоти барномавӣ"
+
+msgid "Preferences"
+msgstr "Хусусият"
+
+#, fuzzy
+msgid "Presentation software"
+msgstr "Тақдим"
+
+#, fuzzy
+msgid "Presentations"
+msgstr "Тақдим"
+
+msgid "Printing"
+msgstr "Чопкунӣ"
+
+#, fuzzy
+msgid "Profiling tools"
+msgstr "Асбобҳои Бойгонӣ"
+
+msgid "Project Management"
+msgstr "Лоиҳаи Роҳбар"
+
+#, fuzzy
+msgid "Project management applications"
+msgstr "Лоиҳаи Роҳбар"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "ROX"
+msgstr ""
+
+#, fuzzy
+msgid "Raster Graphics"
+msgstr "Графикаҳо"
+
+#, fuzzy
+msgid "Raster based graphical applications"
+msgstr "Барномаҳои поёна"
+
+msgid "Remote access"
+msgstr ""
+
+#, fuzzy
+msgid "Revision Control"
+msgstr "Идораи Баландии Овоз"
+
+msgid "Robotics"
+msgstr "Роботехника"
+
+#, fuzzy
+msgid "Robotics software"
+msgstr "Morphing таъминоти барномавӣ"
+
+msgid "Role Playing"
+msgstr ""
+
+msgid "Role playing games"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Science"
+msgstr "Илм"
+
+#, fuzzy
+msgid "Screensavers"
+msgstr "Нигоҳдорандаи экран"
+
+msgid "Security"
+msgstr "Амният"
+
+#, fuzzy
+msgid "Security tools"
+msgstr "Амният"
+
+#, fuzzy
+msgid "Sequencers"
+msgstr "Илмӣ"
+
+msgid "Settings"
+msgstr "Танзимот"
+
+#, fuzzy
+msgid "Simulation"
+msgstr "Намунасозии Minitel"
+
+#, fuzzy
+msgid "Simulation Games"
+msgstr "Бозии Таҳқиқи Кайҳон"
+
+msgid "Software to learn foreign languages"
+msgstr ""
+
+msgid "Software to learn science"
+msgstr ""
+
+#, fuzzy
+msgid "Software to teach arts"
+msgstr "Мудири Сарчашмаҳои Нармафзор"
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "Садо"
+
+msgid "Sports"
+msgstr "Варзиш"
+
+#, fuzzy
+msgid "Sports Games"
+msgstr "Тахта бозиҳо"
+
+#, fuzzy
+msgid "Spreadsheets"
+msgstr "Ҷадвали бузургқолаби Siag Office"
+
+msgid "Strategy"
+msgstr "Стратегия"
+
+#, fuzzy
+msgid "Strategy Games"
+msgstr "Стратегия"
+
+msgid "System"
+msgstr "Систем"
+
+#, fuzzy
+msgid "System settings"
+msgstr "Танзимот"
+
+#, fuzzy
+msgid "TV"
+msgstr "MoTV"
+
+msgid "TV and Radio"
+msgstr ""
+
+#, fuzzy
+msgid "TV and Radio applications"
+msgstr "Барномаҳои поёна"
+
+#, fuzzy
+msgid "TV applications"
+msgstr "Замимаҳо"
+
+#, fuzzy
+msgid "Telephony"
+msgstr "ISDN Телефон"
+
+#, fuzzy
+msgid "Telephony tools"
+msgstr "Асбобҳои матнӣ"
+
+msgid "Telephony tools, to dial a number, manage PBX, ..."
+msgstr ""
+
+msgid "Telephony via PC"
+msgstr ""
+
+#, fuzzy
+msgid "Terminal emulator applications"
+msgstr "Барномаҳои поёна"
+
+#, fuzzy
+msgid "Terminals"
+msgstr "Поёна"
+
+#, fuzzy
+msgid "Text tool utilities"
+msgstr "Асбобҳои матнӣ"
+
+msgid "Text tools"
+msgstr "Асбобҳои матнӣ"
+
+msgid "Tool to view e.g. a graphic or pdf file"
+msgstr ""
+
+msgid "Tools"
+msgstr "Асбобҳо"
+
+#, fuzzy
+msgid "Tools for web developers"
+msgstr "Асбоб барои корвандони eBay"
+
+msgid "Tools like FTP or P2P programs"
+msgstr ""
+
+msgid "Tools to archive/backup data"
+msgstr ""
+
+#, fuzzy
+msgid "Tools to build applications"
+msgstr "Интихоби замимаҳои худии бо нобаёнӣ"
+
+#, fuzzy
+msgid "Tools to debug applications"
+msgstr "Интихоби замимаҳои худии бо нобаёнӣ"
+
+msgid "Tools to manage compressed data/archives"
+msgstr ""
+
+msgid "Tools to manage hardware components"
+msgstr ""
+
+msgid "Tools to manage printers"
+msgstr ""
+
+msgid "Tools to manage your PDA"
+msgstr ""
+
+msgid "Tools to remotely manage your PC"
+msgstr ""
+
+msgid "Tools to scan a file/text"
+msgstr ""
+
+msgid "Toys"
+msgstr "Бозиҳо"
+
+msgid "Translation"
+msgstr "Тарҷума"
+
+#, fuzzy
+msgid "Translation tools"
+msgstr "Тарҷума"
+
+msgid "Tuners"
+msgstr ""
+
+#, fuzzy
+msgid "Vector Graphics"
+msgstr "Vector Асбоби Расмкашии Графикӣ"
+
+#, fuzzy
+msgid "Vector based graphical applications"
+msgstr "Интихоби замимаҳои худии бо нобаёнӣ"
+
+#, fuzzy
+msgid "Video"
+msgstr "Jigdo"
+
+msgid "Video Conference software"
+msgstr ""
+
+#, fuzzy
+msgid "Video Conferences"
+msgstr "Хусусият"
+
+msgid "Video Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Video Players"
+msgstr "Бозигари Видео"
+
+#, fuzzy
+msgid "Video Recorders"
+msgstr "Сабти Видеои Рақамӣ"
+
+#, fuzzy
+msgid "Viewers"
+msgstr "KUIViewer"
+
+#, fuzzy
+msgid "Web Browsing"
+msgstr "Тафсири веб"
+
+msgid "Web Development"
+msgstr "Созандагии Вэб"
+
+msgid "Wordprocessors"
+msgstr ""
+
+msgid "XFCE"
+msgstr ""
+
+#, fuzzy
+msgid "chat clients"
+msgstr "Мизоҷи Whois"
+
+#~ msgid "-> All Applications"
+#~ msgstr "-> Ҳама Замимаҳо"
+
+#~ msgid "-> What to do?"
+#~ msgstr "-> Чӣ кор кунем?"
+
+#~ msgid "Edutainment"
+#~ msgstr "Омӯзишгарон"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Гуногун"
+
+#~ msgid "Shells"
+#~ msgstr "Пардозандаи фармонҳо"
+
+#~ msgid "Utilities"
+#~ msgstr "Обзорҳо"
+
+#~ msgid "Backups"
+#~ msgstr "Нусхаҳои захирашавӣ"
+
+#~ msgid "Internationalization"
+#~ msgstr "интернасионализатсия"
+
+#~ msgid "Servers"
+#~ msgstr "Хидматрасонҳо"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "Батанзимдарории Компютери Шумо"
+
+#~ msgid "X Window Utilities"
+#~ msgstr "Обзорҳои тирезаи X"
+
+#~ msgid "X-Utilities"
+#~ msgstr "Обзори X"
+
+#~ msgid "Wine"
+#~ msgstr "Шароб"
+
+#~ msgid "Advanced"
+#~ msgstr "Пешрафта"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Гузоришҳои Фаврӣ"
+
+#~ msgid "Lost & Found"
+#~ msgstr "Нест ва ёфт"
+
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Тактикӣ ва стратегӣ"
+
+#~ msgid "Information"
+#~ msgstr "Маълумот"
+
+#~ msgid "Accessories"
+#~ msgstr "Лавозимотҳо"
+
+#~ msgid "PIM"
+#~ msgstr "Идоракунии иттилоот"
+
+#~ msgid "Science & Math"
+#~ msgstr "Илм & Математика"
+
+#~ msgid "Peripherals"
+#~ msgstr "васоили ҷонибӣ"
+
+#~ msgid "File"
+#~ msgstr "Файл"
+
+#~ msgid "Teaching Tools"
+#~ msgstr "Асбобҳои Таълимӣ"
+
+#~ msgid "KDE Menu"
+#~ msgstr "Менюи KDE"
+
+#~ msgid "Development Environments"
+#~ msgstr "Муҳити пешрафт"
+
+#~ msgid "Control Center"
+#~ msgstr "Маркази контрол"
+
+#~ msgid "Puzzles"
+#~ msgstr "Муаммо"
+
+#~ msgid "Rogue-like Games"
+#~ msgstr "Бозиҳои шабияи Rogue"
+
+#~ msgid ".hidden"
+#~ msgstr ".пинҳон"
+
+#~ msgid "Please don't remove or modify"
+#~ msgstr "Илтимос, хориҷ ё тағир надиҳед"
+
+#~ msgid "XCam"
+#~ msgstr "Камераи X"
+
+#~ msgid "Mandriva Linux Update"
+#~ msgstr "Навигарии Mandriva Linux"
+
+#~ msgid "Audacity"
+#~ msgstr "Аудасити"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "French"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Фаронсавӣ"
+
+#~ msgid "MIDI file player"
+#~ msgstr "Бозигари MIDI файл"
+
+#~ msgid "TiMidity++"
+#~ msgstr "TiMidity++"
+
+#~ msgid "Minesweeper"
+#~ msgstr "Минагузор"
+
+#~ msgid "System Monitor"
+#~ msgstr "Монитори системавӣ"
+
+#~ msgid "View current processes and monitor system state"
+#~ msgstr "Азназаргузаронии ҷараёни ҷорӣ ва вазъияти дидабони системавӣ"
+
+#~ msgid "GQview"
+#~ msgstr "GQназар"
+
+#~ msgid "Image Viewer"
+#~ msgstr "Намоишгари тасвир"
+
+#~ msgid "A GTK-based monitoring app"
+#~ msgstr "Апплети дидабонӣ дар асоси GTK"
+
+#~ msgid "Gkrellm"
+#~ msgstr "Gkrellm"
+
+#~ msgid "Media Player"
+#~ msgstr "Медиаплеер"
+
+#~ msgid "IceBreaker"
+#~ msgstr "IceBreaker"
+
+#~ msgid "TkDiff"
+#~ msgstr "TkDiff"
+
+#~ msgid "Browse the web"
+#~ msgstr "Барраси шабака"
+
+#~ msgid "Kobo Deluxe"
+#~ msgstr "Kobo Deluxe"
+
+#~ msgid "Samba Configuration (SWAT)"
+#~ msgstr "Батанзимдарории Samba (SWAT)"
+
+#~ msgid "The Swat Samba Administration Tool"
+#~ msgstr "Swat - Асбоби Мудирияти Samba"
+
+#~ msgid "Xwpick"
+#~ msgstr "Xwpick"
+
+#~ msgid "All solitaire cards games"
+#~ msgstr "Ҳамаи бозиҳои кортии solitaire"
+
+#~ msgid "PySOL"
+#~ msgstr "PySOL"
+
+#~ msgid "GUI chessboard game"
+#~ msgstr "Интерфейси Графикӣ барои бозии шоҳмот"
+
+#~ msgid "XBoard"
+#~ msgstr "XМиз"
+
+#~ msgid "Appearance"
+#~ msgstr "Намуди зоҳирӣ"
+
+#~ msgid "On-Screen Keyboard"
+#~ msgstr "Забонак дар Экран"
+
+#~ msgid "Frontend for rp-pppoe"
+#~ msgstr "Пешохир барои rp-pppoe"
+
+#~ msgid "Device Manager"
+#~ msgstr "Мудири Дастгоҳ"
+
+#~ msgid "Preferred Applications"
+#~ msgstr "Заммаҳои Писандида"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "Text Editor"
+#~ msgstr "Муҳаррири матн"
+
+#~ msgid "OpenOffice.org Calc"
+#~ msgstr "OpenOffice.org Ҳисобкунӣ"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Dutch"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Голландӣ"
+
+#~ msgid "Eclipse"
+#~ msgstr "Хирашавӣ"
+
+#~ msgid "IDE for Python"
+#~ msgstr "IDE барои Python"
+
+#~ msgid "Mail notifier"
+#~ msgstr "Огоҳкунандаи постӣ"
+
+#~ msgid "Configurator"
+#~ msgstr "Батанзимдарор"
+
+#~ msgid "Control panel for RME Hammerfall"
+#~ msgstr "Панели идоракунии RME Hammerfall"
+
+#~ msgid "RME Digicontrol"
+#~ msgstr "RME Digicontrol"
+
+#~ msgid "Get help with GNOME"
+#~ msgstr "Гирофтани мадад бо GNOME"
+
+#~ msgid "Help"
+#~ msgstr "Ёрӣ"
+
+#~ msgid "Xdaliclock"
+#~ msgstr "Xdaliclock"
+
+#~ msgid "A client and server fax configuration tool"
+#~ msgstr "Асбоби танзимкунии мизоҷ ва хидматрасони факсӣ"
+
+#~ msgid "Play movies and songs"
+#~ msgstr "Бозидани кино ва суруд"
+
+#~ msgid "Home Folder"
+#~ msgstr "Феҳристи хонагӣ"
+
+#~ msgid "Mures"
+#~ msgstr "Mures"
+
+#~ msgid "Configure defaults for GStreamer applications"
+#~ msgstr "Танзимкунии бо нобаёнӣ барои замимаҳои GStreamer"
+
+#~ msgid "Multimedia Systems Selector"
+#~ msgstr "Интихобкунаки Системаҳои Бозигари Бисёрмуҳита"
+
+#~ msgid "Gtk-ocr is a gtk frontend for gocr"
+#~ msgstr "Gtk-ocr ин пешохири gtk барои gocr"
+
+#~ msgid "Search"
+#~ msgstr "Ҷустуҷӯ"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Spanish"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Испанӣ"
+
+#~ msgid "Fetchmailconf"
+#~ msgstr "Танзимгари fetchmail"
+
+#~ msgid "ClanBomber"
+#~ msgstr "ClanBomber"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Browse Available Software"
+#~ msgstr "Баррасии Таъминоти барномавии Имконпазир"
+
+#~ msgid "LyX"
+#~ msgstr "LyX"
+
+#~ msgid "Display the Earth on your desktop"
+#~ msgstr "Заминро дар мизи кории шумо намоиш медиҳад"
+
+#~ msgid "Xearth"
+#~ msgstr "Xзамин"
+
+#~ msgid "Browse and organize your bookmarks"
+#~ msgstr "Хатчӯбҳои шуморо аз назар мегузаронад ва ташкил медиҳад"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Slovenian"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Словянӣ"
+
+#~ msgid "Menu Style Configuration"
+#~ msgstr "Батанзимдарории услуби меню"
+
+#~ msgid "A game of action and puzzle-solving"
+#~ msgstr "Бозии амалиёт ва ҳалли муаммоҳо"
+
+#~ msgid "KGoldrunner"
+#~ msgstr "KҶӯяндаи тилло"
+
+#~ msgid "Menu Updating Tool"
+#~ msgstr "Обзор ба рӯз оварии меню "
+
+#~ msgid "K3b"
+#~ msgstr "K3b"
+
+#~ msgid "Color Chooser"
+#~ msgstr "Интихоби ранг"
+
+#~ msgid "KColorChooser"
+#~ msgstr "KИнтихобкунандаи ранг"
+
+#~ msgid "Kalzium"
+#~ msgstr "Kимиё"
+
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "Системаи даври элементҳо"
+
+#~ msgid "Hangman Game"
+#~ msgstr "Бозии Чӯбаи Дор"
+
+#~ msgid "KHangMan"
+#~ msgstr "KHangMan"
+
+#~ msgid "Gwenview"
+#~ msgstr "НамоишиGwen"
+
+#~ msgid "KUser"
+#~ msgstr "KИстифодакунанда"
+
+#~ msgid "User Manager"
+#~ msgstr "Роҳбари Истифодакунанда"
+
+#~ msgid "KJumpingCube"
+#~ msgstr "KКубикҳои Ҷиҳанда"
+
+#~ msgid "Konquest"
+#~ msgstr "Истило"
+
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "Омӯзиши луғат"
+
+#~ msgid "KWordQuiz"
+#~ msgstr "KҲарфИмтиҳон"
+
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
+
+#~ msgid "CVS Frontend"
+#~ msgstr "Интерфейс ба CVS "
+
+#~ msgid "Cervisia"
+#~ msgstr "Cervisia"
+
+#~ msgid "KRuler"
+#~ msgstr "KҶадвал"
+
+#~ msgid "Screen Ruler"
+#~ msgstr "Ҷадвали экрании KDE"
+
+#~ msgid "KSnapshot"
+#~ msgstr "СуратиЭкран"
+
+#~ msgid "Screen Capture Program"
+#~ msgstr "Эҷоди суратҳои экран"
+
+#~ msgid "Character Selector"
+#~ msgstr "Интихобгари Аломатҳо"
+
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgid "KLettres"
+#~ msgstr "KLettres"
+
+#~ msgid "Smb4K"
+#~ msgstr "Smb4K"
+
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "Тақвимот ва ҷадвали шахсӣ"
+
+#~ msgid "KOrganizer"
+#~ msgstr "KТашкилдиҳанда"
+
+#~ msgid "Personal Organizer"
+#~ msgstr "Органайзери инфиродӣ"
+
+#~ msgid "Home"
+#~ msgstr "Хона"
+
+#~ msgid "Personal Files"
+#~ msgstr "Файлҳои шахсӣ"
+
+#~ msgid "KSpaceDuel"
+#~ msgstr "KМуҳорибаи Кайҳонӣ"
+
+#~ msgid "KTouch"
+#~ msgstr "KTouch"
+
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "Машқ Барои Чоп Кардан"
+
+#~ msgid "HTML Image Map Editor"
+#~ msgstr "Муҳаррири тасвири ҳаритаи HTML"
+
+#~ msgid "KImageMapEditor"
+#~ msgstr "KМуҳаррири тасвири харита"
+
+#~ msgid "KLinkStatus"
+#~ msgstr "KLinkStatus"
+
+#~ msgid "Link Checker"
+#~ msgstr "Тафтиши истинод"
+
+#~ msgid "KJots"
+#~ msgstr "KJots"
+
+#~ msgid "Note Taker"
+#~ msgstr "Китобчаи Навиштаҷот"
+
+#~ msgid "KMouth"
+#~ msgstr "KДаҳон"
+
+#~ msgid "Speech Synthesizer Frontend"
+#~ msgstr "Сухани Синтезатори Пешбуда"
+
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "Муҳаррик барои мизи кории олиҷаноби eyecandy."
+
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgid "Potato Guy"
+#~ msgstr "Писараки Картошкагин"
+
+#~ msgid "A cut & paste history utility"
+#~ msgstr "История буфера обмена"
+
+#~ msgid "Clipboard Tool"
+#~ msgstr "Обзори хотираи муваққат"
+
+#~ msgid "Klipper"
+#~ msgstr "Клиппер"
+
+#~ msgid "KBattleship"
+#~ msgstr "KҶанги Киштиҳо"
+
+#~ msgid "Card Game"
+#~ msgstr "Бозии Кортҳо"
+
+#~ msgid "CD Player"
+#~ msgstr "Бозигари Диски Фишурда"
+
+#~ msgid "KsCD"
+#~ msgstr "KsДиски Фишурда"
+
+#~ msgid "Bomberman clone"
+#~ msgstr "Клони Bomberman"
+
+#~ msgid "Qt Designer UI File Viewer"
+#~ msgstr "Намоишгари UI-файлҳо Qt Designer"
+
+#~ msgid "Kleopatra"
+#~ msgstr "Kompare"
+
+#~ msgid "Desktop Sharing"
+#~ msgstr "Истифодабарии муштараки Мизи корӣ"
+
+#~ msgid "Shisen-Sho"
+#~ msgstr "Шисен-Шо"
+
+#~ msgid "A GnuPG frontend"
+#~ msgstr "Пешохири GnuPG"
+
+#~ msgid "Encryption Tool"
+#~ msgstr "Асбоби Рамзкунонӣ"
+
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr ""
+#~ "Пайраҳаи барнома барои ивазкунии андоза ва аз нав муайянкунии экрани X. "
+
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "Андозаи экранро дигаргун созед ва чаппа кунед"
+
+#~ msgid "KMail"
+#~ msgstr "KПост"
+
+#~ msgid "Mail Client"
+#~ msgstr "Клиенти почтавӣ"
+
+#~ msgid "KMahjongg"
+#~ msgstr "KМаҳҷонг"
+
+#~ msgid "Konsole"
+#~ msgstr "Консол"
+
+#~ msgid "KReversi"
+#~ msgstr "KРеверси"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "Мошинаи ҳисобкунаки Илмӣ"
+
+#~ msgid "Diff/Patch Frontend"
+#~ msgstr "Утилитаи баробаркунии файлҳо"
+
+#~ msgid "Kompare"
+#~ msgstr "Kompare"
+
+#~ msgid "KMag"
+#~ msgstr "KMag "
+
+#~ msgid "Screen Magnifier"
+#~ msgstr "Калон кардани экран"
+
+#~ msgid "KTimer"
+#~ msgstr "KВақтсанҷ"
+
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgid "Network Folder Wizard"
+#~ msgstr "Устоди феҳрастҳои шабака"
+
+#~ msgid "UML Modeller"
+#~ msgstr "Воситаи UML моделкунонӣ"
+
+#~ msgid "Umbrello"
+#~ msgstr "Umbrello"
+
+#~ msgid "KBlackBox"
+#~ msgstr "KҚуттии Сиёҳ"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid "Nonlinear video editor for KDE"
+#~ msgstr "Муҳаррири видео таҳрири ғайрихаттӣ барои KDE"
+
+#~ msgid "KAtomic"
+#~ msgstr "KАтомҳо"
+
+#~ msgid "Patience Card Game"
+#~ msgstr "Бозии Пасянси Кортӣ"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid "Personal Information Manager"
+#~ msgstr "Мудири маълумоти шахсӣ"
+
+#~ msgid "AMOR"
+#~ msgstr "AMOR"
+
+#~ msgid "On-Screen Creature"
+#~ msgstr "Махлуқ дар экран"
+
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "Машқи Луғат"
+
+#~ msgid "Font Viewer"
+#~ msgstr "Намоишгари ҳарф"
+
+#~ msgid "KFontView"
+#~ msgstr "КНамоишгари ҳарф"
+
+#~ msgid "Function Plotter"
+#~ msgstr "Плоттери Функсионалӣ"
+
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr "Асбоб барои Зангзанӣ ба Интернет"
+
+#~ msgid "KPPP"
+#~ msgstr "KPPP"
+
+#~ msgid "System Information"
+#~ msgstr "Иттилоот дар бораи система"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Планетариуми Мизи Корӣ"
+
+#~ msgid "KStars"
+#~ msgstr "KСитораҳо"
+
+#~ msgid "Kover"
+#~ msgstr "Kбеш"
+
+#~ msgid "KolourPaint"
+#~ msgstr "KРангиРасм"
+
+#~ msgid "Paint Program"
+#~ msgstr "Муҳаррири графикӣ"
+
+#~ msgid "KAlarm"
+#~ msgstr "KХатарогоҳкунанда"
+
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "Идоракунии хотиррасониҳои шахсӣ"
+
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Асбоби Идоракунии Ҳамён"
+
+#~ msgid "KTron"
+#~ msgstr "KТрон"
+
+#~ msgid "KDiskFree"
+#~ msgstr "KДиски Озод"
+
+#~ msgid "View Disk Usage"
+#~ msgstr "Назари Истифодабарии Диск"
+
+#~ msgid "Kopete"
+#~ msgstr "Kopete"
+
+#~ msgid "KCachegrind"
+#~ msgstr "KCachegrind"
+
+#~ msgid "Profiler Frontend"
+#~ msgstr "Интерфейс ба профилкунанда"
+
+#~ msgid "Visualization of Performance Profiling Data"
+#~ msgstr "Утилита барои гузориши профили визуалӣ"
+
+#~ msgid "Download Manager"
+#~ msgstr "Мудири Боркунӣ"
+
+#~ msgid "KGet"
+#~ msgstr "KГирифтан"
+
+#~ msgid "Kolor Lines"
+#~ msgstr "Хатҳои Рангӣ"
+
+#~ msgid "Tactical Game"
+#~ msgstr "Бозии Тактикӣ"
+
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgid "Exercise Fractions"
+#~ msgstr "Машқҳо барои ададҳои касрӣ"
+
+#~ msgid "KBruch"
+#~ msgstr "KBruch"
+
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "Машқҳои таҷрибавӣ барои ададҳои касрӣ"
+
+#~ msgid "Info Center"
+#~ msgstr "Маркази иттилоот"
+
+#~ msgid "KInfoCenter"
+#~ msgstr "КМаркази иттилоот"
+
+#~ msgid "KTeaTime"
+#~ msgstr "КВақтиЧой"
+
+#~ msgid "Tea Cooker"
+#~ msgstr "Пухтани Чой"
+
+#~ msgid "Change Password"
+#~ msgstr "Тағйирдиҳии номи шаб"
+
+#~ msgid "KonsoleKalendar"
+#~ msgstr "KonsoleKalendar"
+
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "Асбоби Истидони/Омӯзиши Забони Японӣ"
+
+#~ msgid "Kiten"
+#~ msgstr "Китен"
+
+#~ msgid "KMix"
+#~ msgstr "AvadanlÄ±qlar"
+
+#~ msgid "Sound Mixer"
+#~ msgstr "Омехтакунаки Овоз"
+
+#~ msgid "KBugBuster"
+#~ msgstr "KBugBuster"
+
+#~ msgid "KDE Bug Management"
+#~ msgstr "Утилитаи идоракунии хатогиҳо"
+
+#~ msgid "Welcome"
+#~ msgstr "Марҳамат Намоед"
+
+#~ msgid "Bookmark Editor"
+#~ msgstr "Вироиши хатчӯбмонӣ"
+
+#~ msgid "Bookmark Organizer and Editor"
+#~ msgstr "Ташкикунанда ва вироишгари хатчӯбмониҳо"
+
+#~ msgid "Configure Your Desktop"
+#~ msgstr "Танзими Мизи Кории Худ"
+
+#~ msgid "KFileReplace"
+#~ msgstr "Тағйири макони KФайл"
+
+#~ msgid "Kolf"
+#~ msgstr "Колф"
+
+#~ msgid "Miniature Golf"
+#~ msgstr "Колф дар шакли хурд"
+
+#~ msgid "KwikDisk"
+#~ msgstr "KwikДиск"
+
+#~ msgid "Removable Media Utility"
+#~ msgstr "Барномаи Пуштибон барои Расонаҳои Ҷойивазшаванда"
+
+#~ msgid "KBounce"
+#~ msgstr "KТӯби ҷаҳанда"
+
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "Зер кардани автоматии муш"
+
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr "Зер кардани муш барои шумо, бо камшавии таъсирҳои RSI"
+
+#~ msgid "KMouseTool"
+#~ msgstr "Асбоби КМуш"
+
+#~ msgid "Trash"
+#~ msgstr "Ахлотдон"
+
+#~ msgid "KMines"
+#~ msgstr "KСапёр"
+
+#~ msgid "Board Game"
+#~ msgstr "Бозии Рӯи Мизӣ"
+
+#~ msgid "SameGame"
+#~ msgstr "Бозии Same"
+
+#~ msgid "KWrite"
+#~ msgstr "Навиштори K"
+
+#~ msgid "Software Management"
+#~ msgstr "Идоракунии Нармафзор"
+
+#~ msgid "Advanced Text Editor"
+#~ msgstr "Муҳаррири матни пешрафта"
+
+#~ msgid "Kate"
+#~ msgstr "Kate"
+
+#~ msgid "KNode"
+#~ msgstr "KГиреҳ"
+
+#~ msgid "News Reader"
+#~ msgstr "Барнома барои хондани иттилоот"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Муҳаррири меню"
+
+#~ msgid "JuK"
+#~ msgstr "JuK"
+
+#~ msgid "Music Player"
+#~ msgstr "Бозингари Мусиқӣ"
+
+#~ msgid "Personal Time Tracker"
+#~ msgstr "Баҳисобгирии вақти корӣ"
+
+#~ msgid "KDE LIRC Server"
+#~ msgstr "KDE LIRC Хидматрасон"
+
+#~ msgid "KDE Linux infrared remote control server."
+#~ msgstr "Хидматрасони идоракунии дурдасти инфрасурхи KDE Linux."
+
+#~ msgid "KTurtle"
+#~ msgstr "KСангпушт"
+
+#~ msgid "Find Files/Folders"
+#~ msgstr "Ҷустуҷӯи файлҳо ва феҳрастҳо"
+
+#~ msgid "Interactive Geometry"
+#~ msgstr "Геометрияи интерактивӣ"
+
+#~ msgid "Kig"
+#~ msgstr "Kig"
+
+#~ msgid "File Manager - Super User Mode"
+#~ msgstr "Мудири файл - ҳолати убури корбар"
+
+#~ msgid "Letter Order Game"
+#~ msgstr "Бозии Тартиби Ҳарф"
+
+#~ msgid "Popup Notes"
+#~ msgstr "Хабарҳои ошкоршаванда"
+
+#~ msgid "Floppy Formatter"
+#~ msgstr "Шаклбандкунии Диски Нарм"
+
+#~ msgid "KFloppy"
+#~ msgstr "KДиски Нарм"
+
+#~ msgid "Assign shortcut keys to commands"
+#~ msgstr "Таъиннамоии миёнбурҳо барои фармонҳо"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "Забонаки кнопкаҳои тез"
+
+#~ msgid "Drakpxelinux"
+#~ msgstr "Drakpxelinux"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Italian"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Италиёӣ"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Korean"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Кореягӣ"
+
+#~ msgid "A program for watching TV"
+#~ msgstr "Барнома барои дидани оинаи нилгун"
+
+#~ msgid "XawTV"
+#~ msgstr "Телевизиони Xaw"
+
+#~ msgid "GNU Prolog"
+#~ msgstr "GNU Дебоча"
+
+#~ msgid "OpenDX"
+#~ msgstr "OpenDX"
+
+#~ msgid "Visualization Data Explorer"
+#~ msgstr "Таҷассумкории Таҳқиқгари Додаҳо"
+
+#~ msgid "OpenOffice.org Impress"
+#~ msgstr "OpenOffice.org Пахш"
+
+#~ msgid "OpenOffice.org Math"
+#~ msgstr "OpenOffice.org Ҷузъҳои Пардозиши Калимаҳо"
+
+#~ msgid "Adjust the volume level"
+#~ msgstr "Танзимдиҳии баландии овоз"
+
+#~ msgid "Aumix"
+#~ msgstr "Aumix"
+
+#~ msgid "Configure your database environment"
+#~ msgstr "Муҳити манбаи маълумоти худро ба танзим дароред"
+
+#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
+#~ msgstr ""
+#~ "Асбоби идоракунӣ барои кортҳои садоие, ки ба Envy24 (ice1712) асос ёфтаанд"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Japanese"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Ҷопонӣ"
+
+#~ msgid "A multiplayer 3D tank battle game"
+#~ msgstr "Бозии ҷанги танкҳои севазъаи бисёрбозингара"
+
+#~ msgid "BZflag"
+#~ msgstr "BZпарчам"
+
+#~ msgid "Multiplayer puzzle game"
+#~ msgstr "Бозии бисёрбозингараи муаммо"
+
+#~ msgid "Quadra"
+#~ msgstr "Quadra"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Мозиллаи Thunderbird"
+
+#~ msgid "Record sound clips"
+#~ msgstr "Сабти филмҳои кӯтоҳи садоӣ"
+
+#~ msgid "Windows"
+#~ msgstr "Windows"
+
+#~ msgid "Frozen Bubble arcade game"
+#~ msgstr "Бозии аркадавии Frozen Bubble"
+
+#~ msgid "Notepad"
+#~ msgstr "Блокнот"
+
+#~ msgid "DjVu Viewer"
+#~ msgstr "Хондани санадоти DjVu"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Корвандон ё гурӯҳҳоро илова кунед ё хориҷ созед"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Шабакаро баррасӣ кунед"
+
+#~ msgid "Qt Linguist"
+#~ msgstr "Забони Qt"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Keyboard"
+#~ msgstr "Забонак"
+
+#~ msgid "Set your keyboard preferences"
+#~ msgstr "Танзимоти гузоришҳои забонаки худ"
+
+#~ msgid "TkCVS"
+#~ msgstr "TkCVS"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Hungarian"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Венгрӣ"
+
+#~ msgid "Mouse"
+#~ msgstr "Муш"
+
+#~ msgid "Set your mouse preferences"
+#~ msgstr "Танзимоти гузоришҳои муши худ"
+
+#~ msgid "Iagno"
+#~ msgstr "Iagno"
+
+#~ msgid "Graphical front end to install RPM files"
+#~ msgstr "Пешохири графикӣ барои коргузории файлҳои RPM"
+
+#~ msgid "ChBg"
+#~ msgstr "ChBg"
+
+#~ msgid "ChBg - Desktop background manager/changer/screensaver"
+#~ msgstr "ChBg - Паснамои мизи корӣ мудир/ивазкунанда/нигоҳдорандаи экран"
+
+#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
+#~ msgstr "Бозистифодабарии бозии кӯҳна бо номи Tower Toppler ё Nebulous"
+
+#~ msgid "Tower Toppler"
+#~ msgstr "Tower Toppler"
+
+#~ msgid "OpenOffice.org Writer"
+#~ msgstr "OpenOffice.org Нависанда"
+
+#~ msgid "Database"
+#~ msgstr "Манбаи маълумот"
+
+#~ msgid "Freeciv server"
+#~ msgstr "Хидматрасони Freeciv"
+
+#~ msgid "A professional CAD system"
+#~ msgstr "Системаи корозмудаи CAD"
+
+#~ msgid "Read News from Usenet"
+#~ msgstr "Хондани Хабарҳо аз Шабакаи корванд"
+
+#~ msgid "File Management"
+#~ msgstr "Идоракунии Файл"
+
+#~ msgid "The standard terminal emulator for the X Window System"
+#~ msgstr "Намунасози низоммеъёри поёна барои X Системаи Тирезавӣ"
+
+#~ msgid "XTerm"
+#~ msgstr "XПоёна"
+
+#~ msgid "A frontend for the nmap port scanner"
+#~ msgstr "Пешохир барои nmap даргоҳи сканер"
+
+#~ msgid "Nmap"
+#~ msgstr "Nmap"
+
+#~ msgid "ODBCConfig"
+#~ msgstr "ODBCБатанзимдарорӣ"
+
+#~ msgid "WMnet"
+#~ msgstr "WMшабака"
+
+#~ msgid "J-Pilot"
+#~ msgstr "J-Идоракунӣ"
+
+#~ msgid "Joe"
+#~ msgstr "Joe"
+
+#~ msgid "Evolution"
+#~ msgstr "Тараққиёт"
+
+#~ msgid "Page Layout"
+#~ msgstr "Нақшаи Саҳифа"
+
+#~ msgid "Scribus"
+#~ msgstr "Scribus"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "German"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Олмонӣ"
+
+#~ msgid "Howtos German"
+#~ msgstr "Чӣ тавр Олмонӣ"
+
+#~ msgid "System information"
+#~ msgstr "Ахбороти системавӣ"
+
+#~ msgid "Xsysinfo"
+#~ msgstr "Xsysinfo"
+
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Romanian"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Румынӣ"
+
+#~ msgid "HardDrake"
+#~ msgstr "HardDrake"
+
+#~ msgid "Hardware Central Configuration/information tool"
+#~ msgstr "Батанзимдарории Марказии Сахтафзор/асбоби ахборот"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Polish"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Полякӣ"
+
+#~ msgid "Frontend for easy printing with CUPS"
+#~ msgstr "Пешохир барои чопкунии осон бо CUPS"
+
+#~ msgid "RapidSVN"
+#~ msgstr "RapidSVN"
+
+#~ msgid "Rhythmbox"
+#~ msgstr "Rhythmbox"
+
+#~ msgid "Registry Editor"
+#~ msgstr "Муҳаррири Сабткунанда"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "English"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Англисӣ"
+
+#~ msgid "All-purpose text editor"
+#~ msgstr "Муҳаррири матни пурра мақсаднок"
+
+#~ msgid "VI editor"
+#~ msgstr "VI муҳаррир"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Greek"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Юнонӣ"
+
+#~ msgid "Howtos Greek"
+#~ msgstr "Чӣ тавр Юнонӣ"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Indonesian"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Индонезӣ"
+
+#~ msgid "The famous function plotting program"
+#~ msgstr "Барномаи машҳури нақшакашии вазифоӣ"
+
+#~ msgid "Directly edit your entire configuration database"
+#~ msgstr "Манбаи додаҳои шуморо ба пуррагӣ таҳрир месозад"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Chinese"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Хитоӣ"
+
+#~ msgid "Another 3d lightcycle game"
+#~ msgstr "Дигар бозии севазъаи сабукдавр"
+
+#~ msgid "XFig"
+#~ msgstr "XFig"
+
+#~ msgid "Bug Report Tool"
+#~ msgstr "Асбоби Маърӯзанамоии Хотогӣ"
+
+#~ msgid "LBreakout 2"
+#~ msgstr "LBreakout 2"
+
+#~ msgid "A boulderdash like game"
+#~ msgstr "Бозии мисли boulderdash"
+
+#~ msgid "Rocks n Diamonds"
+#~ msgstr "Rocks n Diamonds"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Finnish"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Финнӣ"
+
+#~ msgid ""
+#~ "HOWTO documents (html format) from the Linux Documentation Project in "
+#~ "Swedish"
+#~ msgstr ""
+#~ "Ҳуҷҷатҳои ЧӢ ТАВР (шаклбандии html) аз Лоиҳаи Санадсозии Linux бо забони "
+#~ "Шведӣ"
+
+#~ msgid "Drawing"
+#~ msgstr "Расмкашӣ"
+
+#~ msgid "OpenOffice.org Draw"
+#~ msgstr "OpenOffice.org Тасвир"
+
+#~ msgid "KThesaurus"
+#~ msgstr "KThesaurus"
+
+#~ msgid "Kexi"
+#~ msgstr "Kexi"
+
+#~ msgid "KOffice"
+#~ msgstr "KOffice"
+
+#~ msgid "KPlato"
+#~ msgstr "KPlato"
+
+#~ msgid "Krita"
+#~ msgstr "Krita"
+
+#~ msgid "Personal Finance Manager"
+#~ msgstr "Мудири Молияи Шахсӣ"
+
+#~ msgid "AbiWord"
+#~ msgstr "AbiWord"
+
+#~ msgid "aMSN"
+#~ msgstr "aMSN"
+
+#~ msgid "Anjuta IDE"
+#~ msgstr "Anjuta IDE"
+
+#~ msgid "Ardour"
+#~ msgstr "Ardour"
+
+#~ msgid "Atomix"
+#~ msgstr "Atomix"
+
+#~ msgid "Balsa"
+#~ msgstr "Balsa"
+
+#~ msgid "Barrage"
+#~ msgstr "Barrage"
+
+#~ msgid "CinePaint"
+#~ msgstr "CinePaint"
+
+#~ msgid "Conglomerate XML Editor"
+#~ msgstr "Муҳаррири Ихтилоти XML"
+
+#~ msgid "Edit XML files"
+#~ msgstr "Таҳрири файлҳои XML"
+
+#~ msgid "Crimson Fields"
+#~ msgstr "Crimson Fields"
+
+#~ msgid "Data Display Debugger"
+#~ msgstr "Созкунаки Намоиши Додаҳо"
+
+#~ msgid "Dr.Geo"
+#~ msgstr "Доктор Geo"
+
+#~ msgid "Dr.Geo Math Tool"
+#~ msgstr "Асбоби математикии Доктор Geo"
+
+#~ msgid "Egoboo"
+#~ msgstr "Egoboo"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Firestarter"
+#~ msgstr "Firestarter"
+
+#~ msgid "Galculator"
+#~ msgstr "Ҳисобкунак"
+
+#~ msgid "Gamazons"
+#~ msgstr "Gamazons"
+
+#~ msgid "GNOME Hexadecimal Editor"
+#~ msgstr "Муҳаррири Шонздаҳӣ барои GNOME"
+
+#~ msgid "Globulation2"
+#~ msgstr "Globulation2"
+
+#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
+#~ msgstr "Globulation2 - бозии стратегии Вақти Ҳақиқӣ (RTS)"
+
+#~ msgid "Gnomad 2"
+#~ msgstr "Gnomad 2"
+
+#~ msgid "Blog Entry Poster"
+#~ msgstr "Нашри Ахборот дар Blog"
+
+#~ msgid "Post an entry to a web log"
+#~ msgstr "Нашри додаҳо дар web номнавис"
+
+#~ msgid "Genius Mathematical Tool and Calculator"
+#~ msgstr "Асбоби Математикӣ ва Ҳисобкунаки Genius"
+
+#~ msgid "GpsDrive"
+#~ msgstr "GpsDrive"
+
+#~ msgid "GTetrinet"
+#~ msgstr "GTetrinet"
+
+#~ msgid "GTKWave"
+#~ msgstr "GTKWave"
+
+#~ msgid "GTKWave Electronic Waveform Viewer"
+#~ msgstr "GTKWave Азназаргузарони Шакли Мавҷи Электронӣ"
+
+#~ msgid "Extra galeon preferences"
+#~ msgstr "Имтиёзҳои иловагии galeon"
+
+#~ msgid "Extra preferences for application menus"
+#~ msgstr "Имтиёзҳои иловагӣ барои менюҳои замима"
+
+#~ msgid "Extra nautilus preferences"
+#~ msgstr "Имтиёзҳои иловагии nautilus"
+
+#~ msgid "Extra session preferences"
+#~ msgstr "Имтиёзҳои иловагии сеанс"
+
+#~ msgid "Gweled"
+#~ msgstr "Gweled"
+
+#~ msgid "Katoob"
+#~ msgstr "Katoob"
+
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgid "A File And Directory Comparison And Merge Tool"
+#~ msgstr "Асбоби баробаркунӣ ва пайванди файлҳо ва каталогҳо"
+
+#~ msgid "A currency converter and calculator"
+#~ msgstr "Мубодилакунаки асъор ва ҳисобкунак"
+
+#~ msgid "KEuroCalc"
+#~ msgstr "KEuroCalc"
+
+#~ msgid "KMess"
+#~ msgstr "KMess"
+
+#~ msgid "Live Messenger Client"
+#~ msgstr "Мизоҷи MSN"
+
+#~ msgid "Network Monitor"
+#~ msgstr "Дидабони Шабакавӣ"
+
+#~ msgid "Knights"
+#~ msgstr "Баҳодурон"
+
+#~ msgid "A batch renamer"
+#~ msgstr "Азнавномгузории бастаи барномаҳо"
+
+#~ msgid "Krusader"
+#~ msgstr "Krusader"
+
+#~ msgid "Twin-Panel File Manager"
+#~ msgstr "Таблои Дугонаи Мудири Файл"
+
+#~ msgid "A collection manager"
+#~ msgstr "Мудири ҷамъоварӣ"
+
+#~ msgid "KScope"
+#~ msgstr "KScope"
+
+#~ msgid "Connect to Internet Relay Chat"
+#~ msgstr "Пайвастшавӣ ба IRC"
+
+#~ msgid "A unique multiplayer wargame"
+#~ msgstr "Бозии ҷангии бисёрбозингараи нодир"
+
+#~ msgid "Lumiere"
+#~ msgstr "Lumiere"
+
+#~ msgid "First person shooter game"
+#~ msgstr "Бозии тирандозӣ аз шахси якум"
+
+#~ msgid "BomberInstinct"
+#~ msgstr "BomberInstinct"
+
+#~ msgid "Arcade Shooter"
+#~ msgstr "Бозии Тираандозии Аркадавӣ"
+
+#~ msgid "Critical Mass"
+#~ msgstr "Critical Mass"
+
+#~ msgid "ExEf"
+#~ msgstr "ExEf"
+
+#~ msgid "OilWar"
+#~ msgstr "OilWar"
+
+#~ msgid "Very simple mouse shooting game"
+#~ msgstr "Бозии тирандозии хеле оддӣ бо истифодабарии муш"
+
+#~ msgid "A MacOS run-time environment"
+#~ msgstr "MacOS - муҳити иҷроиши барномаҳо"
+
+#~ msgid "SheepShaver"
+#~ msgstr "SheepShaver"
+
+#~ msgid "SpiralLoops"
+#~ msgstr "SpiralLoops"
+
+#~ msgid "Synthesized Loops"
+#~ msgstr "Синтез кардани Ҳалқаҳо"
+
+#~ msgid "SpiralSynth"
+#~ msgstr "SpiralSynth"
+
+#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
+#~ msgstr "VOCPweb (Бозёбии ДурдастиWeb-Паёмҳои (VOCP)"
+
+#~ msgid "Abe's Amazing Adventure!!"
+#~ msgstr "Саргузаштаҳои Аҷоиби Abe!!"
+
+#~ msgid "Abuse"
+#~ msgstr "Abuse"
+
+#~ msgid "The classic Crack-Dot-Com game"
+#~ msgstr "Бозии классикии Crack-Dot-Com"
+
+#~ msgid "AcidRip"
+#~ msgstr "AcidRip"
+
+#~ msgid "Video ripping and conversion"
+#~ msgstr "Забт ва табдили видео"
+
+#~ msgid "Adonthell - Waste's Edge"
+#~ msgstr "Adonthell - Waste's Edge"
+
+#~ msgid "AirStrike"
+#~ msgstr "AirStrike"
+
+#~ msgid "Incredibly addictive 2D dogfight game"
+#~ msgstr "Бозии дувазъии ниҳоят ҷолиби ҷанги ҳавоӣ"
+
+#~ msgid "Alevt"
+#~ msgstr "Alevt"
+
+#~ msgid "Teletext/Videotext decoder and browser"
+#~ msgstr "Кодбардор ва барраси матни дурдаст ва матни видео"
+
+#~ msgid "Arcade-style mix of asteroids and pool"
+#~ msgstr "Омехтаи астероидҳо ва билярди бозии навъи оркадавӣ"
+
+#~ msgid "Graphical frontend to Valgrind memory checker"
+#~ msgstr "Пешохири графикӣ барои санҷингари ҳофизаи Valgrind"
+
+#~ msgid "W3C's browser/web authoring tool"
+#~ msgstr "Асбоби иҷозавӣ барои барраси/web W3C"
+
+#~ msgid "Alsa Modular Synth"
+#~ msgstr "Синтезатори Воҳидии Alsa"
+
+#~ msgid "Modular Synthesizer for ALSA"
+#~ msgstr "Синтезатори Воҳидӣ барои ALSA"
+
+#~ msgid "Angel Wars"
+#~ msgstr "Ҷанги Фариштаҳо"
+
+#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
+#~ msgstr "Тирандизи кайҳонии серамал ва қадима бо чархиши паҳлӯӣ"
+
+#~ msgid "ANT-phone"
+#~ msgstr "ANT-занг"
+
+#~ msgid "GUI for Genpak"
+#~ msgstr "GUI барои Genpak"
+
+#~ msgid "Advanced Strategic Command"
+#~ msgstr "Гурӯҳи Паҳнгардидаи Стратегӣ"
+
+#~ msgid "A 3D, first-person game of blowing up asteroids"
+#~ msgstr "Бозии севазъӣ барои як шахс оиди нобудкунии астероидҳо"
+
+#~ msgid "Asteroids3D"
+#~ msgstr "Asteroids3D"
+
+#~ msgid "AutoZen"
+#~ msgstr "AutoZen"
+
+#~ msgid "Brainwave controller"
+#~ msgstr "Идоракунандаи Brainwave"
+
+#~ msgid "Bacula Console (wxWindows)"
+#~ msgstr "Bacula Console (wxWindows)"
+
+#~ msgid "Bacula Director Console"
+#~ msgstr "Нозиргоҳи Идоракунандаи Bacula"
+
+#~ msgid "Configure energy saving for your system"
+#~ msgstr "Ба танзимдарории нерӯзахиракунии системаи шумо"
+
+#~ msgid "Energy Saving"
+#~ msgstr "Захиракунии Нерӯ"
+
+#~ msgid "Bbconf"
+#~ msgstr "Bbconf"
+
+#~ msgid "Bbconf is a complete GUI config tool for blackbox"
+#~ msgstr "Bbconf ин асбоби GUI-и комили файлии батанзимдарорӣ барои blackbox"
+
+#~ msgid "BB Run"
+#~ msgstr "BB Run"
+
+#~ msgid "BlackBox Run Window"
+#~ msgstr "Тирезаи Оғознамоии BlackBox"
+
+#~ msgid "bigForth"
+#~ msgstr "bigForth"
+
+#~ msgid "2D chemical structure drawing tool"
+#~ msgstr "Асбоб барои кашидани сохтҳои дувазъии кимиёвӣ"
+
+#~ msgid "BoboBot"
+#~ msgstr "BoboBot"
+
+#~ msgid "Mario-like game"
+#~ msgstr "Бозии монанди Mario"
+
+#~ msgid "Boxconf (VOCP Box Configuration interface)"
+#~ msgstr "Boxconf (VOCP интерфейс барои Батанзимдарории Сандуқ)"
+
+#~ msgid "BPMDJ"
+#~ msgstr "BPMDJ"
+
+#~ msgid "Monitoring-duck-in-a-jar dockapp"
+#~ msgstr "Дидабонии дарундохилшудаи duck-in-a-jar"
+
+#~ msgid "Bugsquish"
+#~ msgstr "Bugsquish"
+
+#~ msgid "Kill bugs with mouse"
+#~ msgstr "Куштани гамбускҳо бо муш"
+
+#~ msgid "C1541 stand alone disk image maintenance program"
+#~ msgstr "Барномаи нигаҳдоштаи худмухтори симои диск C1541"
+
+#~ msgid "VICE disk image tool"
+#~ msgstr "Асбоби симои диск VICE"
+
+#~ msgid "Callcenter (VOCP Call Center)"
+#~ msgstr "Callcenter (Маркази Даъват (VOCP)"
+
+#~ msgid "Broadband connection test program"
+#~ msgstr "Broadband барнома барои санҷидани пайвастшавӣ"
+
+#~ msgid "Camlgrenouille"
+#~ msgstr "Camlgrenouille"
+
+#~ msgid "Webcam tool"
+#~ msgstr "Асбоби Webкамера"
+
+#~ msgid "CanonUtil"
+#~ msgstr "CanonUtil"
+
+#~ msgid "Maintenance tool for Canon inkjet printers"
+#~ msgstr "Асбоб барои ҳамроҳии ҷории чопгарони мураккабпахши Canon"
+
+#~ msgid "CDvST"
+#~ msgstr "CDvST"
+
+#~ msgid "Certain Death via Space Things"
+#~ msgstr "Certain Death via Space Things"
+
+#~ msgid "CGoban"
+#~ msgstr "CGoban"
+
+#~ msgid "Graphical game of Go"
+#~ msgstr "Бозии графикии Go"
+
+#~ msgid "A program for creating music modules"
+#~ msgstr "Барнома барои офаридани воҳидҳои мусиқавӣ"
+
+#~ msgid "Cheops-NG"
+#~ msgstr "Cheops-NG"
+
+#~ msgid "Network Browser and Tools (requires running agent)"
+#~ msgstr "Баррас ва Асбобҳои шабакавӣ (иҷрогари парандозӣ талаб мешавад)"
+
+#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
+#~ msgstr "Clanbomber - Bomberman-и озод ба мисли бозии бисёрбозингара"
+
+#~ msgid "MIDI controller for ZynAddSubFX"
+#~ msgstr "Идоракунандаи MIDI дар ZynAddSubFX"
+
+#~ msgid "Copter Commander OpenGL"
+#~ msgstr "Copter Commander OpenGL"
+
+#~ msgid "Copter-Commander Glx"
+#~ msgstr "Copter-Commander Glx"
+
+#~ msgid "Copter Commander"
+#~ msgstr "Copter Commander"
+
+#~ msgid "Cssed"
+#~ msgstr "Cssed"
+
+#~ msgid "Choose a Cursor Theme"
+#~ msgstr "Мавзӯъҳои Нишоннаморо интихоб намоед"
+
+#~ msgid "Cursor Themes"
+#~ msgstr "Мавзӯъҳои Нишоннамо"
+
+#~ msgid "A Defender Clone"
+#~ msgstr "Клони Defender"
+
+#~ msgid "Defendguin"
+#~ msgstr "Defendguin"
+
+#~ msgid "A simple web browser"
+#~ msgstr "Web барраси оддӣ"
+
+#~ msgid "Distcc monitor"
+#~ msgstr "Дидабони Distcc"
+
+#~ msgid "An easy to use address book"
+#~ msgstr "Китоби суроғаҳои дар истифода оддӣ"
+
+#~ msgid "Dlume"
+#~ msgstr "Dlume"
+
+#~ msgid "A DOS emulator"
+#~ msgstr "Намунасизи DOS"
+
+#~ msgid "DOSBox"
+#~ msgstr "DOSBox"
+
+#~ msgid "Dr. Python"
+#~ msgstr "Dr. Python"
+
+#~ msgid "Python Editor and IDE"
+#~ msgstr "Муҳаррир ва Муҳити Ҷамъшудаи коркарди Python"
+
+#~ msgid "DVR"
+#~ msgstr "DVR"
+
+#~ msgid "2D Molecule Editor"
+#~ msgstr "Муҳаррири Молекулаҳои дувазъа"
+
+#~ msgid "EasyChem"
+#~ msgstr "EasyChem"
+
+#~ msgid "Eboard"
+#~ msgstr "Eboard"
+
+#~ msgid "FICS chess-server interface"
+#~ msgstr "Интерфейс барои хидматрасони шоҳмот FICS"
+
+#~ msgid "Sound processing, multitrack recording, and mixing tools"
+#~ msgstr "Асбобҳо барои пардозиши овоз, сабти бисёршиора ва омехтакунӣ"
+
+#~ msgid "Egon"
+#~ msgstr "Egon"
+
+#~ msgid "Siag Office Egon Animator"
+#~ msgstr "Siag Office Egon Animator"
+
+#~ msgid "A GTK file manager"
+#~ msgstr "GTK - мудири файлӣ"
+
+#~ msgid "Ecasound Mastering Interface"
+#~ msgstr "Интерфейси батанзимдарории овози Ecasound"
+
+#~ msgid "Endeavour"
+#~ msgstr "Endeavour"
+
+#~ msgid "Enigma is a puzzle game"
+#~ msgstr "Enigma - бозии муаммо"
+
+#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+#~ msgstr "EPIC ин (E)nhanced (P)rogrammable (I)RC-II (C)lient."
+
+#~ msgid "Epic"
+#~ msgstr "Epic"
+
+#~ msgid "Python IDE"
+#~ msgstr "Python IDE"
+
+#~ msgid "A full featured OSS mixer"
+#~ msgstr "Омезандаи OSS-и пурра хусусиятнокшуда"
+
+#~ msgid "Ermixer"
+#~ msgstr "Ermixer"
+
+#~ msgid "Evolvotron"
+#~ msgstr "Evolvotron"
+
+#~ msgid "Interactive generative art software"
+#~ msgstr "Таъминоти барномавии муҳовараи art - эъҷодкор"
+
+#~ msgid "Flash for Linux"
+#~ msgstr "Flash барои Linux"
+
+#~ msgid "Fbdesk"
+#~ msgstr "Fbdesk"
+
+#~ msgid "Fluxbox-application to create and manage icons on your desktop"
+#~ msgstr ""
+#~ "Fluxbox-замима барои офаридан ва идора кардани тасвирҳо дар мизи кории "
+#~ "шумо"
+
+#~ msgid "The FlightGear Flight Simulator"
+#~ msgstr "Шабеҳи Парвоз FlightGear"
+
+#~ msgid "FooBillard"
+#~ msgstr "FooBillard"
+
+#~ msgid "OpenGL billard game"
+#~ msgstr "OpenGL бозии билярд"
+
+#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
+#~ msgstr ""
+#~ "A.D.I.E. - Муҳаррири Муҳовараи Тараққикарда, ки асбобҳои FOX-ро истифода "
+#~ "мебарад"
+
+#~ msgid "FOX Adie"
+#~ msgstr "FOX Adie"
+
+#~ msgid "Calculator using the FOX toolkit"
+#~ msgstr "Мошинаи ҳисобе, ки асбобҳои FOX-ро истифода мебарад"
+
+#~ msgid "FOX Calculator"
+#~ msgstr "FOX мошинаи ҳисоб"
+
+#~ msgid "FrameWorks"
+#~ msgstr "FrameWorks"
+
+#~ msgid "Stop-motion animation tool"
+#~ msgstr "Асбоби тасвири мутаҳаррикӣ"
+
+#~ msgid "Bass synth/sequencer/sample player for linux"
+#~ msgstr "Басс синтезатор/тартибгузор/бозигари намунаҳо барои linux"
+
+#~ msgid "Clone of the C64 Game Paradroid"
+#~ msgstr "Клони бозии C64 Paradroid"
+
+#~ msgid "Freedroid"
+#~ msgstr "Freedroid"
+
+#~ msgid "FreedroidRPG"
+#~ msgstr "FreedroidRPG"
+
+#~ msgid "FreeLords"
+#~ msgstr "FreeLords"
+
+#~ msgid "FreqTweak"
+#~ msgstr "FreqTweak"
+
+#~ msgid "Sound manipulator"
+#~ msgstr "Василаи дасткории овоз"
+
+#~ msgid "Calculates fret distances for stringed musical instruments"
+#~ msgstr "Ҳисоби фазоии созу мақом барои асбобҳои мусиқавии торӣ"
+
+#~ msgid "FretScale"
+#~ msgstr "FretScale"
+
+#~ msgid "3D file browser"
+#~ msgstr "Барраси файлии севазъа"
+
+#~ msgid "FVWM Windows manager"
+#~ msgstr "Мудири тирезавии FVWM"
+
+#~ msgid "Fvwm"
+#~ msgstr "Fvwm"
+
+#~ msgid "3D Map Viewer"
+#~ msgstr "Азназаргузарони севазъаи Нақша"
+
+#~ msgid "g3DGMV"
+#~ msgstr "g3DGMV"
+
+#~ msgid "Xmms cover viewer"
+#~ msgstr "Xmms барномаи азназаргузарони муқоваҳо"
+
+#~ msgid "Gai-bgswitcher"
+#~ msgstr "Gai-bgswitcher"
+
+#~ msgid "Blobs viewer :)"
+#~ msgstr "Азназаргузарони Blobs :)"
+
+#~ msgid "Gai-blobs"
+#~ msgstr "Gai-blobs"
+
+#~ msgid "Displays the status of the keyboard leds"
+#~ msgstr "Ҳолати нишонаҳои калидҳоро намоиш медиҳад"
+
+#~ msgid "Gai-leds"
+#~ msgstr "Gai-leds"
+
+#~ msgid "Gai-mailcounter"
+#~ msgstr "Gai-mailcounter"
+
+#~ msgid "Mail counter"
+#~ msgstr "Ҳисобкунаки паёмҳо"
+
+#~ msgid "Gai-pal"
+#~ msgstr "Gai-pal"
+
+#~ msgid "Display time when they sun sets and rise"
+#~ msgstr "Вақти бархостан ва фурӯ рафтани офтобро нишон медиҳад"
+
+#~ msgid "Gai-sun"
+#~ msgstr "Gai-sun"
+
+#~ msgid "Gai-visual-studio"
+#~ msgstr "Gai-visual-studio"
+
+#~ msgid "Visualizing the XMMS output"
+#~ msgstr "Дидоринамоии ҳосилнокии XMMS"
+
+#~ msgid "Galan"
+#~ msgstr "Galan"
+
+#~ msgid "3D Molecule Viewer"
+#~ msgstr "Азназаргузаронии Севазъаи Молекулаҳо"
+
+#~ msgid "2-D Volleyball"
+#~ msgstr "Волейболи Дувазъа"
+
+#~ msgid "Edit your gnome preferences"
+#~ msgstr "Таҳрир намудани имтиёзҳои худии gnome"
+
+#~ msgid "Gconfpref"
+#~ msgstr "Gconfpref"
+
+#~ msgid "Gem Drop X"
+#~ msgstr "Gem Drop X"
+
+#~ msgid "Tetris meets Space Invaders"
+#~ msgstr "Тетрис бо Запткунандагони Кайҳонӣ во мехӯрад"
+
+#~ msgid "GNU Forth"
+#~ msgstr "GNU Forth"
+
+#~ msgid "Teacher's gradebook"
+#~ msgstr "Gradebook-и муаллим"
+
+#~ msgid "GNOME MM/QM Frontend"
+#~ msgstr "Интерфейси графикии GNOME MM/QM"
+
+#~ msgid "DJ Collection Manager"
+#~ msgstr "DJ Мудири Маҷмӯъа"
+
+#~ msgid "GJay"
+#~ msgstr "GJay"
+
+#~ msgid "Action flight simulator"
+#~ msgstr "Шабеҳсози амали парвоз"
+
+#~ msgid "GL-117"
+#~ msgstr "GL-117"
+
+#~ msgid "Glinuxsms"
+#~ msgstr "Glinuxsms"
+
+#~ msgid "GLiv"
+#~ msgstr "GLiv"
+
+#~ msgid "OpenGL graphics viewer"
+#~ msgstr "Азнавгузаронандаи графикаи OpenGL"
+
+#~ msgid "3d lightcycle game"
+#~ msgstr "Бозии севазъаи lightcycle"
+
+#~ msgid "Gltron"
+#~ msgstr "Gltron"
+
+#~ msgid "Gnome Client for the masqdialer modem server"
+#~ msgstr "Мизоҷи Gnome барои хидматрасони модеми masqdialer"
+
+#~ msgid "Memory usage"
+#~ msgstr "Истифодабарии ҳофиза"
+
+#~ msgid "GMorgan"
+#~ msgstr "GMorgan"
+
+#~ msgid "MIDI Auto-Accompaniment"
+#~ msgstr "Худҳамоҳангии MIDI"
+
+#~ msgid "GMudix GTK mud client"
+#~ msgstr "GTK мизоҷи mud барои GMudix"
+
+#~ msgid "gMudix"
+#~ msgstr "gMudix"
+
+#~ msgid "Gnome-Kerberos"
+#~ msgstr "Gnome-Kerberos"
+
+#~ msgid "Gnometab"
+#~ msgstr "Gnometab"
+
+#~ msgid "Gnometab is a guitar tablature editor."
+#~ msgstr "Gnometab - муҳаррири ҷадвалҳои гитаравӣ"
+
+#~ msgid "GNU Robbo"
+#~ msgstr "GNU Robbo"
+
+#~ msgid "Gournal"
+#~ msgstr "Gournal"
+
+#~ msgid "Handwriting notepad"
+#~ msgstr "Китобчаи навиштаҷот барои сабтҳои дастӣ"
+
+#~ msgid "Gphone"
+#~ msgstr "Gphone"
+
+#~ msgid "Internet telephone"
+#~ msgstr "Телефони шабака"
+
+#~ msgid "Gpppoem"
+#~ msgstr "Gpppoem"
+
+#~ msgid "Pppoe monitor"
+#~ msgstr "Дидабони Pppoe"
+
+#~ msgid "GPRS Easy Connect"
+#~ msgstr "Пайвастшавии Осони GPRS"
+
+#~ msgid "GPS Data Transfer"
+#~ msgstr "Гузаронидани Додаҳо GPS"
+
+#~ msgid "MGPSPoint"
+#~ msgstr "MGPSPoint"
+
+#~ msgid "Control print jobs"
+#~ msgstr "Назорати супоришҳои чопӣ"
+
+#~ msgid "Grace"
+#~ msgstr "Grace"
+
+#~ msgid "Graphical visualization of scientific data"
+#~ msgstr "Азназаргузаронии графикии додаҳои илмӣ"
+
+#~ msgid "Grany"
+#~ msgstr "Grany"
+
+#~ msgid "The cellular automaton simulator"
+#~ msgstr "Шабеҳсози худкори ҳуҷайравӣ"
+
+#~ msgid "Geographic Resources Analysis Support System"
+#~ msgstr "Системаи Пуштибонии Таҳлили Захираҳои Ҷуғрофӣ"
+
+#~ msgid "Greenwich"
+#~ msgstr "Гринвич"
+
+#~ msgid "A RPN calculator"
+#~ msgstr "Ҳисобкунаки RPN"
+
+#~ msgid "TetriNET game client for Linux"
+#~ msgstr "Мизоҷи бозии TetriNET барои Linux"
+
+#~ msgid "GTK-IPTables"
+#~ msgstr "GTK-IPTables"
+
+#~ msgid "IPTables Rules Configuration"
+#~ msgstr "Батанзимдарории Қоидаҳои IPTables"
+
+#~ msgid "Change GTK1 Theme"
+#~ msgstr "Ивази GTK1 Мавзӯъ"
+
+#~ msgid "GTK Theme Switch"
+#~ msgstr "GTK Гузариши Мавзӯъ"
+
+#~ msgid "Gtk frontend to asp2php"
+#~ msgstr "Пешохири Gtk барои asp2php"
+
+#~ msgid "GtkAtlantic"
+#~ msgstr "GtkAtlantic"
+
+#~ msgid "Buehlmann ZH-L16 model diving simulation"
+#~ msgstr "Шабеҳсози поёнравии намуди Buehlmann ZH-L16"
+
+#~ msgid "GtkDive"
+#~ msgstr "GtkDive"
+
+#~ msgid "Graphical file finding program"
+#~ msgstr "Барномаи ҷӯяндаи файли графикӣ"
+
+#~ msgid "GTK Guitar Effects"
+#~ msgstr "Натиҷаҳои Гитаравии GTK"
+
+#~ msgid "Realtime effects"
+#~ msgstr "Натиҷаҳои вақти ҳақиқӣ"
+
+#~ msgid "GTK Frontend for CUPS"
+#~ msgstr "GTK Пешохир барои CUPS"
+
+#~ msgid "GTK Frontend to GTKlp CUPS Queue"
+#~ msgstr "GTK Пешохир барои GTKlp CUPS Queue"
+
+#~ msgid "Gtk version of motd"
+#~ msgstr "Gtk нусхаи motd"
+
+#~ msgid "Gvu"
+#~ msgstr "Gvu"
+
+#~ msgid "Siag Postscript viewer"
+#~ msgstr "Азнавгузаронии Siag Postscript"
+
+#~ msgid "Heroes"
+#~ msgstr "Қаҳрамонҳо"
+
+#~ msgid "Hexadecimal calculator"
+#~ msgstr "Ҳисобкунаки Шонздаҳӣ"
+
+#~ msgid "Hexcalc"
+#~ msgstr "Hexcalc"
+
+#~ msgid "Othello clone"
+#~ msgstr "Клони Othello"
+
+#~ msgid "Horgand"
+#~ msgstr "Horgand"
+
+#~ msgid "Configurator for the GTK+2 Japanese Input Module"
+#~ msgstr "Танзимкунандаи Модулҳои Воридкунии додаҳо бо Ҷопонӣ барои GTK+2"
+
+#~ msgid "ImgSeek"
+#~ msgstr "ImgSeek"
+
+#~ msgid "ImgSeek Photo Manager"
+#~ msgstr "ImgSeek Мудири Суратҳо"
+
+#~ msgid "Inventory"
+#~ msgstr "Inventory"
+
+#~ msgid "Simple Inventory Program"
+#~ msgstr "Барномаи Оддии Inventory"
+
+#~ msgid "IV"
+#~ msgstr "IV"
+
+#~ msgid "Image browser"
+#~ msgstr "Барраси симо"
+
+#~ msgid "Drum machine styled audio sequencer"
+#~ msgstr "Ҳамзамонсози худкор дар намуди мошинаи табла"
+
+#~ msgid "JackEQ"
+#~ msgstr "JackEQ"
+
+#~ msgid "Mixer for JACK audio server"
+#~ msgstr "Омехтакунак барои хидматрасони овозии JACK"
+
+#~ msgid "Jigsaw Download"
+#~ msgstr "Jigsaw Боркунӣ"
+
+#~ msgid "Graphical puzzle game"
+#~ msgstr "Бозии графикии муаммо"
+
+#~ msgid "Jools"
+#~ msgstr "Jools"
+
+#~ msgid "GTK2 ftp client"
+#~ msgstr "GTK2 ftp мизоҷ"
+
+#~ msgid "Junkie"
+#~ msgstr "Junkie"
+
+#~ msgid "ALSA connections"
+#~ msgstr "ALSA пайвастшавӣ"
+
+#~ msgid "KAConnect"
+#~ msgstr "KAConnect"
+
+#~ msgid "Kiki the nanobot"
+#~ msgstr "Kiki the nanobot"
+
+#~ msgid "QT Molecule Viewer"
+#~ msgstr "QT Азназаргузарони Молекула"
+
+#~ msgid "Kodos"
+#~ msgstr "Kodos"
+
+#~ msgid "Visual regular expression editor"
+#~ msgstr "Дидории муҳаррир"
+
+#~ msgid "XKoules"
+#~ msgstr "XKoules"
+
+#~ msgid "A graphical process viewer"
+#~ msgstr "Азнавгузаронии ҷараёни графикӣ"
+
+#~ msgid "A Panzer General clone"
+#~ msgstr "Клони Panzer General"
+
+#~ msgid "Lynx-like text WWW browser"
+#~ msgstr "WWW барраси матнӣ ба монанди Lynx"
+
+#~ msgid "LinPopUp"
+#~ msgstr "LinPopUp"
+
+#~ msgid "LinuxSMS"
+#~ msgstr "LinuxSMS"
+
+#~ msgid "LongPlayer"
+#~ msgstr "LongPlayer"
+
+#~ msgid "LTris"
+#~ msgstr "LTris"
+
+#~ msgid "Nice tetris clone"
+#~ msgstr "Клони хуби тетрис"
+
+#~ msgid "Luma"
+#~ msgstr "Luma"
+
+#~ msgid "Fly a small V shaped ship in a 2D arcade game"
+#~ msgstr "Дар бозии дувазъаи аркадавӣ, дар киштии шакли V дошта парвоз намоед"
+
+#~ msgid "Catch the bombs"
+#~ msgstr "Бомбаҳоро доред"
+
+#~ msgid "MadBomber"
+#~ msgstr "Бомбаандози Девона"
+
+#~ msgid "MAS Internet Conferencing"
+#~ msgstr "MAS гузаронидани Конференсияҳои Шабакавӣ"
+
+#~ msgid "MASConf"
+#~ msgstr "MASConf"
+
+#~ msgid "MAS Mixer"
+#~ msgstr "MAS Омехтакунак"
+
+#~ msgid "MASMix"
+#~ msgstr "MASОмехта"
+
+#~ msgid "Interactive function grapher"
+#~ msgstr "Нақшакаши вазифоии муҳовараӣ"
+
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgid "Tcl/Tk interface to Maxima"
+#~ msgstr "Tcl/Tk - интерфейс барои Maxima"
+
+#~ msgid "MGM"
+#~ msgstr "MGM"
+
+#~ msgid "Mirror Magic"
+#~ msgstr "Mirror Magic"
+
+#~ msgid "A multi-lingual terminal emulator"
+#~ msgstr "Намунасози бисёрзабонаи поёна"
+
+#~ msgid "Mlterm"
+#~ msgstr "Mlterm"
+
+#~ msgid "Molrender"
+#~ msgstr "Molrender"
+
+#~ msgid "Maitretarot Client"
+#~ msgstr "Мизоҷи Maitretarot"
+
+#~ msgid "Ping/Traceroute network diagnostic tool"
+#~ msgstr "Асбоби ташхисии шабакаи Ping/Traceroute"
+
+#~ msgid "Xmtr"
+#~ msgstr "Xmtr"
+
+#~ msgid "Multi-aterm"
+#~ msgstr "Multi-aterm"
+
+#~ msgid "MIDI sequencer"
+#~ msgstr "MIDI тартибгузор"
+
+#~ msgid "Nabi"
+#~ msgstr "Nabi"
+
+#~ msgid "Simple Hangul XIM"
+#~ msgstr "Hangul XIM-и Оддӣ"
+
+#~ msgid "Natmonitor "
+#~ msgstr "Natдидабон"
+
+#~ msgid "Nessus"
+#~ msgstr "Nessus"
+
+#~ msgid "NiL Isn't Liero"
+#~ msgstr "NiL - ин Liero нест"
+
+#~ msgid "Nuclear Chess"
+#~ msgstr "Nuclear Chess"
+
+#~ msgid "NexTView EPG decoder and browser"
+#~ msgstr "Корбардор ва барраси NexTНазар EPG"
+
+#~ msgid "Nxtvepg"
+#~ msgstr "Nxtvepg"
+
+#~ msgid "Digital Gradebook"
+#~ msgstr "Gradebook-и рақамӣ"
+
+#~ msgid "OpenGrade"
+#~ msgstr "OpenGrade"
+
+#~ msgid "Orbital Eunuchs Sniper"
+#~ msgstr "Мергани Ҳоҷасирои Мадорӣ"
+
+#~ msgid "OSD Xine Video Player"
+#~ msgstr "OSD Xine Бозигари Видео"
+
+#~ msgid "Oxine"
+#~ msgstr "Oxine"
+
+#~ msgid "Desktop Publishing for X (PAO)"
+#~ msgstr "Нашри Мизи Корӣ барои X (PAO)"
+
+#~ msgid "Passepartout"
+#~ msgstr "Passepartout"
+
+#~ msgid "Logic game"
+#~ msgstr "Бозии мантиқӣ"
+
+#~ msgid "A clone of the classic Missile Command game"
+#~ msgstr "Клони бозии класикии Missile Command"
+
+#~ msgid "Penguin Command"
+#~ msgstr "Пингвин Фармон"
+
+#~ msgid "Emilia 3d Pinball"
+#~ msgstr "Пинболи севазъаи Emilia"
+
+#~ msgid "Pingus"
+#~ msgstr "Pingus"
+
+#~ msgid "Pingus - A free Lemmings clone"
+#~ msgstr "Pingus - клони озоди Lemmings"
+
+#~ msgid "POPFile - Automatic Email Classification"
+#~ msgstr "POPFile - Худтабақабандии Email"
+
+#~ msgid "PrBooM-GL Multiplayer"
+#~ msgstr "PrBooM-GL Бисёрбозигара"
+
+#~ msgid "PrBooM-GL"
+#~ msgstr "PrBooM-GL"
+
+#~ msgid "PrBooM Multiplayer"
+#~ msgstr "PrBooM Бисёрбозигара"
+
+#~ msgid "PrBooM"
+#~ msgstr "PrBooM"
+
+#~ msgid "Free SSH, Telnet and Rlogin client"
+#~ msgstr "Мизоҷи озод барои SSH, Telnet ва Rlogin"
+
+#~ msgid "Putty"
+#~ msgstr "Putty"
+
+#~ msgid "Pathetic Writer"
+#~ msgstr "Нависандаи Оҷиз"
+
+#~ msgid "Siag Office Pathetic writer"
+#~ msgstr "Siag Нависандаи Идоравии Оҷиз"
+
+#~ msgid "Python controlled molecular graphics"
+#~ msgstr "Python графикаи молекуляриро идора мекунад"
+
+#~ msgid "ALSA Mixer"
+#~ msgstr "Омехтакунаки ALSA"
+
+#~ msgid "QAMix"
+#~ msgstr "QAMix"
+
+#~ msgid "ALSA recording GUI"
+#~ msgstr "ALSA сабткунии GUI"
+
+#~ msgid "QARecord"
+#~ msgstr "QARecord"
+
+#~ msgid "Multipage TIFF viewer"
+#~ msgstr "Барномаи азназаргузарони бисёрсаҳифаи TIFF"
+
+#~ msgid "QFaxReader"
+#~ msgstr "QFaxReader"
+
+#~ msgid "Qjackconnect"
+#~ msgstr "Qjackconnect"
+
+#~ msgid "Qt-based Jackit Connector"
+#~ msgstr "Пайвандкунандаи Jackit дар асоси Qt"
+
+#~ msgid "QJoyPad"
+#~ msgstr "QJoyPad"
+
+#~ msgid "QtRadio - listen to the radio with QtRadio."
+#~ msgstr "QtRadio - бо QtRadio - радиоро гӯш кунед."
+
+#~ msgid "Generate 3D fractal objects"
+#~ msgstr "Барангехтани объектҳои севазъаи касрӣ"
+
+#~ msgid "Quat"
+#~ msgstr "Quat"
+
+#~ msgid "Keep track of things"
+#~ msgstr "Аз паи чизҳо пойгарди мекунад"
+
+#~ msgid "Quicklist"
+#~ msgstr "Quicklist"
+
+#~ msgid "QVCD"
+#~ msgstr "QVCD"
+
+#~ msgid "Video CD Creator"
+#~ msgstr "Офарандаи Диски Фишурдаи Видео"
+
+#~ msgid "Poker-like card game"
+#~ msgstr "Бозии кортӣ ба монанди Poker"
+
+#~ msgid "RA Pai Gaw Poker"
+#~ msgstr "RA Pai Gaw Poker"
+
+#~ msgid "Molecular Graphics Visualization Tool"
+#~ msgstr "Асбоби Дидорнамоии Графикаи Молекулавӣ"
+
+#~ msgid "RasMol"
+#~ msgstr "RasMol"
+
+#~ msgid "RBBR"
+#~ msgstr "RBBR"
+
+#~ msgid "RuBy BRowser"
+#~ msgstr "RuBy BRowser"
+
+#~ msgid "Digital audio editor"
+#~ msgstr "Муҳаррири рақамии садо"
+
+#~ msgid "Rezound"
+#~ msgstr "Rezound"
+
+#~ msgid "Root-tail prints text directly to a root window"
+#~ msgstr "Root-tail матнро бевосита дар тирезаи X11 root чоп мекунад"
+
+#~ msgid "File Manager of the ROX desktop environment"
+#~ msgstr "Мудири файлии муҳити мизи кории ROX"
+
+#~ msgid "High-level language for numerical computations"
+#~ msgstr "Забони савияаш баланд барои муҳосиботи рақамӣ"
+
+#~ msgid "Scilab"
+#~ msgstr "Scilab"
+
+#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
+#~ msgstr "SDLRoids - тирандози мукаммалгаштаи астероидҳо"
+
+#~ msgid "Loop-based MIDI sequencer"
+#~ msgstr "Батанзимдарории MIDI, ки ба даврабандӣ асос ёфтааст"
+
+#~ msgid "Seq24"
+#~ msgstr "Seq24"
+
+#~ msgid "MIDI event mixer"
+#~ msgstr "MIDI омехтакунаки рӯйдодҳо"
+
+#~ msgid "SoundFontCombi"
+#~ msgstr "SoundFontCombi"
+
+#~ msgid "FOX Shutterbug"
+#~ msgstr "FOX Shutterbug"
+
+#~ msgid "Takes a screenshot and saves it to a file"
+#~ msgstr "Сурати экранро мегирад ва дар файл нигоҳ медорад"
+
+#~ msgid "SimSam"
+#~ msgstr "SimSam"
+
+#~ msgid "Simple Sampler"
+#~ msgstr "Simple Sampler"
+
+#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
+#~ msgstr ""
+#~ "Бозии севазъаи бисёрбозингараи автомобилронӣ бо шикастанҳои мошин дар "
+#~ "Python"
+
+#~ msgid "Slune"
+#~ msgstr "Slune"
+
+#~ msgid "GPL sound font editor"
+#~ msgstr "GPL муҳаррири ҳуруфҳои овозӣ"
+
+#~ msgid "Music player"
+#~ msgstr "Бозигари мусиқавӣ"
+
+#~ msgid "SnackAmp"
+#~ msgstr "SnackAmp"
+
+#~ msgid "Snd"
+#~ msgstr "Snd"
+
+#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
+#~ msgstr ""
+#~ "Бозии дувазъаи аркадавӣ бо ҷамъоварии қуттиҳо ва аз тир худро раҳо додан"
+
+#~ msgid "Multitrack wave editor"
+#~ msgstr "Муҳаррири бисёршиораи wave"
+
+#~ msgid "Songs"
+#~ msgstr "Songs"
+
+#~ msgid "Guitar TAB editor"
+#~ msgstr "Муҳаррири Guitar TAB"
+
+#~ msgid "Grass (Spearfish)"
+#~ msgstr "Grass (Spearfish)"
+
+#~ msgid "Grass using the Spearfish sample data set"
+#~ msgstr "Grass намунаи маҷмӯи додаҳои Spearfish-ро истифода мебарад"
+
+#~ msgid "MIDI software sampler"
+#~ msgstr "Намунаи таъминоти барномавии MIDI"
+
+#~ msgid "Specimen"
+#~ msgstr "Specimen"
+
+#~ msgid "Spiral Modular Software Synthesizer"
+#~ msgstr "Spiral - Синтезатори Таъминоти Барномавии Воҳидӣ"
+
+#~ msgid "Spiral Modular Synth"
+#~ msgstr "Синтезатори Воҳидии Spiral"
+
+#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
+#~ msgstr "Танзимкунандаи MIDI - забонак дар ZynAddSubFX"
+
+#~ msgid "Project: Starfighter"
+#~ msgstr "Лоиҳаи: Starfighter"
+
+#~ msgid "Star Voyager"
+#~ msgstr "Star Voyager"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "GUI for Samsung Uproar and Yepp"
+#~ msgstr "GUI барои Samsung Uproar ва Yepp"
+
+#~ msgid "Sulu"
+#~ msgstr "Sulu"
+
+#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
+#~ msgstr "VLC - ин бозигари MPEG, MPEG2, DVD ва DivX-и озод"
+
+#~ msgid "VLC skinned GUI media player"
+#~ msgstr "Бозингари расона бо Интерфейси Гафикии VLC"
+
+#~ msgid "Swami"
+#~ msgstr "Swami"
+
+#~ msgid "Quick-configure menu"
+#~ msgstr "Менюи батанзимдарории тез"
+
+#~ msgid "Ted"
+#~ msgstr "Ted"
+
+#~ msgid "Ted, Rich Text Processor"
+#~ msgstr "Муҳаррири Матнии Васеъгардонидашудаи Ted"
+
+#~ msgid "JACK TimeMachine"
+#~ msgstr "JACK TimeMachine"
+
+#~ msgid "Records audio from ten seconds ago"
+#~ msgstr "Сабти садо то даҳ сония"
+
+#~ msgid "TORCS"
+#~ msgstr "TORCS"
+
+#~ msgid "The Open Racing Car Simulator"
+#~ msgstr "Шабеҳсози Мошинаи Open Racing"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulip"
+
+#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
+#~ msgstr "Tuxedo T. Penguin: A Quest For Herring"
+
+#~ msgid "Karting with tux"
+#~ msgstr "Karting бо tux"
+
+#~ msgid "Tuxpuck"
+#~ msgstr "Tuxpuck"
+
+#~ msgid "The Ur-Quan Masters"
+#~ msgstr "The Ur-Quan Masters"
+
+#~ msgid "Ur-Quan Masters"
+#~ msgstr "Ur-Quan Соҳибон"
+
+#~ msgid "Vega Strike"
+#~ msgstr "Vega Strike"
+
+#~ msgid "3D model assembler"
+#~ msgstr "Барномаи ҳамгузорсози моделҳои севазъа"
+
+#~ msgid "Vertex"
+#~ msgstr "Vertex"
+
+#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
+#~ msgstr "Unix - муҳаррири машҳури vi бо ҷамъкунии Vigor Assistant"
+
+#~ msgid "On-screen ALSA MIDI keyboard"
+#~ msgstr "MIDI забонаки экрании ALSA"
+
+#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
+#~ msgstr "VOCPhax (GUI Азназаргузаронӣ ва Фиристандаи Факси VOCP)"
+
+#~ msgid "Main Volume control dockapp"
+#~ msgstr "Апплети асосии дарунсохтаи идоракунии баландии садо"
+
+#~ msgid "Volume knob"
+#~ msgstr "Volume knob"
+
+#~ msgid "VICE SID music player for Commodore tunes"
+#~ msgstr "VICE SID бозигари мусиқӣ барои мизонкунии Commodore"
+
+#~ msgid "VSID music player"
+#~ msgstr "VSID - бозигари мусиқӣ"
+
+#~ msgid "Graphical sound editor"
+#~ msgstr "Муҳаррири графикии овоз"
+
+#~ msgid "WaveSurfer"
+#~ msgstr "WaveSurfer"
+
+#~ msgid "Battle For Wesnoth editor"
+#~ msgstr "Муҳаррири Ҷанг Барои Wesnoth"
+
+#~ msgid "The map editor of Battle for Wesnoth"
+#~ msgstr "Муҳаррири харитаи ҷанг барои Wesnoth"
+
+#~ msgid "A fantasy turn-based strategy game."
+#~ msgstr "Гардиши хаёлот - бозии стратегӣ."
+
+#~ msgid "Battle For Wesnoth"
+#~ msgstr "Мубориза барои Wesnoth"
+
+#~ msgid "A great racing game starring Tux"
+#~ msgstr "Бозии калони дунболагирӣ боTux"
+
+#~ msgid "Settlers II clone"
+#~ msgstr "Клони Settlers II"
+
+#~ msgid "Widelands"
+#~ msgstr "Widelands"
+
+#~ msgid "WLanFE"
+#~ msgstr "WLanFE"
+
+#~ msgid "Wireless LAN Configuration"
+#~ msgstr "Батанзимдарории Шабакаи Маҳаллии Бесим"
+
+#~ msgid "WmApm"
+#~ msgstr "WmApm"
+
+#~ msgid "WindowMaker dock application for linuxfr-addicted people"
+#~ msgstr ""
+#~ "Замимаи ба WindowMaker дарунсохташуда барои шахсоне, ки ба linuxfr майл "
+#~ "доранд"
+
+#~ msgid "Wmcoincoin"
+#~ msgstr "Wmcoincoin"
+
+#~ msgid "CPU monitoring in a dockapp"
+#~ msgstr "CPU назорат дар апплети дарунсохта"
+
+#~ msgid "WmCPULoad"
+#~ msgstr "WmCPULoad"
+
+#~ msgid "WmCube"
+#~ msgstr "WmCube"
+
+#~ msgid "WmDf"
+#~ msgstr "WmDf"
+
+#~ msgid "A dock.app that displays CPU load as fire in a small icon"
+#~ msgstr ""
+#~ "Апплети дарунсохта, ки корандози ВПМ-ро дар тасвири хурд дар намуди оташ "
+#~ "намоиш медиҳад"
+
+#~ msgid "Analog clock in a tank fish"
+#~ msgstr "Шабеҳи соат дар аквариуми моҳидор"
+
+#~ msgid "WmFishTime"
+#~ msgstr "WmFishTime"
+
+#~ msgid "A dock.app that displays a rotating Earth in an icon"
+#~ msgstr ""
+#~ "Апплети дарунсохта, ки Замини давразанандаро дар тасвир намоиш медиҳад"
+
+#~ msgid "WmGlobe"
+#~ msgstr "WmGlobe"
+
+#~ msgid "Dockapp OSS sound mixer"
+#~ msgstr "Апплети дарунсохтаи омехтакунаки овоз OSS"
+
+#~ msgid "Laptop status docklet"
+#~ msgstr "Ҳолати компютери дастӣ дар панели апплет"
+
+#~ msgid "WMLaptop"
+#~ msgstr "WMLaptop"
+
+#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
+#~ msgstr "Апплети дарунсохтаи назорати ҳофиза/мубодила барои WindowMaker"
+
+#~ msgid "UPS monitoring in a dockapp"
+#~ msgstr "Дидабони Сарчашмаи Нерӯи Бетаваққуф дар апплетии насбшаванда"
+
+#~ msgid "WMNut"
+#~ msgstr "WMNut"
+
+#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
+#~ msgstr "Назорати сандуқҳои пости бисёр via Pop3 дар апплети дарунсохт"
+
+#~ msgid "A stock quote data display in a small icon"
+#~ msgstr ""
+#~ "Додаҳо оиди нархмонии саҳмияҳо дар тасвири хурд намоиш дода мешаванд"
+
+#~ msgid "WmStock"
+#~ msgstr "WmStock"
+
+#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
+#~ msgstr ""
+#~ "Ахбороти система (ҳофиза, мубодила, муддати замони дастрасӣ, IO) дар "
+#~ "тасвири хурд"
+
+#~ msgid "WmSysMon"
+#~ msgstr "WmSysMon"
+
+#~ msgid "Watch your own webcam in a small dockapp window"
+#~ msgstr "Ба web камераи худ дар тирезаи апплети дарунсохта назар афканед"
+
+#~ msgid "WmWebcam"
+#~ msgstr "WmWebcam"
+
+#~ msgid "WMWifi"
+#~ msgstr "WMWifi"
+
+#~ msgid "Wireless network docklet"
+#~ msgstr "Апплети панели шабакаи бесим"
+
+#~ msgid "WmXss"
+#~ msgstr "WmXss"
+
+#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
+#~ msgstr "Мудири файли, ки ба Directory Opus дар AMIGA шабеҳ аст"
+
+#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
+#~ msgstr ""
+#~ "Ҳангоми барқароркунӣ ва пешгирӣ Repetitive Strain Injury (RSI) кӯмак "
+#~ "мекунад"
+
+#~ msgid "Workrave"
+#~ msgstr "Workrave"
+
+#~ msgid "A GUI builder for wxWindows/wxPython"
+#~ msgstr "Созандаи GUI барои wxWindows/wxPython"
+
+#~ msgid "wxGlade"
+#~ msgstr "wxGlade"
+
+#~ msgid "C128 Emulator"
+#~ msgstr "Намунасози C128"
+
+#~ msgid "Commodore 128 Emulator"
+#~ msgstr "Намунасози Commodore 128"
+
+#~ msgid "C64 Emulator"
+#~ msgstr "Намунасози C64"
+
+#~ msgid "Commodore 64 Emulator"
+#~ msgstr "Намунасози Commodore 64"
+
+#~ msgid "Realtime fractal zoomer"
+#~ msgstr "Тағири андозаи фрактал дар вақти ҳақиқӣ"
+
+#~ msgid "Clone of ARCHON game"
+#~ msgstr "Клони бозии ARCHON"
+
+#~ msgid "CBM2 Emulator"
+#~ msgstr "Намунасози CBM2"
+
+#~ msgid "Commodore BM 2 Emulator"
+#~ msgstr "Намунасози Commodore BM 2"
+
+#~ msgid "CHM viewer for UNIX"
+#~ msgstr "Барномаи азназаргузарони CHM барои UNIX"
+
+#~ msgid "Siag text editor"
+#~ msgstr "Мудири матнии Siag"
+
+#~ msgid "Xedplus"
+#~ msgstr "Xedplus"
+
+#~ msgid "Siag File manager"
+#~ msgstr "Мудири файлии Siag"
+
+#~ msgid "Xfiler"
+#~ msgstr "Xfiler"
+
+#~ msgid "A mp3 playlist frontend"
+#~ msgstr "Пешохири фаҳристи бозии mp3"
+
+#~ msgid "XMakeMol"
+#~ msgstr "XMakeMol"
+
+#~ msgid "Xmorph"
+#~ msgstr "Xmorph"
+
+#~ msgid "Mr. Is, a Mr. Do clone for X"
+#~ msgstr "Клони Mr. Is, a Mr. Do барои X"
+
+#~ msgid "XMrIs"
+#~ msgstr "XMrIs"
+
+#~ msgid "Display penguins running on your desktop."
+#~ msgstr ""
+#~ "Пингвинҳоро, ки дар мизи кории шумо корандозӣ шудааст, намоиш медиҳад."
+
+#~ msgid "Xpenguins"
+#~ msgstr "Xpenguins"
+
+#~ msgid "Commodore PET Emulator"
+#~ msgstr "Намунасози Commodore PET"
+
+#~ msgid "PET Emulator"
+#~ msgstr "Намунасози PET"
+
+#~ msgid "Fly/shoot arcade game"
+#~ msgstr "Бозии аркадавии парвозӣ/тирандозӣ"
+
+#~ msgid "Xpilot server"
+#~ msgstr "Хидматрасони Xpilot"
+
+#~ msgid "Xpilot - Requires server"
+#~ msgstr "Xpilot - хидматрасонро Талаб мекунад"
+
+#~ msgid "X-Pired"
+#~ msgstr "X-Pired"
+
+#~ msgid "CPLUS4 Emulator"
+#~ msgstr "Намунасози CPLUS4"
+
+#~ msgid "Commodore PLUS4 Emulator"
+#~ msgstr "Намунасози Commodore PLUS4"
+
+#~ msgid "News reader"
+#~ msgstr "Хонандаи ахборот"
+
+#~ msgid "Xrn"
+#~ msgstr "Xrn"
+
+#~ msgid "Tool for manipulating software packages"
+#~ msgstr ""
+#~ "Асбоб барои ба кор андохтани бастаи барномаҳо бо таъминоти барномавӣ"
+
+#~ msgid "Cool arcade/thinking game very much like Lode Runner"
+#~ msgstr ""
+#~ "Бозии олиҷаноби аркадавӣ/мулоҳизавӣ, ки хеле ба Lode Runner монанд аст"
+
+#~ msgid "X-Scavenger"
+#~ msgstr "X-Scavenger"
+
+#~ msgid "Clone of Scorched Earth"
+#~ msgstr "Клони Scorched Earth"
+
+#~ msgid "XScorch"
+#~ msgstr "XScorch"
+
+#~ msgid "QT version of the C64 music player"
+#~ msgstr "Нусхаи QT-и бозигари мусиқии C64"
+
+#~ msgid "The Skat game"
+#~ msgstr "Бозии Skat"
+
+#~ msgid "Shooting game on X Window System"
+#~ msgstr "Бозии тирандозӣ дар X Тирезаи Системавӣ"
+
+#~ msgid "Commodore VIC 20 Emulator"
+#~ msgstr "Намунасози Commodore VIC 20"
+
+#~ msgid "VIC 20 Emulator"
+#~ msgstr "Намунасози VIC 20"
+
+#~ msgid "On-screen keyboard for X"
+#~ msgstr "Забонаки экранӣ барои X"
+
+#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
+#~ msgstr "VOCP (бозёбии Графикии паёмҳои садо VOCP)"
+
+#~ msgid "A level editor for DOOM"
+#~ msgstr "Муҳаррири сатҳ барои DOOM"
+
+#~ msgid "Yadex"
+#~ msgstr "Yadex"
+
+#~ msgid "Real-time MIDI software synth"
+#~ msgstr "Синтезатори таъминоти барномавии MIDI дар замони ҳақиқӣ"
+
+#~ msgid "Mixxx"
+#~ msgstr "Mixxx"
+
+#~ msgid "Monkey Bubble"
+#~ msgstr "Monkey Bubble"
+
+#~ msgid "Monkey Bubble Arcade Game"
+#~ msgstr "Бозии Аркадавии Monkey Bubble"
+
+#~ msgid "MonoDevelop"
+#~ msgstr "MonoDevelop"
+
+#~ msgid "Mash monsters and save the gnomes"
+#~ msgstr "Иблисро пахш кунед ва гномҳоро наҷот диҳед"
+
+#~ msgid "Monster Masher"
+#~ msgstr "Monster Masher"
+
+#~ msgid "Listen to your music"
+#~ msgstr "Гӯш кардани мусиқии шумо"
+
+#~ msgid "Muine Music Player"
+#~ msgstr "Бозигари Мусиқавии Muine"
+
+#~ msgid "Neverball"
+#~ msgstr "Neverball"
+
+#~ msgid "Neverputt"
+#~ msgstr "Neverputt"
+
+#~ msgid "Downloader for X"
+#~ msgstr "Боркунак барои X"
+
+#~ msgid "pydance"
+#~ msgstr "pydance"
+
+#~ msgid "QDVDAuthor"
+#~ msgstr "QDVDAuthor"
+
+#~ msgid "Organize and secure your passwords"
+#~ msgstr "Ташкили бехатарии гузарвожаи шумо"
+
+#~ msgid "ripperX"
+#~ msgstr "ripperX"
+
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgid "Scorched 3D"
+#~ msgstr "Scorched 3D"
+
+#~ msgid "Scorched Earth 3D OpenGL Remake"
+#~ msgstr "OpenGL-и севазъаи азнавташаккулёбии Scorched Earth"
+
+#~ msgid "Sirius"
+#~ msgstr "Sirius"
+
+#~ msgid "Sweep"
+#~ msgstr "Қулочкашӣ"
+
+#~ msgid "Proc Configuration"
+#~ msgstr "Батанзимдарории Proc"
+
+#~ msgid "Trackballs"
+#~ msgstr "Трекболҳо"
+
+#~ msgid "Terminal Server Client"
+#~ msgstr "Мизоҷи Хидматрасони Поёна"
+
+#~ msgid "Tux Paint"
+#~ msgstr "Tux Paint"
+
+#~ msgid "Urlgfe"
+#~ msgstr "Urlgfe"
+
+#~ msgid "Viking"
+#~ msgstr "Викинг"
+
+#~ msgid "VLC media player"
+#~ msgstr "VLC бозигари муҳит"
+
+#~ msgid "Wormux"
+#~ msgstr "Wormux"
+
+#~ msgid "IBM 3270 Terminal Emulator"
+#~ msgstr "IBM 3270 Намунасози Поёна"
+
+#~ msgid "X3270"
+#~ msgstr "X3270"
+
+#~ msgid "DOS emulator running under X"
+#~ msgstr "DOS намунасоз, ки дар зери X корандозӣ мешавад"
+
+#~ msgid "Sticky Notes"
+#~ msgstr "Навиштаҷотҳои Часпондашаванда"
+
+#~ msgid "Xpaint"
+#~ msgstr "Xpaint"
