@@ -144,6 +144,11 @@
 		<Menu>
 			<Name>XFCE</Name>
 			<Directory>altlinux-settings-xfce.directory</Directory>
+	        	<Layout>
+	        	    <Filename>xfce-settings-manager.desktop</Filename>
+		            <Separator/>
+        		    <Merge type="all"/>
+		        </Layout>
 			<Include>
 				<And>
 					<Category>Settings</Category>

@@ -201,6 +201,8 @@ directory_in_files =			\
 	altlinux-ham-radio.directory.in		\
 	altlinux-telephony-tools.directory.in		\
 	altlinux-mail.directory.in		\
+	altlinux-database.directory.in		\
+	altlinux-publishing.directory.in		\
 	altlinux-other.directory.in		\
 	altlinux-applications.directory.in		\
 	altlinux-screensaver.directory.in		\

@@ -14,6 +14,11 @@
       <Merge type="files"/>
     </DefaultLayout>
 
+    <Move>
+      <Old>ShallowSettings</Old>
+      <New>Settings</New>
+    </Move>
+
     <Menu>
         <Name>Accessories</Name>
         <Directory>altlinux-utility.directory</Directory>

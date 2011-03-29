@@ -18,22 +18,15 @@
 		<Merge type="files"/>
 	</DefaultLayout>
 
+	<!-- remove shallow submenu -->
+	<Menu>
+		<Name>ShallowSettings</Name>
+		<Deleted/>
+	</Menu>
+	<!-- end remove shallow submenu -->
+
 	<Menu>
 		<Name>Settings</Name>
-		<!-- remove shallow submenu -->
-		<Menu>
-			<Name>LXDEPreferences</Name>
-			<Deleted/>
-		</Menu>
-		<Menu>
-			<Name>LXDEAdministration</Name>
-			<Deleted/>
-		</Menu>
-		<Exclude>
-			<All/>
-		</Exclude>
-		<!-- end remove shallow submenu -->
-
 		<MergeFile>altlinux-settings.menu</MergeFile>
 	</Menu>
 

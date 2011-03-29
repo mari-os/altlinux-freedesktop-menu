@@ -1,6 +1,6 @@
 #!/bin/sh -v
 
-TOP=../altlinux-freedesktop-menu.git
+TOP=../alt-fd-menu.git
 
 #make distclean
 rm -rf desktop-directories layout configure.ac po/*.po *.spec

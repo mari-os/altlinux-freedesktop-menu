@@ -11,25 +11,8 @@
         <Category>X-Xfce-Toplevel</Category>
     </Include>
 
-    <Layout>
-        <Filename>xfrun4.desktop</Filename>
-        <Separator/>
-        <Filename>exo-terminal-emulator.desktop</Filename>
-        <Filename>exo-file-manager.desktop</Filename>
-        <Filename>exo-mail-reader.desktop</Filename>
-        <Filename>exo-web-browser.desktop</Filename>
-        <Separator/>
-        <Menuname>Settings</Menuname>
-        <Separator/>
-        <Merge type="all"/>
-        <Separator/>
-        <Filename>xfhelp4.desktop</Filename>
-        <Filename>xfce4-about.desktop</Filename>
-        <Filename>xfce4-session-logout.desktop</Filename>
-    </Layout>
-
     <Menu>
-        <Name>Settings</Name>
+        <Name>ShallowSettings</Name>
         <Directory>altlinux-settings-desktop.directory</Directory>
         <Include>
             <Category>Settings</Category>
@@ -51,6 +34,24 @@
     </Menu>
 
     <MergeFile>altlinux-applications.menu</MergeFile>
+
+    <Layout>
+        <Filename>xfrun4.desktop</Filename>
+        <Separator/>
+        <Filename>exo-terminal-emulator.desktop</Filename>
+        <Filename>exo-file-manager.desktop</Filename>
+        <Filename>exo-mail-reader.desktop</Filename>
+        <Filename>exo-web-browser.desktop</Filename>
+        <Separator/>
+        <Menuname>Settings</Menuname>
+        <Menuname>ShallowSettings</Menuname>
+        <Separator/>
+        <Merge type="all"/>
+        <Separator/>
+        <Filename>xfhelp4.desktop</Filename>
+        <Filename>xfce4-about.desktop</Filename>
+        <Filename>xfce4-session-logout.desktop</Filename>
+    </Layout>
 
     <Move>
       <Old>Settings/DesktopSettings/XFCE</Old>

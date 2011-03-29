@@ -12,6 +12,49 @@
 	<!-- Read in overrides and child menus from applications-merged/ -->
 	<DefaultMergeDirs/>
 
+	<!-- Shallow Settings -->
+	<Menu>
+		<Name>ShallowSettings</Name>
+		<Directory>altlinux-settings-desktop.directory</Directory>
+		<Menu>
+			<Name>LXDE-Preferences</Name>
+			<Directory>altlinux-settings-personal.directory</Directory>
+			<Include>
+				<And>
+					<Category>Settings</Category>
+					<Not>
+						<Or>
+							<Category>System</Category>
+							<Filename>gnomecc.desktop</Filename>
+						</Or>
+					</Not>
+				</And>
+			</Include>
+		</Menu>
+
+		<!-- System Settings -->
+		<Menu>
+			<Name>LXDE-Administration</Name>
+			<Directory>altlinux-settings-system.directory</Directory>
+			<Include>
+				<And>
+					<Category>Settings</Category>
+					<Category>System</Category>
+				</And>
+			</Include>
+		</Menu>
+		<!-- End System Settings -->
+
+		<Layout>
+			<Menuname>LXDE-Preferences</Menuname>
+			<Menuname>LXDE-Administration</Menuname>
+			<Merge type="menus"/>
+			<Merge type="files"/>
+		</Layout>
+
+	</Menu> 
+	<!-- End Shallow Settings -->
+
 	<MergeFile>altlinux-applications.menu</MergeFile>
 
 	<!-- lxde customization -->
@@ -31,51 +74,12 @@
 	<!-- end lxde customization -->
 
 
-	<Menu>
-		<Name>Settings</Name>
-		<Directory>altlinux-settings-desktop.directory</Directory>
-		<Menu>
-			<Name>LXDEPreferences</Name>
-			<Directory>altlinux-settings-personal.directory</Directory>
-			<Include>
-				<And>
-					<Category>Settings</Category>
-					<Not>
-						<Or>
-							<Category>System</Category>
-							<Filename>gnomecc.desktop</Filename>
-						</Or>
-					</Not>
-				</And>
-			</Include>
-		</Menu>
-
-		<!-- System Settings -->
-		<Menu>
-			<Name>LXDEAdministration</Name>
-			<Directory>altlinux-settings-system.directory</Directory>
-			<Include>
-				<And>
-					<Category>Settings</Category>
-					<Category>System</Category>
-				</And>
-			</Include>
-		</Menu>		 <!-- End System Settings -->
-
-		<Layout>
-			<Menuname>LXDEPreferences</Menuname>
-			<Menuname>LXDEAdministration</Menuname>
-			<Merge type="menus"/>
-			<Merge type="files"/>
-		</Layout>
-
-	</Menu> <!-- End Settings -->
-
 	<Layout>
 		<Merge type="files"/>
 		<Merge type="menus"/>
 		<Separator/>
 		<Menuname>Settings</Menuname>
+		<Menuname>ShallowSettings</Menuname>
 	</Layout>
 
 </Menu> <!-- End Applications -->
