@@ -1,5 +1,5 @@
- <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
-  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
 
 <Menu>
     <Name>Applications</Name>
@@ -36,7 +36,8 @@
     </Menu>
 
     <Menu>
-      <Name>Accessibility</Name>
+      <!--<Name>Accessibility</Name>-->
+      <Name>Universal Access</Name>
       <Directory>altlinux-utility-accessibility.directory</Directory>
       <Include>
         <And>

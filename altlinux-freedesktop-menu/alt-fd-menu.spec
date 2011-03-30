@@ -1,9 +1,9 @@
 Name: altlinux-freedesktop-menu
-Version: 0.10
+Version: 0.11
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
-License: %lgpl2plus
+License: BSD
 Group: Graphical desktop/Other
 
 URL: http://altlinux.org/
@@ -120,6 +120,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 
 %changelog
+* Wed Mar 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.11-alt1
+- support for GNOME menu
+
 * Wed Mar 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.10-alt1
 - Network menu internally uses Internet for RH/Gnome compatibility
 
