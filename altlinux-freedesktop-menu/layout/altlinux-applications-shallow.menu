@@ -100,7 +100,7 @@
     </Menu>
 
     <Menu>
-        <Name>Network</Name>
+        <Name>Internet</Name>
         <Directory>altlinux-network.directory</Directory>
         <Include>
             <Category>Network</Category>

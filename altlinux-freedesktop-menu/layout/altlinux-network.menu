@@ -2,7 +2,7 @@
   "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
 
 <Menu>
-	<Name>Network</Name>
+	<Name>Internet</Name>
 	<Directory>altlinux-network.directory</Directory>
 	<Menu>
 		<Name>WebBrowser</Name>

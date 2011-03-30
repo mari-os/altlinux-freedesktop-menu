@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.09
+Version: 0.10
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -60,6 +60,8 @@ Group: Graphical desktop/Other
 Provides: lxde-freedesktop-menu
 Conflicts: lxde-lxmenu-data
 Obsoletes: lxde-lxmenu-data < 0.2
+# specifics of lxde menu migration
+Requires(pre): %name
 Requires: %name
 
 %description lxde
@@ -90,6 +92,10 @@ EOF
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-shallow.menu	100
 EOF
 
+%post lxde
+# hack around lxde
+touch /etc/xdg/menus/lxde-applications.menu
+
 #files 
 #-f %name.lang
 #doc AUTHORS ChangeLog NEWS README
@@ -114,6 +120,9 @@ EOF
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 
 %changelog
+* Wed Mar 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.10-alt1
+- Network menu internally uses Internet for RH/Gnome compatibility
+
 * Wed Mar 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.09-alt1
 - added native LXDE menu.
 

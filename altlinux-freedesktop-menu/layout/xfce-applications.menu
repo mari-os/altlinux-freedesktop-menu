@@ -83,7 +83,7 @@
     </Menu>
 
     <Menu>
-        <Name>Network</Name>
+        <Name>Internet</Name>
         <Exclude>
             <Or>
                 <Filename>exo-mail-reader.desktop</Filename>
