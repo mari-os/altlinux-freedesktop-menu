@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.08
+Version: 0.09
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -114,6 +114,9 @@ EOF
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 
 %changelog
+* Wed Mar 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.09-alt1
+- added native LXDE menu.
+
 * Tue Mar 29 2011 Igor Vlasenko <viy@altlinux.ru> 0.08-alt1
 - optimizations for LXDE and XFCE settings; ShallowSettings.
 

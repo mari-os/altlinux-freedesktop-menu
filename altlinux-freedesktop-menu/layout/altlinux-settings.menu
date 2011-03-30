@@ -132,7 +132,7 @@
 			<And>
 				<Category>Settings</Category>
 				<Category>DesktopSettings</Category>
-				<Not><Category>X-LXDE</Category></Not>
+				<Not><Category>X-LXDE-Settings</Category></Not>
 				<Not><Category>X-XFCE</Category></Not>
 				<Not><Category>GNOME</Category></Not>
 				<Not><Category>X-GNOME-PersonalSettings</Category></Not>
@@ -200,14 +200,16 @@
 				<And>
 					<Category>Settings</Category>
 					<Category>DesktopSettings</Category>
-					<Category>X-LXDE</Category>
+					<Category>X-LXDE-Settings</Category>
 				</And>
 			</Include>
 		</Menu>
 
+		<!-- bug in LXDE
 		<Exclude>
 			<Filename>amc.desktop</Filename>
 		</Exclude>
+		-->
 	</Menu>
 <!--
 	<Menu>
@@ -222,7 +224,7 @@
 	</Menu>
 	<Menu>
 		<Name></Name>
-		<Directory>.directory</Directory>
+		<Directory></Directory>
 		<Include>
 			<And>
 				<Category>Settings</Category>
@@ -264,11 +266,12 @@
 				<Not><Category>Wine</Category></Not>
 			</And>
 		</Include>
+		<!-- bug in LXDE
 		<Exclude>
 			<Filename>amc.desktop</Filename>
 			<Filename>acc.desktop</Filename>
 		</Exclude>
-
+		-->
 	</Menu>
 </Menu>
 <!-- categories

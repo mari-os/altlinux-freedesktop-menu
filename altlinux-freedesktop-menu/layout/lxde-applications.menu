@@ -64,6 +64,11 @@
 	  <New>Accessibility</New>
 	</Move>
 
+	<Move>
+	  <Old>Settings/DesktopSettings/LXDE</Old>
+	  <New>Settings/NativeSettings</New>
+	</Move>
+
 	<Menu>
 		<Name>Development</Name>
 		<Include>
