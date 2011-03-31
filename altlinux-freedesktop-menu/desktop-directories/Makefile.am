@@ -84,6 +84,7 @@ directory_in_files =			\
 	altlinux-development-revision-control.directory.in		\
 	altlinux-development-interfacedesign.directory.in		\
 	altlinux-development-translation.directory.in		\
+	altlinux-development-project-management.directory.in		\
 	altlinux-multimedia.directory.in		\
 	altlinux-multimedia-other.directory.in		\
 	altlinux-multimedia-audio.directory.in		\
@@ -203,6 +204,8 @@ directory_in_files =			\
 	altlinux-mail.directory.in		\
 	altlinux-database.directory.in		\
 	altlinux-publishing.directory.in		\
+	altlinux-project-management.directory.in		\
+	altlinux-file-tools.directory.in		\
 	altlinux-other.directory.in		\
 	altlinux-applications.directory.in		\
 	altlinux-screensaver.directory.in		\

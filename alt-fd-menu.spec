@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.11
+Version: 0.12
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -38,7 +38,7 @@ freedesktop.org compliant  altlinux menu with nested layout
 %package common
 Summary: common files for altlinux freedesktop menus
 Group: Graphical desktop/Other
-Requires: %name-icon-theme-default > 0.0.6
+Requires: %name-icon-theme-default > 0.0.8
 
 %description common
 %summary
@@ -82,8 +82,6 @@ intltoolize
 #find_lang %name
 
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
-#install -m644 layout/*.menu %buildroot%_sysconfdir/xdg/menus/
-#install -m644 desktop-directories/*.directory %buildroot%_datadir/desktop-directories/
 
 %__cat <<EOF >>%buildroot%_altdir/%name-nested-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-nested.menu	1000
@@ -120,6 +118,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 
 %changelog
+* Thu Mar 31 2011 Igor Vlasenko <viy@altlinux.ru> 0.12-alt1
+- added shortcut .directory files
+
 * Wed Mar 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.11-alt1
 - support for GNOME menu
 
