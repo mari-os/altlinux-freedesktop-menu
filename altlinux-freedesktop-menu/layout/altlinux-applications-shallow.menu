@@ -118,7 +118,7 @@
 
     <Menu>
         <Name>System</Name>
-        <Directory>altlinux-system.directory</Directory>
+        <Directory>altlinux-system-tools.directory</Directory>
         <Include>
             <And>
             <Or>
