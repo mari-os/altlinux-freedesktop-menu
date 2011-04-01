@@ -629,6 +629,10 @@ msgstr "Strategije"
 msgid "System"
 msgstr "Sistem"
 
+#, fuzzy
+msgid "System Tools"
+msgstr "Sistem"
+
 msgid "System settings"
 msgstr ""
 
@@ -1019,9 +1023,6 @@ msgstr ""
 
 #~ msgid "XScanImage"
 #~ msgstr "XScanImage"
-
-#~ msgid "System Monitor"
-#~ msgstr "Nadzor sistema"
 
 #~ msgid "View current processes and monitor system state"
 #~ msgstr "Pregled trenutnih procesa i nadzor stanja sistema"

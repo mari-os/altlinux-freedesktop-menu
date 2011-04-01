@@ -698,6 +698,10 @@ msgid "System"
 msgstr "Sistema"
 
 #, fuzzy
+msgid "System Tools"
+msgstr "Monitur tas-sistema"
+
+#, fuzzy
 msgid "System settings"
 msgstr "Setings"
 
@@ -948,9 +952,6 @@ msgstr "Klijent Whois"
 
 #~ msgid "Minesweeper"
 #~ msgstr "Minesweeper"
-
-#~ msgid "System Monitor"
-#~ msgstr "Monitur tas-sistema"
 
 #~ msgid "View current processes and monitor system state"
 #~ msgstr "Uri l-proċessi kurrenti u mmonitorja l-istat tas-sistema"

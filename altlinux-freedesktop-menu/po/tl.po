@@ -631,6 +631,10 @@ msgstr "Stratehiya"
 msgid "System"
 msgstr "Sistema"
 
+#, fuzzy
+msgid "System Tools"
+msgstr "Sistema"
+
 msgid "System settings"
 msgstr ""
 
@@ -890,9 +894,6 @@ msgstr ""
 
 #~ msgid "Minesweeper"
 #~ msgstr "Minesweeper"
-
-#~ msgid "System Monitor"
-#~ msgstr "Tagamanman ng Sistema"
 
 #~ msgid "View current processes and monitor system state"
 #~ msgstr ""

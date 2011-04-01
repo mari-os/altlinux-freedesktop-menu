@@ -4,7 +4,7 @@
 <Menu>
 
   <Name>Applications</Name>
-  <Directory>allinux-applications.directory</Directory>
+  <Directory>altlinux-applications.directory</Directory>
 
   <!-- Scan legacy dirs first, as later items take priority -->
   <!-- <KDELegacyDirs/> -->

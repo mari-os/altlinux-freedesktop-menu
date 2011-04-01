@@ -223,6 +223,7 @@ directory_in_files =			\
 	altlinux-settings-kde.directory.in		\
 	altlinux-settings-lxde.directory.in		\
 	altlinux-settings-rox.directory.in		\
+	altlinux-system-tools.directory.in		\
 	$(NULL)
 
 directory_DATA = $(directory_in_files:.directory.in=.directory)

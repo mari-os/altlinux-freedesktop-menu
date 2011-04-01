@@ -700,6 +700,10 @@ msgid "System"
 msgstr "Систем"
 
 #, fuzzy
+msgid "System Tools"
+msgstr "Монитори системавӣ"
+
+#, fuzzy
 msgid "System settings"
 msgstr "Танзимот"
 
@@ -970,9 +974,6 @@ msgstr "Мизоҷи Whois"
 
 #~ msgid "Minesweeper"
 #~ msgstr "Минагузор"
-
-#~ msgid "System Monitor"
-#~ msgstr "Монитори системавӣ"
 
 #~ msgid "View current processes and monitor system state"
 #~ msgstr "Азназаргузаронии ҷараёни ҷорӣ ва вазъияти дидабони системавӣ"

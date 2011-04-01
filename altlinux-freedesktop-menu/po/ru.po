@@ -751,6 +751,9 @@ msgstr "Стратегическая игра"
 msgid "System"
 msgstr "Система"
 
+msgid "System Tools"
+msgstr "Системные"
+
 msgid "System settings"
 msgstr "Системные параметры"
 
@@ -6799,10 +6802,6 @@ msgstr "Клиент DC"
 #~ msgid "System alternatives"
 #~ msgstr "Системные альтернативы"
 
-# Found in /home/zerg/tmp/tmp-menu-files/gnome-utils
-#~ msgid "System control"
-#~ msgstr "Системный контроль"
-
 #~ msgid "System tuner"
 #~ msgstr "Подстройка системы"
 
@@ -10393,9 +10392,6 @@ msgstr "Клиент DC"
 
 #~ msgid "Screensaver themes"
 #~ msgstr "Темы хранителя экрана"
-
-#~ msgid "System Tools"
-#~ msgstr "Системные"
 
 #~ msgid "Teaching Tools"
 #~ msgstr "Инструменты для обучения"

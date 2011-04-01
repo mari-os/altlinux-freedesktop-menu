@@ -684,6 +684,9 @@ msgstr "Стратегічна гра"
 msgid "System"
 msgstr "Система"
 
+msgid "System Tools"
+msgstr "Системні утиліти"
+
 msgid "System settings"
 msgstr "Системні параметри"
 
@@ -5566,9 +5569,6 @@ msgstr "Клієнт IRC"
 #~ msgid "System Bell Configuration"
 #~ msgstr "Конфіґурація системного дзвінка"
 
-#~ msgid "System Log"
-#~ msgstr "Системний журнала"
-
 #~ msgid "System Monitor"
 #~ msgstr "Монітор системи"
 
@@ -9564,9 +9564,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Screensaver themes"
 #~ msgstr "Теми зберігачів екрана"
-
-#~ msgid "System Tools"
-#~ msgstr "Системні утиліти"
 
 #~ msgid "Teaching Tools"
 #~ msgstr "Навчальні програми"

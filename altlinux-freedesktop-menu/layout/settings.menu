@@ -4,7 +4,7 @@
 <Menu>
 
   <Name>Desktop</Name>
-  <Directory>altlinux-settings.directory</Directory>
+  <Directory>altlinux-settings-desktop.directory</Directory>
 
   <!-- Read standard .directory and .desktop file locations -->
   <DefaultAppDirs/>

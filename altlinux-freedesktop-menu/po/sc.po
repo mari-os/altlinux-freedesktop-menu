@@ -693,6 +693,10 @@ msgid "System"
 msgstr "Sistema"
 
 #, fuzzy
+msgid "System Tools"
+msgstr "Bisori de Sistema"
+
+#, fuzzy
 msgid "System settings"
 msgstr "Assètius"
 
@@ -927,9 +931,6 @@ msgstr "Whois client"
 
 #~ msgid "Minesweeper"
 #~ msgstr "Minesweeper"
-
-#~ msgid "System Monitor"
-#~ msgstr "Bisori de Sistema"
 
 #~ msgid "View current processes and monitor system state"
 #~ msgstr "Bisura is processus currentis e controlla su stadu de su sistema"
