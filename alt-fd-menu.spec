@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.14
+Version: 0.15
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -118,6 +118,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 
 %changelog
+* Fri Apr 01 2011 Igor Vlasenko <viy@altlinux.ru> 0.15-alt1
+- use System Tools for Gnome and System for the rest
+
 * Fri Apr 01 2011 Igor Vlasenko <viy@altlinux.ru> 0.14-alt1
 - use System Tools in shallow menu too (thanks to aris@)
 
