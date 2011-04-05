@@ -15,20 +15,8 @@
   <!-- <DefaultAppDirs/> -->
   <!-- <DefaultDirectoryDirs/> -->
 
-  <!-- gnome specific; let it be System Tools -->
-  <Menu>
-    <Name>System</Name>
-    <Directory>altlinux-system-tools.directory</Directory>
-  </Menu>
-
   <!-- Read the global (common to all DEs) applications menu -->
   <MergeFile>altlinux-applications.menu</MergeFile>
-
-  <Menu>
-    <Name>System</Name>
-    <Directory>altlinux-system-tools.directory</Directory>
-  </Menu>
-
 
   <!-- remove nested settings submenu -->
   <Menu>
@@ -36,6 +24,12 @@
     <Deleted/>
   </Menu>
   <!-- end remove shallow submenu -->
+
+  <!-- gnome tradition; let it be System Tools -->
+  <Menu>
+    <Name>System</Name>
+    <Directory>altlinux-system-tools.directory</Directory>
+  </Menu>
 
   <!-- Accessibility submenu -->
   <Move>

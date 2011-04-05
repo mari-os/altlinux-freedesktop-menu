@@ -18,6 +18,8 @@ menu_DATA =					\
 	altlinux-utility.menu			\
 	lxde-applications.menu			\
 	xfce-applications.menu			\
+	gnome-applications.menu			\
+	settings.menu				\
 	$(NULL)
 
 EXTRA_DIST= $(menu_DATA)

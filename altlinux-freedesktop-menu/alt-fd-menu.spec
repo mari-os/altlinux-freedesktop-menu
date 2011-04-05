@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.15
+Version: 0.16
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -33,12 +33,12 @@ Requires: %name-common
 Provides: %name
 
 %description nested-menu
-freedesktop.org compliant  altlinux menu with nested layout
+freedesktop.org compliant altlinux menu with nested layout
 
 %package common
 Summary: common files for altlinux freedesktop menus
 Group: Graphical desktop/Other
-Requires: %name-icon-theme-default > 0.0.8
+Requires: %name-icon-theme-default > 0.0.9
 
 %description common
 %summary
@@ -52,7 +52,8 @@ Obsoletes: libgarcon-freedesktop-menu
 Requires: %name
 
 %description xfce
-%summary
+ALTLinux freedesktop.org menu for XFCE
+
 
 %package lxde
 Summary: lxde freedesktop menu
@@ -65,7 +66,22 @@ Requires(pre): %name
 Requires: %name
 
 %description lxde
-%summary
+ALTLinux freedesktop.org menu for LXDE
+
+%package gnome
+Summary: gnome freedesktop menu
+Group: Graphical desktop/GNOME
+Provides: gnome-freedesktop-menu
+Provides: gnome-menus = 2.90.%version
+Conflicts: gnome-menus-default
+Obsoletes: gnome-menus-default < 2.90.%version
+
+Requires: %name
+
+%description gnome
+ALTLinux freedesktop.org menu for GNOME
+
+
 
 %prep
 %setup
@@ -117,7 +133,14 @@ touch /etc/xdg/menus/lxde-applications.menu
 #config (noreplace) is too dangerous for unexpirienced user
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 
+%files gnome
+%config %_sysconfdir/xdg/menus/gnome-applications.menu
+%config %_sysconfdir/xdg/menus/settings.menu
+
 %changelog
+* Tue Apr 05 2011 Igor Vlasenko <viy@altlinux.ru> 0.16-alt1
+- added GNOME menu
+
 * Fri Apr 01 2011 Igor Vlasenko <viy@altlinux.ru> 0.15-alt1
 - use System Tools for Gnome and System for the rest
 
