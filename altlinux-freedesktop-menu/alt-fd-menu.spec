@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.16
+Version: 0.17
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -16,6 +16,14 @@ BuildArch: noarch
 
 %description
 altlinux freedesktop.org menu
+
+%package common
+Summary: common files for altlinux freedesktop menus
+Group: Graphical desktop/Other
+Requires: %name-icon-theme-default > 0.0.9
+
+%description common
+%summary
 
 %package shallow-menu
 Summary: altlinux freedesktop menu with shallow layout
@@ -34,14 +42,6 @@ Provides: %name
 
 %description nested-menu
 freedesktop.org compliant altlinux menu with nested layout
-
-%package common
-Summary: common files for altlinux freedesktop menus
-Group: Graphical desktop/Other
-Requires: %name-icon-theme-default > 0.0.9
-
-%description common
-%summary
 
 %package xfce
 Summary: xfce freedesktop menu
@@ -74,7 +74,7 @@ Group: Graphical desktop/GNOME
 Provides: gnome-freedesktop-menu
 Provides: gnome-menus = 2.90.%version
 Conflicts: gnome-menus-default
-Obsoletes: gnome-menus-default < 2.90.%version
+#Obsoletes: gnome-menus-default < 2.90.%version
 
 Requires: %name
 
@@ -138,6 +138,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/settings.menu
 
 %changelog
+* Tue Apr 05 2011 Igor Vlasenko <viy@altlinux.ru> 0.17-alt1
+- GNOME menu: temporarily removed Obsoletes: gnome-menus-default
+
 * Tue Apr 05 2011 Igor Vlasenko <viy@altlinux.ru> 0.16-alt1
 - added GNOME menu
 
