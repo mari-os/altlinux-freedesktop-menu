@@ -91,20 +91,20 @@
     </Menu>
 
     <Menu>
+        <Name>Internet</Name>
+        <Directory>altlinux-network.directory</Directory>
+        <Include>
+            <Category>Network</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
         <Name>Multimedia</Name>
         <Directory>altlinux-multimedia.directory</Directory>
         <Include>
             <Category>Audio</Category>
             <Category>Video</Category>
             <Category>AudioVideo</Category>
-        </Include>
-    </Menu>
-
-    <Menu>
-        <Name>Internet</Name>
-        <Directory>altlinux-network.directory</Directory>
-        <Include>
-            <Category>Network</Category>
         </Include>
     </Menu>
 

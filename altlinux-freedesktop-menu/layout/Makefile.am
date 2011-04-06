@@ -5,6 +5,7 @@ menudir = $(sysconfdir)/xdg/menus
 menu_DATA =					\
 	altlinux-applications-nested.menu	\
 	altlinux-applications-shallow.menu	\
+	altlinux-applications-shallow-gnomish.menu	\
 	altlinux-development.menu		\
 	altlinux-education.menu			\
 	altlinux-games.menu			\

@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.17
+Version: 0.18
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -25,6 +25,15 @@ Requires: %name-icon-theme-default > 0.0.9
 %description common
 %summary
 
+%package nested-menu
+Summary: altlinux freedesktop menu with shallow layout
+Group: Graphical desktop/Other
+Requires: %name-common
+Provides: %name
+
+%description nested-menu
+freedesktop.org compliant altlinux menu with nested layout
+
 %package shallow-menu
 Summary: altlinux freedesktop menu with shallow layout
 Group: Graphical desktop/Other
@@ -34,14 +43,16 @@ Provides: %name
 %description shallow-menu
 freedesktop.org compliant altlinux menu with shallow layout
 
-%package nested-menu
-Summary: altlinux freedesktop menu with shallow layout
+%package gnomish-menu
+Summary: altlinux freedesktop menu with shallow layout (GNOME-based)
 Group: Graphical desktop/Other
 Requires: %name-common
 Provides: %name
+Requires: gnome-menus-common
 
-%description nested-menu
-freedesktop.org compliant altlinux menu with nested layout
+%description gnomish-menu
+freedesktop.org compliant altlinux menu with shallow layout
+that use GNOME desktop directories and looks like GNOME menu.
 
 %package xfce
 Summary: xfce freedesktop menu
@@ -74,13 +85,12 @@ Group: Graphical desktop/GNOME
 Provides: gnome-freedesktop-menu
 Provides: gnome-menus = 2.90.%version
 Conflicts: gnome-menus-default
-#Obsoletes: gnome-menus-default < 2.90.%version
+Obsoletes: gnome-menus-default < 2.90.%version
 
 Requires: %name
 
 %description gnome
 ALTLinux freedesktop.org menu for GNOME
-
 
 
 %prep
@@ -98,12 +108,16 @@ intltoolize
 #find_lang %name
 
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
+cp -a gnome/desktop-directories %buildroot%_datadir/desktop-directories/gnome
 
 %__cat <<EOF >>%buildroot%_altdir/%name-nested-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-nested.menu	1000
 EOF
 %__cat <<EOF >>%buildroot%_altdir/%name-shallow-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-shallow.menu	100
+EOF
+%__cat <<EOF >>%buildroot%_altdir/%name-gnomish-menu
+%_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-shallow-gnomish.menu	80
 EOF
 
 %post lxde
@@ -116,6 +130,7 @@ touch /etc/xdg/menus/lxde-applications.menu
 
 %files common
 %_datadir/desktop-directories/altlinux-*.directory
+%_datadir/desktop-directories/gnome/*.directory
 #config (noreplace) is too dangerous for unexpirienced user
 %config %_sysconfdir/xdg/menus/altlinux-*.menu
 
@@ -124,6 +139,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 
 %files shallow-menu
 %_altdir/%name-shallow-menu
+
+%files gnomish-menu
+%_altdir/%name-gnomish-menu
 
 %files xfce
 #config (noreplace) is too dangerous for unexpirienced user
@@ -138,6 +156,10 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/settings.menu
 
 %changelog
+* Wed Apr 06 2011 Igor Vlasenko <viy@altlinux.ru> 0.18-alt1
+- added shallow gnomish menu (thanks to shrek@)
+  based on native GNOME desktop directories.
+
 * Tue Apr 05 2011 Igor Vlasenko <viy@altlinux.ru> 0.17-alt1
 - GNOME menu: temporarily removed Obsoletes: gnome-menus-default
 

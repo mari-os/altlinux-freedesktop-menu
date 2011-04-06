@@ -4,7 +4,7 @@
 <Menu>
 
   <Name>Desktop</Name>
-  <Directory>altlinux-settings-desktop.directory</Directory>
+  <Directory>X-GNOME-Menu-System.directory</Directory>
 
   <!-- Read standard .directory and .desktop file locations -->
   <DefaultAppDirs/>
@@ -12,8 +12,6 @@
 
   <!-- Read in overrides and child menus from applications-merged/ -->
   <DefaultMergeDirs/>
-
-  <DirectoryDir>/usr/share/desktop-directories/gnome</DirectoryDir>
 
   <!-- Add a link to the control center -->
   <Include>
@@ -23,7 +21,6 @@
   <!-- Merge in these other files as submenus -->
   <Menu>
     <Name>Preferences</Name>
-    <!--<Directory>altlinux-settings-personal.directory</Directory>-->
     <Directory>Settings.directory</Directory>
     <Include>
       <And>
@@ -41,7 +38,7 @@
   <!-- System Settings -->
   <Menu>
     <Name>Administration</Name>
-    <Directory>altlinux-settings-system.directory</Directory>
+    <Directory>Settings-System.directory</Directory>
     <Include>
       <And>
         <Category>Settings</Category>
