@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.18
+Version: 0.19
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -107,6 +107,9 @@ intltoolize
 %makeinstall_std
 #find_lang %name
 
+mkdir -p %buildroot%_sysconfdir/xdg/menus/{lxde,xfce,gnome}-applications-merged
+
+# alternatives
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
 cp -a gnome/desktop-directories %buildroot%_datadir/desktop-directories/gnome
 
@@ -146,16 +149,23 @@ touch /etc/xdg/menus/lxde-applications.menu
 %files xfce
 #config (noreplace) is too dangerous for unexpirienced user
 %config %_sysconfdir/xdg/menus/xfce-applications.menu
+%dir %_sysconfdir/xdg/menus/xfce-applications-merged
 
 %files lxde
 #config (noreplace) is too dangerous for unexpirienced user
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
+%dir %_sysconfdir/xdg/menus/lxde-applications-merged
 
 %files gnome
 %config %_sysconfdir/xdg/menus/gnome-applications.menu
 %config %_sysconfdir/xdg/menus/settings.menu
+%dir %_sysconfdir/xdg/menus/gnome-applications-merged
 
 %changelog
+* Mon Apr 11 2011 Igor Vlasenko <viy@altlinux.ru> 0.19-alt1
+- added DE-private merge directories
+- updated categories
+
 * Wed Apr 06 2011 Igor Vlasenko <viy@altlinux.ru> 0.18-alt1
 - added shallow gnomish menu (thanks to shrek@)
   based on native GNOME desktop directories.

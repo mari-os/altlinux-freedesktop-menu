@@ -120,4 +120,6 @@
 	</Menu>
     </Menu>
 
+    <MergeDir>/etc/xdg/menus/xfce-applications-merged</MergeDir>
+
 </Menu>

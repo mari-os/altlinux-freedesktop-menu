@@ -87,4 +87,6 @@
 		<Menuname>ShallowSettings</Menuname>
 	</Layout>
 
+	<MergeDir>/etc/xdg/menus/lxde-applications-merged</MergeDir>
+
 </Menu> <!-- End Applications -->

@@ -38,4 +38,6 @@
   </Move>
   <!-- End Accessibility -->
 
+  <MergeDir>/etc/xdg/menus/gnome-applications-merged</MergeDir>
+
 </Menu> <!-- End Applications -->
