@@ -5,6 +5,16 @@
 	<Name>System</Name>
 	<Directory>altlinux-system.directory</Directory>
 	<Menu>
+		<Name>Documentation</Name>
+		<Directory>altlinux-documentation.directory</Directory>
+		<Include>
+			<And>
+				<Category>System</Category>
+				<Category>Documentation</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Emulator</Name>
 		<Directory>altlinux-system-emulators.directory</Directory>
 
@@ -99,6 +109,7 @@
 				<Not><Category>TerminalEmulator</Category></Not>
 				<Not><Category>Security</Category></Not>
 				<Not><Category>Emulator</Category></Not>
+				<Not><Category>Documentation</Category></Not>
 				<!-- foreign -->
 				<Not><Category>Wine</Category></Not>
 				<Not><Category>HardwareSettings</Category></Not>

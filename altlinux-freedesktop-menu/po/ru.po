@@ -773,6 +773,9 @@ msgstr "kamix - программа-микшер"
 msgid "TV applications"
 msgstr "Приложения"
 
+msgid "Teaching Tools"
+msgstr "Инструменты для обучения"
+
 #, fuzzy
 msgid "Telephony"
 msgstr "Alephone"
@@ -9001,10 +9004,6 @@ msgstr "Клиент DC"
 #~ msgid "LavaLite"
 #~ msgstr "LavaLite"
 
-# Found in kdeutils-ark
-#~ msgid "Learning Tool"
-#~ msgstr "Средство обучения"
-
 #~ msgid "Leif"
 #~ msgstr "Leif"
 
@@ -10392,9 +10391,6 @@ msgstr "Клиент DC"
 
 #~ msgid "Screensaver themes"
 #~ msgstr "Темы хранителя экрана"
-
-#~ msgid "Teaching Tools"
-#~ msgstr "Инструменты для обучения"
 
 #~ msgid "System configuration and monitoring"
 #~ msgstr "Средства конфигурации и мониторинга системы"

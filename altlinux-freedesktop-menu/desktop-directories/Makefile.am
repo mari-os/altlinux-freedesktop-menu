@@ -122,6 +122,7 @@ directory_in_files =			\
 	altlinux-engineering.directory.in		\
 	altlinux-education.directory.in		\
 	altlinux-education-other.directory.in		\
+	altlinux-education-teaching.directory.in		\
 	altlinux-education-language.directory.in		\
 	altlinux-education-mathematics.directory.in		\
 	altlinux-education-science.directory.in		\
@@ -149,6 +150,7 @@ directory_in_files =			\
 	altlinux-education-medical-software.directory.in		\
 	altlinux-education-parallel-computing.directory.in		\
 	altlinux-utility.directory.in		\
+	altlinux-utility-desktop.directory.in		\
 	altlinux-utility-other.directory.in		\
 	altlinux-utility-file-tools.directory.in		\
 	altlinux-utility-archiving.directory.in		\

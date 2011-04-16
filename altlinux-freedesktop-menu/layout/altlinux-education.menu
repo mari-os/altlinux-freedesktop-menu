@@ -10,7 +10,11 @@
 		<Include>
 			<And>
 				<Category>Education</Category>
-				<Category>Languages</Category>
+				<Or>
+					<Category>Languages</Category>
+					<Category>X-KDE-Edu-Language</Category>
+				</Or>
+
 			</And>
 		</Include>
 	</Menu>
@@ -221,11 +225,27 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Tools</Name>
+		<Directory>altlinux-education-teaching.directory</Directory>
+		<Include>
+			<And>
+				<Category>Education</Category>
+				<Or>
+					<Category>Teaching</Category>
+					<Category>X-KDE-Edu-Teaching</Category>
+				</Or>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Other</Name>
 		<Directory>altlinux-education-other.directory</Directory>
 		<Include>
 			<And>
 				<Category>Education</Category>
+				<Not><Category>Teaching</Category></Not>
+				<Not><Category>X-KDE-Edu-Teaching</Category></Not>
+				<Not><Category>X-KDE-Edu-Language</Category></Not>
 				<Not><Category>Languages</Category></Not>
 				<Not><Category>Math</Category></Not>
 				<Not><Category>Science</Category></Not>

@@ -19,16 +19,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Графіка"
+msgstr "2D графіка"
 
 msgid "2D based graphical applications"
 msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Графіка"
+msgstr "3D графіка"
 
 msgid "3D based graphical applications"
 msgstr ""
@@ -102,10 +100,8 @@ msgstr "Аркадні ігри"
 msgid "Archiving"
 msgstr "Архіватори"
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdeutils-ark
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr "Мистецтво"
 
 msgid "Artificial Intelligence"
 msgstr "Штучний інтелект"
@@ -120,17 +116,14 @@ msgstr "Астрономія"
 msgid "Astronomy software"
 msgstr "Астрономія"
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Перевірка безпеки"
+msgstr "Редагування аудіо"
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Програвач avi"
+msgstr "Аудіоплеери"
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Сервер звуку"
+msgstr "Запис звуку"
 
 msgid "Biology"
 msgstr "Біологія"
@@ -145,9 +138,8 @@ msgstr "Ігри на дошці"
 msgid "Boards"
 msgstr "Дошки"
 
-#, fuzzy
 msgid "Building"
-msgstr "Прив'язка клавіш"
+msgstr "Зборка"
 
 msgid "Calculator"
 msgstr "Калькулятор"
@@ -240,9 +232,8 @@ msgstr "Розробка"
 msgid "Dial-up programs"
 msgstr "Програми відладки"
 
-#, fuzzy
 msgid "Dialup"
-msgstr "Dia"
+msgstr "Додзвон"
 
 #, fuzzy
 msgid "Dictionaries"
@@ -251,9 +242,8 @@ msgstr "Словник"
 msgid "Dictionary"
 msgstr "Словник"
 
-#, fuzzy
 msgid "Disc burning"
-msgstr "Запис CD"
+msgstr "Запис дисків"
 
 msgid "Documentation"
 msgstr "Документація"
@@ -307,9 +297,8 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Файл-менеджер"
+msgstr "Файл-менеджери"
 
 msgid "File Systems"
 msgstr "Файлові системи"
@@ -338,10 +327,8 @@ msgstr "Діаграма"
 msgid "GNOME"
 msgstr "GNOME"
 
-# Found in /home/zerg/tmp/tmp-menu-files/qt2-designer
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Дизайнер для Qt2"
+msgstr "Дизайнери форм"
 
 #, fuzzy
 msgid "GUI designer applications"
@@ -463,9 +450,8 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Мікшер"
+msgstr "Регулятори гучності"
 
 msgid "Monitoring"
 msgstr "Моніторинг"
@@ -485,10 +471,8 @@ msgstr "Програвач медіа-файлів"
 msgid "Multimedia Recorders"
 msgstr "Багатоканальний запис на жорсткий диск"
 
-# Found in /home/zerg/tmp/tmp-menu-files/wmusic
-#, fuzzy
 msgid "Music"
-msgstr "wmusic"
+msgstr "Музика"
 
 msgid "Musical software"
 msgstr ""
@@ -512,7 +496,7 @@ msgid "Numerical analysis software"
 msgstr ""
 
 msgid "OCR"
-msgstr ""
+msgstr "Розпізнавання"
 
 msgid "Office"
 msgstr "Офіс"
@@ -554,7 +538,7 @@ msgid "Personal"
 msgstr "Особисте"
 
 msgid "Photography"
-msgstr ""
+msgstr "Фото"
 
 msgid "Physics"
 msgstr "Фізика"
@@ -603,9 +587,8 @@ msgstr ""
 msgid "Remote access"
 msgstr "Віддалений доступ"
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Зовнішній контроль"
+msgstr "Контроль версій"
 
 msgid "Robotics"
 msgstr "Робототехніка"
@@ -620,7 +603,7 @@ msgid "Role playing games"
 msgstr ""
 
 msgid "Scanning"
-msgstr ""
+msgstr "Сканування"
 
 msgid "Science"
 msgstr "Наука"
@@ -635,9 +618,8 @@ msgstr "Безпека"
 msgid "Security tools"
 msgstr "Безпека"
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Науки"
+msgstr "Cеквенсери"
 
 msgid "Settings"
 msgstr "Налаштування"
@@ -705,14 +687,15 @@ msgstr ""
 msgid "TV applications"
 msgstr "Програми"
 
+msgid "Teaching Tools"
+msgstr "Навчальні програми"
+
 #, fuzzy
 msgid "Telephony"
 msgstr "Гра від першого лиця, бойовик"
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdepim-kandy
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Інструмент для мобілки"
+msgstr "Робота з телефоном"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -790,9 +773,8 @@ msgstr "Інструмент перекладача"
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Векторний редактор"
+msgstr "Векторна графіка"
 
 msgid "Vector based graphical applications"
 msgstr ""
@@ -808,17 +790,14 @@ msgstr "Відео конференціі"
 msgid "Video Conferences"
 msgstr "Відео конференціі"
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "Редактор SVG"
+msgstr "Редагування відео"
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Відеопрогравач"
+msgstr "Відеоплеери"
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Сервер звуку"
+msgstr "Запис відео"
 
 msgid "Viewers"
 msgstr "Переглядачі"
@@ -7577,9 +7556,6 @@ msgstr "Клієнт IRC"
 #~ msgid "LavaLite"
 #~ msgstr "LavaLite"
 
-#~ msgid "Learning Tool"
-#~ msgstr "Інструменти навчання"
-
 #~ msgid "Leif"
 #~ msgstr "Leif"
 
@@ -9564,9 +9540,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Screensaver themes"
 #~ msgstr "Теми зберігачів екрана"
-
-#~ msgid "Teaching Tools"
-#~ msgstr "Навчальні програми"
 
 #~ msgid "System configuration and monitoring"
 #~ msgstr "Інструменти налаштовування та контролю системи"

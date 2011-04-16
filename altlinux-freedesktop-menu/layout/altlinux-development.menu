@@ -78,10 +78,13 @@
 		<Name>IDE</Name>
 		<Directory>altlinux-development-ide.directory</Directory>
 		<Include>
-			<And>
-				<Category>Development</Category>
-				<Category>IDE</Category>
-			</And>
+			<Or>
+				<Category>X-KDE-KDevelopIDE</Category>
+				<And>
+					<Category>Development</Category>
+					<Category>IDE</Category>
+				</And>
+			</Or>
 		</Include>
 	</Menu>
 	<Menu>
@@ -95,7 +98,7 @@
 		</Include>
 	</Menu>
 	<Menu>
-		<Name>DevelopmentDocumentation</Name>
+		<Name>Documentation</Name>
 		<Directory>altlinux-documentation.directory</Directory>
 		<Include>
 			<And>
@@ -116,6 +119,7 @@
 						<Category>ProjectManagement</Category>
 					</And>
 				</Not>
+				<Not><Category>X-KDE-KDevelopIDE</Category></Not>
 				<Not><Category>Documentation</Category></Not>
 				<Not><Category>WebDevelopment</Category></Not>
 				<Not><Category>Translation</Category></Not>

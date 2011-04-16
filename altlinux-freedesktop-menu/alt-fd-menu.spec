@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.19
+Version: 0.20
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -113,13 +113,13 @@ mkdir -p %buildroot%_sysconfdir/xdg/menus/{lxde,xfce,gnome}-applications-merged
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
 cp -a gnome/desktop-directories %buildroot%_datadir/desktop-directories/gnome
 
-%__cat <<EOF >>%buildroot%_altdir/%name-nested-menu
+cat <<EOF >>%buildroot%_altdir/%name-nested-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-nested.menu	1000
 EOF
-%__cat <<EOF >>%buildroot%_altdir/%name-shallow-menu
+cat <<EOF >>%buildroot%_altdir/%name-shallow-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-shallow.menu	100
 EOF
-%__cat <<EOF >>%buildroot%_altdir/%name-gnomish-menu
+cat <<EOF >>%buildroot%_altdir/%name-gnomish-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-shallow-gnomish.menu	80
 EOF
 
@@ -162,6 +162,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
 
 %changelog
+* Sat Apr 16 2011 Igor Vlasenko <viy@altlinux.ru> 0.20-alt1
+- nested menu: added documentation, preparations for KDE
+
 * Mon Apr 11 2011 Igor Vlasenko <viy@altlinux.ru> 0.19-alt1
 - added DE-private merge directories
 - updated categories

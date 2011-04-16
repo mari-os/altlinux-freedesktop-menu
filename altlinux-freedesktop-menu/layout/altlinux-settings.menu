@@ -237,11 +237,14 @@
 	</Menu>
 -->
         <Menu>
-            <Name>Screensavers</Name>
-            <Directory>altlinux-screensaver.directory</Directory>
-            <Include>
-                <Category>Screensaver</Category>
-            </Include>
+		<Name>Screensavers</Name>
+		<Directory>altlinux-screensaver.directory</Directory>
+		<Include>
+			<Or>
+				<Category>Screensaver</Category>
+				<Category>X-KDE-ScreenSaver</Category>
+			</Or>
+		</Include>
         </Menu>
 	<Menu>
 		<Name>Other</Name>
