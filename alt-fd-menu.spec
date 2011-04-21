@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.20
+Version: 0.21
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -92,6 +92,20 @@ Requires: %name
 %description gnome
 ALTLinux freedesktop.org menu for GNOME
 
+%package kde3
+Summary: kde3 freedesktop menu
+Group: Graphical desktop/KDE
+Provides: kde3-freedesktop-menu
+Conflicts: kde3-menu-original
+Obsoletes: kde3-menu-original
+Requires: %name
+Requires: kde3-menu-common
+Requires: altlinux-menus
+Conflicts: kdelibs <= 3.5.12-alt8
+
+%description kde3
+ALTLinux freedesktop.org menu for KDE3
+
 
 %prep
 %setup
@@ -107,12 +121,13 @@ intltoolize
 %makeinstall_std
 #find_lang %name
 
-mkdir -p %buildroot%_sysconfdir/xdg/menus/{lxde,xfce,gnome}-applications-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/{lxde,xfce,gnome,kde3}-applications-merged
 
-# alternatives
+# gnomish menu resources
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
 cp -a gnome/desktop-directories %buildroot%_datadir/desktop-directories/gnome
 
+# alternatives
 cat <<EOF >>%buildroot%_altdir/%name-nested-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-nested.menu	1000
 EOF
@@ -161,7 +176,14 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/settings.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
 
+%files kde3
+%config %_sysconfdir/xdg/menus/kde3-applications.menu
+%dir %_sysconfdir/xdg/menus/kde3-applications-merged
+
 %changelog
+* Tue Apr 19 2011 Igor Vlasenko <viy@altlinux.ru> 0.21-alt1
+- added KDE3 menu
+
 * Sat Apr 16 2011 Igor Vlasenko <viy@altlinux.ru> 0.20-alt1
 - nested menu: added documentation, preparations for KDE
 
@@ -214,4 +236,3 @@ touch /etc/xdg/menus/lxde-applications.menu
 
 * Thu Mar 24 2011 Igor Vlasenko <viy@altlinux.ru> 0.04-alt1
 - Initial build
-

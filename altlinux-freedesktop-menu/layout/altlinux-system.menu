@@ -110,12 +110,10 @@
 				<Not><Category>Security</Category></Not>
 				<Not><Category>Emulator</Category></Not>
 				<Not><Category>Documentation</Category></Not>
-				<!-- foreign -->
+
 				<Not><Category>Wine</Category></Not>
 				<Not><Category>HardwareSettings</Category></Not>
 			</And>
 		</Include>
 	</Menu>
 </Menu>
-<!-- categories
--->

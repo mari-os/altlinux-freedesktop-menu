@@ -70,7 +70,7 @@
 		<Directory>altlinux-multimedia-tv.directory</Directory>
 		<Include>
 			<And>
-				< ! --<Category>AudioVideo</Category>
+				<Category>AudioVideo</Category>
 				<Category>TV</Category>
 			</And>
 		</Include>

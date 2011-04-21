@@ -160,18 +160,23 @@
 		<Menu>
 			<Name>KDE</Name>
 			<Directory>altlinux-settings-kde.directory</Directory>
+			<Menu>
+				<Name>KControlSettings</Name>
+				<Directory>kde/settings.directory</Directory>
+				<MergeFile>../../kde/xdg/menus/kde-settings.menu</MergeFile>
+			</Menu>
 			<Include>
 				<And>
 					<Category>Settings</Category>
 					<Category>KDE</Category>
-				<Not><Category>Printing</Category></Not>
-				<Not><Category>HardwareSettings</Category></Not>
-				<Not><Category>PackageManager</Category></Not>
-				<Not><Category>Accessibility</Category></Not>
-				<Not><Category>Security</Category></Not>
-				<Not><Category>Network</Category></Not>
-				<Not><Category>System</Category></Not>
-				<Not><Category>DesktopSettings</Category></Not>
+					<Not><Category>Printing</Category></Not>
+					<Not><Category>HardwareSettings</Category></Not>
+					<Not><Category>PackageManager</Category></Not>
+					<Not><Category>Accessibility</Category></Not>
+					<Not><Category>Security</Category></Not>
+					<Not><Category>Network</Category></Not>
+					<Not><Category>System</Category></Not>
+					<Not><Category>DesktopSettings</Category></Not>
 				</And>
 			</Include>
 		</Menu>
@@ -211,31 +216,6 @@
 		</Exclude>
 		-->
 	</Menu>
-<!--
-	<Menu>
-		<Name></Name>
-		<Directory></Directory>
-		<Include>
-			<And>
-				<Category>Settings</Category>
-				<Category></Category>
-			</And>
-		</Include>
-	</Menu>
-	<Menu>
-		<Name></Name>
-		<Directory></Directory>
-		<Include>
-			<And>
-				<Category>Settings</Category>
-				<Or>
-					<Category></Category>
-					<Category></Category>
-				</Or>
-			</And>
-		</Include>
-	</Menu>
--->
         <Menu>
 		<Name>Screensavers</Name>
 		<Directory>altlinux-screensaver.directory</Directory>
@@ -277,5 +257,3 @@
 		-->
 	</Menu>
 </Menu>
-<!-- categories
--->

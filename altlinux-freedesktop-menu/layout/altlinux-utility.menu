@@ -58,6 +58,7 @@
 					<Category>FileTools</Category>
 					<Category>X-KDE-Utilities-File</Category>
 				</Or>
+				<Not><Category>FileManager</Category></Not>
 				<Not><Category>Archiving</Category></Not>
 				<Not><Category>Compression</Category></Not>
 			</And>
@@ -90,11 +91,7 @@
 		<Include>
 			<And>
 				<Category>Utility</Category>
-				<Or>
-					<Category>TextTools</Category>
-					<Category>X-KDE-Utilities-PIM</Category>
-				</Or>
-				<!--<Not><Category>PDA</Category></Not> kdepim-kpilot?-->
+				<Category>TextTools</Category>
 			</And>
 		</Include>
 	</Menu>
@@ -113,8 +110,14 @@
 		<Directory>altlinux-utility-accessibility.directory</Directory>
 		<Include>
 			<And>
-				<!--<Category>Utility</Category>-->
 				<Category>Accessibility</Category>
+				<Not>
+					<Or>
+						<Category>Desktop</Category>
+						<Category>X-Desktop</Category>
+						<Category>X-KDE-Utilities-Desktop</Category>
+					</Or>
+				</Not>
 			</And>
 		</Include>
 	</Menu>
@@ -134,10 +137,10 @@
 		<Include>
 			<And>
 				<Category>Utility</Category>
-				<!-- foreign -->
+
 				<Not><Category>FileManager</Category></Not>
 				<Not><Category>Wine</Category></Not>
-				<!-- native -->
+
 				<Not><Category>Documentation</Category></Not>
 				<Not><Category>FileTools</Category></Not>
 				<Not><Category>Archiving</Category></Not>
@@ -148,38 +151,8 @@
 				<Not><Category>Calculator</Category></Not>
 				<Not><Category>Clock</Category></Not>
 				<Not><Category>TelephonyTools</Category></Not>
-				<Not><Category>X-KDE-Utilities-PIM</Category></Not>
 				<Not><Category>X-KDE-Utilities-Desktop</Category></Not>
 			</And>
 		</Include>
 	</Menu>
 </Menu>
-<!-- categories
-	<Category>X-KDE-Utilities-Desktop</Category>
-kdebase-wm-3.5.12-alt8.x86_64|/usr/share/kde/applications/kde|kpager.desktop
-# more like text tools :(
-kdepim-knotes-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|knotes.desktop
-kde4pim-knotes-4.6.1-alt3.x86_64|/usr/share/applications/kde4|knotes.desktop
-
-TODO: some of them are more like office
-kdeutils-kcalc-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|kcalc.desktop
-kde4utils-kcalc-4.6.1-alt2.x86_64|/usr/share/applications/kde4|kcalc.desktop
-kde4utils-superkaramba-4.6.1-alt2.x86_64|/usr/share/applications/kde4|superkaramba.desktop
-kdeutils-superkaramba-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|superkaramba.desktop
-
-TODO: some of them are more like settings
-	<Category>X-KDE-Utilities-Peripherals</Category>
-kde4utils-kfloppy-4.6.1-alt2.x86_64|/usr/share/applications/kde4|KFloppy.desktop
-kdepim-kandy-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|kandy.desktop
-kdepim-kpilot-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|kpilot.desktop
-kdeutils-irkick-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|irkick.desktop
-kdeutils-kfloppy-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|KFloppy.desktop
-
-# fixed; moved to printing
-kdebase-kdeprint-3.5.12-alt8.x86_64|/usr/share/kde/applications/kde|kdeprintfax.desktop
-kdebase-kdeprint-3.5.12-alt8.x86_64|/usr/share/kde/applications/kde|kjobviewer.desktop
-
-X-KDE-information +services, if kde is running
-kdeutils-kdf-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|kcmdf.desktop
-kdeutils-laptop-3.5.12-alt2.x86_64|/usr/share/kde/applications/kde|pcmcia.deskto
--->

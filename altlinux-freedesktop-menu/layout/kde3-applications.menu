@@ -1,0 +1,75 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+	<KDELegacyDirs/>
+
+	<!-- Shallow Settings -->
+	<Menu>
+		<Name>ShallowSettings</Name>
+		<Directory>altlinux-settings-desktop.directory</Directory>
+		<Include>
+			<And>
+			<Category>Settings</Category>
+			</And>
+		</Include>
+	</Menu>
+	<!-- End Shallow Settings -->
+
+	<MergeFile>altlinux-applications.menu</MergeFile>
+
+	<!-- kde customization -->
+
+	<Menu>
+		<Name>Internet</Name>
+		<Menu>
+		  <Name>Terminal</Name>
+		  <Directory>kde-internet-terminal.directory</Directory>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Name>System</Name>
+		<!-- already in kde-essential 
+		<Menu>
+			<Name>ScreenSavers</Name>
+			<Directory>kde-system-screensavers.directory</Directory>
+		</Menu>
+		-->
+		<Menu>
+			<Name>Terminal</Name>
+			<Directory>kde-system-terminal.directory</Directory>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Name>Utilities</Name>
+		<Menu>
+			<Name>XUtilities</Name>
+			<Directory>kde-utilities-xutils.directory</Directory>
+		</Menu>
+	</Menu>
+
+	<Include>
+		<And>
+		<Category>KDE</Category>
+		<Category>Core</Category>
+		</And>
+	</Include>
+	<Exclude>
+		<Filename>kde4-Help.desktop</Filename>
+	</Exclude>
+
+	<Move>
+	  <Old>Accessories/Accessibility</Old>
+	  <New>Accessibility</New>
+	</Move>
+
+	<Move>
+	  <Old>Settings/DesktopSettings/KDE</Old>
+	  <New>Settings/NativeSettings</New>
+	</Move>
+	<!-- end kde customization -->
+
+	<MergeDir>/etc/xdg/menus/kde3-applications-merged</MergeDir>
+
+</Menu> <!-- End Applications -->
