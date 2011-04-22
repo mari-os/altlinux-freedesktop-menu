@@ -140,6 +140,7 @@
 
 				<Not><Category>FileManager</Category></Not>
 				<Not><Category>Wine</Category></Not>
+				<Not><Category>Development</Category></Not>
 
 				<Not><Category>Documentation</Category></Not>
 				<Not><Category>FileTools</Category></Not>
@@ -152,6 +153,7 @@
 				<Not><Category>Clock</Category></Not>
 				<Not><Category>TelephonyTools</Category></Not>
 				<Not><Category>X-KDE-Utilities-Desktop</Category></Not>
+				<Not><Category>X-KDE-Utilities-Peripherals</Category></Not>
 			</And>
 		</Include>
 	</Menu>

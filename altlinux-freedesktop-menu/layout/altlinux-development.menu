@@ -108,6 +108,16 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Tools</Name>
+		<Directory>altlinux-utility.directory</Directory>
+		<Include>
+			<And>
+				<Category>Development</Category>
+				<Category>Utility</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Other</Name>
 		<Directory>altlinux-development-other.directory</Directory>
 		<Include>
@@ -130,6 +140,8 @@
 				<Not><Category>RevisionControl</Category></Not>
 				<Not><Category>IDE</Category></Not>
 				<Not><Category>GUIDesigner</Category></Not>
+
+				<Not><Category>Utility</Category></Not>
 			</And>
 		</Include>
 	</Menu>

@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.21
+Version: 0.22
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -181,6 +181,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %dir %_sysconfdir/xdg/menus/kde3-applications-merged
 
 %changelog
+* Fri Apr 22 2011 Igor Vlasenko <viy@altlinux.ru> 0.22-alt1
+- nested menu: added Dev>Tools, misc layout improvements 
+
 * Tue Apr 19 2011 Igor Vlasenko <viy@altlinux.ru> 0.21-alt1
 - added KDE3 menu
 
