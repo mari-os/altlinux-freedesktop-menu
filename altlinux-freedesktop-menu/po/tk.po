@@ -220,8 +220,15 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Programlemek"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Programlemek Tewerekleri"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -369,10 +376,6 @@ msgstr "Geçmiş"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Äplikeýşenler"
 
 msgid "IRC"
 msgstr ""
@@ -744,6 +747,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafyklar"
@@ -797,9 +803,6 @@ msgstr ""
 
 #~ msgid "Accessories"
 #~ msgstr "Esbaplar"
-
-#~ msgid "Development Environments"
-#~ msgstr "Programlemek Tewerekleri"
 
 #~ msgid "Browse the web"
 #~ msgstr "Webi Ahtar"

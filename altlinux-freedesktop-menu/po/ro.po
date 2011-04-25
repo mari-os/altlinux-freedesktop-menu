@@ -219,8 +219,14 @@ msgstr "Ecran"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Dezvoltare"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -364,10 +370,6 @@ msgstr "Istoric"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplicații"
 
 msgid "IRC"
 msgstr "IRC"
@@ -739,6 +741,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafică"
@@ -1030,9 +1035,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Preferințe personale și setări administrative"
-
-#~ msgid "Development Environments"
-#~ msgstr "Medii de programare"
 
 #~ msgid "Universal Access"
 #~ msgstr "Accesibilitate universală"
@@ -2347,9 +2349,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Tutor de învățaț a tasta"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Editor de hiperimagini HTML"
 
@@ -2382,9 +2381,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Un motor pentru birou estetic și simpatic."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Controale pentru birou"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7803,6 +7799,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Proiectați și construiți un oraș și gestionați transportul, economia, "
 #~ "electricitatea și altele."
+
+#~ msgid "A KDE Application"
+#~ msgstr "O aplicație KDE"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

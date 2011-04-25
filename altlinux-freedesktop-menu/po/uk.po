@@ -225,8 +225,15 @@ msgstr "Стільниця"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Утиліти"
+
 msgid "Development"
 msgstr "Розробка"
+
+msgid "Development environments"
+msgstr "Середовища розробки"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -380,10 +387,6 @@ msgstr "Історія"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Програми"
 
 msgid "IRC"
 msgstr "IRC"
@@ -772,6 +775,10 @@ msgstr "Інструмент перекладача"
 
 msgid "Tuners"
 msgstr ""
+
+# Found in /home/zerg/tmp/tmp-menu-files/gtypist
+msgid "Typing tutor"
+msgstr "Навчання набору"
 
 msgid "Vector Graphics"
 msgstr "Векторна графіка"
@@ -2032,9 +2039,6 @@ msgstr "Клієнт IRC"
 
 #, fuzzy
 #~ msgid "Development environment"
-#~ msgstr "Середовища розробки"
-
-#~ msgid "Development environments"
 #~ msgstr "Середовища розробки"
 
 #~ msgid "Devhelp"
@@ -5899,10 +5903,6 @@ msgstr "Клієнт IRC"
 #~ msgid "Twm: Tab Window Manager"
 #~ msgstr "Twm: Tab Window Manager"
 
-# Found in /home/zerg/tmp/tmp-menu-files/gtypist
-#~ msgid "Typing tutor"
-#~ msgstr "Навчання набору"
-
 #~ msgid "UML Modeller"
 #~ msgstr "Створення UML"
 
@@ -9254,9 +9254,6 @@ msgstr "Клієнт IRC"
 #~ msgid "KBiff (Email Notifier)"
 #~ msgstr "Сповіщувач електронної пошти (biff)"
 
-#~ msgid "Utilities"
-#~ msgstr "Утиліти"
-
 #~ msgid "Text Viewer"
 #~ msgstr "Переглядач текстів"
 
@@ -9390,6 +9387,9 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Різне"
+
+#~ msgid "Utilities"
+#~ msgstr "Утиліти"
 
 #~ msgid "Advocacy"
 #~ msgstr "Захист"
@@ -9552,9 +9552,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Особисті параметри та адміністративні параметри"
-
-#~ msgid "Development Environments"
-#~ msgstr "Середовища для розробки"
 
 #~ msgid "Universal Access"
 #~ msgstr "Універсальний доступ"
@@ -10656,9 +10653,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "KLinkStatus"
 #~ msgstr "KLinkStatus"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Віджети стільниці"
 
 #~ msgid "Nepomuk PIMO Shell"
 #~ msgstr "Оболонка PIMO для Nepomuk"
@@ -15327,6 +15321,9 @@ msgstr "Клієнт IRC"
 #~ msgstr ""
 #~ "Гра у планування, побудову міста і керування транспортною системою, "
 #~ "економікою, електропостачанням, тощо."
+
+#~ msgid "A KDE Application"
+#~ msgstr "Програма KDE"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

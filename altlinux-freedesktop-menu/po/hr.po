@@ -212,8 +212,14 @@ msgstr "Radna površina"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Razvoj"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -359,10 +365,6 @@ msgstr "Povijest"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Programi"
 
 msgid "IRC"
 msgstr "IRC"
@@ -735,6 +737,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafika"
@@ -923,9 +928,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Osobne postavke i administracijske postavke"
-
-#~ msgid "Development Environments"
-#~ msgstr "Razvojna okružja"
 
 #~ msgid "Universal Access"
 #~ msgstr "Univerzalni pristup"
@@ -1359,9 +1361,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Obuka u tipkanju na slijepo"
-
 #~ msgid "KJots"
 #~ msgstr "Bilješke"
 
@@ -1373,9 +1372,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Mehanizam za oku privlačne stvari za radnu površinu."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Widgeti radne površine"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

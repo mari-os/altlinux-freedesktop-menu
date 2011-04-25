@@ -236,8 +236,16 @@ msgstr "Skjáborð"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Skjáborðshlutir"
+
 msgid "Development"
 msgstr "Þróun"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Þróunarumhverfi"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -398,10 +406,6 @@ msgstr "Saga"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "KDE forrit"
 
 msgid "IRC"
 msgstr "IRC"
@@ -815,6 +819,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Vélritunarkennsla"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Vigurbyggt teikniforrit"
 
@@ -1067,9 +1075,6 @@ msgstr "Póstforrit"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Persónulegir valkostir og kerfis-stillingar"
-
-#~ msgid "Development Environments"
-#~ msgstr "Þróunarumhverfi"
 
 #~ msgid "Universal Access"
 #~ msgstr "Altækur aðgangur"
@@ -2242,9 +2247,6 @@ msgstr "Póstforrit"
 #~ msgid "KTouch"
 #~ msgstr "K-Vélritun"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Vélritunarkennsla"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML myndakortsritill"
 
@@ -2274,9 +2276,6 @@ msgstr "Póstforrit"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Augnakonfekt fyrir skjáborðið."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Skjáborðshlutir"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SúperKaramba"

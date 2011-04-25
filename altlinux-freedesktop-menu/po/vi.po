@@ -218,8 +218,14 @@ msgstr "Màn hình nền"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Phát triển"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -364,10 +370,6 @@ msgstr "Lịch sử"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Ứng dụng"
 
 msgid "IRC"
 msgstr "IRC"
@@ -741,6 +743,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Đồ hoạ"
@@ -958,9 +963,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Thiết lập quản lý và Tùy thích cá nhân"
-
-#~ msgid "Development Environments"
-#~ msgstr "Các môi trường phát triển"
 
 #~ msgid "Universal Access"
 #~ msgstr "Truy cập hoàn toàn"
@@ -1230,9 +1232,6 @@ msgstr ""
 
 #~ msgid "Text Editor"
 #~ msgstr "Bộ soạn thảo văn bản"
-
-#~ msgid "Disk Utility"
-#~ msgstr "Tiện ích đĩa"
 
 #~ msgid "Manage Drives and Media"
 #~ msgstr "Quản lý đĩa và các loại vật chứa"
@@ -1620,9 +1619,6 @@ msgstr ""
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Trình dạy Gõ Bàn phím"
 
 #~ msgid "KImageMapEditor"
 #~ msgstr "KImageMapEditor"

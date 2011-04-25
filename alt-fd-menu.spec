@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.22
+Version: 0.23
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -20,7 +20,7 @@ altlinux freedesktop.org menu
 %package common
 Summary: common files for altlinux freedesktop menus
 Group: Graphical desktop/Other
-Requires: %name-icon-theme-default > 0.0.9
+Requires: %name-icon-theme-default > 0.0.13
 
 %description common
 %summary
@@ -181,6 +181,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %dir %_sysconfdir/xdg/menus/kde3-applications-merged
 
 %changelog
+* Mon Apr 25 2011 Igor Vlasenko <viy@altlinux.ru> 0.23-alt1
+- more pixmaps in layouts
+
 * Fri Apr 22 2011 Igor Vlasenko <viy@altlinux.ru> 0.22-alt1
 - nested menu: added Dev>Tools, misc layout improvements 
 

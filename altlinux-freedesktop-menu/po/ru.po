@@ -256,9 +256,18 @@ msgstr "Рабочий стол"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+# Found in kdeedu-kstars
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Настольный планетарий"
+
 # Found in /home/zerg/tmp/tmp-menu-files/tkregexp
 msgid "Development"
 msgstr "Разработка"
+
+# Found in /home/zerg/tmp/tmp-menu-files/tkinter-2.2.1
+msgid "Development environments"
+msgstr "Среды разработки"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -426,11 +435,6 @@ msgstr "Журнал"
 
 msgid "IDE"
 msgstr "IDE"
-
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
-msgid "IDE applications"
-msgstr "Приложения"
 
 msgid "IRC"
 msgstr "IRC"
@@ -862,6 +866,10 @@ msgstr "Утилита для переводов"
 
 msgid "Tuners"
 msgstr ""
+
+# Found in kdeedu-ktouch
+msgid "Typing tutor"
+msgstr "Обучение печати"
 
 msgid "Vector Graphics"
 msgstr "Векторная графика"
@@ -2516,10 +2524,6 @@ msgstr "Клиент DC"
 #~ msgid "Desktop Pager"
 #~ msgstr "Пейджер рабочего стола"
 
-# Found in kdeedu-kstars
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Настольный планетарий"
-
 # Found in /home/zerg/tmp/tmp-menu-files/kdebase-kpersonalizer
 #~ msgid "Desktop Settings Wizard"
 #~ msgstr "Мастер настройки внешнего вида"
@@ -2538,10 +2542,6 @@ msgstr "Клиент DC"
 # Found in /home/zerg/tmp/tmp-menu-files/devhelp
 #~ msgid "Developer's Help program"
 #~ msgstr "Программа помощи для разработчиков"
-
-# Found in /home/zerg/tmp/tmp-menu-files/tkinter-2.2.1
-#~ msgid "Development environments"
-#~ msgstr "Среды разработки"
 
 #~ msgid "Devhelp"
 #~ msgstr "Devhelp"
@@ -7183,10 +7183,6 @@ msgstr "Клиент DC"
 #~ msgid "Twm: Tab Window Manager"
 #~ msgstr "Twm: Tab Window Manager"
 
-# Found in kdeedu-ktouch
-#~ msgid "Typing tutor"
-#~ msgstr "Обучение печати"
-
 #~ msgid "UML Modeller"
 #~ msgstr "UML моделирование"
 
@@ -10404,9 +10400,6 @@ msgstr "Клиент DC"
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Личные предпочтения и административные параметры"
 
-#~ msgid "Development Environments"
-#~ msgstr "Среды разработки"
-
 #~ msgid "Universal Access"
 #~ msgstr "Специальные возможности"
 
@@ -11474,9 +11467,6 @@ msgstr "Клиент DC"
 #~ msgid "KBlocks"
 #~ msgstr "KBlocks"
 
-#~ msgid "Desktop Widgets"
-#~ msgstr "Виджеты рабочего стола"
-
 #~ msgid "Nepomuk PIMO Shell"
 #~ msgstr "Оболочка Nepomuk PIMO"
 
@@ -11661,6 +11651,9 @@ msgstr "Клиент DC"
 
 #~ msgid "System Information"
 #~ msgstr "Информация о системе"
+
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Настольный планетарий"
 
 #~ msgid "CD Cover Printer"
 #~ msgstr "Печать обложек CD"
@@ -15992,6 +15985,9 @@ msgstr "Клиент DC"
 #~ msgstr ""
 #~ "Спланируй и Построй город, позаботившись о транспорте, экономике, "
 #~ "электричестве и т.д."
+
+#~ msgid "A KDE Application"
+#~ msgstr "Приложение KDE"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

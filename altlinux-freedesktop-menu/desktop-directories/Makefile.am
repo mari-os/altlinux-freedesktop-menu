@@ -149,6 +149,7 @@ directory_in_files =			\
 	altlinux-education-numerical-analysis.directory.in		\
 	altlinux-education-medical-software.directory.in		\
 	altlinux-education-parallel-computing.directory.in		\
+	altlinux-education-computerscience-typing.directory.in		\
 	altlinux-utility.directory.in		\
 	altlinux-utility-desktop.directory.in		\
 	altlinux-utility-other.directory.in		\

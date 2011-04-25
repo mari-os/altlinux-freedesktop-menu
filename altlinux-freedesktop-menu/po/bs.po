@@ -214,8 +214,14 @@ msgstr "Radna površina"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Programiranje"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -357,9 +363,6 @@ msgid "History"
 msgstr "Historija"
 
 msgid "IDE"
-msgstr ""
-
-msgid "IDE applications"
 msgstr ""
 
 msgid "IRC"
@@ -728,6 +731,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafika"
@@ -840,9 +846,6 @@ msgstr ""
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Razno"
-
-#~ msgid "Utilities"
-#~ msgstr "Korisni programi"
 
 #~ msgid "Advocacy"
 #~ msgstr "Propaganda"
@@ -984,9 +987,6 @@ msgstr ""
 
 #~ msgid "KDE Menu"
 #~ msgstr "KDE meni"
-
-#~ msgid "Development Environments"
-#~ msgstr "Razvojna okruženja"
 
 #~ msgid "Control Center"
 #~ msgstr "Kontrolni centar"

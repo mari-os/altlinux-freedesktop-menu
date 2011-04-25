@@ -228,8 +228,16 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Acessoriis dal desktop"
+
 msgid "Development"
 msgstr "Svilup"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Ambients di svilup"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -383,10 +391,6 @@ msgstr "Chimiche"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplicazions"
 
 msgid "IRC"
 msgstr "IRC"
@@ -773,6 +777,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafiche"
@@ -847,9 +854,6 @@ msgstr ""
 #~ msgid "Accessories"
 #~ msgstr "Struments"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Acessoriis dal desktop"
-
 #~ msgid "Peripherals"
 #~ msgstr "Periferichis"
 
@@ -870,9 +874,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Preferencis personâls e impostazions di aministrazion"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ambients di svilup"
 
 #~ msgid "Universal Access"
 #~ msgstr "Acess Universâl"

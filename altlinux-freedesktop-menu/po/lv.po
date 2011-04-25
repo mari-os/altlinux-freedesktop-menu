@@ -238,8 +238,16 @@ msgstr "Darbavirsma"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Darbvirsmas sīkrīki"
+
 msgid "Development"
 msgstr "Izstrāde"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Izstrādes vides"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -401,10 +409,6 @@ msgstr "Vēsture"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplikācijas"
 
 msgid "IRC"
 msgstr "IRC"
@@ -815,6 +819,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Ātrakstīšanas Skolotājs"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Vektorgrafikas zīmēšanas rīks"
 
@@ -962,9 +970,6 @@ msgstr "Pasta Klients"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Personīgie iestatījumi un administrācijas uzstādījumi"
-
-#~ msgid "Development Environments"
-#~ msgstr "Izstrādes vides"
 
 #~ msgid "Universal Access"
 #~ msgstr "Universālā piekļuve"
@@ -1614,9 +1619,6 @@ msgstr "Pasta Klients"
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Ātrakstīšanas Skolotājs"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML attēlu karšu redaktors"
 
@@ -1643,9 +1645,6 @@ msgstr "Pasta Klients"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Dzinējs darbvirsmu smukumiem."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Darbvirsmas sīkrīki"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

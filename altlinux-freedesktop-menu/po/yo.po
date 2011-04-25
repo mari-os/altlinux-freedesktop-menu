@@ -219,7 +219,14 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Àwọn àsẹ́sírì ojù-iṣẹ́"
+
 msgid "Development"
+msgstr ""
+
+msgid "Development environments"
 msgstr ""
 
 msgid "Dial-up programs"
@@ -368,10 +375,6 @@ msgstr ""
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Ìlòsí ìdaríi kòmpútà"
 
 msgid "IRC"
 msgstr ""
@@ -744,6 +747,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Àpèjúwe"
@@ -798,9 +804,6 @@ msgstr ""
 
 #~ msgid "Accessories"
 #~ msgstr "Àwọn àfikún"
-
-#~ msgid "Desktop accessories"
-#~ msgstr "Àwọn àsẹ́sírì ojù-iṣẹ́"
 
 #~ msgid "System configuration and monitoring"
 #~ msgstr "Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà"

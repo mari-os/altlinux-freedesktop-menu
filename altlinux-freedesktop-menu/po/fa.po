@@ -235,8 +235,16 @@ msgstr "رومیزی"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "عنصرهای رومیزی"
+
 msgid "Development"
 msgstr "برنامه‌نویسی"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "محیط‌های برنامه‌نویسی"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -397,10 +405,6 @@ msgstr "تاریخچه"
 #, fuzzy
 msgid "IDE"
 msgstr "بیکار"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "برنامه‌های کاربردی"
 
 msgid "IRC"
 msgstr "IRC"
@@ -811,6 +815,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "مهارت تحریر آموختار"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "ابزار نقاشی گرافیک بُرداری"
 
@@ -959,9 +967,6 @@ msgstr "کارگیر Whois "
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "ترجیحات شخصی و تنظیمات مدیریتی"
-
-#~ msgid "Development Environments"
-#~ msgstr "محیط‌های برنامه‌نویسی"
 
 #~ msgid "Universal Access"
 #~ msgstr "دسترسی همگانی"
@@ -1463,9 +1468,6 @@ msgstr "کارگیر Whois "
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "مهارت تحریر آموختار"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "ویرایشگر نگاشت تصویر زنگام"
 
@@ -1492,9 +1494,6 @@ msgstr "کارگیر Whois "
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "eyecandy موتوری برای سرد کردن رومیزی."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "عنصرهای رومیزی"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "سوپرکارامبا"

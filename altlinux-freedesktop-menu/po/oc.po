@@ -224,7 +224,15 @@ msgstr "BurèU"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Utilitats"
+
 msgid "Development"
+msgstr "Desvelopament"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Desvelopament"
 
 #, fuzzy
@@ -383,10 +391,6 @@ msgstr ""
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplicacions"
 
 msgid "IRC"
 msgstr ""
@@ -780,6 +784,9 @@ msgstr "Revirada"
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafics"
@@ -835,9 +842,6 @@ msgstr "Logicial de messatjariá"
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Diverses"
-
-#~ msgid "Utilities"
-#~ msgstr "Utilitats"
 
 #~ msgid "Information"
 #~ msgstr "Infòrmacion"

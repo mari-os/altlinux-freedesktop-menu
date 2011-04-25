@@ -236,8 +236,16 @@ msgstr "Мизи Корӣ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Обзорҳо"
+
 msgid "Development"
 msgstr "Пешрафт"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Муҳити пешрафт"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -395,10 +403,6 @@ msgstr "Таърих"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Замимаҳо"
 
 msgid "IRC"
 msgstr "IRC"
@@ -810,6 +814,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Машқ Барои Чоп Кардан"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Vector Асбоби Расмкашии Графикӣ"
 
@@ -875,9 +883,6 @@ msgstr "Мизоҷи Whois"
 #~ msgid "Shells"
 #~ msgstr "Пардозандаи фармонҳо"
 
-#~ msgid "Utilities"
-#~ msgstr "Обзорҳо"
-
 #~ msgid "Backups"
 #~ msgstr "Нусхаҳои захирашавӣ"
 
@@ -931,9 +936,6 @@ msgstr "Мизоҷи Whois"
 
 #~ msgid "KDE Menu"
 #~ msgstr "Менюи KDE"
-
-#~ msgid "Development Environments"
-#~ msgstr "Муҳити пешрафт"
 
 #~ msgid "Control Center"
 #~ msgstr "Маркази контрол"
@@ -1253,9 +1255,6 @@ msgstr "Мизоҷи Whois"
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Машқ Барои Чоп Кардан"
 
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Муҳаррири тасвири ҳаритаи HTML"

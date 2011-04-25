@@ -236,8 +236,16 @@ msgstr "Radna površina"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Alati"
+
 msgid "Development"
 msgstr "Razvoj"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Razvojna okruženja "
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -400,10 +408,6 @@ msgstr "Istorijat"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Programi"
 
 msgid "IRC"
 msgstr "IRC"
@@ -813,6 +817,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Tutor za slepo kucanje"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Alat za vektorsko crtanje"
 
@@ -878,9 +886,6 @@ msgstr "Poštanski klijent"
 
 #~ msgid "Shells"
 #~ msgstr "Šelovi"
-
-#~ msgid "Utilities"
-#~ msgstr "Alati"
 
 #~ msgid "Backups"
 #~ msgstr "Bekap"
@@ -956,9 +961,6 @@ msgstr "Poštanski klijent"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Lične postavke i administratorska podešavanja"
-
-#~ msgid "Development Environments"
-#~ msgstr "Razvojna okruženja "
 
 #~ msgid "Universal Access"
 #~ msgstr "Univerzalni pristup"
@@ -1468,9 +1470,6 @@ msgstr "Poštanski klijent"
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Tutor za slepo kucanje"
 
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Uređivač HTML slikovne mape"

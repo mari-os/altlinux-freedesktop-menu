@@ -212,7 +212,14 @@ msgstr "ڈیسک ٹاپ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "ڈیسک ٹاپ"
+
 msgid "Development"
+msgstr ""
+
+msgid "Development environments"
 msgstr ""
 
 #, fuzzy
@@ -361,10 +368,6 @@ msgstr ""
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "مجوزہ اطلاقیے"
 
 msgid "IRC"
 msgstr ""
@@ -740,6 +743,9 @@ msgid "Translation tools"
 msgstr ""
 
 msgid "Tuners"
+msgstr ""
+
+msgid "Typing tutor"
 msgstr ""
 
 msgid "Vector Graphics"

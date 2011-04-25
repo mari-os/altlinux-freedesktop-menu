@@ -214,8 +214,14 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Paglilinang"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -359,9 +365,6 @@ msgid "History"
 msgstr "Kasaysayan"
 
 msgid "IDE"
-msgstr ""
-
-msgid "IDE applications"
 msgstr ""
 
 msgid "IRC"
@@ -730,6 +733,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grapiks"
@@ -863,9 +869,6 @@ msgstr ""
 
 #~ msgid "Accessories"
 #~ msgstr "Karagdagang Gamit"
-
-#~ msgid "Development Environments"
-#~ msgstr "Kapaligirang Panglinang"
 
 #~ msgid "Control Center"
 #~ msgstr "Sentro ng Kontrol"

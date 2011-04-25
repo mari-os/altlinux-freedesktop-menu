@@ -217,8 +217,14 @@ msgstr "ਵਿਹੜਾ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "ਵਿਕਾਸ"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -363,9 +369,6 @@ msgid "History"
 msgstr "ਅਤੀਤ"
 
 msgid "IDE"
-msgstr ""
-
-msgid "IDE applications"
 msgstr ""
 
 msgid "IRC"
@@ -732,6 +735,9 @@ msgid "Translation tools"
 msgstr ""
 
 msgid "Tuners"
+msgstr ""
+
+msgid "Typing tutor"
 msgstr ""
 
 #, fuzzy
@@ -1469,9 +1475,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "ਕੇ-ਟੱਚ"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "ਟੱਚ ਟਾਇਪਿੰਗ ਟਿਊਟਰ"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML ਚਿੱਤਰ ਨਕਸ਼ਾ ਸੰਪਾਦਕ"
 
@@ -1495,9 +1498,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "ਵਧੀਆ ਡੈਸਕਟਾਪ ਆਈਕੈਂਡੀ ਲਈ ਇੱਕ ਇੰਜਣ"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "ਡੈਸਕਟਾਪ ਵਿਦਗੈੱਟ"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "ਸੁਪਰਕਾਰਾਮਬਾ"
@@ -2670,9 +2670,6 @@ msgstr ""
 
 #~ msgid "KIconEdit"
 #~ msgstr "ਕੇ-ਆਈਕਾਨ-ਐਡੀਟ"
-
-#~ msgid "(La)TeX development environment"
-#~ msgstr "(La)TeX ਡਿਵੈਲਪਮਿੰਟ"
 
 #~ msgid "Kile"
 #~ msgstr "ਕਿਲੀ"

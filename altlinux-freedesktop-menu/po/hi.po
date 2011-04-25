@@ -212,8 +212,14 @@ msgstr "डेस्कटॉप"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "विकास"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -356,9 +362,6 @@ msgid "History"
 msgstr "इतिहास"
 
 msgid "IDE"
-msgstr ""
-
-msgid "IDE applications"
 msgstr ""
 
 msgid "IRC"
@@ -721,6 +724,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "ग्राफिक्स "
@@ -917,9 +923,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "निजी वरीयता व प्रशासनिक जमावट"
-
-#~ msgid "Development Environments"
-#~ msgstr "विकास वातावरण"
 
 #~ msgid "Universal Access"
 #~ msgstr "सार्वभौमिक पहुँच"
@@ -1557,9 +1560,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "के-टच"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "टच टाइपिंग ट्यूटर"
-
 #~ msgid "KImageMapEditor"
 #~ msgstr "के-इमेज-मैप-एडिटर"
 
@@ -1727,9 +1727,6 @@ msgstr ""
 
 #~ msgid "Personal Information Manager"
 #~ msgstr "निजी जानकारी प्रबंधक"
-
-#~ msgid "Desktop Globe"
-#~ msgstr "डेस्कटॉप ग्लोब"
 
 #~ msgid "Marble"
 #~ msgstr "संगमरमर"

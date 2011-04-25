@@ -214,8 +214,14 @@ msgstr "Gorretaol"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Diorren"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -359,10 +365,6 @@ msgstr "Istor"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Arloadoù"
 
 msgid "IRC"
 msgstr "IRC"
@@ -736,6 +738,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafikoù"
@@ -839,9 +844,6 @@ msgstr ""
 
 #~ msgid "Miscellaneous"
 #~ msgstr "A bep seurt"
-
-#~ msgid "Utilities"
-#~ msgstr "Mavegoù"
 
 #~ msgid "Backups"
 #~ msgstr "Dielloù"
@@ -974,9 +976,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Pezh a blij deoc'h ar muiañ ha neuziadoù ar mererezh"
-
-#~ msgid "Development Environments"
-#~ msgstr "Endro diorren"
 
 #~ msgid "Universal Access"
 #~ msgstr "Haezhiñ hollvedel"

@@ -237,8 +237,16 @@ msgstr "Masa Üstü"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Tə'minatlar"
+
 msgid "Development"
 msgstr "İnkişaf"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "İnkişaf vasitələri"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -398,10 +406,6 @@ msgstr "Keçmiş"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Proqramlar"
 
 msgid "IRC"
 msgstr "IRC"
@@ -814,6 +818,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Vektor Qrafika Çəkən Avadanlıq"
@@ -882,9 +889,6 @@ msgstr "Whois alıcısı"
 #~ msgid "Shells"
 #~ msgstr "Qabıqlar"
 
-#~ msgid "Utilities"
-#~ msgstr "Tə'minatlar"
-
 #~ msgid "Backups"
 #~ msgstr "Ehtiyatlamalar"
 
@@ -932,9 +936,6 @@ msgstr "Whois alıcısı"
 
 #~ msgid "KDE Menu"
 #~ msgstr "KDE Meyusu"
-
-#~ msgid "Development Environments"
-#~ msgstr "İnkişaf vasitələri"
 
 #~ msgid "Control Center"
 #~ msgstr "İdarə Mərkəzi"

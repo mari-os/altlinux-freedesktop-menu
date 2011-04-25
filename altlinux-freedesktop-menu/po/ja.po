@@ -214,8 +214,14 @@ msgstr "デスクトップ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "開発"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -359,10 +365,6 @@ msgstr "履歴"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "アプリケーション"
 
 msgid "IRC"
 msgstr "IRC"
@@ -734,6 +736,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "グラフィック"
@@ -1027,9 +1032,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "ユーザの個人設定とシステム管理の設定"
-
-#~ msgid "Development Environments"
-#~ msgstr "開発環境"
 
 #~ msgid "Universal Access"
 #~ msgstr "ユニバーサル・アクセス"
@@ -2215,9 +2217,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "タッチタイプの練習"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML イメージマップエディタ"
 
@@ -2247,9 +2246,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "格好いいデスクトップ eyecandy エンジン。"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "デスクトップウィジェット"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

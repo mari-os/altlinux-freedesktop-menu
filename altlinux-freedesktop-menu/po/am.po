@@ -227,8 +227,16 @@ msgstr "የገበታ ካለንደር"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "የገበታ ካለንደር"
+
 msgid "Development"
 msgstr "እድገት"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "የእድገት አካባቢዎች"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -380,10 +388,6 @@ msgstr "ታሪክ"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "መጠቀሚያ ፕሮግራሞች"
 
 msgid "IRC"
 msgstr "IRC"
@@ -769,6 +773,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "ንድፍ"
@@ -851,9 +858,6 @@ msgstr ""
 
 #~ msgid "Peripherals"
 #~ msgstr "ዳርቻዎች"
-
-#~ msgid "Development Environments"
-#~ msgstr "የእድገት አካባቢዎች"
 
 #~ msgid "Sound & Video"
 #~ msgstr "ድምጽ እና ቪዲዮ"

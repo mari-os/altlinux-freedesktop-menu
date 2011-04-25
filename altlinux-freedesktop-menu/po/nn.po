@@ -214,8 +214,14 @@ msgstr "Skrivebord"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Utvikling"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -357,9 +363,6 @@ msgid "History"
 msgstr "Historie"
 
 msgid "IDE"
-msgstr ""
-
-msgid "IDE applications"
 msgstr ""
 
 msgid "IRC"
@@ -725,6 +728,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafikk"
@@ -1028,9 +1034,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Brukar- og administratorval"
-
-#~ msgid "Development Environments"
-#~ msgstr "Utviklingsmiljø"
 
 #~ msgid "Universal Access"
 #~ msgstr "Unversell tilgang"
@@ -2336,9 +2339,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Tastaturøving"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML-biletkartredigering"
 
@@ -2371,9 +2371,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Eit rammeverk for lekre skrivebord."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Skrivebordsprogram"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7629,6 +7626,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Planlegg og bygg ein by, og hald styr på samferdsel, økonomi og "
 #~ "elektrisitet"
+
+#~ msgid "A KDE Application"
+#~ msgstr "Studer rektangelpakking"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

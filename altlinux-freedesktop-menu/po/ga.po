@@ -218,8 +218,14 @@ msgstr "Deasc"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Forbairt"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -367,10 +373,6 @@ msgstr "Stair"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Feidhmchláir"
 
 msgid "IRC"
 msgstr "IRC"
@@ -742,6 +744,9 @@ msgid "Translation tools"
 msgstr ""
 
 msgid "Tuners"
+msgstr ""
+
+msgid "Typing tutor"
 msgstr ""
 
 #, fuzzy
@@ -1371,9 +1376,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Teagascóir Clóscríofa Tadhaill"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Eagarthóir Mapaí Íomhá HTML"
 
@@ -1403,9 +1405,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Inneall a chruthaíonn maisíochtaí idirghníomhacha ar an deasc."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Giuirléidí Deisce"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -2491,9 +2490,6 @@ msgstr ""
 
 #~ msgid "kgraphviewer"
 #~ msgstr "kgraphviewer"
-
-#~ msgid "(La)TeX development environment"
-#~ msgstr "Timpeallacht fhorbartha (La)TeX"
 
 #~ msgid "Kile"
 #~ msgstr "Kile"

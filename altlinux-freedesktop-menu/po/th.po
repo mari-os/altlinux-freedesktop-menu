@@ -215,8 +215,14 @@ msgstr "พื้นที่ทำงาน"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "พัฒนาโปรแกรม"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -361,10 +367,6 @@ msgstr "ประวัติศาสตร์"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "โปรแกรม"
 
 msgid "IRC"
 msgstr "IRC"
@@ -737,6 +739,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "รูปภาพ"
@@ -945,9 +950,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "ปรับแต่งพื้นโต๊ะส่วนตัวและตั้งค่าระบบ"
-
-#~ msgid "Development Environments"
-#~ msgstr "รูปแบบการพัฒนาโปรแกรม"
 
 #~ msgid "Universal Access"
 #~ msgstr "สิ่งอำนวยความสะดวก"
@@ -1603,9 +1605,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "กลไกของลูกเล่นของพื้นที่ทำงานที่เพลิดเพลินตา"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "วิดเจ็ตของพื้นที่ทำงาน"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

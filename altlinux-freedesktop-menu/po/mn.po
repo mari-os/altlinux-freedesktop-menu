@@ -225,7 +225,15 @@ msgstr "Ажлын тавцан"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Хэрэгсэл програмууд"
+
 msgid "Development"
+msgstr "Хөгжүүлэл"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Хөгжүүлэл"
 
 msgid "Dial-up programs"
@@ -377,10 +385,6 @@ msgstr "Түүх"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Х.программууд"
 
 msgid "IRC"
 msgstr ""
@@ -773,6 +777,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Бичгийн машины зааварлагч"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "График"
 
@@ -833,9 +841,6 @@ msgstr ""
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Янз бүрийн"
-
-#~ msgid "Utilities"
-#~ msgstr "Хэрэгсэл програмууд"
 
 #~ msgid "Servers"
 #~ msgstr "Серверүүд"
@@ -1088,9 +1093,6 @@ msgstr ""
 
 #~ msgid "KTouch"
 #~ msgstr "KМэдрэхүй"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Бичгийн машины зааварлагч"
 
 #~ msgid "KMouth"
 #~ msgstr "KМаф(КMouth)"

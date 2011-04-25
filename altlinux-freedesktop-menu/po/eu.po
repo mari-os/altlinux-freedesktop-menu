@@ -219,8 +219,14 @@ msgstr "Mahaigaina"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Garapena"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -364,10 +370,6 @@ msgstr "Historia"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplikazioak"
 
 msgid "IRC"
 msgstr "IRC"
@@ -739,6 +741,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafikoak"
@@ -1028,9 +1033,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Hobespen pertsonalak eta administrazio-ezarpenak"
-
-#~ msgid "Development Environments"
-#~ msgstr "Garapen inguruneak"
 
 #~ msgid "Universal Access"
 #~ msgstr "Sarbide unibertsala"
@@ -2349,9 +2351,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Mekanografia tutorea"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML irudi-mapa editorea"
 
@@ -2384,9 +2383,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Mahaigaineko efektu politentzako euskarri bat."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Mahaigaineko trepetak"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7312,6 +7308,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Hiri bat planifikatu eta eraiki eta garraioa, ekonomia, argindarra eta "
 #~ "beste batzuez arduratu."
+
+#~ msgid "A KDE Application"
+#~ msgstr "KDE aplikazio bat"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

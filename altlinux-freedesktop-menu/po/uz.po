@@ -235,8 +235,16 @@ msgstr "Ish stoli"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Vositalar"
+
 msgid "Development"
 msgstr "Tuzish"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Tuzish vositalari"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -391,10 +399,6 @@ msgstr "Tarix"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Dasturlar"
 
 msgid "IRC"
 msgstr "IRC"
@@ -799,6 +803,9 @@ msgstr "Tarjima"
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Vektor chizmalarni yaratish vositasi"
@@ -866,9 +873,6 @@ msgstr "Xat-xabar dasturlari"
 
 #~ msgid "Shells"
 #~ msgstr "Konsollar"
-
-#~ msgid "Utilities"
-#~ msgstr "Vositalar"
 
 #~ msgid "Backups"
 #~ msgstr "Zahira"
@@ -983,9 +987,6 @@ msgstr "Xat-xabar dasturlari"
 
 #~ msgid "KDE Menu"
 #~ msgstr "KDE menyu"
-
-#~ msgid "Development Environments"
-#~ msgstr "Tuzish vositalari"
 
 #~ msgid "Change system-wide settings (affects all users)"
 #~ msgstr ""

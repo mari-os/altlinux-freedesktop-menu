@@ -224,7 +224,15 @@ msgstr "Працоўны cтол"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Утыліты"
+
 msgid "Development"
+msgstr "Распрацоўка"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Распрацоўка"
 
 #, fuzzy
@@ -377,10 +385,6 @@ msgstr "Гісторыя"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Дастасаваньні"
 
 msgid "IRC"
 msgstr "IRC"
@@ -766,6 +770,9 @@ msgid "Translation tools"
 msgstr "Сістэмнае адміністраваньне"
 
 msgid "Tuners"
+msgstr ""
+
+msgid "Typing tutor"
 msgstr ""
 
 #, fuzzy
@@ -1469,10 +1476,6 @@ msgstr "Калькулятар"
 
 #, fuzzy
 #~ msgid "Development environment"
-#~ msgstr "Распрацоўка"
-
-#, fuzzy
-#~ msgid "Development environments"
 #~ msgstr "Распрацоўка"
 
 #~ msgid "Devhelp"
@@ -5085,9 +5088,6 @@ msgstr "Калькулятар"
 #~ msgid "Default"
 #~ msgstr "Па ўмаўчаньні"
 
-#~ msgid "Utilities"
-#~ msgstr "Утыліты"
-
 #~ msgid "X-Utilities"
 #~ msgstr "X Утыліты"
 
@@ -5199,9 +5199,6 @@ msgstr "Калькулятар"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Прыватныя перавагі і адміністрацыйныя настаўленьні"
-
-#~ msgid "Development Environments"
-#~ msgstr "Асяродзьдзі распрацоўкі"
 
 #~ msgid "Universal Access"
 #~ msgstr "Унівэрсальны доступ"
@@ -5469,9 +5466,6 @@ msgstr "Калькулятар"
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Настаўнік \"сляпога\" метаду набору тэксту"
 
 #~ msgid "KMouth"
 #~ msgstr "KMouth"

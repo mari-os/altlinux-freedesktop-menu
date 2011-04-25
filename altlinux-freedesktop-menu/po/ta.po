@@ -220,8 +220,14 @@ msgstr "மேசை"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "உருவாக்கம்"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -368,10 +374,6 @@ msgstr "&சரித்திரம்"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "பயன்பாடுகள்"
 
 msgid "IRC"
 msgstr "kஇைணயத்ெதாடர் வேண்டி"
@@ -744,6 +746,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "வரைகலைகள்"
@@ -931,9 +936,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "தனிநபர் விருப்பங்கள் மற்றும் நிர்வாக அமைப்புகள்"
-
-#~ msgid "Development Environments"
-#~ msgstr "உருவாக்ககம்"
 
 #~ msgid "Universal Access"
 #~ msgstr "உலகளாவிய அணுகல்"
@@ -1530,9 +1532,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "kதொடுதல்"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "தொடு-தட்டச்சு ஆசிரியர்"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML வடிவம் வரைப்படம் திருத்தி"
 
@@ -1562,9 +1561,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "அட்டகாச மேல்மேசைக்கு ஒரு இயந்திரம்"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "மேல்மேசை விட்செட்"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "சூப்பர் கரம்பா"

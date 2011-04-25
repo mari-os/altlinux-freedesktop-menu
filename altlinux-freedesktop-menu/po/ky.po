@@ -236,8 +236,16 @@ msgstr "Иш столдору"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Иш столдуе виджеттери"
+
 msgid "Development"
 msgstr "Өндүрмө"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Иштеп чыгуу чөйрөлөрү"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -393,10 +401,6 @@ msgstr "Тарых"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Иштемелер"
 
 msgid "IRC"
 msgstr "IRC"
@@ -807,6 +811,9 @@ msgstr "Которуу"
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Вектордук графикалык сүрөт тартуу аспабы"
@@ -1054,9 +1061,6 @@ msgstr "Почта клиенттери"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Өздүк жактыруулар жана административдик параметрлер"
-
-#~ msgid "Development Environments"
-#~ msgstr "Иштеп чыгуу чөйрөлөрү"
 
 #~ msgid "Universal Access"
 #~ msgstr "Атайын мүмкүнчүлүктөр"
@@ -1929,9 +1933,6 @@ msgstr "Почта клиенттери"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Иш столдун виджет топтому"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Иш столдуе виджеттери"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

@@ -223,7 +223,15 @@ msgstr "Čállinbeavdi"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Reaiddut"
+
 msgid "Development"
+msgstr "Ovddideapmi"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Ovddideapmi"
 
 msgid "Dial-up programs"
@@ -375,10 +383,6 @@ msgstr "Historihkka"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Prográmmat"
 
 msgid "IRC"
 msgstr ""
@@ -771,6 +775,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Boallobeavdehárjehallan"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafihkka"
 
@@ -824,9 +832,6 @@ msgstr "E-boastaprográmma"
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Feará mii"
-
-#~ msgid "Utilities"
-#~ msgstr "Reaiddut"
 
 #~ msgid "X Window Utilities"
 #~ msgstr "X Window-reaiddut"
@@ -950,9 +955,6 @@ msgstr "E-boastaprográmma"
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Boallobeavdehárjehallan"
 
 #~ msgid "Potato Guy"
 #~ msgstr "Buđetolmmái"

@@ -215,8 +215,14 @@ msgstr "Työpöytä"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Kehitystyökalut"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -360,10 +366,6 @@ msgstr "Historia"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Sovellukset"
 
 msgid "IRC"
 msgstr "IRC"
@@ -736,6 +738,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafiikka"
@@ -1054,9 +1059,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Henkilökohtaiset ja järjestelmän asetukset"
-
-#~ msgid "Development Environments"
-#~ msgstr "Kehitysympäristöt"
 
 #~ msgid "Universal Access"
 #~ msgstr "Esteettömyys"
@@ -2377,9 +2379,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Kymmensormijärjestelmän opetusohjelma"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML-kuvakarttaeditori"
 
@@ -2412,9 +2411,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Silmänruokaa viileille työpöydille"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Työpöytäelementit"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7864,6 +7860,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Suunnittele ja rakenna kaupunki ja huolehti kaupungin liikenteestä, "
 #~ "taloudesta, sähköistyksestä ja monesta muusta asiasta"
+
+#~ msgid "A KDE Application"
+#~ msgstr "KDE-sovellus"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

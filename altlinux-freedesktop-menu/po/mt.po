@@ -234,8 +234,16 @@ msgstr "Qsim tad-desktop"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Utilitajiet"
+
 msgid "Development"
 msgstr "Żvilupp"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Ambjenti ta' żviluppar"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -393,10 +401,6 @@ msgstr "Kronoloġija"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Applikazzjonijiet"
 
 msgid "IRC"
 msgstr "IRC"
@@ -806,6 +810,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Programm għal disinji b'vektori"
@@ -872,9 +879,6 @@ msgstr "Klijent Whois"
 #~ msgid "Shells"
 #~ msgstr "Shells"
 
-#~ msgid "Utilities"
-#~ msgstr "Utilitajiet"
-
 #~ msgid "Backups"
 #~ msgstr "Kopji ta' sigurtà"
 
@@ -916,9 +920,6 @@ msgstr "Klijent Whois"
 
 #~ msgid "KDE Menu"
 #~ msgstr "Menu KDE"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ambjenti ta' żviluppar"
 
 #~ msgid "Control Center"
 #~ msgstr "Ċentru tal-Kontroll"

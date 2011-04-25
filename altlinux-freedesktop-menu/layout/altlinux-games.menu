@@ -17,6 +17,16 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Sports</Name>
+		<Directory>altlinux-game-sports.directory</Directory>
+		<Include>
+			<And>
+				<Category>Game</Category>
+				<Category>SportsGame</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Simulation</Name>
 		<Directory>altlinux-game-simulation.directory</Directory>
 		<Include>
@@ -50,7 +60,6 @@
 				<Or>
 					<Category>ArcadeGame</Category>
 					<Category>BlocksGame</Category>
-					<Category>SportsGame</Category>
 				</Or>
 			</And>
 		</Include>

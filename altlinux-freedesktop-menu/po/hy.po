@@ -225,8 +225,16 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Աշխատասեղանի աքսեսուարներ"
+
 msgid "Development"
 msgstr "Ծրագրավորում"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Ծրագրավորման միջավայր"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -380,10 +388,6 @@ msgstr "Քիմիա"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Կիրառական ծրագրեր"
 
 msgid "IRC"
 msgstr "IRC"
@@ -774,6 +778,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Գրաֆիկա"
@@ -848,9 +855,6 @@ msgstr ""
 #~ msgid "Accessories"
 #~ msgstr "Լրացուցիչ Ծրագրեր"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Աշխատասեղանի աքսեսուարներ"
-
 #~ msgid "Peripherals"
 #~ msgstr "Արտաքին սարքավորումներ"
 
@@ -871,9 +875,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Անհատական և կառավարման կարգավորումներ"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ծրագրավորման միջավայր"
 
 #~ msgid "Universal Access"
 #~ msgstr "Ընդհանուր Մատչելիություն"

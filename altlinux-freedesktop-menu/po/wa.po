@@ -241,8 +241,16 @@ msgstr "Sicribanne"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Usteyes"
+
 msgid "Development"
 msgstr "Programaedje"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Evironmints di programaedje"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -399,10 +407,6 @@ msgstr "Istwere"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Programes"
 
 msgid "IRC"
 msgstr "IRC"
@@ -809,6 +813,9 @@ msgstr "Ratournaedje"
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Usteye di dessinaedje di grafikes vectoriås"
@@ -875,9 +882,6 @@ msgstr "Cliyint «whois»"
 #~ msgid "Shells"
 #~ msgstr "Shells"
 
-#~ msgid "Utilities"
-#~ msgstr "Usteyes"
-
 #~ msgid "Backups"
 #~ msgstr "Copeyes di såvrité"
 
@@ -940,9 +944,6 @@ msgstr "Cliyint «whois»"
 
 #~ msgid "KDE Menu"
 #~ msgstr "Menu KDE"
-
-#~ msgid "Development Environments"
-#~ msgstr "Evironmints di programaedje"
 
 #~ msgid "Control Center"
 #~ msgstr "Cinte di contrôle"

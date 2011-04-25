@@ -1,4 +1,4 @@
- <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
   "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
 
 <Menu>
@@ -87,6 +87,8 @@
 				<Category>Education</Category>
 				<Category>ComputerScience</Category>
 				<Not><Category>Science</Category></Not>
+				<Not><Category>X-Typing</Category></Not>
+				<Not><Category>Typing</Category></Not>
 			</And>
 		</Include>
 	</Menu>
@@ -225,6 +227,19 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Typing</Name>
+		<Directory>altlinux-education-computerscience-typing.directory</Directory>
+		<Include>
+			<And>
+				<Category>Education</Category>
+				<Or>
+					<Category>X-Typing</Category>
+					<Category>Typing</Category>
+				</Or>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Tools</Name>
 		<Directory>altlinux-education-teaching.directory</Directory>
 		<Include>
@@ -244,6 +259,8 @@
 			<And>
 				<Category>Education</Category>
 				<Not><Category>Teaching</Category></Not>
+				<Not><Category>X-Typing</Category></Not>
+				<Not><Category>Typing</Category></Not>
 				<Not><Category>X-KDE-Edu-Teaching</Category></Not>
 				<Not><Category>X-KDE-Edu-Language</Category></Not>
 				<Not><Category>Languages</Category></Not>

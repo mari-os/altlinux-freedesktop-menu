@@ -240,8 +240,16 @@ msgstr "Bwrdd Gwaith"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Teclynnau'r Bwrdd Gwaith"
+
 msgid "Development"
 msgstr "Datblygu"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Amgylcheddau Datblygu"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -402,10 +410,6 @@ msgstr "Hanes"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Rhaglen KDE"
 
 msgid "IRC"
 msgstr "IRC"
@@ -821,6 +825,10 @@ msgid "Tuners"
 msgstr "aTunes"
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Athro Teipio Cyffwdd"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Offeryn Llunio Graffigau Fectorau"
 
@@ -1073,9 +1081,6 @@ msgstr "Rhaglenni e-bost"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Dewisiadau personol a gosodiadau gweinyddol"
-
-#~ msgid "Development Environments"
-#~ msgstr "Amgylcheddau Datblygu"
 
 #~ msgid "Universal Access"
 #~ msgstr "Mynediad Byd-eang"
@@ -2306,9 +2311,6 @@ msgstr "Rhaglenni e-bost"
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Athro Teipio Cyffwdd"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Golygydd Map Delwedd HTML"
 
@@ -2341,9 +2343,6 @@ msgstr "Rhaglenni e-bost"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Peiriant addurniadau'r bwrdd gwaith"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Teclynnau'r Bwrdd Gwaith"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

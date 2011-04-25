@@ -240,8 +240,16 @@ msgstr "Радна површина"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Виџети површи"
+
 msgid "Development"
 msgstr "Развој"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Развојна окружења "
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -405,10 +413,6 @@ msgstr "Историјат"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Програми"
 
 msgid "IRC"
 msgstr "IRC"
@@ -820,6 +824,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Тутор за слепо куцање"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Алат за векторско цртање"
 
@@ -969,9 +977,6 @@ msgstr "Поштански клијент"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Личне поставке и администраторска подешавања"
-
-#~ msgid "Development Environments"
-#~ msgstr "Развојна окружења "
 
 #~ msgid "Universal Access"
 #~ msgstr "Универзални приступ"
@@ -1683,9 +1688,6 @@ msgstr "Поштански клијент"
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Тутор за слепо куцање"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Уређивач HTML сликовне мапе"
 
@@ -1715,9 +1717,6 @@ msgstr "Поштански клијент"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Машина за лицкање радне површине."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Виџети површи"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "СуперКарамба"

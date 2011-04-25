@@ -223,8 +223,14 @@ msgstr "Sermasê"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Perisandin"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -372,10 +378,6 @@ msgstr "Kîmya"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Sepan"
 
 msgid "IRC"
 msgstr "IRC"
@@ -750,6 +752,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafîk"
@@ -947,9 +952,6 @@ msgstr ""
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Vebijêrkên şexsî û mîhengên rêveberiyê"
 
-#~ msgid "Development Environments"
-#~ msgstr "Cîhên perisandin"
-
 #~ msgid "Universal Access"
 #~ msgstr "Gihîştina Gerdûnî"
 
@@ -1031,9 +1033,6 @@ msgstr ""
 
 #~ msgid "Text Editor"
 #~ msgstr "Edîtora Nivîsê"
-
-#~ msgid "Disk Utility"
-#~ msgstr "Amûra Dîskan"
 
 #~ msgid "Manage Drives and Media"
 #~ msgstr "Rêveberiya Medya û Ajokeran"

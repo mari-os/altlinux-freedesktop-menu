@@ -232,8 +232,16 @@ msgstr "Ruang Kerja"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Utiliti"
+
 msgid "Development"
 msgstr "Pemaju"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Persekitaran Pembangunan"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -389,10 +397,6 @@ msgstr "Rekod"
 #, fuzzy
 msgid "IDE"
 msgstr "LEKA"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplikasi"
 
 msgid "IRC"
 msgstr "IRC"
@@ -805,6 +809,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Tutor Menaip Touch"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafik"
 
@@ -871,9 +879,6 @@ msgstr "Pelanggan Mel"
 #~ msgid "Shells"
 #~ msgstr "Shell"
 
-#~ msgid "Utilities"
-#~ msgstr "Utiliti"
-
 #~ msgid "Backups"
 #~ msgstr "Salinan"
 
@@ -930,9 +935,6 @@ msgstr "Pelanggan Mel"
 
 #~ msgid "KDE Menu"
 #~ msgstr "Menu KDE"
-
-#~ msgid "Development Environments"
-#~ msgstr "Persekitaran Pembangunan"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Bunyi & Video"
@@ -1247,9 +1249,6 @@ msgstr "Pelanggan Mel"
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Tutor Menaip Touch"
 
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Penyunting Peta Imej HTML"

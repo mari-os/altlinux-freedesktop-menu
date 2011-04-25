@@ -213,7 +213,15 @@ msgstr "Skriviborð"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Hentleikar"
+
 msgid "Development"
+msgstr "Menning"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Menning"
 
 #, fuzzy
@@ -361,10 +369,6 @@ msgstr ""
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Tekstforrit"
 
 msgid "IRC"
 msgstr ""
@@ -742,6 +746,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Teknindi"
@@ -787,9 +794,6 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
-
-#~ msgid "Utilities"
-#~ msgstr "Hentleikar"
 
 #~ msgid "X Window Utilities"
 #~ msgstr "Hentleikar til X"

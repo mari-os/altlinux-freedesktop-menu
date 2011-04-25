@@ -216,8 +216,14 @@ msgstr "Töölaud"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Arendus"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -361,10 +367,6 @@ msgstr "Ajalugu"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Rakendused"
 
 msgid "IRC"
 msgstr "IRC"
@@ -736,6 +738,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Graafika"
@@ -1025,9 +1030,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Isiklikud eelistused ja haldussätted"
-
-#~ msgid "Development Environments"
-#~ msgstr "Arenduskeskkonnad"
 
 #~ msgid "Universal Access"
 #~ msgstr "Universaalne ligipääs"
@@ -2345,9 +2347,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Klaviatuuri treening"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Hüperpildiredaktor"
 
@@ -2380,9 +2379,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Töölaua lahedate vidinate mootor."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Töölauavidinad"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7658,6 +7654,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Linna planeerimine ja rajamine ning transpordi, majanduse, elektri ja muu "
 #~ "sellise eest hoolitsemine"
+
+#~ msgid "A KDE Application"
+#~ msgstr "KDE rakendus"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

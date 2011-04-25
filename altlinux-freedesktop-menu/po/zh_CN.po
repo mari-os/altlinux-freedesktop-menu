@@ -216,8 +216,14 @@ msgstr "桌面"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "开发"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -361,10 +367,6 @@ msgstr "历史"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "应用程序"
 
 msgid "IRC"
 msgstr "IRC"
@@ -737,6 +739,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "图形"
@@ -1050,9 +1055,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "个人首选项和管理设置"
-
-#~ msgid "Development Environments"
-#~ msgstr "开发环境"
 
 #~ msgid "Universal Access"
 #~ msgstr "通用访问"
@@ -2305,9 +2307,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "K 打字练习"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "打字教程"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML 图像映射编辑器"
 
@@ -2340,9 +2339,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "桌面养眼引擎。"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "桌面部件"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

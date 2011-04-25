@@ -225,7 +225,15 @@ msgstr "Desktop"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Izinto eziluncedo"
+
 msgid "Development"
+msgstr "Ubhekiso phambili"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Ubhekiso phambili"
 
 #, fuzzy
@@ -383,10 +391,6 @@ msgstr "Imbali"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Izicelo"
 
 msgid "IRC"
 msgstr ""
@@ -786,6 +790,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Umbuyekisi wokufundiweyo Obamba Echwetheza"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Imizobo"
 
@@ -842,9 +850,6 @@ msgstr "Umxhasi Weposi"
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Umxhube wezinto"
-
-#~ msgid "Utilities"
-#~ msgstr "Izinto eziluncedo"
 
 #~ msgid "Programming"
 #~ msgstr "Ukwenziwa kweenkqubo"
@@ -1050,9 +1055,6 @@ msgstr "Umxhasi Weposi"
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Umbuyekisi wokufundiweyo Obamba Echwetheza"
 
 #~ msgid "KJots"
 #~ msgstr "Amaxabiso amancinane e K"

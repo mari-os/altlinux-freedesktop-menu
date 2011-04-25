@@ -218,7 +218,14 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
+msgstr "Development"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Development"
 
 msgid "Dial-up programs"
@@ -365,10 +372,6 @@ msgstr "Historie"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Toepassinge"
 
 msgid "IRC"
 msgstr ""
@@ -738,6 +741,9 @@ msgid "Translation tools"
 msgstr ""
 
 msgid "Tuners"
+msgstr ""
+
+msgid "Typing tutor"
 msgstr ""
 
 #, fuzzy

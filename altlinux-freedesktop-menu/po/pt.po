@@ -214,8 +214,14 @@ msgstr "Ecrã"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Desenvolvimento"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -359,10 +365,6 @@ msgstr "Histórico"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplicações"
 
 msgid "IRC"
 msgstr "IRC"
@@ -735,6 +737,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Imagem"
@@ -1053,9 +1058,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Preferências pessoais e definições de administração"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ambientes de Desenvolvimento"
 
 #~ msgid "Universal Access"
 #~ msgstr "Acesso Universal"
@@ -2392,9 +2394,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Aprender Escrita Dactilográfica"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Editor de Mapas de Imagem HTML"
 
@@ -2427,9 +2426,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Um motor para embelezar o ecrã."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Elementos do Ecrã"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7957,6 +7953,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Planear e Construir uma cidade e tratar de transportes, economia, "
 #~ "electricidade e outros."
+
+#~ msgid "A KDE Application"
+#~ msgstr "Uma Aplicação KDE"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

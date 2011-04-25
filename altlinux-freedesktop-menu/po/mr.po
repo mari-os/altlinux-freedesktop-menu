@@ -217,8 +217,14 @@ msgstr "डेस्कटॉप"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "विकास"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -363,9 +369,6 @@ msgid "History"
 msgstr ""
 
 msgid "IDE"
-msgstr ""
-
-msgid "IDE applications"
 msgstr ""
 
 msgid "IRC"
@@ -734,6 +737,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "चित्रणे"
@@ -1070,9 +1076,6 @@ msgstr ""
 #~ msgid "Configure Bluetooth settings"
 #~ msgstr "Bluetooth संयोजना संयोजीत करा"
 
-#~ msgid "Disk Utility"
-#~ msgstr "डिस्क युटिलिटी"
-
 #~ msgid "Manage Drives and Media"
 #~ msgstr "ड्राइव्हस् व मिडीया व्यवस्थापीत करा"
 
@@ -1267,9 +1270,6 @@ msgstr ""
 
 #~ msgid "KFontView"
 #~ msgstr "केफॉन्टव्यू"
-
-#~ msgid "Integrated Development Environment"
-#~ msgstr "एकत्रीत निर्माण वातावरण"
 
 #~ msgid "Dolphin"
 #~ msgstr "डॉल्फिन"

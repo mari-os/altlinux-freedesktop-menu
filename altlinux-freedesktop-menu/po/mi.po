@@ -215,7 +215,14 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
+msgstr "Tupu"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "Tupu"
 
 msgid "Dial-up programs"
@@ -360,10 +367,6 @@ msgstr ""
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Ngā Pūmanawa Tautono"
 
 msgid "IRC"
 msgstr ""
@@ -733,6 +736,9 @@ msgid "Translation tools"
 msgstr ""
 
 msgid "Tuners"
+msgstr ""
+
+msgid "Typing tutor"
 msgstr ""
 
 #, fuzzy

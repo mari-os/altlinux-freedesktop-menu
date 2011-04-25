@@ -221,8 +221,14 @@ msgstr "ডেস্কটপ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "ডেভেলপমেন্ট"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -367,10 +373,6 @@ msgstr "ইতিহাস"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "অ্যাপ্লিকেশন"
 
 msgid "IRC"
 msgstr "আই.আর.সি. (IRC)"
@@ -743,6 +745,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "গ্রাফিক্স"
@@ -961,9 +966,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "ব্যক্তিগত পছন্দতালিকা এবং অ্যাডমিনস্ট্রেশন বৈশিষ্ট্যাবলী"
-
-#~ msgid "Development Environments"
-#~ msgstr "ডেভেলপমেন্ট এনভায়রনমেন্ট"
 
 #~ msgid "Universal Access"
 #~ msgstr "সর্বজনীন প্রবেশাধিকার"
@@ -1234,9 +1236,6 @@ msgstr ""
 
 #~ msgid "Messaging and VoIP Accounts"
 #~ msgstr "মেসেজিং ও VoIP অ্যাকাউন্ট"
-
-#~ msgid "Disk Utility"
-#~ msgstr "ডিস্ক ইউটিলিটি"
 
 #~ msgid "Manage Drives and Media"
 #~ msgstr "ড্রাইভ ও মিডিয়া পর্যালোচনা করুন"
@@ -1578,9 +1577,6 @@ msgstr ""
 
 #~ msgid "KTouch"
 #~ msgstr "কে-টাচ"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "টাচ টাইপিং প্রশিক্ষক"
 
 #~ msgid "KImageMapEditor"
 #~ msgstr "কে-ইমেজম্যাপ-এডিটর"

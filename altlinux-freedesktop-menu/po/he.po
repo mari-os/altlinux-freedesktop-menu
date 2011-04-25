@@ -219,8 +219,14 @@ msgstr "שולחן עבודה"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "פיתוח"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -364,10 +370,6 @@ msgstr "היסטוריה"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "יישומים"
 
 msgid "IRC"
 msgstr "IRC"
@@ -739,6 +741,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "גרפיקה"
@@ -1020,9 +1025,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "הגדרות ניהול והעדפות אישיות"
-
-#~ msgid "Development Environments"
-#~ msgstr "סביבות פיתוח"
 
 #~ msgid "Universal Access"
 #~ msgstr "גישה כללית"
@@ -2150,9 +2152,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "לימוד הדפסה עיוורת"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "עורך מפת תמונת HTML"
 
@@ -2182,9 +2181,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "מנוע שהופך את שולחן העבודה למגניב."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "יישומונים על שולחן העבודה"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

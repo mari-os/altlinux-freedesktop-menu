@@ -216,8 +216,14 @@ msgstr "Pracovná plocha"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Vývoj"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -362,10 +368,6 @@ msgstr "História"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplikácie"
 
 msgid "IRC"
 msgstr "IRC"
@@ -737,6 +739,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafika"
@@ -930,9 +935,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Osobné predvoľby a správcovské nastavenia"
-
-#~ msgid "Development Environments"
-#~ msgstr "Vývojové prostredia"
 
 #~ msgid "Universal Access"
 #~ msgstr "Pre postihnutých"
@@ -1616,9 +1618,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Výuka písania na stroji"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Editor HTML mapy obrázkov"
 
@@ -1645,9 +1644,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Podpora pre cool desktop eyecandy."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Prvky pracovnej plochy"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

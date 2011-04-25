@@ -219,8 +219,14 @@ msgstr "სამუშაო დაფა"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "პროგრამირება"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -368,10 +374,6 @@ msgstr "ქიმია"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "პროგრამები"
 
 msgid "IRC"
 msgstr "IRC"
@@ -745,6 +747,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "გრაფიკა"
@@ -849,9 +854,6 @@ msgstr ""
 #~ msgid "Miscellaneous"
 #~ msgstr "სხვდასხვა"
 
-#~ msgid "Utilities"
-#~ msgstr "ხელსაწყოები"
-
 #~ msgid "Backups"
 #~ msgstr "რეზერვირება"
 
@@ -905,9 +907,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "საკუთარი პარამეტრები და ადმინისტრაცია"
-
-#~ msgid "Development Environments"
-#~ msgstr "პროგრამირების გარსები"
 
 #~ msgid "Sound & Video"
 #~ msgstr "ხმა და ვიდეო"
@@ -1169,9 +1168,6 @@ msgstr ""
 
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "\"ბრმა\" ბეჭდვის შესწავლა"
 
 #~ msgid "Clipboard Tool"
 #~ msgstr "გაცვლის ბუფერის უტილიტა"

@@ -215,8 +215,14 @@ msgstr "Escritorio"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Desenvolvemento"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -360,10 +366,6 @@ msgstr "Historial"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplicacións"
 
 msgid "IRC"
 msgstr "IRC"
@@ -736,6 +738,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Gráficos"
@@ -1050,9 +1055,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Preferencias persoais e configuracións de administración"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ambientes de desenvolvemento"
 
 #~ msgid "Universal Access"
 #~ msgstr "Acceso universal"
@@ -2245,9 +2247,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Titor de Mecanografía"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Editor de mapas de imaxes HTML"
 
@@ -2280,9 +2279,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Un motor para apliques no escritorio."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Widgets no escritorio"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

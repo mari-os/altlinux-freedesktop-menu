@@ -217,8 +217,14 @@ msgstr "Επιφάνεια εργασίας"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Ανάπτυξη"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -362,10 +368,6 @@ msgstr "Ιστορία"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Εφαρμογές"
 
 msgid "IRC"
 msgstr "IRC"
@@ -737,6 +739,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Γραφικά"
@@ -1030,9 +1035,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Προσωπικές προτιμήσεις και ρυθμίσεις διαχείρισης"
-
-#~ msgid "Development Environments"
-#~ msgstr "Περιβάλλοντα ανάπτυξης"
 
 #~ msgid "Universal Access"
 #~ msgstr "Γενική πρόσβαση"
@@ -2381,9 +2383,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Εκμάθηση χρήσης πληκτρολογίου"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML επεξεργαστής εικόνων"
 
@@ -2416,9 +2415,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Μία μηχανή για εντυπωσιακές διακοσμήσεις επιφάνειας εργασίας."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Γραφικά συστατικά επιφάνειας εργασίας"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7849,6 +7845,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Σχεδιάστε και χτίστε μια πόλη, φροντίστε για τις μεταφορές, την "
 #~ "οικονομία, την παροχή ηλεκτρισμού κλπ."
+
+#~ msgid "A KDE Application"
+#~ msgstr "Μια εφαρμογή KDE"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

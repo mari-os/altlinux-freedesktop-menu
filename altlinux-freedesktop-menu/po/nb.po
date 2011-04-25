@@ -216,8 +216,14 @@ msgstr "Skrivebord"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Utvikling"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -361,10 +367,6 @@ msgstr "Historie"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Programmer"
 
 msgid "IRC"
 msgstr "IRC"
@@ -737,6 +739,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafikk"
@@ -1056,9 +1061,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Personlige brukervalg og administrative innstillinger"
-
-#~ msgid "Development Environments"
-#~ msgstr "Utviklingsmiljøer"
 
 #~ msgid "Universal Access"
 #~ msgstr "Tilgjengelighet"
@@ -2387,9 +2389,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Øving i touch-metoden"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML-bildekartredigering"
 
@@ -2422,9 +2421,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Et program for kultm øyesnop på skrivebordet."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Skjermelementer for skrivebordet"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "Superkaramba"
@@ -7940,6 +7936,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Planlegg og bygg en by, og hold styr på samferdsel, økonomi og "
 #~ "elektrisitet."
+
+#~ msgid "A KDE Application"
+#~ msgstr "Et KDE-program"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

@@ -226,7 +226,15 @@ msgstr "ଡ଼େସ୍କଟପ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "ଡିସ୍କ ଉପଯୋଗିତା"
+
 msgid "Development"
+msgstr "ବିକାଶ"
+
+#, fuzzy
+msgid "Development environments"
 msgstr "ବିକାଶ"
 
 msgid "Dial-up programs"
@@ -384,10 +392,6 @@ msgstr ""
 #, fuzzy
 msgid "IDE"
 msgstr "କେ.ଡି.ଇ."
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "ପ୍ରୟୋଗ"
 
 msgid "IRC"
 msgstr ""
@@ -784,6 +788,9 @@ msgstr "ଅନୁବାଦ"
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "ଆଲେଖୀ"
@@ -1077,9 +1084,6 @@ msgstr ""
 
 #~ msgid "Configure Bluetooth settings"
 #~ msgstr "ବ୍ଲୁଟୁଥ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#~ msgid "Disk Utility"
-#~ msgstr "ଡିସ୍କ ଉପଯୋଗିତା"
 
 #~ msgid "Manage Drives and Media"
 #~ msgstr "ଉପକରଣ ଏବଂ ସଞ୍ଚାର ମାଧ୍ଯମକୁ ପରିଚାଳନା କରନ୍ତୁ"

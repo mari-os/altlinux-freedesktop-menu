@@ -219,8 +219,14 @@ msgstr "일터"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "개발"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -367,10 +373,6 @@ msgstr "기록"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "응용프로그램"
 
 msgid "IRC"
 msgstr "IRC"
@@ -744,6 +746,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "그림"
@@ -952,9 +957,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "개인 기본 설정과 관리자 설정"
-
-#~ msgid "Development Environments"
-#~ msgstr "개발 환경"
 
 #~ msgid "Universal Access"
 #~ msgstr "보편적 접근"
@@ -1567,9 +1569,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "타자 연습"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML 이미지 맵 편집기"
 
@@ -1596,9 +1595,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "멋진 데스크톱 모양을 위한 엔진."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "데스크톱 위젯"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

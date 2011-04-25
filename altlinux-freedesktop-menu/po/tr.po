@@ -218,8 +218,14 @@ msgstr "Masaüstü"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Geliştirme"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -363,10 +369,6 @@ msgstr "Geçmiş"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Uygulamalar"
 
 msgid "IRC"
 msgstr "IRC"
@@ -739,6 +741,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafik"
@@ -1053,9 +1058,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Kişisel tercihler ve yönetim ayarları"
-
-#~ msgid "Development Environments"
-#~ msgstr "Geliştirme Ortamları"
 
 #~ msgid "Universal Access"
 #~ msgstr "Evrensel Erişim"
@@ -2374,9 +2376,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "10 Parmak Öğretmeni"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML Resim Haritası Düzenleyicisi"
 
@@ -2409,9 +2408,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Mükemmel masaüstü görünümü için bir motor."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Masaüstü Programcıkları"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7933,6 +7929,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Bir şehri planlayın, inşa edin ve ulaşım, ticaret, enerji ve diğer "
 #~ "işlerin sorumluluğunu üstlenin."
+
+#~ msgid "A KDE Application"
+#~ msgstr "Bir KDE Uygulaması"
 
 #~ msgid "linpacker"
 #~ msgstr "linpacker"

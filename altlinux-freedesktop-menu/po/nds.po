@@ -233,8 +233,16 @@ msgstr "Schriefdisch"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Schriefdisch-Verwiedern"
+
 msgid "Development"
 msgstr "Entwickeln"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "(La)TeX-Dokmentensmeed"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -393,10 +401,6 @@ msgstr "Vörgeschicht"
 #, fuzzy
 msgid "IDE"
 msgstr "KDE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Programmen"
 
 msgid "IRC"
 msgstr ""
@@ -793,6 +797,10 @@ msgstr "Översetten"
 
 msgid "Tuners"
 msgstr ""
+
+#, fuzzy
+msgid "Typing tutor"
+msgstr "Schriefmaschien öven"
 
 #, fuzzy
 msgid "Vector Graphics"
@@ -1265,9 +1273,6 @@ msgstr "Nettpostprogramm"
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Schriefmaschien öven"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Editor för HTML-Bildkoorten"
 
@@ -1297,9 +1302,6 @@ msgstr "Nettpostprogramm"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "En Ümgeven för wunnerbore Schriefdischeffekten"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Schriefdisch-Verwiedern"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -2213,9 +2215,6 @@ msgstr "Nettpostprogramm"
 
 #~ msgid "KIconEdit"
 #~ msgstr "KIconEdit"
-
-#~ msgid "(La)TeX development environment"
-#~ msgstr "(La)TeX-Dokmentensmeed"
 
 #~ msgid "Kile"
 #~ msgstr "Kile"

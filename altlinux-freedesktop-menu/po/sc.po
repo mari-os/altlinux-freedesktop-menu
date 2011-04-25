@@ -232,8 +232,16 @@ msgstr "Desktop Sharing"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Desktop Planetarium"
+
 msgid "Development"
 msgstr "Adelantamentu"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Ambientis de adelantamentu"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -387,10 +395,6 @@ msgstr "Stòria"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Programas"
 
 msgid "IRC"
 msgstr "IRC"
@@ -802,6 +806,9 @@ msgstr "Ainas po arretza e workstation"
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Aina de desinnu vetoriali"
@@ -897,9 +904,6 @@ msgstr "Whois client"
 
 #~ msgid "Peripherals"
 #~ msgstr "Trastus"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ambientis de adelantamentu"
 
 #~ msgid "Control Center"
 #~ msgstr "Centru de Controllu"
@@ -1270,9 +1274,6 @@ msgstr "Whois client"
 
 #~ msgid "KPPP"
 #~ msgstr "KPPP"
-
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Desktop Planetarium"
 
 #~ msgid "KStars"
 #~ msgstr "KStars"

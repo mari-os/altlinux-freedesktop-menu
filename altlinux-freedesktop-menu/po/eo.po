@@ -215,8 +215,14 @@ msgstr "Tabulo"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Programado"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -363,10 +369,6 @@ msgstr "Historio"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Aplikaĵoj"
 
 msgid "IRC"
 msgstr "IRC"
@@ -740,6 +742,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafikado"
@@ -916,9 +921,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Personaj preferoj kaj administraj agordoj"
-
-#~ msgid "Development Environments"
-#~ msgstr "Programaj medioj"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Sono kaj video"
@@ -1260,9 +1262,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "Tuŝo"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Tajpada intruisto"
-
 #~ msgid "KJots"
 #~ msgstr "Notlibro"
 
@@ -1277,9 +1276,6 @@ msgstr ""
 
 #~ msgid "Konversation"
 #~ msgstr "Konversation"
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Tabulaj fenestraĵoj"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

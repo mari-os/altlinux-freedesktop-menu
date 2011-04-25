@@ -234,8 +234,16 @@ msgstr "Werkskerm"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Nutsprogramme"
+
 msgid "Development"
 msgstr "Ontwikkeling"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Ontwikkelingomgewings"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -394,10 +402,6 @@ msgstr "Geskiedenis"
 #, fuzzy
 msgid "IDE"
 msgstr "YDEL"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Toepassings"
 
 msgid "IRC"
 msgstr "IRC"
@@ -803,6 +807,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Raak-tik Afrigter"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Vektorgrafika tekenprogram"
 
@@ -867,9 +875,6 @@ msgstr "E-pos kliënt"
 
 #~ msgid "Shells"
 #~ msgstr "Aantekentolke"
-
-#~ msgid "Utilities"
-#~ msgstr "Nutsprogramme"
 
 #~ msgid "Programming"
 #~ msgstr "Programmering"
@@ -942,9 +947,6 @@ msgstr "E-pos kliënt"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Persoonlike voorkeure en administrasie-instelings"
-
-#~ msgid "Development Environments"
-#~ msgstr "Ontwikkelingomgewings"
 
 #~ msgid "Universal Access"
 #~ msgstr "Universele toegang"
@@ -1260,9 +1262,6 @@ msgstr "E-pos kliënt"
 
 #~ msgid "KTouch"
 #~ msgstr "Kaanraak"
-
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Raak-tik Afrigter"
 
 #~ msgid "KJots"
 #~ msgstr "Kjots"

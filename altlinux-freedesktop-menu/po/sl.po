@@ -257,8 +257,16 @@ msgstr "Namizje"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
+msgid "Desktop utilities"
+msgstr "Namizni gradniki"
+
 msgid "Development"
 msgstr "Razvoj"
+
+#, fuzzy
+msgid "Development environments"
+msgstr "Razvojna okolja"
 
 #, fuzzy
 msgid "Dial-up programs"
@@ -419,10 +427,6 @@ msgstr "Zgodovina"
 #, fuzzy
 msgid "IDE"
 msgstr "IDLE"
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Program proučevanje pakiranja pravokotnikov"
 
 msgid "IRC"
 msgstr "IRC"
@@ -836,6 +840,10 @@ msgid "Tuners"
 msgstr ""
 
 #, fuzzy
+msgid "Typing tutor"
+msgstr "Učenje tipkanja"
+
+#, fuzzy
 msgid "Vector Graphics"
 msgstr "Urejevalnik vektorskih slik"
 
@@ -1088,9 +1096,6 @@ msgstr "Poštni odjemalci"
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Osebne izbire in skrbniške nastavitve"
-
-#~ msgid "Development Environments"
-#~ msgstr "Razvojna okolja"
 
 #~ msgid "Universal Access"
 #~ msgstr "Univerzalni dostop"
@@ -2401,9 +2406,6 @@ msgstr "Poštni odjemalci"
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Učenje tipkanja"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "Urejevalnik slikovnih zemljevidov v HTML"
 
@@ -2436,9 +2438,6 @@ msgstr "Poštni odjemalci"
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Pogon za lišpanje namizja."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Namizni gradniki"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"

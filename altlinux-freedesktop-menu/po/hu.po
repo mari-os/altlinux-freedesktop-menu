@@ -217,8 +217,14 @@ msgstr "Munkaasztal"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+msgid "Desktop utilities"
+msgstr ""
+
 msgid "Development"
 msgstr "Fejlesztőeszközök"
+
+msgid "Development environments"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -362,10 +368,6 @@ msgstr "Napló"
 
 msgid "IDE"
 msgstr ""
-
-#, fuzzy
-msgid "IDE applications"
-msgstr "Alkalmazások"
 
 msgid "IRC"
 msgstr "IRC"
@@ -738,6 +740,9 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
+msgid "Typing tutor"
+msgstr ""
+
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafika"
@@ -1052,9 +1057,6 @@ msgstr ""
 
 #~ msgid "Personal preferences and administration settings"
 #~ msgstr "Személyes és adminisztrációs beállítások"
-
-#~ msgid "Development Environments"
-#~ msgstr "Fejlesztőkörnyezetek"
 
 #~ msgid "Universal Access"
 #~ msgstr "Akadálymentesítés"
@@ -2380,9 +2382,6 @@ msgstr ""
 #~ msgid "KTouch"
 #~ msgstr "KTouch"
 
-#~ msgid "Touch Typing Tutor"
-#~ msgstr "Gépelésoktató"
-
 #~ msgid "HTML Image Map Editor"
 #~ msgstr "HTML-térképszerkesztő"
 
@@ -2415,9 +2414,6 @@ msgstr ""
 
 #~ msgid "An engine for cool desktop eyecandy."
 #~ msgstr "Keretrendszer grafikus asztali elemek használatához."
-
-#~ msgid "Desktop Widgets"
-#~ msgstr "Asztali grafikus elemek"
 
 #~ msgid "SuperKaramba"
 #~ msgstr "SuperKaramba"
@@ -7751,6 +7747,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Tervezzen és építsen fel egy várost, intézze a szállítást, a gazdaságot, "
 #~ "az áramot és egyebeket"
+
+#~ msgid "A KDE Application"
+#~ msgstr "Egy KDE-alapú alkalmazás"
 
 #~ msgid "linpacker"
 #~ msgstr "Linpacker"
