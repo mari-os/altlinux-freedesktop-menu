@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.23
+Version: 0.24
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -100,7 +100,7 @@ Conflicts: kde3-menu-original
 Obsoletes: kde3-menu-original
 Requires: %name
 Requires: kde3-menu-common
-Requires: altlinux-menus
+#Requires: altlinux-menus
 Conflicts: kdelibs <= 3.5.12-alt8
 
 %description kde3
@@ -181,6 +181,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %dir %_sysconfdir/xdg/menus/kde3-applications-merged
 
 %changelog
+* Sat Apr 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.24-alt1
+- more pixmaps in layouts
+
 * Mon Apr 25 2011 Igor Vlasenko <viy@altlinux.ru> 0.23-alt1
 - more pixmaps in layouts
 

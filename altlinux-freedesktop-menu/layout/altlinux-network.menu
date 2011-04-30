@@ -16,20 +16,28 @@
 	</Menu>
 	<Menu>
 		<Name>Mail</Name>
-		<Directory>altlinux-network-mail.directory</Directory>
+		<Directory>altlinux-network-email.directory</Directory>
 		<Include>
 			<And>
 				<Category>Network</Category>
-				<Or>
-					<Category>Email</Category>
-					<Category>News</Category>
-				</Or>
+				<Category>Email</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>News</Name>
+		<Directory>altlinux-network-news.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Category>News</Category>
+				<Not><Category>Email</Category></Not>
 			</And>
 		</Include>
 	</Menu>
 	<Menu>
 		<Name>FileTransfer</Name>
-		<Directory>altlinux-network-file-transfer.directory</Directory>
+		<Directory>altlinux-network-filetransfer.directory</Directory>
 		<Include>
 			<And>
 				<Category>Network</Category>
@@ -73,7 +81,7 @@
 	</Menu>
 	<Menu>
 		<Name>RemoteAccess</Name>
-		<Directory>altlinux-network-remote-access.directory</Directory>
+		<Directory>altlinux-network-remoteaccess.directory</Directory>
 		<Include>
 			<And>
 				<Category>Network</Category>

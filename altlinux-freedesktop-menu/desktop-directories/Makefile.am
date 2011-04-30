@@ -23,20 +23,20 @@ directory_in_files =			\
 	altlinux-network-other.directory.in		\
 	altlinux-network-webbrowser.directory.in		\
 	altlinux-network-chat.directory.in		\
-	altlinux-network-mail.directory.in		\
-	altlinux-network-news.directory.in		\
-	altlinux-network-file-transfer.directory.in		\
-	altlinux-network-remote-access.directory.in		\
-	altlinux-network-instant-messaging.directory.in		\
-	altlinux-network-irc.directory.in		\
+	altlinux-network-instantmessaging.directory.in		\
+	altlinux-network-ircclient.directory.in		\
 	altlinux-network-communication.directory.in		\
-	altlinux-network-ham-radio.directory.in		\
+	altlinux-network-hamradio.directory.in		\
 	altlinux-network-dialup.directory.in		\
+	altlinux-network-email.directory.in		\
+	altlinux-network-news.directory.in		\
+	altlinux-network-filetransfer.directory.in		\
+	altlinux-network-remoteaccess.directory.in		\
 	altlinux-network-p2p.directory.in		\
 	altlinux-network-telephony.directory.in		\
-	altlinux-network-telephony-tools.directory.in		\
-	altlinux-network-video-conference.directory.in		\
-	altlinux-network-web-development.directory.in		\
+	altlinux-network-telephonytools.directory.in		\
+	altlinux-network-videoconference.directory.in		\
+	altlinux-network-webdevelopment.directory.in		\
 	altlinux-office.directory.in		\
 	altlinux-office-other.directory.in		\
 	altlinux-office-publishing.directory.in		\
@@ -156,6 +156,7 @@ directory_in_files =			\
 	altlinux-utility-file-tools.directory.in		\
 	altlinux-utility-archiving.directory.in		\
 	altlinux-utility-archiving-compression.directory.in		\
+	altlinux-utility-archiving-backup.directory.in		\
 	altlinux-utility-text-tools.directory.in		\
 	altlinux-utility-text-editor.directory.in		\
 	altlinux-utility-accessibility.directory.in		\

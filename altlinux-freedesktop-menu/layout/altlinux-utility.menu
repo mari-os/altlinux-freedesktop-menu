@@ -8,24 +8,27 @@
 		<Name>Desktop</Name>
 		<Directory>altlinux-utility-desktop.directory</Directory>
 		<Include>
-			<And>
-				<Category>Utility</Category>
-				<Or>
-					<Category>Desktop</Category>
-					<Category>X-Desktop</Category>
-					<Category>X-KDE-Utilities-Desktop</Category>
-				</Or>
-				<Not><Category>Documentation</Category></Not>
-				<Not><Category>FileTools</Category></Not>
-				<Not><Category>Archiving</Category></Not>
-				<Not><Category>Compression</Category></Not>
-				<Not><Category>TextTools</Category></Not>
-				<Not><Category>TextEditor</Category></Not>
-				<Not><Category>Accessibility</Category></Not>
-				<Not><Category>Calculator</Category></Not>
-				<Not><Category>Clock</Category></Not>
-				<Not><Category>TelephonyTools</Category></Not>
-			</And>
+			<Or>
+				<Category>Applet</Category>
+				<And>
+					<Category>Utility</Category>
+					<Or>
+						<Category>Desktop</Category>
+						<Category>X-Desktop</Category>
+						<Category>X-KDE-Utilities-Desktop</Category>
+					</Or>
+					<Not><Category>Documentation</Category></Not>
+					<Not><Category>FileTools</Category></Not>
+					<Not><Category>Archiving</Category></Not>
+					<Not><Category>Compression</Category></Not>
+					<Not><Category>TextTools</Category></Not>
+					<Not><Category>TextEditor</Category></Not>
+					<Not><Category>Accessibility</Category></Not>
+					<Not><Category>Calculator</Category></Not>
+					<Not><Category>Clock</Category></Not>
+					<Not><Category>TelephonyTools</Category></Not>
+				</And>
+			</Or>
 		</Include>
 	</Menu>
 	<Menu>
@@ -152,6 +155,8 @@
 				<Not><Category>Calculator</Category></Not>
 				<Not><Category>Clock</Category></Not>
 				<Not><Category>TelephonyTools</Category></Not>
+
+				<Not><Category>Applet</Category></Not>
 				<Not><Category>X-KDE-Utilities-Desktop</Category></Not>
 				<Not><Category>X-KDE-Utilities-Peripherals</Category></Not>
 			</And>
