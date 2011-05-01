@@ -1,0 +1,45 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+	<KDELegacyDirs/>
+
+	<!-- Shallow Settings -->
+	<Menu>
+		<Name>ShallowSettings</Name>
+		<Directory>altlinux-settings-desktop.directory</Directory>
+		<Include>
+			<And>
+			<Category>Settings</Category>
+			</And>
+		</Include>
+	</Menu>
+	<!-- End Shallow Settings -->
+
+	<MergeFile>altlinux-applications.menu</MergeFile>
+
+	<!-- kde customization -->
+
+	<Include>
+		<And>
+		<Category>KDE</Category>
+		<Category>Core</Category>
+		</And>
+	</Include>
+	<Exclude>
+		<Filename>kde-Help.desktop</Filename>
+	</Exclude>
+
+	<Move>
+	  <Old>Accessories/Accessibility</Old>
+	  <New>Accessibility</New>
+	</Move>
+
+	<Move>
+	  <Old>Settings/DesktopSettings/KDE</Old>
+	  <New>Settings/NativeSettings</New>
+	</Move>
+	<!-- end kde customization -->
+
+</Menu> <!-- End Applications -->

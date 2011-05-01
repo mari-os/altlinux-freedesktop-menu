@@ -1,5 +1,5 @@
 Name: altlinux-freedesktop-menu
-Version: 0.24
+Version: 0.25
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -100,12 +100,25 @@ Conflicts: kde3-menu-original
 Obsoletes: kde3-menu-original
 Requires: %name
 Requires: kde3-menu-common
-#Requires: altlinux-menus
 Conflicts: kdelibs <= 3.5.12-alt8
 
 %description kde3
 ALTLinux freedesktop.org menu for KDE3
 
+%package kde4
+Summary: kde4 freedesktop menu
+Group: Graphical desktop/KDE
+Provides: kde4-freedesktop-menu
+Conflicts: kde4-menu-original
+Obsoletes: kde4-menu-original
+Requires: %name
+#Requires: kde4-menu-common
+Conflicts: altlinux-menus
+Conflicts: kde4libs <= 4.6.2-alt6
+Conflicts: kde4base-runtime-core <= 4.6.2-alt1
+
+%description kde4
+ALTLinux freedesktop.org menu for KDE4
 
 %prep
 %setup
@@ -122,6 +135,7 @@ intltoolize
 #find_lang %name
 
 mkdir -p %buildroot%_sysconfdir/xdg/menus/{lxde,xfce,gnome,kde3}-applications-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/applications-merged
 
 # gnomish menu resources
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
@@ -180,7 +194,16 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/kde3-applications.menu
 %dir %_sysconfdir/xdg/menus/kde3-applications-merged
 
+%if_with kde4
+%files kde4
+%config %_sysconfdir/xdg/menus/applications.menu
+%dir %_sysconfdir/xdg/menus/applications-merged
+%endif
+
 %changelog
+* Sun May 01 2011 Igor Vlasenko <viy@altlinux.ru> 0.25-alt1
+- added KDE4 menu (disabled)
+
 * Sat Apr 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.24-alt1
 - more pixmaps in layouts
 

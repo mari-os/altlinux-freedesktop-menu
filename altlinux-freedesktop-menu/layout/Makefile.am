@@ -17,10 +17,11 @@ menu_DATA =					\
 	altlinux-settings.menu			\
 	altlinux-system.menu			\
 	altlinux-utility.menu			\
+	applications.menu			\
+	gnome-applications.menu			\
+	kde3-applications.menu			\
 	lxde-applications.menu			\
 	xfce-applications.menu			\
-	kde3-applications.menu			\
-	gnome-applications.menu			\
 	settings.menu				\
 	$(NULL)
 
