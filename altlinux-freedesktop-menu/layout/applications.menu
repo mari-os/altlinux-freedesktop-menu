@@ -3,8 +3,6 @@
 
 <Menu>
 
-	<KDELegacyDirs/>
-
 	<!-- Shallow Settings -->
 	<Menu>
 		<Name>ShallowSettings</Name>
@@ -19,27 +17,4 @@
 
 	<MergeFile>altlinux-applications.menu</MergeFile>
 
-	<!-- kde customization -->
-
-	<Include>
-		<And>
-		<Category>KDE</Category>
-		<Category>Core</Category>
-		</And>
-	</Include>
-	<Exclude>
-		<Filename>kde-Help.desktop</Filename>
-	</Exclude>
-
-	<Move>
-	  <Old>Accessories/Accessibility</Old>
-	  <New>Accessibility</New>
-	</Move>
-
-	<Move>
-	  <Old>Settings/DesktopSettings/KDE</Old>
-	  <New>Settings/NativeSettings</New>
-	</Move>
-	<!-- end kde customization -->
-
-</Menu> <!-- End Applications -->
+</Menu>

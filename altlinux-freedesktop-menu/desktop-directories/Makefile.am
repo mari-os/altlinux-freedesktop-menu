@@ -156,7 +156,6 @@ directory_in_files =			\
 	altlinux-utility-file-tools.directory.in		\
 	altlinux-utility-archiving.directory.in		\
 	altlinux-utility-archiving-compression.directory.in		\
-	altlinux-utility-archiving-backup.directory.in		\
 	altlinux-utility-text-tools.directory.in		\
 	altlinux-utility-text-editor.directory.in		\
 	altlinux-utility-accessibility.directory.in		\

@@ -1,5 +1,6 @@
+%def_without kde4
 Name: altlinux-freedesktop-menu
-Version: 0.25
+Version: 0.26
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -20,7 +21,8 @@ altlinux freedesktop.org menu
 %package common
 Summary: common files for altlinux freedesktop menus
 Group: Graphical desktop/Other
-Requires: %name-icon-theme-default > 0.0.13
+Requires: %name-icon-theme
+Requires: wm-common-freedesktop
 
 %description common
 %summary
@@ -65,6 +67,14 @@ Requires: %name
 %description xfce
 ALTLinux freedesktop.org menu for XFCE
 
+%package enlightenment
+Summary: Enlightenment freedesktop menu
+Group: Graphical desktop/Other
+Provides: enlightenment-freedesktop-menu
+Requires: %name
+
+%description enlightenment
+ALTLinux freedesktop.org menu for Enlightenment DE
 
 %package lxde
 Summary: lxde freedesktop menu
@@ -112,6 +122,7 @@ Provides: kde4-freedesktop-menu
 Conflicts: kde4-menu-original
 Obsoletes: kde4-menu-original
 Requires: %name
+Requires: %name-generic
 #Requires: kde4-menu-common
 Conflicts: altlinux-menus
 Conflicts: kde4libs <= 4.6.2-alt6
@@ -119,6 +130,19 @@ Conflicts: kde4base-runtime-core <= 4.6.2-alt1
 
 %description kde4
 ALTLinux freedesktop.org menu for KDE4
+
+%package generic
+Summary: generic freedesktop menu
+Group: Graphical desktop/Other
+Provides: generic-freedesktop-menu
+Provides: enlightenment-freedesktop-menu
+Requires: %name
+Conflicts: altlinux-menus
+Conflicts: kde4libs <= 4.6.2-alt6
+Conflicts: kde4base-runtime-core <= 4.6.2-alt1
+
+%description generic
+ALTLinux freedesktop.org menu for a generic freedesktop-compliant DE
 
 %prep
 %setup
@@ -134,8 +158,9 @@ intltoolize
 %makeinstall_std
 #find_lang %name
 
-mkdir -p %buildroot%_sysconfdir/xdg/menus/{lxde,xfce,gnome,kde3}-applications-merged
-mkdir -p %buildroot%_sysconfdir/xdg/menus/applications-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,kde3-,lxde-,xfce-}applications-merged
+
+install -D -m644 layout/kde4-merged.menu %buildroot%_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
 
 # gnomish menu resources
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
@@ -194,13 +219,20 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/kde3-applications.menu
 %dir %_sysconfdir/xdg/menus/kde3-applications-merged
 
-%if_with kde4
-%files kde4
+%files generic
 %config %_sysconfdir/xdg/menus/applications.menu
 %dir %_sysconfdir/xdg/menus/applications-merged
+
+%if_with kde4
+%files kde4
+%config %_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
+%dir %_sysconfdir/kde4/xdg/menus/applications-merged
 %endif
 
 %changelog
+* Mon May 02 2011 Igor Vlasenko <viy@altlinux.ru> 0.26-alt1
+- added generic freedesktop menu (used by Enlightenment)
+
 * Sun May 01 2011 Igor Vlasenko <viy@altlinux.ru> 0.25-alt1
 - added KDE4 menu (disabled)
 
