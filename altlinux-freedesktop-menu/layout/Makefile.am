@@ -18,6 +18,7 @@ menu_DATA =					\
 	altlinux-system.menu			\
 	altlinux-utility.menu			\
 	applications.menu			\
+	enlightenment-applications.menu		\
 	gnome-applications.menu			\
 	kde3-applications.menu			\
 	lxde-applications.menu			\

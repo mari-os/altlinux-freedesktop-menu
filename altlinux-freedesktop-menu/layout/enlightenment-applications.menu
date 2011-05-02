@@ -1,0 +1,22 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+	<!-- Shallow Settings -->
+	<Menu>
+		<Name>ShallowSettings</Name>
+		<Directory>altlinux-settings-desktop.directory</Directory>
+		<Include>
+			<And>
+			<Category>Settings</Category>
+			</And>
+		</Include>
+	</Menu>
+	<!-- End Shallow Settings -->
+
+	<MergeFile>altlinux-applications.menu</MergeFile>
+
+	<MergeDir>/etc/xdg/menus/enlightenment-applications-merged</MergeDir>
+
+</Menu>

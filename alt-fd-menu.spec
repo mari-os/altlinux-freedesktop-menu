@@ -1,6 +1,6 @@
 %def_without kde4
 Name: altlinux-freedesktop-menu
-Version: 0.26
+Version: 0.27
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -135,7 +135,6 @@ ALTLinux freedesktop.org menu for KDE4
 Summary: generic freedesktop menu
 Group: Graphical desktop/Other
 Provides: generic-freedesktop-menu
-Provides: enlightenment-freedesktop-menu
 Requires: %name
 Conflicts: altlinux-menus
 Conflicts: kde4libs <= 4.6.2-alt6
@@ -223,6 +222,10 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/applications.menu
 %dir %_sysconfdir/xdg/menus/applications-merged
 
+%files enlightenment
+%config %_sysconfdir/xdg/menus/enlightenment-applications.menu
+%dir %_sysconfdir/xdg/menus/enlightenment-applications-merged
+
 %if_with kde4
 %files kde4
 %config %_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
@@ -230,6 +233,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Mon May 02 2011 Igor Vlasenko <viy@altlinux.ru> 0.27-alt1
+- added Enlightenment freedesktop menu
+
 * Mon May 02 2011 Igor Vlasenko <viy@altlinux.ru> 0.26-alt1
 - added generic freedesktop menu (used by Enlightenment)
 
