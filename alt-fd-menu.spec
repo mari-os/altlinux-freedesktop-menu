@@ -1,6 +1,6 @@
-%def_without kde4
+%def_with kde4
 Name: altlinux-freedesktop-menu
-Version: 0.28
+Version: 0.29
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -11,7 +11,6 @@ URL: http://altlinux.org/
 Source: %name-%version.tar
 Packager: Igor Vlasenko <viy@altlinux.org>
 
-BuildRequires(pre): rpm-build-licenses
 BuildRequires: intltool glib2-devel
 BuildArch: noarch
 
@@ -233,6 +232,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Tue May 03 2011 Igor Vlasenko <viy@altlinux.ru> 0.29-alt1
+- enabled KDE4 menu
+
 * Mon May 02 2011 Igor Vlasenko <viy@altlinux.ru> 0.28-alt1
 - Enlightenment freedesktop menu: does not support MergeDir yet
 
