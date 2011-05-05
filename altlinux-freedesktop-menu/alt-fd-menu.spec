@@ -1,6 +1,6 @@
 %def_with kde4
 Name: altlinux-freedesktop-menu
-Version: 0.29
+Version: 0.30
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -184,6 +184,7 @@ touch /etc/xdg/menus/lxde-applications.menu
 #doc AUTHORS ChangeLog NEWS README
 
 %files common
+%dir %_sysconfdir/xdg/menus/applications-merged
 %_datadir/desktop-directories/altlinux-*.directory
 %_datadir/desktop-directories/gnome/*.directory
 #config (noreplace) is too dangerous for unexpirienced user
@@ -219,7 +220,6 @@ touch /etc/xdg/menus/lxde-applications.menu
 
 %files generic
 %config %_sysconfdir/xdg/menus/applications.menu
-%dir %_sysconfdir/xdg/menus/applications-merged
 
 %files enlightenment
 %config %_sysconfdir/xdg/menus/enlightenment-applications.menu
@@ -232,6 +232,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Thu May 05 2011 Igor Vlasenko <viy@altlinux.ru> 0.30-alt1
+- merge sequence is set according to the menu policy draft
+
 * Tue May 03 2011 Igor Vlasenko <viy@altlinux.ru> 0.29-alt1
 - enabled KDE4 menu
 

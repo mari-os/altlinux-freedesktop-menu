@@ -18,6 +18,7 @@
 	<!-- End Shallow Settings -->
 
 	<MergeFile>altlinux-applications.menu</MergeFile>
+	<MergeDir>applications-merged</MergeDir>
 
 	<!-- kde customization -->
 
@@ -42,4 +43,6 @@
 	</Move>
 	<!-- end kde customization -->
 
-</Menu> <!-- End Applications -->
+	<MergeFile>applications-menueditor.menu</MergeFile>
+	<MergeFile>kde4-applications-menueditor.menu</MergeFile>
+</Menu>

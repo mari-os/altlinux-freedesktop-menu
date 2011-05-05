@@ -17,4 +17,6 @@
 
 	<MergeFile>altlinux-applications.menu</MergeFile>
 
+	<MergeFile>applications-menueditor.menu</MergeFile>
+	<MergeFile>enlightenment-applications-menueditor.menu</MergeFile>
 </Menu>

@@ -4,13 +4,6 @@
 <Menu>
     <Name>Xfce</Name>
 
-    <DefaultAppDirs/>
-    <DefaultDirectoryDirs/>
-
-    <Include>
-        <Category>X-Xfce-Toplevel</Category>
-    </Include>
-
     <Menu>
         <Name>ShallowSettings</Name>
         <Directory>altlinux-settings-desktop.directory</Directory>
@@ -34,6 +27,7 @@
     </Menu>
 
     <MergeFile>altlinux-applications.menu</MergeFile>
+    <MergeDir>applications-merged</MergeDir>
 
     <Layout>
         <Filename>xfrun4.desktop</Filename>
@@ -120,6 +114,12 @@
 	</Menu>
     </Menu>
 
-    <MergeDir>/etc/xdg/menus/xfce-applications-merged</MergeDir>
+    <Include>
+        <Category>X-Xfce-Toplevel</Category>
+    </Include>
+
+    <MergeDir>xfce-applications-merged</MergeDir>
+    <MergeFile>applications-menueditor.menu</MergeFile>
+    <MergeFile>xfce-applications-menueditor.menu</MergeFile>
 
 </Menu>

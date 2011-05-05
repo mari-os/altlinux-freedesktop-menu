@@ -17,13 +17,14 @@
 
   <!-- Read the global (common to all DEs) applications menu -->
   <MergeFile>altlinux-applications.menu</MergeFile>
+  <MergeDir>applications-merged</MergeDir>
 
   <!-- remove nested settings submenu -->
   <Menu>
     <Name>Settings</Name>
     <Deleted/>
   </Menu>
-  <!-- end remove shallow submenu -->
+  <!-- end remove nested settings submenu -->
 
   <!-- gnome tradition; let it be System Tools -->
   <Menu>
@@ -38,6 +39,8 @@
   </Move>
   <!-- End Accessibility -->
 
-  <MergeDir>/etc/xdg/menus/gnome-applications-merged</MergeDir>
+  <MergeDir>gnome-applications-merged</MergeDir>
+  <MergeFile>applications-menueditor.menu</MergeFile>
+  <MergeFile>gnome-applications-menueditor.menu</MergeFile>
 
-</Menu> <!-- End Applications -->
+</Menu>

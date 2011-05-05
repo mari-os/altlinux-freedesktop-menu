@@ -56,12 +56,13 @@
 	<!-- End Shallow Settings -->
 
 	<MergeFile>altlinux-applications.menu</MergeFile>
+	<MergeDir>applications-merged</MergeDir>
 
 	<!-- lxde customization -->
 
 	<Move>
 	  <Old>Accessories/Accessibility</Old>
-	  <New>Accessibility</New>
+	  <New>Universal Access</New>
 	</Move>
 
 	<Move>
@@ -87,6 +88,8 @@
 		<Menuname>ShallowSettings</Menuname>
 	</Layout>
 
-	<MergeDir>/etc/xdg/menus/lxde-applications-merged</MergeDir>
+	<MergeDir>lxde-applications-merged</MergeDir>
+	<MergeFile>applications-menueditor.menu</MergeFile>
+	<MergeFile>lxde-applications-menueditor.menu</MergeFile>
 
 </Menu> <!-- End Applications -->

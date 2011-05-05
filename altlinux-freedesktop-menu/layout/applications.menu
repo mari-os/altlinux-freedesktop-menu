@@ -16,5 +16,6 @@
 	<!-- End Shallow Settings -->
 
 	<MergeFile>altlinux-applications.menu</MergeFile>
-
+	<MergeDir>applications-merged</MergeDir>
+	<MergeFile>applications-menueditor.menu</MergeFile>
 </Menu>
