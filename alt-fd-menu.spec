@@ -1,6 +1,6 @@
 %def_with kde4
 Name: altlinux-freedesktop-menu
-Version: 0.30
+Version: 0.31
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -20,6 +20,7 @@ altlinux freedesktop.org menu
 %package common
 Summary: common files for altlinux freedesktop menus
 Group: Graphical desktop/Other
+Requires(pre): %name-icon-theme
 Requires: %name-icon-theme
 Requires: wm-common-freedesktop
 
@@ -29,6 +30,7 @@ Requires: wm-common-freedesktop
 %package nested-menu
 Summary: altlinux freedesktop menu with shallow layout
 Group: Graphical desktop/Other
+Requires(pre): %name-common
 Requires: %name-common
 Provides: %name
 
@@ -38,6 +40,7 @@ freedesktop.org compliant altlinux menu with nested layout
 %package shallow-menu
 Summary: altlinux freedesktop menu with shallow layout
 Group: Graphical desktop/Other
+Requires(pre): %name-common
 Requires: %name-common
 Provides: %name
 
@@ -47,6 +50,7 @@ freedesktop.org compliant altlinux menu with shallow layout
 %package gnomish-menu
 Summary: altlinux freedesktop menu with shallow layout (GNOME-based)
 Group: Graphical desktop/Other
+Requires(pre): %name-common
 Requires: %name-common
 Provides: %name
 Requires: gnome-menus-common
@@ -70,6 +74,7 @@ ALTLinux freedesktop.org menu for XFCE
 Summary: Enlightenment freedesktop menu
 Group: Graphical desktop/Other
 Provides: enlightenment-freedesktop-menu
+Requires(pre): %name
 Requires: %name
 
 %description enlightenment
@@ -107,6 +112,7 @@ Group: Graphical desktop/KDE
 Provides: kde3-freedesktop-menu
 Conflicts: kde3-menu-original
 Obsoletes: kde3-menu-original
+Requires(pre): %name
 Requires: %name
 Requires: kde3-menu-common
 Conflicts: kdelibs <= 3.5.12-alt8
@@ -120,7 +126,9 @@ Group: Graphical desktop/KDE
 Provides: kde4-freedesktop-menu
 Conflicts: kde4-menu-original
 Obsoletes: kde4-menu-original
+Requires(pre): %name
 Requires: %name
+Requires(pre): %name-generic
 Requires: %name-generic
 #Requires: kde4-menu-common
 Conflicts: altlinux-menus
@@ -134,6 +142,7 @@ ALTLinux freedesktop.org menu for KDE4
 Summary: generic freedesktop menu
 Group: Graphical desktop/Other
 Provides: generic-freedesktop-menu
+Requires(pre): %name
 Requires: %name
 Conflicts: altlinux-menus
 Conflicts: kde4libs <= 4.6.2-alt6
@@ -232,6 +241,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Sat May 07 2011 Igor Vlasenko <viy@altlinux.ru> 0.31-alt1
+- added more PreReq:'s to help smooth upgrade
+
 * Thu May 05 2011 Igor Vlasenko <viy@altlinux.ru> 0.30-alt1
 - merge sequence is set according to the menu policy draft
 
