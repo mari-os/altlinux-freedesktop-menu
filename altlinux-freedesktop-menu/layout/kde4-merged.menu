@@ -27,4 +27,6 @@
 	</Move>
 	<!-- end kde customization -->
 
+	<MergeFile>kde4-applications-menueditor.menu</MergeFile>
+
 </Menu>
