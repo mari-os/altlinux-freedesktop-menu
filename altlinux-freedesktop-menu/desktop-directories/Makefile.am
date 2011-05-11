@@ -156,6 +156,7 @@ directory_in_files =			\
 	altlinux-utility-file-tools.directory.in		\
 	altlinux-utility-archiving.directory.in		\
 	altlinux-utility-archiving-compression.directory.in		\
+	altlinux-utility-archiving-backup.directory.in		\
 	altlinux-utility-text-tools.directory.in		\
 	altlinux-utility-text-editor.directory.in		\
 	altlinux-utility-accessibility.directory.in		\
@@ -218,6 +219,7 @@ directory_in_files =			\
 	altlinux-kde.directory.in		\
 	altlinux-lxde.directory.in		\
 	altlinux-rox.directory.in		\
+	altlinux-enlightenment.directory.in		\
 	altlinux-multimedia-tv-and-radio.directory.in		\
 	altlinux-internet.directory.in		\
 	altlinux-settings-java.directory.in		\

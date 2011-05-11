@@ -17,5 +17,6 @@ AC_OUTPUT([
 Makefile
 layout/Makefile
 desktop-directories/Makefile
+desktop-directories-kde4/Makefile
 po/Makefile.in
 ])

@@ -1,6 +1,6 @@
 %def_with kde4
 Name: altlinux-freedesktop-menu
-Version: 0.32
+Version: 0.33
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -238,9 +238,13 @@ touch /etc/xdg/menus/lxde-applications.menu
 %files kde4
 %config %_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
 %dir %_sysconfdir/kde4/xdg/menus/applications-merged
+%_datadir/kde4/desktop-directories/altlinux-*.directory
 %endif
 
 %changelog
+* Wed May 11 2011 Igor Vlasenko <viy@altlinux.ru> 0.33-alt1
+- added private kde4 desktop-directories
+
 * Tue May 10 2011 Igor Vlasenko <viy@altlinux.ru> 0.32-alt1
 - removed mergeDir from kde4 menu
 
