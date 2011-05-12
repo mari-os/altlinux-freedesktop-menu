@@ -15,7 +15,18 @@
 	</Menu>
 	<!-- End Shallow Settings -->
 
-	<MergeFile>altlinux-applications.menu</MergeFile>
+	<!-- unfortunately, enlightenment e17-0.16.999.55225
+	     crashes on nested menu. uncomment when fixed.
+	     MergeFile>altlinux-applications.menu</MergeFile 
+
+	     until then, hardcode shallow.menu
+	  -->
+	<MergeFile>altlinux-applications-shallow.menu</MergeFile>
+
+	<!-- unfortunately, enlightenment e17-0.16.999.55225
+	     crashes on MergeDir. uncomment when fixed.
+	     MergeDir>xfce-applications-merged</MergeDir
+	  -->
 
 	<MergeFile>applications-menueditor.menu</MergeFile>
 	<MergeFile>enlightenment-applications-menueditor.menu</MergeFile>

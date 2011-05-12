@@ -1,6 +1,7 @@
+%def_with gnome2
 %def_with kde4
 Name: altlinux-freedesktop-menu
-Version: 0.33
+Version: 0.35
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -93,10 +94,11 @@ Requires: %name
 %description lxde
 ALTLinux freedesktop.org menu for LXDE
 
+%if_with gnome2
 %package gnome
 Summary: gnome freedesktop menu
 Group: Graphical desktop/GNOME
-Provides: gnome-freedesktop-menu
+Provides: gnome2-freedesktop-menu
 Provides: gnome-menus = 2.90.%version
 Conflicts: gnome-menus-default
 Obsoletes: gnome-menus-default < 2.90.%version
@@ -104,7 +106,21 @@ Obsoletes: gnome-menus-default < 2.90.%version
 Requires: %name
 
 %description gnome
-ALTLinux freedesktop.org menu for GNOME
+ALTLinux freedesktop.org menu for GNOME 2
+%else
+%package gnome
+Summary: gnome freedesktop menu
+Group: Graphical desktop/GNOME
+Provides: gnome-freedesktop-menu
+Provides: gnome-menus = 3.90.0.%version
+Conflicts: gnome-menus-default
+Obsoletes: gnome-menus-default < 3.90.0.%version
+
+Requires: %name
+
+%description gnome
+ALTLinux freedesktop.org menu for GNOME 3
+%endif
 
 %package kde3
 Summary: kde3 freedesktop menu
@@ -168,6 +184,7 @@ intltoolize
 mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,kde3-,lxde-,xfce-}applications-merged
 
 install -D -m644 layout/kde4-merged.menu %buildroot%_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
+install -D -m644 layout/gnome2-merged.menu %buildroot%_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
 
 # gnomish menu resources
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
@@ -222,6 +239,11 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/gnome-applications.menu
 %config %_sysconfdir/xdg/menus/settings.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
+%if_with gnome2
+%config %_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
+%else
+%exclude %_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
+%endif
 
 %files kde3
 %config %_sysconfdir/xdg/menus/kde3-applications.menu
@@ -242,6 +264,12 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Thu May 12 2011 Igor Vlasenko <viy@altlinux.ru> 0.35-alt1
+- conditional support for gnome 3
+
+* Thu May 12 2011 Igor Vlasenko <viy@altlinux.ru> 0.34-alt1
+- removed references to private kde applications (PATH)
+
 * Wed May 11 2011 Igor Vlasenko <viy@altlinux.ru> 0.33-alt1
 - added private kde4 desktop-directories
 

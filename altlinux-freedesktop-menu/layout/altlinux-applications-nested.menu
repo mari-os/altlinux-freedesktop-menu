@@ -9,9 +9,10 @@
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
 
-	<!-- kde applications; nested menu only -->
-	<AppDir>/usr/share/kde/applications</AppDir>
-	<AppDir>/usr/share/kde4/applications</AppDir>
+	<!-- kde applications; nested menu only
+	AppDir/usr/share/kde/applications/AppDir
+	AppDir/usr/share/kde4/applications/AppDir
+	-->
 
 	<DefaultLayout>
 		<Merge type="menus"/>

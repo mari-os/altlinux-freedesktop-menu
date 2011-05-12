@@ -1,0 +1,25 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+  <Name>Applications</Name>
+
+  <!-- remove nested settings submenu -->
+  <Menu>
+    <Name>Settings</Name>
+    <Deleted/>
+  </Menu>
+  <!-- end remove nested settings submenu -->
+
+  <Menu>
+    <Name>Other</Name>
+    <Exclude>
+	<Filename>yelp.desktop</Filename>
+	<Filename>nautilus-home.desktop</Filename>
+	<Filename>nautilus-computer.desktop</Filename>
+	<Filename>network-scheme.desktop</Filename>
+    </Exclude>
+  </Menu>
+ 
+</Menu>

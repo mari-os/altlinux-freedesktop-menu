@@ -19,13 +19,6 @@
   <MergeFile>altlinux-applications.menu</MergeFile>
   <MergeDir>applications-merged</MergeDir>
 
-  <!-- remove nested settings submenu -->
-  <Menu>
-    <Name>Settings</Name>
-    <Deleted/>
-  </Menu>
-  <!-- end remove nested settings submenu -->
-
   <!-- gnome tradition; let it be System Tools -->
   <Menu>
     <Name>System</Name>
