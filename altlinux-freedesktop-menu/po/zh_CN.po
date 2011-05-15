@@ -114,12 +114,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "生物"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "生物"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "方块类"
 
 msgid "Board Games"
 msgstr "棋类游戏"
@@ -242,6 +249,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "文档"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "经济"
@@ -771,11 +781,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "查看器"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "网络浏览"
+
 msgid "Web Browsing"
 msgstr "网络浏览"
 
 msgid "Web Development"
 msgstr "网站开发"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "网络浏览"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -875,9 +893,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "主张"
-
-#~ msgid "Backups"
-#~ msgstr "备份"
 
 #~ msgid "Benchmarking"
 #~ msgstr "评测"

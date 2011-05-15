@@ -118,12 +118,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "உயிரியல்"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "உயிரியல்"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "தொகுதிகள்"
 
 msgid "Board Games"
 msgstr "மேசை விளையாட்டுகள்"
@@ -246,6 +253,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "இடம்"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -778,11 +788,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "காட்டிகள்"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "வலை உலாவல்"
+
 msgid "Web Browsing"
 msgstr "வலை உலாவல்"
 
 msgid "Web Development"
 msgstr "வலை வளர்ச்சி"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "வலை உலாவல்"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -855,9 +873,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "கருவிகள்"
-
-#~ msgid "Backups"
-#~ msgstr "காப்பெடுத்தல்"
 
 #~ msgid "Programming"
 #~ msgstr "நிரலாக்கம்"

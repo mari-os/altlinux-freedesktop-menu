@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologi"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologi"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blokker"
 
 msgid "Board Games"
 msgstr "Brettspill"
@@ -242,6 +249,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentasjon"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Økonomi"
@@ -771,11 +781,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Framvisere"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Nettsurfing"
+
 msgid "Web Browsing"
 msgstr "Nettsurfing"
 
 msgid "Web Development"
 msgstr "Nettutvikling"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Nettsurfing"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -880,9 +898,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Forkynning"
-
-#~ msgid "Backups"
-#~ msgstr "Sikkerhetskopier"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Ytelsestesting"

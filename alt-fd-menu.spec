@@ -7,7 +7,7 @@
 %endif
 
 Name: altlinux-freedesktop-menu
-Version: 0.36
+Version: 0.37
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -254,6 +254,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Mon May 16 2011 Igor Vlasenko <viy@altlinux.ru> 0.37-alt1
+- aded Net > Blogs, Net > Security; stil p6 compatible
+
 * Sun May 15 2011 Igor Vlasenko <viy@altlinux.ru> 0.36-alt1
 - submenu adjustments; p6 compatible (use gnome2)
 

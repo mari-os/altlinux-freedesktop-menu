@@ -125,11 +125,19 @@ msgstr "Amostadori vìdeo"
 msgid "Audio Recorders"
 msgstr "Arregistradori de Sonus"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Backup"
+
 msgid "Biology"
 msgstr "Bioloxia"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Bioloxia"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Bioloxia"
 
 #, fuzzy
@@ -261,6 +269,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Documentadura"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Economia"
@@ -843,12 +854,19 @@ msgstr "Arregistradori de Vìdeo Digidali"
 msgid "Viewers"
 msgstr "KUIViewer"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Sfollyadori de màginis"
+
 msgid "Web Browsing"
 msgstr ""
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Adelantamentu"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -874,9 +892,6 @@ msgstr "Whois client"
 
 #~ msgid "Shells"
 #~ msgstr "Shell"
-
-#~ msgid "Backups"
-#~ msgstr "Backup"
 
 #~ msgid "Internationalization"
 #~ msgstr "Intrenatzionallisadura"
@@ -2572,9 +2587,6 @@ msgstr "Whois client"
 
 #~ msgid "IV"
 #~ msgstr "IV"
-
-#~ msgid "Image browser"
-#~ msgstr "Sfollyadori de màginis"
 
 #~ msgid "Drum machine styled audio sequencer"
 #~ msgstr "Sequencer àudio tipu \"drum machine\""

@@ -119,10 +119,16 @@ msgstr "CD Oýinçisi"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 #, fuzzy
@@ -246,6 +252,9 @@ msgid "Disc burning"
 msgstr ""
 
 msgid "Documentation"
+msgstr ""
+
+msgid "E17"
 msgstr ""
 
 msgid "Economy"
@@ -782,12 +791,19 @@ msgid "Viewers"
 msgstr "Resim Namaýyşçysy"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Web Ahtarçysy"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Web Ahtarçysy"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Programlemek"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

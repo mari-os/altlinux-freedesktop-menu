@@ -50,14 +50,14 @@
 	</Menu>
 	<Menu>
 		<Name>Chat</Name>
-		<Directory>altlinux-network-communication.directory</Directory>
+		<Directory>altlinux-network-chat.directory</Directory>
 		<Include>
 			<And>
 				<Category>Network</Category>
 				<Or>
-					<Category>InstantMessaging</Category>
 					<Category>Chat</Category>
 					<Category>IRCClient</Category>
+					<Category>InstantMessaging</Category>
 					<Category>HamRadio</Category>
 					<Category>Telephony</Category>
 					<Category>VideoConference</Category>
@@ -67,7 +67,6 @@
 	</Menu>
 	<Menu>
 		<Name>Dialup</Name>
-		<!-- ??? -->
 		<Directory>altlinux-network-dialup.directory</Directory>
 		<Include>
 			<And>
@@ -90,12 +89,36 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Security</Name>
+		<Directory>altlinux-security.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Category>Security</Category>
+				<Not><Category>Settings</Category></Not>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>WebDevelopment</Name>
+		<Directory>altlinux-network-webdevelopment.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Category>WebDevelopment</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Other</Name>
 		<Directory>altlinux-network-other.directory</Directory>
 		<Include>
 			<And>
 				<Category>Network</Category>
 				<Not><Category>Game</Category></Not>
+				<Not><Category>Monitor</Category></Not>
+				<Not><Category>Security</Category></Not>
+
 				<Not><Category>WebBrowser</Category></Not>
 				<Not><Category>Email</Category></Not>
 				<Not><Category>News</Category></Not>
@@ -115,22 +138,3 @@
 		</Include>
 	</Menu>
 </Menu>
-<!-- categories
-WebBrowser	A web browser	Network
-Email	Email application	Office;Network
-News	A news reader or a news ticker	Network
-Dialup	A dial-up program	Network
-TelephonyTools	Telephony tools, to dial a number, manage PBX, ...	Utility
-FileTransfer	Tools like FTP or P2P programs	Network
-P2P	A P2P program	Network
-InstantMessaging	An instant messaging client	Network
-Chat	A chat client	Network
-IRCClient	An IRC client	Network
-HamRadio	HAM radio software	Network or Audio
-Telephony	Telephony via PC	Network
-VideoConference	Video Conference software	Network
-RemoteAccess	A tool to remotely manage your PC	Network
-
-# not included; let it be Development
-WebDevelopment	A tool for web developers	Network or Development
--->

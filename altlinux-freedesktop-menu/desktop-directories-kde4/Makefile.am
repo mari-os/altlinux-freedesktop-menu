@@ -210,6 +210,7 @@ directory_in_files =			\
 	altlinux-publishing.directory.in		\
 	altlinux-projectmanagement.directory.in		\
 	altlinux-filetools.directory.in		\
+	altlinux-security.directory.in		\
 	altlinux-other.directory.in		\
 	altlinux-applications.directory.in		\
 	altlinux-screensaver.directory.in		\

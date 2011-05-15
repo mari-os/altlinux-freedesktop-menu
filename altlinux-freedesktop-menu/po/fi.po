@@ -115,12 +115,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologia"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologia"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Palikat"
 
 msgid "Board Games"
 msgstr "Lautapelit"
@@ -241,6 +248,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Ohjeet"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Talous"
@@ -770,11 +780,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Katselimet"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "WWW-selailu"
+
 msgid "Web Browsing"
 msgstr "WWW-selailu"
 
 msgid "Web Development"
 msgstr "WWW-kehitys"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "WWW-selailu"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -879,9 +897,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Asianajo"
-
-#~ msgid "Backups"
-#~ msgstr "Varmuuskopiot"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Suorituskyvyn mittaus"

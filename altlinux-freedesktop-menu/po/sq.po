@@ -117,12 +117,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologji"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologji"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blloqe"
 
 #, fuzzy
 msgid "Board Games"
@@ -247,6 +254,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentacioni"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -780,11 +790,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Shikues"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Shfletim Rrjeti"
+
 msgid "Web Browsing"
 msgstr "Shfletim Rrjeti"
 
 msgid "Web Development"
 msgstr "Zhvillim Rrjeti"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Shfletim Rrjeti"
 
 msgid "Wordprocessors"
 msgstr ""

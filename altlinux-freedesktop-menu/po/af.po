@@ -128,12 +128,19 @@ msgstr "Oudio Speler"
 msgid "Audio Recorders"
 msgstr "Klankopnemer"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologie"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Morfapplikasie"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Biologie"
 
 msgid "Board Games"
 msgstr "Bord Speletjies"
@@ -264,6 +271,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentasie"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -844,11 +854,18 @@ msgid "Viewers"
 msgstr "Skriftipe Besigter"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Web Blaaier"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Web Blaaier"
 
 msgid "Web Development"
 msgstr "Web Ontwikkeling"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"

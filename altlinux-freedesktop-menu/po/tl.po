@@ -113,11 +113,18 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biology"
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Lock"
 
 #, fuzzy
 msgid "Board Games"
@@ -241,6 +248,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentasyon"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Ekonomiya"
@@ -765,10 +775,16 @@ msgstr ""
 msgid "Viewers"
 msgstr "Mga viewer"
 
+msgid "Web Browsers"
+msgstr ""
+
 msgid "Web Browsing"
 msgstr ""
 
 msgid "Web Development"
+msgstr ""
+
+msgid "Web Publishing"
 msgstr ""
 
 msgid "Wordprocessors"
@@ -845,9 +861,6 @@ msgstr ""
 
 #~ msgid "Miscellaneous"
 #~ msgstr "Samut-samot"
-
-#~ msgid "Backups"
-#~ msgstr "Mga backup"
 
 #~ msgid "Internationalization"
 #~ msgstr "Internationalization"
@@ -2331,9 +2344,6 @@ msgstr ""
 
 #~ msgid "IV"
 #~ msgstr "IV"
-
-#~ msgid "Image browser"
-#~ msgstr "Pang-browse ng image o larawan"
 
 #~ msgid "JackEQ"
 #~ msgstr "JackEQ"

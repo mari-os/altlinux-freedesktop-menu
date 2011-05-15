@@ -71,6 +71,7 @@
 			<And>
 				<Category>System</Category>
 				<Category>Security</Category>
+				<Not><Category>Network</Category></Not>
 				<Not><Category>Settings</Category></Not>
 			</And>
 		</Include>

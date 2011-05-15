@@ -117,12 +117,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biológia"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biológia"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blokk-játékok"
 
 msgid "Board Games"
 msgstr "Táblajátékok"
@@ -243,6 +250,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentáció"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Gazdaság"
@@ -772,11 +782,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Nézegetők"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Webböngészés"
+
 msgid "Web Browsing"
 msgstr "Webböngészés"
 
 msgid "Web Development"
 msgstr "Web fejlesztés"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Webböngészés"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -877,9 +895,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Támogatás"
-
-#~ msgid "Backups"
-#~ msgstr "Mentések"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Teljesítménymérés"

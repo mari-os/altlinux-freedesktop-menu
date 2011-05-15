@@ -117,12 +117,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Биологија"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Биологија"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Со блокови"
 
 msgid "Board Games"
 msgstr "Игри на табла"
@@ -245,6 +252,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Документација"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Економија"
@@ -773,11 +783,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Прегледувачи"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Прелистување на интернет"
+
 msgid "Web Browsing"
 msgstr "Прелистување на интернет"
 
 msgid "Web Development"
 msgstr "Развој на веб апликации"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Прелистување на интернет"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -850,9 +868,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Застапување"
-
-#~ msgid "Backups"
-#~ msgstr "Резервни копии"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Тестирање на перформанси"

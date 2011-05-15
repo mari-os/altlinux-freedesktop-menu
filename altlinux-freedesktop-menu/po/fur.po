@@ -121,11 +121,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+#, fuzzy
+msgid "Backup"
+msgstr "Backup"
+
 msgid "Biology"
 msgstr "Biologjie"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Biologjie"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Biologjie"
 
 #, fuzzy
@@ -256,6 +264,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Documentazion"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -811,12 +822,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Visôr di figuris"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Sgarfadôr di files"
+
 msgid "Web Browsing"
 msgstr ""
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Svilup"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -838,9 +856,6 @@ msgstr ""
 
 #~ msgid "Shells"
 #~ msgstr "Shell"
-
-#~ msgid "Backups"
-#~ msgstr "Backup"
 
 #~ msgid "Wine"
 #~ msgstr "Wine"
@@ -932,9 +947,6 @@ msgstr ""
 
 #~ msgid "Browse the file system with the file manager"
 #~ msgstr "Sgarfe tal sisteme di files cul gjestôr di files"
-
-#~ msgid "File Browser"
-#~ msgstr "Sgarfadôr di files"
 
 #~ msgid "Get help with GNOME"
 #~ msgstr "Cjate jutori cun GNOME"

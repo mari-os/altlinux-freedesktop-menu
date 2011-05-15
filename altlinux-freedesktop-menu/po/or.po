@@ -123,10 +123,16 @@ msgstr "ସଂଗୀତ ବାଦକ"
 msgid "Audio Recorders"
 msgstr "ଧ୍ବନି ଅନୁଲିପିକାର"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 msgid "Board Games"
@@ -256,6 +262,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "ଦଲିଲକରଣ ବ୍ରାଉଜର"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -825,11 +834,18 @@ msgid "Viewers"
 msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "ଓ୍ବେବ ବ୍ରାଉଜର"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "ଓ୍ବେବ ବ୍ରାଉଜର"
 
 msgid "Web Development"
 msgstr "ୱେବ ବିକାଶ"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

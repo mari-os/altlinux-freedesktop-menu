@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "ბიოლოგია"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "ბიოლოგია"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "ბლოკები"
 
 msgid "Board Games"
 msgstr "მაგიდის თამაშები"
@@ -245,6 +252,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "დოკუმენტაცია"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -779,11 +789,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "მნახველები"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "ინტერნეტი"
+
 msgid "Web Browsing"
 msgstr "ინტერნეტი"
 
 msgid "Web Development"
 msgstr "ვებ-პროგრამირება"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "ინტერნეტი"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -853,9 +871,6 @@ msgstr ""
 
 #~ msgid "Miscellaneous"
 #~ msgstr "სხვდასხვა"
-
-#~ msgid "Backups"
-#~ msgstr "რეზერვირება"
 
 #~ msgid "X Window Utilities"
 #~ msgstr "X Window–ს ხელსაწყოები"

@@ -128,11 +128,19 @@ msgstr "Аудиоплеер"
 msgid "Audio Recorders"
 msgstr "Үн жазгыч"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Резервдик копиялар"
+
 msgid "Biology"
 msgstr "Биология"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Биология"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Биология"
 
 msgid "Board Games"
@@ -266,6 +274,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Документация"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Экономика"
@@ -850,11 +861,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Web Браузер"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Web Браузер"
 
 msgid "Web Development"
 msgstr "Веб өндүрмөлөр"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -887,9 +905,6 @@ msgstr "Почта клиенттери"
 
 #~ msgid "Advocacy"
 #~ msgstr "Advocacy"
-
-#~ msgid "Backups"
-#~ msgstr "Резервдик копиялар"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Бенчмарки"

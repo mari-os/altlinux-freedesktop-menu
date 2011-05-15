@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "જીવવિજ્ઞાન"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "જીવવિજ્ઞાન"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "ચોકઠાંઓ"
 
 msgid "Board Games"
 msgstr "બોર્ડ રમતો"
@@ -248,6 +255,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "સંદેશાવ્યવહાર"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -784,11 +794,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "દર્શકો"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "વેબ બ્રાઉઝિંગ"
+
 msgid "Web Browsing"
 msgstr "વેબ બ્રાઉઝિંગ"
 
 msgid "Web Development"
 msgstr "વેબ ડેવલોપમેન્ટ"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "વેબ બ્રાઉઝિંગ"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -1910,9 +1928,6 @@ msgstr ""
 
 #~ msgid "Molecule puzzle game"
 #~ msgstr "પરમાણું કોયડા રમત"
-
-#~ msgid "Balsa"
-#~ msgstr "બાલ્સા"
 
 #~ msgid "Camorama Webcam Viewer"
 #~ msgstr "કેમોરામા વેબકેમ દર્શક"

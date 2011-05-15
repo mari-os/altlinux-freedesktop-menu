@@ -119,12 +119,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "জীববিজ্ঞান"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "জীববিজ্ঞান"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "ব্লক"
 
 msgid "Board Games"
 msgstr "বোর্ডের খেলা"
@@ -247,6 +254,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "ডকুমেন্টেশন"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "অর্থনীতি"
@@ -777,11 +787,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "দর্শক"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "ওয়েব ব্রাউজিং"
+
 msgid "Web Browsing"
 msgstr "ওয়েব ব্রাউজিং"
 
 msgid "Web Development"
 msgstr "ওয়েব ডেভেলপমেন্ট"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "ওয়েব ব্রাউজিং"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -878,9 +896,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "আনুষঙ্গিক"
-
-#~ msgid "Backups"
-#~ msgstr "ব্যাক-আপ"
 
 # sgstr "অন্তর-রাষ্ট্রিয়করণ"
 #~ msgid "Internationalization"

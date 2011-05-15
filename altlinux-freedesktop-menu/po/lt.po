@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologija"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologija"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blokai"
 
 msgid "Board Games"
 msgstr "Stalo žaidimai"
@@ -244,6 +251,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentacija"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -776,11 +786,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Žiūryklės"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Naršymas tinkle"
+
 msgid "Web Browsing"
 msgstr "Naršymas tinkle"
 
 msgid "Web Development"
 msgstr "Tinklalapių kūrimas"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Naršymas tinkle"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -857,9 +875,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "Pagalbininkai"
-
-#~ msgid "Backups"
-#~ msgstr "Dubliavimas"
 
 #~ msgid "Programming"
 #~ msgstr "Programavimas"

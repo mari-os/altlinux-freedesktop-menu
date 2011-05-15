@@ -115,12 +115,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Bioloxía"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Bioloxía"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Bloques"
 
 msgid "Board Games"
 msgstr "Xogos de Taboleiro"
@@ -241,6 +248,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Documentación"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Economí­a"
@@ -770,11 +780,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Visores"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Navegación web"
+
 msgid "Web Browsing"
 msgstr "Navegación web"
 
 msgid "Web Development"
 msgstr "Desenvolvemento web"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Navegación web"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -874,9 +892,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Promoción"
-
-#~ msgid "Backups"
-#~ msgstr "Copias de seguridade"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Benchmarking"

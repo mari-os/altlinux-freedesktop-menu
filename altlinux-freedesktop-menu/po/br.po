@@ -111,12 +111,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Bevoniezh"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Bevoniezh"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blok"
 
 msgid "Board Games"
 msgstr "C'hoarioù taolenn"
@@ -240,6 +247,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Teuliadur"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Armerzh"
@@ -770,11 +780,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Diskwelerioù"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Kenrouedad"
+
 msgid "Web Browsing"
 msgstr "Kenrouedad"
 
 msgid "Web Development"
 msgstr "Diorren kenrouedad"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Kenrouedad"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -844,9 +862,6 @@ msgstr ""
 
 #~ msgid "Miscellaneous"
 #~ msgstr "A bep seurt"
-
-#~ msgid "Backups"
-#~ msgstr "Dielloù"
 
 #~ msgid "Bootstrapping"
 #~ msgstr "Loc'hañ"

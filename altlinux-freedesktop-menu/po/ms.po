@@ -126,11 +126,19 @@ msgstr "Pemain Audio"
 msgid "Audio Recorders"
 msgstr "Perekod Bunyi"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Salinan"
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Balsa"
 
 msgid "Board Games"
 msgstr "Permainan 'Board'"
@@ -262,6 +270,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentasi"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Ekonomi"
@@ -847,11 +858,18 @@ msgid "Viewers"
 msgstr "Pemapar Faks"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Pelungsur Web"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Pelungsur Web"
 
 msgid "Web Development"
 msgstr "Pembangunan Web"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -878,9 +896,6 @@ msgstr "Pelanggan Mel"
 
 #~ msgid "Shells"
 #~ msgstr "Shell"
-
-#~ msgid "Backups"
-#~ msgstr "Salinan"
 
 #~ msgid "Programming"
 #~ msgstr "Pengaturcaraan"
@@ -1890,9 +1905,6 @@ msgstr "Pelanggan Mel"
 
 #~ msgid "Manage Awn preferences, launchers, applets and themes"
 #~ msgstr "Uruskan tetapan Awn, pelancar Awn, applet Awn, dan tema Awn"
-
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
 #~ msgid "Barrage"
 #~ msgstr "Barrage"

@@ -117,11 +117,18 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "ចាក់សោ"
 
 #, fuzzy
 msgid "Board Games"
@@ -251,6 +258,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "ការ​អប់​រំ​"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -780,10 +790,16 @@ msgstr ""
 msgid "Viewers"
 msgstr "អ្នក​​មើល​"
 
+msgid "Web Browsers"
+msgstr ""
+
 msgid "Web Browsing"
 msgstr ""
 
 msgid "Web Development"
+msgstr ""
+
+msgid "Web Publishing"
 msgstr ""
 
 msgid "Wordprocessors"

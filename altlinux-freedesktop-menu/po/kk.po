@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Биология"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Биология"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Блок"
 
 #, fuzzy
 msgid "Board Games"
@@ -254,6 +261,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "Байланысу"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -793,11 +803,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Қараушылар"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Веб Браузерлер"
+
 msgid "Web Browsing"
 msgstr "Веб Браузерлер"
 
 msgid "Web Development"
 msgstr "Веб Бағдарламалау"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Веб Браузерлер"
 
 msgid "Wordprocessors"
 msgstr ""

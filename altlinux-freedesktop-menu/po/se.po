@@ -121,10 +121,16 @@ msgstr "Jietnačuojaheaddji"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 msgid "Board Games"
@@ -252,6 +258,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Veahkketeaksta"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -811,11 +820,18 @@ msgid "Viewers"
 msgstr "Fontačájeheaddji"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Fierpmádatlogan"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Fierpmádatlogan"
 
 msgid "Web Development"
 msgstr "Fierpmádatovdánahttin"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

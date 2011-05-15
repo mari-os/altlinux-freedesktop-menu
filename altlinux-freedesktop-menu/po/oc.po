@@ -121,11 +121,18 @@ msgstr "Media Player"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Balsa"
 
 #, fuzzy
 msgid "Board Games"
@@ -255,6 +262,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "Navegaire de documentacin"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -820,11 +830,18 @@ msgid "Viewers"
 msgstr "Visualizaira d'imatges"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Navegaire web"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Navegaire web"
 
 msgid "Web Development"
 msgstr "Desvolopament web"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -1371,9 +1388,6 @@ msgstr "Logicial de messatjariá"
 #~ msgstr ""
 #~ "Permet de gerir las preferéncias, los aviadors, las applets e los tèmas "
 #~ "Awn"
-
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
 #~ msgid "Feed reader"
 #~ msgstr "Legidor de fluses"

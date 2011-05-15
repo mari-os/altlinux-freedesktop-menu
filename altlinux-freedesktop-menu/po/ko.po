@@ -117,12 +117,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "생물학"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "생물학"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "블록 게임"
 
 msgid "Board Games"
 msgstr "보드 놀이"
@@ -245,6 +252,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "그놈 문서"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -778,11 +788,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "뷰어 프로그램"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "웹브라우저"
+
 msgid "Web Browsing"
 msgstr "웹브라우저"
 
 msgid "Web Development"
 msgstr "웹 개발"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "웹브라우저"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -879,9 +897,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "쓸만한 도구"
-
-#~ msgid "Backups"
-#~ msgstr "백업"
 
 #~ msgid "Programming"
 #~ msgstr "개발"

@@ -119,11 +119,18 @@ msgstr "የመገናኛ ብዙኃን አጫዋች"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "ባዮሎጂ"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "ባዮሎጂ"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "ባዮሎጂ"
 
 #, fuzzy
@@ -256,6 +263,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "ማስረጃ"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -807,12 +817,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "የምስል ተመልካች"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "የምስል መቃኛ"
+
 msgid "Web Browsing"
 msgstr ""
 
 #, fuzzy
 msgid "Web Development"
 msgstr "እድገት"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

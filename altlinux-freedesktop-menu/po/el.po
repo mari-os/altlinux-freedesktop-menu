@@ -117,12 +117,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Βιλογία"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Βιλογία"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blocks"
 
 msgid "Board Games"
 msgstr "Επιτραπέζια παιχνίδια"
@@ -243,6 +250,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Τεκμηρίωση"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Οικονομία"
@@ -771,11 +781,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Προβολείς"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Περιήγηση Ιστού"
+
 msgid "Web Browsing"
 msgstr "Περιήγηση Ιστού"
 
 msgid "Web Development"
 msgstr "Ανάπτυξη Ιστού"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Περιήγηση Ιστού"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -855,9 +873,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Advocacy"
-
-#~ msgid "Backups"
-#~ msgstr "Αντίγραφα ασφαλείας "
 
 #~ msgid "Benchmarking"
 #~ msgstr "Μέτρηση των Επιδόσεων"

@@ -116,10 +116,16 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 #, fuzzy
@@ -241,6 +247,9 @@ msgid "Disc burning"
 msgstr ""
 
 msgid "Documentation"
+msgstr ""
+
+msgid "E17"
 msgstr ""
 
 msgid "Economy"
@@ -779,12 +788,19 @@ msgid "Viewers"
 msgstr ""
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Vevlesari"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Vevlesari"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Menning"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

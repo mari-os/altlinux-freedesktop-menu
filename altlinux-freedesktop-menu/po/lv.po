@@ -131,12 +131,20 @@ msgstr "Audio atskaņotājs"
 msgid "Audio Recorders"
 msgstr "Skaņu Ierakstītājs"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Dublēšanas"
+
 msgid "Biology"
 msgstr "Bioloģija"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Morfinga programma"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Bioloģija"
 
 msgid "Board Games"
 msgstr "Galda spēles"
@@ -268,6 +276,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentācija"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -858,11 +869,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Tīmekļa pārlūkprogramma"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Tīmekļa pārlūkprogramma"
 
 msgid "Web Development"
 msgstr "Tīmekļa izstrāde"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -892,9 +910,6 @@ msgstr "Pasta Klients"
 
 #~ msgid "Utilities"
 #~ msgstr "Utilites"
-
-#~ msgid "Backups"
-#~ msgstr "Dublēšanas"
 
 #~ msgid "Programming"
 #~ msgstr "Progrmmēšana"

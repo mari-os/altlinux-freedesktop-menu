@@ -115,12 +115,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologie"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologie"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blokové"
 
 msgid "Board Games"
 msgstr "Deskové hry"
@@ -243,6 +250,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentace"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Ekonomie"
@@ -772,11 +782,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Prohlížeče"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Prohlížení webu"
+
 msgid "Web Browsing"
 msgstr "Prohlížení webu"
 
 msgid "Web Development"
 msgstr "Vývoj webu"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Prohlížení webu"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -881,9 +899,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Poradenství"
-
-#~ msgid "Backups"
-#~ msgstr "Zálohy"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Výkonnostní měření"

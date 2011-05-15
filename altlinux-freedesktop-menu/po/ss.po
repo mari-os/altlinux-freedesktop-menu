@@ -117,10 +117,16 @@ msgstr "Audio plejer"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 #, fuzzy
@@ -243,6 +249,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Kugcinwa"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -783,12 +792,19 @@ msgid "Viewers"
 msgstr ""
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Ibrawuza ye-Web "
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Ibrawuza ye-Web "
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Kundlondlobala"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

@@ -129,12 +129,20 @@ msgstr "پخش‌کنندۀ صوتی"
 msgid "Audio Recorders"
 msgstr "ضبط‌گر صدا"
 
+#, fuzzy
+msgid "Backup"
+msgstr "ذخیره‌های پشتیبانی"
+
 msgid "Biology"
 msgstr "زیست‌شناسی"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "نرم‌افزار مرفین"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "زیست‌شناسی"
 
 msgid "Board Games"
 msgstr "بازیهای تخته"
@@ -265,6 +273,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "نوشتارها"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "اقتصاد"
@@ -853,11 +864,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "مرورگر وب"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "مرورگر وب"
 
 msgid "Web Development"
 msgstr "توسعۀ وب"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -886,9 +904,6 @@ msgstr "کارگیر Whois "
 
 #~ msgid "Utilities"
 #~ msgstr "برنامه‌های سودمند"
-
-#~ msgid "Backups"
-#~ msgstr "ذخیره‌های پشتیبانی"
 
 #~ msgid "Internationalization"
 #~ msgstr "بین‌المللی کردن"

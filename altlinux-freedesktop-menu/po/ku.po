@@ -120,12 +120,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biyolojî"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biyolojî"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blok"
 
 msgid "Board Games"
 msgstr "Lîstikên Textê"
@@ -249,6 +256,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokûmantasyon"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -784,11 +794,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Temaşekar"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Gerîna Înternetê"
+
 msgid "Web Browsing"
 msgstr "Gerîna Înternetê"
 
 msgid "Web Development"
 msgstr "Pêşdebirina Înternetê"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Gerîna Înternetê"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -876,9 +894,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "Bernameyên Alîkar"
-
-#~ msgid "Backups"
-#~ msgstr "Paştgirîkirin"
 
 #~ msgid "Programming"
 #~ msgstr "Bernamekirin"

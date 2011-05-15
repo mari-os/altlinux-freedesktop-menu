@@ -121,11 +121,18 @@ msgstr "Аудио-изведувач"
 msgid "Audio Recorders"
 msgstr "Дуу Бичигч"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Балса"
 
 msgid "Board Games"
 msgstr "Хөлөгт тоглоом"
@@ -254,6 +261,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Баримтжуулалт"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -814,12 +824,19 @@ msgid "Viewers"
 msgstr "Зураг харагч"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Вэб-Хөтөч"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Вэб-Хөтөч"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Хөгжүүлэл"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -1306,9 +1323,6 @@ msgstr ""
 
 #~ msgid "Nibbles"
 #~ msgstr "Газарч"
-
-#~ msgid "Balsa"
-#~ msgstr "Балса"
 
 #~ msgid "Text Editor (administrator)"
 #~ msgstr "Текст боловсруулагч (администратор)"

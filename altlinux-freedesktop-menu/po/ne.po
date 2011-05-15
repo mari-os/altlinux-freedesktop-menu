@@ -117,12 +117,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "जीव शास्त्र"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "जीव शास्त्र"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "रोक्दछ"
 
 msgid "Board Games"
 msgstr "बोर्ड खेल"
@@ -250,6 +257,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "सञ्चार"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -786,11 +796,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "दृश्यकर्ता"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "वेब ब्राउजिङ"
+
 msgid "Web Browsing"
 msgstr "वेब ब्राउजिङ"
 
 msgid "Web Development"
 msgstr "वेब विकास"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "वेब ब्राउजिङ"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -2109,9 +2127,6 @@ msgstr ""
 
 #~ msgid "Develop software in an integrated development environment"
 #~ msgstr "एकीकृत विकास परिवेसमा सफ्टवेयर विकास गर्नुहोस्"
-
-#~ msgid "Balsa"
-#~ msgstr "बाल्सा"
 
 #~ msgid "E-Mail utility"
 #~ msgstr "इ-मेल युटिलिटि"

@@ -128,12 +128,20 @@ msgstr "Plejer tal-Video"
 msgid "Audio Recorders"
 msgstr "Irrekordja awdjo"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Kopji ta' sigurtà"
+
 msgid "Biology"
 msgstr "Bijoloġija"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Programm biex timmorfja minn stampa għall-oħra"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Bijoloġija"
 
 msgid "Board Games"
 msgstr "Logħob tal-boards"
@@ -264,6 +272,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentazzjoni"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -847,12 +858,19 @@ msgstr "Rekordjatur ta' videos diġitali"
 msgid "Viewers"
 msgstr "Werrej tal-fonts"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Werrej ta' stampi"
+
 msgid "Web Browsing"
 msgstr ""
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Żvilupp"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -878,9 +896,6 @@ msgstr "Klijent Whois"
 
 #~ msgid "Shells"
 #~ msgstr "Shells"
-
-#~ msgid "Backups"
-#~ msgstr "Kopji ta' sigurtà"
 
 #~ msgid "Servers"
 #~ msgstr "Servers"

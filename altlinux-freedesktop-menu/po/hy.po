@@ -120,11 +120,18 @@ msgstr "Մուլտիմեդիա փլեյեր"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Կենսաբանություն"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Կենսաբանություն"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Կենսաբանություն"
 
 #, fuzzy
@@ -253,6 +260,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Ձեռնարկ"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -815,12 +825,19 @@ msgid "Viewers"
 msgstr "Եռաչափ Քարտեզների Ցուցադրիչ"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Զննիչ"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Զննիչ"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Ծրագրավորում"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

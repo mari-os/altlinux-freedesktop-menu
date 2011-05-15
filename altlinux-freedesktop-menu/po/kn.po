@@ -123,10 +123,16 @@ msgstr "ಸಂಗೀತ ಚಾಲಕ"
 msgid "Audio Recorders"
 msgstr "ಧ್ವನಿ ರೆಕಾರ್ಡರ್"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 msgid "Board Games"
@@ -256,6 +262,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "ದಸ್ತಾವೇಜು ವೀಕ್ಷಕ"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -824,11 +833,18 @@ msgid "Viewers"
 msgstr "ಅಕ್ಷರಶೈಲಿ ವೀಕ್ಷಕ"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "ಜಾಾಲ ವೀಕ್ಷಕ"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "ಜಾಾಲ ವೀಕ್ಷಕ"
 
 msgid "Web Development"
 msgstr "ಜಾಲ ಅಭಿವೃದ್ಧಿ"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

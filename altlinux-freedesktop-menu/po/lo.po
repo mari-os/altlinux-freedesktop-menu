@@ -117,10 +117,16 @@ msgstr "ເຄື່ອງຫຼີ້ນ"
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 #, fuzzy
@@ -246,6 +252,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "ຄູ່ມື"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -792,12 +801,19 @@ msgid "Viewers"
 msgstr ""
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "ຮງກເບິ່ງຖານເບິ່ງຂໍ້ມູນ"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "ຮງກເບິ່ງຖານເບິ່ງຂໍ້ມູນ"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "ພັດທະນາໂປຣແກຣມ"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

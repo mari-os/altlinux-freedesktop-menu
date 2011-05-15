@@ -117,7 +117,7 @@ msgid "Astronomy software"
 msgstr "Астрономія"
 
 msgid "Audio Editing"
-msgstr "Редагування аудіо"
+msgstr "Обробка звуку"
 
 msgid "Audio Players"
 msgstr "Аудіоплеери"
@@ -125,11 +125,18 @@ msgstr "Аудіоплеери"
 msgid "Audio Recorders"
 msgstr "Запис звуку"
 
+msgid "Backup"
+msgstr "Резервне копіювання"
+
 msgid "Biology"
 msgstr "Біологія"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Біологія"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Біологія"
 
 msgid "Board Games"
@@ -255,6 +262,10 @@ msgstr "Запис дисків"
 msgid "Documentation"
 msgstr "Документація"
 
+#, fuzzy
+msgid "E17"
+msgstr "gl-117"
+
 msgid "Economy"
 msgstr "Економіка"
 
@@ -305,7 +316,7 @@ msgid "Falling blocks games"
 msgstr ""
 
 msgid "File Managers"
-msgstr "Файл-менеджери"
+msgstr "Файлові менеджери"
 
 msgid "File Systems"
 msgstr "Файлові системи"
@@ -798,7 +809,7 @@ msgid "Video Conferences"
 msgstr "Відео конференціі"
 
 msgid "Video Editing"
-msgstr "Редагування відео"
+msgstr "Обробка відео"
 
 msgid "Video Players"
 msgstr "Відеоплеери"
@@ -810,11 +821,18 @@ msgid "Viewers"
 msgstr "Переглядачі"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Переглядач тенет"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Перегляд тенет"
 
 msgid "Web Development"
 msgstr "Розробка веб-сторінок"
+
+msgid "Web Publishing"
+msgstr "Блоги"
 
 msgid "Wordprocessors"
 msgstr "Текстові редактори"
@@ -1381,9 +1399,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Background"
 #~ msgstr "Тло"
-
-#~ msgid "Backup"
-#~ msgstr "Резервне копіювання"
 
 #~ msgid "Balsa Mail Client"
 #~ msgstr "Клієнт електронної пошти Balsa"
@@ -2136,10 +2151,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Dynamic Dialog Editor"
 #~ msgstr "Редактор активних діалогів"
-
-#, fuzzy
-#~ msgid "E-17"
-#~ msgstr "gl-117"
 
 #~ msgid "E-Areas"
 #~ msgstr "E-Areas"
@@ -6093,9 +6104,6 @@ msgstr "Клієнт IRC"
 #~ msgid "Web Bookmarks"
 #~ msgstr "Закладки у Тенетах"
 
-#~ msgid "Web Browser"
-#~ msgstr "Переглядач тенет"
-
 #~ msgid "Web Development Environment"
 #~ msgstr "Розробка Web"
 
@@ -9393,9 +9401,6 @@ msgstr "Клієнт IRC"
 
 #~ msgid "Advocacy"
 #~ msgstr "Захист"
-
-#~ msgid "Backups"
-#~ msgstr "Резервні копії"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Вимірювання швидкодії"

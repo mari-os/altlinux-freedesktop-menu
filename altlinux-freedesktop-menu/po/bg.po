@@ -120,12 +120,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Биология"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Биология"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Блокчета"
 
 msgid "Board Games"
 msgstr "Игри на дъска"
@@ -247,6 +254,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Документация"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Икономика"
@@ -776,11 +786,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Програми за преглед"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Сърфиране в Интернет"
+
 msgid "Web Browsing"
 msgstr "Сърфиране в Интернет"
 
 msgid "Web Development"
 msgstr "Уеб разработка"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Сърфиране в Интернет"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -880,9 +898,6 @@ msgstr ""
 
 #~ msgid "Advocacy"
 #~ msgstr "Защита"
-
-#~ msgid "Backups"
-#~ msgstr "Архиви"
 
 #~ msgid "Community and services"
 #~ msgstr "Общност и услуги"

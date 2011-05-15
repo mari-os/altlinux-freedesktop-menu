@@ -125,11 +125,18 @@ msgstr "Klangafspeler"
 msgid "Audio Recorders"
 msgstr "Tonopnehmer"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blogilo"
 
 msgid "Board Games"
 msgstr "Brettspelen"
@@ -263,6 +270,9 @@ msgstr "Brennen"
 
 msgid "Documentation"
 msgstr "Dokmentatschoon"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -836,11 +846,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Nettkieker"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Nettkieker"
 
 msgid "Web Development"
 msgstr "Nett-Utwickeln"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -1131,9 +1148,6 @@ msgstr "Nettpostprogramm"
 
 #~ msgid "A KDE Blogging Client"
 #~ msgstr "En Nettdaagbook-Programm för KDE"
-
-#~ msgid "Blogilo"
-#~ msgstr "Blogilo"
 
 #~ msgid "KDE Periodic Table of Elements"
 #~ msgstr "Periodensysteem vun de Elementen för KDE"

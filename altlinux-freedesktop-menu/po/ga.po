@@ -115,12 +115,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Bitheolaíocht"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Bitheolaíocht"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Bloic"
 
 msgid "Board Games"
 msgstr "Cluichí Cláir"
@@ -244,6 +251,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Áit"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -778,11 +788,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Amharcáin"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Brabhsáil an Ghréasáin"
+
 msgid "Web Browsing"
 msgstr "Brabhsáil an Ghréasáin"
 
 msgid "Web Development"
 msgstr "Forbairt Ghréasáin"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Brabhsáil an Ghréasáin"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -852,9 +870,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "Uirlisí"
-
-#~ msgid "Backups"
-#~ msgstr "Cúltacaí"
 
 #~ msgid "Programming"
 #~ msgstr "Ríomhchlárú"

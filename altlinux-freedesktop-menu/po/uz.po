@@ -127,11 +127,19 @@ msgstr "Audio-pleyer"
 msgid "Audio Recorders"
 msgstr "Tovushni yozish"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Zahira"
+
 msgid "Biology"
 msgstr "Biologiya"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Biologiya"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Biologiya"
 
 msgid "Board Games"
@@ -264,6 +272,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Qoʻllanmalar"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Iqtisodiyot"
@@ -842,11 +853,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Veb-brauzer"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Veb-brauzer"
 
 msgid "Web Development"
 msgstr "Veb uchun tuzish"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -873,9 +891,6 @@ msgstr "Xat-xabar dasturlari"
 
 #~ msgid "Shells"
 #~ msgstr "Konsollar"
-
-#~ msgid "Backups"
-#~ msgstr "Zahira"
 
 #~ msgid "Generic Linux Documentation"
 #~ msgstr "Linux uchun umumiy qoʻllanma"

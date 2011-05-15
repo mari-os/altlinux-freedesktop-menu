@@ -130,12 +130,20 @@ msgstr "Rəsm Çalğıcısı"
 msgid "Audio Recorders"
 msgstr "Səs Qeyd Edicisi"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Ehtiyatlamalar"
+
 msgid "Biology"
 msgstr "Biyologiya"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Morph proqramı"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Biyologiya"
 
 msgid "Board Games"
 msgstr "Lüvhə Oyunları"
@@ -267,6 +275,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Sənədlər"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -856,12 +867,19 @@ msgid "Viewers"
 msgstr "DjVu Nümayişçisi"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Veb Səyyahı"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Veb Səyyahı"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "İnkişaf"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -888,9 +906,6 @@ msgstr "Whois alıcısı"
 
 #~ msgid "Shells"
 #~ msgstr "Qabıqlar"
-
-#~ msgid "Backups"
-#~ msgstr "Ehtiyatlamalar"
 
 #~ msgid "Programming"
 #~ msgstr "Proqramlaşdırma"

@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Sinh học"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Sinh học"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Khối"
 
 msgid "Board Games"
 msgstr "Trò chơi bảng"
@@ -244,6 +251,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Tài liệu"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Kinh tế học"
@@ -775,11 +785,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Bộ xem"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Duyệt Mạng"
+
 msgid "Web Browsing"
 msgstr "Duyệt Mạng"
 
 msgid "Web Development"
 msgstr "Phát triển WWW"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Duyệt Mạng"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -876,9 +894,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "Các tiện ích"
-
-#~ msgid "Backups"
-#~ msgstr "Sao lưu"
 
 #~ msgid "Internationalization"
 #~ msgstr "Quốc tế hóa"

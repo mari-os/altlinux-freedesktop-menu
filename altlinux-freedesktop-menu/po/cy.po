@@ -133,12 +133,20 @@ msgstr "Chwaraewr Sain"
 msgid "Audio Recorders"
 msgstr "Recordydd sain"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Wrth gefn"
+
 msgid "Biology"
 msgstr "Bioleg"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Meddalwedd Morffio"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Bioleg"
 
 msgid "Board Games"
 msgstr "Gemau Bwrdd"
@@ -271,6 +279,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dogfennau"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Economi"
@@ -864,11 +875,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Porwr Gwe"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Porwr Gwe"
 
 msgid "Web Development"
 msgstr "Datblygu'r We"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -901,9 +919,6 @@ msgstr "Rhaglenni e-bost"
 
 #~ msgid "Advocacy"
 #~ msgstr "Eiriolaeth"
-
-#~ msgid "Backups"
-#~ msgstr "Wrth gefn"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Meincnodi"

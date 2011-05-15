@@ -116,12 +116,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "ജീവശാസ്ത്രം"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "ജീവശാസ്ത്രം"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "കട്ടകള്‍"
 
 msgid "Board Games"
 msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
@@ -248,6 +255,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "ആശയവിനിമയം"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -783,11 +793,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "ദര്‍ശിനികള്‍"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "വെബില്‍ പരതുക"
+
 msgid "Web Browsing"
 msgstr "വെബില്‍ പരതുക"
 
 msgid "Web Development"
 msgstr "വെബ്ബിനുള്ള വികസനം"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "വെബില്‍ പരതുക"
 
 msgid "Wordprocessors"
 msgstr ""

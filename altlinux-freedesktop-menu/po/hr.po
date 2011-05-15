@@ -110,12 +110,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologija"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologija"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blokovi"
 
 msgid "Board Games"
 msgstr "Igre na tabli"
@@ -238,6 +245,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentacija"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -769,11 +779,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Poglednici"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Pregledavanje weba"
+
 msgid "Web Browsing"
 msgstr "Pregledavanje weba"
 
 msgid "Web Development"
 msgstr "Web razvoj"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Pregledavanje weba"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -850,9 +868,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "Korisni programi"
-
-#~ msgid "Backups"
-#~ msgstr "Sigurnosne kopije"
 
 #~ msgid "Programming"
 #~ msgstr "Programiranje"

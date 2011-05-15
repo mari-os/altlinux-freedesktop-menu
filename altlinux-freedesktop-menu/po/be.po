@@ -120,11 +120,19 @@ msgstr "Прайгравальнік дыскаў"
 msgid "Audio Recorders"
 msgstr "Праграма гуказапісу"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Чорны"
+
 msgid "Biology"
 msgstr "Біялогія"
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Карты"
 
 msgid "Board Games"
 msgstr "Настольныя гульні"
@@ -255,6 +263,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Дакумэнтацыя"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -806,11 +817,18 @@ msgstr "Праграма гуказапісу"
 msgid "Viewers"
 msgstr "Праглядчыкі"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Відарысы"
+
 msgid "Web Browsing"
 msgstr "Прагляд Web"
 
 msgid "Web Development"
 msgstr "Распрацоўка Web"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -1036,10 +1054,6 @@ msgstr "Калькулятар"
 
 #~ msgid "Background"
 #~ msgstr "Фон"
-
-#, fuzzy
-#~ msgid "Backup"
-#~ msgstr "Чорны"
 
 #, fuzzy
 #~ msgid "Beep Media Player"
@@ -4431,10 +4445,6 @@ msgstr "Калькулятар"
 #~ msgstr "K Слоўнік"
 
 #, fuzzy
-#~ msgid "BlobWars"
-#~ msgstr "Карты"
-
-#, fuzzy
 #~ msgid "Distcc monitor"
 #~ msgstr "Сыстэмны манітор"
 
@@ -4755,8 +4765,9 @@ msgstr "Калькулятар"
 #~ msgid "ATerm"
 #~ msgstr "XTerm"
 
+#, fuzzy
 #~ msgid "Balsa"
-#~ msgstr "Balsa"
+#~ msgstr "Чорны"
 
 #, fuzzy
 #~ msgid "Faces"

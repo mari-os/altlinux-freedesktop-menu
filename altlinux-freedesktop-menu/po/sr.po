@@ -130,12 +130,20 @@ msgstr "Аудио плејер"
 msgid "Audio Recorders"
 msgstr "Снимање звука"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Бекап"
+
 msgid "Biology"
 msgstr "Биологија"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Софтвер за морфирање"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Биологија"
 
 msgid "Board Games"
 msgstr "Игре на табли"
@@ -271,6 +279,9 @@ msgstr "Резање дискова"
 
 msgid "Documentation"
 msgstr "Документација"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -862,11 +873,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Интернет прегледник"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Интернет прегледник"
 
 msgid "Web Development"
 msgstr "Веб развој"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -896,9 +914,6 @@ msgstr "Поштански клијент"
 
 #~ msgid "Utilities"
 #~ msgstr "Алати"
-
-#~ msgid "Backups"
-#~ msgstr "Бекап"
 
 #~ msgid "Programming"
 #~ msgstr "Програмирање"

@@ -119,10 +119,16 @@ msgstr "Umdlali we Midia"
 msgid "Audio Recorders"
 msgstr "Isishicileli seSandi"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 #, fuzzy
@@ -255,6 +261,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Ulwenziwo lwamaxwebhu"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -827,12 +836,19 @@ msgid "Viewers"
 msgstr "Umboniseli we DjVu"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Umkhangeli zincwadi we Web"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Umkhangeli zincwadi we Web"
 
 #, fuzzy
 msgid "Web Development"
 msgstr "Ubhekiso phambili"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"

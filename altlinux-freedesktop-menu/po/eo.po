@@ -113,12 +113,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "Biologio"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Biologio"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Blokoj"
 
 msgid "Board Games"
 msgstr "Tabuloludoj"
@@ -241,6 +248,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentaro"
+
+msgid "E17"
+msgstr ""
 
 #, fuzzy
 msgid "Economy"
@@ -774,11 +784,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "Montriloj"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Ret-foliumado"
+
 msgid "Web Browsing"
 msgstr "Ret-foliumado"
 
 msgid "Web Development"
 msgstr "Interreto (programado)"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "Ret-foliumado"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -855,9 +873,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "Utilaĵoj"
-
-#~ msgid "Backups"
-#~ msgstr "Savkopioj"
 
 #~ msgid "Programming"
 #~ msgstr "Programado"

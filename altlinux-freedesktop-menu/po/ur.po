@@ -116,11 +116,17 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 #, fuzzy
 msgid "Biology"
 msgstr "گیگولو"
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 msgid "Board Games"
@@ -241,6 +247,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "دستاویزات كا مجموعه"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -777,10 +786,17 @@ msgid "Viewers"
 msgstr "تصاویر منظر کار"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "ویب براؤزر"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "ویب براؤزر"
 
 msgid "Web Development"
+msgstr ""
+
+msgid "Web Publishing"
 msgstr ""
 
 msgid "Wordprocessors"

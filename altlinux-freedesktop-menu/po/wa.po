@@ -133,11 +133,19 @@ msgstr "Djouweu d' muzike"
 msgid "Audio Recorders"
 msgstr "Eredjistreu d' sons"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Copeyes di såvrité"
+
 msgid "Biology"
 msgstr "Biyolodjeye"
 
 #, fuzzy
 msgid "Biology software"
+msgstr "Biyolodjeye"
+
+#, fuzzy
+msgid "Blogs"
 msgstr "Biyolodjeye"
 
 msgid "Board Games"
@@ -271,6 +279,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Documintåcion"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Economeye"
@@ -850,11 +861,18 @@ msgid "Viewers"
 msgstr "Håyneu di fontes"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Betchteu waibe"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Betchteu waibe"
 
 msgid "Web Development"
 msgstr "Programaedje waibe"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -881,9 +899,6 @@ msgstr "Cliyint «whois»"
 
 #~ msgid "Shells"
 #~ msgstr "Shells"
-
-#~ msgid "Backups"
-#~ msgstr "Copeyes di såvrité"
 
 #~ msgid "Internationalization"
 #~ msgstr "Eternåcionålijhaedje"

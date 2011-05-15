@@ -9,7 +9,7 @@
 		<Directory>altlinux-development-web-development.directory</Directory>
 		<Include>
 			<And>
-				<!--<Category>Development</Category>-->
+				<Category>Development</Category>
 				<Category>WebDevelopment</Category>
 			</And>
 		</Include>
@@ -142,9 +142,11 @@
 				<Not><Category>GUIDesigner</Category></Not>
 
 				<Not><Category>Utility</Category></Not>
+				<Not><Category>Science</Category></Not>
+
+				<Not><Category>Electronics</Category></Not>
+				<Not><Category>Engineering</Category></Not>
 			</And>
 		</Include>
 	</Menu>
 </Menu>
-<!-- categories
--->

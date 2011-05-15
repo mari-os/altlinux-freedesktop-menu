@@ -114,11 +114,18 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "जीव विज्ञान"
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "तालाबंद"
 
 msgid "Board Games"
 msgstr "बिसात के खेल"
@@ -238,6 +245,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "प्रलेखन"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "वित्तशास्त्र"
@@ -756,11 +766,17 @@ msgstr ""
 msgid "Viewers"
 msgstr "प्रदर्शक"
 
+msgid "Web Browsers"
+msgstr ""
+
 msgid "Web Browsing"
 msgstr ""
 
 msgid "Web Development"
 msgstr "वेब स्थल विकास"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -842,9 +858,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "यूटिलिटीज़"
-
-#~ msgid "Backups"
-#~ msgstr "बैक-अप"
 
 #~ msgid "Internationalization"
 #~ msgstr "अंतर-राष्ट्रयीकरण "

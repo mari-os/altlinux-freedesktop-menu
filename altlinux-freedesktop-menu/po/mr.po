@@ -114,11 +114,18 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
 msgstr ""
+
+#, fuzzy
+msgid "Blogs"
+msgstr "टाळे"
 
 msgid "Board Games"
 msgstr "बोर्ड खेळ"
@@ -244,6 +251,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "शिक्षण"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -769,11 +779,17 @@ msgstr ""
 msgid "Viewers"
 msgstr "दर्शक"
 
+msgid "Web Browsers"
+msgstr ""
+
 msgid "Web Browsing"
 msgstr ""
 
 msgid "Web Development"
 msgstr "वेब विकास"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

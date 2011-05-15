@@ -114,12 +114,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "ชีววิทยา"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "ชีววิทยา"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "บล็อค"
 
 msgid "Board Games"
 msgstr "เกมกระดาน"
@@ -241,6 +248,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "คู่มือ"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "เศรษฐศาสตร์"
@@ -771,11 +781,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "โปรแกรมแสดง"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "เว็บเบราว์เซอร์"
+
 msgid "Web Browsing"
 msgstr "เว็บเบราว์เซอร์"
 
 msgid "Web Development"
 msgstr "การพัฒนาเว็บ"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "เว็บเบราว์เซอร์"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -872,9 +890,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "โปรแกรมอรรถประโยชน์"
-
-#~ msgid "Backups"
-#~ msgstr "ทำสำเนา"
 
 #~ msgid "Programming"
 #~ msgstr "เขียนโปรแกรม"

@@ -120,10 +120,16 @@ msgstr "সঙ্গীত প্লেয়াৰ"
 msgid "Audio Recorders"
 msgstr "শব্দ ৰেকৰ্ডকাৰী"
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr ""
 
 msgid "Biology software"
+msgstr ""
+
+msgid "Blogs"
 msgstr ""
 
 msgid "Board Games"
@@ -252,6 +258,9 @@ msgstr ""
 #, fuzzy
 msgid "Documentation"
 msgstr "ডকুমেন্ট প্ৰদৰ্শন ব্যবস্থা"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr ""
@@ -817,11 +826,18 @@ msgid "Viewers"
 msgstr "ফন্ট"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "ৱেব চৰক"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "ৱেব চৰক"
 
 msgid "Web Development"
 msgstr "ৱেব বিকাশ"
+
+msgid "Web Publishing"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""

@@ -130,7 +130,7 @@ msgid "Astronomy software"
 msgstr "Астрономия"
 
 msgid "Audio Editing"
-msgstr "Редактирование аудио"
+msgstr "Обработка звука"
 
 msgid "Audio Players"
 msgstr "Аудиоплееры"
@@ -139,12 +139,21 @@ msgid "Audio Recorders"
 msgstr "Запись звука"
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
+msgid "Backup"
+msgstr "Резервное копирование"
+
+# Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "Biology"
 msgstr "Биология"
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 #, fuzzy
 msgid "Biology software"
+msgstr "Биология"
+
+# Found in /home/zerg/tmp/tmp-menu-files/menu
+#, fuzzy
+msgid "Blogs"
 msgstr "Биология"
 
 msgid "Board Games"
@@ -291,6 +300,10 @@ msgstr "Запись дисков"
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "Documentation"
 msgstr "Документация"
+
+#, fuzzy
+msgid "E17"
+msgstr "E-17"
 
 msgid "Economy"
 msgstr "Экономика"
@@ -890,7 +903,7 @@ msgid "Video Conferences"
 msgstr "Видеоконференции"
 
 msgid "Video Editing"
-msgstr "Редактирование видео"
+msgstr "Обработка видео"
 
 msgid "Video Players"
 msgstr "Видеоплееры"
@@ -901,11 +914,19 @@ msgstr "Запись видео"
 msgid "Viewers"
 msgstr "Программы просмотра"
 
+# Found in /home/zerg/tmp/tmp-menu-files/kdebase-useragent
+#, fuzzy
+msgid "Web Browsers"
+msgstr "Обозреватель Web"
+
 msgid "Web Browsing"
 msgstr "Просмотр веб"
 
 msgid "Web Development"
 msgstr "Веб-разработка"
+
+msgid "Web Publishing"
+msgstr "Блоги"
 
 # Found in /home/zerg/tmp/tmp-menu-files/oowrite
 msgid "Wordprocessors"
@@ -1715,10 +1736,6 @@ msgstr "Клиент DC"
 # Found in /home/zerg/tmp/tmp-menu-files/WindowMaker
 #~ msgid "Background"
 #~ msgstr "Фон"
-
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#~ msgid "Backup"
-#~ msgstr "Резервное копирование"
 
 #~ msgid "Balsa Mail Client"
 #~ msgstr "Почтовый клиент Balsa"
@@ -2654,9 +2671,6 @@ msgstr "Клиент DC"
 
 #~ msgid "Dynamic Dialog Editor"
 #~ msgstr "Редактор динамических диалогов"
-
-#~ msgid "E-17"
-#~ msgstr "E-17"
 
 #~ msgid "E-Areas"
 #~ msgstr "E-Areas"
@@ -7403,10 +7417,6 @@ msgstr "Клиент DC"
 #~ msgid "Web Bookmarks"
 #~ msgstr "Web-закладки"
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdebase-useragent
-#~ msgid "Web Browser"
-#~ msgstr "Обозреватель Web"
-
 # Found in /home/zerg/tmp/tmp-menu-files/kquanta
 #~ msgid "Web Development Environment"
 #~ msgstr "Среда разработки Web"
@@ -10237,9 +10247,6 @@ msgstr "Клиент DC"
 
 #~ msgid "Advocacy"
 #~ msgstr "Адвокатура"
-
-#~ msgid "Backups"
-#~ msgstr "Резервирование"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Бенчмарки"

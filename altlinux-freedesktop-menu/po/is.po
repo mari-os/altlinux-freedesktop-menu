@@ -130,12 +130,20 @@ msgstr "Tónlistarspilari"
 msgid "Audio Recorders"
 msgstr "Hljóðupptaka"
 
+#, fuzzy
+msgid "Backup"
+msgstr "Afrit"
+
 msgid "Biology"
 msgstr "Líffræði"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "Morphing hugbúnaður"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "Líffræði"
 
 msgid "Board Games"
 msgstr "Borðleikir"
@@ -267,6 +275,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "Handbækur"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Hagfræði"
@@ -858,11 +869,18 @@ msgid "Viewers"
 msgstr "KUIViewer"
 
 #, fuzzy
+msgid "Web Browsers"
+msgstr "Vafri"
+
+#, fuzzy
 msgid "Web Browsing"
 msgstr "Vafri"
 
 msgid "Web Development"
 msgstr "Vefhönnun"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
 msgid "Wordprocessors"
@@ -895,9 +913,6 @@ msgstr "Póstforrit"
 
 #~ msgid "Advocacy"
 #~ msgstr "Ráðgjöf"
-
-#~ msgid "Backups"
-#~ msgstr "Afrit"
 
 #~ msgid "Benchmarking"
 #~ msgstr "Afkastamælingar"

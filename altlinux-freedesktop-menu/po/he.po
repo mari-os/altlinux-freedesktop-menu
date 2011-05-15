@@ -119,12 +119,19 @@ msgstr ""
 msgid "Audio Recorders"
 msgstr ""
 
+msgid "Backup"
+msgstr ""
+
 msgid "Biology"
 msgstr "ביולוגיה"
 
 #, fuzzy
 msgid "Biology software"
 msgstr "ביולוגיה"
+
+#, fuzzy
+msgid "Blogs"
+msgstr "בלוקים"
 
 msgid "Board Games"
 msgstr "משחקי לוח"
@@ -245,6 +252,9 @@ msgstr ""
 
 msgid "Documentation"
 msgstr "תיעוד"
+
+msgid "E17"
+msgstr ""
 
 msgid "Economy"
 msgstr "כלכלה"
@@ -773,11 +783,19 @@ msgstr ""
 msgid "Viewers"
 msgstr "כלי צפייה"
 
+#, fuzzy
+msgid "Web Browsers"
+msgstr "דפדפני רשת"
+
 msgid "Web Browsing"
 msgstr "דפדפני רשת"
 
 msgid "Web Development"
 msgstr "פיתוח אתרים"
+
+#, fuzzy
+msgid "Web Publishing"
+msgstr "דפדפני רשת"
 
 msgid "Wordprocessors"
 msgstr ""
@@ -854,9 +872,6 @@ msgstr ""
 
 #~ msgid "Utilities"
 #~ msgstr "תוכנות שרות"
-
-#~ msgid "Backups"
-#~ msgstr "גיבויים"
 
 #~ msgid "Benchmarking"
 #~ msgstr "ביצועי המערכת"
