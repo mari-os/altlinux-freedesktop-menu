@@ -47,10 +47,10 @@ directory_in_files =			\
 	altlinux-office-spreadsheet.directory.in		\
 	altlinux-office-wordprocessor.directory.in		\
 	altlinux-office-database.directory.in		\
-	altlinux-office-mail.directory.in		\
-	altlinux-office-project-management.directory.in		\
+	altlinux-office-email.directory.in		\
+	altlinux-office-projectmanagement.directory.in		\
 	altlinux-office-pda.directory.in		\
-	altlinux-office-contact-management.directory.in		\
+	altlinux-office-contactmanagement.directory.in		\
 	altlinux-office-dictionary.directory.in		\
 	altlinux-office-chart.directory.in		\
 	altlinux-office-flowchart.directory.in		\
@@ -60,19 +60,19 @@ directory_in_files =			\
 	altlinux-science-astronomy.directory.in		\
 	altlinux-science-biology.directory.in		\
 	altlinux-science-chemistry.directory.in		\
-	altlinux-science-computer-science.directory.in		\
+	altlinux-science-computerscience.directory.in		\
 	altlinux-science-geoscience.directory.in		\
-	altlinux-science-mathematics.directory.in		\
+	altlinux-science-math.directory.in		\
 	altlinux-science-physics.directory.in		\
 	altlinux-science-geology.directory.in		\
-	altlinux-science-artificial-intelligence.directory.in		\
+	altlinux-science-artificialintelligence.directory.in		\
 	altlinux-science-electricity.directory.in		\
-	altlinux-science-data-visualization.directory.in		\
-	altlinux-science-image-processing.directory.in		\
-	altlinux-science-numerical-analysis.directory.in		\
+	altlinux-science-datavisualization.directory.in		\
+	altlinux-science-imageprocessing.directory.in		\
+	altlinux-science-numericalanalysis.directory.in		\
 	altlinux-science-robotics.directory.in		\
-	altlinux-science-parallel-computing.directory.in		\
-	altlinux-science-medical-software.directory.in		\
+	altlinux-science-parallelcomputing.directory.in		\
+	altlinux-science-medicalsoftware.directory.in		\
 	altlinux-development.directory.in		\
 	altlinux-development-other.directory.in		\
 	altlinux-development-web-development.directory.in		\
@@ -85,34 +85,34 @@ directory_in_files =			\
 	altlinux-development-interfacedesign.directory.in		\
 	altlinux-development-translation.directory.in		\
 	altlinux-development-project-management.directory.in		\
-	altlinux-multimedia.directory.in		\
-	altlinux-multimedia-other.directory.in		\
-	altlinux-multimedia-audio.directory.in		\
-	altlinux-multimedia-video.directory.in		\
-	altlinux-multimedia-midi.directory.in		\
-	altlinux-multimedia-mixer.directory.in		\
-	altlinux-multimedia-sequencer.directory.in		\
-	altlinux-multimedia-database.directory.in		\
-	altlinux-multimedia-music.directory.in		\
-	altlinux-multimedia-audio-player.directory.in		\
-	altlinux-multimedia-video-player.directory.in		\
-	altlinux-multimedia-player.directory.in		\
-	altlinux-multimedia-audio-recorder.directory.in		\
-	altlinux-multimedia-video-recorder.directory.in		\
-	altlinux-multimedia-recorder.directory.in		\
-	altlinux-multimedia-tuner.directory.in		\
-	altlinux-multimedia-tv.directory.in		\
-	altlinux-network-ham-radio.directory.in		\
-	altlinux-multimedia-audio-editing.directory.in		\
-	altlinux-multimedia-video-editing.directory.in		\
-	altlinux-multimedia-editing.directory.in		\
-	altlinux-multimedia-disc-burning.directory.in		\
+	altlinux-audiovideo.directory.in		\
+	altlinux-audiovideo-other.directory.in		\
+	altlinux-audiovideo-audio.directory.in		\
+	altlinux-audiovideo-video.directory.in		\
+	altlinux-audiovideo-midi.directory.in		\
+	altlinux-audiovideo-mixer.directory.in		\
+	altlinux-audiovideo-sequencer.directory.in		\
+	altlinux-audiovideo-database.directory.in		\
+	altlinux-audiovideo-music.directory.in		\
+	altlinux-audiovideo-audio-player.directory.in		\
+	altlinux-audiovideo-video-player.directory.in		\
+	altlinux-audiovideo-player.directory.in		\
+	altlinux-audiovideo-audio-recorder.directory.in		\
+	altlinux-audiovideo-video-recorder.directory.in		\
+	altlinux-audiovideo-recorder.directory.in		\
+	altlinux-audiovideo-tuner.directory.in		\
+	altlinux-audiovideo-tv.directory.in		\
+	altlinux-network-hamradio.directory.in		\
+	altlinux-audiovideo-audio-audiovideoediting.directory.in		\
+	altlinux-audiovideo-video-audiovideoediting.directory.in		\
+	altlinux-audiovideo-audiovideoediting.directory.in		\
+	altlinux-audiovideo-discburning.directory.in		\
 	altlinux-graphics.directory.in		\
 	altlinux-graphics-other.directory.in		\
-	altlinux-graphics-2d.directory.in		\
-	altlinux-graphics-3d.directory.in		\
-	altlinux-graphics-vector.directory.in		\
-	altlinux-graphics-raster.directory.in		\
+	altlinux-graphics-2dgraphics.directory.in		\
+	altlinux-graphics-3dgraphics.directory.in		\
+	altlinux-graphics-vectorgraphics.directory.in		\
+	altlinux-graphics-rastergraphics.directory.in		\
 	altlinux-graphics-publishing.directory.in		\
 	altlinux-graphics-scanning.directory.in		\
 	altlinux-graphics-scanning-ocr.directory.in		\
@@ -123,13 +123,13 @@ directory_in_files =			\
 	altlinux-education.directory.in		\
 	altlinux-education-other.directory.in		\
 	altlinux-education-teaching.directory.in		\
-	altlinux-education-language.directory.in		\
-	altlinux-education-mathematics.directory.in		\
+	altlinux-education-languages.directory.in		\
+	altlinux-education-math.directory.in		\
 	altlinux-education-science.directory.in		\
 	altlinux-education-astronomy.directory.in		\
 	altlinux-education-biology.directory.in		\
 	altlinux-education-chemistry.directory.in		\
-	altlinux-education-computer-science.directory.in		\
+	altlinux-education-computerscience.directory.in		\
 	altlinux-education-geoscience.directory.in		\
 	altlinux-education-physics.directory.in		\
 	altlinux-education-geology.directory.in		\
@@ -143,34 +143,34 @@ directory_in_files =			\
 	altlinux-education-construction.directory.in		\
 	altlinux-education-economy.directory.in		\
 	altlinux-education-robotics.directory.in		\
-	altlinux-education-artificial-intelligence.directory.in		\
-	altlinux-education-data-visualization.directory.in		\
-	altlinux-education-image-processing.directory.in		\
+	altlinux-education-artificialintelligence.directory.in		\
+	altlinux-education-datavisualization.directory.in		\
+	altlinux-education-imageprocessing.directory.in		\
 	altlinux-education-numerical-analysis.directory.in		\
-	altlinux-education-medical-software.directory.in		\
-	altlinux-education-parallel-computing.directory.in		\
+	altlinux-education-medicalsoftware.directory.in		\
+	altlinux-education-parallelcomputing.directory.in		\
 	altlinux-education-computerscience-typing.directory.in		\
 	altlinux-utility.directory.in		\
 	altlinux-utility-desktop.directory.in		\
 	altlinux-utility-other.directory.in		\
-	altlinux-utility-file-tools.directory.in		\
+	altlinux-utility-filetools.directory.in		\
 	altlinux-utility-archiving.directory.in		\
 	altlinux-utility-archiving-compression.directory.in		\
 	altlinux-utility-archiving-backup.directory.in		\
-	altlinux-utility-text-tools.directory.in		\
-	altlinux-utility-text-editor.directory.in		\
+	altlinux-utility-texttools.directory.in		\
+	altlinux-utility-texteditor.directory.in		\
 	altlinux-utility-accessibility.directory.in		\
-	altlinux-utility-telephony-tools.directory.in		\
+	altlinux-utility-telephonytools.directory.in		\
 	altlinux-utility-calculator.directory.in		\
 	altlinux-utility-clock.directory.in		\
 	altlinux-system.directory.in		\
 	altlinux-system-other.directory.in		\
-	altlinux-system-emulators.directory.in		\
-	altlinux-system-file-tools.directory.in		\
-	altlinux-system-file-managers.directory.in		\
+	altlinux-system-emulator.directory.in		\
+	altlinux-system-filetools.directory.in		\
+	altlinux-system-filemanager.directory.in		\
 	altlinux-system-filesystem.directory.in		\
-	altlinux-system-monitoring.directory.in		\
-	altlinux-system-terminals.directory.in		\
+	altlinux-system-monitor.directory.in		\
+	altlinux-system-terminalemulator.directory.in		\
 	altlinux-system-security.directory.in		\
 	altlinux-settings-desktop.directory.in		\
 	altlinux-settings-other.directory.in		\
@@ -202,14 +202,14 @@ directory_in_files =			\
 	altlinux-music.directory.in		\
 	altlinux-photography.directory.in		\
 	altlinux-viewer.directory.in		\
-	altlinux-web-development.directory.in		\
+	altlinux-webdevelopment.directory.in		\
 	altlinux-ham-radio.directory.in		\
-	altlinux-telephony-tools.directory.in		\
-	altlinux-mail.directory.in		\
+	altlinux-telephonytools.directory.in		\
+	altlinux-email.directory.in		\
 	altlinux-database.directory.in		\
 	altlinux-publishing.directory.in		\
-	altlinux-project-management.directory.in		\
-	altlinux-file-tools.directory.in		\
+	altlinux-projectmanagement.directory.in		\
+	altlinux-filetools.directory.in		\
 	altlinux-other.directory.in		\
 	altlinux-applications.directory.in		\
 	altlinux-screensaver.directory.in		\
@@ -220,7 +220,7 @@ directory_in_files =			\
 	altlinux-lxde.directory.in		\
 	altlinux-rox.directory.in		\
 	altlinux-enlightenment.directory.in		\
-	altlinux-multimedia-tv-and-radio.directory.in		\
+	altlinux-audiovideo-tv-and-radio.directory.in		\
 	altlinux-internet.directory.in		\
 	altlinux-settings-java.directory.in		\
 	altlinux-settings-xfce.directory.in		\

@@ -3,10 +3,10 @@
 
 <Menu>
 	<Name>Multimedia</Name>
-	<Directory>altlinux-multimedia.directory</Directory>
+	<Directory>altlinux-audiovideo.directory</Directory>
 	<Menu>
 		<Name>Database</Name>
-		<Directory>altlinux-multimedia-database.directory</Directory>
+		<Directory>altlinux-audiovideo-database.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -16,7 +16,7 @@
 	</Menu>
 	<Menu>
 		<Name>Midi</Name>
-		<Directory>altlinux-multimedia-midi.directory</Directory>
+		<Directory>altlinux-audiovideo-midi.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -26,7 +26,7 @@
 	</Menu>
 	<Menu>
 		<Name>Music</Name>
-		<Directory>altlinux-multimedia-music.directory</Directory>
+		<Directory>altlinux-audiovideo-music.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -36,7 +36,7 @@
 	</Menu>
 	<Menu>
 		<Name>Mixer</Name>
-		<Directory>altlinux-multimedia-mixer.directory</Directory>
+		<Directory>altlinux-audiovideo-mixer.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -46,7 +46,7 @@
 	</Menu>
 	<Menu>
 		<Name>Sequencer</Name>
-		<Directory>altlinux-multimedia-sequencer.directory</Directory>
+		<Directory>altlinux-audiovideo-sequencer.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -57,7 +57,7 @@
 <!--
 	<Menu>
 		<Name>Tuner</Name>
-		<Directory>altlinux-multimedia-tuner.directory</Directory>
+		<Directory>altlinux-audiovideo-tuner.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -67,7 +67,7 @@
 	</Menu>
 	<Menu>
 		<Name>TV</Name>
-		<Directory>altlinux-multimedia-tv.directory</Directory>
+		<Directory>altlinux-audiovideo-tv.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -78,7 +78,7 @@
 -->
 	<Menu>
 		<Name>TVAndRadio</Name>
-		<Directory>altlinux-multimedia-tv-and-radio.directory</Directory>
+		<Directory>altlinux-audiovideo-tv-and-radio.directory</Directory>
 		<Include>
 			<Or>
 				<Category>HamRadio</Category>
@@ -89,7 +89,7 @@
 	</Menu>
 	<Menu>
 		<Name>AudioPlayer</Name>
-		<Directory>altlinux-multimedia-audio-player.directory</Directory>
+		<Directory>altlinux-audiovideo-audio-player.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -101,7 +101,7 @@
 	</Menu>
 	<Menu>
 		<Name>VideoPlayer</Name>
-		<Directory>altlinux-multimedia-video-player.directory</Directory>
+		<Directory>altlinux-audiovideo-video-player.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -115,7 +115,7 @@
 	</Menu>
 	<Menu>
 		<Name>AudioRecorder</Name>
-		<Directory>altlinux-multimedia-audio-recorder.directory</Directory>
+		<Directory>altlinux-audiovideo-audio-recorder.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -127,7 +127,7 @@
 	</Menu>
 	<Menu>
 		<Name>VideoRecorder</Name>
-		<Directory>altlinux-multimedia-video-recorder.directory</Directory>
+		<Directory>altlinux-audiovideo-video-recorder.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -141,7 +141,7 @@
 	</Menu>
 	<Menu>
 		<Name>AudioEditing</Name>
-		<Directory>altlinux-multimedia-audio-editing.directory</Directory>
+		<Directory>altlinux-audiovideo-audio-audiovideoediting.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -153,7 +153,7 @@
 	</Menu>
 	<Menu>
 		<Name>VideoEditing</Name>
-		<Directory>altlinux-multimedia-video-editing.directory</Directory>
+		<Directory>altlinux-audiovideo-video-audiovideoediting.directory</Directory>
 		<Include>
 			<And>
 				<!--<Category>AudioVideo</Category>-->
@@ -168,7 +168,7 @@
 
 	<Menu>
 		<Name>Other</Name>
-		<Directory>altlinux-multimedia-other.directory</Directory>
+		<Directory>altlinux-audiovideo-other.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -189,6 +189,6 @@
 	</Menu>
 </Menu>
 <!-- categories
-altlinux-multimedia-audio		
-altlinux-multimedia-video		
+altlinux-audiovideo-audio		
+altlinux-audiovideo-video		
 -->

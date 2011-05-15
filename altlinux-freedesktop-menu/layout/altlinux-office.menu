@@ -106,7 +106,7 @@
 	</Menu>
 	<Menu>
 		<Name>Email</Name>
-		<Directory>altlinux-office-mail.directory</Directory>
+		<Directory>altlinux-office-email.directory</Directory>
 		<Include>
 			<And>
 				<Category>Office</Category>
@@ -116,7 +116,7 @@
 	</Menu>
 	<Menu>
 		<Name>ContactManagement</Name>
-		<Directory>altlinux-office-contact-management.directory</Directory>
+		<Directory>altlinux-office-contactmanagement.directory</Directory>
 		<Include>
 			<And>
 				<Category>Office</Category>
@@ -126,7 +126,7 @@
 	</Menu>
 	<Menu>
 		<Name>ProjectManagement</Name>
-		<Directory>altlinux-office-project-management.directory</Directory>
+		<Directory>altlinux-office-projectmanagement.directory</Directory>
 		<Include>
 			<And>
 				<Category>Office</Category>
@@ -149,7 +149,6 @@
 		<Directory>altlinux-office-dictionary.directory</Directory>
 		<Include>
 			<And>
-				<Category>Office</Category>
 				<Category>Dictionary</Category>
 			</And>
 		</Include>

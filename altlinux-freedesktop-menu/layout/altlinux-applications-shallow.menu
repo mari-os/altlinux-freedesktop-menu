@@ -100,7 +100,7 @@
 
     <Menu>
         <Name>Multimedia</Name>
-        <Directory>altlinux-multimedia.directory</Directory>
+        <Directory>altlinux-audiovideo.directory</Directory>
         <Include>
             <Category>Audio</Category>
             <Category>Video</Category>

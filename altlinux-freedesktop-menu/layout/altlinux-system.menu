@@ -16,7 +16,7 @@
 	</Menu>
 	<Menu>
 		<Name>Emulator</Name>
-		<Directory>altlinux-system-emulators.directory</Directory>
+		<Directory>altlinux-system-emulator.directory</Directory>
 
 		<Menu>
 			<Name>Wine</Name>
@@ -35,7 +35,7 @@
 	</Menu>
 	<Menu>
 		<Name>FileTools</Name>
-		<Directory>altlinux-system-file-tools.directory</Directory>
+		<Directory>altlinux-system-filetools.directory</Directory>
 		<Include>
 			<And>
 				<Category>System</Category>
@@ -46,7 +46,7 @@
 	</Menu>
 	<Menu>
 		<Name>FileManager</Name>
-		<Directory>altlinux-system-file-managers.directory</Directory>
+		<Directory>altlinux-system-filemanager.directory</Directory>
 		<Include>
 			<And>
 				<Category>FileManager</Category>
@@ -56,7 +56,7 @@
 	</Menu>
 	<Menu>
 		<Name>Monitor</Name>
-		<Directory>altlinux-system-monitoring.directory</Directory>
+		<Directory>altlinux-system-monitor.directory</Directory>
 		<Include>
 			<And>
 				<Category>System</Category>
@@ -87,7 +87,7 @@
 	</Menu>
 	<Menu>
 		<Name>TerminalEmulator</Name>
-		<Directory>altlinux-system-terminals.directory</Directory>
+		<Directory>altlinux-system-terminalemulator.directory</Directory>
 		<Include>
 			<And>
 				<Category>TerminalEmulator</Category>

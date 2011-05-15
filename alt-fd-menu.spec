@@ -1,7 +1,13 @@
-%def_with gnome2
 %def_with kde4
+%def_with gnome2
+%if_with gnome2
+%define gnomever 2.90
+%else
+%define gnomever 3.99
+%endif
+
 Name: altlinux-freedesktop-menu
-Version: 0.35
+Version: 0.36
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -94,33 +100,17 @@ Requires: %name
 %description lxde
 ALTLinux freedesktop.org menu for LXDE
 
-%if_with gnome2
-%package gnome
-Summary: gnome freedesktop menu
-Group: Graphical desktop/GNOME
-Provides: gnome2-freedesktop-menu
-Provides: gnome-menus = 2.90.%version
-Conflicts: gnome-menus-default
-Obsoletes: gnome-menus-default < 2.90.%version
-
-Requires: %name
-
-%description gnome
-ALTLinux freedesktop.org menu for GNOME 2
-%else
 %package gnome
 Summary: gnome freedesktop menu
 Group: Graphical desktop/GNOME
 Provides: gnome-freedesktop-menu
-Provides: gnome-menus = 3.90.0.%version
 Conflicts: gnome-menus-default
-Obsoletes: gnome-menus-default < 3.90.0.%version
-
+Provides: gnome-menus = %gnomever.%version
+Obsoletes: gnome-menus-default < %gnomever.%version
 Requires: %name
 
 %description gnome
-ALTLinux freedesktop.org menu for GNOME 3
-%endif
+ALTLinux freedesktop.org menu for GNOME
 
 %package kde3
 Summary: kde3 freedesktop menu
@@ -264,6 +254,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %endif
 
 %changelog
+* Sun May 15 2011 Igor Vlasenko <viy@altlinux.ru> 0.36-alt1
+- submenu adjustments; p6 compatible (use gnome2)
+
 * Thu May 12 2011 Igor Vlasenko <viy@altlinux.ru> 0.35-alt1
 - conditional support for gnome 3
 

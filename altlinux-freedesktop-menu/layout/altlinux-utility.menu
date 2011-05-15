@@ -43,7 +43,7 @@
 	</Menu>
 	<Menu>
 		<Name>DiscBurning</Name>
-		<Directory>altlinux-multimedia-disc-burning.directory</Directory>
+		<Directory>altlinux-audiovideo-discburning.directory</Directory>
 		<Include>
 			<And>
 				<Category>AudioVideo</Category>
@@ -53,7 +53,7 @@
 	</Menu>
 	<Menu>
 		<Name>FileTools</Name>
-		<Directory>altlinux-utility-file-tools.directory</Directory>
+		<Directory>altlinux-utility-filetools.directory</Directory>
 		<Include>
 			<And>
 				<Category>Utility</Category>
@@ -90,7 +90,7 @@
 	</Menu>
 	<Menu>
 		<Name>TextTools</Name>
-		<Directory>altlinux-utility-text-tools.directory</Directory>
+		<Directory>altlinux-utility-texttools.directory</Directory>
 		<Include>
 			<And>
 				<Category>Utility</Category>
@@ -100,7 +100,7 @@
 	</Menu>
 	<Menu>
 		<Name>TextEditor</Name>
-		<Directory>altlinux-utility-text-editor.directory</Directory>
+		<Directory>altlinux-utility-texteditor.directory</Directory>
 		<Include>
 			<And>
 				<Category>Utility</Category>
@@ -126,7 +126,7 @@
 	</Menu>
 	<Menu>
 		<Name>TelephonyTools</Name>
-		<Directory>altlinux-telephony-tools.directory</Directory>
+		<Directory>altlinux-telephonytools.directory</Directory>
 		<Include>
 			<And>
 				<Category>Utility</Category>
@@ -144,6 +144,9 @@
 				<Not><Category>FileManager</Category></Not>
 				<Not><Category>Wine</Category></Not>
 				<Not><Category>Development</Category></Not>
+				<Not><Category>Network</Category></Not>
+				<Not><Category>Graphics</Category></Not>
+				<Not><Category>Dictionary</Category></Not>
 
 				<Not><Category>Documentation</Category></Not>
 				<Not><Category>FileTools</Category></Not>

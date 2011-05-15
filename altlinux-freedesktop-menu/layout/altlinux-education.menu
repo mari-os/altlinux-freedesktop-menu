@@ -6,7 +6,7 @@
 	<Directory>altlinux-education.directory</Directory>
 	<Menu>
 		<Name>Languages</Name>
-		<Directory>altlinux-education-language.directory</Directory>
+		<Directory>altlinux-education-languages.directory</Directory>
 		<Include>
 			<And>
 				<Category>Education</Category>
@@ -20,7 +20,7 @@
 	</Menu>
 	<Menu>
 		<Name>Math</Name>
-		<Directory>altlinux-education-mathematics.directory</Directory>
+		<Directory>altlinux-education-math.directory</Directory>
 		<Include>
 			<And>
 				<Category>Education</Category>
@@ -81,7 +81,7 @@
 	</Menu>
 	<Menu>
 		<Name>ComputerScience</Name>
-		<Directory>altlinux-education-computer-science.directory</Directory>
+		<Directory>altlinux-education-computerscience.directory</Directory>
 		<Include>
 			<And>
 				<Category>Education</Category>

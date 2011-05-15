@@ -36,7 +36,7 @@
 	</Menu>
 	<Menu>
 		<Name>ComputerScience</Name>
-		<Directory>altlinux-science-computer-science.directory</Directory>
+		<Directory>altlinux-science-computerscience.directory</Directory>
 		<Include>
 			<And>
 				<Category>Science</Category>
@@ -56,7 +56,7 @@
 	</Menu>
 	<Menu>
 		<Name>Math</Name>
-		<Directory>altlinux-science-mathematics.directory</Directory>
+		<Directory>altlinux-science-math.directory</Directory>
 		<Include>
 			<And>
 				<Category>Science</Category>
