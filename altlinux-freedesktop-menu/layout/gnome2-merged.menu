@@ -11,6 +11,12 @@
     <Deleted/>
   </Menu>
   <!-- end remove nested settings submenu -->
+  <!-- remove shallow submenu -->
+  <Menu>
+    <Name>ShallowSettings</Name>
+    <Deleted/>
+  </Menu>
+  <!-- end remove shallow submenu -->
 
   <Menu>
     <Name>Other</Name>
@@ -21,5 +27,9 @@
 	<Filename>network-scheme.desktop</Filename>
     </Exclude>
   </Menu>
- 
-</Menu>
+  <!--
+  <Exclude>
+    <Filename>yelp.desktop</Filename>
+  </Exclude>
+  -->
+ </Menu>

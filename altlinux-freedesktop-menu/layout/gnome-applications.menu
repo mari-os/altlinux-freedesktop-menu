@@ -15,6 +15,15 @@
   <!-- <DefaultAppDirs/> -->
   <!-- <DefaultDirectoryDirs/> -->
 
+  <Menu>
+    <Name>ShallowSettings</Name>
+    <MergeFile>altlinux-settings.menu</MergeFile>
+  </Menu>
+  <Move>
+    <Old>ShallowSettings/DesktopSettings/GNOME</Old>
+    <New>ShallowSettings/NativeSettings</New>
+  </Move>
+
   <!-- Read the global (common to all DEs) applications menu -->
   <MergeFile>altlinux-applications.menu</MergeFile>
   <MergeDir>applications-merged</MergeDir>
@@ -31,6 +40,28 @@
     <New>Universal Access</New>
   </Move>
   <!-- End Accessibility -->
+
+  <!-- gnome 3 stuff -->
+  <Move>
+    <Old>Settings/DesktopSettings/GNOME</Old>
+    <New>Settings/NativeSettings</New>
+  </Move>
+
+  <Include>
+    <Filename>yelp.desktop</Filename>
+  </Include>
+  <Menu>
+    <Name>Utility</Name>
+    <Exclude>
+	<Filename>yelp.desktop</Filename>
+    </Exclude>
+    <Menu>
+      <Name>Documentation</Name>
+      <Exclude>
+	<Filename>yelp.desktop</Filename>
+      </Exclude>
+    </Menu>
+  </Menu>
 
   <MergeDir>gnome-applications-merged</MergeDir>
   <MergeFile>applications-menueditor.menu</MergeFile>

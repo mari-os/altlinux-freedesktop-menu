@@ -1,13 +1,14 @@
-%def_with kde4
+# for p6 use def_without gnome3 def_with gnome2
+%def_without gnome3
 %def_with gnome2
-%if_with gnome2
+%if_with gnome3
 %define gnomever 2.90
 %else
 %define gnomever 3.99
 %endif
 
 Name: altlinux-freedesktop-menu
-Version: 0.37
+Version: 0.38
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -174,7 +175,9 @@ intltoolize
 mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,kde3-,lxde-,xfce-}applications-merged
 
 install -D -m644 layout/kde4-merged.menu %buildroot%_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
+%if_with gnome2
 install -D -m644 layout/gnome2-merged.menu %buildroot%_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
+%endif
 
 # gnomish menu resources
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
@@ -227,12 +230,15 @@ touch /etc/xdg/menus/lxde-applications.menu
 
 %files gnome
 %config %_sysconfdir/xdg/menus/gnome-applications.menu
-%config %_sysconfdir/xdg/menus/settings.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
 %if_with gnome2
 %config %_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
-%else
+%config %_sysconfdir/xdg/menus/settings.menu
+%if_with gnome3
 %exclude %_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
+%endif
+%else
+%exclude %_sysconfdir/xdg/menus/settings.menu
 %endif
 
 %files kde3
@@ -246,14 +252,15 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/enlightenment-applications.menu
 %dir %_sysconfdir/xdg/menus/enlightenment-applications-merged
 
-%if_with kde4
 %files kde4
 %config %_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
 %dir %_sysconfdir/kde4/xdg/menus/applications-merged
 %_datadir/kde4/desktop-directories/altlinux-*.directory
-%endif
 
 %changelog
+* Mon May 16 2011 Igor Vlasenko <viy@altlinux.ru> 0.38-alt1
+- full conditional support for gnome 3; still p6 compatible
+
 * Mon May 16 2011 Igor Vlasenko <viy@altlinux.ru> 0.37-alt1
 - aded Net > Blogs, Net > Security; stil p6 compatible
 

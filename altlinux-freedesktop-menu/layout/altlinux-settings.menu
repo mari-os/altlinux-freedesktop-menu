@@ -119,16 +119,6 @@
 		</Include>
 	</Menu>
 	<Menu>
-		<Name>Java</Name>
-		<Directory>altlinux-settings-java.directory</Directory>
-		<Include>
-			<And>
-				<Category>Settings</Category>
-				<Category>X-ALTLinux-Java</Category>
-			</And>
-		</Include>
-	</Menu>
-	<Menu>
 		<Name>DesktopSettings</Name>
 		<Directory>altlinux-settings-desktop-settings.directory</Directory>
 		<Include>
@@ -149,6 +139,16 @@
 		</Exclude>
 		-->
 
+		<Menu>
+			<Name>Java</Name>
+			<Directory>altlinux-settings-java.directory</Directory>
+			<Include>
+				<And>
+					<Category>Settings</Category>
+					<Category>X-ALTLinux-Java</Category>
+				</And>
+			</Include>
+		</Menu>
 		<Menu>
 			<Name>XFCE</Name>
 			<Directory>altlinux-settings-xfce.directory</Directory>
