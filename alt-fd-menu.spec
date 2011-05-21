@@ -1,14 +1,8 @@
-# for p6 use def_without gnome3 def_with gnome2
-%def_without gnome3
-%def_with gnome2
-%if_with gnome3
-%define gnomever 2.90
-%else
-%define gnomever 3.99
-%endif
+%define gnome2ver 2.90
+%define gnome3ver 3.99
 
 Name: altlinux-freedesktop-menu
-Version: 0.38
+Version: 0.39
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -104,14 +98,26 @@ ALTLinux freedesktop.org menu for LXDE
 %package gnome
 Summary: gnome freedesktop menu
 Group: Graphical desktop/GNOME
-Provides: gnome-freedesktop-menu
+Provides: gnome2-freedesktop-menu
 Conflicts: gnome-menus-default
-Provides: gnome-menus = %gnomever.%version
-Obsoletes: gnome-menus-default < %gnomever.%version
+Provides: gnome-menus = %gnome2ver.%version
+Obsoletes: gnome-menus-default < %gnome2ver.%version
 Requires: %name
 
 %description gnome
 ALTLinux freedesktop.org menu for GNOME
+
+%package gnome3
+Summary: gnome3 freedesktop menu
+Group: Graphical desktop/GNOME
+Provides: gnome3-freedesktop-menu
+#Conflicts: gnome-menus-default
+#Provides: gnome-menus = %gnome3ver.%version
+#Obsoletes: gnome-menus-default < %gnome3ver.%version
+Requires: %name
+
+%description gnome3
+ALTLinux freedesktop.org menu for GNOME3
 
 %package kde3
 Summary: kde3 freedesktop menu
@@ -172,12 +178,9 @@ intltoolize
 %makeinstall_std
 #find_lang %name
 
-mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,kde3-,lxde-,xfce-}applications-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,gnome3-,kde3-,lxde-,xfce-}applications-merged
 
 install -D -m644 layout/kde4-merged.menu %buildroot%_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
-%if_with gnome2
-install -D -m644 layout/gnome2-merged.menu %buildroot%_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
-%endif
 
 # gnomish menu resources
 mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
@@ -231,15 +234,12 @@ touch /etc/xdg/menus/lxde-applications.menu
 %files gnome
 %config %_sysconfdir/xdg/menus/gnome-applications.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
-%if_with gnome2
-%config %_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
 %config %_sysconfdir/xdg/menus/settings.menu
-%if_with gnome3
-%exclude %_sysconfdir/xdg/menus/gnome-applications-merged/50-gnome2-merged.menu
-%endif
-%else
-%exclude %_sysconfdir/xdg/menus/settings.menu
-%endif
+#dir %_sysconfdir/xdg/menus/settings-merged
+
+%files gnome3
+%config %_sysconfdir/xdg/menus/gnome3-applications.menu
+%dir %_sysconfdir/xdg/menus/gnome3-applications-merged
 
 %files kde3
 %config %_sysconfdir/xdg/menus/kde3-applications.menu
@@ -258,6 +258,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Sat May 21 2011 Igor Vlasenko <viy@altlinux.ru> 0.39-alt1
+- independent gnome3 menu; p6 compatible
+
 * Mon May 16 2011 Igor Vlasenko <viy@altlinux.ru> 0.38-alt1
 - full conditional support for gnome 3; still p6 compatible
 

@@ -75,16 +75,16 @@ directory_in_files =			\
 	altlinux-science-medicalsoftware.directory.in		\
 	altlinux-development.directory.in		\
 	altlinux-development-other.directory.in		\
-	altlinux-development-web-development.directory.in		\
+	altlinux-development-webdevelopment.directory.in		\
 	altlinux-development-database.directory.in		\
-	altlinux-development-debugging.directory.in		\
+	altlinux-development-debugger.directory.in		\
 	altlinux-development-ide.directory.in		\
 	altlinux-development-building.directory.in		\
 	altlinux-development-profiling.directory.in		\
-	altlinux-development-revision-control.directory.in		\
-	altlinux-development-interfacedesign.directory.in		\
+	altlinux-development-revisioncontrol.directory.in		\
+	altlinux-development-guidesigner.directory.in		\
 	altlinux-development-translation.directory.in		\
-	altlinux-development-project-management.directory.in		\
+	altlinux-development-projectmanagement.directory.in		\
 	altlinux-audiovideo.directory.in		\
 	altlinux-audiovideo-other.directory.in		\
 	altlinux-audiovideo-audio.directory.in		\

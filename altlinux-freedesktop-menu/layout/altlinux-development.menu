@@ -6,7 +6,7 @@
 	<Directory>altlinux-development.directory</Directory>
 	<Menu>
 		<Name>WebDevelopment</Name>
-		<Directory>altlinux-development-web-development.directory</Directory>
+		<Directory>altlinux-development-webdevelopment.directory</Directory>
 		<Include>
 			<And>
 				<Category>Development</Category>
@@ -36,7 +36,7 @@
 	</Menu>
 	<Menu>
 		<Name>Debugger</Name>
-		<Directory>altlinux-development-debugging.directory</Directory>
+		<Directory>altlinux-development-debugger.directory</Directory>
 		<Include>
 			<And>
 				<Category>Development</Category>
@@ -66,7 +66,7 @@
 	</Menu>
 	<Menu>
 		<Name>RevisionControl</Name>
-		<Directory>altlinux-development-revision-control.directory</Directory>
+		<Directory>altlinux-development-revisioncontrol.directory</Directory>
 		<Include>
 			<And>
 				<Category>Development</Category>
@@ -89,11 +89,21 @@
 	</Menu>
 	<Menu>
 		<Name>GUIDesigner</Name>
-		<Directory>altlinux-development-interfacedesign.directory</Directory>
+		<Directory>altlinux-development-guidesigner.directory</Directory>
 		<Include>
 			<And>
 				<Category>Development</Category>
 				<Category>GUIDesigner</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>ProjectManagement</Name>
+		<Directory>altlinux-development-projectmanagement.directory</Directory>
+		<Include>
+			<And>
+				<Category>Development</Category>
+				<Category>ProjectManagement</Category>
 			</And>
 		</Include>
 	</Menu>
@@ -123,12 +133,6 @@
 		<Include>
 			<And>
 				<Category>Development</Category>
-				<Not>
-					<And>
-						<Category>Office</Category>
-						<Category>ProjectManagement</Category>
-					</And>
-				</Not>
 				<Not><Category>X-KDE-KDevelopIDE</Category></Not>
 				<Not><Category>Documentation</Category></Not>
 				<Not><Category>WebDevelopment</Category></Not>
@@ -140,6 +144,7 @@
 				<Not><Category>RevisionControl</Category></Not>
 				<Not><Category>IDE</Category></Not>
 				<Not><Category>GUIDesigner</Category></Not>
+				<Not><Category>ProjectManagement</Category></Not>
 
 				<Not><Category>Utility</Category></Not>
 				<Not><Category>Science</Category></Not>
