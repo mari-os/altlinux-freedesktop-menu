@@ -10,6 +10,7 @@ cp -a $TOP/desktop-directories .
 cp -a $TOP/layout .
 cp -a $TOP/configure.ac .
 cp -a $TOP/Makefile.am .
+cp -a $TOP/AUTHORS .
 cp -a $TOP/po/*.po po/
 cp -a $TOP/po/LINGUAS po/
 cp -a $TOP/*.spec .

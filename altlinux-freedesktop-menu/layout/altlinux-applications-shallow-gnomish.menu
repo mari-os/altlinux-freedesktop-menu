@@ -12,8 +12,6 @@
 		<Merge type="files"/>
 	</DefaultLayout>
 
-  <DirectoryDir>/usr/share/desktop-directories/gnome</DirectoryDir>
-
   <Name>Applications</Name>
   <Directory>X-GNOME-Menu-Applications.directory</Directory>
 

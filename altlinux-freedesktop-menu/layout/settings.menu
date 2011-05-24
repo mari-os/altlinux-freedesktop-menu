@@ -13,8 +13,6 @@
   <!-- Read in overrides and child menus from applications-merged/ -->
   <DefaultMergeDirs/>
 
-  <DirectoryDir>/usr/share/desktop-directories/gnome</DirectoryDir>
-
   <!-- Add a link to the control center -->
   <Include>
     <Filename>gnomecc.desktop</Filename>

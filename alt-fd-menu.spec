@@ -1,18 +1,20 @@
+%def_with gnome3
 %define gnome2ver 2.90
-%define gnome3ver 3.99
+%define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.39
+Version: 0.40
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
-License: BSD
+License: BSD or GPL
 Group: Graphical desktop/Other
 
 URL: http://altlinux.org/
 Source: %name-%version.tar
 Packager: Igor Vlasenko <viy@altlinux.org>
 
+#BuildPreReq: rpm-build-xdg
 BuildRequires: intltool glib2-devel
 BuildArch: noarch
 
@@ -53,9 +55,9 @@ freedesktop.org compliant altlinux menu with shallow layout
 Summary: altlinux freedesktop menu with shallow layout (GNOME-based)
 Group: Graphical desktop/Other
 Requires(pre): %name-common
-Requires: %name-common
+Requires: %name-common > 0.39
 Provides: %name
-Requires: gnome-menus-common
+Requires: gnome2-menus-resources
 
 %description gnomish-menu
 freedesktop.org compliant altlinux menu with shallow layout
@@ -102,6 +104,7 @@ Provides: gnome2-freedesktop-menu
 Conflicts: gnome-menus-default
 Provides: gnome-menus = %gnome2ver.%version
 Obsoletes: gnome-menus-default < %gnome2ver.%version
+Requires: gnome2-menus-resources
 Requires: %name
 
 %description gnome
@@ -179,14 +182,12 @@ intltoolize
 #find_lang %name
 
 mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,gnome3-,kde3-,lxde-,xfce-}applications-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/settings-merged
 
 install -D -m644 layout/kde4-merged.menu %buildroot%_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
 
-# gnomish menu resources
-mkdir -p %buildroot%_datadir/desktop-directories %buildroot%_sysconfdir/xdg/menus %buildroot%_altdir
-cp -a gnome/desktop-directories %buildroot%_datadir/desktop-directories/gnome
-
 # alternatives
+mkdir -p %buildroot%_altdir
 cat <<EOF >>%buildroot%_altdir/%name-nested-menu
 %_sysconfdir/xdg/menus/altlinux-applications.menu	%_sysconfdir/xdg/menus/altlinux-applications-nested.menu	1000
 EOF
@@ -208,7 +209,6 @@ touch /etc/xdg/menus/lxde-applications.menu
 %files common
 %dir %_sysconfdir/xdg/menus/applications-merged
 %_datadir/desktop-directories/altlinux-*.directory
-%_datadir/desktop-directories/gnome/*.directory
 #config (noreplace) is too dangerous for unexpirienced user
 %config %_sysconfdir/xdg/menus/altlinux-*.menu
 
@@ -235,11 +235,13 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/gnome-applications.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
 %config %_sysconfdir/xdg/menus/settings.menu
-#dir %_sysconfdir/xdg/menus/settings-merged
+%dir %_sysconfdir/xdg/menus/settings-merged
 
+%if_with gnome3
 %files gnome3
 %config %_sysconfdir/xdg/menus/gnome3-applications.menu
 %dir %_sysconfdir/xdg/menus/gnome3-applications-merged
+%endif
 
 %files kde3
 %config %_sysconfdir/xdg/menus/kde3-applications.menu
@@ -258,6 +260,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Tue May 24 2011 Igor Vlasenko <viy@altlinux.ru> 0.40-alt1
+- use native gnome2 resources instead of private copy
+
 * Sat May 21 2011 Igor Vlasenko <viy@altlinux.ru> 0.39-alt1
 - independent gnome3 menu; p6 compatible
 
