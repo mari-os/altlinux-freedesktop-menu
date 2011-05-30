@@ -1,52 +1,65 @@
-# Menu section translation
-# Copyright (C) 2003
-# This file is distributed under the same license as the menu package.
-# Bill Allombert <ballombe@debian.org>, 2003.
+# Latest versions of po files are at http://www.mandrivalinux.com/l10n/ja.php3
+# translation of menu-messages-main-ja.po to Japanese
+# Collection of titles/sections of Mandriva Linux menu's.
+# It's generated from the /usr/lib/menu/* files.
+#
+# Copyright (C) 2000 Mandriva
+# YAMAGATA Hiroo <hiyori13@alum.mit.edu>, 2001-2002.
+# UTUMI Hirosi <utuhiro78@yahoo.co.jp>, 2003, 2004.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2004-2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.9-3\n"
+"Project-Id-Version: menu-messages-main-ja\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-04-11 23:30+0900\n"
-"Last-Translator: Hideki Yamane (Debian-JP) <henrich@debian.or.jp>\n"
-"Language-Team: Japanese <debian-japanese@lists.debian.org>\n"
+"PO-Revision-Date: 2009-03-22 19:13+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <cooker-i18n@mandrivalinux.org>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #, fuzzy
 msgid "2D Graphics"
-msgstr "グラフィック"
+msgstr "グラフィックス"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "グラフィックス関連のアプリケーションです"
 
 #, fuzzy
 msgid "3D Graphics"
-msgstr "グラフィック"
+msgstr "グラフィックス"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "グラフィックス関連のアプリケーションです"
 
+#, fuzzy
 msgid "A clock application/applet"
-msgstr ""
+msgstr "KDE アプリケーション"
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "ファイル管理"
+msgstr "気晴しにゲームをどうぞ"
 
 msgid "Accessibility"
 msgstr "アクセシビリティ"
 
+#, fuzzy
 msgid "Action"
-msgstr "アクション"
+msgstr "教育"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "アクション"
+msgstr "アクションパズルゲーム"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
 msgstr "システム管理"
@@ -56,14 +69,14 @@ msgstr "アドベンチャー"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "アドベンチャー"
+msgstr "テトリス風のゲーム"
 
 msgid "Amateur Radio"
-msgstr "アマチュアラジオ"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "アプリケーション"
+msgstr "アプリケーションファインダ"
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -71,8 +84,9 @@ msgstr ""
 msgid "Applications"
 msgstr "アプリケーション"
 
+#, fuzzy
 msgid "Applications like cvs or subversion"
-msgstr ""
+msgstr "デスクトップセッションでロードされるアプリケーションを管理します"
 
 msgid "Applications to manage a database"
 msgstr ""
@@ -83,20 +97,24 @@ msgstr ""
 msgid "Arcade"
 msgstr "アーケード"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "アーケードビデオゲーム"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "アーカイバツール"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr "人工知能"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "人工知能"
 
 msgid "Astronomy"
 msgstr "天文学"
@@ -105,28 +123,32 @@ msgstr "天文学"
 msgid "Astronomy software"
 msgstr "天文学"
 
+#, fuzzy
 msgid "Audio Editing"
-msgstr ""
+msgstr "オーディオタグ・エディタ"
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "オーディオプレーヤー"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "サウンドレコーダ"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "バックアップ"
 
 msgid "Biology"
 msgstr "生物学"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "生物学"
+msgstr "モーフィングソフト"
 
 #, fuzzy
 msgid "Blogs"
-msgstr "ブロック"
+msgstr "Blogilo"
 
 msgid "Board Games"
 msgstr "ボードゲーム"
@@ -134,21 +156,23 @@ msgstr "ボードゲーム"
 msgid "Boards"
 msgstr "ボードゲーム"
 
+#, fuzzy
 msgid "Building"
-msgstr ""
+msgstr "ding"
 
 msgid "Calculator"
 msgstr "関数電卓"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "エミュレータ"
+msgstr "関数電卓"
 
 msgid "Calendar"
 msgstr "カレンダー"
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "Java Toolset"
 
 msgid "Card Games"
 msgstr "カードゲーム"
@@ -158,10 +182,11 @@ msgstr "トランプ"
 
 #, fuzzy
 msgid "Chart"
-msgstr "カードゲーム"
+msgstr "KCharSelect"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "IRC チャット"
 
 msgid "Chemistry"
 msgstr "化学"
@@ -175,7 +200,7 @@ msgstr "時計"
 
 #, fuzzy
 msgid "Communications"
-msgstr "コミュニケーション"
+msgstr "あなたの友達と通信します"
 
 msgid "Compression"
 msgstr ""
@@ -183,22 +208,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "コンピュータ科学"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "コンピュータ科学"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "コンピュータ科学"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "地学"
+msgstr "コンピュータ科学"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Compiz の設定ツール"
 
 #, fuzzy
 msgid "Construction"
-msgstr "コミュニケーション"
+msgstr "ネットワーク構築ゲーム"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -206,8 +234,9 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "データを視覚化"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "データを視覚化"
 
 msgid "Databases"
 msgstr "データベース"
@@ -221,23 +250,27 @@ msgstr "デスクトップ"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "デスクトップウィジェット"
 
 msgid "Development"
 msgstr "開発"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "開発環境"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "3D グラフプログラム"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "辞書"
 
 msgid "Dictionary"
 msgstr "辞書"
@@ -263,21 +296,24 @@ msgstr "教育"
 msgid "Electricity"
 msgstr "電気"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "電気"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "電気工学"
+msgstr "電気"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "アプリケーション"
+msgstr "グラフィックス関連のアプリケーションです"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -286,39 +322,44 @@ msgid "Emulators"
 msgstr "エミュレータ"
 
 msgid "Engineering"
-msgstr "エンジニアリング"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "ブロック"
+msgstr "落下するブロックのゲーム"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "落下するブロックのゲーム"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "ファイル管理"
+msgstr "ファイルマネージャ"
 
 msgid "File Systems"
 msgstr "ファイルシステム"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "ファイル転送"
+msgstr "ファイルマネージャ"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "ファイルシステム"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "テキストツール"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "サイエンス"
 
 msgid "Flow Chart"
 msgstr ""
@@ -326,11 +367,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Qt デザイナー"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "高度なアウトラインエディタ"
 
 msgid "Games"
 msgstr "ゲーム"
@@ -348,24 +391,27 @@ msgstr "地理"
 msgid "Geology"
 msgstr "生物学"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "モーフィングソフト"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "地学"
+msgstr "地球科学"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "地学"
+msgstr "地球科学"
 
 msgid "Geosciences"
 msgstr "地球科学"
 
 msgid "Graphics"
-msgstr "グラフィック"
+msgstr "グラフィックス"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "モーフィングソフト"
 
 msgid "Hardware"
 msgstr "ハードウェア"
@@ -373,33 +419,38 @@ msgstr "ハードウェア"
 msgid "History"
 msgstr "履歴"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "IRC クライアント"
 
 msgid "Image Processing"
 msgstr "画像処理"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "画像処理"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "インスタントメッセンジャー"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "汎用インスタントメッセージクライアント"
 
 msgid "Internet"
 msgstr "インターネット"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "アプリケーション"
+msgstr "その他のアプリケーション"
 
 msgid "Java"
 msgstr ""
@@ -422,42 +473,50 @@ msgstr "論理ゲーム"
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "モーフィングソフト"
 
 msgid "Mathematics"
 msgstr "数学"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "DJ ソフトウェア"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "モーフィングソフト"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "ビュワー"
+msgstr "ミキサー"
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "モニタリング"
+msgstr "モニタ"
 
 msgid "Multimedia"
 msgstr "マルチメディア"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "マルチメディア関連のプログラムです"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "メディアプレーヤ"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "マルチメディアプレーヤー"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "モーフィングソフト"
 
 msgid "Network"
 msgstr "ネットワーク"
@@ -467,7 +526,7 @@ msgstr "ネットワークに関連する設定を行います"
 
 #, fuzzy
 msgid "News"
-msgstr "ウェブニュース"
+msgstr "メール/ニュース"
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -475,8 +534,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "数値分析"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "数値分析"
 
 msgid "OCR"
 msgstr ""
@@ -495,14 +555,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "プログラミング"
+msgstr "ペイントプログラム"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "パッケージ管理"
+msgstr "高度なアウトラインエディタ"
 
 msgid "Packaging"
 msgstr "RPM の管理"
@@ -510,8 +570,9 @@ msgstr "RPM の管理"
 msgid "Parallel Computing"
 msgstr "パラレルコンピューティング"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "パラレルコンピューティング"
 
 msgid "Performance"
 msgstr ""
@@ -519,37 +580,41 @@ msgstr ""
 msgid "Personal"
 msgstr "ユーザ向け"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "地理"
 
 msgid "Physics"
-msgstr "物理学"
+msgstr "物理"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "物理学"
+msgstr "モーフィングソフト"
 
 msgid "Preferences"
 msgstr "設定"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "プレゼンテーション"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "プレゼンテーション"
 
 msgid "Printing"
 msgstr "印刷"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "アーカイバツール"
 
 msgid "Project Management"
-msgstr "プロジェクト管理"
+msgstr "Planner プロジェクト管理"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "プロジェクト管理"
+msgstr "プリンタを管理するアプリケーション"
 
 msgid "Publishing"
 msgstr ""
@@ -559,35 +624,40 @@ msgstr "ROX"
 
 #, fuzzy
 msgid "Raster Graphics"
-msgstr "グラフィック"
+msgstr "グラフィックス"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "グラフィックス関連のアプリケーションです"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "リモートグラフィカルアクセス"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "バージョンコントロール GUI"
 
 msgid "Robotics"
 msgstr "ロボット工学"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "モーフィングソフト"
 
 msgid "Role Playing"
 msgstr ""
 
+#, fuzzy
 msgid "Role playing games"
-msgstr ""
+msgstr "ラリーレーシングゲーム"
 
 #, fuzzy
 msgid "Scanning"
-msgstr "ブランク"
+msgstr "XSane - スキャン"
 
 msgid "Science"
-msgstr "科学"
+msgstr "サイエンス"
 
 msgid "Screensavers"
 msgstr "いろいろなスクリーンセーバーを格納するフォルダ"
@@ -599,27 +669,31 @@ msgstr "セキュリティ"
 msgid "Security tools"
 msgstr "セキュリティ"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "MIDI シーケンサ"
 
 msgid "Settings"
 msgstr "設定"
 
+#, fuzzy
 msgid "Simulation"
-msgstr "シミュレーション"
+msgstr "都市シミュレーションゲーム"
 
 #, fuzzy
 msgid "Simulation Games"
-msgstr "シミュレーション"
+msgstr "都市シミュレーションゲーム"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "ソフトウェアインストーラ"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "RPM メディアマネージャ"
 
 msgid "Software to teach music"
 msgstr ""
@@ -630,11 +704,13 @@ msgstr "サウンド"
 msgid "Sports"
 msgstr "スポーツ"
 
+#, fuzzy
 msgid "Sports Games"
-msgstr ""
+msgstr "ボードゲーム"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "表計算"
 
 msgid "Strategy"
 msgstr "戦略ゲーム"
@@ -652,15 +728,16 @@ msgstr "システムツール"
 msgid "System settings"
 msgstr "システム規模の設定を変更します"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "TV ラジオ"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "TV ラジオ"
+msgstr "アプリケーションクラッシュの表示とレポート"
 
 #, fuzzy
 msgid "TV applications"
@@ -669,11 +746,13 @@ msgstr "アプリケーション"
 msgid "Teaching Tools"
 msgstr "先生のためのツール"
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "ISDN 電話"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "テキストツール"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -683,14 +762,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "ターミナルエミュレータ"
+msgstr "ターミナルアプリケーション"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "ターミナルエミュレータ"
+msgstr "端末"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "テキストツール"
 
 msgid "Text tools"
 msgstr "テキストツール"
@@ -701,8 +781,9 @@ msgstr ""
 msgid "Tools"
 msgstr "ツール"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "ソフトウェア開発者向けのツールです"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -710,11 +791,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "デフォルトで使用するアプリケーションを設定"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "デバッグ・ツールです"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -722,8 +805,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "プリンタの設定"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -740,8677 +824,2898 @@ msgstr "おもちゃ"
 msgid "Translation"
 msgstr "翻訳"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "翻訳ツール"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "タッチタイプの練習"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "グラフィック"
+msgstr "ベクターグラフィックエディタ"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "グラフィックス関連のアプリケーションです"
 
 msgid "Video"
-msgstr "ビデオ"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "設定"
 
+#, fuzzy
 msgid "Video Editing"
-msgstr ""
+msgstr "ビデオエディタ"
 
 #, fuzzy
 msgid "Video Players"
-msgstr "ビュワー"
+msgstr "動画プレーヤー"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "デジタルビデオレコーダ"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "ビュワー"
+msgstr "KUI ビューア"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "ウェブブラウジング"
-
-msgid "Web Browsing"
-msgstr "ウェブブラウジング"
-
-msgid "Web Development"
-msgstr "Web 開発"
+msgstr "GNOME ウェブ・ブラウザ"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "ウェブブラウジング"
+msgid "Web Browsing"
+msgstr "GNOME ウェブ・ブラウザ"
 
-msgid "Wordprocessors"
+msgid "Web Development"
+msgstr "ウェブ開発"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "ワープロ"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "メールクライアント"
 
-#~ msgid "Data Management"
-#~ msgstr "データ管理"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "モバイル機器"
 
-#~ msgid "Medicine"
-#~ msgstr "医学"
 
-#~ msgid "Social"
-#~ msgstr "社会学"
 
-#~ msgid "Shells"
-#~ msgstr "シェル"
 
-#~ msgid "Language Environment"
-#~ msgstr "言語環境"
 
-#~ msgid "Text"
-#~ msgstr "テキスト"
 
-#~ msgid "Puzzles"
-#~ msgstr "パズル"
 
-#~ msgid "Help"
-#~ msgstr "ヘルプ"
 
-#~ msgid "Window Managers"
-#~ msgstr "ウィンドウマネージャ"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "FVWM モジュール"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-# Non official sections from WindowMaker
-#~ msgid "Appearance"
-#~ msgstr "外観"
 
-#~ msgid "WorkSpace"
-#~ msgstr "ワークスペース"
 
-# Frequently used unofficial sections.
-# From Apps/Net/Mozilla Components
-#~ msgid "Iceape Components"
-#~ msgstr "Iceape コンポーネント"
 
-# From Games/Toys/Teddies
-#~ msgid "Teddies"
-#~ msgstr "テディ"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> すべてのアプリケーション"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> 目的別メニュー"
 
-#~ msgid "Edutainment"
-#~ msgstr "エデュテインメント"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "その他"
 
-#~ msgid "Utilities"
-#~ msgstr "ユーティリティ"
 
-#~ msgid "Advocacy"
-#~ msgstr "提唱"
 
-#~ msgid "Benchmarking"
-#~ msgstr "ベンチマーク"
 
-#~ msgid "Bootstrapping"
-#~ msgstr "ブートストラップ"
 
-#~ msgid "Network bootstrapping"
-#~ msgstr "ネットワークブートストラップ"
 
-#~ msgid "Multiboot"
-#~ msgstr "マルチブート"
 
-#~ msgid "Clustering and Parallel processing"
-#~ msgstr "クラスタリングとパラレルプロセッシング"
 
-#~ msgid "Community and services"
-#~ msgstr "コミュニティとサービス"
 
-#~ msgid "CPU design"
-#~ msgstr "CPU デザイン"
 
-#~ msgid "Generic Linux Documentation"
-#~ msgstr "一般的な Linux ドキュメント"
 
-#~ msgid "Input hardware"
-#~ msgstr "入力ハードウェア"
 
-#~ msgid "Grahical hardware"
-#~ msgstr "グラフィカルハードウェア"
 
-#~ msgid "Kernel internals"
-#~ msgstr "カーネル内部"
 
-#~ msgid "Internationalization"
-#~ msgstr "国際化"
 
-#~ msgid "Installation"
-#~ msgstr "インストール"
 
-#~ msgid "Kiosk"
-#~ msgstr "キオスク"
 
-#~ msgid "Laptops and PDA"
-#~ msgstr "ラップトップとPDA"
 
-#~ msgid "Power saving"
-#~ msgstr "省電力"
 
-#~ msgid "Linux on specific architectures"
-#~ msgstr "特定のアーキテクチャ上のLinux"
 
-#~ msgid "Network connection"
-#~ msgstr "ネットワーク接続"
 
-#~ msgid "Network concepts"
-#~ msgstr "ネットワークコンセプト"
 
-#~ msgid "VPN"
-#~ msgstr "VPN"
 
-#~ msgid "Network configuration"
-#~ msgstr "ネットワーク設定"
 
-#~ msgid "Network clients"
-#~ msgstr "ネットワーク クライアント"
 
-#~ msgid "Network servers"
-#~ msgstr "ネットワーク サーバ"
 
-#~ msgid "OSes cohabitation"
-#~ msgstr "OSの共存"
 
-#~ msgid "Programming"
-#~ msgstr "プログラミング"
 
-#~ msgid "Servers"
-#~ msgstr "サーバ"
 
-#~ msgid "Storage"
-#~ msgstr "ストレージ"
 
-#~ msgid "Migration"
-#~ msgstr "マイグレーション"
 
-#~ msgid "X Window"
-#~ msgstr "X ウィンドウ"
 
-#~ msgid "Other howtos"
-#~ msgstr "その他の HOWTO"
 
-#~ msgid "Buy it"
-#~ msgstr "製品を購入"
 
-#~ msgid "Subscribe"
-#~ msgstr "クラブに加入"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "コンピュータを設定"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "X ウィンドウユーティリティ"
 
-#~ msgid "X-Utilities"
-#~ msgstr "X-ユーティリティ"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "詳細"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "詳細設定"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Lost & Found"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "戦略 & 戦術"
 
-#~ msgid "Information"
-#~ msgstr "情報"
 
-#~ msgid "More"
-#~ msgstr "その他"
 
-#~ msgid "Personal preferences"
-#~ msgstr "ユーザ専用の設定"
 
-#~ msgid "Accessories"
-#~ msgstr "アクセサリ"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "デスクトップ用のアクセサリです"
 
-#~ msgid "Networking"
-#~ msgstr "ネットワークの管理"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "サイエンス & 数学"
 
-#~ msgid "GGZ Gaming Zone"
-#~ msgstr "GGZ Gaming Zone"
 
-#~ msgid "Peripherals"
-#~ msgstr "周辺機器"
 
-#~ msgid "Look and Feel"
-#~ msgstr "ルック＆フィール"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "デスクトップの外観や動きを調整します"
 
-#~ msgid "File"
-#~ msgstr "ファイル"
 
-#~ msgid "Personal settings"
-#~ msgstr "ユーザ向けの設定を変更します"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "スクリーンセーバーのテーマ"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "システムの設定と監視を行うプログラムです"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "使用するハードウェアデバイスを設定します"
 
-#~ msgid "KDE Menu"
-#~ msgstr "KDE メニュー"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "ユーザの個人設定とシステム管理の設定"
 
-#~ msgid "Universal Access"
-#~ msgstr "ユニバーサル・アクセス"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "ユニバーサル・アクセスの設定を変更します"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "システム規模の設定を変更します (全てのユーザに影響します)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "サウンドとビデオ"
 
-#~ msgid "Internet and Network"
-#~ msgstr "インターネットとネットワーク"
 
-#~ msgid "Control Center"
-#~ msgstr "コントロールセンター"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Rogue 風のゲーム"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "ウェブやメールなどインターネットにアクセスのためのプログラムです"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "他のカテゴリにあてはまらないアプリケーション"
 
-#~ msgid "Office Applications"
-#~ msgstr "オフィスアプリケーションです"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "移動/変更しないでください"
 
-#~ msgid "CRXvt (Big5)  "
-#~ msgstr "CRXvt (Big5)  "
 
-#~ msgid "Traditional Chinese rxvt terminal  "
-#~ msgstr "繁体字中国語 rxvt ターミナル  "
 
-#~ msgid "Manage OpenJDK policy files"
-#~ msgstr "OpenJDK ポリシーファイルの管理"
 
-#~ msgid "OpenJDK Policy Tool"
-#~ msgstr "OpenJDK ポリシー設定ツール"
 
-#~ msgid "A SANE-based frontend for webcams"
-#~ msgstr "SANE ベースの webcam フロントエンド"
 
-#~ msgid "XCam"
-#~ msgstr "XCam"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Mandriva Linux アップデート"
 
-#~ msgid "Freeciv"
-#~ msgstr "Freeciv"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "ポーカー・スタイルのダイス・ゲームを楽しんでください"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Record and edit audio files"
-#~ msgstr "オーディオファイルの録音と編集"
 
-#~ msgid "Sound Editor"
-#~ msgstr "サウンドエディタ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr "フランス語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto French"
-#~ msgstr "HOWTO (フランス語)"
 
-#~ msgid "MIDI file player"
-#~ msgstr "MIDI プレーヤー"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "PowerManga"
-#~ msgstr "パワーまんが"
 
-#~ msgid "Shoot 'em up game with 3D graphics"
-#~ msgstr "3D グラフィック使用のシューティングゲーム"
 
-#~ msgid "OpenGL racing game featuring Tux"
-#~ msgstr "Tux が登場する OpenGL のレースゲーム"
 
-#~ msgid "Edit DV video"
-#~ msgstr "DV ビデオを編集"
 
-#~ msgid "Kino"
-#~ msgstr "Kino"
 
-#~ msgid "A graphical traceroute"
-#~ msgstr "グラフィカルな traceroute"
 
-#~ msgid "xtraceroute"
-#~ msgstr "xtraceroute"
 
-#~ msgid "Five or More"
-#~ msgstr "Five or More"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "色の付いた玉を並べて盤面から取り去ってください"
 
-#~ msgid "Minesweeper"
-#~ msgstr "マインスイーパー"
 
-#~ msgid "A simple frontend for the SANE scanning system"
-#~ msgstr "SANE スキャンシステムのためのシンプルなフロントエンド"
 
-#~ msgid "XScanImage"
-#~ msgstr "XScanImage"
 
-#~ msgid "C++ IDE for developing Qt applications"
-#~ msgstr "Qt アプリケーションを開発するための C++ IDE"
 
-#~ msgid "Qt Creator"
-#~ msgstr "Qt クリエイター"
 
-#~ msgid "Screem HTML/XML Editor"
-#~ msgstr "Screem HTML/XML エディタ"
 
-#~ msgid "Website editor and management system"
-#~ msgstr "ウェブサイトの編集と管理システムです"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "ドキュメントブラウザです"
 
-#~ msgid "Mono Documentation"
-#~ msgstr "Mono ドキュメンテーション"
 
-#~ msgid "View, search and edit documentation related to Mono"
-#~ msgstr "Mono 関連のドキュメントの表示、検索、編集"
 
-#~ msgid "System Monitor"
-#~ msgstr "システムモニタ"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "現在のプロセスを表示/システム状況を監視"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "画像ビューア"
 
-#~ msgid "View and manage images"
-#~ msgstr "画像の表示と管理"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Gtk ベースのモニタリングアプリケーション"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Media Player"
-#~ msgstr "メディアプレーヤー"
 
-#~ msgid "Play and organize your media collection"
-#~ msgstr "メディアコレクションの再生と管理"
 
-#~ msgid "Lets you watch TV in a window"
-#~ msgstr "ウィンドウに映像を表示"
 
-#~ msgid "Zapping TV Viewer"
-#~ msgstr "Zapping テレビビューア"
 
-#~ msgid "Lexmark showcartridges"
-#~ msgstr "Lexmark カートリッジを表示"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner"
-#~ msgstr "Lexmark ヘッド位置調整 (Lexmark 5xxx, 7xxx, 11xx)"
 
-#~ msgid "Lexmark headalign"
-#~ msgstr "Lexmark ヘッド位置調整"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "IM Client"
-#~ msgstr "インスタント・メッセンジャー クライアント"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "ロックダウンポリシーを設定"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "ロックダウン・エディタ"
 
-#~ msgid "A 3D table tennis game"
-#~ msgstr "3D 卓球ゲーム"
 
-#~ msgid "CannonSmash"
-#~ msgstr "CannonSmash"
 
-#~ msgid "About Me"
-#~ msgstr "個人情報"
 
-#~ msgid "Set your personal information"
-#~ msgstr "個人情報を設定"
 
-#~ msgid "Action-puzzle game involving bouncing penguins"
-#~ msgstr "跳ねるペンギンが出てくるアクションパズルゲーム"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner"
-#~ msgstr "Lexmark ヘッドクリーナー (Lexmark 5xxx, 7xxx, 11xx)"
 
-#~ msgid "Lexmark headclean"
-#~ msgstr "Lexmark ヘッドクリーナー"
 
-#~ msgid "CMake"
-#~ msgstr "CMake"
 
-#~ msgid "Cross-platform buildsystem"
-#~ msgstr "クロスプラットフォームのビルドシステム"
 
-#~ msgid "Access EXIF information from pictures"
-#~ msgstr "写真の EXIF 情報にアクセスします"
 
-#~ msgid "Gexif"
-#~ msgstr "Gexif"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "CD/DVD にデータを書き込んだり複製を作成します"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "メインメニューに表示するアプリケーションを変更"
 
-#~ msgid "Main Menu"
-#~ msgstr "メインメニュー"
 
-#~ msgid "Google Gadgets (Qt)"
-#~ msgstr "Google ガジェット (Qt)"
 
-#~ msgid "Run Google Gadgets in KDE/Qt environment"
-#~ msgstr "KDE/Qt 環境で Google ガジェットを実行します"
 
-#~ msgid "Graphical interface to diff"
-#~ msgstr "diff のグラフィカルインターフェース"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "ウェブを閲覧"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Alignment, ink level, cartridge maintenance"
-#~ msgstr "ヘッド位置調整、インク残量、カートリッジのメンテナンス"
 
-#~ msgid "Epson Inkjet Printer Manager"
-#~ msgstr "Epson インクジェットプリンタ用ツール"
 
-#~ msgid "Character Map"
-#~ msgstr "文字マップ"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "ドキュメントの中に特殊な文字を挿入します"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in Brazilian Portuguese"
-#~ msgstr "Mandriva Linux DrakXTool User Manual (ブラジルのポルトガル語)"
 
-#~ msgid "The Mandriva Linux manuals in Brazilian Portuguese"
-#~ msgstr "Mandriva Linux マニュアル (ブラジルのポルトガル語)"
 
-#~ msgid "Python complete reference"
-#~ msgstr "Python 参考文献"
 
-#~ msgid "Python documentation"
-#~ msgstr "Python 文書"
 
-#~ msgid "X11 screen saver"
-#~ msgstr "X11 スクリーンセーバー"
 
-#~ msgid "Xlock"
-#~ msgstr "Xlock"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "CompizConfig 設定マネージャ"
 
-#~ msgid "Configure Compiz with CompizConfig"
-#~ msgstr "CompizConfig を使って Compiz を設定"
 
-#~ msgid "Authorizations"
-#~ msgstr "認証"
 
-#~ msgid "Configure authorizations"
-#~ msgstr "認証の設定"
 
-#~ msgid "NetApplet"
-#~ msgstr "NetApplet"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "ネットワークを監視するアプレット"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Samba の設定 (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Swat Samba 管理ツール"
 
-#~ msgid "Screenshot grabber"
-#~ msgstr "スクリーンショットを撮るアプリケーション"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "A program for watching TV (nicer interface)"
-#~ msgstr "テレビを見るためのプログラム (より良いインターフェース)"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "ソリティア型カードゲーム"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "Mandriva Linux Starter Guide in French"
-#~ msgstr "Mandriva Linux Starter Guide (フランス語)"
 
-#~ msgid "The Mandriva Linux manuals in French"
-#~ msgstr "Mandriva Linux マニュアル (フランス語)"
 
-#~ msgid "Chainsaw"
-#~ msgstr "Chainsaw"
 
-#~ msgid "Log4j log viewer"
-#~ msgstr "Log4j ログビューア"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "チェスゲーム"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "デスクトップの見映えを設定します"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "オンライン辞書を使って単語の意味や綴りを調べます"
 
-#~ msgid "Google Gadgets (GTK)"
-#~ msgstr "Google ガジェット (GTK)"
 
-#~ msgid "Run Google Gadgets in GNOME/GTK environment"
-#~ msgstr "GNOME/GTK 環境で Google ガジェットを実行します"
 
-#~ msgid "Browse the file system and manage the files"
-#~ msgstr "ファイルシステムの閲覧とファイルの管理を行います"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr ""
-#~ "このコンピュータから名前や内容でドキュメントとフォルダの場所を特定します"
 
-#~ msgid "Search for Files..."
-#~ msgstr "ファイルの検索..."
 
-#~ msgid "Avahi VNC Server Browser"
-#~ msgstr "Avahi VNC サーバ・ブラウザ"
 
-#~ msgid "Browse for Zeroconf-enabled VNC Servers"
-#~ msgstr "Zeroconf が有効な VNC サーバーのブラウズ"
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "他のアプリケーションを起動してウィンドウを管理したり時刻を表示するための"
-#~ "ユーティリティをいろいろ提供します"
 
-#~ msgid "Panel"
-#~ msgstr "パネル"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr ""
-#~ "別の入力デバイスを利用してアプリケーションを操作したり文字を入力します"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "オンスクリーンキーボード"
 
-#~ msgid "Lookup words"
-#~ msgstr "単語を調べる"
 
-#~ msgid "StarDict"
-#~ msgstr "StarDict"
 
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "rp-pppoe のフロントエンド"
 
-#~ msgid "TkPPPoE"
-#~ msgstr "TkPPPoE"
 
-#~ msgid "GnuCash Finance Management"
-#~ msgstr "Gnucash 財務管理"
 
-#~ msgid "Manage your finances, accounts, and investments"
-#~ msgstr "あなたの財務、口座、投資を管理"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "オーディオ CD リッパー"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "CD から音楽をコピー"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "CD/DVD の作成"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "CD と DVD の作成"
 
-#~ msgid "Device Manager"
-#~ msgstr "デバイスマネージャ"
 
-#~ msgid "Manage devices"
-#~ msgstr "デバイスを管理"
 
-#~ msgid "Import the photos on your camera card"
-#~ msgstr "カメラカードの写真をインポートします"
 
-#~ msgid "Photo Import Tool"
-#~ msgstr "写真インポートツール"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "デフォルトアプリケーション"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "ブロックをずらしながらパズルを解いてください"
 
-#~ msgid "Blender (DRI disabled)"
-#~ msgstr "Blender (DRI なし)"
 
-#~ msgid "3D Chess Game"
-#~ msgstr "3D チェス"
 
-#~ msgid "Chess"
-#~ msgstr "チェス"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "古典的な対戦型のチェス・ゲームをお楽しみください"
 
-#~ msgid "Manage your PulseAudio sound server."
-#~ msgstr "PulseAudio サウンドサーバを管理します。"
 
-#~ msgid "PulseAudio Manager"
-#~ msgstr "PulseAudio マネージャ"
 
-#~ msgid "Leafpad"
-#~ msgstr "Leafpad"
 
-#~ msgid "Simple text editor"
-#~ msgstr "シンプルなテキストエディタ"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "ブックマークの場所やローカルのネットワークの場所を参照します"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "ユーザ向けのプロファイルを設定したり編集します"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "プロファイル・エディタ"
 
-#~ msgid "Chat with other people using Internet Relay Chat"
-#~ msgstr "インターネットリレーチャットを使って他の人とチャット"
 
-#~ msgid "XChat IRC"
-#~ msgstr "XChat IRC"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "フォトビューア"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Bluetooth の設定"
 
-#~ msgid "GUI Python Shell"
-#~ msgstr "Python GUI シェル"
 
-#~ msgid "PyShell"
-#~ msgstr "PyShell"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "テキストエディタ"
 
-#~ msgid "Disk Utility"
-#~ msgstr "ディスク・ユーティリティ"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "ドライブとメディアの管理"
 
-#~ msgid "Office Suite"
-#~ msgstr "オフィススイート"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
 
-#~ msgid "Capture Volume Meter"
-#~ msgstr "キャプチャ音量メーター"
 
-#~ msgid "Monitor the input volume"
-#~ msgstr "入力音量をモニタ"
 
-#~ msgid "PulseAudio Volume Meter (Capture)"
-#~ msgstr "PulseAudio 音量メーター (キャプチャ)"
 
-#~ msgid "GBRXvt (GB2312)  "
-#~ msgstr "GBRXvt (GB2312)  "
 
-#~ msgid "Simplified Chinese rxvt terminal  "
-#~ msgstr "簡体字中国語 rxvt ターミナル  "
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "いろいろな画像を参照します"
 
-#~ msgid "Monitor the output volume"
-#~ msgstr "出力音量をモニタ"
 
-#~ msgid "Playback Volume Meter"
-#~ msgstr "再生音量メーター"
 
-#~ msgid "PulseAudio Volume Meter (Playback)"
-#~ msgstr "PulseAudio 音量メーター (再生)"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "モニタの解像度と位置を変更する"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Calc の表計算シートを使って、計算、情報の分析、リストの管理を行います。"
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "Echoaudio サウンドカード用のコントロールツール"
 
-#~ msgid "Echo mixer"
-#~ msgstr "Echo ミキサー"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "デスクトップ全体またはウィンドウの画像を保存します"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "スクリーンショットの取得"
 
-#~ msgid "Phone Manager"
-#~ msgstr "電話マネージャ"
 
-#~ msgid "Receive and send text messages from your mobile phone"
-#~ msgstr "携帯電話でテキストメッセージを受信/送信"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "開発者向けのヘルププログラムです"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr "オランダ語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Dutch"
-#~ msgstr "HOWTO (オランダ語)"
 
-#~ msgid "Eclipse"
-#~ msgstr "Eclipse"
 
-#~ msgid "Eclipse Integrated Development Environment"
-#~ msgstr "Eclipse 統合開発環境"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "ファイルマネージャを使ってファイルシステムを閲覧します"
 
-#~ msgid "File Browser"
-#~ msgstr "ファイルブラウザ"
 
-#~ msgid "ODBC Configuration Tool (Root User)"
-#~ msgstr "ODBC 設定ツール (root ユーザ)"
 
-#~ msgid "ODBConfig (Root User)"
-#~ msgstr "ODBConfig  (root ユーザ)"
 
-#~ msgid "Mandriva Linux Starter Guide in English"
-#~ msgstr "Mandriva Linux Starter Guide (英語)"
 
-#~ msgid "The Mandriva Linux manuals in English"
-#~ msgstr "Mandriva Linux マニュアル (英語)"
 
-#~ msgid "IDE for Python"
-#~ msgstr "Python 用 IDE"
 
-#~ msgid "Mail notifier"
-#~ msgstr "メール通知ソフト"
 
-#~ msgid "Add and organize the OpenOffice.org extensions."
-#~ msgstr "OpenOffice.org エクステンション (拡張機能) の追加と管理"
 
-#~ msgid "Extension Manager"
-#~ msgstr "エクステンションマネージャ"
 
-#~ msgid "OpenOffice.org Extension Manager"
-#~ msgstr "OpenOffice.org エクステンションマネージャ"
 
-#~ msgid "Configurator"
-#~ msgstr "設定"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "Dia ダイアグラムエディタ"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "ダイアグラムを編集します"
 
-#~ msgid "Monitor and manage OpenJDK applications"
-#~ msgstr "OpenJDK アプリケーションの監視と管理"
 
-#~ msgid "OpenJDK Monitoring & Management Console"
-#~ msgstr "OpenJDK 監視/管理コンソール"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr ""
-#~ "デスクトップのさまざまな部分に適用するテーマパッケージをインストールします"
 
-#~ msgid "Theme Installer"
-#~ msgstr "テーマのインストーラ"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "RME Hammerfall のコントロールパネル"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME Digicontrol"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "GNOME のヘルプ"
 
-#~ msgid "A melting digital clock"
-#~ msgstr "溶けるデジタル時計"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "支援技術"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr ""
-#~ "ログインした時にアクセシビリティの機能を有効にするかどうかを選択します"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "フォルダのサイズと利用可能なディスク容量をチェック"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "ディスク使用量の解析"
 
-#~ msgid "VirtualBox OSE"
-#~ msgstr "VirtualBox OSE"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "GTK+ アプリの UI ファイルを作成したり編集します"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "写真の管理と共有"
 
-#~ msgid "Photo Manager"
-#~ msgstr "フォト管理ツール"
 
-#~ msgid "Graphical user interface for managing log4j log messages"
-#~ msgstr "log4j ログメッセージを扱う GUI"
 
-#~ msgid "LogFactor5"
-#~ msgstr "LogFactor5"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "FAX クライアント/サーバ設定ツール"
 
-#~ msgid "Fax configuration"
-#~ msgstr "FAX の設定"
 
-#~ msgid "Movie Player"
-#~ msgstr "動画プレーヤー"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "動画や音楽を再生"
 
-#~ msgid "Document Viewer"
-#~ msgstr "ドキュメントビューア"
 
-#~ msgid "Home Folder"
-#~ msgstr "ホームフォルダ"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "ユーザ専用のフォルダを開きます"
 
-#~ msgid "Frontend for Nvidia TV output"
-#~ msgstr "Nvidia TV 出力のフロントエンド"
 
-#~ msgid "Nvidia TV Output"
-#~ msgstr "Nvidia TV 出力"
 
-#~ msgid "Fit falling blocks together"
-#~ msgstr "落ちてくるブロックを組み合わせて消し去ってください"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "同じ数字が隣接するように並べながらパズルを完成させてください"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Clone of Sega's \"Chu Chu Rocket\", a multi-player puzzle game"
-#~ msgstr ""
-#~ "セガのちゅーちゅーロケットのクローン、マルチプレイヤーのパズルゲーム"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "A graphical designer/dialog builder for Qt4"
-#~ msgstr "Qt4 のためのグラフィカルデザイナー/ダイアログビルダ"
 
-#~ msgid "Qt4 Designer"
-#~ msgstr "Qt4 デザイナー"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "GStreamer アプリケーションのデフォルト値を設定"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "マルチメディア・システム・セレクタ"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "PalmOS デバイスの設定を行います"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "PalmOS のデバイス"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "リモートデスクトップにアクセス"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "リモートデスクトップのビューア"
 
-#~ msgid "HDSPMixer"
-#~ msgstr "HDSPMixer"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "Audit の設定"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "Audit の設定を変更"
 
-#~ msgid "Bluefish Editor"
-#~ msgstr "Bluefish エディタ"
 
-#~ msgid "Web Development Editor"
-#~ msgstr "ウェブ開発エディタ"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr"
-#~ msgstr "Gtk-ocr"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Gtk-ocr は gocr の Gtk フロントエンドです"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "ロボットを避けながらロボット同士を破壊してください"
 
-#~ msgid "Robots"
-#~ msgstr "Robots"
 
-#~ msgid "Search"
-#~ msgstr "検索"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "デスクトップ上のデータを検索します"
 
-#~ msgid "xine"
-#~ msgstr "xine"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr "スペイン語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Spanish"
-#~ msgstr "HOWTO (スペイン語)"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "Full-featured POP/IMAP mail retrieval daemon"
-#~ msgstr "フル機能の POP/IMAP メール検索デーモン"
 
-#~ msgid "Crack Attack!"
-#~ msgstr "Crack Attack!"
 
-#~ msgid "A free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "フリー (GPL) の Bomberman 風マルチプレイヤーゲーム"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "GGZ Core Client"
-#~ msgstr "GGZ コアクライアント"
 
-#~ msgid "Gtk+ internet gaming center"
-#~ msgstr "Gtk+ インターネットゲームセンター"
 
-#~ msgid "ggz-gtk"
-#~ msgstr "ggz-gtk"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "Ia Ora Free"
-#~ msgstr "Ia Ora Free"
 
-#~ msgid "Mandriva Screensaver"
-#~ msgstr "Mandriva スクリーンセーバー"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "四角形が脈打つように見えるポップアートを表示します"
 
-#~ msgid "Pop art squares"
-#~ msgstr "ポップな矩形のアート"
 
-#~ msgid "Ia Ora Blue"
-#~ msgstr "Ia Ora Blue"
 
-#~ msgid "Ia Ora"
-#~ msgstr "Ia Ora"
 
-#~ msgid "Ia Ora Gray"
-#~ msgstr "Ia Ora Gray"
 
-#~ msgid "Ia Ora One"
-#~ msgstr "Ia Ora One"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "F-Spot からスライドショーを表示"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "F-Spot フォト"
 
-#~ msgid "Ia Ora Orange"
-#~ msgstr "Ia Ora Orange"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr ""
-#~ "これはお気に入りのフォルダにある画像をスライドショー形式で表示します"
 
-#~ msgid "Pictures folder"
-#~ msgstr "画像フォルダ"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "画面の回りに GNOME のロゴが浮かびます"
 
-#~ msgid "Floating Feet"
-#~ msgstr "フローティング GNOME"
 
-#~ msgid "Cosmos"
-#~ msgstr "コスモス"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "\"宇宙の画像\" をスライドショー形式で表示します"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "このコンピュータからアクセスできる全てのディスクとフォルダを参照します"
 
-#~ msgid "Computer"
-#~ msgstr "コンピュータ"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in English"
-#~ msgstr "Mandriva Linux Quick Startup Guide (英語)"
 
-#~ msgid "A graphical front end for browsing installed & available packages"
-#~ msgstr ""
-#~ "インストール済みおよび利用可能な RPM パッケージを閲覧するためのグラフィカ"
-#~ "ルフロントエンド"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "利用可能な RPM を参照"
 
-#~ msgid "Convert HTML files to PDF or PostScript"
-#~ msgstr "HTML ファイルを PDF や PostScript に変換"
 
-#~ msgid "HTMLDoc"
-#~ msgstr "HTML ドキュメント"
 
-#~ msgid "Bittorrent Checker"
-#~ msgstr "Bittorrent チェッカー"
 
-#~ msgid "Mandriva Linux Bittorrent checker"
-#~ msgstr "Mandriva Linux Bittorrent チェッカー"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "TeX document processor - especially good at scientific documents"
-#~ msgstr "TeX 文書処理 (科学文書向き)"
 
-#~ msgid "Interactive C# Shell"
-#~ msgstr "対話型の C# シェル"
 
-#~ msgid "gsharp"
-#~ msgstr "gsharp"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "デスクトップに地球を表示"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "ブックマークを閲覧/整理"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Epiphany ウェブ・ブックマーク"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "ウェブ・ブックマーク"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr "スロベニア語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Slovenian"
-#~ msgstr "HOWTO (スロベニア語)"
 
-#~ msgid "An SSL web-based administration interface for Unix systems"
-#~ msgstr "UNIX システムのための SSL ウェブベースのシステム管理ツール"
 
-#~ msgid "webmin"
-#~ msgstr "webmin"
 
-#~ msgid "Menu Style Configuration"
-#~ msgstr "メニュースタイルの設定"
 
-#~ msgid "Platform Game"
-#~ msgstr "プラットフォームゲーム"
 
-#~ msgid "SuperTux 2"
-#~ msgstr "SuperTux 2"
 
-#~ msgid "GUI Python Shell with Filling"
-#~ msgstr "Python の GUI シェル (Filling 付き)"
 
-#~ msgid "PyCrust"
-#~ msgstr "PyCrust"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "アクション、パズル解きゲーム"
 
-#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
-#~ msgstr "敵をかわし、パズルを解きながら金塊を集めるゲーム"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "メニュー更新ツール"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "KDiamond"
-#~ msgstr "KDiamond"
 
-#~ msgid "Three-in-a-row game"
-#~ msgstr "三目並べ"
 
-#~ msgid "KSnake"
-#~ msgstr "KSnake"
 
-#~ msgid "Snake-like Game"
-#~ msgstr "Snake のようなゲーム"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "色の選択"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KColorChooser"
 
-#~ msgid "A KDE Blogging Client"
-#~ msgstr "KDE のブログ用クライアント"
 
-#~ msgid "Blogilo"
-#~ msgstr "Blogilo"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "元素周期表"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "元素周期表"
 
-#~ msgid "Hangman Game"
-#~ msgstr "ハングマンゲーム"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "ハングマンゲーム"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Contact Manager"
-#~ msgstr "連絡先マネージャ"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "KPhotoAlbum"
 
-#~ msgid "Photo Album"
-#~ msgstr "フォトアルバム"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "シンプルな画像ビューア"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Kiriki"
-#~ msgstr "Kiriki"
 
-#~ msgid "Yahtzee-like Dice Game"
-#~ msgstr "ヤッツィーのようなダイスゲーム"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "ユーザマネージャ"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Territory Capture Game"
-#~ msgstr "陣地獲得ゲーム"
 
-#~ msgid "Galactic Strategy Game"
-#~ msgstr "宇宙戦略ゲーム"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "フラッシュカードと語彙学習プログラム"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "フラッシュカード"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Kontact Administration"
-#~ msgstr "Kontact の管理"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - あなたの音楽を再発見"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "CVS フロントエンド"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "スクリーン定規"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "スクリーンキャプチャプログラム"
 
-#~ msgid "Character Selector"
-#~ msgstr "文字の選択"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "アルファベットの学習"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "アルファベットを学習するための KDE プログラム"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "SMB/CIFS 共有(シェア) ブラウザ"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "カレンダーとスケジュール管理プログラム"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "個人向けスケジュール管理"
 
-#~ msgid "Home"
-#~ msgstr "ホーム"
 
-#~ msgid "Personal Files"
-#~ msgstr "個人のファイル"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Space Arcade Game"
-#~ msgstr "宇宙アーケードゲーム"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "KDE のフィードリーダー"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "フィードリーダー"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "HTML イメージマップエディタ"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KBlocks"
-#~ msgstr "KBlocks"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "リンクチェッカー"
 
-#~ msgid "KJots"
-#~ msgstr "KJots"
 
-#~ msgid "Note Taker"
-#~ msgstr "メモを取る"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "スピーチシンセサイザフロントエンド"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "格好いいデスクトップ eyecandy エンジン。"
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Nepomuk PIMO Shell"
-#~ msgstr "Nepomuk PIMO シェル"
 
-#~ msgid "The simple Nepomuk PIMO Shell"
-#~ msgstr "シンプルな Nepomuk PIMO シェル"
 
-#~ msgid "Picture Game for Children"
-#~ msgstr "子供のための福笑いゲーム"
 
-#~ msgid "Potato Guy"
-#~ msgstr "福笑い"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "カット＆ペースト履歴ユーティリティ"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "クリップボードツール"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "Battleship Game"
-#~ msgstr "戦艦ゲーム"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "Card Game"
-#~ msgstr "カードゲーム"
 
-#~ msgid "LSkat"
-#~ msgstr "LSkat"
 
-#~ msgid "CD Player"
-#~ msgstr "CD プレーヤー"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "KDE フォト管理ツール"
 
-#~ msgid "Photo Viewer and Editor"
-#~ msgstr "画像ビューア"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Arcade Bombing Game"
-#~ msgstr "爆弾投下アーケードゲーム"
 
-#~ msgid "Bomber"
-#~ msgstr "Bomber"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Bomberman のクローン"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "グラフ計算機"
 
-#~ msgid "KAlgebra"
-#~ msgstr "KAlgebra"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "数式ソルバ＆プロッタ"
 
-#~ msgid "Qt Designer UI File Viewer"
-#~ msgstr "Qt デザイナー UI ファイルビューア"
 
-#~ msgid "3-D Game based on Rubik's Cube"
-#~ msgstr "Rubik's Cube を元にした 3-D ゲーム"
 
-#~ msgid "A 3-D game based on Rubik's Cube"
-#~ msgstr "Rubik's Cube を元にした 3-D ゲーム"
 
-#~ msgid "Kubrick"
-#~ msgstr "Kubrick"
 
-#~ msgid "KAppTemplate"
-#~ msgstr "KAppTemplate"
 
-#~ msgid "KDE Template Generator"
-#~ msgstr "KDE テンプレートジェネレータ"
 
-#~ msgid "Certificate Manager and Unified Crypto GUI"
-#~ msgstr "証明書マネージャと、統合された暗号 GUI"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "デスクトップ共有"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KsirK Skin Editor"
-#~ msgstr "KsirK スキンエディタ"
 
-#~ msgid "Skin Editor for the World Domination Strategy Game"
-#~ msgstr "KsirK 世界制覇ゲームのスキンエディタ"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "KDE グループウェア設定ウィザード"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "四河省"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "マージャン牌ゲーム"
 
-#~ msgid "Desktop Search"
-#~ msgstr "デスクトップ検索"
 
-#~ msgid "Nepomuk Search Client"
-#~ msgstr "Nepomuk 検索クライアント"
 
-#~ msgid "The simple Nepomuk Desktop Search Client"
-#~ msgstr "シンプルな Nepomuk デスクトップ検索クライアント"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "記憶力増強ゲーム"
 
-#~ msgid "Blinken"
-#~ msgstr "Blinken"
 
-#~ msgid "Memory Enhancement Game"
-#~ msgstr "記憶力増強ゲーム"
 
-#~ msgid "KSudoku"
-#~ msgstr "KSudoku"
 
-#~ msgid "KSudoku, Sudoku game & more for KDE"
-#~ msgstr "KSudoku, KDE の数字パズルゲーム"
 
-#~ msgid "Sudoku Game"
-#~ msgstr "数字パズルゲーム"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "GnuPG のフロントエンド"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "暗号化ツール"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "スクリーンのサイズや向きを変更するためのアプレット"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "スクリーンのリサイズと回転"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Mail Client"
-#~ msgstr "メールクライアント"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Mahjongg Solitaire"
-#~ msgstr "上海マージャン牌ゲーム"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "オセロゲーム"
 
-#~ msgid "Killbots"
-#~ msgstr "Killbots"
 
-#~ msgid "KMail view"
-#~ msgstr "KMail ビュー"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "科学電卓"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Diff/Patch フロントエンド"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "画面拡大鏡"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "起動マネージャ"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "ネットワーク フォルダ ウィザード"
 
-#~ msgid "UML Modeller"
-#~ msgstr "UML モデラー"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "ブラックボックス論理ゲーム"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "Kdenlive"
-#~ msgstr "Kdenlive"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "ノンリニア動画エディタ"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "倉庫番のような論理ゲーム"
 
-#~ msgid "KPatience"
-#~ msgstr "KPatience"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "Patience カードゲーム"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "個人情報マネージャ"
 
-#~ msgid "Desktop Globe"
-#~ msgstr "デスクトップ地球儀"
 
-#~ msgid "Marble"
-#~ msgstr "Marble"
 
-#~ msgid "Bovo"
-#~ msgstr "Bovo"
 
-#~ msgid "Five-in-a-row Board Game"
-#~ msgstr "五目並べ"
 
-#~ msgid "Annotate..."
-#~ msgstr "注釈..."
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "画面上の生物"
 
-#~ msgid "Parley"
-#~ msgstr "Parley"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "ボキャブラリの強化"
 
-#~ msgid "Font Viewer"
-#~ msgstr "フォントビューア"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "関数プロッタ"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "数学関数プロッタ"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "インターネットダイアルアップツール"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "GTK+/GNOME 向けの統合開発環境です"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "KDevelop 4"
 
-#~ msgid "Breakout-like Game"
-#~ msgstr "ブロック崩しゲーム"
 
-#~ msgid "KBreakOut"
-#~ msgstr "KBreakOut"
 
-#~ msgid "System Information"
-#~ msgstr "システム情報"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "デスクトッププラネタリウム"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "CD Cover Printer"
-#~ msgstr "CD カバープリンタ"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "Four-in-a-row Board Game"
-#~ msgstr "四目並べ"
 
-#~ msgid "KFourInLine"
-#~ msgstr "KFourInLine"
 
-#~ msgid "KNetWalk"
-#~ msgstr "KNetWalk"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "Paint Program"
-#~ msgstr "ペイントプログラム"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "個人アラームスケジューラ"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "ウォレット管理ツール"
 
-#~ msgid "Eat pills escaping ghosts"
-#~ msgstr "モンスターを避けてドットを食べるゲーム"
 
-#~ msgid "Kapman"
-#~ msgstr "Kapman"
 
-#~ msgid "Pac-Man Clone"
-#~ msgstr "パックマンのクローン"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "Tron-like Game"
-#~ msgstr "Tron のようなゲーム"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "ディスク使用状況を表示"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "KDE のための BitTorrent プログラム"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "BitTorrent クライアント"
 
-#~ msgid "KTorrent"
-#~ msgstr "KTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "プロファイラフロントエンド"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "パフォーマンスプロファイルデータを視覚化"
 
-#~ msgid "Download Manager"
-#~ msgstr "ダウンロードマネージャ"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "地理学学習プログラム"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "地理学トレーナー"
 
-#~ msgid "KGeography"
-#~ msgstr "KGeography"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Tactical Game"
-#~ msgstr "戦略的ゲーム"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "分数の練習"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "分数の実践練習"
 
-#~ msgid "Computer-Aided Translation System"
-#~ msgstr "コンピュータの力を利用した翻訳システム"
 
-#~ msgid "Lokalize"
-#~ msgstr "Lokalize"
 
-#~ msgid "Info Center"
-#~ msgstr "インフォセンター"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "インフォセンター"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "ティーメーカー"
 
-#~ msgid "Change Password"
-#~ msgstr "パスワードを変更"
 
-#~ msgid "Connect the dots to create squares"
-#~ msgstr "点を結んで正方形を作るゲーム"
 
-#~ msgid "KSquares"
-#~ msgstr "KSquares"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "コンソールカレンダー"
 
-#~ msgid "KsirK"
-#~ msgstr "KsirK"
 
-#~ msgid "World Domination Strategy Game"
-#~ msgstr "世界制覇ゲーム"
 
-#~ msgid "Cantor"
-#~ msgstr "Cantor"
 
-#~ msgid "KDE Frontend to Mathematical Software"
-#~ msgstr "数値演算ソフトウェアのための KDE フロントエンド"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "日本語参照/学習ツール"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "日本語参照/学習ツール"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "サウンドミキサー"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "KDE バグマネージメント"
 
-#~ msgid "Welcome"
-#~ msgstr "ようこそ"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "ブックマークエディタ"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "ブックマークの管理と編集"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "デスクトップを設定"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "検索および置換ツール"
 
-#~ msgid "Akonadi Tray Utility"
-#~ msgstr "Akonadi トレイユーティリティ"
 
-#~ msgid "Akonaditray"
-#~ msgstr "Akonaditray"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "ミニチュアゴルフ"
 
-#~ msgid "KWalletManager"
-#~ msgstr "KWalletManager"
 
-#~ msgid "Quassel IRC"
-#~ msgstr "Quassel IRC"
 
-#~ msgid "A Subversion client for KDE"
-#~ msgstr "KDE のための Subversion クライアント"
 
-#~ msgid "SVN client"
-#~ msgstr "SVN クライアント"
 
-#~ msgid "kdesvn"
-#~ msgstr "kdesvn"
 
-#~ msgid "KwikDisk"
-#~ msgstr "マウントツール"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "リムーバブルメディアユーティリティ"
 
-#~ msgid "Ball Bouncing Game"
-#~ msgstr "跳ねるボールのゲーム"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "自動マウスクリック"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr ""
-#~ "RSI (反復運動過多損傷) を防ぐために、あなたの代わりにマウスをクリック"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Quassel IRC (Client only)"
-#~ msgstr "Quassel IRC (クライアントのみ)"
 
-#~ msgid "Sweeper"
-#~ msgstr "Sweeper"
 
-#~ msgid "System Cleaner"
-#~ msgstr "システムクリーナー"
 
-#~ msgid "Trash"
-#~ msgstr "ごみ箱"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Minesweeper-like Game"
-#~ msgstr "地雷ゲーム"
 
-#~ msgid "Board Game"
-#~ msgstr "ボードゲーム"
 
-#~ msgid "SameGame"
-#~ msgstr "さめがめ"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "フォト管理ツール"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Nepomuk Ontology Importer"
-#~ msgstr "Nepomuk オントロジーをインポート"
 
-#~ msgid "Ontology Import"
-#~ msgstr "オントロジーのインポート"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "高度なテキストエディタ"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "バイナリエディタ"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "DBPedia References"
-#~ msgstr "DBPedia リファレンス"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "ニュースリーダー"
 
-#~ msgid "Interactive Physical Simulator"
-#~ msgstr "対話式の物理シミュレータ"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "物理の実験をシミュレートします"
 
-#~ msgid "Step"
-#~ msgstr "Step"
 
-#~ msgid "Menu Editor"
-#~ msgstr "メニューエディタ"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "音楽プレーヤー"
 
-#~ msgid "KTimeTracker"
-#~ msgstr "KTimeTracker"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "個人向けタイムトラッカー"
 
-#~ msgid "Akonadi Console"
-#~ msgstr "Akonadi コンソール"
 
-#~ msgid "Akonadi Management and Debugging Console"
-#~ msgstr "Akonadi の管理とデバッグのためのコンソール"
 
-#~ msgid "KRDC"
-#~ msgstr "KRDC"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "リモートデスクトップクライアント"
 
-#~ msgid "KSystemLog"
-#~ msgstr "KSystemLog"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "システムログビューア"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "システムログビューア"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "子供のためのプログラミング環境"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "ファイル/フォルダを検索"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "インターネットダイアルアップツール ログビューア"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPP - ログビューア"
 
-#~ msgid "A simple ball dodging game"
-#~ msgstr "ボールをよけるシンプルなゲーム"
 
-#~ msgid "Kollision"
-#~ msgstr "Kollision"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "幾何学との対話"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "幾何学との対話"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "ファイルマネージャ - スーパーユーザモード"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "文字の順番ゲーム"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "回文ゲーム"
 
-#~ msgid "KNotes"
-#~ msgstr "KNotes"
 
-#~ msgid "Popup Notes"
-#~ msgstr "ポップアップメモ"
 
-#~ msgid "KDE SVN Build"
-#~ msgstr "KDE SVN ビルド"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "フロッピーをフォーマット"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Dragon Player"
-#~ msgstr "Dragon Player"
 
-#~ msgid "Acquire images from a scanner"
-#~ msgstr "スキャナから画像を取り込み"
 
-#~ msgid "Anthy Dictionary editor"
-#~ msgstr "Anthy 辞書管理"
 
-#~ msgid "Edit Anthy dictionary."
-#~ msgstr "Anthy の個人辞書に単語を登録、削除、編集するツールです。"
 
-#~ msgid "Management tool for a private dictionary of anthy"
-#~ msgstr "Anthy 個人辞書管理ツール"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "コマンドにショートカットキーを割り当てる"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "キーボードショートカット"
 
-#~ msgid "Add urpmi media"
-#~ msgstr "urpmi メディアを追加"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Mandriva Linux Pxelinux configurator"
-#~ msgstr "Mandriva Linux Pxelinux 設定ツール"
 
-#~ msgid "Network traffic analyzer (root user)"
-#~ msgstr "ネットワークトラフィックのアナライザ (root ユーザ)"
 
-#~ msgid "Wireshark (root user)"
-#~ msgstr "Wireshark (root ユーザ)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr "イタリア語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Italian"
-#~ msgstr "HOWTO (イタリア語)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr "韓国・朝鮮語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Korean"
-#~ msgstr "HOWTO (韓国・朝鮮語)"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "テレビを見るためのプログラム"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "GNU Prolog is a free implementation of Prolog"
-#~ msgstr "GNU Prolog は Prolog のフリー実装です"
 
-#~ msgid "HP Device Manager"
-#~ msgstr "HP デバイスマネージャ"
 
-#~ msgid "View device status, ink levels and perform maintenance."
-#~ msgstr "デバイスの状態とインク残量を表示し、メンテナンスを行います。"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "Visualization Data Explorer"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Impress を使って、スライドショー、会議、ウェブページ用のプレゼンテーション"
-#~ "を作成・編集します。"
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Qt interface designer"
-#~ msgstr "Qt3 インターフェース デザイナ"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Math を使って、科学の公式や方程式を作成・編集します。"
 
-#~ msgid "Formula"
-#~ msgstr "数式エディタ"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "音量を調整"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "PulseAudio 音量コントロール"
 
-#~ msgid "Volume Control"
-#~ msgstr "音量コントロール"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Basic volume controller"
-#~ msgstr "基本的な音量コントロール"
 
-#~ msgid "JRXvt (JIS)  "
-#~ msgstr "JRXvt (JIS)  "
 
-#~ msgid "Japanese rxvt terminal  "
-#~ msgstr "日本語 rxvt ターミナル  "
 
-#~ msgid "Configure your database environment"
-#~ msgstr "データベースの環境設定を行う"
 
-#~ msgid "Database Access Properties"
-#~ msgstr "データベースアクセスのプロパティ"
 
-#~ msgid "Linphone"
-#~ msgstr "Linphone"
 
-#~ msgid "Linphone is a web-phone"
-#~ msgstr "Linphone はウェブ電話です"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "インストール済みのプラグインを設定します"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "キーボード表示器のプラグイン"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "Envy24 (ice1712) ベースのサウンドカードをコントロール"
 
-#~ msgid "Envy24control"
-#~ msgstr "Envy24control"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr "日本語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Japanese"
-#~ msgstr "HOWTO (日本語)"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "マルチプレイヤー 3D 戦車対戦ゲーム"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "音量や音のイベントを変更します"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in French"
-#~ msgstr "Mandriva Linux DrakXTool User Manual (フランス語)"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "リモートからデスクトップを表示する方法を選択したり設定します"
 
-#~ msgid "Remote Desktop"
-#~ msgstr "リモートデスクトップ"
 
-#~ msgid "Screensaver"
-#~ msgstr "スクリーンセーバー"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "スクリーンセーバーの設定"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "個人向けのフリーで使いやすい財務管理ソフト"
 
-#~ msgid "HomeBank"
-#~ msgstr "ホームバンク"
 
-#~ msgid "Open Folder"
-#~ msgstr "フォルダを開く"
 
-#~ msgid "An Applet for Quick Device Changing"
-#~ msgstr "デバイスを素早く切り替えるためのアプレット"
 
-#~ msgid "Device Chooser"
-#~ msgstr "デバイスの選択"
 
-#~ msgid "PulseAudio Device Chooser"
-#~ msgstr "PulseAudio デバイスを選択"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "マルチプレイヤーパズルゲーム"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "GNOME 数独"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "あなたの思考能力を番号の付いたマス目のパズルでテストしてみます"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in Brazilian Portuguese"
-#~ msgstr "Mandriva Linux Quick Startup Guide (ブラジルのポルトガル語)"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "BitTorrent でファイルをダウンロード/共有"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "ログファイルビュー"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "システムログを表示したり監視します"
 
-#~ msgid "System Regional Settings"
-#~ msgstr "システムの言語と国の設定"
 
-#~ msgid "System wide language & country configurator"
-#~ msgstr "システム全体の言語と国の設定"
 
-#~ msgid "Network Proxy"
-#~ msgstr "ネットワークのプロキシ"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "お使いのネットワーク・プロキシを設定します"
 
-#~ msgid "Mail and News Client"
-#~ msgstr "メールクライアントとニュースリーダー"
 
-#~ msgid "Mail/News"
-#~ msgstr "メール/ニュース"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LXTerminal"
 
-#~ msgid "Use the command line"
-#~ msgstr "コマンドライン端末です"
 
-#~ msgid "Lexmark hidecartridges"
-#~ msgstr "Lexmark カートリッジを隠す"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "ログインした後に起動するアプリケーションを選択します"
 
-#~ msgid "Startup Applications"
-#~ msgstr "自動起動するアプリ"
 
-#~ msgid "A manual browser for Qt4 documentation"
-#~ msgstr "Qt4 ドキュメントのマニュアルブラウザ"
 
-#~ msgid "Qt4 Assistant"
-#~ msgstr "Qt4 アシスタント"
 
-#~ msgid "Preview fonts"
-#~ msgstr "フォントのプレビュー"
 
-#~ msgid "Schematic capture and simulation of electronic circuits"
-#~ msgstr "電子回路の回路図とシミュレーション"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "地雷原から見えない地雷を除去してください"
 
-#~ msgid "Mines"
-#~ msgstr "GNOME マインスィーパ"
 
-#~ msgid "Mono IL Contrast"
-#~ msgstr "Mono IL Contrast"
 
-#~ msgid "Codeina"
-#~ msgstr "Codeina"
 
-#~ msgid "Record sound clips"
-#~ msgstr "サウンドクリップを録音"
 
-#~ msgid "Gnome Audio CD editor and burner"
-#~ msgstr "GNOME オーディオ CD エディタ/ライター"
 
-#~ msgid "Gnome CD Master"
-#~ msgstr "GNOME CD マスター"
 
-#~ msgid "Set your window properties"
-#~ msgstr "ウィンドウのプロパティを設定します"
 
-#~ msgid "Windows"
-#~ msgstr "Windows"
 
-#~ msgid "HDSPConf"
-#~ msgstr "HDSPConf"
 
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Frozen Bubble アーケードゲーム"
 
-#~ msgid "Configure power management"
-#~ msgstr "電源管理を設定します"
 
-#~ msgid "Power Management"
-#~ msgstr "電源管理"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "AisleRiot ソリティア"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "いろいろなソリティアゲームを楽しんでください"
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "XRC resource editor for wxPython"
-#~ msgstr "wxPython のための XRC リソースエディタ"
 
-#~ msgid "XRCed"
-#~ msgstr "XRCed"
 
-#~ msgid "DjView3"
-#~ msgstr "DjView3"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "DjVuビューア"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "ユーザやグループを追加/削除"
 
-#~ msgid "User Administration"
-#~ msgstr "ユーザの管理"
 
-#~ msgid "Browse the Web"
-#~ msgstr "ウェブを閲覧します"
 
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Firefox ウェブブラウザ"
 
-#~ msgid "A translation tool for Qt4"
-#~ msgstr "Qt4 のための翻訳ツール"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Qt Linguist"
 
-#~ msgid "KRXvt (KSC5601)  "
-#~ msgstr "KRXvt (KSC5601)  "
 
-#~ msgid "Korean rxvt terminal  "
-#~ msgstr "朝鮮語 rxvt ターミナル  "
 
-#~ msgid "Note-taker"
-#~ msgstr "メモ"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "メモを取り、アイデアを関連付け、情報を整理します"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Tomboy メモ"
 
-#~ msgid "Archive Manager"
-#~ msgstr "書庫マネージャ"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "書庫を作成したり修正します"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "依頼の取消し、一時停止、再開、再印刷"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "印刷依頼を管理する"
 
-#~ msgid "Create and edit Web pages by using Writer."
-#~ msgstr "Writer を使って、ウェブページを作成・編集します。"
 
-#~ msgid "OpenOffice.org Writer/Web"
-#~ msgstr "OpenOffice.org Writer/Web"
 
-#~ msgid "Web Page Creation"
-#~ msgstr "ウェブページの作成"
 
-#~ msgid "Configure Desktop Search"
-#~ msgstr "デスクトップ検索の設定"
 
-#~ msgid "Search & Indexing"
-#~ msgstr "検索とインデックス作成"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr ""
-#~ "お使いのコンピュータにあるファイルやフォルダ、ドキュメントを検索します"
 
-#~ msgid "About GNOME"
-#~ msgstr "GNOME について"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "GNOME についてもっとよく知るには？"
 
-#~ msgid "A QT application to configure Synaptics TouchPad"
-#~ msgstr "Synaptics タッチパッドの設定ツール"
 
-#~ msgid "Qsynaptics"
-#~ msgstr "Qsynaptics"
 
-#~ msgid "Manage running processes"
-#~ msgstr "実行中のプロセスを管理します"
 
-#~ msgid "Process manager"
-#~ msgstr "プロセスマネージャ"
 
-#~ msgid "Task Manager"
-#~ msgstr "タスクマネージャ"
 
-#~ msgid "ImageMagick"
-#~ msgstr "ImageMagick"
 
-#~ msgid "Views Graphics files"
-#~ msgstr "グラフィックファイルを閲覧"
 
-#~ msgid "Blender"
-#~ msgstr "Blender"
 
-#~ msgid "Calculation, Analysis, and Visualization of Information"
-#~ msgstr "情報の計算、分析、視覚化"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "FLTK Photo Software"
-#~ msgstr "FLTK フォトソフト"
 
-#~ msgid "flPhoto"
-#~ msgstr "flPhoto"
 
-#~ msgid "Keyboard"
-#~ msgstr "キーボード"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "キーボードの設定を行う"
 
-#~ msgid "XGPS"
-#~ msgstr "XGPS"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "同じ牌を取り去って牌の山を崩してください"
 
-#~ msgid "Mahjongg"
-#~ msgstr "GNOME 上海"
 
-#~ msgid "Graphical interface to CVS and SVN"
-#~ msgstr "CVS と SVN のグラフィカルインターフェース"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid "Avahi Zeroconf Browser"
-#~ msgstr "Avahi Zeroconf ブラウザ"
 
-#~ msgid "Browse for Zeroconf services available on your network"
-#~ msgstr "あなたのネットワークで利用可能な Zeroconf サービスをブラウズ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr "ハンガリー語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Hungarian"
-#~ msgstr "HOWTO (ハンガリー語)"
 
-#~ msgid "GUI Python Shell with Filling and Editor Windows"
-#~ msgstr "Python の GUI シェル (Filling とエディタウィンドウ付き)"
 
-#~ msgid "PyAlaMode"
-#~ msgstr "PyAlaMode"
 
-#~ msgid "Mouse"
-#~ msgstr "マウス"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "マウスの設定を行う"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "ウェブカムで画像効果を付与した楽しい写真や動画を撮ります"
 
-#~ msgid "Setup utility for gcin input method"
-#~ msgstr "gcin"
 
-#~ msgid "gcin Setup"
-#~ msgstr "gcin 入力メソッドの設定"
 
-#~ msgid "Avahi SSH Server Browser"
-#~ msgstr "Avahi SSH サーバ・ブラウザ"
 
-#~ msgid "Browse for Zeroconf-enabled SSH Servers"
-#~ msgstr "Zeroconf が有効な SSH サーバーのブラウズ"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "Reversi の古典版でボードを支配してください"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Install your Mandriva live system to disk"
-#~ msgstr "Mandriva Live システムをディスクにインストール"
 
-#~ msgid "Live Install"
-#~ msgstr "Live インストール"
 
-#~ msgid "GNOME MDB Viewer"
-#~ msgstr "GNOME MDB ビューア"
 
-#~ msgid "Gmdb"
-#~ msgstr "Gmdb"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "ソフトウェアの追加/削除"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "RPM インストール用グラフィカルフロントエンド"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - デスクトップの背景とスクリーンセーバーを管理"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in French"
-#~ msgstr "Mandriva Linux Quick Startup Guide (フランス語)"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "Tower Toppler またはネビュラスという古いゲームの再実装"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "電源管理を監視"
 
-#~ msgid "Power Statistics"
-#~ msgstr "電力統計"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Writer を使って、手紙、レポート、文書、ウェブページのテキストと図を作成・"
-#~ "編集します。"
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "四目並べ"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "同じ色のラインを作って競い合ってください"
 
-#~ msgid "Database"
-#~ msgstr "データベース"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr "Base を使って、データベースを管理し、クエリやレポートを作成します。"
 
-#~ msgid "OpenOffice.org Base"
-#~ msgstr "OpenOffice.org Base"
 
-#~ msgid "Time Tracker"
-#~ msgstr "タイム・トラッカー"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "キーボードを使わずにテキストを入力します"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "エントリを予測しながら文字列を入力します"
 
-#~ msgid "Lexmark printer manager"
-#~ msgstr "Lexmark プリンタマネージャ"
 
-#~ msgid "Status, alignment, cartridge maintenance"
-#~ msgstr "状態、ヘッド位置調整、カートリッジのメンテナンス"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Freeciv サーバ"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "プロフェッショナルな CAD システム"
 
-#~ msgid "Qcad"
-#~ msgstr "Qcad"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "GNOME デスクトップの設定ツールです"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "ニュースリーダ Pan"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Usenetのニュースを読む"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "算術/科学/財務の計算を行います"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "ファイルマネージャの動きとウィンドウの外観を変更します"
 
-#~ msgid "File Management"
-#~ msgstr "ファイル管理"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "X ウィンドウシステムの標準ターミナル"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "nmapポートスキャナのフロントエンド"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "Qt Assistant - 3"
-#~ msgstr "Qt アシスタント - 3"
 
-#~ msgid "Tool for translating message catalogues of Qt based programs"
-#~ msgstr "Qt ベースのプログラムのメッセージカタログを翻訳するツール"
 
-#~ msgid "ODBC Configuration Tool"
-#~ msgstr "ODBC 設定ツール"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "Planner Project Management"
-#~ msgstr "プロジェクトを管理します"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Ekiga ソフトフォン"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP 電話機、VoIP とビデオ会議"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "インターネット上でミーティングを開く"
 
-#~ msgid "CPU load indicator"
-#~ msgstr "CPU の負荷を表示"
 
-#~ msgid "XCpuState"
-#~ msgstr "XCpuState"
 
-#~ msgid "Gendarme"
-#~ msgstr "Gendarme"
 
-#~ msgid "Gendarme Wizard"
-#~ msgstr "Gendarme ウィザード"
 
-#~ msgid "A WindowMaker dock network monitor"
-#~ msgstr "WindowMaker ネットワークモニタ"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "Google Gadget Designer"
-#~ msgstr "Rogue ガジェットのデザイナー"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Blender (FullScreen)"
-#~ msgstr "Blender (フルスクリーン)"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Mandriva Linux パッケージ使用状況"
 
-#~ msgid "Packages Stats"
-#~ msgstr "パッケージ使用状況"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in English"
-#~ msgstr "Mandriva Linux DrakXTool User Manual (英語)"
 
-#~ msgid "Edit text files"
-#~ msgstr "テキスト形式のファイルを編集します"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Pop-Up Notifications"
-#~ msgstr "ポップアップ通知"
 
-#~ msgid "Set your pop-up notification preferences"
-#~ msgstr "ポップアップ通知の設定を行います"
 
-#~ msgid "Wine Windows Program Loader"
-#~ msgstr "Wine - Windows のプログラムを起動"
 
-#~ msgid "Configure file indexing with Tracker"
-#~ msgstr "Tracker でファイルの索引を構成します"
 
-#~ msgid "Search and Indexing"
-#~ msgstr "検索と索引"
 
-#~ msgid "Logout"
-#~ msgstr "ログアウト"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bonobo コンポーネント・ブラウザ"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "利用可能な Bonobo コンポーネントを表示します"
 
-#~ msgid "An easy to use text editor, supporting syntax highlight and UTF-8"
-#~ msgstr "構文強調表示と UTF-8 をサポートする使いやすいテキストエディタ"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "グループウェア・スイート"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "あなたのメール、連絡先、スケジュールを管理"
 
-#~ msgid "Language & country configuration"
-#~ msgstr "言語と国の設定"
 
-#~ msgid "Regional Settings"
-#~ msgstr "言語と国の設定"
 
-#~ msgid "OProfile starter"
-#~ msgstr "OProfile スターター"
 
-#~ msgid "Start OProfile profiler"
-#~ msgstr "OProfile プロファイラを起動"
 
-#~ msgid "Page Layout"
-#~ msgstr "デスクトップパブリッシング"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "デスクトップパブリッシング"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr "ドイツ語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howtos German"
-#~ msgstr "HOWTO (ドイツ語)"
 
-#~ msgid "Network Center"
-#~ msgstr "ネットワークセンター"
 
-#~ msgid "IcedTea Java Web Start"
-#~ msgstr "IcedTea Java Web Start"
 
-#~ msgid "Launch Java Web Start applications"
-#~ msgstr "Java Web Start アプリケーションを起動"
 
-#~ msgid "Network traffic analyzer"
-#~ msgstr "ネットワークトラフィックのアナライザ"
 
-#~ msgid "Wireshark"
-#~ msgstr "Wireshark"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "インターネット・メッセンジャー"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Pidgin インターネット・メッセンジャー"
 
-#~ msgid "A set of Solitaire type games for the X Window System"
-#~ msgstr "X ウィンドウシステムのためのソリティア型ゲーム"
 
-#~ msgid "xpat2"
-#~ msgstr "xpat2"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "PulseAudio の設定"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "サウンドサーバの設定"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "ローカルサウンドサーバの設定を確認/変更"
 
-#~ msgid "System information"
-#~ msgstr "システム情報"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid "Powerful and easy to use calculator"
-#~ msgstr "強力で使いやすい計算機"
 
-#~ msgid "Qalculate!"
-#~ msgstr "Qalculate!"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr "ルーマニア語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Romanian"
-#~ msgstr "HOWTO (ルーマニア語)"
 
-#~ msgid ""
-#~ "Locate documents and folders on this computer by name or content using "
-#~ "Tracker"
-#~ msgstr ""
-#~ "Tracker を使って名前や内容によりコンピュータ上のドキュメントやフォルダの場"
-#~ "所を示します"
 
-#~ msgid "Tracker Search Tool"
-#~ msgstr "Tracker 検索ツール"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "ハードウェアのメイン設定/情報ツール"
 
-#~ msgid "Hardware Configuration Tool"
-#~ msgstr "ハードウェア設定ツール"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr "ポーランド語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Polish"
-#~ msgstr "HOWTO (ポーランド語)"
 
-#~ msgid "Change screensaver properties"
-#~ msgstr "スクリーンセーバーのプロパティを変更"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "CUPS での印刷を楽にするフロントエンド"
 
-#~ msgid "X Printing Panel"
-#~ msgstr "X 印刷パネル"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "RapidSVN SvnCpp C++ API development libraries"
-#~ msgstr "RapidSVN SvnCpp C++ API 開発ライブラリ"
 
-#~ msgid "HP Sendfax"
-#~ msgstr "HP Sendfax"
 
-#~ msgid "Utility for sending faxes with HP's multi-function devices"
-#~ msgstr "HP の多機能デバイスで FAX を送信するためのユーティリティ"
 
-#~ msgid "GNOME Pilot Install Databases"
-#~ msgstr "GNOME Pilot データベースのインストール"
 
-#~ msgid "Install Databases on your Palm Pilot"
-#~ msgstr "パームパイロットにデータベースをインストール"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "お気に入りの楽曲コレクションを再生したり管理します"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "Viewer for TeX DVI files"
-#~ msgstr "TeX DVI ファイルのビューア"
 
-#~ msgid "XDVI"
-#~ msgstr "XDVI"
 
-#~ msgid "View and organize your images"
-#~ msgstr "画像の表示と管理を行うツールです"
 
-#~ msgid "Font Editor for PostScript, TrueType, OpenType and various fonts"
-#~ msgstr "PostScript, TrueType, OpenType その他のフォントエディタ"
 
-#~ msgid "FontForge"
-#~ msgstr "FontForge"
 
-#~ msgid "Registry Editor"
-#~ msgstr "レジストリエディタ"
 
-#~ msgid "Viewer for Postscript and PDF files"
-#~ msgstr "Postscript と PDF ファイルのビューア"
 
-#~ msgid "gv"
-#~ msgstr "gv"
 
-#~ msgid "CUPS Web Interface"
-#~ msgstr "CUPS のウェブインターフェース"
 
-#~ msgid "Manage Printing"
-#~ msgstr "印刷の管理"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr "画面上の情報を音声または点字で提供 / 画面を拡大表示"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "スクリーン・リーダーと拡大鏡"
 
-#~ msgid "Access digital cameras (via GPhoto2)"
-#~ msgstr "GPhoto2 を介してデジタルカメラにアクセス"
 
-#~ msgid "GTKam"
-#~ msgstr "GTKam"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr "英語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto English"
-#~ msgstr "HOWTO (英語)"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "SCIM入力メソッドの設定"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "Smart Common Input Method platform セットアップユーティリティ"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "万能テキストエディタ"
 
-#~ msgid "VI editor"
-#~ msgstr "VI エディタ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr "ギリシャ語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "HOWTO (ギリシャ語)"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "フリーセル・ソリティア"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "有名なフリーセル・カード・ゲームをお楽しみください"
 
-#~ msgid "Window Manager"
-#~ msgstr "ウィンドウマネージャ"
 
-#~ msgid "A utility to read and manipulate raw images from digital cameras"
-#~ msgstr ""
-#~ "デジタルカメラの RAW イメージを読み取り、編集するためのユーティリティ"
 
-#~ msgid "Raw image converter"
-#~ msgstr "RAW 画像コンバータ"
 
-#~ msgid "UFRaw"
-#~ msgstr "UFRaw"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr "インドネシア語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Indonesian"
-#~ msgstr "HOWTO (インドネシア語)"
 
-#~ msgid "Gnuplot"
-#~ msgstr "Gnuplot"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "有名な関数プロットソフト"
 
-#~ msgid "Configuration Editor"
-#~ msgstr "設定エディタ"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "設定データベース全体を直接編集"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "スケーラブル ベクター グラフィックス イメージの作成と編集を行います"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid "Belgian eID card viewer"
-#~ msgstr "Belgian eID カードビューア"
 
-#~ msgid "Display and administer your eID card"
-#~ msgstr "eID カードの表示と管理"
 
-#~ msgid "beidgui"
-#~ msgstr "beidgui"
 
-#~ msgid "Customize uim input method environment"
-#~ msgstr "入力メソッド環境 (uim) を設定します"
 
-#~ msgid "Input Method"
-#~ msgstr "入力メソッド"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr "中国語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Chinese"
-#~ msgstr "HOWTO (中国語)"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "オートランの問い合わせ"
 
-#~ msgid "Tightvnc"
-#~ msgstr "Tightvnc"
 
-#~ msgid "Create images and edit photographs"
-#~ msgstr "画像の作成と写真の編集"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "画像エディタ"
 
-#~ msgid "Qt Assistant 3"
-#~ msgstr "Qt アシスタント 3"
 
-#~ msgid "Tool for online help doc"
-#~ msgstr "オンラインヘルプドキュメントのためのツール"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "3D レーシングゲーム"
 
-#~ msgid "Armagetron Advanced"
-#~ msgstr "Armagetron Advanced"
 
-#~ msgid "Vector Graphics Drawing Tool"
-#~ msgstr "Vector グラフィック作成ツール"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "バグ報告ツール"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "GNOME アプリのバグを報告します"
 
-#~ msgid "Breakout-style arcade game"
-#~ msgstr "Breakout風のアーケードゲーム"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "Manage your mobile phone"
-#~ msgstr "携帯電話の管理"
 
-#~ msgid "Mobile Phone Suite"
-#~ msgstr "携帯電話スイート"
 
-#~ msgid "Xgnokii"
-#~ msgstr "Xgnokii"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "boulderdash 風のゲーム"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid "Lights Off"
-#~ msgstr "ライトを消す"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "全ての光を消します"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr "フィンランド語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Finnish"
-#~ msgstr "HOWTO (フィンランド語)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr "スウェーデン語版 HOWTO (HTML 形式)"
 
-#~ msgid "Howto Swedish"
-#~ msgstr "HOWTO (スウェーデン語)"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "F-Spot にインポート"
 
-#~ msgid "Coherence"
-#~ msgstr "Coherence"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr ""
-#~ "Draw を使用して、図形描画、フローチャート、およびロゴを作成および編集しま"
-#~ "す。"
 
-#~ msgid "Drawing"
-#~ msgstr "描画"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "迷路をさまよう虫を導いてください"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "A graphical front end for installing, removing and updating packages"
-#~ msgstr "RPM をインストール、削除、更新するためのグラフィカルフロントエンド"
 
-#~ msgid "Install & Remove Software"
-#~ msgstr "RPM をインストール/アンインストール"
 
-#~ msgid "XKill"
-#~ msgstr "XKill"
 
-#~ msgid "TVtime Television Viewer"
-#~ msgstr "TVtime テレビビューア"
 
-#~ msgid "Television Viewer"
-#~ msgstr "テレビビューア"
 
-#~ msgid "Upgrade to Powerpack"
-#~ msgstr "Powerpack にアップグレード"
 
-#~ msgid "Join Mandriva Community"
-#~ msgstr "Mandriva コミュニティに参加"
 
-#~ msgid "KPlato WorkPackage Handler"
-#~ msgstr "KPlato ワークパッケージハンドラ"
 
-#~ msgid "GnomeICU ICQ Instant Messenger"
-#~ msgstr "GnomeICU ICQ インタントメッセンジャー"
 
-#~ msgid "LiVES "
-#~ msgstr "LiVES "
 
-#~ msgid "Video Editor/VJ tool"
-#~ msgstr "動画エディタ/VJ ツール"
 
-#~ msgid "Edit your source files"
-#~ msgstr "ソースファイルを編集"
 
-#~ msgid "SciTE Text Editor"
-#~ msgstr "SciTE テキストエディタ"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "ターミナルエミュレータ"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "一括リネーム"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "複数のファイル名を変更します"
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "Thunarでフォルダを開く"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "指定したフォルダを Thunar で開きます"
 
-#~ msgid "Browse the filesystem with the file manager"
-#~ msgstr "ファイルマネージャーでファイルシステムを閲覧します"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "Thunar ファイルマネージャー"
 
-#~ msgid "Copy websites to your computer"
-#~ msgstr "ウェブサイトをコンピュータにコピー"
 
-#~ msgid "Differences tool"
-#~ msgstr "差分作成ツール"
 
-#~ msgid "File difference and patch visualiser"
-#~ msgstr "ファイルの差分およびパッチを視覚的に表示します"
 
-#~ msgid "Xffm Patch manager"
-#~ msgstr "Xffm パッチマネージャ"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Compose, edit, and view documents"
-#~ msgstr "AbiWord ワードプロセッサ"
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "自動バグ報告ツール（ABRT）"
 
-#~ msgid "Accerciser"
-#~ msgstr "Accerciser"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "お使いのアプリのアクセシビリティ度を調査します"
 
-#~ msgid "Aeolus"
-#~ msgstr "Aeolus"
 
-#~ msgid "Agave"
-#~ msgstr "Agave"
 
-#~ msgid "Generate color schemes"
-#~ msgstr "色スキーマの生成"
 
-#~ msgid "Alexandria Book Collection Manager"
-#~ msgstr "Alexandria ブック・コレクション・マネージャ"
 
-#~ msgid "Book Collection Manager"
-#~ msgstr "ブック・コレクション・マネージャ"
 
-#~ msgid "Manage your book collection"
-#~ msgstr "ブック・コレクション管理お手伝いプログラム"
 
-#~ msgid "AllTray"
-#~ msgstr "AllTray"
 
-#~ msgid "Alsaplayer"
-#~ msgstr "Alsaplayer"
 
-#~ msgid "Versatile audio player for the Audio Linux Sound Architecture"
-#~ msgstr "ALSA のための多目的オーディオプレーヤ"
 
-#~ msgid "MSN Messenger for Linux"
-#~ msgstr "Linux 用の MSN メッセンジャー"
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN"
 
-#~ msgid "A LaTeX Editor"
-#~ msgstr "LaTeX エディタ"
 
-#~ msgid "AmyEdit LaTex Editor"
-#~ msgstr "AmyEdit LaTex エディタ"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "Anjuta IDE"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "統合開発環境でソフトウェアを開発します"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "Molecule puzzle game"
-#~ msgstr "分子構造のパズル・ゲームです"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "ドックライクなウィンドウナビゲーター"
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "Avant ウィンドウナビゲータ"
 
-#~ msgid "Awn Settings"
-#~ msgstr "Awn 設定"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Awnの設定、ランチャー、アプレットやテーマを管理する"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "E-Mail utility"
-#~ msgstr "電子メールユーティリティ"
 
-#~ msgid "Barrage"
-#~ msgstr "Barrage"
 
-#~ msgid "Bazaar Preferences"
-#~ msgstr "Bazaar の設定"
 
-#~ msgid "Configure Bazaar settings"
-#~ msgstr "Bazaar の設定"
 
-#~ msgid "BEAST"
-#~ msgstr "BEAST"
 
-#~ msgid "MIDI Tracker, Music Composition and Modular Synthesis Application"
-#~ msgstr ""
-#~ "MIDI トラッカー、音楽編集そしてモジュールシンセサイザアプリケーション"
 
-#~ msgid "Music Composer"
-#~ msgstr "音楽編集"
 
-#~ msgid "An easy to use bible study tool"
-#~ msgstr "使いやすい聖書学習ツール"
 
-#~ msgid "Bible Study Tool"
-#~ msgstr "聖書学習ツール"
 
-#~ msgid "Bibus"
-#~ msgstr "Bibus"
 
-#~ msgid "Bibus bibliographic database"
-#~ msgstr "Bibus 書誌データベース"
 
-#~ msgid "My Web Accounts"
-#~ msgstr "マイ Web アカウント"
 
-#~ msgid "myzone & status"
-#~ msgstr "myzone & ステータス"
 
-#~ msgid "BitStormLite"
-#~ msgstr "BitStormLite"
 
-#~ msgid "Blam Feed Reader"
-#~ msgstr "Blam フィードリーダー"
 
-#~ msgid "Feed reader"
-#~ msgstr "フィードリーダー"
 
-#~ msgid "Blueman Bluetooth Manager"
-#~ msgstr "Blueman Bluetooth Manager"
 
-#~ msgid "Bluetooth Manager"
-#~ msgstr "Bluetooth マネージャー"
 
-#~ msgid "BMPx (Offline Mode)"
-#~ msgstr "BMPx (オフラインモード)"
 
-#~ msgid "BMPx"
-#~ msgstr "BMPx"
 
-#~ msgid "BMP 2"
-#~ msgstr "BMP 2"
 
-#~ msgid "BMPx: Play Files"
-#~ msgstr "BMPx: ファイルを再生"
 
-#~ msgid "Booh"
-#~ msgstr "Booh"
 
-#~ msgid "An OpenGL breakout"
-#~ msgstr "OpenGL breakout"
 
-#~ msgid "BreakOut"
-#~ msgstr "BreakOut"
 
-#~ msgid "Briquolo"
-#~ msgstr "Briquolo"
 
-#~ msgid "Beesoft Commander"
-#~ msgstr "Beesoft Commander"
 
-#~ msgid "Beesoft Commander file manager"
-#~ msgstr "Beesoft Commander ファイルマネージャ"
 
-#~ msgid "BurgerSpace"
-#~ msgstr "BurgerSpace"
 
-#~ msgid "BurgerTime clone"
-#~ msgstr "BurgerTime のクローン"
 
-#~ msgid "A football manager"
-#~ msgstr "フットボールマネージャ"
 
-#~ msgid "Bygfoot"
-#~ msgstr "Bygfoot"
 
-#~ msgid "MacSlow's Cairo-Clock"
-#~ msgstr "MacSlow の Cairo-clock"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Camorama ウェブカム・ビューア"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "WebCam の画像の表示や保存を行います"
 
-#~ msgid "Celestia"
-#~ msgstr "Celestia"
 
-#~ msgid "Chemtool"
-#~ msgstr "Chemtool"
 
-#~ msgid "ChmSee"
-#~ msgstr "ChmSee"
 
-#~ msgid "HTML Help(CHM) viewer"
-#~ msgstr "HTML ヘルプ (CHM) ビューア"
 
-#~ msgid "Chromium Web Browser"
-#~ msgstr "Chromium ウェブブラウザ"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Scan for viruses..."
-#~ msgstr "ウイルスをスキャン..."
 
-#~ msgid "Virus Scanner"
-#~ msgstr "ウイルススキャナ"
 
-#~ msgid "Claws Mail"
-#~ msgstr "Claws Mail"
 
-#~ msgid "Edit advanced GNOME settings"
-#~ msgstr "GNOME の高度な設定を編集"
 
-#~ msgid "GNOME Configurator"
-#~ msgstr "GNOME 設定ツール"
 
-#~ msgid "A viewer for comic book archives"
-#~ msgstr "コミック本アーカイブのビューア"
 
-#~ msgid "Comix"
-#~ msgstr "Comix"
 
-#~ msgid "Conduit Synchronizer"
-#~ msgstr "コンジット同期ツール"
 
-#~ msgid "Synchronization for GNOME"
-#~ msgstr "GNOME の同期ツール"
 
-#~ msgid "Configure ThinkPad"
-#~ msgstr "ThinkPad を設定"
 
-#~ msgid "IBM ThinkPad Configuration Tool"
-#~ msgstr "IBM ThinkPad の設定ツール"
 
-#~ msgid "Configure TrackPoint"
-#~ msgstr "TrackPoint を設定"
 
-#~ msgid "TrackPoint Configuration Tool"
-#~ msgstr "TrackPoint の設定ツール"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Conglomerate XML エディタ"
 
-#~ msgid "Edit XML files"
-#~ msgstr "XML ファイルを編集"
 
-#~ msgid "Address book"
-#~ msgstr "アドレス帳"
 
-#~ msgid "Contacts"
-#~ msgstr "コンタクト"
 
-#~ msgid "CoolEdit"
-#~ msgstr "CoolEdit"
 
-#~ msgid "Programmer's text editor with Python and shell scripting hooks"
-#~ msgstr ""
-#~ "プログラマー用の強力なテキストエディタ (Python/シェルスクリプト用のフック"
-#~ "付き)"
 
-#~ msgid "CoralFTP"
-#~ msgstr "CoralFTP"
 
-#~ msgid "FTP Client written in PyGTK"
-#~ msgstr "PyGTK で書かれた FTP クライアント"
 
-#~ msgid "An elegant music organizer"
-#~ msgstr "エレガントな音楽コレクションマネージャ"
 
-#~ msgid "Cowbell Music Organizer"
-#~ msgstr "Cowbell 音楽コレクションマネージャ"
 
-#~ msgid "Music Organizer"
-#~ msgstr "音楽コレクションマネージャ"
 
-#~ msgid "Cream"
-#~ msgstr "Cream"
 
-#~ msgid "Cream (for Vim) text editor"
-#~ msgstr "Cream (Vim 用) テキストエディタ"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Crimson Fields"
 
-#~ msgid "CuteCom"
-#~ msgstr "CuteCom"
 
-#~ msgid "Serial Terminal"
-#~ msgstr "シリアルターミナル"
 
-#~ msgid "Power Management Preferences"
-#~ msgstr "電源管理の各種設定"
 
-#~ msgid "Settings for adjusting power usage"
-#~ msgstr "電力消費調節の設定"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "データ表示デバッガ"
 
-#~ msgid "Play music"
-#~ msgstr "音楽を再生"
 
-#~ msgid "A simple audio player"
-#~ msgstr "シンプルなオーディオプレーヤ"
 
-#~ msgid "Decibel Audio Player"
-#~ msgstr "Decibel オーディオプレーヤ"
 
-#~ msgid "Edit musical scores"
-#~ msgstr "楽譜を編集"
 
-#~ msgid "GNU Denemo"
-#~ msgstr "GNU Denemo"
 
-#~ msgid "Score Editor"
-#~ msgstr "楽譜エディタ"
 
-#~ msgid "DVD/CD Video Creator"
-#~ msgstr "DVD/CD ビデオ作成ツール"
 
-#~ msgid "DeVeDe"
-#~ msgstr "DeVeDe"
 
-#~ msgid "Ding: Dictionary English-German"
-#~ msgstr "Ding: 英独辞典"
 
-#~ msgid "DjView4"
-#~ msgstr "DjView4"
 
-#~ msgid "Dogtail Script Recorder"
-#~ msgstr "Dogtail スクリプトレコーダ"
 
-#~ msgid "dopewars"
-#~ msgstr "dopewars"
 
-#~ msgid "Dopi iPod Tool"
-#~ msgstr "Dopi iPod ツール"
 
-#~ msgid "Update the music on your Apple iPod"
-#~ msgstr "Apple iPod の音楽を更新"
 
-#~ msgid "Install FON on your router"
-#~ msgstr "ルータに FON をインストール"
 
-#~ msgid "drakFON"
-#~ msgstr "drakFON"
 
-#~ msgid "Virtualization configuration"
-#~ msgstr "仮想化の設定"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Dr.Geo 数学ツール"
 
-#~ msgid "3D Acceleration"
-#~ msgstr "3D アクセラレーション"
 
-#~ msgid "Change 3D Acceleration options"
-#~ msgstr "3D アクセラレーションのオプションを変更"
 
-#~ msgid "Video DVD Production"
-#~ msgstr "ビデオ DVD を作成"
 
-#~ msgid "Control your desktop using mouse gestures"
-#~ msgstr "マウス・ジェスチャを使用してデスクトップを制御します"
 
-#~ msgid "Easystroke Gesture Recognition"
-#~ msgstr "Easystroke ジェスチャ認識"
 
-#~ msgid "EasyTAG"
-#~ msgstr "EasyTAG"
 
-#~ msgid ""
-#~ "EasyTAG is an utility for viewing and editing tags for MP3, MP2, FLAC, "
-#~ "Ogg Vorbis, MusePack and Monkey's Audio files, with a GTK+ GUI."
-#~ msgstr ""
-#~ "EasyTAG は MP3, MP2, FLAC, Ogg Vorbis, MusePack と Monkey's オーディオ・"
-#~ "ファイルの ID3 タグを表示したり、編集するためのツールです。シンプルでクー"
-#~ "ルな GTK+ インタフェースを採用しているので、GNU/Linux で簡単にタグの編集が"
-#~ "できます。"
 
-#~ msgid "Efax-gtk"
-#~ msgstr "Efax-gtk"
 
-#~ msgid "GUI front end for the efax fax program"
-#~ msgstr "efax ファクスプログラムの GUI フロントエンド"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Access control list editor"
-#~ msgstr "ACL (アクセス制御リスト) エディタ"
 
-#~ msgid "Eiciel"
-#~ msgstr "Eiciel"
 
-#~ msgid "2-pane file manager"
-#~ msgstr "2-ペイン ファイル manager"
 
-#~ msgid "emelFM2"
-#~ msgstr "emelFM2"
 
-#~ msgid "file manager"
-#~ msgstr "ファイルマネージャ"
 
-#~ msgid "Configure Emerald themes"
-#~ msgstr "Emerald テーマの設定"
 
-#~ msgid "Emerald Theme Manager"
-#~ msgstr "Emerald テーママネージャ"
 
-#~ msgid "Emesene"
-#~ msgstr "Emesene"
 
-#~ msgid "An ETK frontend for the mpd daemon"
-#~ msgstr "mpd デーモンの ETK フロントエンド"
 
-#~ msgid "Emphasis"
-#~ msgstr "Emphasis"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma"
 
-#~ msgid "Lightweight PDF document viewer"
-#~ msgstr "軽量 PDF 文書ビューア"
 
-#~ msgid "PDF Viewer"
-#~ msgstr "PDF ビューア"
 
-#~ msgid "ePDFViewer"
-#~ msgstr "ePDFViewer"
 
-#~ msgid "Ephoto"
-#~ msgstr "Ephoto"
 
-#~ msgid "Estickies"
-#~ msgstr "Estickies"
 
-#~ msgid "EtherApe"
-#~ msgstr "EtherApe"
 
-#~ msgid "Graphical Network Monitor"
-#~ msgstr "グラフィカルなネットワークモニタ"
 
-#~ msgid "ETSwitch"
-#~ msgstr "ETSwitch"
 
-#~ msgid "Game switcher"
-#~ msgstr "ゲームスイッチャー"
 
-#~ msgid "Listen to, explore, or manage your audio collection"
-#~ msgstr "オーディオコレクションを再生、ブラウズ、管理"
 
-#~ msgid "Edit tags in your audio files"
-#~ msgstr "オーディオファイルのタグ編集"
 
-#~ msgid "Ex Falso"
-#~ msgstr "Ex Falso"
 
-#~ msgid ""
-#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
-#~ msgstr "お気に入りのアプリケーション (ブラウザー、メーラーやターミナル)"
 
-#~ msgid "Expedite"
-#~ msgstr "Expedite"
 
-#~ msgid "Audio Waveform Monitor"
-#~ msgstr "オーディオ Waveform モニタ"
 
-#~ msgid "Extrackt"
-#~ msgstr "Extrackt"
 
-#~ msgid "Desktop Firewall Tool"
-#~ msgstr "ファイヤーウォールのデスクトップ用ツールです"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "fityk"
-#~ msgstr "fityk"
 
-#~ msgid "Administration Tool for Firebird DBMS"
-#~ msgstr "Firebird DBMS の管理ツール"
 
-#~ msgid "Database administration tool"
-#~ msgstr "データベース管理ツール"
 
-#~ msgid "FlameRobin"
-#~ msgstr "FlameRobin"
 
-#~ msgid "Flumotion Streaming Server Administration"
-#~ msgstr "Flumotion ストリーミングサーバの管理"
 
-#~ msgid "Manage the Flumotion Streaming Server"
-#~ msgstr "Flumotion ストリーミングサーバを管理"
 
-#~ msgid "Streaming Server Administration"
-#~ msgstr "ストリーミングサーバの管理"
 
-#~ msgid "FreeMind"
-#~ msgstr "FreeMind"
 
-#~ msgid "Fyre"
-#~ msgstr "Fyre"
 
-#~ msgid "Gaby"
-#~ msgstr "Gaby"
 
-#~ msgid "Personal Database Manager"
-#~ msgstr "個人用データベースマネージャ"
 
-#~ msgid "A GTK+ Jabber client"
-#~ msgstr "GTK+ Jabber クライアント"
 
-#~ msgid "Gajim Instant Messenger"
-#~ msgstr "Gajim インスタントメッセンジャー"
 
-#~ msgid "Jabber IM Client"
-#~ msgstr "Jabber インスタントメッセージクライアント"
 
-#~ msgid "Galculator"
-#~ msgstr "Galculator"
 
-#~ msgid "Perform simple and scientific calculations"
-#~ msgstr "単純な科学計算を実行します"
 
-#~ msgid "Galeon Web Browser"
-#~ msgstr "Galeon ウェブ・ブラウザ"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamezos"
 
-#~ msgid "Gamazons game"
-#~ msgstr "Gamazons ゲーム"
 
-#~ msgid "UPS monitor"
-#~ msgstr "UPS モニタ"
 
-#~ msgid "gapcmon"
-#~ msgstr "gapcmon"
 
-#~ msgid "Design Graphical User Interfaces"
-#~ msgstr "グラフィカルインターフェースをデザイン"
 
-#~ msgid "Gazpacho Interface Designer"
-#~ msgstr "Gazpacho インターフェースデザイナー"
 
-#~ msgid "Display chemical 3D structures"
-#~ msgstr "3D 化学構造を表示"
 
-#~ msgid "A simple calculator for chemistry"
-#~ msgstr "化学用のシンプルな計算機"
 
-#~ msgid "Edit chemical 2D structures"
-#~ msgstr "2D 化学構造を編集"
 
-#~ msgid "ICC Profile Installer"
-#~ msgstr "ICCプロファイルのインストーラ"
 
-#~ msgid "ICC profile installer"
-#~ msgstr "ICCプロファイルのインストーラ"
 
-#~ msgid "Install ICC profiles"
-#~ msgstr "ICCプロファイルをインストール"
 
-#~ msgid "Color Profiles"
-#~ msgstr "カラープロファイル"
 
-#~ msgid "Manage ICC color profiles"
-#~ msgstr "ICCカラープロファイルの管理"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "Gcompris の管理"
 
-#~ msgid "GCompris Administration"
-#~ msgstr "Gcompris の管理"
 
-#~ msgid "Edit and display crystalline structures"
-#~ msgstr "結晶構造の編集と表示"
 
-#~ msgid "Cursor Selection"
-#~ msgstr "カーソルテーマの選択"
 
-#~ msgid "Select a different cursor"
-#~ msgstr "カーソルのテーマを変更"
 
-#~ msgid "Monitor Settings"
-#~ msgstr "モニタの設定"
 
-#~ msgid "A desktop applet system for GNOME"
-#~ msgstr "GNOME 向けデスクトップ・アプレット・システムです"
 
-#~ msgid "gDesklets"
-#~ msgstr "gDesklets"
 
-#~ msgid "Gnome Download Manager"
-#~ msgstr "GNOME ダウンロードマネージャ"
 
-#~ msgid "A fast and lightweight IDE using GTK2"
-#~ msgstr "GTK2 を用いた高速で軽量な IDE"
 
-#~ msgid "Geany"
-#~ msgstr "Geany"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "テキスト・エディタ (管理者)"
 
-#~ msgid "Font Sampler"
-#~ msgstr "フォントサンプラー"
 
-#~ msgid "View and compare your fonts"
-#~ msgstr "フォントの表示と比較"
 
-#~ msgid "Download and upload files using multiple file transfer protocols"
-#~ msgstr "さまざまな転送プロトコルを使ってファイルをダウンロード/アップロード"
 
-#~ msgid "gFTP"
-#~ msgstr "gFTP"
 
-#~ msgid "Download files from the Internet"
-#~ msgstr "インターネットからファイルをダウンロード"
 
-#~ msgid "GGZ-Gnome"
-#~ msgstr "GGZ-Gnome"
 
-#~ msgid "Internet gaming center for GNOME"
-#~ msgstr "GNOME 用インターネットゲームセンター"
 
-#~ msgid "ggz-txt"
-#~ msgstr "ggz-txt"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "GNOME 向けの 16進数バイナリ・エディタです"
 
-#~ msgid "Giggle"
-#~ msgstr "Giggle"
 
-#~ msgid "Git repository viewer"
-#~ msgstr "Git リポジトリビューア"
 
-#~ msgid "A simple frontend to easily connect to remote filesystems"
-#~ msgstr "リモートファイルシステムに簡単に接続するシンプルなフロントエンド"
 
-#~ msgid "Gigolo"
-#~ msgstr "Gigolo"
 
-#~ msgid "Gjots2 Jotter"
-#~ msgstr "Gjots2 メモ帳"
 
-#~ msgid ""
-#~ "Opens a terminal as the root user, using gksu to ask for the password"
-#~ msgstr "パスワードを尋ねるのに gksu を使い、root ユーザとして端末を開く"
 
-#~ msgid "Root Terminal"
-#~ msgstr "ルートターミナル"
 
-#~ msgid "Create labels, business cards and media covers"
-#~ msgstr "ラベルや名刺、メディアのカバーを生成します"
 
-#~ msgid "GLAME"
-#~ msgstr "GLAME"
 
-#~ msgid "GLightOff"
-#~ msgstr "GLightOff"
 
-#~ msgid "Globulation2"
-#~ msgstr "Globulation2"
 
-#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
-#~ msgstr "Globulation2 - 最先端のリアルタイム戦略ゲーム"
 
-#~ msgid "A user-friendly database environment."
-#~ msgstr "使いやすいデータベース環境"
 
-#~ msgid "Glom"
-#~ msgstr "Glom"
 
-#~ msgid "Gmasqdialer"
-#~ msgstr "Gmasqdialer"
 
-#~ msgid "Gtk/Gnome Masqdialer Client"
-#~ msgstr "Gtk/GNOME Masqdialer クライアント"
 
-#~ msgid "A gnome frontend for the mpd daemon"
-#~ msgstr "mpd デーモンの GNOME フロントエンド"
 
-#~ msgid "Gnome Music Player Client"
-#~ msgstr "GNOME 音楽プレーヤ"
 
-#~ msgid "gmusicbrowser"
-#~ msgstr "GMusicBrowser"
 
-#~ msgid "GMySQLcc"
-#~ msgstr "GMySQLcc"
 
-#~ msgid "Gtk+ MySQL Control Center"
-#~ msgstr "Gtk+ MySQL コントロールセンター"
 
-#~ msgid "CHM Viewer"
-#~ msgstr "CHM ビューア"
 
-#~ msgid "GNoise"
-#~ msgstr "GNoise"
 
-#~ msgid "A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs"
-#~ msgstr "Creative Nomad/Zen Jukebox と Dell DJ のための管理ツール"
 
-#~ msgid "Gnomad 2"
-#~ msgstr "Gnomad 2"
 
-#~ msgid "Nomad/Zen Jukebox/Dell DJ Client"
-#~ msgstr "Nomad/Zen Jukebox/Dell DJ クライアント"
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "ブログ・エントリ投稿ツール"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "エントリをウェブ・ログへ投稿します"
 
-#~ msgid "GNOME Breakout"
-#~ msgstr "GNOME Breakout"
 
-#~ msgid "The classic arcade game Breakout for GNOME"
-#~ msgstr "古典的なアーケードゲーム Breakout の GNOME 版"
 
-#~ msgid "A two paned file manager"
-#~ msgstr "二つのペインから成るファイルマネージャ"
 
-#~ msgid "GNOME Commander"
-#~ msgstr "GNOME Commander"
 
-#~ msgid "Configure your printers"
-#~ msgstr "プリンタの設定"
 
-#~ msgid "GNOME Do"
-#~ msgstr "GNOME Do"
 
-#~ msgid "Drivel Journal Editor"
-#~ msgstr "Drivel Journal エディタ"
 
-#~ msgid "Journal Editor"
-#~ msgstr "Journal エディタ"
 
-#~ msgid "Update and manage your online journal"
-#~ msgstr "オンラインジャーナルの更新と管理"
 
-#~ msgid "Genius Math Tool"
-#~ msgstr "Genius 数学ツール"
 
-#~ msgid "Genius Mathematical Tool and Calculator"
-#~ msgstr "Genius 式の数学ツールと計算機を提供します"
 
-#~ msgid "GNOME MPlayer"
-#~ msgstr "GNOME MPlayer"
 
-#~ msgid "Play your media"
-#~ msgstr "メディアを再生"
 
-#~ msgid "GNOME-Mud"
-#~ msgstr "GNOME-Mud"
 
-#~ msgid "The GNOME MUD Client"
-#~ msgstr "GNOME MUD クライアント"
 
-#~ msgid "Network Tools"
-#~ msgstr "ネットワークツール"
 
-#~ msgid "View information about your network"
-#~ msgstr "あなたのネットワークに関する情報を表示"
 
-#~ msgid "GNOME Photo Printer"
-#~ msgstr "GNOME 写真印刷"
 
-#~ msgid "Print several photos on one page"
-#~ msgstr "1 ページに複数の写真を印刷"
 
-#~ msgid "Desktop Library Package Inspector"
-#~ msgstr "デスクトップ・ライブラリのパッケージ調査ツール"
 
-#~ msgid "Get useful information about installed GNOME desktop libraries"
-#~ msgstr "インストールした GNOME デスクトップ・ライブラリの情報を取得します"
 
-#~ msgid "Package Viewer"
-#~ msgstr "パッケージ・ビュワー"
 
-#~ msgid "GNOME Dialup Tool"
-#~ msgstr "GNOME ダイアルアップツール"
 
-#~ msgid "GNOME PPP"
-#~ msgstr "GNOME PPP"
 
-#~ msgid "Manage your system tasks"
-#~ msgstr "システムのタスクを管理"
 
-#~ msgid "Splash"
-#~ msgstr "スプラッシュ"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "個人ファイルの共有"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "ファイル共有を設定します"
 
-#~ msgid "CD/DVD Writer"
-#~ msgstr "CD/DVD ライター"
 
-#~ msgid "Gnome Catalog"
-#~ msgstr "GNOME カタログ "
 
-#~ msgid "make disk/CD catalogs"
-#~ msgstr "ディスク/CD カタログを作成"
 
-#~ msgid "FM-Radio Tuner"
-#~ msgstr "FM ラジオチューナー"
 
-#~ msgid "Listen to FM-radio"
-#~ msgstr "FM ラジオを聴く"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio ミュージック・プレイヤー"
 
-#~ msgid "Gnote"
-#~ msgstr "Gnote メモ"
 
-#~ msgid "Plot NumExp functions"
-#~ msgstr "NumExp 関数をプロットする"
 
-#~ msgid "gNumExp Function Plotter"
-#~ msgstr "gNumExp 関数プロッタ"
 
-#~ msgid "Enter NumExp math queries"
-#~ msgstr "NumExp 数学クエリを入力する"
 
-#~ msgid "gNumExp Math Console"
-#~ msgstr "gNumExp 数学コンソール"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "CD を演奏したりリッピングします"
 
-#~ msgid "Gossip Instant Messenger"
-#~ msgstr "Gossip インスタントメッセンジャー"
 
-#~ msgid "Gourmet Recipe Manager"
-#~ msgstr "Gourmet レシピ (調理法) マネージャ"
 
-#~ msgid "Create, reorganize, and delete partitions"
-#~ msgstr "パーティションを作成／再構成／削除する"
 
-#~ msgid "GParted"
-#~ msgstr "GParted"
 
-#~ msgid "Partition Editor"
-#~ msgstr "パーティション編集ツール"
 
-#~ msgid "Manages your password collection"
-#~ msgstr "あなたのパスワード・コレクションを管理します"
 
-#~ msgid "Password Manager"
-#~ msgstr "パスワードマネージャ"
 
-#~ msgid "A program for looking up data of elements from the periodic table."
-#~ msgstr "周期表から元素のデータを調べるプログラム"
 
-#~ msgid "GPeriodic"
-#~ msgstr "GPeriodic"
 
-#~ msgid "Edit PHP source files"
-#~ msgstr "PHP ソースファイルを編集"
 
-#~ msgid "PHP/HTML/CSS editor"
-#~ msgstr "PHP/HTML/CSS エディタ"
 
-#~ msgid "gPHPEdit"
-#~ msgstr "gPHPEdit"
 
-#~ msgid "View your images easily"
-#~ msgstr "簡単に画像を見ることができます"
 
-#~ msgid "Download audio and video content from podcasts"
-#~ msgstr "ポッドキャストからオーディオ/ビデオコンテンツをダウンロード"
 
-#~ msgid "gPodder Podcast Client"
-#~ msgstr "gPodder ポッドキャストクライアント"
 
-#~ msgid "GPS Navigation"
-#~ msgstr "GPS ナビゲーション"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid "GQmpeg"
-#~ msgstr "GQmpeg"
 
-#~ msgid "MP3 player"
-#~ msgstr "MP3 プレーヤ"
 
-#~ msgid "CD Creator"
-#~ msgstr "CD/DVD作成ツール"
 
-#~ msgid "Create and copy data and audio CD"
-#~ msgstr "データ/オーディォCDの作成やコピー"
 
-#~ msgid "Graveman"
-#~ msgstr "Graveman"
 
-#~ msgid "Connect to a remote Windows Terminal-Server"
-#~ msgstr "リモートの Windows ターミナルサーバに接続"
 
-#~ msgid "Remotedesktop Client"
-#~ msgstr "リモートデスクトップクライアント"
 
-#~ msgid "Get information about domain names and IP addresses"
-#~ msgstr "ドメイン名と IP アドレスに関する情報を取得"
 
-#~ msgid "Greenwich Whois Client"
-#~ msgstr "Greenwich Whois クライアント"
 
-#~ msgid "Gretools"
-#~ msgstr "Gretools"
 
-#~ msgid "Vocabulary building tool for GNOME"
-#~ msgstr "GNOME の語彙増強ツール"
 
-#~ msgid "Grisbi"
-#~ msgstr "Grisbi"
 
-#~ msgid "Personnal finances manager"
-#~ msgstr "個人向け資産管理ソフト"
 
-#~ msgid "Grsync"
-#~ msgstr "Grsync"
 
-#~ msgid "Gset-Compiz"
-#~ msgstr "Gset-Compiz"
 
-#~ msgid "Manage SSH tunnel connections"
-#~ msgstr "SSH トンネル接続を管理"
 
-#~ msgid "gSTM"
-#~ msgstr "gSTM"
 
-#~ msgid "Set your touchpad preferences"
-#~ msgstr "タッチパッドの設定を行います"
 
-#~ msgid "Touchpad"
-#~ msgstr "タッチパッド"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "Tetrinet client"
-#~ msgstr "Tetrinet クライアント"
 
-#~ msgid "Tetrinet client for GNOME"
-#~ msgstr "GNOME 用 Tetrinet クライアント"
 
-#~ msgid "Frontend for recordMyDesktop"
-#~ msgstr "recordMyDesktop のフロントエンド"
 
-#~ msgid "gtk-recordMyDesktop"
-#~ msgstr "gtk-recordMyDesktop"
 
-#~ msgid "Manage music and video on an Apple iPod"
-#~ msgstr "Apple iPod の音楽とビデオを管理"
 
-#~ msgid "iPod Manager"
-#~ msgstr "iPod マネージャ"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTKWave"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "GTKWave 電子波形ビューア"
 
-#~ msgid "Todo list"
-#~ msgstr "To-Do リスト"
 
-#~ msgid "Todo list tool"
-#~ msgstr "To-Do リストツール"
 
-#~ msgid "Torrent Metainfo Viewer"
-#~ msgstr "Torrent メタ情報ビューア"
 
-#~ msgid "Torrent Viewer"
-#~ msgstr "Torrent ビューア"
 
-#~ msgid "Viewer and Editor for .torrent files"
-#~ msgstr "torrent ファイルのビューア/エディタ"
 
-#~ msgid "Gtranslator PO Editor"
-#~ msgstr "Gtranslator 翻訳エディタ"
 
-#~ msgid "Translate and localize applications and libraries"
-#~ msgstr "アプリケーションやライブラリのメッセージを翻訳します"
 
-#~ msgid "TV Guide"
-#~ msgstr "TV ガイド"
 
-#~ msgid "Extra galeon preferences"
-#~ msgstr "galeon の詳細設定"
 
-#~ msgid "gTweakUI - Galeon"
-#~ msgstr "gTweakUI - Galeon"
 
-#~ msgid "Extra preferences for application menus"
-#~ msgstr "アプリケーションメニューの詳細設定"
 
-#~ msgid "gTweakUI - Menus"
-#~ msgstr "gTweakUI - メニュー"
 
-#~ msgid "Extra nautilus preferences"
-#~ msgstr "nautilus の詳細設定"
 
-#~ msgid "gTweakUI - Nautilus"
-#~ msgstr "gTweakUI - Nautilus"
 
-#~ msgid "Extra session preferences"
-#~ msgstr "セッションの詳細設定"
 
-#~ msgid "gTweakUI - Session"
-#~ msgstr "gTweakUI - セッション"
 
-#~ msgid "Guikachu"
-#~ msgstr "Guikachu"
 
-#~ msgid "Resource editor for PalmOS"
-#~ msgstr "Palm-OS 用のリソースエディタ"
 
-#~ msgid "Graphical Web Links checker"
-#~ msgstr "グラフィカルなウェブリンクチェッカー"
 
-#~ msgid "gurlchecker"
-#~ msgstr "gurlchecker"
 
-#~ msgid "Gweled"
-#~ msgstr "Gweled"
 
-#~ msgid "Gwget Download Manager"
-#~ msgstr "Gwget ダウンロードマネージャ"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "Gwine"
-#~ msgstr "Gwine"
 
-#~ msgid "Manage your wine cellar"
-#~ msgstr "ワイン蔵の管理"
 
-#~ msgid "Wine Cellar Manager"
-#~ msgstr "ワイン蔵マネージャ"
 
-#~ msgid "gxine"
-#~ msgstr "gxine"
 
-#~ msgid "Hipo iPod Management Tool"
-#~ msgstr "Hipo iPod 管理ツール"
 
-#~ msgid "Watch & listen"
-#~ msgstr "観る & 聴く"
 
-#~ msgid "Command prompt"
-#~ msgstr "コマンドプロンプト"
 
-#~ msgid "Execute text commands"
-#~ msgstr "テキストコマンドを実行"
 
-#~ msgid "Hotwire Shell"
-#~ msgstr "Hotwire シェル"
 
-#~ msgid "Htop"
-#~ msgstr "Htop"
 
-#~ msgid "Process Viewer"
-#~ msgstr "プロセスビューア"
 
-#~ msgid "Show System Processes"
-#~ msgstr "システムプロセスを表示"
 
-#~ msgid "Helix Community's open source media player"
-#~ msgstr "Helix Community オープンソース メディアプレーヤー"
 
-#~ msgid "Helix Player"
-#~ msgstr "Helix Player"
 
-#~ msgid "Create drum sequences"
-#~ msgstr "ドラムシーケンスを作成"
 
-#~ msgid "Hydrogen Drum Machine"
-#~ msgstr "Hydrogen ドラムマシン"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "IBus の設定"
 
-#~ msgid "Set IBus Preferences"
-#~ msgstr "IBus の設定"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Input Method Framework"
-#~ msgstr "インプットメソッドフレームワーク"
 
-#~ msgid "Start IBus Input Method Framework"
-#~ msgstr "IBus インプットメソッドフレームワークを起動"
 
-#~ msgid "Configure Japanese input method (im-ja)"
-#~ msgstr "日本語入力方式の設定を行います"
 
-#~ msgid "Japanese input"
-#~ msgstr "im-ja の設定"
 
-#~ msgid "A DVD slideshow maker"
-#~ msgstr "DVDスライドショーメーカー"
 
-#~ msgid "A lightweight DVD slideshow maker using GTK+2"
-#~ msgstr "使いやすいDVDスライドショーソフトウェア。GTK+2を使います。"
 
-#~ msgid "Imagination"
-#~ msgstr "Imagination"
 
-#~ msgid "Desktop Session Recorder"
-#~ msgstr "デスクトップ・セッション・レコーダ"
 
-#~ msgid "Istanbul Desktop Session Recorder"
-#~ msgstr "Istanbul デスクトップ・セッション・レコーダ"
 
-#~ msgid "Record a video of your desktop session"
-#~ msgstr "お使いのデスクトップ・セッションを動画に記録します"
 
-#~ msgid "JACK Rack"
-#~ msgstr "JACK Rack"
 
-#~ msgid "JACK Audio Mastering interface"
-#~ msgstr "JACK オーディオマスタリング・インターフェース"
 
-#~ msgid "JAMin"
-#~ msgstr "JAMin"
 
-#~ msgid "jIRCii"
-#~ msgstr "jIRCii"
 
-#~ msgid "Jokosher Audio Editor"
-#~ msgstr "Jokosher オーディオエディタ"
 
-#~ msgid "Jokosher audio editor"
-#~ msgstr "Jokosher オーディオエディタ"
 
-#~ msgid "Simply and easily create multi-track audio"
-#~ msgstr "マルチトラックオーディオを簡単に作成"
 
-#~ msgid "findbugs"
-#~ msgstr "findbugs"
 
-#~ msgid "K-3D"
-#~ msgstr "K-3D"
 
-#~ msgid "K3DSurf"
-#~ msgstr "K3DSurf"
 
-#~ msgid "Kadu"
-#~ msgstr "Kadu"
 
-#~ msgid "KardsGT"
-#~ msgstr "KardsGT"
 
-#~ msgid "Katoob"
-#~ msgstr "Katoob"
 
-#~ msgid "Multilingual Unicode Text Editor"
-#~ msgstr "多国語対応Unicodeテキストエディタ"
 
-#~ msgid "Kazehakase Web Browser"
-#~ msgstr "風博士ウェブブラウザ"
 
-#~ msgid "Web browser"
-#~ msgstr "ウェブブラウザ"
 
-#~ msgid "KBBTray"
-#~ msgstr "KBBTray"
 
-#~ msgid "BasKet Note Pads"
-#~ msgstr "BasKet メモパッド"
 
-#~ msgid "Taking care of your ideas."
-#~ msgstr "あなたのアイデアのお世話をします。"
 
-#~ msgid "Choqok"
-#~ msgstr "Choqok"
 
-#~ msgid "KDE Micro-blogging Client"
-#~ msgstr "KDE マイクロブログクライアント"
 
-#~ msgid "Disk Usage Statistics"
-#~ msgstr "ディスクの使用状況"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "View disk usage information"
-#~ msgstr "ディスクの使用状況を見る"
 
-#~ msgid "A batch renaming tool for KDE"
-#~ msgstr "ファイル名を変更するツール"
 
-#~ msgid "GwenRename"
-#~ msgstr "GwenRename"
 
-#~ msgid "Kaffeine"
-#~ msgstr "Kaffeine"
 
-#~ msgid "CD Ripper"
-#~ msgstr "CD リッパー"
 
-#~ msgid "Frontend for audio file creation"
-#~ msgstr "オーディオファイル作成のフロントエンド"
 
-#~ msgid "KAudioCreator"
-#~ msgstr "KAudioCreator"
 
-#~ msgid "Blog Manager"
-#~ msgstr "ブログマネージャ"
 
-#~ msgid "A viewer of CHM (MS-Help) files"
-#~ msgstr "CHM (MS-Help) ファイルビューア"
 
-#~ msgid "KchmViewer"
-#~ msgstr "KchmViewer"
 
-#~ msgid "Color Palette Editor"
-#~ msgstr "カラーパレットエディタ"
 
-#~ msgid "KColorEdit"
-#~ msgstr "KColorEdit"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "ファイル/ディレクトリの比較/統合ツール"
 
-#~ msgid "KDiff3"
-#~ msgstr "KDiff3"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "通貨の換算と計算"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "Database Creator"
-#~ msgstr "データベース作成"
 
-#~ msgid "Fax Viewer"
-#~ msgstr "ファクスビューア"
 
-#~ msgid "KFax"
-#~ msgstr "KFax"
 
-#~ msgid "A standalone Flickr uploader for KDE"
-#~ msgstr "KDE のための Flickr アップローダ"
 
-#~ msgid "kFlickr"
-#~ msgstr "kFlickr"
 
-#~ msgid "A graphical FTP client"
-#~ msgstr "グラフィカルな FTP クライアント"
 
-#~ msgid "FTP Client"
-#~ msgstr "FTP クライアント"
 
-#~ msgid "KFTPGrabber"
-#~ msgstr "KFTPGrabber"
 
-#~ msgid "A Graphviz dot graph editor for KDE"
-#~ msgstr "KDE のための Graphviz DOT グラフエディタ"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "kgrapheditor"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "KDE のための Graphviz DOT グラフビューア"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "kgraphviewer"
 
-#~ msgid "Icon Editor"
-#~ msgstr "アイコンエディタ"
 
-#~ msgid "KIconEdit"
-#~ msgstr "KIconEdit"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "(La)TeX 開発環境"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "LaTeX フロントエンド"
 
-#~ msgid "KMediaFactory"
-#~ msgstr "KMediaFactory"
 
-#~ msgid "Template based DVD authoring software"
-#~ msgstr "テンプレートベースの DVD オーサリングソフト"
 
-#~ msgid "KMess"
-#~ msgstr "KMess"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "MSNクライアント"
 
-#~ msgid "KMid"
-#~ msgstr "KMid"
 
-#~ msgid "KMyMoney"
-#~ msgstr "KMyMoney"
 
-#~ msgid "Personal Finance Manager"
-#~ msgstr "個人資産管理ソフト"
 
-#~ msgid "KNemo"
-#~ msgstr "KNemo"
 
-#~ msgid "Network Monitor"
-#~ msgstr "ネットワークモニタ"
 
-#~ msgid "A KDE frontend for NetworkManager"
-#~ msgstr "NetworkManager の KDE フロントエンド"
 
-#~ msgid "KNetworkManager"
-#~ msgstr "KNetworkManager"
 
-#~ msgid "Network Manager"
-#~ msgstr "ネットワークマネージャ"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "KPlayer"
-#~ msgstr "KPlayer"
 
-#~ msgid "KPovModeler"
-#~ msgstr "KPovModeler"
 
-#~ msgid "Povray Modeler"
-#~ msgstr "Povray モデラー"
 
-#~ msgid "Write presentation documents"
-#~ msgstr "プレゼンテーション文書を作成"
 
-#~ msgid "KRadio"
-#~ msgstr "KRadio"
 
-#~ msgid "Cooking Book"
-#~ msgstr "料理本"
 
-#~ msgid "Krecipes"
-#~ msgstr "Krecipes"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "KDE 料理本"
 
-#~ msgid "A batch renamer"
-#~ msgstr "まとめてリネームする"
 
-#~ msgid "KRename"
-#~ msgstr "KRename"
 
-#~ msgid "Application for Drawing and Handling of Images"
-#~ msgstr "描画と画像操作のためのアプリケーション"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "2 画面ファイルマネージャ"
 
-#~ msgid "Krusader - root-mode"
-#~ msgstr "Krusader - root モード"
 
-#~ msgid "Twin-Panel File Manager with root-privileges"
-#~ msgstr "2 画面ファイルマネージャ (root 権限で実行)"
 
-#~ msgid "System Shut Down Utility"
-#~ msgstr "システムをシャットダウンするユーティリティ"
 
-#~ msgid "Write spreadsheet documents"
-#~ msgstr "スプレッドシート文書を作成"
 
-#~ msgid "Kuickshow"
-#~ msgstr "Kuickshow"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "KDE KPart アプリケーション"
 
-#~ msgid "KVerbos"
-#~ msgstr "KVerbos"
 
-#~ msgid "GUI for various VPN clients"
-#~ msgstr "さまざまな VPN クライアントのための GUI"
 
-#~ msgid "KVpnc"
-#~ msgstr "KVpnc"
 
-#~ msgid "VPN Client GUI"
-#~ msgstr "VPN クライアントの GUI"
 
-#~ msgid "A sound editor for KDE"
-#~ msgstr "KDE のためのサウンドエディタ"
 
-#~ msgid "Kwave Sound Editor"
-#~ msgstr "Kwave サウンドエディタ"
 
-#~ msgid "Mailody"
-#~ msgstr "Mailody"
 
-#~ msgid "KDE Partition Manager"
-#~ msgstr "KDE パーティションマネージャ"
 
-#~ msgid "Manage disks, partitions and file systems"
-#~ msgstr "ディスク、パーティション、ファイルシステムを管理します"
 
-#~ msgid "GUI for the R-project"
-#~ msgstr "R-project のための GUI"
 
-#~ msgid "RKWard"
-#~ msgstr "RKWard"
 
-#~ msgid "Makes sure you rest now and then"
-#~ msgstr "あなたが時々きちんと休憩を取るように"
 
-#~ msgid "Semantik"
-#~ msgstr "Semantik"
 
-#~ msgid "Scan and save images"
-#~ msgstr "画像をスキャンして保存します"
 
-#~ msgid "Skanlite"
-#~ msgstr "Skanlite"
 
-#~ msgid "A collection manager"
-#~ msgstr "コレクションマネージャ"
 
-#~ msgid "Collection Manager"
-#~ msgstr "コレクションマネージャ"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr ""
-#~ "KDE Konsole のテクノロジーに基づくドロップダウン式のターミナルエミュレータ"
 
-#~ msgid "Drop-down Terminal"
-#~ msgstr "ドロップダウン式ターミナル"
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "KScope"
-#~ msgstr "KScope"
 
-#~ msgid "Source editing environment"
-#~ msgstr "ソース編集環境"
 
-#~ msgid "Source-editing environment for large C projects"
-#~ msgstr "大規模な C プロジェクトのためのソース編集環境"
 
-#~ msgid "lash"
-#~ msgstr "lash"
 
-#~ msgid "Last.fm player"
-#~ msgstr "Last.fm プレーヤ"
 
-#~ msgid "LDAP Administration Tool"
-#~ msgstr "LDAP 管理ツール"
 
-#~ msgid "Manage LDAP-based directories"
-#~ msgstr "LDAP ベースのディレクトリを管理"
 
-#~ msgid "Download and view feeds"
-#~ msgstr "配信元をダウンロードして表示します"
 
-#~ msgid "Liferea Feed Reader"
-#~ msgstr "Liferea フィード・リーダ"
 
-#~ msgid "Lincity-NG"
-#~ msgstr "Lincity-NG"
 
-#~ msgid "linpacker"
-#~ msgstr "linpacker"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "ユニークなマルチプレイヤー戦争ゲーム"
 
-#~ msgid "Liquid War"
-#~ msgstr "Liquid War"
 
-#~ msgid "Listen Music Player"
-#~ msgstr "Listen 音楽プレーヤ"
 
-#~ msgid "LogJam"
-#~ msgstr "LogJam"
 
-#~ msgid "LPairs"
-#~ msgstr "LPairs"
 
-#~ msgid "Hardware ICC Profiler"
-#~ msgstr "ハードウェア ICC プロファイル作成ツール"
 
-#~ msgid "ICC Profiler"
-#~ msgstr "ICC プロファイル作成ツール"
 
-#~ msgid "LProf"
-#~ msgstr "LProf"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "Configure keyboard, mouse, and other input devices"
-#~ msgstr "キーボードやマウス、その他の入力機器の設定"
 
-#~ msgid "Keyboard and Mouse"
-#~ msgstr "キーボードとマウス"
 
-#~ msgid "Play your music files easily"
-#~ msgstr "簡単に音楽を再生できます"
 
-#~ msgid "Change screen resolution and configure external monitors"
-#~ msgstr "解像度の変更と外部モニタの設定を行います"
 
-#~ msgid "Desktop Session Settings"
-#~ msgstr "デスクトップセッションの設定"
 
-#~ msgid "Configure Mail Notification"
-#~ msgstr "メール着信通知の設定"
 
-#~ msgid "Mail Notification"
-#~ msgstr "メール着信通知"
 
-#~ msgid "4stAttack"
-#~ msgstr "4stAttack"
 
-#~ msgid "First person shooter game"
-#~ msgstr "一人用シューティングゲーム"
 
-#~ msgid "A 3D adventure and roleplaying game"
-#~ msgstr "3D アドベンチャー・ロールプレイゲーム"
 
-#~ msgid "Balazar"
-#~ msgstr "Balazar"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "Arcade Shooter"
-#~ msgstr "シューティングゲーム"
 
-#~ msgid "Critical Mass"
-#~ msgstr "Critical Mass"
 
-#~ msgid "Enlightened Terminal Emulator"
-#~ msgstr "Enlightened ターミナルエミュレーター"
 
-#~ msgid "Eterm"
-#~ msgstr "Eterm"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "A simple file manager with built-in FTP support"
-#~ msgstr "FTP サポート付きのシンプルなファイルマネージャ"
 
-#~ msgid "FileRunner"
-#~ msgstr "FileRunner"
 
-#~ msgid "Bittorent Gtk2 Interface"
-#~ msgstr "Bittorent Gtk2 インターフェース"
 
-#~ msgid "GTorrentViewer"
-#~ msgstr "GTorrent ビューア"
 
-#~ msgid "Asteroids game"
-#~ msgstr "Asteroids ゲーム"
 
-#~ msgid "OilWar"
-#~ msgstr "OilWar"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "シンプルなシューティングゲーム"
 
-#~ msgid "Heartrate monitor viewer"
-#~ msgstr "心拍モニタビューア"
 
-#~ msgid "PolarViewer"
-#~ msgstr "PolarViewer"
 
-#~ msgid "A MacOS run-time environment"
-#~ msgstr "MacOS のランタイム環境"
 
-#~ msgid "SheepShaver"
-#~ msgstr "SheepShaver"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "SpiralLoops"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "合成ループ"
 
-#~ msgid "SpiralSynth"
-#~ msgstr "SpiralSynth"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "VOCPweb (VOCP Web リモートメッセージ回収)"
 
-#~ msgid ""
-#~ "VOCPweb allows you to log on to the VOCP voice messaging system and "
-#~ "retrieve messages through a browser"
-#~ msgstr ""
-#~ "VOCPweb を使うと VOCP 音声メッセージシステムにログオンしてブラウザからメッ"
-#~ "セージを取り出すことができます。"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "Abe の冒険"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "古典的なドットつぶしゲーム"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "動画のリッピングと変換"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "Wireless network discovery tool"
-#~ msgstr "ワイヤレスネットワーク探索ツール"
 
-#~ msgid "airfart"
-#~ msgstr "airfart"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "2D 空中戦ゲーム"
 
-#~ msgid "AlbumShaper"
-#~ msgstr "AlbumShaper"
 
-#~ msgid "Create photo albums"
-#~ msgstr "フォトアルバムを作成"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Teletext/Videotext 用デコーダ/ブラウザ"
 
-#~ msgid "Action-loaded 2D arcade shooter game"
-#~ msgstr "2D アクションシューティングゲーム"
 
-#~ msgid "Arcade-style mix of asteroids and pool"
-#~ msgstr "asteroids と pool をミックスしたアーケード風ゲーム"
 
-#~ msgid "Alleyoop"
-#~ msgstr "Alleyoop"
 
-#~ msgid "Graphical frontend to Valgrind memory checker"
-#~ msgstr "Valgrind メモリチェッカのグラフィカルフロントエンド"
 
-#~ msgid "AlsaMixerGUI"
-#~ msgstr "AlsaMixerGUI"
 
-#~ msgid "amaya"
-#~ msgstr "amaya"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "ALSA モジュラーシンセサイザ"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "ALSA 用のモジュラーシンセサイザ"
 
-#~ msgid "AmyEdit"
-#~ msgstr "AmyEdit"
 
-#~ msgid "Lightweight LaTeX editor"
-#~ msgstr "軽量 LaTeX エディタ"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Angel Wars"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "テンポのいい横スクロールスペースシューティングゲーム"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "Genpak 用 GUI"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "Advanced Strategic Command"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "小惑星を吹き飛ばす 3D ゲーム"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asteroids3D"
 
-#~ msgid "atanks"
-#~ msgstr "atanks"
 
-#~ msgid "An rxvt-based terminal emulator for X11"
-#~ msgstr "rxvt をベースにした X ターミナルエミュレータ"
 
-#~ msgid "aterm"
-#~ msgstr "aterm"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "脳波のコントロール"
 
-#~ msgid "A free video editor"
-#~ msgstr "フリーのビデオエディタ"
 
-#~ msgid "Avidemux"
-#~ msgstr "Avidemux"
 
-#~ msgid "Ayttm"
-#~ msgstr "Ayttm"
 
-#~ msgid "Bacula Administration Tool"
-#~ msgstr "Bacula 管理ツール"
 
-#~ msgid "Bacula Administration Tool (QT4)"
-#~ msgstr "Bacula 管理ツール (Qt4)"
 
-#~ msgid "Bacula Console (wxWindows)"
-#~ msgstr "Bacula コンソール (wxWindows)"
 
-#~ msgid "Bacula Director Console"
-#~ msgstr "Bacula ディレクターコンソール"
 
-#~ msgid "Bacula Tray Monitor"
-#~ msgstr "Bacula トレイモニタ"
 
-#~ msgid "Balazar Brothers"
-#~ msgstr "Balazar ブラザーズ"
 
-#~ msgid "Backup for BlackBerry devices"
-#~ msgstr "BlackBerry デバイスのためのバックアップ"
 
-#~ msgid "Barry Backup"
-#~ msgstr "Barry バックアップ"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "システムの節電機能を設定"
 
-#~ msgid "Energy Saving"
-#~ msgstr "省電力"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bbconf - blackbox 用の GUI 設定ツール"
 
-#~ msgid "bbkeys"
-#~ msgstr "bbkeys"
 
-#~ msgid "BB Run"
-#~ msgstr "BB Run"
 
-#~ msgid "BlackBox Run Window"
-#~ msgstr "BlackBox のためのコマンド実行ウィンドウ"
 
-#~ msgid "Tool for eBay users"
-#~ msgstr "eBay ユーザ向けのツール"
 
-#~ msgid "bidwatcher"
-#~ msgstr "bidwatcher"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "A tactical board game"
-#~ msgstr "戦略ボードゲーム"
 
-#~ msgid "biloba"
-#~ msgstr "biloba"
 
-#~ msgid "BIRT - Batch Image Resizing Thing"
-#~ msgstr "BIRT - 画像サイズ一括変更"
 
-#~ msgid "GUI tool for easy resizing series of images"
-#~ msgstr "複数の画像を簡単にサイズ変更するためのツール"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "2D 化学構造描画ツール"
 
-#~ msgid "BKchem"
-#~ msgstr "BKchem"
 
-#~ msgid "Blobby Volley"
-#~ msgstr "Blobby Volley"
 
-#~ msgid "Blobby Volley arcade game"
-#~ msgstr "Blobby Volley アーケードゲーム"
 
-#~ msgid "Boat racing game"
-#~ msgstr "ボートレースゲーム"
 
-#~ msgid "bloboats"
-#~ msgstr "bloboats"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Mario 風のゲーム"
 
-#~ msgid "Bos Wars"
-#~ msgstr "Bos Wars"
 
-#~ msgid "Invasion: Battle of survival - a real time strategy game"
-#~ msgstr "Invasion: サバイバルの戦い - リアルタイム戦略ゲーム"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "Boxconf (VOCP Box 設定インターフェース)"
 
-#~ msgid "BPMDJ"
-#~ msgstr "BPMDJ"
 
-#~ msgid "A 3D chess game inspired by Battle Chess"
-#~ msgstr "Battle Chess から発想を得た 3D チェス"
 
-#~ msgid "Brutal Chess"
-#~ msgstr "Brutal Chess"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "ビンの中のアヒルを眺めるドックアプリ"
 
-#~ msgid "bubblemon"
-#~ msgstr "bubblemon"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "マウスでバグを退治"
 
-#~ msgid "Bumprace"
-#~ msgstr "Bumprace"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "C1541 スタンドアローンディスクイメージ管理プログラム"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "VICE ディスクイメージツール"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "コールセンター (VOCP コールセンター)"
 
-#~ msgid ""
-#~ "The VOCP call center is meant to be an \"always on\" call monitor and to "
-#~ "give quick access to other VOCP GUIs and your call log"
-#~ msgstr ""
-#~ "VOCP コールセンターは常時オンのモニタです。VOCP の他の GUI や通話ログにも"
-#~ "すばやくアクセスすることができます。"
 
-#~ msgid "Broadband connection test program"
-#~ msgstr "ブロードバンド接続のテストプログラム"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "Camlgrenouille"
 
-#~ msgid "Webcam tool"
-#~ msgstr "Webcamツール"
 
-#~ msgid "camstream"
-#~ msgstr "camstream"
 
-#~ msgid "CanonUtil"
-#~ msgstr "CanonUtil"
 
-#~ msgid "Maintenance tool for Canon inkjet printers"
-#~ msgstr "Canon インクジェットプリンタのメンテナンスツール"
 
-#~ msgid "CD-Mason"
-#~ msgstr "CD-Mason"
 
-#~ msgid "Simple, powerful CD burning"
-#~ msgstr "シンプルで強力な CD ライター"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "(Certain Death via Space Things の略)"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "グラフィカル囲碁ゲーム"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "音楽モジュール作成ソフト"
 
-#~ msgid "Cheesetracker"
-#~ msgstr "Cheesetracker"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "ネットワークブラウザとツール (実行可能なエージェントが必要)"
 
-#~ msgid "childsplay"
-#~ msgstr "childsplay"
 
-#~ msgid "A open-source diary program"
-#~ msgstr "オープンソースの日記プログラム"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "ClanBomber - フリー (GPL) の Bomberman 風マルチプレイヤーゲーム"
 
-#~ msgid "Controller"
-#~ msgstr "コントローラ"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "ZynAddSubFX 用の MIDI コントローラ"
 
-#~ msgid "Copter Commander OpenGL"
-#~ msgstr "Copter Commander OpenGL"
 
-#~ msgid "Copter-Commander Glx"
-#~ msgstr "Copter-Commander Glx"
 
-#~ msgid "Copter Commander"
-#~ msgstr "Copter Commander"
 
-#~ msgid "Client for connecting to crossfire game servers"
-#~ msgstr "crossfire ゲームサーバに接続するクライアント"
 
-#~ msgid "Crossfire Client"
-#~ msgstr "Crossfire クライアント"
 
-#~ msgid "Cssed"
-#~ msgstr "Cssed"
 
-#~ msgid "CUI Term"
-#~ msgstr "CUI Term"
 
-#~ msgid "Composite user interface"
-#~ msgstr "Composite ユーザインターフェース"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "カーソルのテーマを選ぶ"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "カーソルのテーマ"
 
-#~ msgid "D2X-XL"
-#~ msgstr "D2X-XL"
 
-#~ msgid "dap"
-#~ msgstr "dap"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "Defender のクローン"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "Digger Remastered"
-#~ msgstr "Digger Remastered"
 
-#~ msgid "A simple web browser"
-#~ msgstr "シンプルなウェブブラウザ"
 
-#~ msgid "Dillo"
-#~ msgstr "Dillo"
 
-#~ msgid "Dino"
-#~ msgstr "Dino"
 
-#~ msgid "DiskSearch"
-#~ msgstr "DiskSearch"
 
-#~ msgid "Search removable media"
-#~ msgstr "リムーバブルメディアを検索"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Distcc モニタ"
 
-#~ msgid "An easy to use address book"
-#~ msgstr "使いやすいアドレス帳"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "DOS エミュレータ"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "Dr.GeoCaml"
-#~ msgstr "Dr.GeoCaml"
 
-#~ msgid "DrGeoCaml Interactive Geometry Tool"
-#~ msgstr "DrGeoCaml インタラクティブ ジオメトリ ツール"
 
-#~ msgid "Dr. Python"
-#~ msgstr "Dr. Python"
 
-#~ msgid "Python Editor and IDE"
-#~ msgstr "Python エディタと IDE"
 
-#~ msgid "DrScheme"
-#~ msgstr "DrScheme"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "2D Molecule Editor"
-#~ msgstr "2D モジュールエディタ"
 
-#~ msgid "EasyChem"
-#~ msgstr "EasyChem"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "FICS chess-server interface"
-#~ msgstr "FICS チェスサーバのインターフェース"
 
-#~ msgid "EBView"
-#~ msgstr "EBView"
 
-#~ msgid "EBView is a browser for EB/EPWING files"
-#~ msgstr "EBView は EB/EPWING ファイルのためのブラウザです"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr "サウンドプロセシング/マルチトラック録音/ミキシングツール"
 
-#~ msgid "ecasound"
-#~ msgstr "ecasound"
 
-#~ msgid "E-Cell Model Editor"
-#~ msgstr "E-Cell モデルエディタ"
 
-#~ msgid "E-Cell Session Monitor"
-#~ msgstr "E-Cell セッションモニタ"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Siag オフィス Egon アニメータ"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "GTK ファイルマネージャ"
 
-#~ msgid "Ecasound Mastering Interface"
-#~ msgstr "Ecasound マスタリングインターフェース"
 
-#~ msgid "emi"
-#~ msgstr "emi"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour"
 
-#~ msgid "Graphical file manager"
-#~ msgstr "グラフィカル ファイルマネージャ"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma - パズルゲーム"
 
-#~ msgid "Enlightenment"
-#~ msgstr "Enlightenment"
 
-#~ msgid "The Enlightenment window manager"
-#~ msgstr "Enlightenment ウィンドウマネージャ"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "拡張プログラマブル IRC-II クライアント"
 
-#~ msgid "Epic"
-#~ msgstr "Epic"
 
-#~ msgid "Python IDE"
-#~ msgstr "Python IDE"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "すべての機能を備えた OSS ミキサー"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
-#~ msgstr "eSvn - Subversion のための Qt に基づくクロスプラットホーム GUI"
 
-#~ msgid "esvn"
-#~ msgstr "esvn"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "インタラクティブ画像生成プログラム"
 
-#~ msgid "Flash for Linux"
-#~ msgstr "Linux 用の Flash"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr "デスクトップのアイコンを作成/管理する Fluxbox 用のアプリケーション"
 
-#~ msgid "Basic image viewer and editor"
-#~ msgstr "基本的な画像ビューア/エディタ"
 
-#~ msgid "IDA Image Viewer"
-#~ msgstr "IDA 画像ビューア"
 
-#~ msgid "Image viewer at heart, though it does other cool stuff"
-#~ msgstr "多機能画像ビューア"
 
-#~ msgid "feh"
-#~ msgstr "feh"
 
-#~ msgid "Fish Fillets NG"
-#~ msgstr "Fish Fillets NG"
 
-#~ msgid "Fish Fillets NG puzzle game"
-#~ msgstr "Fish Fillets NG パズルゲーム"
 
-#~ msgid "Flight Gear"
-#~ msgstr "Flight Gear"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "Flight Gear フライトシミュレータ"
 
-#~ msgid "FooBillard"
-#~ msgstr "FooBillard"
 
-#~ msgid "OpenGL billard game"
-#~ msgstr "OpneGL ビリヤードゲーム"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "ADIE - FOX ツールキットを使った高度なインタラクティブエディタ"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "FOX ツールキットを使った電卓"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "FOX 電卓"
 
-#~ msgid "fpm"
-#~ msgstr "fpm"
 
-#~ msgid "FrameWorks"
-#~ msgstr "FrameWorks"
 
-#~ msgid "Stop-motion animation tool"
-#~ msgstr "ストップモーションアニメーションツール"
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "ベースシンセ/シーケンサ/サンプルプレーヤ"
 
-#~ msgid "freebirth"
-#~ msgstr "freebirth"
 
-#~ msgid "Clone of the C64 Game Paradroid"
-#~ msgstr "C64 用ゲームの paradroid のクローン"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreeLords"
-#~ msgstr "FreeLords"
 
-#~ msgid "Create Playlist for Freeplayer"
-#~ msgstr "Freeplayer のプレイリストを作成"
 
-#~ msgid "Freeplayer-playlist"
-#~ msgstr "Freeplayer-playlist"
 
-#~ msgid "freevo"
-#~ msgstr "freevo"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "サウンドマニピュレータ"
 
-#~ msgid "Calculates fret distances for stringed musical instruments"
-#~ msgstr "弦楽器のフレットの距離を計算"
 
-#~ msgid "FretScale"
-#~ msgstr "FretScale"
 
-#~ msgid "Fricorder"
-#~ msgstr "Fricorder"
 
-#~ msgid "A GUI frontend for autotrace"
-#~ msgstr "autotrace の GUI フロントエンド"
 
-#~ msgid "FrontLine"
-#~ msgstr "FrontLine"
 
-#~ msgid "3D file browser"
-#~ msgstr "3D ファイルブラウザ"
 
-#~ msgid "fte"
-#~ msgstr "fte"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "FVWM ウィンドウマネージャ"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "3D マップビューア"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "Data Extraction Tool"
-#~ msgstr "データ抽出ツール"
 
-#~ msgid "g3data"
-#~ msgstr "g3data"
 
-#~ msgid "Gai-Album"
-#~ msgstr "Gai-Album"
 
-#~ msgid "Xmms cover viewer"
-#~ msgstr "Xmms カバービューア"
 
-#~ msgid "Backgrund switcher"
-#~ msgstr "背景変更ツール"
 
-#~ msgid "Gai-bgswitcher"
-#~ msgstr "Gai-bgswitcher"
 
-#~ msgid "Blobs viewer :)"
-#~ msgstr "Blobs ビューア"
 
-#~ msgid "Gai-blobs"
-#~ msgstr "Gai-blobs"
 
-#~ msgid "Displays the status of the keyboard leds"
-#~ msgstr "キーボードの LED の状態を表示"
 
-#~ msgid "Gai-leds"
-#~ msgstr "Gai-leds"
 
-#~ msgid "Gai-mailcounter"
-#~ msgstr "Gai-mailcounter"
 
-#~ msgid "Mail counter"
-#~ msgstr "メールカウンター"
 
-#~ msgid "Gai-pal"
-#~ msgstr "Gai-pal"
 
-#~ msgid "Display time when they sun sets and rise"
-#~ msgstr "日の出/日の入りを表示"
 
-#~ msgid "Gai-sun"
-#~ msgstr "Gai-sun"
 
-#~ msgid "Gai-visual-studio"
-#~ msgstr "Gai-visual-studio"
 
-#~ msgid "Visualizing the XMMS output"
-#~ msgstr "XMMS の出力を視覚化"
 
-#~ msgid "Galan"
-#~ msgstr "Galan"
 
-#~ msgid "Gambas 2"
-#~ msgstr "Gambas 2"
 
-#~ msgid "Gambas 2 IDE"
-#~ msgstr "Gambas 2 IDE"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "3D 分子ビューア"
 
-#~ msgid "GTK ASTerisk MANager"
-#~ msgstr "GTK ASTerisk マネージャ"
 
-#~ msgid "gastman"
-#~ msgstr "gastman"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "2D バレーボール"
 
-#~ msgid "gav"
-#~ msgstr "gav"
 
-#~ msgid "GTK2 color chooser"
-#~ msgstr "GTK2 の色選択ツール"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "GNOME の設定を編集"
 
-#~ msgid "Gconfpref"
-#~ msgstr "Gconfpref"
 
-#~ msgid "A molecular and crystal model viewer"
-#~ msgstr "分子/結晶モデルビューア"
 
-#~ msgid "gdis"
-#~ msgstr "gdis"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "テトリスとインベーダーが融合"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "gforth"
-#~ msgstr "gforth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "教師向けの成績表"
 
-#~ msgid "ggradebook"
-#~ msgstr "ggradebook"
 
-#~ msgid "GNOME MM/QM Frontend"
-#~ msgstr "GNOME MM/QM フロントエンド"
 
-#~ msgid "ghemical"
-#~ msgstr "ghemical"
 
-#~ msgid "DJ Collection Manager"
-#~ msgstr "DJ コレクションマネージャ"
 
-#~ msgid "GJay"
-#~ msgstr "GJay"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "フライトシミュレータ"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "Glest"
-#~ msgstr "Glest"
 
-#~ msgid "Glinuxsms"
-#~ msgstr "Glinuxsms"
 
-#~ msgid "Glinuxsms is a GNOME2 GUI/front-end for linuxsms"
-#~ msgstr "Glinuxsms は linuxsms の GNOME2 GUI/フロントエンドです"
 
-#~ msgid "GLiv"
-#~ msgstr "GLiv"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "グラフィックビューア"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "3D レーシングゲーム"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "masqdialer モデムサーバの GNOME クライアント"
 
-#~ msgid "Memory usage"
-#~ msgstr "メモリ使用量"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "MIDIによる自動伴奏"
 
-#~ msgid "GMudix GTK mud client"
-#~ msgstr "gMudix - GTK mud クライアント"
 
-#~ msgid "gMudix"
-#~ msgstr "gMudix"
 
-#~ msgid "Gneutronica"
-#~ msgstr "Gneutronica"
 
-#~ msgid "MIDI drum sequencer"
-#~ msgstr "MIDI ドラムシーケンサ"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Gnome Photo Printer"
-#~ msgstr "Gnome 写真印刷"
 
-#~ msgid "Quick and simple photo printing"
-#~ msgstr "シンプルな写真印刷ツール"
 
-#~ msgid "Gnome-SSHMan"
-#~ msgstr "Gnome-SSHMan"
 
-#~ msgid "Manage SSH connections"
-#~ msgstr "SSH 接続を管理"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "Gnometab - ギター用タブ譜エディタ"
 
-#~ msgid "GNOME applet to post link on the del.icio.us"
-#~ msgstr "del.icio.us にリンクをポストするための GNOME アプレット"
 
-#~ msgid "Gnomolicious"
-#~ msgstr "Gnomolicious"
 
-#~ msgid "A ripper, an encoder and an audio converter"
-#~ msgstr "オーディオリッパー/エンコーダ/コンバータ"
 
-#~ msgid "Gnormalize"
-#~ msgstr "Gnormalize"
 
-#~ msgid "GNU Backgammon"
-#~ msgstr "GNU Backgammon"
 
-#~ msgid "Gnubik"
-#~ msgstr "Gnubik"
 
-#~ msgid "gnuitar"
-#~ msgstr "gnuitar"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "GNUsound"
-#~ msgstr "GNUsound"
 
-#~ msgid "Multitrack sound editor for GNOME"
-#~ msgstr "GNOME のためのマルチトラックサウンドエディタ"
 
-#~ msgid "A free collaborative editor"
-#~ msgstr "フリーのコラボラティブエディタ"
 
-#~ msgid "Gobby"
-#~ msgstr "Gobby"
 
-#~ msgid "Gournal"
-#~ msgstr "Gournal"
 
-#~ msgid "Handwriting notepad"
-#~ msgstr "手書きノートパッド"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "インターネット電話"
 
-#~ msgid "Gpppoem"
-#~ msgstr "Gpppoem"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "Pppoe モニタ"
 
-#~ msgid "GPRS Easy Connect"
-#~ msgstr "GPRS 簡単接続"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "GPS のデータを転送"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "MGPSPoint"
 
-#~ msgid "GQ"
-#~ msgstr "GQ"
 
-#~ msgid "GQ is a GTK-based LDAP client"
-#~ msgstr "GQ は Gtk ベースの LDAP クライアントです"
 
-#~ msgid "Control print jobs"
-#~ msgstr "印刷ジョブの制御"
 
-#~ msgid "GQueue"
-#~ msgstr "GQueue"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "科学データを視覚化"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "セルオートマトン・シミュレータ"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "地理資源分析サポートシステム"
 
-#~ msgid "Greenwich"
-#~ msgstr "Greenwich"
 
-#~ msgid "Whois client"
-#~ msgstr "Whois のクライアント"
 
-#~ msgid "GRhino"
-#~ msgstr "GRhino"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "RPN 電卓"
 
-#~ msgid "GScore"
-#~ msgstr "GScore"
 
-#~ msgid "Musical Score Editor"
-#~ msgstr "楽譜エディタ"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "TetriNET ゲームクライアント"
 
-#~ msgid "Change GTK-2.0 theme"
-#~ msgstr "GTK-2.0 テーマを変更"
 
-#~ msgid "gtk-chtheme"
-#~ msgstr "gtk-chtheme"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK-IPTables"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "IPTables の設定"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "Gtk1 のテーマを変更"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "Gtk のテーマ切り替え"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "asp2php の Gtk フロントエンド"
 
-#~ msgid "GtkAtlantic"
-#~ msgstr "GtkAtlantik"
 
-#~ msgid "Buehlmann ZH-L16 model diving simulation"
-#~ msgstr "ダイビングシミュレーション"
 
-#~ msgid "GtkDive"
-#~ msgstr "GtkDive"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "グラフィカルなファイル検索ソフト"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "Gtk ギターエフェクト"
 
-#~ msgid "Realtime effects"
-#~ msgstr "リアルタイムエフェクト"
 
-#~ msgid "GTK CUPS"
-#~ msgstr "GTK CUPS"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "CUPS の GTK フロントエンド"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "GTKlp CUPS キューの Gtk フロントエンド"
 
-#~ msgid "GTK Printer Queue"
-#~ msgstr "GTK プリンタキュー"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "motd の Gtk 版"
 
-#~ msgid "GtkPSProc"
-#~ msgstr "GtkPSProc"
 
-#~ msgid "GTKtalog"
-#~ msgstr "GTKtalog"
 
-#~ msgid "The Gnome disk catalog"
-#~ msgstr "GNOME ディスクカタログ"
 
-#~ msgid "Serial port terminal"
-#~ msgstr "シリアルポートターミナル"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Siag PostScript ビューア"
 
-#~ msgid "Gnome Workstation Command Center"
-#~ msgstr "GNOME ワークステーション・コマンドセンター"
 
-#~ msgid "Network and workstation tools"
-#~ msgstr "ネットワークとワークステーションのツール"
 
-#~ msgid "hackwhite_dune"
-#~ msgstr "hackwhite_dune"
 
-#~ msgid "Strategy action game"
-#~ msgstr "戦略アクションゲーム"
 
-#~ msgid "hedgewars"
-#~ msgstr "hedgewars"
 
-#~ msgid "Game like Nibbles but different"
-#~ msgstr "Nibblesに似ているが異なるゲーム"
 
-#~ msgid "Heroes"
-#~ msgstr "Heroes"
 
-#~ msgid "Hexagonal Minesweeper"
-#~ msgstr "六角形マインスイーパー"
 
-#~ msgid "Hexamine"
-#~ msgstr "Hexamine"
 
-#~ msgid "Hexadecimal calculator"
-#~ msgstr "16進電卓"
 
-#~ msgid "Hexcalc"
-#~ msgstr "Hexcalc"
 
-#~ msgid "Othello clone"
-#~ msgstr "オセロのクローン"
 
-#~ msgid "HighMoon"
-#~ msgstr "HighMoon"
 
-#~ msgid "Holotz's Castle Editor"
-#~ msgstr "Holotz の城エディタ"
 
-#~ msgid "Level editor for Holotz's Castle"
-#~ msgstr "Holotz の城のレベルエディタ"
 
-#~ msgid "Holotz's Castle"
-#~ msgstr "Holotz の城"
 
-#~ msgid "FM organ synthesizer"
-#~ msgstr "FM オルガンシンセサイザ"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "iaxComm"
-#~ msgstr "iaxComm"
 
-#~ msgid "ibWebAdmin"
-#~ msgstr "ibWebAdmin"
 
-#~ msgid "IcePodder"
-#~ msgstr "IcePodder"
 
-#~ msgid "Podcast catcher"
-#~ msgstr "Podcast catcher"
 
-#~ msgid "Configurator for the GTK+2 Japanese Input Module"
-#~ msgstr "GTK+2 日本語入力モジュールを設定"
 
-#~ msgid "Im-Ja configurator"
-#~ msgstr "Im-Ja 設定ツール"
 
-#~ msgid "ImgSeek"
-#~ msgstr "ImgSeek"
 
-#~ msgid "ImgSeek Photo Manager"
-#~ msgstr "ImgSeek フォトマネージャ"
 
-#~ msgid "Inventory"
-#~ msgstr "Inventory"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "目録作成プログラム"
 
-#~ msgid "IQNotes"
-#~ msgstr "IQNotes"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "イメージブラウザ"
 
-#~ msgid "Drum machine styled audio sequencer"
-#~ msgstr "ドラムマシン風のオーディオシーケンサ"
 
-#~ msgid "JackBeat"
-#~ msgstr "JackBeat"
 
-#~ msgid "JackEQ"
-#~ msgstr "JackEQ"
 
-#~ msgid "Mixer for JACK audio server"
-#~ msgstr "JACK オーディオサーバのミキサー"
 
-#~ msgid "Jigdo"
-#~ msgstr "Jigdo"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "Jigsaw ダウンロード"
 
-#~ msgid "Graphical puzzle game"
-#~ msgstr "パズルゲーム"
 
-#~ msgid "Jools"
-#~ msgstr "Jools"
 
-#~ msgid "Administrative web interface for Joomla Open Source (CMS)"
-#~ msgstr "Joomla Open Source (CMS) を管理する Web インターフェース"
 
-#~ msgid "Joomla Administrator"
-#~ msgstr "Joomla 管理ツール"
 
-#~ msgid "jRPM"
-#~ msgstr "jRPM"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "Gtk2 版 ftp クライアント"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "ALSA 接続"
 
-#~ msgid "KAConnect"
-#~ msgstr "KAConnect"
 
-#~ msgid "Kcheckers"
-#~ msgstr "Kcheckers"
 
-#~ msgid "Kcheckers - Draughts game for KDE"
-#~ msgstr "Kcheckers - KDE のためのドラフトゲーム"
 
-#~ msgid "Kiax"
-#~ msgstr "Kiax"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Kiki the nanobot"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "QT 分子ビューア"
 
-#~ msgid "Kodos"
-#~ msgstr "Kodos"
 
-#~ msgid "Visual regular expression editor"
-#~ msgstr "グラフィカルな正規表現エディタ"
 
-#~ msgid "XKoules"
-#~ msgstr "XKoules"
 
-#~ msgid "KTerm"
-#~ msgstr "KTerm"
 
-#~ msgid "Kanji Terminal Emulator"
-#~ msgstr "漢字ターミナルエミュレータ"
 
-#~ msgid "Last.FM Player"
-#~ msgstr "Last.fm プレーヤ"
 
-#~ msgid "Play the last.fm internet radio"
-#~ msgstr "last.fm インターネットラジオを聴く"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "グラフィカルプロセスビューア"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "Panzer General のクローン"
 
-#~ msgid "Links (hacked)"
-#~ msgstr "Links (hack 版)"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "Lynx 風のテキストウェブブラウザ"
 
-#~ msgid "Links"
-#~ msgstr "Links"
 
-#~ msgid "Lynx-like text/graphic Web browser"
-#~ msgstr "Lynx 風のテキスト/グラフィックウェブブラウザ"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "lintalk"
-#~ msgstr "lintalk"
 
-#~ msgid "Cool script to send SMS"
-#~ msgstr "SMS を送るスクリプト"
 
-#~ msgid "LinuxSMS"
-#~ msgstr "LinuxSMS"
 
-#~ msgid "Oki"
-#~ msgstr "Oki"
 
-#~ msgid "Debug information for package lplayer"
-#~ msgstr "lplayer パッケージのデバッグ情報"
 
-#~ msgid "LongPlayer"
-#~ msgstr "LongPlayer"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "テトリスのクローン"
 
-#~ msgid "LDAP browser, utility and more"
-#~ msgstr "LDAP ブラウザ、ユーティリティその他"
 
-#~ msgid "Luma"
-#~ msgstr "Luma"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "小さな V 型飛行船を飛ばす 2D アーケードゲーム"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "爆弾をキャッチ"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "MahJongg 3D Solitaire"
-#~ msgstr "3D 麻雀ソリティア"
 
-#~ msgid ""
-#~ "MahJongg 3D Solitaire - A board game using OpenGL, with several themes"
-#~ msgstr "3D 麻雀ソリティア - OpenGL を使用したボードゲーム"
 
-#~ msgid "ManEdit"
-#~ msgstr "ManEdit"
 
-#~ msgid "UNIX manual pages editor"
-#~ msgstr "UNIX マニュアルページエディタ"
 
-#~ msgid "Manslide"
-#~ msgstr "Manslide"
 
-#~ msgid "Slideshow generator"
-#~ msgstr "スライドショー作成ツール"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "MAS インターネット会議"
 
-#~ msgid "MASConf"
-#~ msgstr "MASConf"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "MAS ミキサー"
 
-#~ msgid "MASMix"
-#~ msgstr "MASMix"
 
-#~ msgid "MAS Player"
-#~ msgstr "MAS プレーヤ"
 
-#~ msgid "Mathplot"
-#~ msgstr "Mathplot"
 
-#~ msgid "Maxima"
-#~ msgstr "Maxima"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Maxsima の Tcl/Tk インターフェース"
 
-#~ msgid "A bubble bobble like arcade game"
-#~ msgstr "bubble bobble 風のアーケードゲーム"
 
-#~ msgid "Super Methane Brothers"
-#~ msgstr "スーパーメタンブラザーズ"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "MIDI CC Sliders"
-#~ msgstr "MIDI CC スライダー"
 
-#~ msgid "MIDI Controller"
-#~ msgstr "MIDI コントローラ"
 
-#~ msgid "MiniSIP"
-#~ msgstr "MiniSIP"
 
-#~ msgid "SIP Videophone"
-#~ msgstr "SIP ビデオ電話"
 
-#~ msgid "Mirror Magic"
-#~ msgstr "Mirror Magic"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "多言語用ターミナルエミュレータ"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Monotone-viz"
-#~ msgstr "Monotone-viz"
 
-#~ msgid "Addictive puzzle game"
-#~ msgstr "病みつきになるパズルゲーム"
 
-#~ msgid "Monsterz"
-#~ msgstr "Monsterz"
 
-#~ msgid "Mozilla Sunbird"
-#~ msgstr "Mozilla Sunbird"
 
-#~ msgid "The Sunbird Project is a redesign of the Calendar component"
-#~ msgstr "Sunbird プロジェクトはカレンダーコンポーネントの再設計です。"
 
-#~ msgid "MP3 info"
-#~ msgstr "MP3 情報"
 
-#~ msgid "Utility for MP3 information and tag modification"
-#~ msgstr "MP3 情報とタグ編集のためのユーティリティ"
 
-#~ msgid "MP3val"
-#~ msgstr "MP3val"
 
-#~ msgid "Validate and fix MPEG audio files"
-#~ msgstr "MPEG オーディオファイルの検証と修正"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "A multi-tabbed X terminal emulator"
-#~ msgstr "マルチタブ X ターミナルエミュレータ"
 
-#~ msgid "Mrxvt"
-#~ msgstr "Mrxvt"
 
-#~ msgid "Maitretarot"
-#~ msgstr "Maitretarot"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Maitretarotクライアント"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Ping/Tracerooute ネットワーク診断ツール"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "Calendar synchronization program"
-#~ msgstr "カレンダー同期プログラム"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "MIDI シーケンサ"
 
-#~ msgid "MyPasswordSafe"
-#~ msgstr "MyPasswordSafe"
 
-#~ msgid "MythTV"
-#~ msgstr "MythTV"
 
-#~ msgid "MythTV Setup"
-#~ msgstr "MythTV のセットアップ"
 
-#~ msgid "Setup MythTV backend"
-#~ msgstr "MythTV のバックエンドをセットアップ"
 
-#~ msgid "Nabi"
-#~ msgstr "Nabi"
 
-#~ msgid "Simple Hangul XIM"
-#~ msgstr "ハングル XIM"
 
-#~ msgid "Nagios"
-#~ msgstr "Nagios"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitor "
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "Nuclear Chess"
-#~ msgstr "Nuclear Chess"
 
-#~ msgid "Nuface"
-#~ msgstr "Nuface"
 
-#~ msgid "NexTView EPG decoder and browser"
-#~ msgstr "NexTView EPG デコーダ/ブラウザ"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "Oki map editor"
-#~ msgstr "Okiマップエディタ"
 
-#~ msgid ""
-#~ "A graphical front end for installing, removing and updating packages (old)"
-#~ msgstr ""
-#~ "RPM をインストール、削除、更新するためのグラフィカルフロントエン (旧版)"
 
-#~ msgid "Install, Remove & Update Software (old)"
-#~ msgstr "RPM をインストール、削除、更新 (旧版)"
 
-#~ msgid "Browse Available Software (old)"
-#~ msgstr "利用可能な RPM を参照 (旧版)"
 
-#~ msgid "OpenAlchemist"
-#~ msgstr "OpenAlchemist"
 
-#~ msgid "OpenArena"
-#~ msgstr "OpenArena"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "デジタル成績簿"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "openlierox"
-#~ msgstr "openlierox"
 
-#~ msgid "Mortal Szombat"
-#~ msgstr "Mortal Szombat"
 
-#~ msgid "Parody of Mortal Kombat"
-#~ msgstr "Mortal Kombat のパロディ版"
 
-#~ msgid "Openmsx"
-#~ msgstr "Openmsx"
 
-#~ msgid "OpenSi"
-#~ msgstr "OpenSi"
 
-#~ msgid "OpenSi client"
-#~ msgstr "OpenSi クライアント"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "Orbital Eunuchs Sniper"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "OSD の Xine 動画プレーヤ"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "Desktop Publishing for X (PAO)"
-#~ msgstr "デスクトップパブリシング (PAO)"
 
-#~ msgid "Passepartout"
-#~ msgstr "Passepartout"
 
-#~ msgid "Le Patriarche Tome 1 The First World: In the search of a God"
-#~ msgstr "Le Patriarche Tome 1 The First World: In the search of a God"
 
-#~ msgid "Le Patriarche Tome 1 Le Premier Monde -  la recherche d'un Dieu"
-#~ msgstr "Le Patriarche Tome 1 Le Premier Monde -  la recherche d'un Dieu"
 
-#~ msgid "Le Patriarche Tome 2 The First World: Good"
-#~ msgstr "Le Patriarche Tome 2 The First World: Good"
 
-#~ msgid "Le Patriarche Tome 2 Le Premier Monde - Le bien"
-#~ msgstr "Le Patriarche Tome 2 Le Premier Monde - Le bien"
 
-#~ msgid "Le Patriarche Tome 3 The First World: Crisis"
-#~ msgstr "Le Patriarche Tome 3 The First World: Crisis"
 
-#~ msgid "Le Patriarche Tome 3 Le Premier Monde - Crise"
-#~ msgstr "Le Patriarche Tome 3 Le Premier Monde - Crise"
 
-#~ msgid "Le Patriarche Tome 4 Le Premier Monde - Mnocha"
-#~ msgstr "Le Patriarche Tome 4 Le Premier Monde - Mnocha"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "昔のミサイルコマンドゲームのクローン"
 
-#~ msgid "Penguin Command"
-#~ msgstr "ペンギンコマンド"
 
-#~ msgid "Five in a row game"
-#~ msgstr "五目並べ"
 
-#~ msgid "Pente"
-#~ msgstr "Pente"
 
-#~ msgid "PostgreSQL Access"
-#~ msgstr "PostgreSQL アクセス"
 
-#~ msgid "PostgreSQL Tcl/Tk front-end"
-#~ msgstr "PostgreSQL Tcl/Tk フロントエンド"
 
-#~ msgid "Graphical client for PostgreSQL"
-#~ msgstr "PostgreSQL のグラフィカルクライアント"
 
-#~ msgid "pgadmin3"
-#~ msgstr "pgadmin3"
 
-#~ msgid "phpLDAPAdmin"
-#~ msgstr "phpLDAPAdmin"
 
-#~ msgid "phpLDAPAdmin is a web adminstration GUI for OpenLDAP"
-#~ msgstr "phpLDAPAdmin は OpenLDAP のためのウェブ管理 GUI です"
 
-#~ msgid "phpMyAdmin"
-#~ msgstr "phpMyAdmin"
 
-#~ msgid "phpPgAdmin"
-#~ msgstr "phpPgAdmin"
 
-#~ msgid "phpPgAdmin is a web administration GUI for PostgreSQL."
-#~ msgstr "phpPgAdmin は PostgreSQL のためのウェブ管理 GUI です。"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "Emilia 3D ピンボール"
 
-#~ msgid "Pinball"
-#~ msgstr "ピンボール"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Pingus - Lemmings のクローン"
 
-#~ msgid "A graphical day planner"
-#~ msgstr "グラフィカルな予定作成ソフト"
 
-#~ msgid "Plan"
-#~ msgstr "Plan"
 
-#~ msgid "Ponyprog2000"
-#~ msgstr "Ponyprog2000"
 
-#~ msgid "Serial device programmer"
-#~ msgstr "シリアルデバイスプログラマ"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "POPFile - Eメールを自動振り分け"
 
-#~ msgid "An enhanced version of DooM - classic 3D shoot-em-up game"
-#~ msgstr "古典的な 3D シューティングゲーム DooM の拡張版"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "PrBooM-GL マルチプレイヤー"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM-GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "PrBooM マルチプレイヤー"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Debug information for package prokyon3"
-#~ msgstr "prokyon3 パッケージのデバッグ情報"
 
-#~ msgid "Prokyon3"
-#~ msgstr "Prokyon3"
 
-#~ msgid "PRoPHET"
-#~ msgstr "PRoPHET"
 
-#~ msgid "Free SSH, Telnet and Rlogin client"
-#~ msgstr "Free SSH, Telnet, Rlogin のクライアント"
 
-#~ msgid "Putty"
-#~ msgstr "Putty"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Siag Office Pathetic writer"
 
-#~ msgid "PyMol"
-#~ msgstr "PyMol"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Python 制御の分子グラフィクス"
 
-#~ msgid "PySyCache"
-#~ msgstr "PySyCache"
 
-#~ msgid "PythonCard Code Editor"
-#~ msgstr "PythonCard コードエディタ"
 
-#~ msgid "PythonCard Resource Editor"
-#~ msgstr "PythonCard リソースエディタ"
 
-#~ msgid "PythonCard Samples"
-#~ msgstr "PythonCard サンプル"
 
-#~ msgid "ALSA Mixer"
-#~ msgstr "ALSA ミキサー"
 
-#~ msgid "QAMix"
-#~ msgstr "QAMix"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "ALSA 録音用の GUI"
 
-#~ msgid "QARecord"
-#~ msgstr "QARecord"
 
-#~ msgid "Multipage TIFF viewer"
-#~ msgstr "Multipage TIFF ビューア"
 
-#~ msgid "QFaxReader"
-#~ msgstr "QFaxReader"
 
-#~ msgid "Quantum GIS"
-#~ msgstr "Quantum GIS"
 
-#~ msgid "Quantum Geographic Information System"
-#~ msgstr "Quantum 地理情報システム"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "Qt ベースの Jackit コネクタ"
 
-#~ msgid "Emulate keyboard or mouse actions with a joystick"
-#~ msgstr "ジョイスティックでキーボードとマウスをエミュレート"
 
-#~ msgid "QJoyPad"
-#~ msgstr "QJoyPad"
 
-#~ msgid "MIDI Arpeggiator"
-#~ msgstr "MIDI アルペジエーター"
 
-#~ msgid "QMidiArp"
-#~ msgstr "QMidiArp"
 
-#~ msgid "A graphical user interface for QEMU"
-#~ msgstr "QEMU の GUI"
 
-#~ msgid "QtEmu"
-#~ msgstr "QtEmu"
 
-#~ msgid "qtiplot"
-#~ msgstr "qtiplot"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "QtRadio - ラジオを聞く"
 
-#~ msgid "Qtstalker"
-#~ msgstr "Qtstalker"
 
-#~ msgid "Quake II"
-#~ msgstr "Quake II"
 
-#~ msgid "Quasar Accounting Software - Setup"
-#~ msgstr "Quasar 会計ソフトのセットアップ"
 
-#~ msgid "Quasar Setup"
-#~ msgstr "Quasar のセットアップ"
 
-#~ msgid "Quasar"
-#~ msgstr "Quasar"
 
-#~ msgid "Quasar Accounting Software"
-#~ msgstr "Quasar 会計ソフト"
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "3D フラクタルオブジェクトを生成"
 
-#~ msgid "Quat"
-#~ msgstr "Quat"
 
-#~ msgid "Keep track of things"
-#~ msgstr "いろんな物を整理する"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "Video CD を作成"
 
-#~ msgid "Poker-like card game"
-#~ msgstr "ポーカー風のカードゲーム"
 
-#~ msgid "RA Pai Gaw Poker"
-#~ msgstr "RA Pai Gaw Poker"
 
-#~ msgid "Molecular Graphics Visualization Tool"
-#~ msgstr "分子グラフィックス視覚化ツール"
 
-#~ msgid "RasMol"
-#~ msgstr "RasMol"
 
-#~ msgid "RBBR"
-#~ msgstr "RBBR"
 
-#~ msgid "RuBy BRowser"
-#~ msgstr "RuBy BRowser"
 
-#~ msgid "reacTIVision"
-#~ msgstr "reacTIVision"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "デジタルオーディオエディタ"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Ri-li"
-#~ msgstr "Ri-li"
 
-#~ msgid "Ri-li arcade game"
-#~ msgstr "Ri-li アーケードゲーム"
 
-#~ msgid "Data plotting and graphing"
-#~ msgstr "データのプロットとグラフ化"
 
-#~ msgid "RLPlot"
-#~ msgstr "RLPlot"
 
-#~ msgid "Root-Tail"
-#~ msgstr "Root-Tail"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "テキストを直接 X11 のルートウィンドウに表示する"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "ROX デスクトップ環境のためのファイルマネージャ"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "SDLRoids - 小惑星を撃つゲーム"
 
-#~ msgid "Colourful puzzle game"
-#~ msgstr "カラフルなパズルゲーム"
 
-#~ msgid "SDL Vexed"
-#~ msgstr "SDL Vexed"
 
-#~ msgid "SeaMonkey Address Book"
-#~ msgstr "SeaMonkey アドレス帳"
 
-#~ msgid "Seamonkey Address Book"
-#~ msgstr "Seamonkey アドレス帳"
 
-#~ msgid "SeaMonkey Composer"
-#~ msgstr "SeaMonkey コンポーザー"
 
-#~ msgid "Seamonkey Composer HTML editor"
-#~ msgstr "Seamonkey コンポーザー HTML エディタ"
 
-#~ msgid "SeaMonkey Mail"
-#~ msgstr "SeaMonkey メール"
 
-#~ msgid "Seamonkey Mail & Newsgroups e-mail client"
-#~ msgstr "Seamonkey メール/ニュースグループ メールクライアント"
 
-#~ msgid "SeaMonkey News"
-#~ msgstr "SeaMonkey ニュース"
 
-#~ msgid "Seamonkey Mail & Newsgroups news reader"
-#~ msgstr "Seamonkey メール/ニュースグループ リーダー"
 
-#~ msgid "SeaMonkey Navigator"
-#~ msgstr "SeaMonkey ナビゲータ"
 
-#~ msgid "Seamonkey Navigator web browser"
-#~ msgstr "Seamonkey ナビゲータ Web ブラウザ"
 
-#~ msgid "Helicopter simulator"
-#~ msgstr "ヘリコプターシミュレータ"
 
-#~ msgid "SearchAndRescue"
-#~ msgstr "SearchAndRescue"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "Loop ベースの MIDI シーケンサ"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "MIDI イベントミキサー"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "SoundFontCombi"
 
-#~ msgid "SffView"
-#~ msgstr "SffView"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX Shutterbug"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "スクリーンショットを撮る"
 
-#~ msgid "SimSam"
-#~ msgstr "SimSam"
 
-#~ msgid "Simple Sampler"
-#~ msgstr "簡易サンプラー"
 
-#~ msgid "A tool for testing SIP-protocol implementation (RFC3261)"
-#~ msgstr "SIP プロトコル実装 (RFC3261) をテストするためのツール"
 
-#~ msgid "SipBomber"
-#~ msgstr "SipBomber"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "マルチプレイヤー 3D カーレーシングゲーム"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "GPL サウンドフォントエディタ"
 
-#~ msgid "Music player"
-#~ msgstr "音楽プレーヤ"
 
-#~ msgid "SnackAmp"
-#~ msgstr "SnackAmp"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr "弾丸を避けながら箱を集める 2D アーケードゲーム"
 
-#~ msgid "Multitrack wave editor"
-#~ msgstr "マルチトラック wave エディタ"
 
-#~ msgid "Songs"
-#~ msgstr "Songs"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "ギター用タブ譜エディタ"
 
-#~ msgid "An innovative pong like game"
-#~ msgstr "革新的な pong 風のゲーム"
 
-#~ msgid "SPE"
-#~ msgstr "SPE"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Grass (Spearfish)"
 
-#~ msgid "Grass using the Spearfish sample data set"
-#~ msgstr "Spearfish サンプルデータを使用する Grass"
 
-#~ msgid "MIDI software sampler"
-#~ msgstr "MIDI ソフトウェアサンプラー"
 
-#~ msgid "Specimen"
-#~ msgstr "Specimen"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "Spiral モジュラーソフトシンセサイザ"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "Spiral モジュラーシンセサイザ"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "ZynAddSubFX 用の MIDI キーボードスプリッタ"
 
-#~ msgid "Spliter"
-#~ msgstr "Spliter"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "Starfighter"
 
-#~ msgid "Desktop planetarium"
-#~ msgstr "デスクトッププラネタリウム"
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
 
-#~ msgid "A rythm game"
-#~ msgstr "リズムゲーム"
 
-#~ msgid "StepMania"
-#~ msgstr "StepMania"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "Samsung Uproar と Yepp 用の GUI"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "Sophisticated clock for the X Window system"
-#~ msgstr "X ウィンドウシステム用の高機能時計"
 
-#~ msgid "Sunclock"
-#~ msgstr "Sunclock"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "VLC - フリーの MPEG/MPEG2/DVD/DivX プレーヤ"
 
-#~ msgid "VLC skinned GUI media player"
-#~ msgstr "VLC の GUI メディアプレーヤ"
 
-#~ msgid "Software manager for WinCE devices"
-#~ msgstr "WinCE デバイス用のソフトウェア・マネージャ"
 
-#~ msgid "Synce-software-manager"
-#~ msgstr "Synce ソフトウェア・マネージャ"
 
-#~ msgid "Sysprof"
-#~ msgstr "Sysprof"
 
-#~ msgid "System-wide Linux Profiler"
-#~ msgstr "システム全体の Linux プロファイラ"
 
-#~ msgid "Quick-configure menu"
-#~ msgstr "クイック設定メニュー"
 
-#~ msgid "A simple-in-use GTK-based text editor"
-#~ msgstr "GTK ベースのシンプルなテキストエディタ"
 
-#~ msgid "tea"
-#~ msgstr "tea"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "Ted, Rich Text Processor"
-#~ msgstr "Ted - リッチテキストエディタ"
 
-#~ msgid "Go chess for GNOME"
-#~ msgstr "GNOME 用の囲碁ゲーム"
 
-#~ msgid "Tengen"
-#~ msgstr "Tengen"
 
-#~ msgid "Displays a 4D spinning hypercube"
-#~ msgstr "回転する 4D 超立方体を表示"
 
-#~ msgid "Tesseract Trainer"
-#~ msgstr "Tesseract Trainer"
 
-#~ msgid "Tgif"
-#~ msgstr "Tgif"
 
-#~ msgid "JACK TimeMachine"
-#~ msgstr "JACK TimeMachine"
 
-#~ msgid "Records audio from ten seconds ago"
-#~ msgstr "10秒前からオーディオ録音"
 
-#~ msgid "TkEca"
-#~ msgstr "TkEca"
 
-#~ msgid "tn5250"
-#~ msgstr "tn5250"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "レーシングカーのシミュレータ"
 
-#~ msgid "Simple clone of Notepad"
-#~ msgstr "Notepad のシンプルなクローン"
 
-#~ msgid "TPad"
-#~ msgstr "TPad"
 
-#~ msgid "Tremulous"
-#~ msgstr "Tremulous"
 
-#~ msgid "Trophy"
-#~ msgstr "Trophy"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "tux_aqfh"
-#~ msgstr "tux_aqfh"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Tux とカートゲームをする"
 
-#~ msgid "Fun game to learn math"
-#~ msgstr "ゲームで楽しく数学を学ぶ"
 
-#~ msgid "TuxMathScrabble"
-#~ msgstr "TuxMathScrabble"
 
-#~ msgid "Clone of ShufflePuck Cafee"
-#~ msgstr "ShufflePuck Cafee のクローン"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "Educational typing tutor game starring Tux"
-#~ msgstr "Tux が主人公のタイピング練習ゲーム"
 
-#~ msgid "TuxType"
-#~ msgstr "TuxType"
 
-#~ msgid "TX"
-#~ msgstr "TX"
 
-#~ msgid "XML Editor"
-#~ msgstr "XML エディタ"
 
-#~ msgid "unison"
-#~ msgstr "unison"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "VDrift"
-#~ msgstr "VDrift"
 
-#~ msgid "3D OpenGL spaceflight simulator"
-#~ msgstr "3D OpenGL 宇宙飛行シミュレータ"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "3D モデルアセンブラ"
 
-#~ msgid "Vertex"
-#~ msgstr "Vertex"
 
-#~ msgid "GUI interface for chemistry software"
-#~ msgstr "化学ソフトの GUI インターフェース"
 
-#~ msgid "On-screen ALSA MIDI keyboard"
-#~ msgstr "オンスクリーン ALSA MIDI キーボード"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (VOCP FAX ビューア/送信ツール)"
 
-#~ msgid ""
-#~ "VOCPhax presents a (hopefully) friendly and intuitive graphical interface "
-#~ "to view and send faxes"
-#~ msgstr ""
-#~ "VOCPhax はファクスを見たり送信したりするための分かりやすい GUI です。"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "主音量コントロール用ドックアプレット"
 
-#~ msgid "Volume knob"
-#~ msgstr "ボリュームつまみ"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "コモドール音楽用の VICE SID ミュージックプレーヤ"
 
-#~ msgid "VSID music player"
-#~ msgstr "VSID ミュージックプレーヤ"
 
-#~ msgid "vxretail"
-#~ msgstr "vxretail"
 
-#~ msgid "VYM"
-#~ msgstr "VYM"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "グラフィカルサウンドエディタ"
 
-#~ msgid "WaveSurfer"
-#~ msgstr "WaveSurfer"
 
-#~ msgid "Battle For Wesnoth editor"
-#~ msgstr "Battle For Wesnoth のエディタ"
 
-#~ msgid "The map editor of Battle for Wesnoth"
-#~ msgstr "Battle for Wesnoth のマップエディタ"
 
-#~ msgid "A fantasy turn-based strategy game."
-#~ msgstr "ターン制の戦略ゲーム"
 
-#~ msgid "Battle For Wesnoth"
-#~ msgstr "Battle For Wesnoth"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "Tux が主人公のレースゲーム"
 
-#~ msgid "white_dune"
-#~ msgstr "white_dune"
 
-#~ msgid "Settlers II clone"
-#~ msgstr "Settlers II クローン"
 
-#~ msgid "Widelands"
-#~ msgstr "Widelands"
 
-#~ msgid "Simple wireless network manager"
-#~ msgstr "シンプルなワイヤレスネットワーク管理ツール"
 
-#~ msgid "WIFI radar"
-#~ msgstr "WIFI レーダー"
 
-#~ msgid "WLanFE"
-#~ msgstr "WLanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "ワイヤレス LAN の設定"
 
-#~ msgid "wmMoonClock"
-#~ msgstr "wmMoonClock"
 
-#~ msgid "Battery/Power status monitor for WindowMaker on laptops"
-#~ msgstr "WindowMaker のためのラップトップバッテリ/電源状況モニタ"
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "Battery status docklet"
-#~ msgstr "バッテリ状態を表示するドックアプレット"
 
-#~ msgid "WMbattery"
-#~ msgstr "WMbattery"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "CPU モニタ用ドックアプレット"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "WmDf"
-#~ msgstr "WmDf"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr "アイコン内で CPU 負荷を炎で表示するドックアプレット"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "水槽の魚の中のアナログ時計"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "アイコンの中に回転する地球を表示するドックアプレット"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "ドックアプレット版 OSS サウンドミキサー"
 
-#~ msgid "WMix"
-#~ msgstr "WMix"
 
-#~ msgid "Laptop status docklet"
-#~ msgstr "ラップトップ状態表示ドックアプレット"
 
-#~ msgid "WMLaptop"
-#~ msgstr "WMLaptop"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "WindowMaker 向けメモリ/スワップモニタ用ドックアプレット"
 
-#~ msgid "A dockapp for monitoring network interfaces"
-#~ msgstr "ネットワークインターフェースを監視するドックアプレット"
 
-#~ msgid "wmnd"
-#~ msgstr "wmnd"
 
-#~ msgid "UPS monitoring in a dockapp"
-#~ msgstr "UPS モニタ用ドックアプレット"
 
-#~ msgid "WMNut"
-#~ msgstr "WMNut"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "POP3 の複数のメールボックスを監視するドックアプレット"
 
-#~ msgid "WmsMixer"
-#~ msgstr "Wms ミキサー"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "アイコンに株価情報を表示"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr "システム情報をアイコンに表示"
 
-#~ msgid "WmSysMon"
-#~ msgstr "WmSysMon"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "Webcam画像を小さなドックアプレットで見る"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam"
 
-#~ msgid "WMWifi"
-#~ msgstr "WMWifi"
 
-#~ msgid "Wireless network docklet"
-#~ msgstr "ワイヤレスネットワークのドックアプレット"
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "AMIGA の Directory Opus に似たファイルマネージャ"
 
-#~ msgid "Worker"
-#~ msgstr "Worker"
 
-#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
-#~ msgstr "RSI (反復運動損傷) の予防と回復のための補助機能"
 
-#~ msgid "Workrave"
-#~ msgstr "Workrave"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "wxWindows/wxPython の GUI ビルダ"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "C128 エミュレータ"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "コモドール 128 エミュレータ"
 
-#~ msgid "HP48 Emulator"
-#~ msgstr "HP48 エミュレータ"
 
-#~ msgid "x48"
-#~ msgstr "x48"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "C64 エミュレータ"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "コモドール 64 エミュレータ"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "リアルタイムのフラクタルズームソフト"
 
-#~ msgid "XaoS"
-#~ msgstr "XaoS"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "ARCHON ゲームのクローン"
 
-#~ msgid "Defend your computers from Wingdows Viruses"
-#~ msgstr "Wingdows ウィルスからコンピュータを保護"
 
-#~ msgid "XBill"
-#~ msgstr "XBill"
 
-#~ msgid "X blast"
-#~ msgstr "X blast"
 
-#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
-#~ msgstr "XBlast TNT - bomberman 風のゲーム (マルチプレイヤー)"
 
-#~ msgid "View and manage a wine cellar"
-#~ msgstr "ワインセラーを管理するツール"
 
-#~ msgid "XCave"
-#~ msgstr "XCave"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "CBM2 エミュレータ"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "コモドール BM2 エミュレータ"
 
-#~ msgid "CHM viewer for UNIX"
-#~ msgstr "CHM ビューア"
 
-#~ msgid "Xchm"
-#~ msgstr "Xchm"
 
-#~ msgid "Electronic circuit schematic drawing program"
-#~ msgstr "電子回路図を作成するプログラム"
 
-#~ msgid "XCircuit"
-#~ msgstr "XCircuit"
 
-#~ msgid "Xconq SDL interface"
-#~ msgstr "Xconq SDL インターフェース"
 
-#~ msgid "Xconq Tk interface"
-#~ msgstr "Xconq Tk インターフェース"
 
-#~ msgid "2D chemical structure editor"
-#~ msgstr "2D 化学構造エディタ"
 
-#~ msgid "XDrawChem"
-#~ msgstr "XDrawChem"
 
-#~ msgid "DVI files viewer"
-#~ msgstr "DVI ファイルビューア"
 
-#~ msgid "XDvi"
-#~ msgstr "XDvi"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Siag テキストエディタ"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Xemacs"
-#~ msgstr "Xemacs"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Siag ファイルマネージャ"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "An X11 client for Internet Go Server"
-#~ msgstr "インターネット碁サーバの X11 クライアント"
 
-#~ msgid "xgospel"
-#~ msgstr "xgospel"
 
-#~ msgid "A puzzle game"
-#~ msgstr "パズルゲーム"
 
-#~ msgid "xlogical"
-#~ msgstr "xlogical"
 
-#~ msgid "Simple molecule editor and viewer"
-#~ msgstr "シンプルな分子構造エディタ/ビューア"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmms"
-#~ msgstr "Xmms"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Motocross platform game"
-#~ msgstr "モトクロスゲーム"
 
-#~ msgid "X-Moto"
-#~ msgstr "X-Moto"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Mr. Do のクローン"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Xosview"
-#~ msgstr "Xosview"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "走り回るペンギンをデスクトップに表示"
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "コモドール PET エミュレータ"
 
-#~ msgid "PET Emulator"
-#~ msgstr "PET エミュレータ"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "飛行/撃墜するアーケードゲーム"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Xpilot サーバ"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot (サーバが必要)"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "CPLUS4 エミュレータ"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "コモドール PLUS4 エミュレータ"
 
-#~ msgid "GTK2 newsreader with full Unicode support"
-#~ msgstr "GTK2 のニュースリーダー (ユニコードサポート付き)"
 
-#~ msgid "xpn"
-#~ msgstr "xpn"
 
-#~ msgid "News reader"
-#~ msgstr "ニュースリーダー"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "RPM を操作するツール"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "Lode Runner によく似たクールなアーケード/思考ゲーム"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "Scorched Earth のクローン"
 
-#~ msgid "XScorch"
-#~ msgstr "XScorch"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Siag Office の表計算ソフト"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "C64 音楽プレーヤの Qt 版"
 
-#~ msgid "Xsidplay"
-#~ msgstr "Xsidplay"
 
-#~ msgid "The Skat game"
-#~ msgstr "Skat ゲーム"
 
-#~ msgid "Xskat"
-#~ msgstr "Xskat"
 
-#~ msgid "xsoldier"
-#~ msgstr "xsoldier"
 
-#~ msgid "Fullscreen gesture recognition"
-#~ msgstr "ジェスチャー認識プログラム"
 
-#~ msgid "Minitel emulation"
-#~ msgstr "Minitelエミュレータ"
 
-#~ msgid "Xtel"
-#~ msgstr "Xtel"
 
-#~ msgid "X-Tux"
-#~ msgstr "X-Tux"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "コモドール VIC20 エミュレータ"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "VIC20 エミュレータ"
 
-#~ msgid "On-screen keyboard for X"
-#~ msgstr "オンスクリーン・キーボード"
 
-#~ msgid "Virtual Keyboard"
-#~ msgstr "仮想キーボード"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (VOCP 音声メッセージシステム GUI)"
 
-#~ msgid ""
-#~ "Xvocp presents a graphical user interface to the contents of voice mail "
-#~ "boxes"
-#~ msgstr "Xvocp はボイスメールボックスの内容にアクセスするための GUI です。"
 
-#~ msgid "Graphical interface to gdb debugger"
-#~ msgstr "gdb デバッガのグラフィカルンターフェース"
 
-#~ msgid "Xxgdb"
-#~ msgstr "Xxgdb"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "DOOM 用レベルエディタ"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Yudit"
-#~ msgstr "Yudit"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "リアルタイム MIDI ソフトウェアシンセサイザ"
 
-#~ msgid "Zynaddsubfx"
-#~ msgstr "Zynaddsubfx"
 
-#~ msgid "ManiaDrive"
-#~ msgstr "ManiaDrive"
 
-#~ msgid "Marlin Sample Editor"
-#~ msgstr "Marlin サンプルエディタ"
 
-#~ msgid "Battery Monitor"
-#~ msgstr "バッテリモニタ"
 
-#~ msgid "Panel based Battery Monitor"
-#~ msgstr "パネルベースのバッテリモニタ"
 
-#~ msgid "Panel based clock"
-#~ msgstr "パネルベースの時計"
 
-#~ msgid "App Launcher"
-#~ msgstr "アプリケーションランチャー"
 
-#~ msgid "Panel based Application Launcher"
-#~ msgstr "パネルベースのアプリケーションランチャー"
 
-#~ msgid "CPU/Mem Monitor"
-#~ msgstr "CPU/メモリモニタ"
 
-#~ msgid "Panel based CPU/Mem Monitor"
-#~ msgstr "パネルベースの CPU/メモリモニタ"
 
-#~ msgid "Panel based Volume control"
-#~ msgstr "パネルベースの音量コントロール"
 
-#~ msgid "Volume control"
-#~ msgstr "音量コントロール"
 
-#~ msgid "Panel based wireless monitor"
-#~ msgstr "パネルベースのワイヤレスモニタ"
 
-#~ msgid "Wireless Monitor"
-#~ msgstr "ワイヤレスモニタ"
 
-#~ msgid "Panel based Terminal launcher"
-#~ msgstr "パネルベースのターミナルランチャー"
 
-#~ msgid "Term Launcher"
-#~ msgstr "Term ランチャー"
 
-#~ msgid "Manage panel configuration "
-#~ msgstr "パネルの設定"
 
-#~ msgid "Panel Manager"
-#~ msgstr "パネルマネージャ"
 
-#~ msgid "Text editor"
-#~ msgstr "テキストエディタ"
 
-#~ msgid "medit"
-#~ msgstr "medit"
 
-#~ msgid "BattleTech engine"
-#~ msgstr "BattleTech エンジン"
 
-#~ msgid "MegaMek"
-#~ msgstr "MegaMek"
 
-#~ msgid "Play MegaMek"
-#~ msgstr "MegaMek をプレイ"
 
-#~ msgid "Compare and merge your files"
-#~ msgstr "複数のファイルを比較したりマージします"
 
-#~ msgid "Meld"
-#~ msgstr "Meld"
 
-#~ msgid "Maintain and query a SQL database"
-#~ msgstr "SQL データベースの保守と問合せ"
 
-#~ msgid "Mergeant Database Administration"
-#~ msgstr "Mergeant データベース管理"
 
-#~ msgid "Lightweight web browser"
-#~ msgstr "軽量 ウェブエディタ"
 
-#~ msgid "Midori"
-#~ msgstr "Midori"
 
-#~ msgid "A fast GTK+ Image Viewer"
-#~ msgstr "GTK+ 高速画像ビューア"
 
-#~ msgid "Mirage"
-#~ msgstr "Mirage"
 
-#~ msgid "A digital DJ interface"
-#~ msgstr "デジタル DJ インターフェース"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "A generic simple XML editor for GNOME"
-#~ msgstr "GNOME 用のシンプルな汎用 XML エディタ"
 
-#~ msgid "MlView Generic XML Editor"
-#~ msgstr "MlView 汎用 XML エディタ"
 
-#~ msgid "MlView XML Editor"
-#~ msgstr "MlView XML エディタ"
 
-#~ msgid "It's the internet"
-#~ msgstr "インターネット"
 
-#~ msgid "Monkey Bubble"
-#~ msgstr "Monkey Bubble"
 
-#~ msgid "Monkey Bubble Arcade Game"
-#~ msgstr "アーケードゲーム"
 
-#~ msgid "MonoDevelop"
-#~ msgstr "MonoDevhelp"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "モンスターをやっつけて gnome を守る"
 
-#~ msgid "Monster Masher"
-#~ msgstr "Monster Masher"
 
-#~ msgid "GGZ Utility"
-#~ msgstr "GGZ ユーティリティ"
 
-#~ msgid "MOTD Editor"
-#~ msgstr "MOTD エディタ"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Listen to your music"
-#~ msgstr "お好みの音楽を聴きます"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Muine 音楽プレーヤ"
 
-#~ msgid "MySQL Administration Tool"
-#~ msgstr "MySQL 管理ツール"
 
-#~ msgid "MySQL Administrator"
-#~ msgstr "MySQL 管理ツール"
 
-#~ msgid "MySQL Query Browser"
-#~ msgstr "MySQL 検索ブラウザ"
 
-#~ msgid "MySQL Query Tool"
-#~ msgstr "MySQL クエリツール"
 
-#~ msgid "MySQL Database Design Tool"
-#~ msgstr "MySQL データベースデザインツール"
 
-#~ msgid "MySQL Workbench"
-#~ msgstr "MySQL ワークベンチ"
 
-#~ msgid "Add items to the Nautilus popup menu"
-#~ msgstr "アイテムを Nautilus のポップアップ・メニューに追加します"
 
-#~ msgid "Nautilus Actions Configuration"
-#~ msgstr "Nautilus アクションの設定"
 
-#~ msgid "C/C++ Debugger"
-#~ msgstr "C/C++ デバッガ"
 
-#~ msgid "Nemiver Debugger"
-#~ msgstr "Nemiver デバッガ"
 
-#~ msgid "Integrated Development Environment (IDE)"
-#~ msgstr "統合開発環境 (IDE)"
 
-#~ msgid "NetPanzer"
-#~ msgstr "NetPanzer"
 
-#~ msgid "Online multiplayer tactical warfare game"
-#~ msgstr "オンラインマルチプレイヤー戦争ゲーム"
 
-#~ msgid "Realtime Strategy Game"
-#~ msgstr "リアルタイム戦略ゲーム"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "ネットワーク・デバイスの接続を設定します"
 
-#~ msgid "Neverball"
-#~ msgstr "Neverball"
 
-#~ msgid "Neverputt"
-#~ msgstr "Neverputt"
 
-#~ msgid "Nexuiz (glx client)"
-#~ msgstr "Nexuiz (glx クライアント)"
 
-#~ msgid "Nexuiz (sdl client)"
-#~ msgstr "Nexuiz (sdl クライアント)"
 
-#~ msgid "nip2"
-#~ msgstr "nip2"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "ネットワーク接続セッティングの管理と変更"
 
-#~ msgid "Network Connections"
-#~ msgstr "ネットワーク接続"
 
-#~ msgid "NodeView"
-#~ msgstr "NodeView"
 
-#~ msgid "The central control program of the OpenKiosk system"
-#~ msgstr "OpenKiosk システムの主要なコントロールプログラム"
 
-#~ msgid "NoteCase notes manager"
-#~ msgstr "NoteCase メモマネージャ"
 
-#~ msgid "Notes Manager"
-#~ msgstr "メモマネージャ"
 
-#~ msgid "Notemeister Notes Organizer"
-#~ msgstr "Notemeister メモ管理ツール"
 
-#~ msgid "Notes Organizer"
-#~ msgstr "メモ管理ツール"
 
-#~ msgid "Organize small notes in a tree structure"
-#~ msgstr "小さいメモをツリー構造で整理"
 
-#~ msgid "Downloader for X"
-#~ msgstr "ダウンローダ"
 
-#~ msgid "downloading program"
-#~ msgstr "プログラムをダウンロード"
 
-#~ msgid "NTFS Configuration Tool"
-#~ msgstr "NTFS 設定ツール"
 
-#~ msgid "GNU Octave"
-#~ msgstr "GNU Octave"
 
-#~ msgid "Graphical User Interface for the Bazaar Version Control System"
-#~ msgstr "Bazaar バージョンコントロールシステムのグラフィカルインターフェース"
 
-#~ msgid "Gesture Keyboard"
-#~ msgstr "ジェスチャーキーボード"
 
-#~ msgid "OneStroke"
-#~ msgstr "OneStroke"
 
-#~ msgid "OpenCity"
-#~ msgstr "OpenCity"
 
-#~ msgid "OpenLDev"
-#~ msgstr "OpenLDev"
 
-#~ msgid "OpenTTD"
-#~ msgstr "OpenTTD"
 
-#~ msgid "Administrator tool for OpenVPN"
-#~ msgstr "OpenVPN 管理ツール"
 
-#~ msgid "OpenVPN Administrator"
-#~ msgstr "OpenVPN の管理"
 
-#~ msgid "OpenVPN-Admin"
-#~ msgstr "OpenVPN-Admin"
 
-#~ msgid "Clipboard Manager"
-#~ msgstr "クリップボード・マネージャ"
 
-#~ msgid "Parcellite"
-#~ msgstr "Parcellite"
 
-#~ msgid "Parole Media Player"
-#~ msgstr "Parole Media Player"
 
-#~ msgid "PCMan X BBS Client"
-#~ msgstr "PCMan X BBS クライアント"
 
-#~ msgid "PgWorksheet"
-#~ msgstr "PgWorksheet"
 
-#~ msgid "PostgreSQL SQL Tool"
-#~ msgstr "PostgreSQL SQL ツール"
 
-#~ msgid "MusicBrainz Picard"
-#~ msgstr "MusicBrainz Picard"
 
-#~ msgid "Pinot Metasearch Tool"
-#~ msgstr "Pinotメタサーチツール"
 
-#~ msgid "Search the Web and your documents"
-#~ msgstr "ウェブとドキュメントを検索します"
 
-#~ msgid "Pioneers Editor"
-#~ msgstr "Pioneers エディタ"
 
-#~ msgid "Pioneers Server"
-#~ msgstr "Pioneers サーバ"
 
-#~ msgid "Pioneers"
-#~ msgstr "Pioneers"
 
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Pitivi 動画エディタ"
 
-#~ msgid "Gettext catalogs editor"
-#~ msgstr "Gettext 翻訳ファイルエディタ"
 
-#~ msgid "Poker Card Game"
-#~ msgstr "ポーカーゲーム"
 
-#~ msgid "A video editing and demultiplexing tool"
-#~ msgstr "動画の編集と逆多重化のためのツール"
 
-#~ msgid "ProjectX"
-#~ msgstr "ProjectX"
 
-#~ msgid "Communicate over the Jabber network"
-#~ msgstr "Jabberクライアント"
 
-#~ msgid "Jabber Client"
-#~ msgstr "Jabber クライアント"
 
-#~ msgid "Psi"
-#~ msgstr "Psi"
 
-#~ msgid "FTP Administration"
-#~ msgstr "FTP の管理"
 
-#~ msgid "PureAdmin"
-#~ msgstr "PureAdmin"
 
-#~ msgid "A dictionary for Chinese <-> English"
-#~ msgstr "中国語/英語辞書"
 
-#~ msgid "Chinese/English Dictionary"
-#~ msgstr "中国語/英語辞書"
 
-#~ msgid "Bibliography Manager"
-#~ msgstr "参考文献マネージャ"
 
-#~ msgid "Manage bibliographic databases"
-#~ msgstr "書誌データベースを管理"
 
-#~ msgid "Dancing Game"
-#~ msgstr "ダンシングゲーム"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "A graphical frontend for the par2 utility"
-#~ msgstr "par2 ユーティリティのグラフィカルフロントエンド"
 
-#~ msgid "PyPar2"
-#~ msgstr "PyPar2"
 
-#~ msgid "Bittorrent client"
-#~ msgstr "Bittorrent クライアント"
 
-#~ msgid "QDVDAuthor"
-#~ msgstr "QDVDAuthor"
 
-#~ msgid "Manage virtual machine configurations"
-#~ msgstr "仮想マシンの設定ツール"
 
-#~ msgid "Qemu Launcher"
-#~ msgstr "Qemu ランチャー"
 
-#~ msgid "QjackCtl"
-#~ msgstr "QjackCtl"
 
-#~ msgid "Visual process manager"
-#~ msgstr "ビジュアル プロジェクト マネージャ"
 
-#~ msgid "qps"
-#~ msgstr "qps"
 
-#~ msgid "Qsynth"
-#~ msgstr "Qsynth"
 
-#~ msgid "qt-recordMyDesktop"
-#~ msgstr "qt-recordMyDesktop"
 
-#~ msgid "BBS Client"
-#~ msgstr "BBS クライアント"
 
-#~ msgid "QTerm"
-#~ msgstr "QTerm"
 
-#~ msgid "Qtpfsgui"
-#~ msgstr "Qtpfsgui"
 
-#~ msgid "Quarry"
-#~ msgstr "Quarry"
 
-#~ msgid "Listen to, browse, or edit your audio collection"
-#~ msgstr "オーディオコレクションを再生、ブラウズ、編集"
 
-#~ msgid "Quod Libet"
-#~ msgstr "Quod Libet"
 
-#~ msgid "Rawstudio"
-#~ msgstr "Rawstudio"
 
-#~ msgid "Recoll"
-#~ msgstr "Recoll"
 
-#~ msgid "Search and replace using regular expressions"
-#~ msgstr "正規表現を用いた検索と置換を行います"
 
-#~ msgid "regexxer Search Tool"
-#~ msgstr "regexxer 検索ツール"
 
-#~ msgid "Organize and secure your passwords"
-#~ msgstr "パスワードを管理"
 
-#~ msgid "Revelation Password Manager"
-#~ msgstr "Revelation パスワードマネージャ"
 
-#~ msgid "ripperX"
-#~ msgstr "ripperX"
 
-#~ msgid "Look at your photo's easily"
-#~ msgstr "簡単に写真を見ます。"
 
-#~ msgid "Ristretto Photo Viewer"
-#~ msgstr "Ristretto フォトビューア"
 
-#~ msgid "Map Viewer"
-#~ msgstr "マップビューア"
 
-#~ msgid "RoadMap"
-#~ msgstr "RoadMap"
 
-#~ msgid "Rosegarden"
-#~ msgstr "Rosegarden"
 
-#~ msgid "RSS & RDF Newsreader"
-#~ msgstr "RSS/RDF ニュースリーダー"
 
-#~ msgid "RSSOwl"
-#~ msgstr "RSSOwl"
 
-#~ msgid "Manage your wireless network interfaces"
-#~ msgstr "ワイヤレスネットワークインターフェイスを管理"
 
-#~ msgid "RutilT WLAN Manager"
-#~ msgstr "RutilT WLAN マネージャ"
 
-#~ msgid "WLAN Manager"
-#~ msgstr "WLAN マネージャ"
 
-#~ msgid "a VT102 emulator for the X window system"
-#~ msgstr "X ウィンドウシステムのための VT102 エミュレータ"
 
-#~ msgid "urxvt"
-#~ msgstr "urxvt"
 
-#~ msgid "Sagasu"
-#~ msgstr "Sagasu"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "Scorched Earth 3D (OpenGL によるリメーク)"
 
-#~ msgid "Screenlets Daemon"
-#~ msgstr "Screenlets デーモン"
 
-#~ msgid "Screenlets"
-#~ msgstr "Screenlets"
 
-#~ msgid "Scribes Text Editor"
-#~ msgstr "Scribes テキストエディタ"
 
-#~ msgid "Decrypt File"
-#~ msgstr "ファイルの復号化"
 
-#~ msgid "Import Key"
-#~ msgstr "鍵のインポート"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "鍵サーバと暗号化の設定を行います"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "暗号化とキーリング"
 
-#~ msgid "Verify Signature"
-#~ msgstr "シグネチャの検証"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "パスワードや暗号鍵を管理します"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "パスワードと暗号鍵"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "システムの起動時に実行するサービスを設定します"
 
-#~ msgid "Services"
-#~ msgstr "サービス"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "お使いのネットワーク内で共有し利用できるフォルダを設定します"
 
-#~ msgid "Shared Folders"
-#~ msgstr "フォルダの共有"
 
-#~ msgid "Organize your photos"
-#~ msgstr "Shotwell Photo Manager"
 
-#~ msgid "Simple CompizConfig Settings Manager"
-#~ msgstr "簡易版 CompizConfig 設定マネージャ"
 
-#~ msgid "Scan Documents"
-#~ msgstr "ドキュメントをスキャンします"
 
-#~ msgid "Simple Scan"
-#~ msgstr "Simple Scan"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "Next generation package handling tool"
-#~ msgstr "次世代のパッケージ管理ツール"
 
-#~ msgid "Smart Package Manager"
-#~ msgstr "Smart パッケージマネージャ"
 
-#~ msgid "A great MPlayer front-end"
-#~ msgstr "MPlayer の素晴しいフロントエンド"
 
-#~ msgid "SMPlayer"
-#~ msgstr "SMPlayer"
 
-#~ msgid "Add file(s) to the SMPlayer playlist"
-#~ msgstr "ファイルを SMPlayer のプレイリストに追加します"
 
-#~ msgid "Enqueue in SMPlayer"
-#~ msgstr "SMPlayer でエンキュー"
 
-#~ msgid "AT-SPI Browser"
-#~ msgstr "AT-SPI ブラウザ"
 
-#~ msgid "Browse your Assistive Technology-enabled desktop"
-#~ msgstr "支援技術を有効にしたデスクトップをブラウズ"
 
-#~ msgid "GNU Solfege"
-#~ msgstr "GNU Solfege"
 
-#~ msgid "Audio Format Converter"
-#~ msgstr "オーディオフォーマット変換"
 
-#~ msgid "Convert audio files into other formats"
-#~ msgstr "オーディオファイルを別のフォーマットに変換"
 
-#~ msgid "Sound Converter"
-#~ msgstr "サウンドコンバータ"
 
-#~ msgid "Module Player / Editor"
-#~ msgstr "モジュールプレーヤ/エディタ"
 
-#~ msgid "SoundTracker"
-#~ msgstr "サウンドトラッカー"
 
-#~ msgid "Spring"
-#~ msgstr "Spring"
 
-#~ msgid "Sqlite admin tool"
-#~ msgstr "Sqlite 管理ツール"
 
-#~ msgid "Sqliteman"
-#~ msgstr "Sqliteman"
 
-#~ msgid "Archive manager"
-#~ msgstr "アーカイブマネージャ"
 
-#~ msgid "Squeeze"
-#~ msgstr "Squeeze"
 
-#~ msgid "Xfce archive manager"
-#~ msgstr "Xfce アーカイブマネージャ"
 
-#~ msgid "Stopmotion"
-#~ msgstr "Stopmotion"
 
-#~ msgid "Straw Feed Reader"
-#~ msgstr "Straw フィードリーダー"
 
-#~ msgid "Browse Internet stream directories"
-#~ msgstr "インターネットストリーム ディレクトリを調べる"
 
-#~ msgid "Stream Directory Browser"
-#~ msgstr "ストリーム ディレクトリ ブラウザ"
 
-#~ msgid "streamtuner"
-#~ msgstr "streamtuner"
 
-#~ msgid "A kart racing game"
-#~ msgstr "カートレーシングゲーム"
 
-#~ msgid "Supertuxkart"
-#~ msgstr "Supertuxkart"
 
-#~ msgid "Sweep"
-#~ msgstr "Sweep"
 
-#~ msgid "Sweep Sound Editor"
-#~ msgstr "Sweep サウンドエディタ"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "Adobe のフラッシュ・ファイルを再生します"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Swfdec フラッシュ・プレイヤー"
 
-#~ msgid "E-Mail client"
-#~ msgstr "電子メールクライアント"
 
-#~ msgid "Sylpheed"
-#~ msgstr "Sylpheed"
 
-#~ msgid "A tool for tuning kernel parameters"
-#~ msgstr "¥·¥¹¥Æ¥à€Î¥Ñ¥é¥á¡Œ¥¿€òÊÑ¹¹€·€Æ¥Á¥å¡Œ¥ó€¹€ë¥Ä¡Œ¥ë"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Proc の設定"
 
-#~ msgid "Change the default Java toolset"
-#~ msgstr "デフォルト Java Toolset の変更"
 
-#~ msgid "Audio Tag Tool"
-#~ msgstr "オーディオタグ編集ツール"
 
-#~ msgid "MP3 and Ogg Vorbis tag editor"
-#~ msgstr "MP3/OGG タグエディタ"
 
-#~ msgid "Tapioca"
-#~ msgstr "Tapioca"
 
-#~ msgid "Personal task manager"
-#~ msgstr "個人向けタスクマネージャ"
 
-#~ msgid "Tasks"
-#~ msgstr "タスク"
 
-#~ msgid "To Do list"
-#~ msgstr "To-Do リスト"
 
-#~ msgid "Easy quick task management"
-#~ msgstr "素早く簡単にタスクを管理します"
 
-#~ msgid "Tasque"
-#~ msgstr "Tasque"
 
-#~ msgid "T.E.G. client"
-#~ msgstr "T.E.G. クライアント"
 
-#~ msgid "Setup/Administer Terminal Server and clients"
-#~ msgstr "ターミナルサーバとクライアントのセットアップ/管理"
 
-#~ msgid "Terminal Server Administration"
-#~ msgstr "ターミナルサーバの管理"
 
-#~ msgid "GNU TeXmacs"
-#~ msgstr "GNU TeXmacs"
 
-#~ msgid "LaTeX Editor"
-#~ msgstr "LaTeX エディタ"
 
-#~ msgid "Texmaker"
-#~ msgstr "Texmaker"
 
-#~ msgid "Thoggen DVD Ripper"
-#~ msgstr "Thoggen DVD リッパー"
 
-#~ msgid "Configure the Thunar file manager"
-#~ msgstr "Thunar ファイルマネージャを設定します"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "システム時刻や日付、タイムゾーンを管理します"
 
-#~ msgid "Time and Date"
-#~ msgstr "時刻と日付の設定"
 
-#~ msgid "Simple DVD mastering GUI"
-#~ msgstr "シンプルな DVD マスタリング GUI"
 
-#~ msgid "TkDVD"
-#~ msgstr "TkDVD"
 
-#~ msgid "frontend for todisc"
-#~ msgstr "todisc のフロントエンド"
 
-#~ msgid "todisc GUI"
-#~ msgstr "todisc GUI"
 
-#~ msgid "tovid GUI"
-#~ msgstr "tovid GUI"
 
-#~ msgid "Marble Madness type game"
-#~ msgstr "Marble Madness 風のゲーム"
 
-#~ msgid "Trackballs"
-#~ msgstr "トラックボール"
 
-#~ msgid "Chat application for the QT"
-#~ msgstr "QT のためのチャットアプリケーション"
 
-#~ msgid "Trix"
-#~ msgstr "Trix"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "ターミナルサーバクライアント"
 
-#~ msgid "Tutka MIDI Tracker"
-#~ msgstr "Tutka MIDI トラッカー"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "子ども向けお絵かきソフト"
 
-#~ msgid "Drawing program"
-#~ msgstr "お絵かきプログラム"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux ペイント"
 
-#~ msgid "A SIP softphone"
-#~ msgstr "SIP ビデオ電話"
 
-#~ msgid "Twinkle"
-#~ msgstr "Twinkle"
 
-#~ msgid "A Twitter client"
-#~ msgstr "Twitterクライアント"
 
-#~ msgid "Urlgfe"
-#~ msgstr "Urlgfe"
 
-#~ msgid "Users and Groups"
-#~ msgstr "ユーザとグループ"
 
-#~ msgid "Freedoom"
-#~ msgstr "Freedoom"
 
-#~ msgid "Verbiste"
-#~ msgstr "Verbiste"
 
-#~ msgid "Vidalia"
-#~ msgstr "Vidalia"
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid "Manage virtual machines"
-#~ msgstr "仮想マシンの管理"
 
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "仮想マシンマネージャ"
 
-#~ msgid ""
-#~ "A translation tool to help a human translator translate files into other "
-#~ "languages"
-#~ msgstr "翻訳者がファイルを他の言語へ翻訳することを助ける翻訳ツールです"
 
-#~ msgid "Virtaal"
-#~ msgstr "Virtaal"
 
-#~ msgid "Read, capture, broadcast your multimedia streams"
-#~ msgstr "VLCメディアプレイヤー"
 
-#~ msgid "VLC media player"
-#~ msgstr "VLC メディアプレーヤ"
 
-#~ msgid "Gnome Desktop Wallpapers Configuration Tool"
-#~ msgstr "Gnomeデスクトップ環境の壁紙設定ツール"
 
-#~ msgid "Wallpapers tool"
-#~ msgstr "壁紙設定ツール"
 
-#~ msgid "Wammu"
-#~ msgstr "Wammu"
 
-#~ msgid "Postnuclear realtime strategy"
-#~ msgstr "ポスト核世界のリアルタイム戦略ゲーム"
 
-#~ msgid "Warzone 2100"
-#~ msgstr "Warzone 2100"
 
-#~ msgid "Audio File Splitter"
-#~ msgstr "オーディオファイルスプリッタ"
 
-#~ msgid "Split wave files into multiple chunks"
-#~ msgstr "wave ファイルを複数に分割"
 
-#~ msgid "Wavbreaker File Splitter"
-#~ msgstr "Wavbreaker ファイルスプリッタ"
 
-#~ msgid "Wings 3D"
-#~ msgstr "Wings 3D"
 
-#~ msgid "Arcade Game"
-#~ msgstr "アーケードゲーム"
 
-#~ msgid "Wormux"
-#~ msgstr "Wormux"
 
-#~ msgid "wxMaxima"
-#~ msgstr "wxMaxima"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "IBM 3270 ターミナルエミュレータ"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "A GTK+2 only archive manager"
-#~ msgstr "Xfce 4 アーカイブマネージャー"
 
-#~ msgid "Xarchiver"
-#~ msgstr "Xarchiver"
 
-#~ msgid "Chat with people using IRC"
-#~ msgstr "IRC を使ってチャット"
 
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "XChat-GNOME IRC チャット"
 
-#~ msgid "DOS emulator running under X"
-#~ msgstr "DOS エミュレータ"
 
-#~ msgid "Xdosemu"
-#~ msgstr "Xdosemu"
 
-#~ msgid "TV viewer"
-#~ msgstr "テレビビューア"
 
-#~ msgid "XdTV"
-#~ msgstr "XdTV"
 
-#~ msgid "DVI Viewer"
-#~ msgstr "DVI ビューア"
 
-#~ msgid "DVI viewer for TeX DVI files"
-#~ msgstr "TeX DVI ファイルのビューア"
 
-#~ msgid "Burn Image (xfburn)"
-#~ msgstr "イメージを焼く (Xfburn)"
 
-#~ msgid "CD and DVD burning application"
-#~ msgstr "CD や DVD を焼くアプリケーションです"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "卓上カレンダー"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Desktop "
-#~ msgstr "デスクトップ "
 
-#~ msgid "Set desktop background and menu and icon behaviour"
-#~ msgstr "デスクトップの背景およびメニューとアイコンの振る舞いを設定します"
 
-#~ msgid "Configure screen settings and layout"
-#~ msgstr "画面の解像度とレイアウトを設定します"
 
-#~ msgid "Edit keyboard settings and application shortcuts"
-#~ msgstr "キーボード設定とアプリケーションショートカットキーを編集します"
 
-#~ msgid "Configure pointer device behavior and appearance"
-#~ msgstr "ポインティングデバイスの振る舞いや外観を設定します"
 
-#~ msgid "Customize desktop startup and splash screen"
-#~ msgstr "デスクトップの起動と起動画面をカスタマイズします"
 
-#~ msgid "Session and Startup"
-#~ msgstr "セッションと起動"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "Xfce 4 のグラフィカルな設定マネージャーです"
 
-#~ msgid "Settings Manager"
-#~ msgstr "設定マネージャー"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Xfce 4 設定マネージャー"
 
-#~ msgid "Customize the look of your desktop"
-#~ msgstr "デスクトップの外観をカスタマイズします"
 
-#~ msgid "Configure window behavior and shortcuts"
-#~ msgstr "ウィンドウの振る舞いとショートカットキーを設定します"
 
-#~ msgid "Fine-tune window behaviour and effects"
-#~ msgstr "ウィンドウの振る舞いと効果を微調整します"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "ウィンドウマネージャー (詳細)"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "ワークスペースの数と名前を設定します"
 
-#~ msgid "Workspaces"
-#~ msgstr "ワークスペース"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "カレンダー"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Xfce 4 カレンダーアプリケーションの設定を行います"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Xfce 4 カレンダーの設定"
 
-#~ msgid "About Xfce"
-#~ msgstr "Xfce について"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "Xfce デスクトップ環境についての情報"
 
-#~ msgid "Improve keyboard and mouse accessibility"
-#~ msgstr "キーボードとマウスのユーザ補助機能を向上させます"
 
-#~ msgid "Find and launch applications installed on your system"
-#~ msgstr ""
-#~ "システムにインストールされたアプリケーションの検索および起動を行います"
 
-#~ msgid "Clipboard manager"
-#~ msgstr "クリップボードマネージャ"
 
-#~ msgid "Clipman"
-#~ msgstr "Clipman"
 
-#~ msgid "A client program to query different dictionaries."
-#~ msgstr "別の辞書を照会するためのクライアントプログラムです。"
 
-#~ msgid "Dictionary Client"
-#~ msgstr "辞書クライアント"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "Thuanr ファイルマネージャ"
 
-#~ msgid "Help using Xfce"
-#~ msgstr "Xfce のマニュアルを表示します"
 
-#~ msgid "Log Out"
-#~ msgstr "ログアウト"
 
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "Xfce デスクトップからログアウトします"
 
-#~ msgid "Audio mixer for the Xfce Desktop Environment"
-#~ msgstr "Xfce デスクトップ環境向けオーディオミキサー"
 
-#~ msgid "Ideal for your quick notes"
-#~ msgstr "ちょっとしたメモに最適です"
 
-#~ msgid "Customize the panel settings"
-#~ msgstr "パネルの設定をカスタマイズします"
 
-#~ msgid "Power Manager"
-#~ msgstr "電源管理"
 
-#~ msgid "Settings for the Xfce 4 Power Manager"
-#~ msgstr "Xfce 4 電源管理を設定します"
 
-#~ msgid "Xfce 4 Power Manager"
-#~ msgstr "Xfce 4 電源管理"
 
-#~ msgid "Run Program..."
-#~ msgstr "プログラムの実行..."
 
-#~ msgid "Run a program"
-#~ msgstr "プログラムを実行します"
 
-#~ msgid "Screenshot"
-#~ msgstr "スクリーンショット"
 
-#~ msgid ""
-#~ "Take screenshots of the entire screen, of the active window or of a region"
-#~ msgstr ""
-#~ "画面全体、アクティブウィンドウまたは指定した領域のスクリーンショットを撮り"
-#~ "ます。"
 
-#~ msgid "Sensor Viewer"
-#~ msgstr "センサビューア"
 
-#~ msgid "Sensors Values Viewer"
-#~ msgstr "センサ値ビューア"
 
-#~ msgid "Show sensor values."
-#~ msgstr "センサーの値を表示します。"
 
-#~ msgid "Graphical settings editor for Xfconf"
-#~ msgstr "Xfconf のグラフィカル設定エディタです"
 
-#~ msgid "Settings Editor"
-#~ msgstr "設定エディタ"
 
-#~ msgid "Easy to use task manager"
-#~ msgstr "使いやすいタスクマネージャ"
 
-#~ msgid "Terminal emulator"
-#~ msgstr "ターミナルエミュレータ"
 
-#~ msgid "Xfe"
-#~ msgstr "Xfe"
 
-#~ msgid "MPD client"
-#~ msgstr "MPD クライアント"
 
-#~ msgid "MPD client written in GTK+ for Xfce"
-#~ msgstr "Xfce のために GTK+ で書かれたMPDクライアント"
 
-#~ msgid "Xfmpc"
-#~ msgstr "Xfmpc"
 
-#~ msgid "Print Manager"
-#~ msgstr "プリントマネージャー"
 
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "プリンターのリストを表示します。また、それらのジョブを管理します。"
 
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "Xfce 4 プリントマネージャー"
 
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr "Xfprint が使用するプリント方式のバックエンドを選択します。"
 
-#~ msgid "Printing System Settings"
-#~ msgstr "プリント方式"
 
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "Xfce 4 プリント方式の設定"
 
-#~ msgid "Print Dialog"
-#~ msgstr "プリントダイアログ"
 
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "ファイルをプリントします。また、そのレイアウトを設定します。"
 
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "Xfce 4 プリントダイアログ"
 
-#~ msgid "Study the Bible"
-#~ msgstr "聖書を学習"
 
-#~ msgid "XNC"
-#~ msgstr "XNC"
 
-#~ msgid "Sticky Notes"
-#~ msgstr "メモを貼り付ける"
 
-#~ msgid "Xpad"
-#~ msgstr "Xpad"
 
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"
 
-#~ msgid "Game Server Browser"
-#~ msgstr "ゲームサーバ用ブラウザ"
 
-#~ msgid "Locate and connect to game servers"
-#~ msgstr "ゲームサーバを探して接続します"
 
-#~ msgid "XQF Game Server Browser"
-#~ msgstr "XQF ゲームサーバ用ブラウザ"
-
-#~ msgid "VoIP Phone"
-#~ msgstr "VoIP 電話"
-
-#~ msgid "Edit text files \"wiki style\""
-#~ msgstr "テキストファイルを wiki スタイルで編集"
-
-#~ msgid "Zim Desktop Wiki"
-#~ msgstr "Zim デスクトップ Wiki"
-
-#~ msgid "ZSNES"
-#~ msgstr "ZSNES"
-
-#~ msgid "Google Earth Install"
-#~ msgstr "Google Earth をインストール"
-
-#~ msgid "drcss"
-#~ msgstr "drcss"
-
-#~ msgid "FreeCol"
-#~ msgstr "FreeCol"
-
-#~ msgid "tuxfw"
-#~ msgstr "tuxfw"

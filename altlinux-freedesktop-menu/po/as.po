@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2004-11-11 20:16+0530\n"
 "Last-Translator: SUNARAM PATIR <lkpatir@yahoo.co.in>\n"
 "Language-Team: ASSAMESE <>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -289,7 +289,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Email applications"
-msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
+msgstr "চাত্ৰাঙ্কিত অনুপ্ৰয়োগ"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -335,9 +335,8 @@ msgstr ""
 msgid "File tools"
 msgstr "ফাইল ব্রাউজার"
 
-#, fuzzy
 msgid "Finances"
-msgstr "মাইন"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -351,7 +350,7 @@ msgstr ""
 
 #, fuzzy
 msgid "GUI designer applications"
-msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
+msgstr "চাত্ৰাঙ্কিত অনুপ্ৰয়োগ"
 
 msgid "Games"
 msgstr "খেলা"
@@ -456,9 +455,8 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "মাইন"
+msgstr ""
 
 msgid "Monitoring"
 msgstr ""
@@ -478,9 +476,8 @@ msgstr "মাল্টি-মিডিয়া তালিকা"
 msgid "Multimedia Recorders"
 msgstr "মাল্টি-মিডিয়া তালিকা"
 
-#, fuzzy
 msgid "Music"
-msgstr "মাউছ"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -538,9 +535,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "পছন্দ"
+msgstr ""
 
 msgid "Personal"
 msgstr "ব্যক্তিগত"
@@ -560,9 +556,8 @@ msgstr "পছন্দ"
 msgid "Presentation software"
 msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "ব্যক্তিগত বৈশিষ্ট্য"
+msgstr ""
 
 msgid "Printing"
 msgstr "মুদ্ৰণ কৰা কাৰ্য্য"
@@ -622,16 +617,14 @@ msgstr "বিজ্ঞান"
 msgid "Screensavers"
 msgstr "স্ক্ৰীনছেভাৰ"
 
-#, fuzzy
 msgid "Security"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Security tools"
 msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "স্ক্ৰীনছেভাৰ"
+msgstr ""
 
 msgid "Settings"
 msgstr "বৈশিষ্ট্য"
@@ -695,7 +688,7 @@ msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
+msgstr "চাত্ৰাঙ্কিত অনুপ্ৰয়োগ"
 
 #, fuzzy
 msgid "TV applications"
@@ -735,9 +728,8 @@ msgstr "টেক্সট সম্পাদক"
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
-#, fuzzy
 msgid "Tools"
-msgstr "খেলনা"
+msgstr ""
 
 #, fuzzy
 msgid "Tools for web developers"
@@ -848,685 +840,229 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "Miscellaneous"
-#~ msgstr "বিবিধ"
 
-#~ msgid "Utilities"
-#~ msgstr "সৰঞ্জাম"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "X Window Utilities"
 
-#~ msgid "X-Utilities"
-#~ msgstr "X-Utilities"
 
-#~ msgid "Lost & Found"
-#~ msgstr "হেৰুৱা & পোৱা"
 
-#~ msgid "Information"
-#~ msgstr "তথ্য"
 
-#~ msgid "Personal preferences"
-#~ msgstr "ব্যক্তিগত পছন্দ"
 
-#~ msgid "Accessories"
-#~ msgstr "আনুষঙ্গিক"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "ডেস্কটপৰ ব্যৱহৃত আনুষঙ্গিক বস্তু"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "বিজ্ঞান & গণিত"
 
-#~ msgid "Peripherals"
-#~ msgstr "যন্ত্ৰ"
 
-#~ msgid "Look and Feel"
-#~ msgstr "চেহেৰা ছবি"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "ডেস্কটপৰ চেহেৰা ও আচৰণ নিয়ন্ত্ৰণকাৰী বৈশিষ্ট্য"
 
-#~ msgid "File"
-#~ msgstr "নথিপত্ৰ"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "স্ক্ৰীনছেভাৰ থিম"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ বৈশিষ্ট্যৰ বিন্যাস এবং নিৰীক্ষণ"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "বিবিধ যন্ত্ৰৰ সামগ্ৰীৰ সংক্ৰান্ত বৈশিষ্ট্য"
 
-#~ msgid "KDE Menu"
-#~ msgstr "KDE তালিকা"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "ব্যক্তিগত পছন্দ ও প্ৰশাসনিক বৈশিষ্ট্য"
 
-#~ msgid "Universal Access"
-#~ msgstr "সাৰ্বজনীন ব্যবহাৰাধিকাৰ"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "সাৰ্বজনীন ব্যবহাৰাধিকাৰ সংক্ৰান্ত সম্পৰ্কিত বৈশিষ্ট্য"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr ""
-#~ "সম্পূৰ্ণ ব্যৱস্থাপ্ৰণালী ব্যাপী বৈশিষ্ট্য পৰিবৰ্তন কৰক (সকলো ব্যৱহাৰকৰোঁতা প্ৰভাবিত "
-#~ "হ'ব)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "শব্দ ও ভিডিও"
 
-#~ msgid "Internet and Network"
-#~ msgstr "ইন্টাৰনেট ও নেটৱৰ্ক"
 
-#~ msgid "Control Center"
-#~ msgstr "Control Center"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Rogue-like Games"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "ইন্টাৰনেট ব্যবহাৰৰ অনুপ্ৰয়োগ যেনে ওৱেব আৰু ই-মেইল অনুপ্ৰয়োগ"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "অন্যান্য শ্ৰেণীত অন্তৰ্গত নকৰা অনুপ্ৰয়োগ"
 
-#~ msgid "Office Applications"
-#~ msgstr "কাৰ্যালয়ৰ অনুপ্ৰয়োগ"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "Beat the odds in a poker-style dice game"
 
-#~ msgid "Tali"
-#~ msgstr "টালী"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "চালনাজ্ঞানৰ উৎসস্থল সক্ৰিয় বা নিষ্ক্ৰিয় কৰক"
 
-#~ msgid "Five or More"
-#~ msgstr "'পাঁচ অথবা বেশি'"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "সাৰি গঠনেৰ মাধ্যমে বোৰ্ড থেকে ৰঙিন বলগুলো সৰিয়ে ফেলুন"
 
-#~ msgid "System Monitor"
-#~ msgstr "System Monitor"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "চলমান প্ৰসেস চাওক চাওক সিস্টেমেৰ অবস্থা নিৰীক্ষণ কৰক"
 
-#~ msgid "Image Viewer"
-#~ msgstr "ছবি প্ৰদৰ্শক"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "আবদ্ধকৰণৰ নীতি বিন্যাস কৰক"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "আবদ্ধকৰণৰ সম্পাদক"
 
-#~ msgid "About Me"
-#~ msgstr "আমাৰ পৰিচিতি"
 
-#~ msgid "Set your personal information"
-#~ msgstr "আপনাৰ ব্যক্তিগত তথ্য লিখুন"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "নতুন CD আৰু DVD সৃষ্টি কৰক অথবা নকল কৰক"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "মূখ্য তালিকাত কোনবোৰ অনুপ্ৰয়োগ দেখুওৱা হ'ব সেইটো সলনি কৰক"
 
-#~ msgid "Main Menu"
-#~ msgstr "মূখ্য তালিকা"
 
-#~ msgid "Browse the web"
-#~ msgstr "ৱেব ব্ৰাউজ কৰক"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Character Map"
-#~ msgstr "অক্ষৰৰ ম্যাপ"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "নথিপত্ৰেত বিশেষ অক্ষৰ সন্নিবেশ কৰক"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "সেৱা সৰঞ্জাম নিৰ্মাণ ব্যৱস্থা"
 
-#~ msgid "Appearance"
-#~ msgstr "চেহাৰা"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "ডেস্কটপেৰ চেহাৰা পছন্দ অনুসাৰে নিৰ্ধাৰণ কৰুন"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "অনলাইন অভিধানে শব্দেৰ সংজ্ঞা ও বানান পৰীক্ষা কৰক"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr ""
-#~ "নাম অথবা অন্তৰ্ভুক্ত বিষয় অনুসাৰে এই কম্পিউটাৰে ফাইল অথবা ফোল্ডাৰ অনুসন্ধান কৰক"
 
-#~ msgid "Search for Files..."
-#~ msgstr "ফাইল অনুসন্ধান..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr "Launch এবং."
 
-#~ msgid "Panel"
-#~ msgstr "প্যানেল"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "বিকল্প নিবেশ যন্ত্ৰৰ সহায়ত টাইপ কৰক আৰু এপ্লিকেশনত চলাচল কৰক"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "স্ক্ৰিনেৰ ওপৰ অবস্থিত কি-বোৰ্ড"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "অডিও"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "আপোনাৰ CD সমূহৰ পৰা সঙ্গীত নকল কৰক"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "CD/DVD নিৰ্মাণ ব্যৱস্থা"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "CD আৰু DVD নিৰ্মাণ কৰক"
 
-#~ msgid "Klotski"
-#~ msgstr "ক্লোটস্কি খেলা"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "Slide blocks to solve the puzzle"
 
-#~ msgid "Chess"
-#~ msgstr "Chess"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "দুই সৰ্বমোট"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "বুকমাৰ্ক আৰু স্থানীয় নেটৱৰ্ক অবস্থান ব্ৰাউজ কৰা হ'ব"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "ব্যৱহাৰকৰোঁতাৰ পৰিলেখ নিৰ্ধাৰণ আৰু সম্পাদন কৰক"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "ব্যৱহাৰকৰ্তাৰ পৰিলেখ সম্পাদন ব্যৱস্থা"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "ফ'টো ভিৱাৰ"
 
-#~ msgid "Bluetooth"
-#~ msgstr "ব্লু-টুথ"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "ব্লু-টুথ সংক্ৰান্ত বৈশিষ্ট্য বিন্যাস কৰক"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "ড্ৰাইভ আৰু মিডিয়া পৰিচালন কৰক"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "চৰক এবং"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "ফৰ্দ্দৰ সংস্থাপক"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "ব্যৱস্থাপ্ৰণালীত উপস্থিত চালনাজ্ঞানৰ ফৰ্দ্দ সংস্থাপন কৰক"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "ডেস্কটপ অথবা স্বতন্ত্ৰ উইন্ডোৰ ছবি সংৰক্ষণ কৰক"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "পৰ্দাৰ ছবি নিন"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "ফাইল ব্যবস্থাপকেৰ সাহায্যে ফাইল-সিস্টেম ব্ৰাউজ কৰুন"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "ডেস্কটপেৰ বিভিন্ন অংশেৰ জন্য থিমেৰ প্যাকেজ ইনস্টল কৰে"
 
-#~ msgid "Theme Installer"
-#~ msgstr "থিম ইনস্টলাৰ"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "GNOMEৰ পৰা সহায়তা প্ৰাপ্ত কৰক"
 
-#~ msgid "Help"
-#~ msgstr "সহায়িকা"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "সহায়ক প্ৰযুক্তি"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr ""
-#~ "প্ৰৱেশ কৰাৰ সময়, বিশেষ ব্যবহাৰৰ কোনো ব্যবস্থাসমূহ সক্ৰিয় কৰা হ'ব সেইটো নিৰ্বাচন "
-#~ "কৰক"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "Check foldeৰ sizes and available disk space"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "ডিস্ক"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "আপোনাৰ ফটোবোৰ সজাওক, ভাগ বতৰা কৰক আৰু উপভোগ কৰক"
 
-#~ msgid "Photo Manager"
-#~ msgstr "ফটো মেনেজাৰ"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "চলচ্চিত্ৰ ও সংগীত পৰিবেশন"
 
-#~ msgid "Home Folder"
-#~ msgstr "ব্যক্তিগত ফোল্ডার"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "ব্যক্তিগত ফোল্ডার খুলুন"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "সম্পন্ন"
 
-#~ msgid "Tetravex"
-#~ msgstr "ট্ৰাভেক্স খেলা"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "আগতে সঞ্চালিত সৰঞ্জাম পৰিবৰ্তন সংক্ৰান্ত কাৰ্য্য পৰিদৰ্শন কৰক"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "জীস্ট্ৰিমাৰেৰ অ্যাপ্লিকেশনসমূহেৰ জন্য ডিফল্ট মান কনফিগাৰ কৰুন"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "মাল্টিমিডিয়া সিস্টেম নিৰ্বাচক"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "দূৰবৰ্তী ডেস্কটপৰ সৈতে সংযোগ কৰক"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "দূৰবৰ্তী ডেস্কটপ প্ৰদৰ্শন ব্যৱস্থা"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "অডিটৰ বিন্যাস"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "অডিট বিন্যাস পৰিবৰ্তন কৰক"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "ৰোবটগুলোকে এড়িয়ে চলুন আৰুসেগুলোকে একে অপৰেৰ ওপৰ বিধ্বস্ত কৰক"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "A pop-art-ish grid of pulsing colors."
 
-#~ msgid "Pop art squares"
-#~ msgstr "পপ আৰ্ট স্কোয়াৰ"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "F-Spotৰ পৰা শ্লাইডশ্বো এটা প্ৰদৰ্শন কৰক"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "F-Spot ফটোবোৰ"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "আপনাৰ ছবিৰ ফোল্ডাৰ এৰ োৰ একটি স্লাইডশো প্ৰদৰ্শন কৰক"
 
-#~ msgid "Pictures folder"
-#~ msgstr "ছবিৰ ফোল্ডাৰ"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "GNOME"
 
-#~ msgid "Floating Feet"
-#~ msgstr "ভাসমান পা"
 
-#~ msgid "Cosmos"
-#~ msgstr "কসমস"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "কসমস এৰ ছবিগুলোৰ একটি স্লাইডশো প্ৰদৰ্শন কৰক"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "চিহ্নিত কম্পিউটাৰ থেকে ব্যবহাৰযোগ্য সকল স্থানীয় আৰু দূৰবৰ্তী ডিস্ক আৰু ফোল্ডাৰ ব্ৰাউজ "
-#~ "কৰক"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "পত্ৰচিহ্নৰ তালিকা পঢ়ক আৰু বিন্যস্ত কৰক"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "এপিফেনিৰ ৱেব বিষয়ক পত্ৰচিহ্ন"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "ৱেব বিষয়ক পত্ৰচিহ্ন"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "তালিকা উন্নয়নৰ সৰঞ্জাম"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "Home"
-#~ msgstr "ঘৰ"
 
-#~ msgid "Personal Files"
-#~ msgstr "ব্যক্তিগত নথিপত্ৰ"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Info Center"
-#~ msgstr "তথ্য কেন্দ্ৰ"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "Change Password"
-#~ msgstr "গুপ্তশব্দ সলনি কৰক"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Menu Editor"
-#~ msgstr "তালিকা সম্পাদক"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "নথিপত্ৰ/পঞ্জিকা বিচাৰক"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "File Manager - Super User Mode"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "ফ্লপি ফৰম্যাটৰ"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "বিভিন্ন কমান্ডেৰ জন্য শৰ্টকাট নিৰ্ধাৰণ কৰুন"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "কীবোৰ্ড শৰ্টকাট"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "শব্দেৰ মাত্ৰা ঠিক কৰুন"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "PulseAudio শব্দৰ মাত্ৰা নিয়ন্ত্ৰণকাৰী"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "সংস্থাপন কৰা প্লাগ-ইন সক্ৰিয়/নিষ্ক্ৰিয় কৰক"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "কি-বোৰ্ড নিৰ্দেশকাৰী প্লাগ-ইন"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "শব্দৰ মাত্ৰা o নিৰ্দিষ্ট ঘটনাৰ সৈতে যুক্ত শব্দ পৰিবৰ্তন কৰক"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "দূৰবৰ্তী ব্যৱহাৰকৰ্তাৰ বাবে আপোনাৰ ডেস্কট'প প্ৰদৰ্শনৰ প্ৰণালী নিৰ্ধাৰণ কৰক"
 
-#~ msgid "Screensaver"
-#~ msgstr "স্ক্ৰীনছেভাৰ"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "আপোনাৰ স্ক্ৰীনছেভাৰেৰ পছন্দসমূহ নিৰ্ধাৰণ কৰক"
 
-#~ msgid "Open Folder"
-#~ msgstr "ফোল্ডাৰ খুলুন"
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "ব্যৱস্থাপ্ৰণালীত নিৰ্বাচিত চালনাজ্ঞান সংস্থাপন কৰক"
 
-#~ msgid "Package Installer"
-#~ msgstr "সৰঞ্জাম সংস্থাপন ব্যৱস্থা"
 
-#~ msgid "Sudoku"
-#~ msgstr "Sudoku"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "পৰীক্ষা"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "লগ নথিপত্ৰ প্ৰদৰ্শন ব্যৱস্থা"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "সিস্টেম লগ ফাইল পড়ুন অথবা পৰ্যবেক্ষণ কৰক"
 
-#~ msgid "Network Proxy"
-#~ msgstr "নেটওয়াৰ্ক প্ৰক্সি"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "নেটওয়াৰ্ক প্ৰক্সি সম্পৰ্কিত পছন্দ নিৰ্ধাৰণ কৰুন"
 
-#~ msgid "Use the command line"
-#~ msgstr "আদেশ লাইন ব্যবহাৰ কৰুন"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "লগ-ইন কৰাৰ সময় আৰম্ভ কৰাৰ উদ্দেশ্যে চিহ্নিত অ্যাপ্লিকেশন"
 
-#~ msgid "Startup Applications"
-#~ msgstr "প্ৰাৰম্ভিক অ্যাপ্লিকেশন"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Preview"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "Clear"
 
-#~ msgid "Record sound clips"
-#~ msgstr "শব্দেৰ টুকৰো ৰেকৰ্ড কৰুন"
 
-#~ msgid "Set your window properties"
-#~ msgstr "উইন্ডোৰ বৈশিষ্ট্য নিৰ্ধাৰণ কৰুন"
 
-#~ msgid "Windows"
-#~ msgstr "উইন্ডো"
 
-#~ msgid "Configure power management"
-#~ msgstr "বিদ্যুত্‌ পৰিচালনব্যৱস্থা কনফিগাৰ কৰক"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "এইসলৰায়োট সলিটেয়াৰ"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "বিভিন্নৰকম সলিটেয়াৰ খেলুন"
 
-#~ msgid "Note-taker"
-#~ msgstr "নোট-গ্ৰহণ ব্যৱস্থা"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Take notes, link ideas, and stay organized"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Tomboy Notes"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "আৰ্কাইভ নিৰ্মাণ ও পৰিবৰ্তন কৰক"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "কৰ্ম বাতিল, স্থগিত, পুনৰাৰম্ভ অথবা পুনৰায় কৰুন"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "প্ৰিন্ট কৰুন"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "GNOME সম্পৰ্কে বিস্তাৰিত তথ্য পঢ়ক"
 
-#~ msgid "Keyboard"
-#~ msgstr "কীবোৰ্ড"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "কীবোৰ্ড সম্পৰ্কিত পছন্দ নিৰ্ধাৰণ কৰুন"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "অনুৰূপ জোড়া সৰিয়ে ফেলাৰ মাধ্যমে কতগুলো ব্লকেৰ একটি স্তূপকে ভেঙ্গে ফেলুন"
 
-#~ msgid "Mahjongg"
-#~ msgstr "মাহজং"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "মাউস সম্পৰ্কিত পছন্দ নিৰ্ধাৰণ কৰুন"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "ৱেবকেমৰ সহায়ত আমোদময় গ্ৰাফিক্সসহ ফ'টো তোলক আৰু ভিডিও তৈয়াৰ কৰক"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "সৰ্বমোট"
 
-#~ msgid "Iagno"
-#~ msgstr "ইয়াগনো"
 
-#~ msgid "Add or remove software installed on the system"
-#~ msgstr "ব্যৱস্থাপ্ৰণালীত সংস্থাপিত চালনাজ্ঞান উন্নয়ন কৰক"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "চালনাজ্ঞান যোগ কৰক/আঁতৰাই দিয়ক"
 
-#~ msgid "Software Update"
-#~ msgstr "চালনাজ্ঞান উন্নয়ন ব্যৱস্থা"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "ব্যৱস্থাপ্ৰণালীত সংস্থাপিত চালনাজ্ঞান উন্নয়ন কৰক"
 
-#~ msgid "Observe power management"
-#~ msgstr "Observe power management"
 
-#~ msgid "Power Statistics"
-#~ msgstr "পৰিসংখ্যান"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "এক-সাৰিতে-চাৰটি"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "খানি পংক্তিৰ জন্য সৰ্বমোট ৰং"
 
-#~ msgid "Time Tracker"
-#~ msgstr "সময় অনুসৰণ"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "চাবিৰফলক নোহোৱাকে লিপি নিবেশ কৰক"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "আনুমানিক টেক্সট লিখা ব্যৱস্থা"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "গনোম কনফিগাৰেশন প্ৰক্ৰিয়া"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "Perform arithmetic, scientific or financial calculations"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "সর্বমোট ফাইল"
 
-#~ msgid "File Management"
-#~ msgstr "ফাইল ব্যবস্থাপনা"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Ekiga Softphone"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "এবং ভিডিও"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "ইন্টাৰ্নেট"
 
-#~ msgid "Edit text files"
-#~ msgstr "টেক্সট নথিপত্ৰ সম্পাদনা"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "চালনাজ্ঞান উন্নয়নৰ পছন্দৰ মান পৰিবৰ্তন কৰক"
 
-#~ msgid "Software Updates"
-#~ msgstr "চালনাজ্ঞান উন্নয়ন ব্যৱস্থা"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bonobo Component Browser"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "উপলব্ধ Bonobo বস্তু প্ৰদৰ্শন কৰা হয়"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Groupware Suite"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "আপোনাৰ ই-মেইল অ্যাকাউন্টসমূহকে এখানে বিন্যাস কৰক"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "PulseAudio "
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "ধ্বনি সেৱকৰ পছন্দ"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "স্থানীয় ধ্বনি সেৱকৰ বিন্যাস দৰ্শন কৰক আৰু সলনি কৰক"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "আপোনাৰ সঙ্গীত বজাওক আৰু পৰিচালনা কৰক"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "SCIM নিবেশ পদ্ধতিৰ প্ৰতিষ্ঠা"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "Smart Common Input Method মঞ্চৰ বাবে প্ৰতিষ্ঠাৰ সৰঞ্জাম"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "ফ্ৰীসেল সলিটেয়াৰ"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "জনপ্ৰিয় ফ্ৰীসেল খেলাটি খেলুন"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "আপোনাৰ সম্পূৰ্ণ বিন্যাস তথ্যভঁৰাল পোনেপোনে সম্পাদন কৰক"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "অটোৰান সংক্ৰান্ত প্ৰমপ্ট"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "বাগ-ৰিপোৰ্ট ব্যৱস্থা"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "GNOME-ভিত্তিক অনুপ্ৰয়োগৰ বাবে বাগ ৰিপোৰ্ট কৰক"
 
-#~ msgid "Lights Off"
-#~ msgstr "আট শেষ"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "সকল আলো নিভিয়ে দেওয়া হবে"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "F-Spot লৈ আমদানি কৰক"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "একটি পোকাকে গোলকধাঁধাঁয় চালান"
 
-#~ msgid "Nibbles"
-#~ msgstr "নিবল্‌স"
+
+
+

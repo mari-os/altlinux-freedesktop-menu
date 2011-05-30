@@ -12,10 +12,10 @@ msgstr ""
 "PO-Revision-Date: 2000-10-13 22:47NZST\n"
 "Last-Translator: Nobody\n"
 "Language-Team: Maori <james.gasson@clear.net.nz>\n"
+"Language: mi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: mi\n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -457,9 +457,8 @@ msgstr "Rārangi tono rongorau"
 msgid "Multimedia Recorders"
 msgstr "Rārangi tono rongorau"
 
-#, fuzzy
 msgid "Music"
-msgstr "Kiore"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -516,9 +515,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "Mea Whiriwhiri"
+msgstr ""
 
 msgid "Personal"
 msgstr ""
@@ -684,9 +682,8 @@ msgstr ""
 msgid "Terminal emulator applications"
 msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Whakawhanuinga"
+msgstr ""
 
 msgid "Text tool utilities"
 msgstr ""
@@ -697,9 +694,8 @@ msgstr ""
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
-#, fuzzy
 msgid "Tools"
-msgstr "Mea Tākaro"
+msgstr ""
 
 msgid "Tools for web developers"
 msgstr ""
@@ -802,44 +798,18 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Maramara"
 
-#~ msgid "Information"
-#~ msgstr "Pānuitanga"
 
-#~ msgid "Accessories"
-#~ msgstr "Ngā Whakarawe"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Tūtei-pahū"
 
-#~ msgid "Appearance"
-#~ msgstr "āhua"
 
-#~ msgid "Help"
-#~ msgstr "āwhina"
 
-#~ msgid "Home Folder"
-#~ msgstr "Kōpaki Kāinga"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KWhangaonoPeke"
 
-#~ msgid "Konquest"
-#~ msgstr "KWhakahinga"
 
-#~ msgid "Home"
-#~ msgstr "Kāinga"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Tane Rīwae"
 
-#~ msgid "CD Player"
-#~ msgstr "Pūrere CD"
 
-#~ msgid "Change Password"
-#~ msgstr "Huri Kupu-puta"
 
-#~ msgid "About GNOME"
-#~ msgstr "Mo GNOME"
+
+

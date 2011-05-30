@@ -1,65 +1,75 @@
-# Thai translation of Menu sections
-# Copyright (C) 2006-2007 Software in the Public Interest, Inc.
-# This file is distributed under the same license as the menu package.
-# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2006-2007.
+# translation of menu-messages-main-th.po to Thai
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/th.php3
+#
+# Strings used in the menus of window mananagers on a Mandrakelinux system.
+# Copyright (C) 2002 Mandrakesoft
+# Wachara Chinsettawong <wachara@yahoo.com>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.9-3\n"
+"Project-Id-Version: menu-messages-main-th\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2007-07-17 17:04+0700\n"
-"Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
-"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2005-02-11 13:07+0700\n"
+"Last-Translator: Wachara Chinsettawong <wachara@yahoo.com>\n"
+"Language-Team: Thai <en@li.org>\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.2\n"
 
 #, fuzzy
 msgid "2D Graphics"
 msgstr "รูปภาพ"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "รูปภาพ"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "การจัดการแฟ้ม"
+msgstr "เกมและความบันเทิง"
 
 msgid "Accessibility"
-msgstr "สิ่งอำนวยความสะดวก"
+msgstr "ความง่ายในการใช้งาน"
 
+#, fuzzy
 msgid "Action"
-msgstr "แอ็คชั่น"
+msgstr "การเรียนการสอน"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "แอ็คชั่น"
+msgstr "เกมส์"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "สมุดที่อยู่ K"
 
 msgid "Administration"
 msgstr "ดูแลระบบ"
 
 msgid "Adventure"
-msgstr "ผจญภัย"
+msgstr "Adventure"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "ผจญภัย"
+msgstr "Adventure"
 
 msgid "Amateur Radio"
-msgstr "วิทยุสมัครเล่น"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
@@ -81,22 +91,26 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "โต้ตอบ"
+msgstr "เกมอาเขต"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "เกมส์อาร์เขด"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "เครื่องมือจัดการแฟ้มบีบอัด"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "อาร์ค"
 
 msgid "Artificial Intelligence"
 msgstr "สมองกล"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "สมองกล"
 
 msgid "Astronomy"
 msgstr "ดาราศาสตร์"
@@ -108,25 +122,27 @@ msgstr "ดาราศาสตร์"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "โปรแกรมเล่นเสียง"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "ตัวบันทึกเสียง"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "ทำสำเนา"
 
 msgid "Biology"
-msgstr "ชีววิทยา"
+msgstr "Biology"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "ชีววิทยา"
+msgstr "โปรแกรม Morphing"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "บล็อค"
+msgstr ""
 
 msgid "Board Games"
 msgstr "เกมกระดาน"
@@ -142,7 +158,7 @@ msgstr "เครื่องคิดเลข"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "จำลอง"
+msgstr "เครื่องคิดเลข"
 
 msgid "Calendar"
 msgstr ""
@@ -158,10 +174,11 @@ msgstr "เกมไพ่ต่างๆ"
 
 #, fuzzy
 msgid "Chart"
-msgstr "ไพ่"
+msgstr "เลือกอักขระ"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "การสนทนา IRC"
 
 msgid "Chemistry"
 msgstr "เคมี"
@@ -170,13 +187,12 @@ msgstr "เคมี"
 msgid "Chemistry software"
 msgstr "เคมี"
 
-#, fuzzy
 msgid "Clock"
-msgstr "บล็อค"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
-msgstr "การสื่อสาร"
+msgstr "โปรแกรม"
 
 msgid "Compression"
 msgstr ""
@@ -184,22 +200,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "วิทยาศาสตร์คอมพิวเตออร์"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "วิทยาศาสตร์คอมพิวเตออร์"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "วิทยาศาสตร์คอมพิวเตออร์"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "ภูมิศาสตร์"
+msgstr "วิทยาศาสตร์คอมพิวเตออร์"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "เครื่องมือแก้ไขค่าตั้ง"
 
 #, fuzzy
 msgid "Construction"
-msgstr "การสื่อสาร"
+msgstr "ดูแลระบบ"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -207,8 +226,9 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Data Visualization"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "Data Visualization"
 
 msgid "Databases"
 msgstr "ระบบฐานข้อมูล"
@@ -222,29 +242,34 @@ msgstr "พื้นที่ทำงาน"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "วิดเจ็ตของพื้นที่ทำงาน"
 
 msgid "Development"
 msgstr "พัฒนาโปรแกรม"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "รูปแบบการพัฒนาโปรแกรม"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "โปรแกรมวาดรูป"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "พจนานุกรม"
 
 msgid "Dictionary"
 msgstr "พจนานุกรม"
 
+#, fuzzy
 msgid "Disc burning"
-msgstr ""
+msgstr "เขียนแผ่น"
 
 msgid "Documentation"
 msgstr "คู่มือ"
@@ -256,71 +281,79 @@ msgid "Economy"
 msgstr "เศรษฐศาสตร์"
 
 msgid "Editors"
-msgstr "เครื่องมือแก้ไข"
+msgstr "แก้ไขข้อความ"
 
 msgid "Education"
-msgstr "การศึกษา"
+msgstr "การเรียนการสอน"
 
 msgid "Electricity"
 msgstr "ไฟฟ้า"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "ไฟฟ้า"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "อิเล็กทรอนิกส์"
+msgstr "ไฟฟ้า"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "โปรแกรม"
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "จำลอง"
+msgstr "อิมูเลเตอร์"
 
 msgid "Engineering"
-msgstr "วิศวกรรม"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "บล็อค"
+msgstr "เรียงบล็อกที่หล่นให้ต่อกันสนิท"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "เรียงบล็อกที่หล่นให้ต่อกันสนิท"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "การจัดการแฟ้ม"
+msgstr "เครื่องมือจัดการแฟ้ม"
 
 #, fuzzy
 msgid "File Systems"
 msgstr "ระบบ"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "การถ่ายโอนแฟ้ม"
+msgstr "เครื่องมือจัดการแฟ้ม"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "เครื่องมือระบบ"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "เครืองมือเขียน"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "วิทยาศาสตร์"
 
 msgid "Flow Chart"
 msgstr ""
@@ -328,11 +361,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "เครื่องมือออกแบบส่วนติดต่อผู้ใช้"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
 msgid "Games"
 msgstr "เกม"
@@ -348,17 +383,19 @@ msgstr "ภูมิศาสตร์"
 
 #, fuzzy
 msgid "Geology"
-msgstr "ชีววิทยา"
+msgstr "Biology"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "โปรแกรม Morphing"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "ภูมิศาสตร์"
+msgstr "Geosciences"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "ภูมิศาสตร์"
+msgstr "Geosciences"
 
 msgid "Geosciences"
 msgstr "Geosciences"
@@ -366,8 +403,9 @@ msgstr "Geosciences"
 msgid "Graphics"
 msgstr "รูปภาพ"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "โปรแกรม Morphing"
 
 msgid "Hardware"
 msgstr "ฮาร์ดแวร์"
@@ -375,33 +413,38 @@ msgstr "ฮาร์ดแวร์"
 msgid "History"
 msgstr "ประวัติศาสตร์"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "ไคลเอนต์ IRC"
 
 msgid "Image Processing"
 msgstr "การจัดทำรูปภาพ"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "การจัดทำรูปภาพ"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Instant Messenger"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "โปรแกรมไครแอนท์ของโปรแกรมส่งข้อมูลแบบทันที"
 
 msgid "Internet"
 msgstr "อินเทอร์เน็ต"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "โปรแกรม"
+msgstr "โปรแกรมอื่นๆ"
 
 msgid "Java"
 msgstr ""
@@ -424,52 +467,58 @@ msgstr "เกมตรรกะ"
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "โปรแกรม Morphing"
 
 msgid "Mathematics"
-msgstr "คณิตศาสตร์"
+msgstr "เลข"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "เลือกดูโปรแกรมที่มี"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "โปรแกรม Morphing"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "โปรแกรมแสดง"
+msgstr "WmsMixer"
 
 msgid "Monitoring"
-msgstr "ติดตามสถานะ"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "มัลติมีเดีย"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "เมนูระบบสื่อผสม"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "เครื่องเล่นมัลติมีเดีย"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "เครื่องเล่นมัลติมีเดีย"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "โปรแกรม Morphing"
 
 msgid "Network"
-msgstr "เครือข่าย"
+msgstr "ระบบเครือข่าย"
 
 msgid "Network-related settings"
 msgstr "ตั้งค่าเกี่ยวกับเครือข่าย"
 
-#, fuzzy
 msgid "News"
-msgstr "ข่าวทางเว็บ"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -477,8 +526,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "การวิเคราะห์ตัวเลข"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "การวิเคราะห์ตัวเลข"
 
 msgid "OCR"
 msgstr ""
@@ -497,14 +547,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "เขียนโปรแกรม"
+msgstr "โปรแกรมวาดภาพ"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "การจัดการแพกเกจ"
+msgstr "โปรแกรมเทอร์มินัล"
 
 msgid "Packaging"
 msgstr "จัดการแพ็คเกจ"
@@ -512,8 +562,9 @@ msgstr "จัดการแพ็คเกจ"
 msgid "Parallel Computing"
 msgstr "Parallel Computing"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "Parallel Computing"
 
 msgid "Performance"
 msgstr ""
@@ -521,37 +572,42 @@ msgstr ""
 msgid "Personal"
 msgstr "ส่วนบุคคล"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "ภูมิศาสตร์"
 
 msgid "Physics"
-msgstr "ฟิสิกส์"
+msgstr "ฟิสิกซ์"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "ฟิสิกส์"
+msgstr "โปรแกรม Morphing"
 
 msgid "Preferences"
 msgstr "ปรับแต่ง"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "งานนำเสนอ"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "งานนำเสนอ"
 
 msgid "Printing"
 msgstr "กำลังพิมพ์"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "เครื่องมือจัดการแฟ้มบีบอัด"
 
+#, fuzzy
 msgid "Project Management"
-msgstr "การจัดการโครงการ"
+msgstr "การใช้พลังงาน"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "การจัดการโครงการ"
+msgstr "โปรแกรมที่ชอบ"
 
 msgid "Publishing"
 msgstr ""
@@ -563,20 +619,24 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "รูปภาพ"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "พื้นโต๊ะระยะไกล"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "ตัวควบคุมระดับเสียง"
 
 msgid "Robotics"
 msgstr "หุ่นยน"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "โปรแกรม Morphing"
 
 msgid "Role Playing"
 msgstr ""
@@ -584,9 +644,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "รักษาหน้าจอ"
+msgstr ""
 
 msgid "Science"
 msgstr "วิทยาศาสตร์"
@@ -595,24 +654,25 @@ msgid "Screensavers"
 msgstr "โปรแกรมรักษาหน้าจอ"
 
 msgid "Security"
-msgstr "ระบบรักษาความปลอดภัย"
+msgstr "ความปลอดภัย"
 
 #, fuzzy
 msgid "Security tools"
-msgstr "ระบบรักษาความปลอดภัย"
+msgstr "ความปลอดภัย"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "วิทยาศาสตร์"
 
 msgid "Settings"
 msgstr "ตั้งค่า"
 
-msgid "Simulation"
-msgstr "จำลอง"
-
 #, fuzzy
+msgid "Simulation"
+msgstr "จำลอง Minitel"
+
 msgid "Simulation Games"
-msgstr "จำลอง"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
@@ -620,31 +680,33 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "Software Media Manager"
 
 msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "เสียง"
+msgstr "ระบบเสียง"
 
 msgid "Sports"
 msgstr "กีฬา"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "กีฬา"
+msgstr "เกมกระดาน"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "ตารางคำนวน"
 
 msgid "Strategy"
-msgstr "วางแผน"
+msgstr "กลยุทธ์และวางแผน"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "วางแผน"
+msgstr "กลยุทธ์และวางแผน"
 
 msgid "System"
 msgstr "ระบบ"
@@ -655,15 +717,16 @@ msgstr "เครื่องมือระบบ"
 msgid "System settings"
 msgstr "ตั้งค่าระบบ"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "ทีวีและวิทยุ"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "ทีวีและวิทยุ"
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
 #, fuzzy
 msgid "TV applications"
@@ -675,8 +738,9 @@ msgstr "เครื่องมือช่วยการสอน"
 msgid "Telephony"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "เครืองมือเขียน"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -686,14 +750,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "จำลองเทอร์มินัล"
+msgstr "โปรแกรมเทอร์มินัล"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "จำลองเทอร์มินัล"
+msgstr "เทอร์มินัล"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "เครืองมือเขียน"
 
 msgid "Text tools"
 msgstr "เครืองมือเขียน"
@@ -704,8 +769,9 @@ msgstr ""
 msgid "Tools"
 msgstr "เครื่องมือ"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "เครื่องมือพัฒนาซอฟต์แวร์"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -713,11 +779,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "เลือกโปรแกรมที่จะถูกใช้โดยปรกติ"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "ดีบั๊กโปรแกรม"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -725,8 +793,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "ตั้งค่าเครื่องพิมพ์"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -738,13 +807,14 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "ของเล่น"
+msgstr "ของเล่นสนุกๆ"
 
 msgid "Translation"
 msgstr "เครื่องมือแปลภาษา"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "เครื่องมือแปลภาษา"
 
 msgid "Tuners"
 msgstr ""
@@ -754,2609 +824,876 @@ msgstr ""
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "รูปภาพ"
+msgstr "โปรแกรมวาด Vector Graphics "
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "โปรแกรมสำหรับรูปภาพ"
 
 msgid "Video"
-msgstr "วีดิทัศน์"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "ปรับแต่ง"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "โปรแกรมแสดง"
+msgstr "โปรแกรมเล่นวิดีโอ"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "ตัวบันทึกเสียง"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "โปรแกรมแสดง"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
 msgstr "เว็บเบราว์เซอร์"
 
+#, fuzzy
 msgid "Web Browsing"
 msgstr "เว็บเบราว์เซอร์"
 
 msgid "Web Development"
-msgstr "การพัฒนาเว็บ"
+msgstr "พัฒนาเว็บ"
+
+msgid "Web Publishing"
+msgstr ""
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "เว็บเบราว์เซอร์"
-
 msgid "Wordprocessors"
-msgstr ""
+msgstr "พิมพ์งาน"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "ไคลเอนต์จดหมายอิเล็กทรอนิกส์"
 
-#~ msgid "Data Management"
-#~ msgstr "การจัดการข้อมูล"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "อุปกรณ์พกพา"
 
-#~ msgid "Medicine"
-#~ msgstr "การแพทย์"
 
-#~ msgid "Social"
-#~ msgstr "สังคมศาสตร์"
 
-#~ msgid "Shells"
-#~ msgstr "เชลล์"
 
-#~ msgid "Language Environment"
-#~ msgstr "สภาพแวดล้อมเฉพาะภาษา"
 
-#~ msgid "Text"
-#~ msgstr "ประมวลข้อความ"
 
-#~ msgid "Puzzles"
-#~ msgstr "ปริศนา"
 
-#~ msgid "Help"
-#~ msgstr "วิธีใช้"
 
-#~ msgid "Window Managers"
-#~ msgstr "โปรแกรมจัดการหน้าต่าง"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "มอดูล FVWM"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-#~ msgid "Appearance"
-#~ msgstr "รูปโฉม"
 
-#~ msgid "WorkSpace"
-#~ msgstr "พื้นที่ทำงาน"
 
-#~ msgid "Iceape Components"
-#~ msgstr "องค์ประกอบ Iceape"
 
-#~ msgid "Teddies"
-#~ msgstr "เท็ดดี้"
 
-#~ msgid "Apps"
-#~ msgstr "โปรแกรม"
 
-#~ msgid "Hamradio"
-#~ msgstr "วิทยุสมัครเล่น"
 
-#~ msgid "Math"
-#~ msgstr "คณิตศาสตร์"
 
-#~ msgid "Technical"
-#~ msgstr "ทางเทคนิค"
 
-#~ msgid "Tetris-like"
-#~ msgstr "ประเภทเททริส"
 
-#~ msgid "Root-window"
-#~ msgstr "พื้นหลัง"
 
-#~ msgid "XShells"
-#~ msgstr "เชลล์ใน X"
 
-#~ msgid "Admin"
-#~ msgstr "ดูแลระบบ"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> แอพพลิเคชันทั้งหมด"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> ทำอะไรดี"
 
-#~ msgid "Edutainment"
-#~ msgstr "การศึกษาแสนสนุก"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "อื่นๆ"
 
-#~ msgid "Utilities"
-#~ msgstr "โปรแกรมอรรถประโยชน์"
 
-#~ msgid "Programming"
-#~ msgstr "เขียนโปรแกรม"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "ปรับแต่งเครื่องคอมพิวเตอร์ของท่าน"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "โปรแกรมอรรถประโยชน์ของ X"
 
-#~ msgid "X-Utilities"
-#~ msgstr "โปรแกรมอรรถประโยชน์ X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "เพิ่มเติม"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "ค่าตั้งเพิ่มเติม"
 
-#~ msgid "Lost & Found"
-#~ msgstr "หาไม่เจอดูที่นี่"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "เกมกลยุทธ์และวางแผน"
 
-#~ msgid "Information"
-#~ msgstr "ข้อมูลต่างๆ"
 
-#~ msgid "Personal preferences"
-#~ msgstr "ปรับแต่งพื้นโต๊ะส่วนตัว"
 
-#~ msgid "Accessories"
-#~ msgstr "อำนวยความสะดวก"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "โปรแกรมเครื่องใช้ไม้สอยบนเดสก์ท็อป"
 
-#~ msgid "PIM"
-#~ msgstr "ตัวจัดการข้อมูลส่วนตัว"
 
-#~ msgid "Science & Math"
-#~ msgstr "วิทยาศาสตร์และคณิตศาสตร์"
 
-#~ msgid "Peripherals"
-#~ msgstr "อุปกรณ์ต่อพ่วง"
 
-#~ msgid "Look and Feel"
-#~ msgstr "รูปลักษณ์และการใช้งาน"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "ตั้งค่าควบคุมรูปโฉมและพฤติกรรมของเดสก์ท็อป"
 
-#~ msgid "File"
-#~ msgstr "แฟ้ม"
 
-#~ msgid "Personal settings"
-#~ msgstr "ตั้งค่าส่วนบุคคล"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "ชุดโปรแกรมรักษาหน้าจอ"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "ตั้งค่าและเฝ้าดูระบบ"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "ตั้งค่าอุปกรณ์ฮาร์ดแวร์ต่างๆ"
 
-#~ msgid "KDE Menu"
-#~ msgstr "เมนู KDE"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "ปรับแต่งพื้นโต๊ะส่วนตัวและตั้งค่าระบบ"
 
-#~ msgid "Universal Access"
-#~ msgstr "สิ่งอำนวยความสะดวก"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "ตั้งค่าสิ่งอำนวยความสะดวก"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "การตั้งค่าที่มีผลทั้งระบบ (มีผลต่อผู้ใช้ทุกคน)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "เสียงและวีดิทัศน์"
 
-#~ msgid "Internet and Network"
-#~ msgstr "อินเทอร์เน็ตและเครือข่าย"
 
-#~ msgid "Control Center"
-#~ msgstr "ศูนย์ควบคุม"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "เกมส์คล้าย Rogue"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "โปรแกรมสำหรับเข้าอินเทอร์เน็ต เช่น เว็บและเมล"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "โปรแกรมที่ไม่อยู่ในหมวดอื่นๆ"
 
-#~ msgid "Office Applications"
-#~ msgstr "โปรแกรมสำหรับสำนักงาน"
 
-#~ msgid ".hidden"
-#~ msgstr ".ซ่อนไว้"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "กรุณาอย่าเปลี่ยนแปลงหรือเอาออก"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "อัพเดทของ Mandriva Linux"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "แข่งเก็บแต้มในเกมลูกเต๋าแบบโป๊กเกอร์"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาฝรั่งเศท"
 
-#~ msgid "MIDI file player"
-#~ msgstr "โปรแกรมเล่นไฟล์ MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "Five or More"
-#~ msgstr "หยิบห้า"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "หยิบลูกแก้วสีออกโดยเรียงให้เป็นแถว"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Minesweeper"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "เครื่องมือเรียกดูเอกสาร"
 
-#~ msgid "System Monitor"
-#~ msgstr "เครื่องมือติดตามทรัพยากรระบบ"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "ดูการทำงานปัจจุบันและสถานะของระบบ"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "โปรแกรมแสดงรูป"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "โปรแกรมดูแลการทำงานระบบ GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Media Player"
-#~ msgstr "โปรแกรมเล่นสื่อ"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "IM Client"
-#~ msgstr "โปรแกรมลูกข่ายข้อความทันใจ"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "ตั้งค่านโยบายการจำกัดการใช้งาน"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "เครื่องมือแก้ไขการจำกัดการใช้งาน"
 
-#~ msgid "About Me"
-#~ msgstr "เกี่ยวกับฉัน"
 
-#~ msgid "Set your personal information"
-#~ msgstr "ตั้งค่าข้อมูลเกี่ยวกับตัวคุณ"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "สร้างและคัดลอกซีดี/ดีวีดี"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "ปรับเปลี่ยนการแสดงโปรแกรมในเมนูหลัก"
 
-#~ msgid "Main Menu"
-#~ msgstr "เมนูหลัก"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "ใช้งานเว็บบราวเซอร์ Epiphany"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Character Map"
-#~ msgstr "ผังอักขระ"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "แทรกอักขระพิเศษเข้าในเอกสาร"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Samba Configuration (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "โปรแกรมจัดการ Samba"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "โปรแกรมไพ่ Solitaire"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "เกมหมากรุก"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "ปรับแต่งรูปโฉมของพื้นโต๊ะ"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "หาความหมายและการสะกดของคำในพจนานุกรมออนไลน์"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr "ค้นหาเอกสารและโฟลเดอร์ในคอมพิวเตอร์นี้ด้วยชื่อหรือเนื้อหา"
 
-#~ msgid "Search for Files..."
-#~ msgstr "ค้นหาแฟ้ม..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr "ใช้เรียกโปรแกรมต่างๆ พร้อมเครื่องมือต่างๆ สำหรับจัดการหน้าต่าง แสดงนาฬิกา ฯลฯ"
 
-#~ msgid "Panel"
-#~ msgstr "พาเนล"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "ท่องดูโปรแกรมต่างๆ และพิมพ์โดยใช้อุปกรณ์ป้อนข้อมูลอีกแบบหนึ่ง"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "แป้นพิมพ์บนจอภาพ"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "โปรแกรมสำหรับ rp-pppoe"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "โปรแกรมคัดลอกเพลงจากซีดี"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "คัดลอกเพลงจากซีดี"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "เครื่องมือเขียนซีดีและดีวีดี"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "สร้างซีดีและดีวีดี"
 
-#~ msgid "Device Manager"
-#~ msgstr "Device Manager"
 
-#~ msgid "Import the photos on your camera card"
-#~ msgstr "นำเข้ารูปภาพจากการ์ดในกล้องของคุณ"
 
-#~ msgid "Photo Import Tool"
-#~ msgstr "เครื่องมือนำเข้ารูปภาพ"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "เลื่อนกล่องเพื่อไขปริศนา"
 
-#~ msgid "Chess"
-#~ msgstr "หมากรุก"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "เล่นหมากรุกสากล หมากกระดานอมตะสำหรับผู้เล่นสองคน"
 
-#~ msgid "Simple text editor"
-#~ msgstr "โปรแกรมแก้ไขข้อความเรียบง่าย"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "เรียกดูตำแหน่งเครือข่ายที่คั่นหน้าไว้และตำแหน่งเครือข่ายท้องถิ่นต่างๆ"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "สร้างและแก้ไขโพรไฟล์สำหรับผู้ใช้"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "เครื่องมือแก้ไขโพรไฟล์ผู้ใช้"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "Shotwell Photo Viewer"
 
-#~ msgid "Bluetooth"
-#~ msgstr "บลูทูท"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "ตั้งค่าบลูทูท"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "เครื่องมือแก้ไขข้อความ"
 
-#~ msgid "Manage Messaging and VoIP accounts"
-#~ msgstr "จัดการบัญชีข้อความทันใจและ VoIP"
 
-#~ msgid "Messaging and VoIP Accounts"
-#~ msgstr "บัญชีข้อความทันใจและ VoIP"
 
-#~ msgid "Disk Utility"
-#~ msgstr "เครื่องมือดิสก์"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "จัดการไดรว์และสื่อ"
 
-#~ msgid "Office Suite"
-#~ msgstr "โปรแกรมชุดสำนักงาน"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "เรียกดูและหมุนรูป"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "โปรแกรมควบคุมการ์ดเสียง Echoaudio"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "บันทึกภาพของเดสก์ท็อปหรือหน้าต่างที่กำหนด"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "บันทึกภาพหน้าจอ"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "โปรแกรมช่วยเหลือนักพัฒนา"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาดัช"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "เรียกดูระบบแฟ้มด้วยโปรแกรมจัดการแฟ้ม"
 
-#~ msgid "File Browser"
-#~ msgstr "โปรแกรมเรียกดูแฟ้ม"
 
-#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
-#~ msgstr "หยิบเบี้ยสีและรูปร่างต่างๆ เป็นกลุ่มๆ ให้หมดจากกล่อง"
 
-#~ msgid "Swell Foop"
-#~ msgstr "Swell Foop"
 
-#~ msgid "IDE for Python"
-#~ msgstr "IDE สำหรับ Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "โปรแกรมแจ้งเมื่อมีจดหมายเข้ามา"
 
-#~ msgid "Configurator"
-#~ msgstr "Configurator"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "แก้ไขแผนภูมิของคุณ"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "ติดตั้งแพกเกจชุดตกแต่งสำหรับส่วนต่างๆ ของพื้นที่ทำงาน"
 
-#~ msgid "Theme Installer"
-#~ msgstr "เครื่องมือติดตั้งชุดตกแต่ง"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "Control panel สำหรับ RME Hammerfall"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME Digicontrol"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "วิธีการใช้ GNOME"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "เทคโนโลยีสิ่งอำนวยความสะดวก"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "เลือกเทคโนโลยีสิ่งอำนวยความสะดวกที่จะเปิดใช้เมื่อเข้าระบบ"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "ตรวจสอบขนาดของโฟลเดอร์ต่างๆ และเนื้อที่ว่างในดิสก์"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "เครื่องมือวิเคราะห์การใช้ดิสก์"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "สร้างหรือเปิดแบบของส่วนติดต่อผู้ใช้สำหรับโปรแกรม GTK+"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Photo Manager"
-#~ msgstr "โปรแกรมจัดการรูปถ่าย"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "โปรแกรม client และ server ของการตั้งค่า fax"
 
-#~ msgid "Movie Player"
-#~ msgstr "โปรแกรมเล่นภาพยนตร์"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "เล่นหนังและเพลง"
 
-#~ msgid "Document Viewer"
-#~ msgstr "โปรแกรมดูเอกสาร"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "ดูเอกสารแบบหลายหน้า"
 
-#~ msgid "Home Folder"
-#~ msgstr "โฟลเดอร์บ้าน"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "เปิดโฟลเดอร์ส่วนตัวของคุณ"
 
-#~ msgid "Quadrapassel"
-#~ msgstr "Quadrapassel"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "ต่อชิ้นส่วนปริศนาโดยเรียงกระเบื้องต่อกันให้ตัวเลขตรงกัน"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "กำหนดค่าปริยายสำหรับโปรแกรม GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Multimedia Systems Selector"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "เข้าใช้พื้นโต๊ะในเครื่องอื่น"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "เครื่องมือแสดงพื้นโต๊ะเครื่องอื่น"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Gtk-ocr is a gtk frontend for gocr"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "หนีหุ่นยนต์ หลอกให้มันชนกันเอง"
 
-#~ msgid "Robots"
-#~ msgstr "โรบ็อตส์"
 
-#~ msgid "Search"
-#~ msgstr "ค้นหา"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "ค้นหาข้อมูลบนเดสก์ท็อปของคุณ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาสเปน"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "ตารางไฟกะพริบแบบศิลปะแนวป๊อป"
 
-#~ msgid "Pop art squares"
-#~ msgstr "จัตุรัสศิลปะแนวป๊อป"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "ฉายสไลด์จาก F-Spot"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "ภาพถ่าย F-Spot"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "แสดงภาพสไลด์จากโฟลเดอร์ภาพของคุณ"
 
-#~ msgid "Pictures folder"
-#~ msgstr "โฟลเดอร์ภาพ"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "เลื่อนตรารูปรอยเท้าของ GNOME ไปรอบๆ หน้าจอ"
 
-#~ msgid "Floating Feet"
-#~ msgstr "บาทาเหินหาว"
 
-#~ msgid "Cosmos"
-#~ msgstr "อวกาศ"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "แสดงภาพสไลด์ของภาพจากอวกาศ"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr "เรียกดูดิสก์และโฟลเดอร์ทั้งหมดในเครื่องและในเครือข่ายที่เข้าถึงได้จากคอมพิวเตอร์นี้"
 
-#~ msgid "Computer"
-#~ msgstr "คอมพิวเตอร์"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "แสดงรูปโลกบนจอของท่าน"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "จัดการที่คั่นหน้าเว็บ"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "ที่คั่นหน้าเว็บของ Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "ที่คั่นหน้าเว็บ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาโสลเวเนีย"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "เกมต่อสู้และใขปัญหา"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "เครื่องมือปรับปรุงเมนู"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "Disk writing program"
-#~ msgstr "เครื่องมือเขียนแผ่น"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "เครื่องมือเลือกสีของ KDE"
 
-#~ msgid "KColorChooser"
-#~ msgstr "เครื่องมือเลือกสี - K"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Contact Manager"
-#~ msgstr "จัดการที่อยู่ติดต่อ"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "เครื่องมือแสดงภาพแบบพื้นฐาน"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "KUser"
-#~ msgstr "จัดการบัญชีผู้ใช้ - K"
 
-#~ msgid "User Manager"
-#~ msgstr "เครื่องมือจัดการบัญชีผู้ใช้"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "โปรแกรมสอนคำศัพท์"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - ค้นพบมิติใหม่ในดนตรีของคุณ!"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "ฟร้อนต์เอนด์ CVS"
 
-#~ msgid "Cervisia"
-#~ msgstr "เซอร์วิเซีย"
 
-#~ msgid "KRuler"
-#~ msgstr "ไม้บรรทัด - K"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "ไม้บรรทัดสำหรับจอภาพ"
 
-#~ msgid "KSnapshot"
-#~ msgstr "จับภาพ - K"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "โปรแกรมจับภาพหน้าจอ"
 
-#~ msgid "Character Selector"
-#~ msgstr "เครื่องมือเลือกอักขระ"
 
-#~ msgid "Konqueror"
-#~ msgstr "คอนเควอร์เรอร์"
 
-#~ msgid "KLettres"
-#~ msgstr "ตัวอักษร - K"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "The SMB/CIFS Share Browser"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "โปรแกรมจัดการปฏิทินและตารางการนัดหมาย"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Home"
-#~ msgstr "พื้นที่ส่วนตัว"
 
-#~ msgid "Personal Files"
-#~ msgstr "แฟ้มส่วนตัว"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "โปรแกรมอ่านแหล่งป้อนสำหรับ KDE"
 
-#~ msgid "Feed Reader"
-#~ msgstr "โปรแกรมอ่านแหล่งป้อน"
 
-#~ msgid "KTouch"
-#~ msgstr "พิมพ์สัมผัส - K"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "โปรแกรมแก้ไข Image Map"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "โปรแกรมตรวจสอบลิงก์"
 
-#~ msgid "KJots"
-#~ msgstr "บันทึกช่วยจำ"
 
-#~ msgid "Note Taker"
-#~ msgstr "บันทึกช่วยจำ"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "ฟร้อนต์เอนด์สำหรับเครื่องสังเคราะห์คำพูด"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "กลไกของลูกเล่นของพื้นที่ทำงานที่เพลิดเพลินตา"
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Potato Guy"
-#~ msgstr "นายมันฝรั่ง - K"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "โปรแกรมอรรถประโยชน์สำหรับดูประวัติการตัดและวาง"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "เครื่องมือคลิปบอร์ด"
 
-#~ msgid "Klipper"
-#~ msgstr "คลิปเปอร์"
 
-#~ msgid "KBattleship"
-#~ msgstr "เรือรบ - K"
 
-#~ msgid "Card Game"
-#~ msgstr "เกมไพ่"
 
-#~ msgid "CD Player"
-#~ msgstr "ตัวเล่นซีดี"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "จัดการภาพถ่ายของคุณดั่งมืออาชีพ ด้วยพลังสร้างสรรค์ของโอเพนซอร์ส"
 
-#~ msgid "Photo Viewer and Editor"
-#~ msgstr "เครื่องมือแสดงและและแก้ไขภาพถ่าย"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Bomberman clone"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "ใช้งานพื้นที่ทำงานร่วมกัน"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "ชิเซน-โช - K"
 
-#~ msgid "Desktop Search"
-#~ msgstr "โปรแกรมค้นหาภายในเครื่อง"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "ส่วนติดต่อกับผู้ใช้ของGnuPG"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "เครื่องมือการเข้ารหัส"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "panel applet สำหรับการจัดเรียงและจัดขนาดของจอภาพ"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "ปรับขนาดและหมุนหน้าจอ"
 
-#~ msgid "KMail"
-#~ msgstr "จัดการจดหมาย - K"
 
-#~ msgid "KMahjongg"
-#~ msgstr "มาจง - K"
 
-#~ msgid "Konsole"
-#~ msgstr "คอนโซล K"
 
-#~ msgid "KReversi"
-#~ msgstr "หมากหนีบ - K"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "เครื่องคิดเลขแบบวิทยาศาสตร์"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "ฟรอนต์เอนด์ของ Diff/Patch"
 
-#~ msgid "Kompare"
-#~ msgstr "เปรียบเทียบ"
 
-#~ msgid "KMag"
-#~ msgstr "แว่นขยาย - K"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "แว่นขยายหน้าจอ"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "ตัวเรียกใช้งานแบบนับถอยหลัง"
 
-#~ msgid "KTimer"
-#~ msgstr "ตั้งเวลาทำงาน"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "โปรแกรมวิซาร์ดสำหรับโฟลเดอร์เครือข่าย"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "KBlackBox"
-#~ msgstr "กล่องดำ - K"
 
-#~ msgid "Kdenlive"
-#~ msgstr "Kdenlive"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "โปรแกรมตัดต่อ video ของ KDE"
 
-#~ msgid "KAtomic"
-#~ msgstr "อะตอมมิก - K"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "เครื่องมือจัดการข้อมูลส่วนบุคคล"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "โปรแกรมจับภาพหน้าจอ"
 
-#~ msgid "Font Viewer"
-#~ msgstr "โปรแกรมดูแบบอักษร"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Function Plotter"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "เครื่องมือหมุนเชื่อมต่ออินเทอร์เน็ต"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "ชุดเครื่องมือพัฒนาเบ็ดเสร็จ"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Desktop Planetarium"
 
-#~ msgid "KStars"
-#~ msgstr "ดวงดาว - K"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "Paint Program"
-#~ msgstr "โปรแกรมวาดภาพธรรมดาๆ"
 
-#~ msgid "KAlarm"
-#~ msgstr "เตือนการนัดหมาย - K"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "ตัวจัดตารางแจ้งเตือนส่วนบุคคล"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "เครื่องมือจัดการกระเป๋าคุมข้อมูล"
 
-#~ msgid "KRemoteControl Notifier Item"
-#~ msgstr "รายการตัวแจ้งให้ทราบของตัวควบคุมระยะไกล-K"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "การใช้พื้นที่ดิสก์"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "แสดงการใช้พื้นที่ดิสก์"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "โปรแกรม BitTorrent สำหรับ KDE"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "โปรแกรมสำหรับ BitTorrent"
 
-#~ msgid "KTorrent"
-#~ msgstr "โปรแกรม KTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "ภาพข้อมูลการทำงานของระบบ"
 
-#~ msgid "Download Manager"
-#~ msgstr "เครื่องมือจัดการการดาวน์โหลด"
 
-#~ msgid "KGet"
-#~ msgstr "ดาวน์โหลด K"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Tactical Game"
-#~ msgstr "เกมวางแผน"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "ทำข้อสอบที่เกี่ยวกับเศษส่วน"
 
-#~ msgid "Info Center"
-#~ msgstr "ศูนย์ข้อมูล"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "ศูนย์ข้อมูล K"
 
-#~ msgid "KTeaTime"
-#~ msgstr "ตั้งเวลาทำงาน"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "เครื่องมือชงชา"
 
-#~ msgid "Change Password"
-#~ msgstr "เปลี่ยนรหัสผ่าน"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "ปรับแต่งผสมเสียง"
 
-#~ msgid "KBugBuster"
-#~ msgstr "บักบัสเตอร์"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "เครื่องมือจัดการบักสำหรับ KDE"
 
-#~ msgid "Welcome"
-#~ msgstr "ยินดีต้อนรับ"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "เครื่องมือแก้ไขที่คั่นหน้า"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "เครื่องมือแก้ไขและจัดการที่คั่นหน้า"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "ตั้งค่าสำหรับพื้นที่ทำงานของคุณ"
 
-#~ msgid "KFileReplace"
-#~ msgstr "โปรแกรมค้นหาและแทนที่ KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "เครื่องมือค้นหาและแทนที่"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "KWalletManager"
-#~ msgstr "จัดการกระเป๋าคุมข้อมูล-K"
 
-#~ msgid "KwikDisk"
-#~ msgstr "เรียกใช้ดิสก์ด่วน"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "เครื่องมือจัดการสื่อที่ถอดได้"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "คลิ้กเม้าส์อัตโนมัติ"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "คลิ้กเม้าส์สำหรับคุณเพื่อลดความเสียงต่อการเป็นโรค RSI"
 
-#~ msgid "KMouseTool"
-#~ msgstr "ปรับแต่งเม้าส์ K"
 
-#~ msgid "Sweeper"
-#~ msgstr "เครื่องปัดกวาด"
 
-#~ msgid "System Cleaner"
-#~ msgstr "เครื่องมือทำความสะอาดระบบ"
 
-#~ msgid "Trash"
-#~ msgstr "ถังขยะ"
 
-#~ msgid "KMines"
-#~ msgstr "กู้ระเบิด - K"
 
-#~ msgid "Board Game"
-#~ msgstr "เกมกระดาน"
 
-#~ msgid "SameGame"
-#~ msgstr "บอลที่คล้ายกัน - K"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "เครื่องมือจัดการภาพถ่าย"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "โปรแกรมแก้ไขข้อความแบบขั้นสูง"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "เครื่องมือแก้ไขเลขฐานสิบหก"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "KNode"
-#~ msgstr "อ่านข่าว - K"
 
-#~ msgid "News Reader"
-#~ msgstr "เครื่องมืออ่านข่าว"
 
-#~ msgid "Menu Editor"
-#~ msgstr "แก้ไขเมนู"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "โปรแกรมเล่นเพลง"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "ไคลเอนต์เชื่อมต่อพื้นที่ทำงานทางไกล"
 
-#~ msgid "KDE LIRC Server"
-#~ msgstr "KDE LIRC Server"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "โปรแกรม KDE Linux infrared remote control server."
 
-#~ msgid "KSystemLog"
-#~ msgstr "บันทึกการทำงานของระบบ"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "แสดงปูมบันทึกของระบบ"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "เครื่องมือแสดงบันทึกการทำงานของระบบ"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "ค้นหาแฟ้ม/โฟลเดอร์"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "เครื่องมือหมุนเชื่อมต่ออินเทอร์เน็ต"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "แสดงปูมบันทึกของ KPPP"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "จัดการแฟ้ม - โหมดผู้ดูแลระบบ"
 
-#~ msgid "Popup Notes"
-#~ msgstr "บันทึกช่วยจำแบบป๊อพอัพ"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "ตัวฟอร์แมตแผ่นฟลอปปี้"
 
-#~ msgid "KFloppy"
-#~ msgstr "ฟอร์แมตฟลอปปี้"
 
-#~ msgid "Dragon Player"
-#~ msgstr "โปรแกรมเล่นสื่อ Dragon Player"
 
-#~ msgid "Configure email accounts"
-#~ msgstr "ตั้งค่าบัญชีอีเมล"
 
-#~ msgid "Email Settings"
-#~ msgstr "ตั้งค่าอีเมล"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "ตั้งปุ่มลัดสำหรับเรียกใช้คำสั่งต่างๆ"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "ปุ่มพิมพ์ลัด"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาอิตาลี่"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาเกาหรี"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "โปรแกรมสำหรับดูทีวี"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "Visualization Data Explorer"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Create and edit scientific formulas and equations by using Math."
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "ปรับระดับเสียง"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "ตัวควบคุมเสียง PulseAudio"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "ปรับแต่งค่าต่างๆของฐานข้อมูล"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "เปิด/ปิดการใช้ปลั๊กอิน"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "ปลั๊กอินแอพเพล็ตแสดงภาษาแป้นพิมพ์"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "โปรแกรมควบคุมการ์ดเสียงที่ผลิตจากEnvy24 (ice1712)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาญี่ปุ่น"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "เกมส์รถถัง 3 มิติ"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "ปรับความดังของเสียงและตั้งเสียงของเหตุการณ์ต่างๆ"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "เลือกว่าจะอนุญาตให้ผู้ใช้อื่นมองพื้นโต๊ะของคุณอย่างไร"
 
-#~ msgid "Screensaver"
-#~ msgstr "โปรแกรมรักษาจอภาพ"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "ปรับแต่งโปรแกรมรักษาหน้าจอของคุณ"
 
-#~ msgid "Open Folder"
-#~ msgstr "เปิดโฟลเดอร์"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "เกม puzzle สำหรับผู้เล่นหลายคน"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "ซูโดกุ"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "ทดสอบทักษะทางตรรกะของคุณกับปริศนาตารางตัวเลข"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "ดาวน์โหลดและแลกเปลี่ยนแฟ้มผ่าน BitTorrent"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "โปรแกรมอ่านแฟ้มปูม"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "อ่านหรือติดตามบันทึกปฏิบัติการของระบบ"
 
-#~ msgid "Network Proxy"
-#~ msgstr "พร็อกซี"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "ตั้งค่าพร็อกซีของเครือข่าย"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
 
-#~ msgid "Use the command line"
-#~ msgstr "สั่งการด้วยบรรทัดคำสั่ง"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "เลือกโปรแกรมที่จะเปิดเมื่อคุณเข้าระบบ"
 
-#~ msgid "Startup Applications"
-#~ msgstr "โปรแกรมเริ่มวาระ"
 
-#~ msgid "Preview fonts"
-#~ msgstr "แสดงตัวอย่างแบบอักษร"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "กู้กับระเบิดที่ซ่อนอยู่จากสนาม"
 
-#~ msgid "Record sound clips"
-#~ msgstr "บันทึก sound clips"
 
-#~ msgid "Set your window properties"
-#~ msgstr "ตั้งค่าระบบหน้าต่างของคุณ"
 
-#~ msgid "Windows"
-#~ msgstr "หน้าต่าง"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Frozen Bubble เกมส์อาร์เขด"
 
-#~ msgid "Configure power management"
-#~ msgstr "ปรับแต่งการใช้พลังงาน"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "ถอดไพ่ AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "เล่นเกมถอดไพ่สารพัดแบบ"
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "ตัวแสดงผล DjVu"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "เพิ่มหรือลบผู้ใช้และกลุ่มผู้ใช้"
 
-#~ msgid "User Administration"
-#~ msgstr "การจัดการผู้ใช้"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Browse the Web"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "แปลภาษาของ Qt"
 
-#~ msgid "Note-taker"
-#~ msgstr "เครื่องมือบันทึกข้อความ"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "จดบันทึก, เชื่อมโยงความคิด, และจัดระเบียบ"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "บันทึกของ Tomboy"
 
-#~ msgid "Archive Manager"
-#~ msgstr "โปรแกรมจัดการแฟ้มจัดเก็บ"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "สร้างและแก้ไขแฟ้มจัดเก็บ"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "ยกเลิก, หยุดชั่วคราว, ทำต่อหรือพิมพ์งานซ้ำ"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "จัดการงานพิมพ์"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "ค้นหาแฟ้ม โฟลเดอร์ หรือเอกสาร ในคอมพิวเตอร์เครื่องนี้"
 
-#~ msgid "About GNOME"
-#~ msgstr "เกี่ยวกับ GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "ข้อมูลเพิ่มเติมเกี่ยวกับ GNOME"
 
-#~ msgid "Task Manager"
-#~ msgstr "เครื่องมือจัดการภารกิจ"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "แป้นพิมพ์"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "ตั้งค่าสำหรับแป้นพิมพ์"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "ทะลายกองไพ่นกกระจอกโดยหยิบคู่เหมือน"
 
-#~ msgid "Mahjongg"
-#~ msgstr "ถอดไพ่นกกระจอก"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาฮังการี่"
 
-#~ msgid "Mouse"
-#~ msgstr "เม้าส์"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "ปรับแต่งค่าตั้งสำหรับเมาส์"
 
-#~ msgid "Cheese"
-#~ msgstr "ชีส"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "ถ่ายภาพและวีดิทัศน์จากเว็บแคมของคุณ พร้อมใส่ลูกเล่นสนุกๆ"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "ครอบครองกระดานในเกม Reversi ตามแบบฉบับ"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "ส่วนติดต่อผู้ใช้แบบ graphic ของโปรแกรมเพิ่มแพคเก็จ"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - โปรแกรมจัดการพื้นหลังและแบบการถนอมจอ"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "เกมส์เก่าที่รู้จักกันดีในชื่อ Tower Toppler หรือ Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "ตรวจสอบการใช้พลังงาน"
 
-#~ msgid "Power Statistics"
-#~ msgstr "กราฟการใช้พลังงาน"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "แถวเรียงสี่"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "เอาชนะด้วยการสร้างแถวสีเดียว"
 
-#~ msgid "Database"
-#~ msgstr "ฐานข้อมูล"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
 
-#~ msgid "Project Hamster - track your time"
-#~ msgstr "โครงการ Hamster - ติดตามการใช้เวลาของคุณ"
 
-#~ msgid "Time Tracker"
-#~ msgstr "ติดตามการใช้เวลา"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "ป้อนข้อความโดยไม่ใช้แป้นพิมพ์"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "โปรแกรมป้อนข้อความด้วยหลักสถิติ"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Freeciv server"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "โปรแกรม CAD แบบมือโปร"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "เครื่องมือปรับแต่งระบบของ GNOME"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "อ่านข่าวจาก Usenet"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "คำนวณเลขคณิต ฟังก์ชันวิทยาศาสตร์ หรือการเงิน"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "เปลี่ยนพฤติกรรมและรูปโฉมของหน้าต่างโปรแกรมจัดการแฟ้ม"
 
-#~ msgid "File Management"
-#~ msgstr "การจัดการแฟ้ม"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "โปรแกรมเทอร์มินัลมาตรฐานบน X Windows"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "ฟรอนต์เอนด์สำหรับ nmap port scanner"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Ekiga: โปรแกรมโทรศัพท์"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "โทรศัพท์ไอพี, VoIP และการประชุมทางวีดิทัศน์"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "คุยกับคนอื่นผ่านอินเตอร์เน็ต"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Edit text files"
-#~ msgstr "แก้ไขแฟ้มข้อความ"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Configure file indexing with Tracker"
-#~ msgstr "ตั้งค่าการทำดัชนีแฟ้มของ Tracker"
 
-#~ msgid "Search and Indexing"
-#~ msgstr "การค้นหาและการทำดัชนี"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "เบราว์เซอร์แสดงองค์ประกอบของ Bonobo"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "แสดงองค์ประกอบ Bononbo ที่มีอยู่"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "ชุดกรุ๊ปแวร์"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "จัดการอีเมล ที่อยู่ติดต่อ และนัดหมายของคุณ"
 
-#~ msgid "Page Layout"
-#~ msgstr "เดสก์ทอปพับลิชชิง"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "เดสก์ทอปพับลิชชิง"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr "เอกสาร (HOWTO) จากโครงการเอกสารลีนุกภาษาเยอรมัน"
 
-#~ msgid "Howtos German"
-#~ msgstr "Howtos เยอร์มัน"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "โปรแกรมข้อความด่วน"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "ตั้งค่า PulseAudio"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "ตั้งค่าเซิร์ฟเวอร์เสียง"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "ดูและปรับแต่งเซิร์ฟเวอร์เสียงบนเครื่องของคุณ"
 
-#~ msgid "System information"
-#~ msgstr "ข้อมูลต่างๆของระบบ"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาโรเมเนีย"
 
-#~ msgid ""
-#~ "Locate documents and folders on this computer by name or content using "
-#~ "Tracker"
-#~ msgstr "ค้นหาเอกสารและโฟลเดอร์ในคอมพิวเตอร์นี้จากชื่อหรือเนื้อหาโดยใช้ Tracker"
 
-#~ msgid "Tracker Search Tool"
-#~ msgstr "เครื่องมือสืบค้น Tracker"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "โปรแกรมดูข้อมูลและปรับแต่ง Hardware"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาโปแลน"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "โปรแกรมเพื่อการพิมพ์โดยใช้ CUPS"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "เล่นและจัดการกับเพลงของคุณ"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "View and organize your images"
-#~ msgstr "ดูและจัดการรูปภาพ"
 
-#~ msgid "Registry Editor"
-#~ msgstr "เครื่องมือแก้ไขRegistry"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr "นำเสนอข้อมูลหน้าจอเป็นเสียงพูดหรืออักษรเบรลล์ หรือขยายหน้าจอ"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "โปรแกรมอ่านและขยายจอภาพ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาอังกฤษ"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "โปรแกรมแก้ใขไฟล์สารพัดประโยชน์"
 
-#~ msgid "VI editor"
-#~ msgstr "VI editor"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษากรีก"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "HOWTO ภาษากรีก"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "ถอดไพ่ FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "เล่น FreeCell เกมถอดไพ่ยอดนิยม"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาอินโดนีเซีย"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "โปรแกรมวาดรูปฟังชั่น"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "แก้ไขฐานข้อมูลการกำหนดค่าของคุณโดยตรง"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "สร้างและแก้ไขภาพ Scalable Vector Graphics"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาจีน"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "คำถาม Autorun"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "ตัวแก้ไขภาพ"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "เกมส์แสง 3 มิติ"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "เครื่องมือรายงานบัก"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "รายงานบั๊กในโปรแกรมของ GNOME"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "เกมที่เหมือน boulderdash "
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid "Lights Off"
-#~ msgstr "ปิดไฟ"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "ปิดไฟให้หมด"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาฟินแลนด์"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr "เอกสาร HOWTO (HTML) จากโครงการเอกสารลีนุกภาษาสวิเดน"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "นำเข้าสู่ F-Spot"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "Create and edit drawings, flow charts, and logos by using Draw."
 
-#~ msgid "Drawing"
-#~ msgstr "Drawing"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "พาหนอนคลานในเขาวงกต"
 
-#~ msgid "Nibbles"
-#~ msgstr "หนอนแทะ"
 
-#~ msgid "KMPlayer"
-#~ msgstr "KMPlayer"
 
-#~ msgid "Accerciser"
-#~ msgstr "Accerciser"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "ช่วยพัฒนาสิ่งอำนวยความสะดวกในโปรแกรมของคุณ"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "IDE แอนจูตา"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "พัฒนาซอฟต์แวร์ด้วยชุดเครื่องมือพัฒนาเบ็ดเสร็จ"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "Address book"
-#~ msgstr "สมุดที่อยู่"
 
-#~ msgid "Contacts"
-#~ msgstr "ที่อยู่ติดต่อ"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Data Display Debugger"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma"
 
-#~ msgid "Color Profiles"
-#~ msgstr "โพรไฟล์สี"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "การบริหารระบบสำหรับ GCompris"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "เกมการศึกษาสำหรับเด็กอายุ 2 ถึง 10 ขวบ"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "ชุดโปรแกรมการศึกษา GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "เกมการศึกษาพร้อมด้วยกิจกรรมหลากหลาย"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "เครื่องมือแก้ไขข้อความ (ของคุณ)"
 
-#~ msgid "Download files from the Internet"
-#~ msgstr "ดาวน์โหลดแฟ้มจากอินเทอร์เน็ต"
 
-#~ msgid "Configure behavior of the privilege-granting tool"
-#~ msgstr "ตั้งค่าพฤติกรรมของเครื่องมืออนุญาตสิทธิ์พิเศษ"
 
-#~ msgid "Privilege granting"
-#~ msgstr "การอนุญาตสิทธิ์พิเศษ"
 
-#~ msgid ""
-#~ "Opens a terminal as the root user, using gksu to ask for the password"
-#~ msgstr "เปิดเทอร์มินัลในนามผู้ใช้ root โดยใช้ gksu ถามรหัสผ่าน"
 
-#~ msgid "Root Terminal"
-#~ msgstr "เทอร์มินัลดูแลระบบ"
 
-#~ msgid "Customize your GNOME desktop"
-#~ msgstr "ปรับแต่งเดสท็อป GNOME ของคุณ"
 
-#~ msgid "GNOME Do"
-#~ msgstr "GNOME Do"
 
-#~ msgid "Network Tools"
-#~ msgstr "เครื่องมือตรวจสอบเครือข่าย"
 
-#~ msgid "View information about your network"
-#~ msgstr "ดูข้อมูลเกี่ยวกับเครือข่ายของคุณ"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "แบ่งปันแฟ้มส่วนตัว"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "ปรับแต่งค่าการแบ่งปันแฟ้ม"
 
-#~ msgid "Gnote"
-#~ msgstr "Gnote"
 
-#~ msgid "Create, reorganize, and delete partitions"
-#~ msgstr "สร้าง ปรับโครงสร้าง และลบพาร์ทิชัน"
 
-#~ msgid "GParted"
-#~ msgstr "GParted"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid "Gtranslator PO Editor"
-#~ msgstr "เครื่องมือแก้ไข PO Gtranslator"
 
-#~ msgid "Gwget Download Manager"
-#~ msgstr "เครื่องมือช่วยดาวน์โหลด Gwget"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "Kepas - KDE Easy Publish and Share"
-#~ msgstr "Kepas - เผยแพร่และแบ่งปัน"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "A Graphviz dot graph editor for KDE"
-#~ msgstr "เครื่องมือแก้ไขกราฟของ Graphviz dot สำหรับ KDE"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "kgrapheditor"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "เครื่องมือแสดงกราฟของ Graphviz dot สำหรับ KDE"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "kgraphviewer"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "สภาพแวดล้อมการพัฒนา (La)TeX"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "โปรแกรมฟร้อนท์เอนด์สำหรับ LaTeX"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "ไคลเอนต์ MSN"
 
-#~ msgid "A KDE4 MIDI/Karaoke Player"
-#~ msgstr "เครื่องเล่นสื่อมิดี้/คาราโอเกะของ KDE4"
 
-#~ msgid "KNemo"
-#~ msgstr "โปรแกรมเฝ้าสังเกตระบบเครือข่าย KNemo"
 
-#~ msgid "Network Monitor"
-#~ msgstr "ติดตามการใช้เครือข่าย"
 
-#~ msgid "Network Manager"
-#~ msgstr "โปรแกรมจัดการเครือข่าย"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "โปรแกรมจัดการแฟ้ม"
 
-#~ msgid "Kuickshow"
-#~ msgstr "ดูภาพด่วน-K"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "โปรแกรม KPart ของ KDE"
 
-#~ msgid "KVerbos"
-#~ msgstr "KVerbos"
 
-#~ msgid "GUI for various VPN clients"
-#~ msgstr "กราฟิกสำหรับโปรแกรมลูกข่าย VPN"
 
-#~ msgid "KVpnc"
-#~ msgstr "KVpnc"
 
-#~ msgid "VPN Client GUI"
-#~ msgstr "โปรแกรมลูกข่าย VPN แบบกราฟิก"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr "โปรแกรมจำลองเทอร์มินัลแบบหย่อนลง อิงพื้นฐานเทคโนโลยีคอนโซล K"
 
-#~ msgid "Drop-down Terminal"
-#~ msgstr "เทอร์มินัลแบบหย่อนลง"
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "โปรแกรมสู้รบสำหรับผู้เล่นหลายคน"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "เกมชนิด Crack-Dot-Com"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Teletext/Videotext decoder and browser"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "W3C's browser/web authoring tool"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bbconf คือเครื่องมือปรับแต่ง GUI สำหรับ blackbox"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "Monitoring-duck-in-a-jar dockapp"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "โปรแกรมจัดการ disk image"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "โปรแกรมจัดการ disk "
 
-#~ msgid "Webcam tool"
-#~ msgstr "เครื่องมือสำหรับWebcam"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "โปรแกรมสำหรับสร้างเพลงโมดูล"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "Clanbomber - เกมส์เล่นหลายคนที่เหมือน Bomberman"
 
-#~ msgid "A simple web browser"
-#~ msgstr "web browser แบบง่ายๆ"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Siag Office Egon Animator"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "โปรแกรม OSS mixer"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "The FlightGear Flight Simulator"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "A.D.I.E. - โปรแรมอ่านเขียนที่ใช้เครื่องมือจาก FOX toolkit"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "เครืองคิดเลขที่ใช้เครื่องมือจาก FOX toolkit"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "เครืองคิดเลข FOX "
 
-#~ msgid "3D file browser"
-#~ msgstr "3D file browser"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "FVWM Windows manager"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "เกม 3d lightcycle"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Memory usage"
-#~ msgstr "การใช้งานหน่วยความจำ"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "โทรศัพท์อินเตอร์เนต"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "การแสดงข้อมูลทางวิทยาศาสตร์แบบกราฟฟิก"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "โปรแกรมจำลอง cellular automaton "
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "Geographic Resources Analysis Support System"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "เครื่องคิดเลขแบบ RPN"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "เปลี่ยน GTK1 Theme"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "GTK Theme Switch"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "Gtk frontend to asp2php"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "โปรแกรมค้นหาไฟล์แบบกราฟฟิก"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "GTK Frontend to GTKlp CUPS Queue"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "โปรแกรม motd ในแบบ Gtk "
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "โปรแกรมดูไฟล์ Postscript "
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "โปรแกรมดูรูปภาพ"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "ดาวน์โหลด Jigsaw "
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "โปรแกรมดูการทำงานต่างๆของโปรแกรมอื่นๆ"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "โปรแกรมเกมส์คล้าย Tetris"
 
-#~ msgid "ManEdit"
-#~ msgstr "ManEdit"
 
-#~ msgid "UNIX manual pages editor"
-#~ msgstr "โปรแกรมจัดทำหนังสือคู่มือ"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "โปรแกรมวาดภาพฟังชั่น"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "โปรแกรมเทอร์มินัลที่ใช้ได้หลายภาษา"
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "NiL Isn't Liero"
-#~ msgstr "NiL Isn't Liero"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "เกมส์สั่งยิงจรวด"
 
-#~ msgid "Penguin Command"
-#~ msgstr "ตำสั่ง Penguin "
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "โปรแกรมเลียนแบบ Lemmings "
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic Writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Siag Office Pathetic writer"
 
-#~ msgid "Keep track of things"
-#~ msgstr "เก็บความเป็นมาของสิ่งต่างๆ"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "โปรแกรมจัดการไพล์บน ROX"
 
-#~ msgid "High-level language for numerical computations"
-#~ msgstr "ภาษาระดับสูงที่ใช้ในการคำนวณตัวเลข"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "โปรแกรมแก้ใข font "
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Karting with tux"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "3D model assembler"
-#~ msgstr "โปรแกรมสร้างรูป 3 มิติ"
 
-#~ msgid "Vertex"
-#~ msgstr "Vertex"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "โปรแกรมพิมพ์เขียนยอดนิยมบน Unix "
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "โปรแกรมปรับเสียง"
 
-#~ msgid "Volume knob"
-#~ msgstr "ปุ่มปรับเสียง"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "โปรแกรมเล่นเพลง-VICE SID"
 
-#~ msgid "VSID music player"
-#~ msgstr "โปรแกรมเล่นเพลง-VSID"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "เกมแข่งความเร็ว"
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "โปรแกรมดูการทำงานของ CPU"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr "โปรแกรมที่แสดงปริมาณการทำงานของ CPU ออกมาเป็นไฟในไอคอนเล็กๆ"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "นาฬิกาในโถเลี้ยงปลา"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "โปรแกรมที่แสดงรูปโลกในไอคอน"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "โปรแกรม Sound Mixer OSS"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "โปรแกรมดูการทำงานของ Mem/Swap สำหรับ WindowMaker"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "โปรแกรมตรวจหาจดหมายในตู้จดหมายหลายแห่งโดยใช้ POP3"
 
-#~ msgid "WmsMixer"
-#~ msgstr "WmsMixer"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "แสดงราคาหุ้นในไอคอนเล็กๆ"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "ดู webcam ของคุณในหน้าต่างเล็กๆ"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam"
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "โปรแกรมจำลอง C128"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "โปรแกรมจำลอง C128"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "โปรแกรมจำลอง C64 "
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "โปรแกรมจำลอง C64 "
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "Realtime fractal zoomer"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "เกมส์จำลองมาจาก ARCHON "
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "โปรแกรมจำลอง CBM2 "
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "โปรแกรมจำลอง Commodore BM 2 "
 
-#~ msgid "Siag text editor"
-#~ msgstr "โปรแกรมพิมพ์หนังสือ Siag"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "โปรแกรมจัดการแฟ้ม Siag"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "A mp3 playlist frontend"
-#~ msgstr "รายการ MP3 "
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "เพนกวิ้นวิ่งไปมาของท่าน"
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "โปรแกรมจำลอง Commodre PET "
 
-#~ msgid "PET Emulator"
-#~ msgstr "โปรแกรมจำลอง PET"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "เกมส์บิน ยิง"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Xpilot server"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - ต้องการ server"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "โปรแกรมจำลอง CPLUS4"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "โปรแกรมจำลอง Commodore PLUS4 "
 
-#~ msgid "News reader"
-#~ msgstr "โปรแกรมอ่านข่าว"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "โปรแกรมจัดการแพ็กเก็จ"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "เกมส์เหมือน lode runner"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Siag Office spreadsheet"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "โปรแกรมเล่นเพลง"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "โปรแกรมจำลอง Commodore VIC 20 "
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "โปรแกรมจำลอง VIC 20"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "โปรแกรมสร้าง level ให้กับเกมส์ DOOM"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "It's the internet"
-#~ msgstr "มันคืออินเทอร์เน็ต"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Listen to your music"
-#~ msgstr "ฟังเพลงของคุณ"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Muine: โปรแกรมเล่นเพลง"
 
-#~ msgid "Add items to the Nautilus popup menu"
-#~ msgstr "เพิ่มรายการเข้าในเมนูผุดขึ้นของ Nautilus"
 
-#~ msgid "Nautilus Actions Configuration"
-#~ msgstr "การกำหนดค่าปฏิบัติการของ Nautilus"
 
-#~ msgid "C/C++ Debugger"
-#~ msgstr "โปรแกรมดีบั๊ก C/C++"
 
-#~ msgid "Nemiver Debugger"
-#~ msgstr "Nemiver: โปรแกรมดีบั๊ก"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "ตั้งค่าอุปกรณ์และการเชื่อมต่อระบบเครือข่าย"
 
-#~ msgid "Downloader for X"
-#~ msgstr "โปรแกรมดาวน์โหลดสำหรับ X"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Decrypt File"
-#~ msgstr "ถอดรหัสลับแฟ้ม"
 
-#~ msgid "Import Key"
-#~ msgstr "นำเข้ากุญแจ"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "ตั้งค่าเซิร์ฟเวอร์กุญแจและค่าตั้งอื่นๆ เกี่ยวกับการเข้ารหัสลับ"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "การเข้ารหัสลับและพวงกุญแจ"
 
-#~ msgid "Verify Signature"
-#~ msgstr "ตรวจสอบยืนยันลายเซ็น"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "จัดการรหัสผ่านและกุญแจเข้ารหัสลับของคุณ"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "รหัสผ่านและกุญแจเข้ารหัสลับ"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "ตั้งค่าบริการระบบที่จะเปิดเมื่อเปิดเครื่อง"
 
-#~ msgid "Services"
-#~ msgstr "บริการ"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "กำหนดโฟลเดอร์ที่จะให้เครื่องเพื่อนบ้านในเครือข่ายใช้ร่วม"
 
-#~ msgid "Shared Folders"
-#~ msgstr "โฟลเดอร์ใช้ร่วม"
 
-#~ msgid "Organize your photos"
-#~ msgstr "Shotwell Photo Manager"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "เล่นแฟ้มแฟลชของอะโดบี"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "โปรแกรมเล่นแฟลช Swfdec"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Proc Configuration"
 
-#~ msgid "Personal task manager"
-#~ msgstr "โปรแกรมจัดการภารกิจส่วนตัว"
 
-#~ msgid "Tasks"
-#~ msgstr "ภารกิจ"
 
-#~ msgid "To Do list"
-#~ msgstr "งานที่จะทำ"
 
-#~ msgid "Easy quick task management"
-#~ msgstr "บริหารจัดการภารกิจอย่างง่ายและรวดเร็ว"
 
-#~ msgid "Tasque"
-#~ msgstr "Tasque"
 
-#~ msgid "Multiple terminals in one window"
-#~ msgstr "หลายเทอร์มินัลในหน้าต่างเดียว"
-
-#~ msgid "Terminator"
-#~ msgstr "Terminator"
-
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "ตั้งเวลา, วันที่, และเขตเวลาของระบบ"
-
-#~ msgid "Time and Date"
-#~ msgstr "เวลาและวันที่"
-
-#~ msgid "A drawing program for children."
-#~ msgstr "โปรแกรมวาดรูปสำหรับเด็ก"
-
-#~ msgid "Tux Paint"
-#~ msgstr "ทักซ์สอนวาดรูป"
-
-#~ msgid "Users and Groups"
-#~ msgstr "ผู้ใช้และกลุ่มผู้ใช้"
-
-#~ msgid ""
-#~ "A translation tool to help a human translator translate files into other "
-#~ "languages"
-#~ msgstr "เครื่องมือแปลภาษาที่ช่วยให้นักแปลภาษาแปลแฟ้มเป็นภาษาอื่นๆ"
-
-#~ msgid "Virtaal"
-#~ msgstr "Virtaal"
-
-#~ msgid "X3270"
-#~ msgstr "X3270"
-
-#~ msgid "Chat with people using IRC"
-#~ msgstr "คุยกับผู้คนผ่าน IRC"
-
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "การสนทนา IRC XChat-GNOME"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "โน้ตติดกาว"
-
-#~ msgid "Xpad"
-#~ msgstr "Xpad"
-
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"

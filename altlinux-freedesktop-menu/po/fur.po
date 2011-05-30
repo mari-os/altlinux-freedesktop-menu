@@ -13,10 +13,10 @@ msgstr ""
 "PO-Revision-Date: 2004-05-19 11:57+0100\n"
 "Last-Translator: Riccardo Sudaro <gft@freelists.org>\n"
 "Language-Team: furlan <gft@freelists.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -132,9 +132,8 @@ msgstr "Biologjie"
 msgid "Biology software"
 msgstr "Biologjie"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Biologjie"
+msgstr ""
 
 #, fuzzy
 msgid "Board Games"
@@ -167,9 +166,8 @@ msgstr "Zûcs"
 msgid "Cards"
 msgstr "Cjartis"
 
-#, fuzzy
 msgid "Chart"
-msgstr "Cjartis"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
@@ -278,9 +276,8 @@ msgstr "Editôrs"
 msgid "Education"
 msgstr "Istruzion"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Sigurece"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -395,9 +392,8 @@ msgstr ""
 msgid "Hardware"
 msgstr "Hardware"
 
-#, fuzzy
 msgid "History"
-msgstr "Chimiche"
+msgstr ""
 
 #, fuzzy
 msgid "IDE"
@@ -466,9 +462,8 @@ msgstr ""
 msgid "Mixers"
 msgstr "Mixer"
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Rêt"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Multimedia"
@@ -485,9 +480,8 @@ msgstr "Menu multimediâl"
 msgid "Multimedia Recorders"
 msgstr "Menu multimediâl"
 
-#, fuzzy
 msgid "Music"
-msgstr "Surie"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -545,9 +539,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "Preferencis"
+msgstr ""
 
 msgid "Personal"
 msgstr "Personâl"
@@ -845,173 +838,58 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Ce vuelistu fâ?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Imparâ Divertintsi"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Altris"
 
-#~ msgid "Shells"
-#~ msgstr "Shell"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Information"
-#~ msgstr "Informazion"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Preferencis personâls"
 
-#~ msgid "Accessories"
-#~ msgstr "Struments"
 
-#~ msgid "Peripherals"
-#~ msgstr "Periferichis"
 
-#~ msgid "Look and Feel"
-#~ msgstr "Aspiet e stîl"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "Impostazions ch'a controlin l'aspiet e il compuartament dal desktop"
 
-#~ msgid "Personal settings"
-#~ msgstr "Impostazions personâls"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Configurazion e monitoragjo di sisteme"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Impostazions par cetancj dispositîfs hardware"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Preferencis personâls e impostazions di aministrazion"
 
-#~ msgid "Universal Access"
-#~ msgstr "Acess Universâl"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Impostazions Acess Universâl"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "Modifiche impostazions di sisteme (par ducj i utents)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Audio e video"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet e Rêt"
 
-#~ msgid "Control Center"
-#~ msgstr "Centri di Control"
 
-#~ msgid "Puzzles"
-#~ msgstr "Berdeis"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Programs par internet come web e mail"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Aplicazions ch'a no jentrin ta chês altris categoriis"
 
-#~ msgid "Office Applications"
-#~ msgstr "Aplicazions di ufici"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Mandriva Linux Update"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Gambie lis aplicazions mostradis tal menu principâl"
 
-#~ msgid "Main Menu"
-#~ msgstr "Menu principâl"
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Al invie altris aplicazions e al furnis diferentis utilitâts par gjestî i "
-#~ "barcons, mostrâ l'ore, ecc."
 
-#~ msgid "Panel"
-#~ msgstr "Panel"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Sgarfe tes posizions di rêt locâls e tai segnelibris"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Sgarfe e zire figuris"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Sgarfe tal sisteme di files cul gjestôr di files"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Cjate jutori cun GNOME"
 
-#~ msgid "Help"
-#~ msgstr "Jutori"
 
-#~ msgid "Home Folder"
-#~ msgstr "Cjase"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Vierç la tô cartele personâl"
 
-#~ msgid "Search"
-#~ msgstr "Cîr"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Sgarfe in ducj i discs, cartelis locâls e remotis acessibilis di chest "
-#~ "ordenadôr"
 
-#~ msgid "Computer"
-#~ msgstr "Ordenadôr"
 
-#~ msgid "Home"
-#~ msgstr "Home"
 
-#~ msgid "Welcome"
-#~ msgstr "Benvignût"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Modificadôr di menu"
 
-#~ msgid "Open Folder"
-#~ msgstr "Vierç cartele"
 
-#~ msgid "Use the command line"
-#~ msgstr "Dopre la rie di comant"
 
-#~ msgid "Windows"
-#~ msgstr "Windows"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Navighe tal Web"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Cree e modifiche un archivi"
 
-#~ msgid "About GNOME"
-#~ msgstr "Informazions su GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Par savent di plui su GNOME"
 
-#~ msgid "Keyboard"
-#~ msgstr "Tastiere"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr ""
-#~ "Cambie l'aspiet e il compuartament dai barcons dal gjestôr dai files"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Services"
-#~ msgstr "Servizis"
+
+

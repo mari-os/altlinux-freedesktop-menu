@@ -10,10 +10,10 @@ msgstr ""
 "PO-Revision-Date: 2004-06-21 14:03-0400\n"
 "Last-Translator: azeem <azeemkhan@ciit.net.pk>\n"
 "Language-Team: URDU <C@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "X-Generator: KBabel 1.0.1\n"
 
 msgid "2D Graphics"
@@ -119,9 +119,8 @@ msgstr ""
 msgid "Backup"
 msgstr ""
 
-#, fuzzy
 msgid "Biology"
-msgstr "گیگولو"
+msgstr ""
 
 msgid "Biology software"
 msgstr ""
@@ -347,9 +346,8 @@ msgstr ""
 msgid "Geography"
 msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "گیگولو"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
@@ -457,9 +455,8 @@ msgstr ""
 msgid "Multimedia Recorders"
 msgstr ""
 
-#, fuzzy
 msgid "Music"
-msgstr "ماؤس"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -471,9 +468,8 @@ msgstr ""
 msgid "Network-related settings"
 msgstr "نیٹ ورک اتصال"
 
-#, fuzzy
 msgid "News"
-msgstr "نوٹ"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -522,9 +518,8 @@ msgstr ""
 msgid "Performance"
 msgstr ""
 
-#, fuzzy
 msgid "Personal"
-msgstr "ٹرمنل"
+msgstr ""
 
 msgid "Photography"
 msgstr ""
@@ -554,7 +549,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Project Management"
-msgstr "توانائی منیجر"
+msgstr "پرنٹ منیجر"
 
 #, fuzzy
 msgid "Project management applications"
@@ -809,258 +804,88 @@ msgstr ""
 msgid "chat clients"
 msgstr "ایم پی ڈی کلائنٹ"
 
-#~ msgid "Advanced"
-#~ msgstr "اعلٰی ترین"
 
-#~ msgid "Browse the web"
-#~ msgstr "ویب براؤز کریں"
 
-#~ msgid "Appearance"
-#~ msgstr "مظہر"
 
-#~ msgid "Panel"
-#~ msgstr "پینل"
 
-#~ msgid "Simple text editor"
-#~ msgstr "سادہ ٹیکسٹ ایڈیٹر"
 
-#~ msgid "Help"
-#~ msgstr "مدد"
 
-#~ msgid "Welcome"
-#~ msgstr "خوش آمدید"
 
-#~ msgid "Open Folder"
-#~ msgstr "فولڈر کھولیں"
 
-#~ msgid "LXTerminal"
-#~ msgstr "ایل ایکس ٹرمنل"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "محفوظہ بنائیں اور تبدیل کریں"
 
-#~ msgid "Task Manager"
-#~ msgstr "ٹاسک منیجر"
 
-#~ msgid "Keyboard"
-#~ msgstr "کیبورڈ"
 
-#~ msgid "Window Manager"
-#~ msgstr "ونڈو منیجر"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "بلک رینیم"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "متعدد فائلوں کا نام بدلیں"
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "فولڈر تھنر سے کھولیں"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "متعین فولڈر تھنر میں کھولیں"
 
-#~ msgid "Browse the filesystem with the file manager"
-#~ msgstr "فائل سسٹم کو فائل منیجر سے دیکھیں"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "تھنر فائل منیجر"
 
-#~ msgid ""
-#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
-#~ msgstr "مجوزہ اطلاقیے (ویب براؤزر، ای میل ریڈر، اور ٹرمنل ایمولیٹر)"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "۲   سے  ۱۰  سال کے ليے تعليمي کھيل"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "منا سب تعليميGکمپرائز"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr ""
-#~ "متر جمين : آپکي زبان کے ليے يهاں پر حسابي آپر بٹر ز رکھيں متعدد عملي "
-#~ "تعليمي کھيل"
 
-#~ msgid "A simple frontend to easily connect to remote filesystems"
-#~ msgstr "آسانی سے بعید فائل سسٹمز سے متصل ہونے کے لی سادہ فرنٹ اینڈ"
 
-#~ msgid "Panel Manager"
-#~ msgstr "پینل منیجر"
 
-#~ msgid "Mousepad"
-#~ msgstr "ماؤس پیڈ"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "اپنے نیٹ ورک اتصال کی تبدیلی اور ادارت کریں"
 
-#~ msgid "Archive manager"
-#~ msgstr "محفوظہ منیجر"
 
-#~ msgid "Configure the Thunar file manager"
-#~ msgstr "تھنر فائل منیجر مرتب کریں"
 
-#~ msgid "A GTK+2 only archive manager"
-#~ msgstr "صرف GTK+2 محفوظہ منیجر"
 
-#~ msgid "Xarchiver"
-#~ msgstr "Xarchiver"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "ڈیسک ٹاپ کیلینڈر"
 
-#~ msgid "Orage"
-#~ msgstr "کیلینڈر"
 
-#~ msgid "Set desktop background and menu and icon behaviour"
-#~ msgstr "ڈیسک ٹاپ پس منظر، مینیو اور آئکن کا انداز متعین کریں"
 
-#~ msgid "Configure screen settings and layout"
-#~ msgstr "سکرین کی ترتیبات اور خاکہ مرتب کریں"
 
-#~ msgid "Edit keyboard settings and application shortcuts"
-#~ msgstr "کیبورڈ کی ترتیبات اور اطلاقیوں کے شارٹ کٹس مدون کریں"
 
-#~ msgid "Configure pointer device behavior and appearance"
-#~ msgstr "پؤائینٹر ڈیوائس کا سلوک اور مظہر متعین کریں"
 
-#~ msgid "Customize desktop startup and splash screen"
-#~ msgstr "ڈیسک ٹاپ سٹارٹ اپ اور سپلیش سکرین وضع کریں"
 
-#~ msgid "Session and Startup"
-#~ msgstr "نشست اور سٹارٹ اپ"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "تصویری ترتیبات منیجر برائے ایکسفس 4"
 
-#~ msgid "Settings Manager"
-#~ msgstr "ترتیبات منیجر"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "ایکسفس 4 ترتیبات منیجر"
 
-#~ msgid "Customize the look of your desktop"
-#~ msgstr "اپنے ڈیسک ٹاپ کا حلیہ مرتب کریں"
 
-#~ msgid "Configure window behavior and shortcuts"
-#~ msgstr "ونڈو کا سلوک اور شارٹ کٹ وضع کریں"
 
-#~ msgid "Fine-tune window behaviour and effects"
-#~ msgstr "ونڈو کا سلوک اور ایفیکٹ مرتب کریں"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "ونڈو منیجر کار کردگی"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "مقام کاروں کی تعداد اور نام متعین کریں"
 
-#~ msgid "Workspaces"
-#~ msgstr "مقام کار"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "کیلینڈر ترتیبات"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "ترتیبات برائے ایکسفس 4 کیلنڈر اطلاقیہ"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "ایکسفس 4 کیلینڈر ترتیبات"
 
-#~ msgid "About Xfce"
-#~ msgstr "ایکسفس کی بابت"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "ایکسفس ڈیسک ٹاپ ماحول کے بارے میں معلومات"
 
-#~ msgid "Improve keyboard and mouse accessibility"
-#~ msgstr "کیبورڈ اور ماؤس کی قابلیت رسائی بہتر کریں"
 
-#~ msgid "Find and launch applications installed on your system"
-#~ msgstr "نظام میں نصب اطلاقیے تلاش کریں اور چلائیں"
 
-#~ msgid "Clipboard manager"
-#~ msgstr "کلپ بورڈ منیجر"
 
-#~ msgid "Clipman"
-#~ msgstr "کلپ مین"
 
-#~ msgid "A client program to query different dictionaries."
-#~ msgstr "مختلف لغتوں میں تلاش کے لیے ایک کلائینٹ پروگرام."
 
-#~ msgid "Dictionary Client"
-#~ msgstr "لغت کلائنٹ"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "تھنر فائل منیجر"
 
-#~ msgid "Help using Xfce"
-#~ msgstr "ایکسفس کے استعمال کی ہدایات"
 
-#~ msgid "Log Out"
-#~ msgstr "لاگ آؤٹ"
 
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "ایکسفس ڈیسک ٹاپ سے لاگ آؤٹ کریں"
 
-#~ msgid "Ideal for your quick notes"
-#~ msgstr "آپ کے فوری نوٹس کے لیے بہترین ہے"
 
-#~ msgid "Customize the panel settings"
-#~ msgstr "پینل کی ترتیبات"
 
-#~ msgid "Settings for the Xfce 4 Power Manager"
-#~ msgstr "ترتیبات برائے ایکسفس 4 توانائی منیجر"
 
-#~ msgid "Xfce 4 Power Manager"
-#~ msgstr "ایکسفس 4 توانائی منیجر"
 
-#~ msgid "Run Program..."
-#~ msgstr "پروگرام چلائیں..."
 
-#~ msgid ""
-#~ "Take screenshots of the entire screen, of the active window or of a region"
-#~ msgstr "پوری سکرین، فعال ونڈو یا مخصوص علاقے کی تصویر اتاریں"
 
-#~ msgid "Sensor Viewer"
-#~ msgstr "سینسر منظرکار"
 
-#~ msgid "Sensors Values Viewer"
-#~ msgstr "سینسر قدر منظرکار"
 
-#~ msgid "Show sensor values."
-#~ msgstr "سینسر ویلیو دکھائیں:"
 
-#~ msgid "Graphical settings editor for Xfconf"
-#~ msgstr "تصویری ترتیبات مدون کار برائے Xfconf"
 
-#~ msgid "MPD client written in GTK+ for Xfce"
-#~ msgstr "ایم پی ڈی MPD کلائنٹ جو ایکسفس کے لیے GTK+ میں لکھا گیا ہے"
 
-#~ msgid "Xfmpc"
-#~ msgstr "Xfmpc"
 
-#~ msgid "Print Manager"
-#~ msgstr "پرنٹ منیجر"
 
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "پرنٹر کی فہرست ظاہر کرکے آپ کو ان کے کام کی ادارت کی صلاحیت دیتی ہے"
 
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "ایکسفس 4 طباعت منیجر"
 
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr ""
-#~ "آپ کو طباعت نظام کے پس منظر کے انتخاب کی اجازت دیتا ہے جسے xfprint "
-#~ "استعمال کرے گا"
 
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "ایکسفس 4 طباعت نظام ترتیبات"
 
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "فائل کی طباعت اور اس کے خاکہ کی ترتیب کی اجازت دیتی ہے"
 
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "ایکسفس 4 طباعت ڈائیلاگ"
+
+
+

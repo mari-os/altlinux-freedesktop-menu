@@ -12,10 +12,10 @@ msgstr ""
 "PO-Revision-Date: 1999-08-25 11:07+0200\n"
 "Last-Translator: Nobody\n"
 "Language-Team: is\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -160,16 +160,14 @@ msgstr "ເກມ"
 msgid "Cards"
 msgstr "ກາດ"
 
-#, fuzzy
 msgid "Chart"
-msgstr "ກາດ"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
 
-#, fuzzy
 msgid "Chemistry"
-msgstr "ປະວັດການໃຊ້ງານ"
+msgstr ""
 
 msgid "Chemistry software"
 msgstr ""
@@ -262,9 +260,8 @@ msgstr ""
 msgid "Editors"
 msgstr "ແກ້ໄຂແຟ້ມຂໍ້ຄວາມ"
 
-#, fuzzy
 msgid "Education"
-msgstr "ການສຶກສາແສນມ່ວນຊື່ນ"
+msgstr ""
 
 msgid "Electricity"
 msgstr ""
@@ -278,9 +275,8 @@ msgstr ""
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "KMail"
+msgstr ""
 
 #, fuzzy
 msgid "Email applications"
@@ -468,9 +464,8 @@ msgstr "ເຄື່ອງຫຼີ້ນ"
 msgid "Multimedia Recorders"
 msgstr "ເມົາຕິມີເດຍ"
 
-#, fuzzy
 msgid "Music"
-msgstr "ເມົາສ໌"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -527,9 +522,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "ປັບແຕ່ງ"
+msgstr ""
 
 #, fuzzy
 msgid "Personal"
@@ -824,134 +818,49 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> ແອັບພລີເຄຊັນທັງຫມົດ"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> ຊິເຮັດຫຍັງ?"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "ຕ່າງໆນາໆ"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "ໂປຣແກຣມໃຊ້ໂຫຍດຂອງ X"
 
-#~ msgid "X-Utilities"
-#~ msgstr "ໃຊ້ປະໂຫຍດ์ X"
 
-#~ msgid "Wine"
-#~ msgstr "ເຄືອ"
 
-#~ msgid "Advanced"
-#~ msgstr "ັຝຣັ່ງ"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "ຕັ້ງຄ່າເພີ້ມເຕີມ"
 
-#~ msgid "Information"
-#~ msgstr "ຂໍ້ມູນຕ່າງໆ"
 
-#~ msgid "Peripherals"
-#~ msgstr "ອຸປະກອນຕໍ່ພວງ"
 
-#~ msgid "Control Center"
-#~ msgstr "ສູນຄວບຄຸມ"
 
-#~ msgid "XCam"
-#~ msgstr "Xcan"
 
-#~ msgid "Appearance"
-#~ msgstr "ການປະກົດ"
 
-#~ msgid "Text Editor"
-#~ msgstr "ເຄື່ອງມືແກ້ໄຂຂໍ້ຄວາມ"
 
-#~ msgid "Office Suite"
-#~ msgstr "ໂປຣແກຣມຊຸດສຳນັກງານ"
 
-#~ msgid "Eclipse"
-#~ msgstr "สุริยคราส"
 
-#~ msgid "Help"
-#~ msgstr "ລະບົບຊ່ວຍເຫືລອ"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "LyX"
-#~ msgstr "Lyx"
 
-#~ msgid "Konqueror"
-#~ msgstr "ຄົງຂູນເລີ"
 
-#~ msgid "Home"
-#~ msgstr "ພື້ນທີ່ສ່ວນຕົວ"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "ເຄື່ອງມືຄິບບອດ"
 
-#~ msgid "Klipper"
-#~ msgstr "ຄິບເປີ້ - K"
 
-#~ msgid "Konsole"
-#~ msgstr "ຄອນໂຊລ - K"
 
-#~ msgid "Info Center"
-#~ msgstr "ສູນຄວບຄຸມ"
 
-#~ msgid "Change Password"
-#~ msgstr "เปลี่ยนรหัสผ่าน"
 
-#~ msgid "Welcome"
-#~ msgstr "ຍິນດີຕ້ອນຮັບ"
 
-#~ msgid "Trash"
-#~ msgstr "ຖັງຂີ້ເຫຍື່ອ"
 
-#~ msgid "KWrite"
-#~ msgstr "Kwrite"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Menu Editor"
-#~ msgstr "ເຄື່ອງມືແກ້ໄຂເມນູ"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "ຕົວຈັດການແຟ້ມ - ໂຫມດຜູ້ດູແລລະບົບ"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "ການຈັດວາງແປ້ນພິມ"
 
-#~ msgid "Windows"
-#~ msgstr "ຫນ້າຕ່າງ"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "ແປພາສາຂອງ Qt"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "ຮຽນຮູ້ເພີ້ມ ກ່ຽວກັບ GNOME"
 
-#~ msgid "Keyboard"
-#~ msgstr "ແປ້ນພິມ"
 
-#~ msgid "Page Layout"
-#~ msgstr "ການຈັດວາງຫນ້າເຈ້ຍ"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "ເດດທອບພັລບບີດຊິງ"
 
-#~ msgid "Scribus"
-#~ msgstr "ສະຄຣີບັດສ໌"
 
-#~ msgid "myzone & status"
-#~ msgstr "myzone ເເລະ ສະຖານະພາບ"
 
-#~ msgid "Watch & listen"
-#~ msgstr "ເບີ່ງ ແລະ ຟັງ"
 
-#~ msgid "It's the internet"
-#~ msgstr "ມັນເເມ່ນ ອີນເຕີເເນດ"
 
-#~ msgid "Services"
-#~ msgstr "ບໍລິການ"
+
+
+

@@ -1,69 +1,89 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) Year Free Software Foundation, Inc.
-# Yongtao Yang <yongtao.yang@telia.com>, 2004.
-# Wang Xu <gnawux@gmail.com>, 2008.
 #
+# Latest versions of po files are at http://www.mandrivalinux.com/l10n/zh_CN.php3
+#
+# Simplified Chinese Translation
+# Alex DU <dxiaoming@mandriva.com>, 2001.
+# 汤诗语 <shiyu@mandriva.org>, 2003, 2004, 2005, 2008
+# Funda Wang <fundawang@linux.net.cn>, 2003, 2004, 2005.
+# Copyright (C) 2000-2005 Mandriva
+#
+# $Id: zh_CN.po 270670 2010-08-22 10:51:12Z fwang $
+#
+# Best Practice for translators
+#
+# cooperation
+#
+# - first check out the latest version online,
+#   if it is less than two day old, the last translator may be working on a new version.
+# - commit to Pablo when you finish one day work, even you have fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: menu 2.1.36\n"
+"Project-Id-Version: zh_CN\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-01-10 07:24+0800\n"
-"Last-Translator: Wang Xu <gnawux@gmail.com>\n"
-"Language-Team: Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>\n"
+"PO-Revision-Date: 2008-03-30 13:15+0800\n"
+"Last-Translator: 汤诗语 <shiyu@mandriva.org>\n"
+"Language-Team: Mandriva Linux i18n Team <cooker-i18n@mandrivalinux.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #, fuzzy
 msgid "2D Graphics"
-msgstr "图形"
+msgstr "图像"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "图像应用程序"
 
 #, fuzzy
 msgid "3D Graphics"
-msgstr "图形"
+msgstr "图像"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "图像应用程序"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "文件管理"
+msgstr "游戏和休闲"
 
 msgid "Accessibility"
-msgstr "辅助工具"
+msgstr "辅助"
 
+#, fuzzy
 msgid "Action"
-msgstr "动作类"
+msgstr "教育"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "动作类"
+msgstr "动作猜谜游戏"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "K 地址簿"
 
 msgid "Administration"
-msgstr "管理"
+msgstr "系统管理"
 
 msgid "Adventure"
-msgstr "冒险类"
+msgstr "探险"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "冒险类"
+msgstr "一个类似于俄罗斯方块的游戏"
 
 msgid "Amateur Radio"
-msgstr "业余无线电"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "应用程序"
+msgstr "程序查找工具"
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -81,22 +101,26 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "街机类"
+msgstr "街机"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "闯关游戏"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "文件压缩归档工具"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "K 压缩"
 
 msgid "Artificial Intelligence"
 msgstr "人工智能"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "人工智能"
 
 msgid "Astronomy"
 msgstr "天文"
@@ -105,28 +129,32 @@ msgstr "天文"
 msgid "Astronomy software"
 msgstr "天文"
 
+#, fuzzy
 msgid "Audio Editing"
-msgstr ""
+msgstr "音频标签编辑器"
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "音频播放器"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "录音机"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "备份"
 
 msgid "Biology"
-msgstr "生物"
+msgstr "生物学"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "生物"
+msgstr "变形软件"
 
 #, fuzzy
 msgid "Blogs"
-msgstr "方块类"
+msgstr "Blogilo"
 
 msgid "Board Games"
 msgstr "棋类游戏"
@@ -142,13 +170,14 @@ msgstr "计算器"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "模拟器"
+msgstr "计算器"
 
 msgid "Calendar"
 msgstr "日历"
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "Java 工具组件"
 
 msgid "Card Games"
 msgstr "牌类游戏"
@@ -158,10 +187,11 @@ msgstr "纸牌"
 
 #, fuzzy
 msgid "Chart"
-msgstr "纸牌类"
+msgstr "K 字符映射表"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "聊天"
 
 msgid "Chemistry"
 msgstr "化学"
@@ -172,11 +202,11 @@ msgstr "化学"
 
 #, fuzzy
 msgid "Clock"
-msgstr "方块类"
+msgstr "Xlock 屏幕保护"
 
 #, fuzzy
 msgid "Communications"
-msgstr "通信"
+msgstr "应用程序"
 
 msgid "Compression"
 msgstr ""
@@ -184,22 +214,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "计算机科学"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "计算机科学"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "计算机科学"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "地理"
+msgstr "计算机科学"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "ODBCConfig(root 用户)"
 
 #, fuzzy
 msgid "Construction"
-msgstr "通信"
+msgstr "网络建设游戏"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -207,15 +240,16 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "数据可视化"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "数据可视化"
 
 msgid "Databases"
 msgstr "数据库"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "应用程序"
+msgstr "更多应用程序"
 
 msgid "Desktop"
 msgstr "桌面"
@@ -223,29 +257,34 @@ msgstr "桌面"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "桌面部件"
 
 msgid "Development"
 msgstr "开发"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "开发环境"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "一个三维图片工具"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "字典"
 
 msgid "Dictionary"
 msgstr "字典"
 
+#, fuzzy
 msgid "Disc burning"
-msgstr ""
+msgstr "磁盘刻录"
 
 msgid "Documentation"
 msgstr "文档"
@@ -265,21 +304,24 @@ msgstr "教育"
 msgid "Electricity"
 msgstr "电子"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "电子"
 
+#, fuzzy
 msgid "Electronics"
 msgstr "电子"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "X 邮件箱"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "应用程序"
+msgstr "图像应用程序"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -288,39 +330,44 @@ msgid "Emulators"
 msgstr "模拟器"
 
 msgid "Engineering"
-msgstr "工程"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "方块类"
+msgstr "俄罗斯方块游戏"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "俄罗斯方块游戏"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "文件管理"
+msgstr "文件管理器"
 
 msgid "File Systems"
 msgstr "文件系统"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "文件传输"
+msgstr "文件管理器"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "文件系统"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "文本工具"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "科学"
 
 msgid "Flow Chart"
 msgstr ""
@@ -328,11 +375,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Qt 设计器"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "图像应用程序"
 
 msgid "Games"
 msgstr "游戏"
@@ -348,26 +397,29 @@ msgstr "地理"
 
 #, fuzzy
 msgid "Geology"
-msgstr "生物"
+msgstr "生物学"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "变形软件"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "地理"
+msgstr "地球科学"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "地理"
+msgstr "地球科学"
 
 msgid "Geosciences"
 msgstr "地球科学"
 
 msgid "Graphics"
-msgstr "图形"
+msgstr "图像"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "变形软件"
 
 msgid "Hardware"
 msgstr "硬件"
@@ -375,33 +427,38 @@ msgstr "硬件"
 msgid "History"
 msgstr "历史"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "IRC 客户程序"
 
 msgid "Image Processing"
 msgstr "图像处理"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "图像处理"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "即时消息客户程序"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "通用的即时通信客户程序"
 
 msgid "Internet"
 msgstr "Internet"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "应用程序"
+msgstr "更多应用程序"
 
 msgid "Java"
 msgstr ""
@@ -424,42 +481,50 @@ msgstr "逻辑游戏"
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "变形软件"
 
 msgid "Mathematics"
 msgstr "数学"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "DJ 软件"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "变形软件"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "查看器"
+msgstr "混音器"
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "系统监控"
+msgstr "显示器"
 
 msgid "Multimedia"
 msgstr "多媒体"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "多媒体菜单"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "媒体播放器"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "多媒体播放器"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "变形软件"
 
 msgid "Network"
 msgstr "网络"
@@ -469,7 +534,7 @@ msgstr "网络相关的设置"
 
 #, fuzzy
 msgid "News"
-msgstr "网络新闻"
+msgstr "邮件/新闻"
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -477,8 +542,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "数字分析"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "数字分析"
 
 msgid "OCR"
 msgstr ""
@@ -497,14 +563,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "编程"
+msgstr "绘画程序"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "软件包管理"
+msgstr "图像扫描程序"
 
 msgid "Packaging"
 msgstr "打包"
@@ -512,8 +578,9 @@ msgstr "打包"
 msgid "Parallel Computing"
 msgstr "并行计算"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "并行计算"
 
 msgid "Performance"
 msgstr ""
@@ -521,37 +588,41 @@ msgstr ""
 msgid "Personal"
 msgstr "个人"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "地理"
 
 msgid "Physics"
 msgstr "物理"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "物理"
+msgstr "变形软件"
 
 msgid "Preferences"
 msgstr "首选项"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "演示文稿"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "演示文稿"
 
 msgid "Printing"
 msgstr "打印"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "文件压缩归档工具"
 
 msgid "Project Management"
 msgstr "项目管理"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "项目管理"
+msgstr "打印机管理应用程序"
 
 msgid "Publishing"
 msgstr ""
@@ -561,22 +632,26 @@ msgstr ""
 
 #, fuzzy
 msgid "Raster Graphics"
-msgstr "图形"
+msgstr "图像"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "图像应用程序"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "远程图形访问"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "音量控制"
 
 msgid "Robotics"
 msgstr "机器人"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "变形软件"
 
 msgid "Role Playing"
 msgstr ""
@@ -584,9 +659,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "屏保"
+msgstr ""
 
 msgid "Science"
 msgstr "科学"
@@ -601,50 +675,56 @@ msgstr "安全"
 msgid "Security tools"
 msgstr "安全"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "MIDI 音序器"
 
 msgid "Settings"
 msgstr "设置"
 
+#, fuzzy
 msgid "Simulation"
-msgstr "模拟类"
+msgstr "Minitel 模拟器"
 
 #, fuzzy
 msgid "Simulation Games"
-msgstr "模拟类"
+msgstr "平台游戏"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "软件更新查看器"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "软件介质管理器"
 
+#, fuzzy
 msgid "Software to teach music"
-msgstr ""
+msgstr "软件源"
 
 msgid "Sound"
-msgstr "声音"
+msgstr "音效"
 
 msgid "Sports"
-msgstr "体育类"
+msgstr "运动"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "体育类"
+msgstr "棋类游戏"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "电子表格"
 
 msgid "Strategy"
-msgstr "策略类"
+msgstr "战略"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "策略类"
+msgstr "战略"
 
 msgid "System"
 msgstr "系统"
@@ -655,15 +735,16 @@ msgstr "系统工具"
 msgid "System settings"
 msgstr "系统设置"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "电视与收音机"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "电视与收音机"
+msgstr "查看和报告应用程序崩溃事件"
 
 #, fuzzy
 msgid "TV applications"
@@ -672,11 +753,13 @@ msgstr "应用程序"
 msgid "Teaching Tools"
 msgstr "教学工具"
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "ISDN 电话"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "文本工具"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -686,14 +769,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "终端"
+msgstr "终端应用程序"
 
 #, fuzzy
 msgid "Terminals"
 msgstr "终端"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "文本工具"
 
 msgid "Text tools"
 msgstr "文本工具"
@@ -704,8 +788,9 @@ msgstr ""
 msgid "Tools"
 msgstr "工具"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "软件开发工具"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -713,11 +798,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "选择默认的应用程序"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "选择默认的应用程序"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -725,8 +812,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "配置打印机"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -738,6750 +826,2265 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "玩具类"
+msgstr "玩具"
 
 msgid "Translation"
 msgstr "翻译"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "翻译工具"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "打字教程"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "图形"
+msgstr "矢量图形编辑器"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "图像应用程序"
 
 msgid "Video"
-msgstr "视频"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "首选项"
 
+#, fuzzy
 msgid "Video Editing"
-msgstr ""
+msgstr "视频编辑器"
 
 #, fuzzy
 msgid "Video Players"
-msgstr "查看器"
+msgstr "视频播放机"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "数码影像录制"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "查看器"
+msgstr "KUI 查看器"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "网络浏览"
-
-msgid "Web Browsing"
-msgstr "网络浏览"
-
-msgid "Web Development"
-msgstr "网站开发"
+msgstr "Web 浏览器"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "网络浏览"
+msgid "Web Browsing"
+msgstr "Web 浏览器"
 
-msgid "Wordprocessors"
+msgid "Web Development"
+msgstr "Web 开发"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "文字处理"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "邮件客户端"
 
-#~ msgid "Data Management"
-#~ msgstr "数据管理"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "移动设备"
 
-#~ msgid "Medicine"
-#~ msgstr "医学"
 
-#~ msgid "Social"
-#~ msgstr "社会科学"
 
-#~ msgid "Shells"
-#~ msgstr "Shell"
 
-#~ msgid "Language Environment"
-#~ msgstr "语言环境"
 
-#~ msgid "Text"
-#~ msgstr "文本"
 
-#~ msgid "Puzzles"
-#~ msgstr "迷宫类"
 
-#~ msgid "Help"
-#~ msgstr "帮助"
 
-#~ msgid "Window Managers"
-#~ msgstr "窗口管理器"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "FVWM 模块"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-#~ msgid "Appearance"
-#~ msgstr "外观"
 
-#~ msgid "WorkSpace"
-#~ msgstr "工作区"
 
-#~ msgid "Iceape Components"
-#~ msgstr "Iceape 组件"
 
-#~ msgid "Teddies"
-#~ msgstr "Teddy 熊"
 
-#~ msgid "Apps"
-#~ msgstr "程序"
 
-#~ msgid "Hamradio"
-#~ msgstr "业余无线电"
 
-#~ msgid "Math"
-#~ msgstr "数学"
 
-#~ msgid "Technical"
-#~ msgstr "技术"
 
-#~ msgid "Tetris-like"
-#~ msgstr "俄罗斯方块类"
 
-#~ msgid "Root-window"
-#~ msgstr "根窗口"
 
-#~ msgid "XShells"
-#~ msgstr "XShells"
 
-#~ msgid "Admin"
-#~ msgstr "管理"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> 全部应用程序"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> 您想做什么？"
 
-#~ msgid "Edutainment"
-#~ msgstr "寓教于乐"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "杂项"
 
-#~ msgid "Utilities"
-#~ msgstr "工具"
 
-#~ msgid "Advocacy"
-#~ msgstr "主张"
 
-#~ msgid "Benchmarking"
-#~ msgstr "评测"
 
-#~ msgid "Bootstrapping"
-#~ msgstr "引导程序"
 
-#~ msgid "Network bootstrapping"
-#~ msgstr "网络引导"
 
-#~ msgid "Multiboot"
-#~ msgstr "多重引导"
 
-#~ msgid "Clustering and Parallel processing"
-#~ msgstr "群集和并行处理"
 
-#~ msgid "Community and services"
-#~ msgstr "社区和服务"
 
-#~ msgid "CPU design"
-#~ msgstr "CPU 设计"
 
-#~ msgid "Generic Linux Documentation"
-#~ msgstr "常规 Linux 文档"
 
-#~ msgid "Input hardware"
-#~ msgstr "输入硬件"
 
-#~ msgid "Grahical hardware"
-#~ msgstr "图形硬件"
 
-#~ msgid "Kernel internals"
-#~ msgstr "内核内部符号"
 
-#~ msgid "Internationalization"
-#~ msgstr "国际化"
 
-#~ msgid "Installation"
-#~ msgstr "安装"
 
-#~ msgid "Kiosk"
-#~ msgstr "Kiosk"
 
-#~ msgid "Laptops and PDA"
-#~ msgstr "笔记本和 PDA"
 
-#~ msgid "Power saving"
-#~ msgstr "节能"
 
-#~ msgid "Linux on specific architectures"
-#~ msgstr "特殊架构上的 Linux"
 
-#~ msgid "Network connection"
-#~ msgstr "网络连接"
 
-#~ msgid "Network concepts"
-#~ msgstr "网络概念"
 
-#~ msgid "VPN"
-#~ msgstr "VPN"
 
-#~ msgid "Network configuration"
-#~ msgstr "网络配置"
 
-#~ msgid "Network clients"
-#~ msgstr "网络客户端"
 
-#~ msgid "Network servers"
-#~ msgstr "网络服务器"
 
-#~ msgid "OSes cohabitation"
-#~ msgstr "操作系统并存"
 
-#~ msgid "Programming"
-#~ msgstr "编程"
 
-#~ msgid "Servers"
-#~ msgstr "服务器"
 
-#~ msgid "Storage"
-#~ msgstr "存储"
 
-#~ msgid "Migration"
-#~ msgstr "迁移"
 
-#~ msgid "X Window"
-#~ msgstr "X Window"
 
-#~ msgid "Other howtos"
-#~ msgstr "其它文档"
 
-#~ msgid "Buy it"
-#~ msgstr "购买"
 
-#~ msgid "Subscribe"
-#~ msgstr "订阅"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "配置您的计算机"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "X Window 实用工具"
 
-#~ msgid "X-Utilities"
-#~ msgstr "X 实用工具"
 
-#~ msgid "Wine"
-#~ msgstr "Wine 模拟器"
 
-#~ msgid "Advanced"
-#~ msgstr "高级"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "高级设置"
 
-#~ msgid "Lost & Found"
-#~ msgstr "未知类别"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "策略游戏"
 
-#~ msgid "Information"
-#~ msgstr "信息"
 
-#~ msgid "More"
-#~ msgstr "更多"
 
-#~ msgid "Personal preferences"
-#~ msgstr "个人首选项"
 
-#~ msgid "Accessories"
-#~ msgstr "附件"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "桌面附件"
 
-#~ msgid "Networking"
-#~ msgstr "网络"
 
-#~ msgid "PIM"
-#~ msgstr "个人信息管理"
 
-#~ msgid "Science & Math"
-#~ msgstr "科学和数学"
 
-#~ msgid "GGZ Gaming Zone"
-#~ msgstr "GGZ 游戏地带"
 
-#~ msgid "Peripherals"
-#~ msgstr "外设"
 
-#~ msgid "Look and Feel"
-#~ msgstr "观感"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "控制桌面外观和行为的设置"
 
-#~ msgid "File"
-#~ msgstr "文件"
 
-#~ msgid "Personal settings"
-#~ msgstr "个人设置"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "屏幕保护程序主题"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "系统配置和监视"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "设置各种硬件设备"
 
-#~ msgid "KDE Menu"
-#~ msgstr "KDE 菜单"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "个人首选项和管理设置"
 
-#~ msgid "Universal Access"
-#~ msgstr "通用访问"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "通用访问设置"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "更改系统级设置(影响全部用户)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "影音"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet 和网络"
 
-#~ msgid "Control Center"
-#~ msgstr "控制中心"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "恶作剧游戏"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "访问 Internet 所用的程序，如 Web 和电子邮件"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "无法分入其它类别的应用程序"
 
-#~ msgid "Office Applications"
-#~ msgstr "办公应用程序"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "请不要删除或修改"
 
-#~ msgid "CRXvt (Big5)  "
-#~ msgstr "繁体中文终端"
 
-#~ msgid "Traditional Chinese rxvt terminal  "
-#~ msgstr "繁体中文终端(BIG 5)"
 
-#~ msgid "Manage OpenJDK policy files"
-#~ msgstr "管理 OpenJDK 策略文件"
 
-#~ msgid "OpenJDK Policy Tool"
-#~ msgstr "OpenJDK 策略工具"
 
-#~ msgid "A SANE-based frontend for webcams"
-#~ msgstr "一个 SANE 为基础的 webcams 的前端"
 
-#~ msgid "XCam"
-#~ msgstr "XCam"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Mandriva Linux 更新"
 
-#~ msgid "Freeciv"
-#~ msgstr "Freeciv（文明）游戏"
 
-#~ msgid ""
-#~ "Turn-based strategy game inspired by the history of human civilization"
-#~ msgstr "从人类文明的历史获得灵感而制作出的回合制策略游戏"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "一种类似扑克的的骰子游戏"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "启用或禁用软件源"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid "Record and edit audio files"
-#~ msgstr "录制和编辑声音文件"
 
-#~ msgid "Sound Editor"
-#~ msgstr "声音编辑器"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 法文"
 
-#~ msgid "Howto French"
-#~ msgstr "法文 Howto"
 
-#~ msgid "MIDI file player"
-#~ msgstr "MIDI 文件播放机"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++ MIDI 播放机"
 
-#~ msgid "PowerManga"
-#~ msgstr "PowerManga"
 
-#~ msgid "Shoot 'em up game with 3D graphics"
-#~ msgstr "3D 图形射击游戏"
 
-#~ msgid "Extreme Tux Racer"
-#~ msgstr "超级企鹅快跑"
 
-#~ msgid "OpenGL racing game featuring Tux"
-#~ msgstr "以企鹅为主角的 OpenGL 赛跑游戏"
 
-#~ msgid "Edit DV video"
-#~ msgstr "编辑 DV 视频"
 
-#~ msgid "Kino"
-#~ msgstr "Kino"
 
-#~ msgid "A graphical traceroute"
-#~ msgstr "图形化的 traceroute（路由跟踪工具）"
 
-#~ msgid "xtraceroute"
-#~ msgstr "xtraceroute（路由跟踪工具）"
 
-#~ msgid "Five or More"
-#~ msgstr "多子棋"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "将彩球连成一线以消去"
 
-#~ msgid "Minesweeper"
-#~ msgstr "扫雷"
 
-#~ msgid "A simple frontend for the SANE scanning system"
-#~ msgstr "一个简单的 SANE 扫描程序的前端"
 
-#~ msgid "XScanImage"
-#~ msgstr "XScanImage"
 
-#~ msgid "C++ IDE for developing Qt applications"
-#~ msgstr "开发 Qt 应用程序的 C++ IDE"
 
-#~ msgid "Qt Creator"
-#~ msgstr "Qt 创建器"
 
-#~ msgid "Screem HTML/XML Editor"
-#~ msgstr "Screem HTML/XML 编辑器"
 
-#~ msgid "Website editor and management system"
-#~ msgstr "网站编辑和管理系统"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "文档浏览器"
 
-#~ msgid "Mono Documentation"
-#~ msgstr "Mono 文档"
 
-#~ msgid "View, search and edit documentation related to Mono"
-#~ msgstr "查看、搜索和编辑和 Mono 有关的文档"
 
-#~ msgid "System Monitor"
-#~ msgstr "系统监视器"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "查看当前进程及监视系统状态"
 
-#~ msgid "Reboot"
-#~ msgstr "重新启动"
 
-#~ msgid "GQview"
-#~ msgstr "GQview 图片浏览"
 
-#~ msgid "Image Viewer"
-#~ msgstr "图像查看器"
 
-#~ msgid "View and manage images"
-#~ msgstr "查看及管理图像"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "基于 gtk 的监视程序"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Media Player"
-#~ msgstr "媒体播放器"
 
-#~ msgid "Play and organize your media collection"
-#~ msgstr "播放及管理你的媒体收藏"
 
-#~ msgid "Lets you watch TV in a window"
-#~ msgstr "让您在窗口中看电视"
 
-#~ msgid "Zapping TV Viewer"
-#~ msgstr "Zapping 电视查看器"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Viewer"
-#~ msgstr "利盟 Lexmark 5xxx, 7xxx and 11xx 色带查看器"
 
-#~ msgid "Lexmark showcartridges"
-#~ msgstr "利盟色带查看器"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner"
-#~ msgstr "利盟 Lexmark 5xxx, 7xxx and 11xx 头定位器"
 
-#~ msgid "Lexmark headalign"
-#~ msgstr "利盟头定位器"
 
-#~ msgid "Chat on Google Talk, Facebook, MSN, and many other chat services"
-#~ msgstr "使用 Google Talk、Facebook、MSN 以及许多其它聊天服务"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "IM Client"
-#~ msgstr "即时通讯客户程序"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "配置锁闭策略"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "锁闭编辑器"
 
-#~ msgid "A 3D table tennis game"
-#~ msgstr "三维台球游戏"
 
-#~ msgid "CannonSmash"
-#~ msgstr "三维台球"
 
-#~ msgid "About Me"
-#~ msgstr "关于我"
 
-#~ msgid "Set your personal information"
-#~ msgstr "设定您的个人信息"
 
-#~ msgid "Action-puzzle game involving bouncing penguins"
-#~ msgstr "以跳跃的企鹅为主角的动作迷宫游戏"
 
-#~ msgid "IceBreaker"
-#~ msgstr "敲冰块"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner"
-#~ msgstr "利盟 Lexmark 5xxx, 7xxx and 11xx 头清洗器"
 
-#~ msgid "Lexmark headclean"
-#~ msgstr "利盟头清洗器"
 
-#~ msgid "CMake"
-#~ msgstr "CMake"
 
-#~ msgid "Cross-platform buildsystem"
-#~ msgstr "跨平台编译系统"
 
-#~ msgid "Access EXIF information from pictures"
-#~ msgstr "从照片中获取 EXIF 信息"
 
-#~ msgid "Gexif"
-#~ msgstr "Gexif"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "创建及复制 CD/DVD"
 
-#~ msgid "Disc Burner and Copier"
-#~ msgstr "光盘刻录和复制器"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "更改主菜单上显示哪些程序"
 
-#~ msgid "Main Menu"
-#~ msgstr "主菜单"
 
-#~ msgid "Google Gadgets (Qt)"
-#~ msgstr "Google 小工具 (Qt)"
 
-#~ msgid "Run Google Gadgets in KDE/Qt environment"
-#~ msgstr "在 KDE/Qt 环境中运行 Google 小工具"
 
-#~ msgid "Graphical interface to diff"
-#~ msgstr "diff 的图形界面"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff 文件比较"
 
-#~ msgid "Browse the web"
-#~ msgstr "浏览 Web"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Epson Inkjet Printer Manager"
-#~ msgstr "爱普生喷墨打印机管理器"
 
-#~ msgid "Character Map"
-#~ msgstr "字符映射表"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "在文档中插入特殊字符"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in Brazilian Portuguese"
-#~ msgstr "Mandriva Linux DrakXTools 用户手册(巴西葡萄牙语)"
 
-#~ msgid "The Mandriva Linux manuals in Brazilian Portuguese"
-#~ msgstr "Mandriva Linux 手册(巴西葡萄牙语)"
 
-#~ msgid "Python complete reference"
-#~ msgstr "Python 完整手册"
 
-#~ msgid "Python documentation"
-#~ msgstr "Python 文档"
 
-#~ msgid "X11 screen saver"
-#~ msgstr "屏幕保护程序"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "CompizConfig 设置管理器"
 
-#~ msgid "Configure Compiz with CompizConfig"
-#~ msgstr "用 CompizConfig 配置 Compiz"
 
-#~ msgid "Authorizations"
-#~ msgstr "身份验证"
 
-#~ msgid "Configure authorizations"
-#~ msgstr "配置身份验证"
 
-#~ msgid "NetApplet"
-#~ msgstr "网络监视器"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "网络监视小程序"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo 豪华版"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Samba 配置(SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Swat Samba 管理工具"
 
-#~ msgid "Screenshot grabber"
-#~ msgstr "屏幕捕捉工具"
 
-#~ msgid "Xwpick"
-#~ msgstr "X 屏幕捕捉"
 
-#~ msgid "A program for watching TV (nicer interface)"
-#~ msgstr "看电视用的程序（很漂亮的界面）"
 
-#~ msgid "Create service packs for sharing with other computers"
-#~ msgstr "创建服务包以和其它计算机共享"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "服务包生成器"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "纸牌小游戏"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "Mandriva Linux Starter Guide in French"
-#~ msgstr "Mandriva Linux 初学指南(法语)"
 
-#~ msgid "The Mandriva Linux manuals in French"
-#~ msgstr "Mandriva Linux 手册(法语)"
 
-#~ msgid "Chainsaw"
-#~ msgstr "Chainsaw"
 
-#~ msgid "Log4j log viewer"
-#~ msgstr "Log4j 日志查看器"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "GUI 棋盘小游戏"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "自定义桌面外观"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "在在线字典中查阅单词定义和拼写"
 
-#~ msgid "Google Gadgets (GTK)"
-#~ msgstr "Google 小工具 (GTK)"
 
-#~ msgid "Run Google Gadgets in GNOME/GTK environment"
-#~ msgstr "在 GNOME/GTK 环境中运行 Google 小工具"
 
-#~ msgid "Browse the file system and manage the files"
-#~ msgstr "浏览文件系统及管理文件"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr "按照名称或内容定位此计算机中的文档和文件夹"
 
-#~ msgid "Search for Files..."
-#~ msgstr "搜索文件..."
 
-#~ msgid "Avahi VNC Server Browser"
-#~ msgstr "Avahi VNC 服务器浏览器"
 
-#~ msgid "Browse for Zeroconf-enabled VNC Servers"
-#~ msgstr "浏览启用了 Zeroconf 的 VNC 服务器"
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "调用其它应用程序并提供可用来完成管理管理窗口、显示时间等功能的工具。"
 
-#~ msgid "Panel"
-#~ msgstr "面板"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "使用其它输入设备来打字或浏览应用程序"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "屏幕上的键盘"
 
-#~ msgid "Browse your database's contents"
-#~ msgstr "浏览您的数据库内容"
 
-#~ msgid "Database browser"
-#~ msgstr "数据库浏览器"
 
-#~ msgid "Lookup words"
-#~ msgstr "查询单词"
 
-#~ msgid "StarDict"
-#~ msgstr "星际译王"
 
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "rp-pppoe 的图形化程序"
 
-#~ msgid "TkPPPoE"
-#~ msgstr "TkPPPoE"
 
-#~ msgid "GnuCash Finance Management"
-#~ msgstr "GnuCash 理财工具"
 
-#~ msgid "Manage your finances, accounts, and investments"
-#~ msgstr "管理你的财政、账户和投资"
 
-#~ msgid "Download and upload files via FTP, FTPS and SFTP"
-#~ msgstr "通过 FTP、FTPS 和 SFTP 下载上传文件"
 
-#~ msgid "FTP client"
-#~ msgstr "FTP 客户端"
 
-#~ msgid "FileZilla"
-#~ msgstr "FileZilla"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "音频 CD 提取器"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "从您的 CD 中复制音乐"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "CD/DVD 创建者"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "创建 CD/DVD"
 
-#~ msgid "Device Manager"
-#~ msgstr "设备管理器"
 
-#~ msgid "Manage devices"
-#~ msgstr "管理设备"
 
-#~ msgid "Import the photos on your camera card"
-#~ msgstr "由数码照相机导入相片"
 
-#~ msgid "Photo Import Tool"
-#~ msgstr "相片导入工具"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "首选应用程序"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "滑动方块以解决谜题"
 
-#~ msgid "Blender (DRI disabled)"
-#~ msgstr "Blender（禁用 DRI）"
 
-#~ msgid "The free open source 3D content creation suite (with DRI disabled)"
-#~ msgstr "自由开源的 3D 内容创建套件（禁用 DRI）"
 
-#~ msgid "3D Chess Game"
-#~ msgstr "3D 象棋游戏"
 
-#~ msgid "Chess"
-#~ msgstr "象棋"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "经典的国际象棋对战游戏"
 
-#~ msgid "Manage your PulseAudio sound server."
-#~ msgstr "管理您的 PulseAudio 声音服务器。"
 
-#~ msgid "PulseAudio Manager"
-#~ msgstr "PulseAudio 管理器"
 
-#~ msgid "Leafpad"
-#~ msgstr "Leafpad"
 
-#~ msgid "Simple text editor"
-#~ msgstr "简易文字编辑器"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "浏览书签和局域网中的位置"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "为用户建立并编辑配置文件"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "用户配置文件编辑器"
 
-#~ msgid "Chat with other people using Internet Relay Chat"
-#~ msgstr "和其它使用 IRC 的人聊天"
 
-#~ msgid "XChat IRC"
-#~ msgstr "XChat 聊天"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "照片查看器"
 
-#~ msgid "Bluetooth"
-#~ msgstr "蓝牙"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "配置蓝牙设置"
 
-#~ msgid "Edit text"
-#~ msgstr "编辑文本"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs 编辑器"
 
-#~ msgid "Text Editor"
-#~ msgstr "文本编辑器"
 
-#~ msgid "Manage Messaging and VoIP accounts"
-#~ msgstr "管理消息和 VoIP 帐户"
 
-#~ msgid "Messaging and VoIP Accounts"
-#~ msgstr "消息和 VoIP 帐户"
 
-#~ msgid "Disk Utility"
-#~ msgstr "磁盘实用工具"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "管理驱动器及媒体"
 
-#~ msgid "Office Suite"
-#~ msgstr "办公套件"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
 
-#~ msgid "Capture Volume Meter"
-#~ msgstr "抓取音量数据"
 
-#~ msgid "Monitor the input volume"
-#~ msgstr "监视输入音量"
 
-#~ msgid "PulseAudio Volume Meter (Capture)"
-#~ msgstr "PulseAudio 音量数据（抓取）"
 
-#~ msgid "GBRXvt (GB2312)  "
-#~ msgstr "简体中文终端"
 
-#~ msgid "Simplified Chinese rxvt terminal  "
-#~ msgstr "简体中文终端(GB 2312)"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "浏览及旋转图像"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "目录安装器"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "在系统中安装一个软件目录"
 
-#~ msgid "Monitor the output volume"
-#~ msgstr "监视输出音量"
 
-#~ msgid "Playback Volume Meter"
-#~ msgstr "播放音量数据"
 
-#~ msgid "PulseAudio Volume Meter (Playback)"
-#~ msgstr "PulseAudio 音量数据（播放）"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "更改显示器的分辨率和位置"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr "使用 Calc 进行计算、分析信息以及管理电子表格中的列表。"
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "Echoaudio 声卡的控制工具"
 
-#~ msgid "Echo mixer"
-#~ msgstr "回声混音器"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "保存您桌面还是单个窗口的图像"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "抓图"
 
-#~ msgid "Phone Manager"
-#~ msgstr "电话管理器"
 
-#~ msgid "Receive and send text messages from your mobile phone"
-#~ msgstr "从您的移动电话收发文字消息"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "开发者帮助程序"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 荷兰文"
 
-#~ msgid "Howto Dutch"
-#~ msgstr "荷兰文 Howto"
 
-#~ msgid "Eclipse"
-#~ msgstr "Eclipse"
 
-#~ msgid "Eclipse Integrated Development Environment"
-#~ msgstr "Eclipse 集成开发环境"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "用文件管理器浏览文件系统"
 
-#~ msgid "File Browser"
-#~ msgstr "文件浏览器"
 
-#~ msgid "ODBConfig (Root User)"
-#~ msgstr "ODBCConfig(root 用户)"
 
-#~ msgid "Mandriva Linux Starter Guide in English"
-#~ msgstr "Mandriva Linux 初学者指南(英语)"
 
-#~ msgid "The Mandriva Linux manuals in English"
-#~ msgstr "Mandriva Linux 手册(英语)"
 
-#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
-#~ msgstr "移除同样的色块以清空屏幕"
 
-#~ msgid "Swell Foop"
-#~ msgstr "消色块"
 
-#~ msgid "IDE for Python"
-#~ msgstr "Python 集成开发环境"
 
-#~ msgid "Mail notifier"
-#~ msgstr "来信通告"
 
-#~ msgid "Add and organize the OpenOffice.org extensions."
-#~ msgstr "添加和管理 OpenOffice.org 扩展"
 
-#~ msgid "Extension Manager"
-#~ msgstr "扩展管理器"
 
-#~ msgid "OpenOffice.org Extension Manager"
-#~ msgstr "OpenOffice.org 扩展管理器"
 
-#~ msgid "Configurator"
-#~ msgstr "配置器"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "Dia 图表编辑器"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "编辑您的图表"
 
-#~ msgid "Monitor and manage OpenJDK applications"
-#~ msgstr "监视和管理 OpenJDK 应用程序"
 
-#~ msgid "OpenJDK Monitoring & Management Console"
-#~ msgstr "OpenJDK 监视和管理控制台"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "为桌面的各部分安装主题包"
 
-#~ msgid "Theme Installer"
-#~ msgstr "主题安装程序"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "RME Hammerfall 的控制面板"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME 数字控制"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "获得 GNOME 的帮助"
 
-#~ msgid "A melting digital clock"
-#~ msgstr "一个混合的数字钟"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "X 电子钟"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "辅助技术"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "选择您登录时想要启用的辅助特性"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "检查文件夹大小和可用的磁盘空间"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "磁盘使用分析器"
 
-#~ msgid "Full virtualizer for x86 hardware"
-#~ msgstr "x86 硬件的完整虚拟化工具"
 
-#~ msgid "VirtualBox OSE"
-#~ msgstr "VirtualBox OSE"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "创建或打开 GTK+ 应用程序所使用的用户界面设计"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "组织、欣赏及共享您的照片"
 
-#~ msgid "Photo Manager"
-#~ msgstr "照片管理器"
 
-#~ msgid "Graphical user interface for managing log4j log messages"
-#~ msgstr "管理 Log4j 日志信息的图形界面工具"
 
-#~ msgid "LogFactor5"
-#~ msgstr "LogFactor5"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "客户和服务器传真配置工具"
 
-#~ msgid "Fax configuration"
-#~ msgstr "传真配置"
 
-#~ msgid "Movie Player"
-#~ msgstr "电影播放机"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "播放电影和歌曲"
 
-#~ msgid "Document Viewer"
-#~ msgstr "文档查看器"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "查看多页文档"
 
-#~ msgid "Home Folder"
-#~ msgstr "主文件夹"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "打开您的个人文件夹"
 
-#~ msgid "Frontend for Nvidia TV output"
-#~ msgstr "NVidia 电视输出前端"
 
-#~ msgid "Nvidia TV Output"
-#~ msgstr "Nvidia TV 输出"
 
-#~ msgid "Fit falling blocks together"
-#~ msgstr "将下落的方块组合在一起"
 
-#~ msgid "Quadrapassel"
-#~ msgstr "俄罗斯方块"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "匹配编号的牌片来完成谜题"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Software Log Viewer"
-#~ msgstr "软件日志查看器"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "查看以前的包管理任务"
 
-#~ msgid "Clone of Sega's \"Chu Chu Rocket\", a multi-player puzzle game"
-#~ msgstr "世嘉“Chu Chu Rocket”的克隆，一个多用户的解密游戏"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "A graphical designer/dialog builder for Qt4"
-#~ msgstr "Qt4 的图形界面设计工具"
 
-#~ msgid "Qt4 Designer"
-#~ msgstr "Qt4 设计师"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "配置 GStreamer 应用程序的默认值"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "多媒体系统选择器"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "配置 PalmOS 设备"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "PalmOS 设备"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "访问远程桌面"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "远程桌面查看器"
 
-#~ msgid "HDSPMixer"
-#~ msgstr "HDSP 混合器"
 
-#~ msgid "Hammerfall DSP matrix mixer control GUI"
-#~ msgstr "Hammerfall DSP 矩阵混合器的图形界面程序"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "Audit 配置"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "修改 audit 配置"
 
-#~ msgid "Bluefish Editor"
-#~ msgstr "Bluefish 编辑器"
 
-#~ msgid "Web Development Editor"
-#~ msgstr "网站开发编辑器"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr"
-#~ msgstr "Gtk-ocr"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Gtk-ocr 是一个 gocr 的 gtk 前端"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "避免机器人撞在一起"
 
-#~ msgid "Robots"
-#~ msgstr "机器人"
 
-#~ msgid "Search"
-#~ msgstr "搜索"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "在您的桌面上搜索数据"
 
-#~ msgid "xine"
-#~ msgstr "xine 视频播放器"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 西班牙文"
 
-#~ msgid "Howto Spanish"
-#~ msgstr "西班牙文 Howto"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmail 配置工具"
 
-#~ msgid "Full-featured POP/IMAP mail retrieval daemon"
-#~ msgstr "全功能的 POP/IMAP 收取守护进程"
 
-#~ msgid "Crack Attack!"
-#~ msgstr "Crack Attack!"
 
-#~ msgid "A free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "自由(GPL)的多人玩的炸弹人游戏"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "GGZ Core Client"
-#~ msgstr "GGZ 核心客户端"
 
-#~ msgid "Gtk+ internet gaming center"
-#~ msgstr "Gtk+ 互联网游戏中心"
 
-#~ msgid "ggz-gtk"
-#~ msgstr "ggz-gtk"
 
-#~ msgid "A language for statistical computing"
-#~ msgstr "一种统计计算语言"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "Ia Ora Free"
-#~ msgstr "Ia Ora Free"
 
-#~ msgid "Mandriva Screensaver"
-#~ msgstr "Mandriva 屏幕保护程序"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "一个由跳动的颜色组成的流行艺术栅格"
 
-#~ msgid "Pop art squares"
-#~ msgstr "流行艺术方块"
 
-#~ msgid "Ia Ora Blue"
-#~ msgstr "Ia Ora 蓝色"
 
-#~ msgid "Ia Ora"
-#~ msgstr "Ia Ora"
 
-#~ msgid "Ia Ora Gray"
-#~ msgstr "Ia Ora 灰色"
 
-#~ msgid "Ia Ora One"
-#~ msgstr "Ia Ora One"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "用 F-Spot 显示幻灯片"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "F-Spot 照片"
 
-#~ msgid "Ia Ora Orange"
-#~ msgstr "Ia Ora 橙色"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "显示您图片文件夹中图片的幻灯片"
 
-#~ msgid "Pictures folder"
-#~ msgstr "图片文件夹"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "在屏幕上如泡泡一样浮动 GNOME 脚徽标"
 
-#~ msgid "Floating Feet"
-#~ msgstr "浮动的脚"
 
-#~ msgid "Cosmos"
-#~ msgstr "宇宙"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "显示一组宇宙图片的幻灯片"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr "浏览可从本计算机访问的所有本地和远程磁盘和文件夹"
 
-#~ msgid "Computer"
-#~ msgstr "计算机"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in English"
-#~ msgstr "Mandriva Linux 快速入门指南(英语)"
 
-#~ msgid "A graphical front end for browsing installed & available packages"
-#~ msgstr "浏览已安装和可安装软件的图形化工具"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "浏览可安装的软件"
 
-#~ msgid "Convert HTML files to PDF or PostScript"
-#~ msgstr "将 HTML 文件转换为 PDF 或 PostScript"
 
-#~ msgid "HTMLDoc"
-#~ msgstr "HTMLDoc 文档"
 
-#~ msgid "Bittorrent Checker"
-#~ msgstr "BitTorrent 检查器"
 
-#~ msgid "Mandriva Linux Bittorrent checker"
-#~ msgstr "Mandriva Linux Bittorrent 检查器"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "TeX document processor - especially good at scientific documents"
-#~ msgstr "TeX 文档处理 - 特别适合科技文档编辑"
 
-#~ msgid "Interactive C# Shell"
-#~ msgstr "交互式 C# Shell"
 
-#~ msgid ""
-#~ "Write C# in an interactive shell, and inject your code into running Mono "
-#~ "processes"
-#~ msgstr "在交互式 Shell 中编写 C#，并将您的代码在 Mono 进程中检查"
 
-#~ msgid "gsharp"
-#~ msgstr "gsharp"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "在您的桌面上显示地球"
 
-#~ msgid "Xearth"
-#~ msgstr "X 地球仪"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "浏览并管理您的书签"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Epiphany Web 书签"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Web 书签"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 斯洛文尼亚文"
 
-#~ msgid "Howto Slovenian"
-#~ msgstr "斯洛文尼亚文 Howto"
 
-#~ msgid "An SSL web-based administration interface for Unix systems"
-#~ msgstr "Unix 系统下基于 Web 的SSL 管理界面"
 
-#~ msgid "webmin"
-#~ msgstr "Webmin"
 
-#~ msgid "Menu Style Configuration"
-#~ msgstr "菜单样式配置"
 
-#~ msgid "Play a classic 2D platform game"
-#~ msgstr "玩经典的 2D 游戏"
 
-#~ msgid "SuperTux 2"
-#~ msgstr "超级企鹅 2"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "动作与解谜游戏"
 
-#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
-#~ msgstr "淘金、避敌，以及解谜"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "K 金牌选手"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "菜单更新工具"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "KDiamond"
-#~ msgstr "KDiamond"
 
-#~ msgid "Three-in-a-row game"
-#~ msgstr "三子连线棋游戏"
 
-#~ msgid "KSnake"
-#~ msgstr "KSnake"
 
-#~ msgid "Snake-like Game"
-#~ msgstr "类似贪吃蛇的游戏"
 
-#~ msgid "Disk writing program"
-#~ msgstr "CD 刻录程序"
 
-#~ msgid "K3b"
-#~ msgstr "K3b 光盘刻录"
 
-#~ msgid "Color Chooser"
-#~ msgstr "颜色选择程序"
 
-#~ msgid "KColorChooser"
-#~ msgstr "K 颜色选择器"
 
-#~ msgid "A KDE Blogging Client"
-#~ msgstr "KDE 的博客客户端"
 
-#~ msgid "Blogilo"
-#~ msgstr "Blogilo"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "KDE 元素周期表"
 
-#~ msgid "Kalzium"
-#~ msgstr "K 元素周期表"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "元素周期表"
 
-#~ msgid "Hangman Game"
-#~ msgstr "吊颈人游戏"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "KDE 吊颈人游戏"
 
-#~ msgid "KHangMan"
-#~ msgstr "K 猜字母"
 
-#~ msgid "Contact Manager"
-#~ msgstr "联系人管理器"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "K 照片相册"
 
-#~ msgid "Photo Album"
-#~ msgstr "照片相册"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "一个简单的图像查看器"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Kiriki"
-#~ msgstr "Kiriki"
 
-#~ msgid "Yahtzee-like Dice Game"
-#~ msgstr "快艇骰子游戏"
 
-#~ msgid "KUser"
-#~ msgstr "K 用户管理"
 
-#~ msgid "User Manager"
-#~ msgstr "用户管理程序"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "K 跳动方块"
 
-#~ msgid "Territory Capture Game"
-#~ msgstr "版块占领游戏"
 
-#~ msgid "Galactic Strategy Game"
-#~ msgstr "银河系策略游戏"
 
-#~ msgid "Konquest"
-#~ msgstr "K 星际帝国"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "Flash 卡片和词汇学习程序"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "卡片式训练程序"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "K 开心词典"
 
-#~ msgid "Kontact Administration"
-#~ msgstr "Kontact 管理"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - 重新感知您的音乐！"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "CVS 前端"
 
-#~ msgid "Cervisia"
-#~ msgstr "CVS 工具"
 
-#~ msgid "KRuler"
-#~ msgstr "K 标尺"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "屏幕标尺"
 
-#~ msgid "KSnapshot"
-#~ msgstr "K 抓屏"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "屏幕截图程序"
 
-#~ msgid "Character Selector"
-#~ msgstr "字符选择器"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror 浏览器"
 
-#~ msgid "KLettres"
-#~ msgstr "K 认字母"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "学习字母"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "帮助学习字母表的 KDE 程序"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "SMB 共享浏览器"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "日历和日程安排程序"
 
-#~ msgid "KOrganizer"
-#~ msgstr "K 日程安排"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "个人日程安排"
 
-#~ msgid "Home"
-#~ msgstr "主文件夹"
 
-#~ msgid "Personal Files"
-#~ msgstr "个人文件"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel 空间决斗"
 
-#~ msgid "Space Arcade Game"
-#~ msgstr "空间街机游戏"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "KDE 的RSS 种子阅读器"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "RSS 种子阅读器"
 
-#~ msgid "KTouch"
-#~ msgstr "K 打字练习"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "HTML 图像映射编辑器"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "K 图像映射编辑器"
 
-#~ msgid "KBlocks"
-#~ msgstr "KBlocks"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "K 链接状态"
 
-#~ msgid "Link Checker"
-#~ msgstr "链接检查器"
 
-#~ msgid "KJots"
-#~ msgstr "K 记事本"
 
-#~ msgid "Note Taker"
-#~ msgstr "笔记记录"
 
-#~ msgid "KMouth"
-#~ msgstr "K 语音精灵"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "语音合成器前端"
 
-#~ msgid "Konversation"
-#~ msgstr "Konversation"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "桌面养眼引擎。"
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Picture Game for Children"
-#~ msgstr "孩子们的游戏"
 
-#~ msgid "Potato Guy"
-#~ msgstr "土豆小子"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "剪贴历史工具"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "剪贴板工具"
 
-#~ msgid "Klipper"
-#~ msgstr "K 剪贴板"
 
-#~ msgid "Battleship Game"
-#~ msgstr "战舰游戏"
 
-#~ msgid "KBattleship"
-#~ msgstr "K 战舰游戏"
 
-#~ msgid "Go Board Game"
-#~ msgstr "围棋游戏"
 
-#~ msgid "Kigo"
-#~ msgstr "Kigo"
 
-#~ msgid "Card Game"
-#~ msgstr "牌类游戏"
 
-#~ msgid "LSkat"
-#~ msgstr "LSkat"
 
-#~ msgid "CD Player"
-#~ msgstr "CD 播放机"
 
-#~ msgid "KsCD"
-#~ msgstr "K CD 机"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "使用开源软件的力量管理您的照片"
 
-#~ msgid "Photo Viewer and Editor"
-#~ msgstr "照片查看器和编辑器"
 
-#~ msgid "showFoto"
-#~ msgstr "照片查看"
 
-#~ msgid "Arcade Bombing Game"
-#~ msgstr "街机上的投弹游戏"
 
-#~ msgid "Bomber"
-#~ msgstr "投弹者"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "炸弹人游戏复刻"
 
-#~ msgid "Granatier"
-#~ msgstr "Granatier"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "图形计算器"
 
-#~ msgid "KAlgebra"
-#~ msgstr "K 几何"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "解数学式与绘图的工具"
 
-#~ msgid "Qt Designer UI File Viewer"
-#~ msgstr "Qt 设计师 UI 文件查看器"
 
-#~ msgid "3-D Game based on Rubik's Cube"
-#~ msgstr "三维魔方游戏"
 
-#~ msgid "A 3-D game based on Rubik's Cube"
-#~ msgstr "一个三维魔方游戏"
 
-#~ msgid "Kubrick"
-#~ msgstr "Kubrick"
 
-#~ msgid "KAppTemplate"
-#~ msgstr "KAppTemplate"
 
-#~ msgid "KDE Template Generator"
-#~ msgstr "KDE 模板生成器"
 
-#~ msgid "Certificate Manager and Unified Crypto GUI"
-#~ msgstr "证书管理器和统一加密用户图形界面"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "桌面共享"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KsirK Skin Editor"
-#~ msgstr "KsirK 皮肤编辑器"
 
-#~ msgid "Skin Editor for the World Domination Strategy Game"
-#~ msgstr "世界支配战略游戏的皮肤编辑器"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "KDE 群件向导"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "连连看"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "类似连连看的麻将游戏"
 
-#~ msgid "Desktop Search"
-#~ msgstr "桌面搜索"
 
-#~ msgid "Nepomuk Search Client"
-#~ msgstr "Nepomuk 搜索客户端"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "记忆强化游戏"
 
-#~ msgid "Blinken"
-#~ msgstr "Blinken"
 
-#~ msgid "Memory Enhancement Game"
-#~ msgstr "记忆强化游戏"
 
-#~ msgid "KSudoku"
-#~ msgstr "K 数独"
 
-#~ msgid "KSudoku, Sudoku game & more for KDE"
-#~ msgstr "KSudoku，KDE 下的增强型数独游戏"
 
-#~ msgid "Sudoku Game"
-#~ msgstr "数独游戏"
 
-#~ msgid "Graph Theory Tool for Professors and Students."
-#~ msgstr "面向授课场合的图形理论工具。"
 
-#~ msgid "Rocs"
-#~ msgstr "Rocs"
 
-#~ msgid "Rocs Graph Theory"
-#~ msgstr "Rocs 图形理论"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "GnuPG 前端"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "加密工具"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "X 屏幕重定义大小和重定义方向的面板小程序"
 
-#~ msgid "KRandRTray"
-#~ msgstr "K 分辨率"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "屏幕大小和旋转"
 
-#~ msgid "KMail"
-#~ msgstr "K 电子邮件"
 
-#~ msgid "Mail Client"
-#~ msgstr "邮件客户程序"
 
-#~ msgid "KMahjongg"
-#~ msgstr "K 对对碰"
 
-#~ msgid "Mahjongg Solitaire"
-#~ msgstr "麻将纸牌"
 
-#~ msgid "Konsole"
-#~ msgstr "K 控制台"
 
-#~ msgid "KReversi"
-#~ msgstr "K 翻转棋"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "翻转棋"
 
-#~ msgid "Killbots"
-#~ msgstr "Killbots"
 
-#~ msgid "KMail view"
-#~ msgstr "KMail 视图"
 
-#~ msgid "KCalc"
-#~ msgstr "K 计算器"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "科学计算器"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Diff/Patch 前端"
 
-#~ msgid "Kompare"
-#~ msgstr "K 文件比较"
 
-#~ msgid "KMag"
-#~ msgstr "K 放大镜"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "屏幕放大镜"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "倒计时"
 
-#~ msgid "KTimer"
-#~ msgstr "K 计时器"
 
-#~ msgid "Snippets datafile editor"
-#~ msgstr "代码片段数据文件编辑器"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "网络文件夹向导"
 
-#~ msgid "UML Modeller"
-#~ msgstr "UML 建模工具"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "Blackbox 逻辑游戏"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox 黑匣子游戏"
 
-#~ msgid "Kdenlive"
-#~ msgstr "K 视频编缉"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "KDE 的非线性视频编辑器"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic 原子游戏"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "类似推箱子的逻辑游戏"
 
-#~ msgid "KPatience"
-#~ msgstr "KPatience"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "考验耐心的牌类游戏"
 
-#~ msgid "Kontact"
-#~ msgstr "K 个人信息管理"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "个人信息管理器"
 
-#~ msgid "Desktop Globe"
-#~ msgstr "桌面地球仪"
 
-#~ msgid "Marble"
-#~ msgstr "Marble"
 
-#~ msgid "Bovo"
-#~ msgstr "Bovo"
 
-#~ msgid "Five-in-a-row Board Game"
-#~ msgstr "五子棋游戏"
 
-#~ msgid "Annotate..."
-#~ msgstr "批注..."
 
-#~ msgid "AMOR"
-#~ msgstr "阿莫(AMOR)"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "屏幕涂鸦"
 
-#~ msgid "Parley"
-#~ msgstr "Parley"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "单词练习"
 
-#~ msgid "Font Viewer"
-#~ msgstr "字体查看器"
 
-#~ msgid "KFontView"
-#~ msgstr "字体预览"
 
-#~ msgid "Function Plotter"
-#~ msgstr "函数绘图程序"
 
-#~ msgid "KmPlot"
-#~ msgstr "K 函数作图"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "数学函数绘图器"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "Internet 拨号工具"
 
-#~ msgid "KPPP"
-#~ msgstr "K PPP 拨号程序"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "集成开发环境"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "KDevelop 4"
 
-#~ msgid "Breakout-like Game"
-#~ msgstr "挡板弹球游戏"
 
-#~ msgid "KBreakOut"
-#~ msgstr "KBreakOut"
 
-#~ msgid "System Information"
-#~ msgstr "系统信息"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "桌面天文馆"
 
-#~ msgid "KStars"
-#~ msgstr "K 观星"
 
-#~ msgid "CD Cover Printer"
-#~ msgstr "CD 封面打印程序"
 
-#~ msgid "Kover"
-#~ msgstr "K 光盘封面"
 
-#~ msgid "Four-in-a-row Board Game"
-#~ msgstr "四子连珠游戏"
 
-#~ msgid "KFourInLine"
-#~ msgstr "KFourInLine"
 
-#~ msgid "KNetWalk"
-#~ msgstr "kNetwalk"
 
-#~ msgid "KolourPaint"
-#~ msgstr "K 画笔"
 
-#~ msgid "Paint Program"
-#~ msgstr "绘图程序"
 
-#~ msgid "KAlarm"
-#~ msgstr "K 提醒"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "个人日程提醒"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "钱包管理工具"
 
-#~ msgid "Eat pills escaping ghosts"
-#~ msgstr "逃脱精灵吃豆子"
 
-#~ msgid "Kapman"
-#~ msgstr "Kapman"
 
-#~ msgid "Pac-Man Clone"
-#~ msgstr "Pac-Man 克隆"
 
-#~ msgid "KRemoteControl Notifier Item"
-#~ msgstr "KRemoteControl 通知项"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "Tron-like Game"
-#~ msgstr "类似 Tron 的游戏"
 
-#~ msgid "KDiskFree"
-#~ msgstr "K 磁盘空间"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "查看磁盘使用状况"
 
-#~ msgid "Kopete"
-#~ msgstr "K 即时信使"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "一个 KDE 的 BitTorrent 程序"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "BitTorrent 客户端"
 
-#~ msgid "KTorrent"
-#~ msgstr "KTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "K 缓存"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "个性数据前端"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "性能个性数据的可视化表现"
 
-#~ msgid "Download Manager"
-#~ msgstr "下载管理器"
 
-#~ msgid "KGet"
-#~ msgstr "K 下载"
 
-#~ msgid "Kajongg"
-#~ msgstr "Kajongg"
 
-#~ msgid "Mah Jongg"
-#~ msgstr "麻将"
 
-#~ msgid "The ancient Chinese board game for 4 players"
-#~ msgstr "中国传统的四人桌上游戏"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "地理学习程序"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "地理老师"
 
-#~ msgid "KGeography"
-#~ msgstr "K 地理"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "K 彩色连线"
 
-#~ msgid "Tactical Game"
-#~ msgstr "战术游戏"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "分数练习"
 
-#~ msgid "KBruch"
-#~ msgstr "K 分数"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "练习分数"
 
-#~ msgid "Computer-Aided Translation System"
-#~ msgstr "计算机辅助翻译系统"
 
-#~ msgid "Lokalize"
-#~ msgstr "Lokalize"
 
-#~ msgid "Info Center"
-#~ msgstr "信息中心"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KDE 信息中心"
 
-#~ msgid "KTeaTime"
-#~ msgstr "K 泡茶器"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "煮茶器"
 
-#~ msgid "Change Password"
-#~ msgstr "更改密码"
 
-#~ msgid "Connect the dots to create squares"
-#~ msgstr "通过点连接创建方形"
 
-#~ msgid "KSquares"
-#~ msgstr "KSquares"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "控制台日历"
 
-#~ msgid "KsirK"
-#~ msgstr "KsirK"
 
-#~ msgid "World Domination Strategy Game"
-#~ msgstr "世界支配战略游戏"
 
-#~ msgid "Cantor"
-#~ msgstr "Cantor"
 
-#~ msgid "KDE Frontend to Mathematical Software"
-#~ msgstr "数学软件的 KDE 前端"
 
-#~ msgid "Jigsaw puzzle game"
-#~ msgstr "拼图游戏"
 
-#~ msgid "Palapeli"
-#~ msgstr "Palapeli"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "日语参考/学习工具"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "日语参考/学习工具"
 
-#~ msgid "Kiten"
-#~ msgstr "K 日语词典"
 
-#~ msgid "KMix"
-#~ msgstr "K 混音器"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "混音器"
 
-#~ msgid "KBugBuster"
-#~ msgstr "K 错误管理"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "KDE 除错管理"
 
-#~ msgid "Welcome"
-#~ msgstr "欢迎"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "书签编辑器"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "书签组织和编辑器"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "配置您的桌面"
 
-#~ msgid "KFileReplace"
-#~ msgstr "K 文件替换"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "搜索替换工具"
 
-#~ msgid "Akonadi Tray Utility"
-#~ msgstr "Akonadi 托盘工具"
 
-#~ msgid "Akonaditray"
-#~ msgstr "Akonadi 托盘"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "微型高尔夫"
 
-#~ msgid "KWalletManager"
-#~ msgstr "K 钱包管理器"
 
-#~ msgid "Distributed IRC client with central core component"
-#~ msgstr "带有中央核心组件的分布式 IRC 客户端"
 
-#~ msgid "Quassel IRC"
-#~ msgstr "Quassel IRC"
 
-#~ msgid "A Subversion client for KDE"
-#~ msgstr "KDE 的 Subversion 客户端"
 
-#~ msgid "SVN client"
-#~ msgstr "SVN 客户端"
 
-#~ msgid "kdesvn"
-#~ msgstr "kdesvn"
 
-#~ msgid "KwikDisk"
-#~ msgstr "K 挂卸磁盘"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "可移动介质工具"
 
-#~ msgid "Ball Bouncing Game"
-#~ msgstr "弹球游戏"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce 弹球游戏"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "自动鼠标点击"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "为您点击鼠标，减轻肢体重复性劳损(RSI)效应"
 
-#~ msgid "KMouseTool"
-#~ msgstr "K 鼠标工具"
 
-#~ msgid "Quassel IRC (Client only)"
-#~ msgstr "Quassel IRC (仅仅包含客户端)"
 
-#~ msgid "Sweeper"
-#~ msgstr "清理器"
 
-#~ msgid "System Cleaner"
-#~ msgstr "系统清理器"
 
-#~ msgid "Contains removed files"
-#~ msgstr "包含删除的文件"
 
-#~ msgid "Trash"
-#~ msgstr "回收站"
 
-#~ msgid "KMines"
-#~ msgstr "K 扫雷"
 
-#~ msgid "Minesweeper-like Game"
-#~ msgstr "扫雷"
 
-#~ msgid "Board Game"
-#~ msgstr "棋类游戏"
 
-#~ msgid "SameGame"
-#~ msgstr "SameGame"
 
-#~ msgid "KWrite"
-#~ msgstr "K 写字板"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "相片管理程序"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "高级文本编辑器"
 
-#~ msgid "Kate"
-#~ msgstr "K 小型字处理器"
 
-#~ msgid "Hex Editor"
-#~ msgstr "十六进制编辑器"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "DBPedia References"
-#~ msgstr "DBPedia 参考"
 
-#~ msgid "KNode"
-#~ msgstr "K 新闻组阅读工具"
 
-#~ msgid "News Reader"
-#~ msgstr "新闻阅读器"
 
-#~ msgid "Interactive Physical Simulator"
-#~ msgstr "交互式物理模拟器"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "物理实验模拟"
 
-#~ msgid "Step"
-#~ msgstr "Step"
 
-#~ msgid "Menu Editor"
-#~ msgstr "菜单编辑器"
 
-#~ msgid "KDE Bluetooth"
-#~ msgstr "KDE 蓝牙"
 
-#~ msgid "kbluetooth"
-#~ msgstr "kbluetooth"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "音乐播放器"
 
-#~ msgid "KTimeTracker"
-#~ msgstr "K 时间表"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "个人时间记录"
 
-#~ msgid "Akonadi Console"
-#~ msgstr "Akonadi 控制台"
 
-#~ msgid "Akonadi Management and Debugging Console"
-#~ msgstr "用于管理和调试 Akonadi 的控制台"
 
-#~ msgid "KRDC"
-#~ msgstr "KRDC"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "远程桌面客户端"
 
-#~ msgid "IRKick"
-#~ msgstr "IRKick"
 
-#~ msgid "KDE LIRC Server"
-#~ msgstr "KDE LIRC 服务"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "KDE Linux 红外远程控制服务。"
 
-#~ msgid "KSystemLog"
-#~ msgstr "K 系统日志"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "系统日志查看器"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "系统日志查看工具"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "教育编程环境"
 
-#~ msgid "KTurtle"
-#~ msgstr "K 海龟"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "查找文件/文件夹"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "Internet 拨号工具日志查看器"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPP 记录查看器"
 
-#~ msgid "A simple ball dodging game"
-#~ msgstr "一个简单的躲避球游戏"
 
-#~ msgid "Kollision"
-#~ msgstr "Kollision"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "探索几何图形"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "交互几何"
 
-#~ msgid "Kig"
-#~ msgstr "K 几何"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "文件管理器 - 超级用户模式"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "KDE 字母顺序游戏"
 
-#~ msgid "Kanagram"
-#~ msgstr "K 猜字母"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "字母顺序游戏"
 
-#~ msgid "KNotes"
-#~ msgstr "K 便利贴"
 
-#~ msgid "Popup Notes"
-#~ msgstr "弹出式记事本"
 
-#~ msgid "KDE SVN Build"
-#~ msgstr "KDE SVN 构建"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "软盘格式化程序"
 
-#~ msgid "KFloppy"
-#~ msgstr "K 软盘"
 
-#~ msgid "Dragon Player"
-#~ msgstr "Dragon 播放器"
 
-#~ msgid "Configure email accounts"
-#~ msgstr "配置电子邮件账户"
 
-#~ msgid "Email Settings"
-#~ msgstr "电子邮件设置"
 
-#~ msgid "About Mandriva"
-#~ msgstr "关于 Mandriva"
 
-#~ msgid "More about Mandriva"
-#~ msgstr "关于 Mandriva 的更多内容"
 
-#~ msgid "Anthy Dictionary editor"
-#~ msgstr "Anthy 字典编辑器"
 
-#~ msgid "Edit Anthy dictionary."
-#~ msgstr "编辑 Anthy 字典。"
 
-#~ msgid "Management tool for a private dictionary of anthy"
-#~ msgstr "管理 anthy 个人字典的工具"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "为命令指定快捷键"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "键盘快捷键"
 
-#~ msgid "Add urpmi media"
-#~ msgstr "添加自定义介质"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Mandriva Linux Pxelinux configurator"
-#~ msgstr "Mandriva Linux Pxelinux 配置程序"
 
-#~ msgid "Network traffic analyzer (root user)"
-#~ msgstr "网络流量分析器（root 用户）"
 
-#~ msgid "Wireshark (root user)"
-#~ msgstr "Wireshark(root 用户)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 意大利文"
 
-#~ msgid "Howto Italian"
-#~ msgstr "意大利文 Howto"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 韩文"
 
-#~ msgid "Howto Korean"
-#~ msgstr "韩文 Howto"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "看电视用的程序"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "GNU Prolog is a free implementation of Prolog"
-#~ msgstr "GNU Prolog 是一个自由的 Prolog 执行工具"
 
-#~ msgid "HP Device Manager"
-#~ msgstr "惠普设备管理器"
 
-#~ msgid "View device status, ink levels and perform maintenance."
-#~ msgstr "查看设备状态、墨水余量并执行维护。"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "图形化数据探测器"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr "使用 Impress 创建并编辑幻灯片、会议和网页中使用的演示文稿。"
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org 幻灯片"
 
-#~ msgid "Qt interface designer"
-#~ msgstr "Qt 界面设计程序"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "使用 Math 创建并编辑科学公式和方程式。"
 
-#~ msgid "Formula"
-#~ msgstr "公式"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org 数学"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "调整音量"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "PulseAudio 音量控制"
 
-#~ msgid "Aumix"
-#~ msgstr "音量控制"
 
-#~ msgid "Basic volume controller"
-#~ msgstr "基本音量控制"
 
-#~ msgid "JRXvt (JIS)  "
-#~ msgstr "日文终端"
 
-#~ msgid "Japanese rxvt terminal  "
-#~ msgstr "日文终端(JIS)"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "配置数据库环境"
 
-#~ msgid "Database Access Properties"
-#~ msgstr "数据库访问属性"
 
-#~ msgid "Linphone"
-#~ msgstr "Linphone"
 
-#~ msgid "Linphone is a web-phone"
-#~ msgstr "一款 Web 电话"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "启用/禁用已安装的插件"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "键盘指示器插件"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "基于 Envy24(ice1712)声卡的控制工具"
 
-#~ msgid "Envy24control"
-#~ msgstr "Envy24control"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 日文"
 
-#~ msgid "Howto Japanese"
-#~ msgstr "日文 Howto"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "多人 3D 坦克大战"
 
-#~ msgid "BZflag"
-#~ msgstr "坦克大战"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "更改音量以及将声音与事件关联"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in French"
-#~ msgstr "Mandriva Linux DrakXTools 用户手册(法语)"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "选择其他用户如何从远程查看您的桌面"
 
-#~ msgid "Remote Desktop"
-#~ msgstr "远程桌面"
 
-#~ msgid "Screensaver"
-#~ msgstr "屏幕保护程序"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "设定您的屏幕保护程序首选项"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "为每个人准备的自由、轻松的个人帐目管理工具"
 
-#~ msgid "HomeBank"
-#~ msgstr "HomeBank"
 
-#~ msgid "Open Folder"
-#~ msgstr "打开文件夹"
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "在系统中安装选定的软件"
 
-#~ msgid "Package Installer"
-#~ msgstr "软件包安装程序"
 
-#~ msgid "An Applet for Quick Device Changing"
-#~ msgstr "一个快速设备切换的小程序"
 
-#~ msgid "Device Chooser"
-#~ msgstr "设备选择器"
 
-#~ msgid "PulseAudio Device Chooser"
-#~ msgstr "PulseAudio 设备选择器"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "多人谜题游戏"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "数独"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "通过这个数字格子谜游戏测试您的逻辑能力"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in Brazilian Portuguese"
-#~ msgstr "Mandriva Linux 快速入门指南(巴西葡萄牙语)"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "使用 BitTorrent 下载和共享文件"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "日志文件查看器"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "查看或监视系统日志文件"
 
-#~ msgid "System Regional Settings"
-#~ msgstr "系统区域设置"
 
-#~ msgid "System wide language & country configurator"
-#~ msgstr "系统级语言和国家配置"
 
-#~ msgid "Network Proxy"
-#~ msgstr "网络代理"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "设置您的网络代理首选项"
 
-#~ msgid "Mail and News Client"
-#~ msgstr "邮件和新闻客户程序"
 
-#~ msgid "Mail/News"
-#~ msgstr "邮件/新闻"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird 电子邮件"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LX 终端"
 
-#~ msgid "Use the command line"
-#~ msgstr "使用命令行"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Hider"
-#~ msgstr "利盟 Lexmark 5xxx, 7xxx and 11xx 色带隐藏器"
 
-#~ msgid "Lexmark hidecartridges"
-#~ msgstr "利盟色带隐藏器"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "选择登录时要启动的应用程序"
 
-#~ msgid "Startup Applications"
-#~ msgstr "启动应用程序"
 
-#~ msgid "A manual browser for Qt4 documentation"
-#~ msgstr "Qt4 文档浏览器"
 
-#~ msgid "Qt4 Assistant"
-#~ msgstr "Qt4 助手"
 
-#~ msgid "Preview fonts"
-#~ msgstr "预览字体"
 
-#~ msgid "Electrical engineering tool"
-#~ msgstr "电子工程工具"
 
-#~ msgid "Oregano electrical engineering tool"
-#~ msgstr "Oregano 电子工程工具"
 
-#~ msgid "Schematic capture and simulation of electronic circuits"
-#~ msgstr "模拟电路的示范性的抓取和模拟"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "扫除雷区里的隐藏的地雷"
 
-#~ msgid "Mines"
-#~ msgstr "扫雷"
 
-#~ msgid "Assembly Comparison Tool"
-#~ msgstr "汇编比较工具"
 
-#~ msgid "Identify differences in the API exposed by mono library assemblies."
-#~ msgstr "比较由 mono 库的汇编出的 API 中的区别"
 
-#~ msgid "Mono IL Contrast"
-#~ msgstr "Mono IL 对比"
 
-#~ msgid "Codeina"
-#~ msgstr "Codeina"
 
-#~ msgid "Gstreamer Codec Installer"
-#~ msgstr "Gstreamer 解码器安装程序"
 
-#~ msgid "Record sound clips"
-#~ msgstr "录制声音剪辑"
 
-#~ msgid "Gnome Audio CD editor and burner"
-#~ msgstr "Gnome 音频 CD 编辑器和刻录机"
 
-#~ msgid "Gnome CD Master"
-#~ msgstr "GNOME CD 王"
 
-#~ msgid "Set your window properties"
-#~ msgstr "设定您的窗口属性"
 
-#~ msgid "Windows"
-#~ msgstr "窗口"
 
-#~ msgid "HDSPConf"
-#~ msgstr "HDSPConf"
 
-#~ msgid "Hammerfall DSP control application"
-#~ msgstr "Hammerfall DSP 控制程序"
 
-#~ msgid "Frozen Bubble"
-#~ msgstr "泡泡龙"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "泡泡龙积分游戏"
 
-#~ msgid "Configure power management"
-#~ msgstr "配置电源管理"
 
-#~ msgid "Power Management"
-#~ msgstr "电源管理"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "AisleRiot 纸牌"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "玩多种不同的纸牌游戏"
 
-#~ msgid "Notepad"
-#~ msgstr "记事本"
 
-#~ msgid "DjView3"
-#~ msgstr "DjView3"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "DjVu 查看器"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "添加或删除用户/组"
 
-#~ msgid "User Administration"
-#~ msgstr "用户管理"
 
-#~ msgid "Browse the Web"
-#~ msgstr "浏览 Web"
 
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Firefox Web 浏览器"
 
-#~ msgid "A translation tool for Qt4"
-#~ msgstr "Qt4 的翻译工具"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Qt 语言家"
 
-#~ msgid "KRXvt (KSC5601)  "
-#~ msgstr "韩文终端"
 
-#~ msgid "Korean rxvt terminal  "
-#~ msgstr "韩文终端(KSC 5601)"
 
-#~ msgid "Note-taker"
-#~ msgstr "笔记本"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "记录笔记，链接想法，良好的组织"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "阿帖便笺"
 
-#~ msgid "Archive Manager"
-#~ msgstr "归档管理器"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "创建并修改归档文件"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "取消，暂停，恢复或者重新打印任务"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "管理打印任务"
 
-#~ msgid "Create and edit Web pages by using Writer."
-#~ msgstr "使用 Writer 创建并编辑网页。"
 
-#~ msgid "OpenOffice.org Writer/Web"
-#~ msgstr "OpenOffice.org Writer/Web"
 
-#~ msgid "Web Page Creation"
-#~ msgstr "网页创建"
 
-#~ msgid "Configure Desktop Search"
-#~ msgstr "配置桌面搜索"
 
-#~ msgid "Search & Indexing"
-#~ msgstr "搜索和索引"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "在您的计算机上查找文件、文件夹和文档"
 
-#~ msgid "About GNOME"
-#~ msgstr "关于 GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "关于 GNOME 的更多内容"
 
-#~ msgid "A QT application to configure Synaptics TouchPad"
-#~ msgstr "配置 Synaptics 触摸板的 QT 应用程序"
 
-#~ msgid "Qsynaptics"
-#~ msgstr "Qt 触摸板配置"
 
-#~ msgid "Manage running processes"
-#~ msgstr "管理运行中的进程"
 
-#~ msgid "Process manager"
-#~ msgstr "进程管理器"
 
-#~ msgid "Task Manager"
-#~ msgstr "任务管理器"
 
-#~ msgid "ImageMagick"
-#~ msgstr "ImageMagick"
 
-#~ msgid "Views Graphics files"
-#~ msgstr "查看图像文件"
 
-#~ msgid "Blender"
-#~ msgstr "Blender 3D 创建工具"
 
-#~ msgid "The free open source 3D content creation suite"
-#~ msgstr "自由的开源三维建模套件"
 
-#~ msgid "Calculation, Analysis, and Visualization of Information"
-#~ msgstr "计算、分析信息并将其可视化"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "FLTK Photo Software"
-#~ msgstr "FLTK 照片处理软件"
 
-#~ msgid "flPhoto"
-#~ msgstr "flPhoto 照片处理"
 
-#~ msgid "Command Line"
-#~ msgstr "命令行"
 
-#~ msgid "Keyboard"
-#~ msgstr "键盘"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "设置键盘首选项"
 
-#~ msgid "XGPS"
-#~ msgstr "XGPS"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "移除匹配的牌对以拆除牌堆"
 
-#~ msgid "Mahjongg"
-#~ msgstr "对对碰"
 
-#~ msgid "Graphical interface to CVS and SVN"
-#~ msgstr "CVS 和 SVN 的图形界面"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid "Avahi Zeroconf Browser"
-#~ msgstr "Avahi Zeroconf 浏览器"
 
-#~ msgid "Browse for Zeroconf services available on your network"
-#~ msgstr "浏览您网络中可用的 Zeroconf 服务"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 匈牙利文"
 
-#~ msgid "Howto Hungarian"
-#~ msgstr "匈牙利文 Howto"
 
-#~ msgid "Mouse"
-#~ msgstr "鼠标"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "设置鼠标首选项"
 
-#~ msgid "Cheese"
-#~ msgstr "茄子"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "使用摄像头拍照或录像，并加上有趣的图像效果"
 
-#~ msgid "Setup utility for gcin input method"
-#~ msgstr "gcin 设置工具"
 
-#~ msgid "gcin Setup"
-#~ msgstr "gcin 输入法设置"
 
-#~ msgid "Avahi SSH Server Browser"
-#~ msgstr "Avahi SSH 服务器浏览器"
 
-#~ msgid "Browse for Zeroconf-enabled SSH Servers"
-#~ msgstr "浏览启用了 Zeroconf 的 SSH 服务器"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "在一个经典版本的 Reversi 中占领盘面"
 
-#~ msgid "Iagno"
-#~ msgstr "翻转棋"
 
-#~ msgid "Install your Mandriva live system to disk"
-#~ msgstr "将 Mandriva live 系统安装到磁盘"
 
-#~ msgid "Live Install"
-#~ msgstr "Live 安装"
 
-#~ msgid "GNOME MDB Viewer"
-#~ msgstr "GNOME MDB 查看器"
 
-#~ msgid "Gmdb"
-#~ msgstr "Gmdb"
 
-#~ msgid "Add or remove software installed on the system"
-#~ msgstr "添加或删除本系统中安装的软件"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "添加/删除软件"
 
-#~ msgid "Software Update"
-#~ msgstr "软件更新"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "更新本系统中安装的软件"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "图形化安装 RPM 软件包"
 
-#~ msgid "Software Installer"
-#~ msgstr "软件安装程序"
 
-#~ msgid "ChBg"
-#~ msgstr "修改背景与屏幕保护"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - 管理桌面背景、自动切换、屏幕保护"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in French"
-#~ msgstr "Mandriva Linux 快速入门指南(法语)"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "老游戏 Tower Toppler 和 Nebulous 的重新实现版本"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "监控电源管理"
 
-#~ msgid "Power Statistics"
-#~ msgstr "电源统计"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr "使用 Writer 创建并编辑信函、报表、文档和网页中的文本和图形。"
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org 字处理"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "四子连线"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "将四粒棋子排成直线以取胜"
 
-#~ msgid "Database"
-#~ msgstr "数据库"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr "使用 Base 管理数据库并创建查询和报表，以对信息进行跟踪和管理。"
 
-#~ msgid "OpenOffice.org Base"
-#~ msgstr "OpenOffice.org Base"
 
-#~ msgid "Project Hamster - track your time"
-#~ msgstr "Hamster 项目 - 跟踪您的时间"
 
-#~ msgid "Time Tracker"
-#~ msgstr "时间跟踪器"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "不使用键盘输入文本"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "预测型文本输入"
 
-#~ msgid "Lexmark printer manager"
-#~ msgstr "利盟打印机管理器"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Freeciv（文明）游戏服务器"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "专业 CAD 系统"
 
-#~ msgid "Qcad"
-#~ msgstr "Qcad"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "GNOME 配置工具"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "Pan 新闻阅读器"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "阅读 Usenet 上的新闻"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "执行算术、科学或金融计算"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "更改文件管理器窗口的行为和外观"
 
-#~ msgid "File Management"
-#~ msgstr "文件管理"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "X 窗口系统模拟终端"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm 终端"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "nmap 端口扫描程序前端"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "Qt Assistant - 3"
-#~ msgstr "Qt 助手 - 3"
 
-#~ msgid "Tool for translating message catalogues of Qt based programs"
-#~ msgstr "翻译基于 Qt 的程序所用的消息库"
 
-#~ msgid "ODBC Configuration Tool"
-#~ msgstr "CDDB 配置工具"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig ODBC 配置"
 
-#~ msgid "Planner Project Management"
-#~ msgstr "Planner 项目管理"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Ekiga 软电话"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP 通话、VoIP 和视频会议"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "通过互联网和朋友谈话"
 
-#~ msgid "CPU load indicator"
-#~ msgstr "CPU 负载指示"
 
-#~ msgid "XCpuState"
-#~ msgstr "X CPU 状态"
 
-#~ msgid "Gendarme"
-#~ msgstr "Gendarme"
 
-#~ msgid "Gendarme Wizard"
-#~ msgstr "Gendarme 向导"
 
-#~ msgid "Inspect your .NET and Mono assemblies"
-#~ msgstr "检查您的 .NET 和 Mono 汇编"
 
-#~ msgid "A WindowMaker dock network monitor"
-#~ msgstr "WindowMaker 的 dock 网络监视器"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "Google Gadget Designer"
-#~ msgstr "Google 小工具设计器"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Blender (FullScreen)"
-#~ msgstr "Blender (全屏)"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Mandriva Linux 软件包统计"
 
-#~ msgid "Packages Stats"
-#~ msgstr "软件包统计"
 
-#~ msgid "Configure your database access environment"
-#~ msgstr "配置您的数据库访问环境"
 
-#~ msgid "Database access control center"
-#~ msgstr "数据库访问控制中心"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in English"
-#~ msgstr "Mandriva Linux DrakXTools 用户手册(英语)"
 
-#~ msgid ""
-#~ "A version of the rxvt terminal with support for Traditional Chinese, "
-#~ "Simplified Chinese, Japanese and Korean."
-#~ msgstr "这个版本的 rxvt 模拟终端支持简繁体中文、日文和韩文。"
 
-#~ msgid "RXvt"
-#~ msgstr "RXvt"
 
-#~ msgid "Edit text files"
-#~ msgstr "编辑文本文件"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Pop-Up Notifications"
-#~ msgstr "弹出通知"
 
-#~ msgid "Set your pop-up notification preferences"
-#~ msgstr "设置您的弹出通知首选项"
 
-#~ msgid "Wine Windows Program Loader"
-#~ msgstr "Wine Windows 程序启动器"
 
-#~ msgid "Configure file indexing with Tracker"
-#~ msgstr "配置 Tracker 文件索引"
 
-#~ msgid "Search and Indexing"
-#~ msgstr "搜索和索引"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "更改软件更新首选项"
 
-#~ msgid "Software Updates"
-#~ msgstr "软件更新"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bonobo 组件浏览器"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "显示可用的 Bonobo 组件"
 
-#~ msgid "An easy to use text editor, supporting syntax highlight and UTF-8"
-#~ msgstr "一个简单易用的文本编辑器，支持语法加亮和 UTF-8"
 
-#~ msgid "Joe"
-#~ msgstr "Joe 编辑器"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "群件套件"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "管理您的电子邮件、联系人和日程"
 
-#~ msgid "Language & country configuration"
-#~ msgstr "语言和国家配置"
 
-#~ msgid "Regional Settings"
-#~ msgstr "区域设置"
 
-#~ msgid "Page Layout"
-#~ msgstr "桌面出版"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "桌面出版"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 德文"
 
-#~ msgid "Howtos German"
-#~ msgstr "德文 Howto"
 
-#~ msgid "Network Center"
-#~ msgstr "网络中心"
 
-#~ msgid "IcedTea Java Web Start"
-#~ msgstr "IcedTea Java Web Start"
 
-#~ msgid "Launch Java Web Start applications"
-#~ msgstr "调用 Java Web Start 应用程序"
 
-#~ msgid "Network traffic analyzer"
-#~ msgstr "网络流量分析"
 
-#~ msgid "Wireshark"
-#~ msgstr "Wireshark"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "互联网通讯程序"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Pidgin 互联网通讯程序"
 
-#~ msgid "A set of Solitaire type games for the X Window System"
-#~ msgstr "一系列 X 窗口系统的单人纸牌游戏"
 
-#~ msgid "xpat2"
-#~ msgstr "xpat2"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "PulseAudio 首选项"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "声音服务器首选项"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "查看及修改本地声音服务器的配置"
 
-#~ msgid "System information"
-#~ msgstr "系统信息"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "X 系统信息"
 
-#~ msgid "Powerful and easy to use calculator"
-#~ msgstr "强大易用的计算器"
 
-#~ msgid "Qalculate!"
-#~ msgstr "快速计算!"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 罗马尼亚文"
 
-#~ msgid "Howto Romanian"
-#~ msgstr "罗马尼亚文 Howto"
 
-#~ msgid ""
-#~ "Locate documents and folders on this computer by name or content using "
-#~ "Tracker"
-#~ msgstr "用 Tracker 以名称或内容定位此计算机上的文档和文件夹"
 
-#~ msgid "Tracker Search Tool"
-#~ msgstr "Tracker 搜索工具"
 
-#~ msgid "HardDrake"
-#~ msgstr "Drak 硬件配置"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "硬件集中配置/信息工具"
 
-#~ msgid "Hardware Configuration Tool"
-#~ msgstr "硬件配置工具"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 波兰文"
 
-#~ msgid "Howto Polish"
-#~ msgstr "波兰文 Howto"
 
-#~ msgid "Change screensaver properties"
-#~ msgstr "更改屏幕保护属性"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "使用 CUPS 轻松打印"
 
-#~ msgid "X Printing Panel"
-#~ msgstr "X 打印面板"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "HP Sendfax"
-#~ msgstr "惠普发送传真"
 
-#~ msgid "Utility for sending faxes with HP's multi-function devices"
-#~ msgstr "使用惠普多功能一体机发送传真的工具"
 
-#~ msgid "GNOME Pilot Install Databases"
-#~ msgstr "GNOME Pilot 安装数据库"
 
-#~ msgid "Install Databases on your Palm Pilot"
-#~ msgstr "在您的 Palm Pilot 上安装数据库"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "播放和组织您的音乐收藏"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "Viewer for TeX DVI files"
-#~ msgstr "TeX DVI 文件的查看器"
 
-#~ msgid "XDVI"
-#~ msgstr "XDVI"
 
-#~ msgid "View and organize your images"
-#~ msgstr "查看及管理图像"
 
-#~ msgid "Font Editor for PostScript, TrueType, OpenType and various fonts"
-#~ msgstr "PostScript、TrueType、OpenType 等字体的编辑器"
 
-#~ msgid "FontForge"
-#~ msgstr "FontForge"
 
-#~ msgid "Registry Editor"
-#~ msgstr "注册表编辑器"
 
-#~ msgid "Viewer for Postscript and PDF files"
-#~ msgstr "PostScript 和 PDF 文件的查看器"
 
-#~ msgid "gv"
-#~ msgstr "gv"
 
-#~ msgid "CUPS Web Interface"
-#~ msgstr "CUPS Web 接口"
 
-#~ msgid "Manage Printing"
-#~ msgstr "管理打印"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr "将屏幕上的信息进行阅读或绘成盲文，或放大屏幕"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "屏幕阅读程序和放大镜"
 
-#~ msgid "Access digital cameras (via GPhoto2)"
-#~ msgstr "通过 GPhoto2 访问数码相机"
 
-#~ msgid "GTKam"
-#~ msgstr "GTKam"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 英文"
 
-#~ msgid "Howto English"
-#~ msgstr "英文 Howto"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "SCIM 输入法设置"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "智能通用输入法平台的设置工具"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "万能文本编辑器"
 
-#~ msgid "VI editor"
-#~ msgstr "VI 编辑器"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 希腊文"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "希腊文 Howto"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "空当接龙"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "玩流行的空当接龙纸牌游戏"
 
-#~ msgid "Window Manager"
-#~ msgstr "窗口管理器"
 
-#~ msgid "A utility to read and manipulate raw images from digital cameras"
-#~ msgstr "转换和操作数码相机中 RAW 图像的图形工具"
 
-#~ msgid "Raw image converter"
-#~ msgstr "Raw 图像转换器"
 
-#~ msgid "UFRaw"
-#~ msgstr "UFRaw"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 印尼文"
 
-#~ msgid "Howto Indonesian"
-#~ msgstr "印尼文 Howto"
 
-#~ msgid "Gnuplot"
-#~ msgstr "Gnuplot"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "绘制函数图像"
 
-#~ msgid "Configuration Editor"
-#~ msgstr "配置编辑器"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "直接编辑您的整个配置数据库"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "创建并编辑可缩放矢量图形图像"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid "Belgian eID card viewer"
-#~ msgstr "Belgian eID 卡查看器"
 
-#~ msgid "Display and administer your eID card"
-#~ msgstr "显示和管理您的 eID 卡"
 
-#~ msgid "beidgui"
-#~ msgstr "beidgui eID 卡管理器"
 
-#~ msgid "Customize uim input method environment"
-#~ msgstr "自定义 uim 输入法环境"
 
-#~ msgid "Input Method"
-#~ msgstr "输入法"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 繁体中文"
 
-#~ msgid "Howto Chinese"
-#~ msgstr "繁体中文 Howto"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "自动运行提示"
 
-#~ msgid "Tightvnc"
-#~ msgstr "Tightvnc"
 
-#~ msgid "Create images and edit photographs"
-#~ msgstr "创建图像或编辑照片"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "图像编辑器"
 
-#~ msgid "Qt Assistant 3"
-#~ msgstr "Qt 助手 - 3"
 
-#~ msgid "Tool for online help doc"
-#~ msgstr "在线帮助文档工具"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "一个 3D 游戏"
 
-#~ msgid "Armagetron Advanced"
-#~ msgstr "ArmageTron 高级"
 
-#~ msgid "Vector Graphics Drawing Tool"
-#~ msgstr "矢量绘图工具"
 
-#~ msgid "XFig"
-#~ msgstr "X 矢量绘图"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "错误报告工具"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "报告基于 GNOME 的应用程序中的错误"
 
-#~ msgid "Breakout-style arcade game"
-#~ msgstr "闯关风格的街机游戏"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "打砖块第二代"
 
-#~ msgid "Manage your mobile phone"
-#~ msgstr "管理您的移动电话"
 
-#~ msgid "Mobile Phone Suite"
-#~ msgstr "移动电话管理套件"
 
-#~ msgid "Xgnokii"
-#~ msgstr "Xgnokii 移动电话管理套件"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "打石头游戏"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "顽石与美玉"
 
-#~ msgid "Lights Off"
-#~ msgstr "关灯"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "关闭所有的灯"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 芬兰文"
 
-#~ msgid "Howto Finnish"
-#~ msgstr "芬兰文 Howto"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr "来自 Linux 文档项目 LDP 的 HOWTO 文档 - 瑞典文"
 
-#~ msgid "Howto Swedish"
-#~ msgstr "瑞典文 Howto"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "导入 F-Spot"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "使用 Draw 创建并编辑图形、流程图和徽标。"
 
-#~ msgid "Drawing"
-#~ msgstr "绘图"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "小蛇游走于迷宫"
 
-#~ msgid "Nibbles"
-#~ msgstr "贪吃蛇"
 
-#~ msgid "A graphical front end for installing, removing and updating packages"
-#~ msgstr "安装、删除和更新软件包的图形化前端"
 
-#~ msgid "Install & Remove Software"
-#~ msgstr "安装/删除软件"
 
-#~ msgid "Kill a client by its X resource"
-#~ msgstr "由进程的 X 资源来中止这个进程"
 
-#~ msgid "XKill"
-#~ msgstr "X 进程中止"
 
-#~ msgid "High quality video deinterlacer"
-#~ msgstr "高质量的视频反隔行扫描工具"
 
-#~ msgid "TVtime Television Viewer"
-#~ msgstr "TVtime 电视机"
 
-#~ msgid "Television Viewer"
-#~ msgstr "电视机"
 
-#~ msgid "Upgrade to Powerpack"
-#~ msgstr "升级到 Powerpack"
 
-#~ msgid "Join Mandriva Community"
-#~ msgstr "加入 Mandriva 社区"
 
-#~ msgid "Install on Hard Disk"
-#~ msgstr "安装到硬盘"
 
-#~ msgid "E-book reader"
-#~ msgstr "电子书阅读"
 
-#~ msgid "FBReader E-book reader"
-#~ msgstr "FBReader 电子书阅读器"
 
-#~ msgid "Game"
-#~ msgstr "游戏"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "终端模拟器"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "批量重命名"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "重命名多个文件"
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "用 Thunar 打开文件夹"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "在新的 Thunar 窗口中打开指定的文件夹"
 
-#~ msgid "Browse the filesystem with the file manager"
-#~ msgstr "使用文件管理器浏览文件系统"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "Thunar 文件管理器"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord 编辑器"
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "自动错误回报工具 (ABRT) "
 
-#~ msgid "Accerciser"
-#~ msgstr "Accerciser"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "为你的应用提供可操作性测试"
 
-#~ msgid "Aeolus"
-#~ msgstr "Aeolus"
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN 即时信使"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "Anjuta 集成开发环境"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "在集成开发环境中开发软件"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour 数字音频处理"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "Dock样式的窗口导航"
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "Avant 窗口导航器"
 
-#~ msgid "Awn Settings"
-#~ msgstr "Awn 设置"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "管理 Awn 首选项、启动器、小程序和主题"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa 邮件"
 
-#~ msgid "Barrage"
-#~ msgstr "弹幕射击"
 
-#~ msgid "My Web Accounts"
-#~ msgstr "我的网络账户"
 
-#~ msgid "myzone & status"
-#~ msgstr "myzone 和当前状态"
 
-#~ msgid "A small and fast BitTorrent client"
-#~ msgstr "一个轻巧快速的BitTorrent客户端"
 
-#~ msgid "Blueman Bluetooth Manager"
-#~ msgstr "Blueman蓝牙管理器"
 
-#~ msgid "Bluetooth Manager"
-#~ msgstr "蓝牙管理器"
 
-#~ msgid "MacSlow's Cairo-Clock"
-#~ msgstr "MacSlow 的 Cairo 时钟"
 
-#~ msgid "a super fine analog clock"
-#~ msgstr "一个绝好的模拟时钟"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Camorama 摄像头查看器"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "查看、控制并保存摄像头的图像"
 
-#~ msgid "ChmSee"
-#~ msgstr "ChmSee"
 
-#~ msgid "HTML Help(CHM) viewer"
-#~ msgstr "HTML Help(CHM) 文件阅读工具"
 
-#~ msgid "Chromium Web Browser"
-#~ msgstr "Chromium Web 浏览器"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Scan for viruses..."
-#~ msgstr "扫瞄为病毒..."
 
-#~ msgid "Virus Scanner"
-#~ msgstr "病毒扫描工具"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Conglomerate XML 编辑器"
 
-#~ msgid "Edit XML files"
-#~ msgstr "编辑 XML 文件"
 
-#~ msgid "Address book"
-#~ msgstr "地址簿"
 
-#~ msgid "Contacts"
-#~ msgstr "联系人"
 
-#~ msgid "CoolEdit"
-#~ msgstr "CoolEdit 编辑器"
 
-#~ msgid "Programmer's text editor with Python and shell scripting hooks"
-#~ msgstr "强力程序员专用编辑器，能通过 Python 和 shell 脚本编程操作"
 
-#~ msgid "FTP Client written in PyGTK"
-#~ msgstr "FTP客户端"
 
-#~ msgid "Music Organizer"
-#~ msgstr "音乐收集管理器"
 
-#~ msgid "Cream"
-#~ msgstr "Cream"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "深红地带"
 
-#~ msgid "Power Management Preferences"
-#~ msgstr "电源管理选项"
 
-#~ msgid "Settings for adjusting power usage"
-#~ msgstr "设置调整电源使用"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "数据显示调试器"
 
-#~ msgid "Play music"
-#~ msgstr "玩音乐"
 
-#~ msgid "Virtualization configuration"
-#~ msgstr "虚拟化配置"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Dr.Geo 数学软件"
 
-#~ msgid "3D Acceleration"
-#~ msgstr "3D 加速"
 
-#~ msgid "Change 3D Acceleration options"
-#~ msgstr "更改 3D 加速选项"
 
-#~ msgid "DVD Styler"
-#~ msgstr "DVD Styler"
 
-#~ msgid "Video DVD Production"
-#~ msgstr "创建视频 DVD"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma 拼图"
 
-#~ msgid "Edit tags in your audio files"
-#~ msgstr "编辑您的音频文件里的标签"
 
-#~ msgid ""
-#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
-#~ msgstr "偏好应用程序(网页浏览器，邮件客户端，终端"
 
-#~ msgid "Desktop Firewall Tool"
-#~ msgstr "桌面防火墙工具"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "Scanner Utility"
-#~ msgstr "扫描仪工具集"
 
-#~ msgid "Simply scan images"
-#~ msgstr "扫描图片"
 
-#~ msgid "A GTK+ Jabber client"
-#~ msgstr "一个 GTK+ 的 Jabber 客户端"
 
-#~ msgid "Gajim Instant Messenger"
-#~ msgstr "Gajim 即时消息软件"
 
-#~ msgid "Jabber IM Client"
-#~ msgstr "Jabber 即时消息客户端"
 
-#~ msgid "Galculator"
-#~ msgstr "GNOME 计算器"
 
-#~ msgid "Galeon Web Browser"
-#~ msgstr "Galeon Web 浏览器"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "Subtitle Editor"
-#~ msgstr "字幕编辑器"
 
-#~ msgid "gbrainy"
-#~ msgstr "gbrainy"
 
-#~ msgid "Edit chemical 2D structures"
-#~ msgstr "编辑 2D 化学结构"
 
-#~ msgid "Periodic table of the elements"
-#~ msgstr "元素周期表"
 
-#~ msgid "ICC Profile Installer"
-#~ msgstr "ICC 配置文件安装器"
 
-#~ msgid "ICC profile installer"
-#~ msgstr "ICC 配置文件安装器"
 
-#~ msgid "Install ICC profiles"
-#~ msgstr "安装 ICC 配置文件"
 
-#~ msgid "Color Profiles"
-#~ msgstr "色彩配置文件"
 
-#~ msgid "Manage ICC color profiles"
-#~ msgstr "管理 ICC 色彩配置文件"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "管理 GCompris"
 
-#~ msgid "GCompris Administration"
-#~ msgstr "GCompris 管理"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "面向 2 到 10 岁孩子的教育游戏"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "教育套件 GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "多样的教育游戏"
 
-#~ msgid "Monitor Settings"
-#~ msgstr "显示器设置"
 
-#~ msgid "A desktop applet system for GNOME"
-#~ msgstr "一个 GNOME 的桌面小程序系统"
 
-#~ msgid "Gnome Download Manager"
-#~ msgstr "Gnome 下载管理器"
 
-#~ msgid "Handle downloads"
-#~ msgstr "管理下载"
 
-#~ msgid "A fast and lightweight IDE using GTK2"
-#~ msgstr "一个使用 GTK2 编写的轻快的IDE"
 
-#~ msgid "Geany"
-#~ msgstr "Geany"
 
-#~ msgid "Manipulate component attributes with gattrib"
-#~ msgstr "使用 gattrib 操作组件的属性"
 
-#~ msgid "gEDA Attribute Editor"
-#~ msgstr "gEDA 属性编辑器"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "文本编辑器 (管理员)"
 
-#~ msgid "Download files from the Internet"
-#~ msgstr "从 Internet 下载文件"
 
-#~ msgid "GGet Download Manager"
-#~ msgstr "GGet 下载管理器"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "GNOME十六进制编辑器"
 
-#~ msgid "Giggle"
-#~ msgstr "Giggle"
 
-#~ msgid "Git repository viewer"
-#~ msgstr "Git 仓库查看器"
 
-#~ msgid "A simple frontend to easily connect to remote filesystems"
-#~ msgstr "一个易用的远程文件系统连接工具"
 
-#~ msgid "Gigolo"
-#~ msgstr "Gigolo"
 
-#~ msgid "Configure behavior of the privilege-granting tool"
-#~ msgstr "配置权限授予工具的行为"
 
-#~ msgid "Privilege granting"
-#~ msgstr "权限授予"
 
-#~ msgid ""
-#~ "Opens a terminal as the root user, using gksu to ask for the password"
-#~ msgstr "以 root 用户身份打开一个终端，使用 gksu 询问密码"
 
-#~ msgid "Root Terminal"
-#~ msgstr "Root 终端"
 
-#~ msgid "Create labels, business cards and media covers"
-#~ msgstr "制作标签，名片和光盘盒封面"
 
-#~ msgid "GLightOff"
-#~ msgstr "GLightOff"
 
-#~ msgid "Globulation2"
-#~ msgstr "Globulation2"
 
-#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
-#~ msgstr "Globulation2 - 一个动作实时策略游戏"
 
-#~ msgid "Glom"
-#~ msgstr "Glom"
 
-#~ msgid "A gnome frontend for the mpd daemon"
-#~ msgstr "一个 mpd 守护进程的 gnome 前端"
 
-#~ msgid "Gnome Music Player Client"
-#~ msgstr "Gnome 音乐播放器客户端"
 
-#~ msgid "CHM Viewer"
-#~ msgstr "CHM 阅读器"
 
-#~ msgid "A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs"
-#~ msgstr "一个管理 Creative Nomad/Zen Jukeboxes 播放器的工具"
 
-#~ msgid "Gnomad 2"
-#~ msgstr "Gnomad 2"
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "博客信息投递工具"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "向博客网站投递信息"
 
-#~ msgid "Customize your GNOME desktop"
-#~ msgstr "自定义您的 GNOME 桌面"
 
-#~ msgid "A two paned file manager"
-#~ msgstr "一个分两栏的文件管理器"
 
-#~ msgid "GNOME Commander"
-#~ msgstr "GNOME 指挥官"
 
-#~ msgid "Configure your printers"
-#~ msgstr "配置您的打印机"
 
-#~ msgid ""
-#~ "Do things as quickly as possible (but no quicker) with your files, "
-#~ "bookmarks, applications, music, contacts, and more!"
-#~ msgstr "方便快捷地处理你的文件、书签、应用程序、音乐、通讯簿...还有更多！"
 
-#~ msgid "GNOME Do"
-#~ msgstr "GNOME Do"
 
-#~ msgid "Drivel Journal Editor"
-#~ msgstr "Drivel 日记编辑器"
 
-#~ msgid "Journal Editor"
-#~ msgstr "日记编辑器"
 
-#~ msgid "Update and manage your online journal"
-#~ msgstr "更新及管理您的在线日记"
 
-#~ msgid "Genius Math Tool"
-#~ msgstr "Genius 数学工具"
 
-#~ msgid "Genius Mathematical Tool and Calculator"
-#~ msgstr "Genius 数学工具和计算器"
 
-#~ msgid "Hearts"
-#~ msgstr "红心大战"
 
-#~ msgid "Play your media"
-#~ msgstr "播放常见格式媒体文件"
 
-#~ msgid "GNOME-Mud"
-#~ msgstr "GNOME-Mud"
 
-#~ msgid "The GNOME MUD Client"
-#~ msgstr "GNOME MUD 客户端"
 
-#~ msgid "Network Tools"
-#~ msgstr "网络工具"
 
-#~ msgid "View information about your network"
-#~ msgstr "查看您的网络的信息"
 
-#~ msgid "Desktop Library Package Inspector"
-#~ msgstr "桌面库软件包检查器"
 
-#~ msgid "Get useful information about installed GNOME desktop libraries"
-#~ msgstr "获得关于GNOME桌面库的有用信息"
 
-#~ msgid "Package Viewer"
-#~ msgstr "软件包查看器"
 
-#~ msgid "Manage your system tasks"
-#~ msgstr "管理您的系统任务"
 
-#~ msgid "Splash"
-#~ msgstr "飞溅屏幕"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "个人文件共享"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "文件共享选项"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio Music Player"
 
-#~ msgid "Gnote"
-#~ msgstr "Gnote"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "播放与抓取音乐 CD"
 
-#~ msgid "Gourmet Recipe Manager"
-#~ msgstr "Gourmet食谱管理软件"
 
-#~ msgid "Create, reorganize, and delete partitions"
-#~ msgstr "创建、重新组织或删除分区"
 
-#~ msgid "GParted"
-#~ msgstr "GParted"
 
-#~ msgid "Partition Editor"
-#~ msgstr "分区编辑器"
 
-#~ msgid "View your images easily"
-#~ msgstr "轻松查看数码相片和图片"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GPS 导航"
 
-#~ msgid "Gramps Genealogy System"
-#~ msgstr "GRAMPS 家谱系统 "
 
-#~ msgid ""
-#~ "Manage genealogical information, perform genealogical research and "
-#~ "analysis"
-#~ msgstr "管理家谱信息，实施家谱搜索和分析"
 
-#~ msgid "Graveman"
-#~ msgstr "灰暗"
 
-#~ msgid "Set your touchpad preferences"
-#~ msgstr "设置触摸板首选项"
 
-#~ msgid "Touchpad"
-#~ msgstr "触摸板"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "Manage music and video on an Apple iPod"
-#~ msgstr "管理Apple iPod的音乐和视频"
 
-#~ msgid "gtkpod iPod Manager"
-#~ msgstr "gtkpod iPod管理器"
 
-#~ msgid "iPod Manager"
-#~ msgstr "iPod管理器"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTK 电子波形"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "GTKWave 查看电子波形"
 
-#~ msgid "Gtranslator PO Editor"
-#~ msgstr "Gtranslator PO 编辑器"
 
-#~ msgid "Translate and localize applications and libraries"
-#~ msgstr "对应用程序和库进行翻译和本地化"
 
-#~ msgid "Extra galeon preferences"
-#~ msgstr "Gaelon 的额外首选项"
 
-#~ msgid "Extra preferences for application menus"
-#~ msgstr "应用程序菜单扩展选项"
 
-#~ msgid "gTweakUI - Menus"
-#~ msgstr "gTweakUI - 菜单"
 
-#~ msgid "Extra nautilus preferences"
-#~ msgstr "扩展 Nautilus 首先项"
 
-#~ msgid "gTweakUI - Nautilus"
-#~ msgstr "gTweakUI - Nautilus"
 
-#~ msgid "Extra session preferences"
-#~ msgstr "会话扩展选项"
 
-#~ msgid "gTweakUI - Session"
-#~ msgstr "gTweakUI - 会话"
 
-#~ msgid "Gweled"
-#~ msgstr "Gweled"
 
-#~ msgid "Gwget Download Manager"
-#~ msgstr "Gwget 下载管理器"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "Watch & listen"
-#~ msgstr "播放"
 
-#~ msgid "Helix Community's open source media player"
-#~ msgstr "Helix 社区开放原始码媒体播放器"
 
-#~ msgid "Helix Player"
-#~ msgstr "Helix Player"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "IBus设置"
 
-#~ msgid "Set IBus Preferences"
-#~ msgstr "修改IBus偏好"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Input Method Framework"
-#~ msgstr "输入法框架"
 
-#~ msgid "Start IBus Input Method Framework"
-#~ msgstr "启动IBus 输入法框架"
 
-#~ msgid "Desktop Session Recorder"
-#~ msgstr "桌面会话录制器"
 
-#~ msgid "Istanbul Desktop Session Recorder"
-#~ msgstr "Istanbul 桌面会话录制器"
 
-#~ msgid "Record a video of your desktop session"
-#~ msgstr "录制您桌面会话的视频"
 
-#~ msgid "Katoob"
-#~ msgstr "K 简易编辑器"
 
-#~ msgid "KThesaurus"
-#~ msgstr "KThesaurus"
 
-#~ msgid "Related Words"
-#~ msgstr "相关单词"
 
-#~ msgid "Choqok"
-#~ msgstr "Choqok"
 
-#~ msgid "KDE Micro-blogging Client"
-#~ msgstr "KDE 微播客吐槽客户端"
 
-#~ msgid "Disk Usage Statistics"
-#~ msgstr "磁盘使用统计"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "View disk usage information"
-#~ msgstr "查看磁盘使用信息"
 
-#~ msgid "Game Creation Tool"
-#~ msgstr "Game Creation Tool"
 
-#~ msgid "Gluon Creator"
-#~ msgstr "Gluon Creator"
 
-#~ msgid "Kaffeine"
-#~ msgstr "K 媒体播放机"
 
-#~ msgid "Create scalable vector drawings"
-#~ msgstr "创建可缩放矢量绘图"
 
-#~ msgid "Karbon14"
-#~ msgstr "Karbon14"
 
-#~ msgid "Scalable Graphics"
-#~ msgstr "可缩放图像"
 
-#~ msgid "CD Ripper"
-#~ msgstr "CD 提取器"
 
-#~ msgid "Frontend for audio file creation"
-#~ msgstr "音频文件创建前端"
 
-#~ msgid "KAudioCreator"
-#~ msgstr "K 音频创建工具"
 
-#~ msgid "Color Palette Editor"
-#~ msgstr "调色板编辑器"
 
-#~ msgid "KColorEdit"
-#~ msgstr "K 颜色编辑"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "一个文件和目录的比较及合并工具"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "货币转换器和计算器"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "K 欧元计算器"
 
-#~ msgid "Database Creator"
-#~ msgstr "数据库创建器"
 
-#~ msgid "Develop desktop database applications"
-#~ msgstr "开发桌面数据库应用程序"
 
-#~ msgid "Kexi"
-#~ msgstr "Kexi"
 
-#~ msgid "Fax Viewer"
-#~ msgstr "传真查看器"
 
-#~ msgid "KFax"
-#~ msgstr "K 传真"
 
-#~ msgid "A graphical FTP client"
-#~ msgstr "图形化 FTP 客户端"
 
-#~ msgid "FTP Client"
-#~ msgstr "FTP 客户端"
 
-#~ msgid "KFTPGrabber"
-#~ msgstr "KFTPGrabber"
 
-#~ msgid "A Graphviz dot graph editor for KDE"
-#~ msgstr "一款 KDE 的 Graphviz Dot 图编辑器"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "kgrapheditor"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "一个 KDE 的 Graphviz Dot 图查看器"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "kgraphviewer"
 
-#~ msgid "Icon Editor"
-#~ msgstr "图标编辑器"
 
-#~ msgid "KIconEdit"
-#~ msgstr "K 图标编辑"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "(La)TeX 开发环境"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "LaTeX 前端"
 
-#~ msgid "KMess"
-#~ msgstr "K MSN 信使"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "MSN 客户程序"
 
-#~ msgid "A KDE4 MIDI/Karaoke Player"
-#~ msgstr "KDE4 MIDI/Karaoke 播放器"
 
-#~ msgid "KMid"
-#~ msgstr "KMid"
 
-#~ msgid "KMyMoney"
-#~ msgstr "K 财务"
 
-#~ msgid "Personal Finance Manager"
-#~ msgstr "个人财务经理"
 
-#~ msgid "KNemo"
-#~ msgstr "KNemo"
 
-#~ msgid "Network Monitor"
-#~ msgstr "网络监视器"
 
-#~ msgid "KNetworkManager"
-#~ msgstr "K NetworkManager"
 
-#~ msgid "Network Manager"
-#~ msgstr "网络管理器"
 
-#~ msgid "KOffice"
-#~ msgstr "KOffice"
 
-#~ msgid "KPlato"
-#~ msgstr "KPlato"
 
-#~ msgid "KPlato WorkPackage Handler"
-#~ msgstr "KPlato 工作包处理器"
 
-#~ msgid "KPlayer"
-#~ msgstr "KPlayer"
 
-#~ msgid "KPovModeler"
-#~ msgstr "K POV 建模"
 
-#~ msgid "Povray Modeler"
-#~ msgstr "Povray 建模器"
 
-#~ msgid "KPresenter"
-#~ msgstr "K 幻灯片"
 
-#~ msgid "Write presentation documents"
-#~ msgstr "编写演示文稿"
 
-#~ msgid "Cooking Book"
-#~ msgstr "食谱"
 
-#~ msgid "Krecipes"
-#~ msgstr "Krecipes"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "KDE 食谱"
 
-#~ msgid "A batch renamer"
-#~ msgstr "批量修改文件名称"
 
-#~ msgid "Edit and paint images"
-#~ msgstr "编辑和绘制图像"
 
-#~ msgid "Krita"
-#~ msgstr "K 绘图"
 
-#~ msgid "Painting and Image Editing"
-#~ msgstr "绘图和图像编辑"
 
-#~ msgid "Application for Drawing and Handling of Images"
-#~ msgstr "绘制和操纵图像的应用程序"
 
-#~ msgid "Krusader"
-#~ msgstr "K 文件管理"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "双面板文件管理器"
 
-#~ msgid "KSpread"
-#~ msgstr "K 电子表格"
 
-#~ msgid "Write spreadsheet documents"
-#~ msgstr "编写电子表格文档"
 
-#~ msgid "Kuickshow"
-#~ msgstr "Kuickshow"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "一个 KDE KPart 应用程序"
 
-#~ msgid "GUI for various VPN clients"
-#~ msgstr "各种 VPN 客户端的图形界面"
 
-#~ msgid "KVpnc"
-#~ msgstr "K VPN 客户端"
 
-#~ msgid "KWord"
-#~ msgstr "K 字处理"
 
-#~ msgid "Write text documents"
-#~ msgstr "编写文本文档"
 
-#~ msgid "A KDE4 Application"
-#~ msgstr "KDE4 应用程序"
 
-#~ msgid "Mailody"
-#~ msgstr "Mailody"
 
-#~ msgid "Mail Viewer"
-#~ msgstr "邮件查看器"
 
-#~ msgid "MailodyMailViewer"
-#~ msgstr "MailodyMailViewer"
 
-#~ msgid "KDE Partition Manager"
-#~ msgstr "KDE 分区管理器"
 
-#~ msgid "Manage disks, partitions and file systems"
-#~ msgstr "管理磁盘、分区和文件系统"
 
-#~ msgid "rekonq"
-#~ msgstr "rekonq"
 
-#~ msgid "Makes sure you rest now and then"
-#~ msgstr "请确保从现在开始您会休息一下"
 
-#~ msgid "Scan and save images"
-#~ msgstr "扫描和保存图像"
 
-#~ msgid "Skanlite"
-#~ msgstr "Skanlite"
 
-#~ msgid "A collection manager"
-#~ msgstr "收集管理器"
 
-#~ msgid "Collection Manager"
-#~ msgstr "收藏管理器"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr "一款基于 KDE Konsole 技术的拉幕式终端仿真器。"
 
-#~ msgid "Drop-down Terminal"
-#~ msgstr "拉幕式终端"
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "KScope"
-#~ msgstr "KScope"
 
-#~ msgid "Download and view feeds"
-#~ msgstr "下载并查看 Feed"
 
-#~ msgid "Liferea Feed Reader"
-#~ msgstr "Lifeera Feed 阅读器"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "独特的多人战斗游戏"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "First person shooter game"
-#~ msgstr "第一人称射击游戏"
 
-#~ msgid "A 3D adventure and roleplaying game"
-#~ msgstr "3D 探险和角色扮演游戏"
 
-#~ msgid "Balazar"
-#~ msgstr "Balazar"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "Arcade Shooter"
-#~ msgstr "街机枪战"
 
-#~ msgid "Critical Mass"
-#~ msgstr "临界质量"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "A simple file manager with built-in FTP support"
-#~ msgstr "简单的文件管理器，内建 FTP 支持"
 
-#~ msgid "FileRunner"
-#~ msgstr "FileRunner 文件管理器"
 
-#~ msgid "GTorrentViewer"
-#~ msgstr "GNOME Torrent 查看器"
 
-#~ msgid "OilWar"
-#~ msgstr "石油大战"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "非常简单的鼠标射击游戏"
 
-#~ msgid "A MacOS run-time environment"
-#~ msgstr "MacOS 运行时刻环境"
 
-#~ msgid "SheepShaver"
-#~ msgstr "SheepShaver"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "SpiralLoops"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "合成的螺旋"
 
-#~ msgid "SpiralSynth"
-#~ msgstr "SpiralSynth"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "VOCPweb (VOCP 远程网络消息接收)"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "Abe 的惊奇旅程！！"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "经典的 Crack-Dot-Com 游戏"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip 抓视频"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "视频抓取和转换"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "Wireless network discovery tool"
-#~ msgstr "无线网络发现工具"
 
-#~ msgid "AirStrike"
-#~ msgstr "空袭"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "绝妙的 2D 空战游戏"
 
-#~ msgid "AlbumShaper"
-#~ msgstr "相册塑型"
 
-#~ msgid "Create photo albums"
-#~ msgstr "创建相册"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Teletext/Videotext 解码和浏览"
 
-#~ msgid "Action-loaded 2D arcade shooter game"
-#~ msgstr "2D 街机射击动作游戏"
 
-#~ msgid "Arcade-style mix of asteroids and pool"
-#~ msgstr "棋盘风格的星形博彩"
 
-#~ msgid "Graphical frontend to Valgrind memory checker"
-#~ msgstr "Valgrind 内存检查器的图形前端"
 
-#~ msgid "amaya"
-#~ msgstr "Amaya 网页编辑器"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Alsa 模块化合成器"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "ALSA 模块化合成器"
 
-#~ msgid "AmyEdit"
-#~ msgstr "AmyEdit"
 
-#~ msgid "Lightweight LaTeX editor"
-#~ msgstr "轻量级 LaTeX 浏览器"
 
-#~ msgid "Angel Wars"
-#~ msgstr "天使之战"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "快速、老式的空战游戏"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT 电话"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "Genpak 的图形界面"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "高级策略命令"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "一个爆破小行星的 3D 第一人称游戏"
 
-#~ msgid "aterm"
-#~ msgstr "aterm"
 
-#~ msgid "Audio player"
-#~ msgstr "音乐播放器"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "脑电波控制器"
 
-#~ msgid "Bacula Console (wxWindows)"
-#~ msgstr "Bacula 控制台(wxWidgets)"
 
-#~ msgid "Bacula Director Console"
-#~ msgstr "Bacula 导演控制台"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "配置您的系统的能源管理"
 
-#~ msgid "Energy Saving"
-#~ msgstr "能源管理"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bbconf 是 BLACKBOX 一个完善的图形化配置工具"
 
-#~ msgid "BB Run"
-#~ msgstr "黑盒运行"
 
-#~ msgid "BlackBox Run Window"
-#~ msgstr "黑盒运行窗口"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "2D 化学结构图绘制工具"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "类似马里奥的游戏"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "Boxconf (VOCP Box 配置界面)"
 
-#~ msgid "BPMDJ"
-#~ msgstr "BPMDJ"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "面板小游戏，看住罐子里的小东西"
 
-#~ msgid "Bugsquish"
-#~ msgstr "压扁虫子"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "用鼠标压扁虫子"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "C1541 优秀的磁盘镜像维护工具"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "VICE 磁盘镜像工具"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "呼叫中心 (VOCP 呼叫中心)"
 
-#~ msgid "Broadband connection test program"
-#~ msgstr "宽带连接测试程序"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "连接测试"
 
-#~ msgid "Webcam tool"
-#~ msgstr "网络摄像工具"
 
-#~ msgid "CanonUtil"
-#~ msgstr "佳能工具"
 
-#~ msgid "Maintenance tool for Canon inkjet printers"
-#~ msgstr "佳能喷墨打印机的维护工具"
 
-#~ msgid "CD-Mason"
-#~ msgstr "CD-Mason"
 
-#~ msgid "Simple, powerful CD burning"
-#~ msgstr "简单强大的光盘刻录"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "Certain Death via Space Things"
 
-#~ msgid "CGoban"
-#~ msgstr "围棋"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "图形化的围棋游戏"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "用来创建音乐模块的程序"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "网络浏览器和工具 (需要正在运行的代理)"
 
-#~ msgid "A open-source diary program"
-#~ msgstr "开源的日记程序"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "ClanBomber - 自由(GPL)的多人玩的炸弹人游戏"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "ZynAddSubFX 的 MIDI 控制器"
 
-#~ msgid "Copter Commander OpenGL"
-#~ msgstr "Copter Commander OpenGL"
 
-#~ msgid "Copter-Commander Glx"
-#~ msgstr "Copter-Commander Glx"
 
-#~ msgid "Copter Commander"
-#~ msgstr "Copter Commander"
 
-#~ msgid "Cssed"
-#~ msgstr "CSS 编辑器"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "选择光标主题"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "光标主题"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "A simple web browser"
-#~ msgstr "一个简单的网页浏览器"
 
-#~ msgid "DiskSearch"
-#~ msgstr "搜索可移动介质"
 
-#~ msgid "Search removable media"
-#~ msgstr "搜索可移动的介质"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Distcc 监视器"
 
-#~ msgid "An easy to use address book"
-#~ msgstr "易用的地址簿"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume 地址簿"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "DOS 模拟器"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "Dr.GeoCaml"
-#~ msgstr "Dr.GeoCaml"
 
-#~ msgid "DrGeoCaml Interactive Geometry Tool"
-#~ msgstr "DrGeoCaml 交互式几何工具"
 
-#~ msgid "Dr. Python"
-#~ msgstr "Python 博士"
 
-#~ msgid "Python Editor and IDE"
-#~ msgstr "Python 编辑器和 IDE"
 
-#~ msgid "DVR"
-#~ msgstr "DV 录制"
 
-#~ msgid "2D Molecule Editor"
-#~ msgstr "2D 分子编辑器"
 
-#~ msgid "EasyChem"
-#~ msgstr "轻松化学"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr "声音处理、多音轨录制、和混音工具"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Siag Office Egon 动画制作"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "GTK 文件管理器"
 
-#~ msgid "Ecasound Mastering Interface"
-#~ msgstr "Ecasound 管理界面"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour 文件浏览器"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma 是一个拼图游戏"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "EPIC 是增强的可编程 IRC-II 客户端"
 
-#~ msgid "Epic"
-#~ msgstr "Epic"
 
-#~ msgid "Python IDE"
-#~ msgstr "Python 集成开发环境"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "全功能的 OSS 混音器"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer 混音器"
 
-#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
-#~ msgstr "eSvn 是一个跨平台 (以 QT 为基础) 的 Subversion 图形界面"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "交互式艺术生成软件"
 
-#~ msgid "Flash for Linux"
-#~ msgstr "Flash for Linux"
 
-#~ msgid "Fbdesk"
-#~ msgstr "桌面图标编辑器"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr "创建和编辑桌面图标"
 
-#~ msgid "Image viewer at heart, though it does other cool stuff"
-#~ msgstr "用心打造的图像查看器，尽管其还能完成更多的功能"
 
-#~ msgid "Fish Fillets NG"
-#~ msgstr "捕鱼"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "FlightGear 飞行模拟器"
 
-#~ msgid "FooBillard"
-#~ msgstr "FooBillard"
 
-#~ msgid "OpenGL billard game"
-#~ msgstr "OpenGL 棋盘游戏"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "A.D.I.E. - 使用 FOX 工具集的高级互动编辑器"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "使用 FOX 工具集的计算器"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "FOX 计算器"
 
-#~ msgid "FrameWorks"
-#~ msgstr "架构"
 
-#~ msgid "Stop-motion animation tool"
-#~ msgstr "逐帧动画工具"
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "Linux 的基本音序播放机"
 
-#~ msgid "Clone of the C64 Game Paradroid"
-#~ msgstr "C64 游戏 Paradroid 的克隆"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreeLords"
-#~ msgstr "FreeLords"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "声音调控器"
 
-#~ msgid "A GUI frontend for autotrace"
-#~ msgstr "autotrace 的图形化程序"
 
-#~ msgid "3D file browser"
-#~ msgstr "3D 文件浏览器"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "FVWM 窗口管理器"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "3D 地图查看器"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "Xmms cover viewer"
-#~ msgstr "XMMS 封面查看器"
 
-#~ msgid "Gai-bgswitcher"
-#~ msgstr "Gai 背景切换器"
 
-#~ msgid "Blobs viewer :)"
-#~ msgstr "博客查看器 :)"
 
-#~ msgid "Gai-blobs"
-#~ msgstr "Gai 博客"
 
-#~ msgid "Displays the status of the keyboard leds"
-#~ msgstr "显示键盘灯的状态"
 
-#~ msgid "Gai-leds"
-#~ msgstr "Gai 键盘灯"
 
-#~ msgid "Gai-mailcounter"
-#~ msgstr "Gai 邮件计数器"
 
-#~ msgid "Mail counter"
-#~ msgstr "邮件计数器"
 
-#~ msgid "Gai-pal"
-#~ msgstr "Gai 好友"
 
-#~ msgid "Display time when they sun sets and rise"
-#~ msgstr "显示太阳升起和落下的时间"
 
-#~ msgid "Gai-sun"
-#~ msgstr "Gai 太阳"
 
-#~ msgid "Gai-visual-studio"
-#~ msgstr "Gai Visual Studio"
 
-#~ msgid "Visualizing the XMMS output"
-#~ msgstr "可视化 XMMS 输出"
 
-#~ msgid "Galan"
-#~ msgstr "Galan"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "3D 分子观察器"
 
-#~ msgid "GTK ASTerisk MANager"
-#~ msgstr "GTK 星号管理器"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "2D 排球游戏"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "编辑您的 GNOME 首选项"
 
-#~ msgid "Gconfpref"
-#~ msgstr "GNOME 首选项"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "Tetris 碰见空间侵略者"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "老师用的成绩册"
 
-#~ msgid "GNOME MM/QM Frontend"
-#~ msgstr "GNOME MM/QM 前端"
 
-#~ msgid "DJ Collection Manager"
-#~ msgstr "DJ 收集管理器"
 
-#~ msgid "GJay"
-#~ msgstr "GJay"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "飞行动作模拟器"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "Glinuxsms"
-#~ msgstr "Glinuxsms"
 
-#~ msgid "GLiv"
-#~ msgstr "OpenGL 图像查看"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "OpenGL 图像查看器"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "3D 轻量级游戏"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "GNOME 上的 masqdialer 调制解调器服务器的客户"
 
-#~ msgid "Memory usage"
-#~ msgstr "内存使用情况"
 
-#~ msgid "GMorgan"
-#~ msgstr "GNOME 伴奏"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "MIDI 伴奏自动生成器"
 
-#~ msgid "GMudix GTK mud client"
-#~ msgstr "GMudix GTK mud 客户端"
 
-#~ msgid "gMudix"
-#~ msgstr "gMudix"
 
-#~ msgid "Gneutronica"
-#~ msgstr "G 鼓机"
 
-#~ msgid "MIDI drum sequencer"
-#~ msgstr "MIDI 鼓机"
 
-#~ msgid "GNOME ALSA mixer"
-#~ msgstr "GNOME ALSA 混音器"
 
-#~ msgid "GNOME ALSA mixer (volume control)"
-#~ msgstr "GNOME ALSA 混音器(音量控制)"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "GNOME-Kerberos"
 
-#~ msgid "Gnome Photo Printer"
-#~ msgstr "GNOME 照片打印机"
 
-#~ msgid "Gnome-SSHMan"
-#~ msgstr "GNOME SSH 管理器"
 
-#~ msgid "Manage SSH connections"
-#~ msgstr "管理 SSH 连接"
 
-#~ msgid "Gnometab"
-#~ msgstr "GNOME 吉他"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "“GNOME 吉他”是吉他乐谱编辑器。"
 
-#~ msgid "A ripper, an encoder and an audio converter"
-#~ msgstr "抓取器、编码器和音频转换器"
 
-#~ msgid "Gnormalize"
-#~ msgstr "Gnormalize"
 
-#~ msgid "GNU Backgammon"
-#~ msgstr "GNU Backgammon"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "Gournal"
-#~ msgstr "手写记事"
 
-#~ msgid "Handwriting notepad"
-#~ msgstr "手写记事本"
 
-#~ msgid "Gphone"
-#~ msgstr "GNOME 电话"
 
-#~ msgid "Internet telephone"
-#~ msgstr "Internet 电话"
 
-#~ msgid "Gpppoem"
-#~ msgstr "GNOME PPPoE"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "PPPoE 监视器"
 
-#~ msgid "GPRS Easy Connect"
-#~ msgstr "GPRS 轻松连接"
 
-#~ msgid "GUI to simplify GPRS cellular data connection"
-#~ msgstr "GPRS 蜂窝电话连接的图形界面"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "GPS 数据传送"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "MGPSPoint"
 
-#~ msgid "Control print jobs"
-#~ msgstr "控制打印任务"
 
-#~ msgid "GQueue"
-#~ msgstr "G 打印队列"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "科学数据的可视化"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "单元自动机模拟器"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "地理资源分析支持系统"
 
-#~ msgid "Greenwich"
-#~ msgstr "格林尼治"
 
-#~ msgid "Whois client"
-#~ msgstr "Whois 客户"
 
-#~ msgid "GRhino"
-#~ msgstr "GRhino"
 
-#~ msgid "CD player and ripper"
-#~ msgstr "CD 播放机/提取器"
 
-#~ msgid "Grip"
-#~ msgstr "Grip"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "RPN 表达式计算器"
 
-#~ msgid "GScore"
-#~ msgstr "GNOME 乐谱编辑器"
 
-#~ msgid "Musical Score Editor"
-#~ msgstr "乐谱编辑器"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "TetriNET 游戏在 Linux 下的客户"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK IPTables"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "IP 表规则配置"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "切换 GTK1 主题"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "GTK 主题切换"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "图形化的 asp2php"
 
-#~ msgid "GtkAtlantic"
-#~ msgstr "GtkAtlantic"
 
-#~ msgid "Buehlmann ZH-L16 model diving simulation"
-#~ msgstr "Buehlmann ZH-L16 型号潜水模拟器"
 
-#~ msgid "GtkDive"
-#~ msgstr "GtkDive"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "图形化的查找文件工具"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "GTK 吉他效果"
 
-#~ msgid "Realtime effects"
-#~ msgstr "实时效果"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "CPUS 的 GTK 前端"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "GTKlp CUPS 打印队列"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "motd 的 Gtk 版本"
 
-#~ msgid "GtkPSProc"
-#~ msgstr "GtkPSProc"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Siag PostScript 查看器"
 
-#~ msgid "Gnome Workstation Command Center"
-#~ msgstr "GNOME 工作站命令中心"
 
-#~ msgid "Network and workstation tools"
-#~ msgstr "网络和工作站工具"
 
-#~ msgid "Heroes"
-#~ msgstr "英雄"
 
-#~ msgid "Hexadecimal calculator"
-#~ msgstr "十六进制文件编辑器"
 
-#~ msgid "Hexcalc"
-#~ msgstr "十六进制计算器"
 
-#~ msgid "Othello clone"
-#~ msgstr "奥赛罗棋克隆"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "Podcast catcher"
-#~ msgstr "播客收集器"
 
-#~ msgid "Configurator for the GTK+2 Japanese Input Module"
-#~ msgstr "GTK+2 日语输入模块的配置程序"
 
-#~ msgid "ImgSeek"
-#~ msgstr "ImgSeek"
 
-#~ msgid "ImgSeek Photo Manager"
-#~ msgstr "ImgSeek 相片管理器"
 
-#~ msgid "Inventory"
-#~ msgstr "Inventory"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "简单的库存程序"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "图像查看器"
 
-#~ msgid "Drum machine styled audio sequencer"
-#~ msgstr "鼓机风格的音序器"
 
-#~ msgid "JackEQ"
-#~ msgstr "JackEQ"
 
-#~ msgid "Mixer for JACK audio server"
-#~ msgstr "JACK 音频服务器的混音器"
 
-#~ msgid "Graphical puzzle game"
-#~ msgstr "图形化拼图游戏"
 
-#~ msgid "Jools"
-#~ msgstr "Jools"
 
-#~ msgid "Administrative web interface for Joomla Open Source (CMS)"
-#~ msgstr "Joola 开源 CMS 的 Web 管理界面"
 
-#~ msgid "Joomla Administrator"
-#~ msgstr "Jooma 管理员"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "GTK2 ftp 程序"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "ALSA 连接"
 
-#~ msgid "KAConnect"
-#~ msgstr "KAConnect"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Kiki 立体拼图"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "QT 分子查看器"
 
-#~ msgid "XKoules"
-#~ msgstr "X 星际帝国"
 
-#~ msgid "Kphone"
-#~ msgstr "K 电话"
 
-#~ msgid "Kphone SIP user agent"
-#~ msgstr "Kphone SIP 用户代理"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "图示进程查看"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "装甲车司令的克隆"
 
-#~ msgid "LinPopUp"
-#~ msgstr "弹出式信使"
 
-#~ msgid "Cool script to send SMS"
-#~ msgstr "发送短信息的脚本"
 
-#~ msgid "LinuxSMS"
-#~ msgstr "Linux 短信"
 
-#~ msgid "LongPlayer"
-#~ msgstr "LongPlayer"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "俄罗斯方块"
 
-#~ msgid "Luma"
-#~ msgstr "Luma"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "驾驶一个 V 型船在二维街机游戏中飞行"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "抓住炸弹"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "UNIX manual pages editor"
-#~ msgstr "UNIX 手册页编辑器"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "MAS 互联网会议"
 
-#~ msgid "MASConf"
-#~ msgstr "MASConf 设置"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "MAS 混音器"
 
-#~ msgid "MASMix"
-#~ msgstr "MAS 混音器"
 
-#~ msgid "Maxima"
-#~ msgstr "Maxima"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Tcl/Tk 界面的 Maxima"
 
-#~ msgid "A bubble bobble like arcade game"
-#~ msgstr "棋盘小游戏"
 
-#~ msgid "Super Methane Brothers"
-#~ msgstr "超级臭气兄弟"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "MIDI CC Sliders"
-#~ msgstr "MIDI CC 控制器"
 
-#~ msgid "MIDI Controller"
-#~ msgstr "MIDI 控制器"
 
-#~ msgid "Mirror Magic"
-#~ msgstr "镜子魔法"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "多语言虚拟终端"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Create encrypted folder"
-#~ msgstr "创建加密的文件夹"
 
-#~ msgid "DrakLoop"
-#~ msgstr "Drak 加密"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "A multi-tabbed X terminal emulator"
-#~ msgstr "多标签页的 X 终端模拟器"
 
-#~ msgid "Mrxvt"
-#~ msgstr "多标签页控制台"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Maitretarot 客户程序"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Ping/Traceroute 网络诊断工具"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "MIDI 音序器"
 
-#~ msgid "Nabi"
-#~ msgstr "Nabi"
 
-#~ msgid "Simple Hangul XIM"
-#~ msgstr "简单的 Hangul XIM"
 
-#~ msgid "Natmonitor "
-#~ msgstr "NAT 监视器"
 
-#~ msgid "A text editor for the X Window System"
-#~ msgstr "X 窗口系统的文本编辑器"
 
-#~ msgid "NEdit"
-#~ msgstr "NEdit 编辑器"
 
-#~ msgid "Nuclear Chess"
-#~ msgstr "核象棋"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "数码成绩单"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "巷战狙击手"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "OSD Xine 视频播放器"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "Desktop Publishing for X (PAO)"
-#~ msgstr "X 的桌面出版(PAO)"
 
-#~ msgid "Passepartout"
-#~ msgstr "出版"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "Missile Command 游戏企鹅版"
 
-#~ msgid "Penguin Command"
-#~ msgstr "企鹅特工队"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "伊米莉亚立体弹球"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Pingus，免费旅鼠游戏的克隆"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "POPFile - 电子邮件自动分类"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "PrBooM-GL 多玩家"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM－GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "PrBooM 多人游戏"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Free SSH, Telnet and Rlogin client"
-#~ msgstr "免费的 SSH、Telent 和 Rlogin 客户"
 
-#~ msgid "Putty"
-#~ msgstr "Putty"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic Writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Siag Office Pathetic writer"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Python 控制的分子图形"
 
-#~ msgid "ALSA Mixer"
-#~ msgstr "ALSA 混音器"
 
-#~ msgid "QAMix"
-#~ msgstr "QA 混音器"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "ALSA 录音程序的图形界面"
 
-#~ msgid "QARecord"
-#~ msgstr "QA 录音"
 
-#~ msgid "Multipage TIFF viewer"
-#~ msgstr "多页 TIFF 查看器"
 
-#~ msgid "QFaxReader"
-#~ msgstr "Q传真查看器"
 
-#~ msgid "Quantum GIS"
-#~ msgstr "Quantum GIS 地理信息系统"
 
-#~ msgid "Quantum Geographic Information System"
-#~ msgstr "Quantum 地理信息系统"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "基于 Qt 的 Jackit 连接器"
 
-#~ msgid "QJoyPad"
-#~ msgstr "QJoyPad"
 
-#~ msgid "MIDI Arpeggiator"
-#~ msgstr "MIDI 琶音"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "QtRadio - 用 QtRadio 听广播。"
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "生成 3D 分形物体"
 
-#~ msgid "Quat"
-#~ msgstr "Quat"
 
-#~ msgid "Keep track of things"
-#~ msgstr "记录重要事情"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "VCD 创建程序"
 
-#~ msgid "Poker-like card game"
-#~ msgstr "类似桥牌的游戏"
 
-#~ msgid "RA Pai Gaw Poker"
-#~ msgstr "RA Pai Gaw Poker"
 
-#~ msgid "Molecular Graphics Visualization Tool"
-#~ msgstr "分子绘图可视化工具"
 
-#~ msgid "RasMol"
-#~ msgstr "RasMol"
 
-#~ msgid "RBBR"
-#~ msgstr "RBBR"
 
-#~ msgid "RuBy BRowser"
-#~ msgstr "RuBy 浏览器"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "数字音频波形编辑器"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "Root-tail 直接在 X 的根窗口打印文本"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "SDLRoids - 一个增强了的小行星射击游戏"
 
-#~ msgid "Colourful puzzle game"
-#~ msgstr "彩色的解密游戏"
 
-#~ msgid "SDL Vexed"
-#~ msgstr "SDL Vexed"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "基于回放的 MIDI 音序器"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "MIDI 事件混音器"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "SoundFontCombi"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX 摄影爱好者"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "屏幕抓图"
 
-#~ msgid "SimSam"
-#~ msgstr "SimSam"
 
-#~ msgid "Simple Sampler"
-#~ msgstr "简单采样器"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "多玩家立体赛车撞车游戏"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "GPL SoundFont 编辑器"
 
-#~ msgid "Music player"
-#~ msgstr "音乐播放器"
 
-#~ msgid "SnackAmp"
-#~ msgstr "SnackAmp"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr "二维疯狂的街机游戏，要收集盒子，并且躲避子弹"
 
-#~ msgid "Multitrack wave editor"
-#~ msgstr "多音轨的音频编辑"
 
-#~ msgid "Songs"
-#~ msgstr "Songs 音频编辑"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "吉他乐谱编辑器"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Grass (Spearfish)"
 
-#~ msgid "Grass using the Spearfish sample data set"
-#~ msgstr "使用 Spearfish 示例数据集 Grass"
 
-#~ msgid "MIDI software sampler"
-#~ msgstr "MIDI 软件采样器"
 
-#~ msgid "Specimen"
-#~ msgstr "Specimen"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "螺旋形模块的软件合成器"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "螺旋形模块合成器"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "ZynAddSubFX 的 MIDI 键盘分离器"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "项目：星空大战"
 
-#~ msgid "Stellarium"
-#~ msgstr "天文馆"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "连接三星的 Uproar 和 Yepp"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "Sophisticated clock for the X Window system"
-#~ msgstr "X 窗口系统的时钟"
 
-#~ msgid "Sunclock"
-#~ msgstr "时钟"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "VLC 是自由软件的 MPEG、MPEG2、DVD 和 DivX 播放器"
 
-#~ msgid "VLC skinned GUI media player"
-#~ msgstr "VLC 外观的 GUI 媒体播放器"
 
-#~ msgid "Software manager for WinCE devices"
-#~ msgstr "WinCE 设备的软件管理器"
 
-#~ msgid "Synce-software-manager"
-#~ msgstr "SynCE 软件管理器"
 
-#~ msgid "Quick-configure menu"
-#~ msgstr "快速配置菜单"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "Ted, Rich Text Processor"
-#~ msgstr "Ted 丰富文本处理器"
 
-#~ msgid "Go chess for GNOME"
-#~ msgstr "玩 GNOME 的国际象棋"
 
-#~ msgid "Tengen"
-#~ msgstr "Tengen"
 
-#~ msgid "JACK TimeMachine"
-#~ msgstr "JACK 时间机器"
 
-#~ msgid "Records audio from ten seconds ago"
-#~ msgstr "录制前十秒的声音"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "开放赛车模拟器"
 
-#~ msgid "Simple clone of Notepad"
-#~ msgstr "Notepad 的简单克隆"
 
-#~ msgid "TPad"
-#~ msgstr "TPad"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Tux 赛车"
 
-#~ msgid "Fun game to learn math"
-#~ msgstr "在快乐的游戏中学习数学"
 
-#~ msgid "TuxMathScrabble"
-#~ msgstr "Tux 快乐数学"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tux 小精灵"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters 游戏"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "3D 模型设计"
 
-#~ msgid "Vertex"
-#~ msgstr "Vertex"
 
-#~ msgid "On-screen ALSA MIDI keyboard"
-#~ msgstr "屏幕上的 ALSA MIDI 键盘"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (VOCP 收发传真的图形界面)"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "VICE SID 音乐播放器能播放 Commodore 乐曲"
 
-#~ msgid "VSID music player"
-#~ msgstr "VSID 音乐播放器"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "图形界面的声音编辑器"
 
-#~ msgid "WaveSurfer"
-#~ msgstr "WaveSurfer"
 
-#~ msgid "Battle For Wesnoth editor"
-#~ msgstr "为 Wesnoth 而战编辑器"
 
-#~ msgid "The map editor of Battle for Wesnoth"
-#~ msgstr "为 Wesnoth 而战的地图编辑器"
 
-#~ msgid "A fantasy turn-based strategy game."
-#~ msgstr "梦幻的按轮策略游戏。"
 
-#~ msgid "Battle For Wesnoth"
-#~ msgstr "为 Wesnoth 而战"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "以企鹅 Tux 为主角的滑雪竞赛游戏"
 
-#~ msgid "Settlers II clone"
-#~ msgstr "殖民者二代克隆"
 
-#~ msgid "Widelands"
-#~ msgstr "Widelands"
 
-#~ msgid "WLanFE"
-#~ msgstr "WLanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "无线局域网配置"
 
-#~ msgid "WmApm"
-#~ msgstr "Wm 电源监视"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "面板上的 CPU 监视器"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "Wm CPU 负载"
 
-#~ msgid "WmCube"
-#~ msgstr "Wm 正方体"
 
-#~ msgid "WmDf"
-#~ msgstr "Wm 磁盘监视器"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr "小图标上的 CPU 监视器，用火焰表示 CPU 负载"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "鱼缸里的仿真时钟"
 
-#~ msgid "WmFishTime"
-#~ msgstr "Wm 鱼缸式时钟"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "图标中的旋转地球"
 
-#~ msgid "WmGlobe"
-#~ msgstr "Wm 地球仪"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "OSS 调音台面板程序"
 
-#~ msgid "Laptop status docklet"
-#~ msgstr "膝上计算机状态"
 
-#~ msgid "WMLaptop"
-#~ msgstr "WM膝上计算机"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "WindowMaker 的内存、虚拟内存监视器"
 
-#~ msgid "UPS monitoring in a dockapp"
-#~ msgstr "停靠程序的 UPS 监视"
 
-#~ msgid "WMNut"
-#~ msgstr "WMNut"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "监视多个 POP3 信箱的面板程序"
 
-#~ msgid "WmsMixer"
-#~ msgstr "Wm 混音器"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "在小图标上显示股票报价"
 
-#~ msgid "WmStock"
-#~ msgstr "Wm 股票"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr "在小图标上显示系统信息(内存、交换分区、正常运行时间、输入输出等)"
 
-#~ msgid "WmSysMon"
-#~ msgstr "Wm 系统监视"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "观看您自己的摄像头的画面，在小的面板窗口里"
 
-#~ msgid "WmWebcam"
-#~ msgstr "Wm 摄像头"
 
-#~ msgid "WMWifi"
-#~ msgstr "WM Wifi"
 
-#~ msgid "Wireless network docklet"
-#~ msgstr "无线网络停靠小程序"
 
-#~ msgid "WmXss"
-#~ msgstr "Wm 屏幕保护"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "类似 AMIGA上 Directory Opus 的文件管理器"
 
-#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
-#~ msgstr "协助恢复并避免过度劳累伤害(RSI)"
 
-#~ msgid "Workrave"
-#~ msgstr "工间操"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "wxWindows/wxPython 的 GUI 创建程序"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "C128 模拟器"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "Commodore 128 模拟器"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "C64 模拟器"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "Commodore 64 模拟器"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "实时分维图形"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "统治者游戏"
 
-#~ msgid "Defend your computers from Wingdows Viruses"
-#~ msgstr "防护您的计算机免于 Wingdows 病毒袭击"
 
-#~ msgid "XBill"
-#~ msgstr "X 杀病毒"
 
-#~ msgid "X blast"
-#~ msgstr "X 爆炸"
 
-#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
-#~ msgstr "X 爆炸 TNT 是一个类似于轰炸机的游戏（多人游戏）"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "CBM2 模拟器"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "CBM2 模拟器"
 
-#~ msgid "CHM viewer for UNIX"
-#~ msgstr "UNIX 的 CHM 查看器"
 
-#~ msgid "DVI files viewer"
-#~ msgstr "查看 DVI 文件"
 
-#~ msgid "XDvi"
-#~ msgstr "XDvi"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Siag 文本编辑器"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Siag 文件管理器"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmms"
-#~ msgstr "Xmms 音乐播放机"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Is 先生，X 下的憨豆克隆"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "一群企鹅在桌面上跑"
 
-#~ msgid "Xpenguins"
-#~ msgstr "X 企鹅"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "Commodore PET 模拟器"
 
-#~ msgid "PET Emulator"
-#~ msgstr "PET 模拟器"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "飞行射击游戏"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Xpilot 服务器"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - 需要服务器"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "CPLUS4 模拟器"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "CPLUS4 模拟器"
 
-#~ msgid "News reader"
-#~ msgstr "新闻阅读程序"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "软件包管理工具"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "很象抓小偷的一个闯关游戏"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "XScorch"
-#~ msgstr "XScorch"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Siag Office 电子表格"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "C64 音乐播放器"
 
-#~ msgid "The Skat game"
-#~ msgstr "Skat 游戏"
 
-#~ msgid "Fullscreen gesture recognition"
-#~ msgstr "全屏手势识别"
 
-#~ msgid "X-Tux"
-#~ msgstr "X-Tux"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "Commodore VIC 20 模拟器"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "VIC 20 模拟器"
 
-#~ msgid "On-screen keyboard for X"
-#~ msgstr "屏幕上的键盘"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (VOCP 收取语音信息的图形界面)"
 
-#~ msgid "Graphical interface to gdb debugger"
-#~ msgstr "调试器 gdb 的一个图形界面"
 
-#~ msgid "Xxgdb"
-#~ msgstr "Xxgdb"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "设计 DOOM 关卡"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Yudit"
-#~ msgstr "Yudit 编辑器"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "实时 MIDI 软波表合成器"
 
-#~ msgid "Lets you edit audio samples under gnome"
-#~ msgstr "让您在 GNOME 下编辑音频采样"
 
-#~ msgid "Marlin Sample Editor"
-#~ msgstr "Marlin 采样编辑器"
 
-#~ msgid "Panel Manager"
-#~ msgstr "面板管理器"
 
-#~ msgid "Text editor"
-#~ msgstr "文本编辑器"
 
-#~ msgid "medit"
-#~ msgstr "medit"
 
-#~ msgid "Compare and merge your files"
-#~ msgstr "比较和合并您的文件"
 
-#~ msgid "Meld"
-#~ msgstr "Meld"
 
-#~ msgid "Maintain and query a SQL database"
-#~ msgstr "维护和查询 SQL 数据库"
 
-#~ msgid "Mergeant Database Administration"
-#~ msgstr "Mergeant 数据库管理"
 
-#~ msgid "Lightweight web browser"
-#~ msgstr "轻量的 Web 浏览器"
 
-#~ msgid "Midori"
-#~ msgstr "Midori"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "It's the internet"
-#~ msgstr "连接至互联网"
 
-#~ msgid "Monkey Bubble"
-#~ msgstr "Monkey Bubble"
 
-#~ msgid "Monkey Bubble Arcade Game"
-#~ msgstr "Monkey Bubble Arcade 游戏"
 
-#~ msgid "MonoDevelop"
-#~ msgstr "Mono 开发"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "粉碎怪兽并拯救 GNOME"
 
-#~ msgid "Monster Masher"
-#~ msgstr "怪兽粉碎机"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Listen to your music"
-#~ msgstr "听您的音乐"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Muine 音乐播放器"
 
-#~ msgid "MySQL Administrator"
-#~ msgstr "MySQL 管理员"
 
-#~ msgid "MySQL Query Browser"
-#~ msgstr "MySQL 查询浏览器"
 
-#~ msgid "Add items to the Nautilus popup menu"
-#~ msgstr "在 Nautilus 弹出菜单中添加项目"
 
-#~ msgid "Nautilus Actions Configuration"
-#~ msgstr "Nautilus 动作配置"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "配置网络设备和连接"
 
-#~ msgid "Neverball"
-#~ msgstr "Neverball"
 
-#~ msgid "Neverputt"
-#~ msgstr "高尔夫"
 
-#~ msgid "NFO Viewer"
-#~ msgstr "NFO Viewer"
 
-#~ msgid "View NFO files"
-#~ msgstr "浏览 NFO 文件"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "管理或更改您的网络连接设置"
 
-#~ msgid "Network Connections"
-#~ msgstr "网络连接"
 
-#~ msgid "Downloader for X"
-#~ msgstr "X 文件下载工具"
 
-#~ msgid "downloading program"
-#~ msgstr "下载程序"
 
-#~ msgid "Enable/disable write support for NTFS with a simple click."
-#~ msgstr "点击将启用/禁用 NTFS 写入支持。"
 
-#~ msgid "NTFS Configuration Tool"
-#~ msgstr "NTFS 写入支持配置程序"
 
-#~ msgid "OnTV"
-#~ msgstr "OnTV"
 
-#~ msgid "Fetion For Linux"
-#~ msgstr "Linux版飞信客户端"
 
-#~ msgid "OpenFetion"
-#~ msgstr "飞信(OpenFetion)"
 
-#~ msgid "A clone of Transport Tycoon Deluxe"
-#~ msgstr "克隆 TTD 全新版"
 
-#~ msgid "OXIM Setup Tool"
-#~ msgstr "OXIM 输入法设定"
 
-#~ msgid "Clipboard Manager"
-#~ msgstr "剪切板管理器"
 
-#~ msgid "Parcellite"
-#~ msgstr "Parcellite"
 
-#~ msgid "Parole Media Player"
-#~ msgstr "Parole 媒体播放器"
 
-#~ msgid "PCMan X BBS Client"
-#~ msgstr "PCMan X BBS 连线软件"
 
-#~ msgid "PHoto bATCH Processor"
-#~ msgstr "照片批量处理 & 命名"
 
-#~ msgid "Phatch PHoto bATCH Processor"
-#~ msgstr "Phatch 照片批量处理 & 命名"
 
-#~ msgid "Pinot Metasearch Tool"
-#~ msgstr "元搜寻工具"
 
-#~ msgid "Search the Web and your documents"
-#~ msgstr "搜寻网络路和你的文件"
 
-#~ msgid "Create and edit your own movies"
-#~ msgstr "创建并编辑自己的电影"
 
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Pitivi 视频编辑器"
 
-#~ msgid "Poker Card Game"
-#~ msgstr "扑克牌游戏"
 
-#~ msgid "A dictionary for Chinese <-> English"
-#~ msgstr "英汉/汉英字典"
 
-#~ msgid "Chinese/English Dictionary"
-#~ msgstr "英汉/汉英字典"
 
-#~ msgid "Bibliography Manager"
-#~ msgstr "书目管理器"
 
-#~ msgid "Manage bibliographic databases"
-#~ msgstr "管理书目数据库"
 
-#~ msgid "Pybliographic Bibliography Manager"
-#~ msgstr "图书书目管理器"
 
-#~ msgid "pydance"
-#~ msgstr "舞蹈机"
 
-#~ msgid "QDVDAuthor"
-#~ msgstr "QDVDAuthor"
 
-#~ msgid "Qt4-based Multimedia Player"
-#~ msgstr "基于Qt4的多媒体播放器"
 
-#~ msgid "Open cue album"
-#~ msgstr "打开 CUE"
 
-#~ msgid "Open cue file(s) in the directory"
-#~ msgstr "在本目录打开 CUE 文件"
 
-#~ msgid "Add file(s) to the Qmmp playlist"
-#~ msgstr "添加一个或多个文件到 Qmmp 播放列表"
 
-#~ msgid "Enqueue in Qmmp"
-#~ msgstr "加入 Qmmp 播放列表"
 
-#~ msgid "BBS Client"
-#~ msgstr "BBS 客户端程序"
 
-#~ msgid "Quarry"
-#~ msgstr "Quarry 棋盘游戏界面"
 
-#~ msgid "Listen to, browse, or edit your audio collection"
-#~ msgstr "听、浏览或者编辑您的音频收藏"
 
-#~ msgid "Search and replace using regular expressions"
-#~ msgstr "使用正则表达式搜索并替换"
 
-#~ msgid "regexxer Search Tool"
-#~ msgstr "regexxer 搜索工具"
 
-#~ msgid "Connect to remote desktops"
-#~ msgstr "连接到远程桌面"
 
-#~ msgid "Remmina Remote Desktop Client"
-#~ msgstr "Remmina 远程桌面客户端"
 
-#~ msgid "Organize and secure your passwords"
-#~ msgstr "组织并保卫更改您的密码"
 
-#~ msgid "ripperX"
-#~ msgstr "RipperX"
 
-#~ msgid "Look at your photo's easily"
-#~ msgstr "轻松查看您的照片"
 
-#~ msgid "Ristretto Photo Viewer"
-#~ msgstr "Ristretto 图像查看器"
 
-#~ msgid "Rosegarden"
-#~ msgstr "玫瑰园 MIDI 处理"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "Decrypt File"
-#~ msgstr "解密文件"
 
-#~ msgid "Import Key"
-#~ msgstr "导入密钥"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "配置密钥服务器和其他加密设置"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "加密和密钥链"
 
-#~ msgid "Verify Signature"
-#~ msgstr "校验签名"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "管理您的密码和加密密钥"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "密码和加密密钥"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "配置要在系统启动时使用哪些服务"
 
-#~ msgid "Services"
-#~ msgstr "服务"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "配置哪些文件夹可共享给网络邻居"
 
-#~ msgid "Shared Folders"
-#~ msgstr "共享的文件夹"
 
-#~ msgid "Organize your photos"
-#~ msgstr "Shotwell Photo Manager"
 
-#~ msgid "Simple CompizConfig Settings Manager"
-#~ msgstr "简化版CompizConfig设置管理器"
 
-#~ msgid "Scan Documents"
-#~ msgstr "扫描文档"
 
-#~ msgid "Simple Scan"
-#~ msgstr "扫描易"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "AT-SPI Browser"
-#~ msgstr "AT-SPI 浏览器"
 
-#~ msgid "Audio Format Converter"
-#~ msgstr "音频格式转换器"
 
-#~ msgid "Convert audio files into other formats"
-#~ msgstr "将音频文件转化为其他格式"
 
-#~ msgid "Sound Converter"
-#~ msgstr "声音转换器"
 
-#~ msgid "A subtitle editor based on GStreamer and Gtk+"
-#~ msgstr "一个基于 GStreamer 和 Gtk+ 的字幕编辑器"
 
-#~ msgid "A Platform Game"
-#~ msgstr "平台游戏"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "播放 Adobe Flash 文件"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Swfdec Flash 播放器"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Proc 配置"
 
-#~ msgid "Change the default Java toolset"
-#~ msgstr "更改默认 Java 工具组件"
 
-#~ msgid "Personal task manager"
-#~ msgstr "个人任务管理"
 
-#~ msgid "Tasks"
-#~ msgstr "任务"
 
-#~ msgid "To Do list"
-#~ msgstr "任务列表"
 
-#~ msgid "Easy quick task management"
-#~ msgstr "简单快速任务管理器"
 
-#~ msgid "Tasque"
-#~ msgstr "Tasque"
 
-#~ msgid "Multiple terminals in one window"
-#~ msgstr "一个窗口里多个终端"
 
-#~ msgid "Terminator"
-#~ msgstr "Terminator"
 
-#~ msgid "Configure the Thunar file manager"
-#~ msgstr "配置 Thunar 文件管理器"
 
-#~ msgid "Configure management of removable drives and media"
-#~ msgstr "可移动驱动器和介质管理"
 
-#~ msgid "Removable Drives and Media"
-#~ msgstr "可移动驱动器和介质"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "更改系统时间、日期和时区"
 
-#~ msgid "Time and Date"
-#~ msgstr "时间和日期"
 
-#~ msgid "Simple DVD mastering GUI"
-#~ msgstr "简单 DVD 控制的图形化程序"
 
-#~ msgid "TkDVD"
-#~ msgstr "TkDVD"
 
-#~ msgid "Trackballs"
-#~ msgstr "轨迹球"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "终端服务客户端"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "小朋友的绘图程序"
 
-#~ msgid "Drawing program"
-#~ msgstr "绘图程序"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux 绘图"
 
-#~ msgid "Urlgfe"
-#~ msgstr "Urlgfe"
 
-#~ msgid "Users and Groups"
-#~ msgstr "用户和组"
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid "Manage virtual machines"
-#~ msgstr "管理虚拟机"
 
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "虚拟系统管理"
 
-#~ msgid "Read, capture, broadcast your multimedia streams"
-#~ msgstr "VLC media player"
 
-#~ msgid "VLC media player"
-#~ msgstr "VLC 媒体播放器"
 
-#~ msgid "Application for mobile phones - frontend for Gammu"
-#~ msgstr "移动电话应用程序 - Gammu 的前端"
 
-#~ msgid "Mobile Phone Manager"
-#~ msgstr "移动电话管理器"
 
-#~ msgid "Wammu"
-#~ msgstr "Wammu"
 
-#~ msgid "Wormux"
-#~ msgstr "Wormux"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "IBM 3270 模拟终端"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "Chat with people using IRC"
-#~ msgstr "使用IRC聊天"
 
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "XChat-GNOME 聊天"
 
-#~ msgid "DOS emulator running under X"
-#~ msgstr "X 下运行的 DOS 模拟器"
 
-#~ msgid "Burn Image (xfburn)"
-#~ msgstr "烧录映像(xfburn)"
 
-#~ msgid "CD and DVD burning application"
-#~ msgstr "CD和DVD烧录程序"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "桌面日历"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Desktop "
-#~ msgstr "桌面 "
 
-#~ msgid "Set desktop background and menu and icon behaviour"
-#~ msgstr "设置桌面背景，菜单，及图标属性"
 
-#~ msgid "Configure screen settings and layout"
-#~ msgstr "设置屏幕参数及布局"
 
-#~ msgid "Edit keyboard settings and application shortcuts"
-#~ msgstr "编辑键盘设置和应用程序快捷键"
 
-#~ msgid "Configure pointer device behavior and appearance"
-#~ msgstr "设置定位设备（比如鼠标）行为和外观"
 
-#~ msgid "Customize desktop startup and splash screen"
-#~ msgstr "自定义桌面启动和闪屏"
 
-#~ msgid "Session and Startup"
-#~ msgstr "Session 和启动"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "Xfce 4 图形设定管理器"
 
-#~ msgid "Settings Manager"
-#~ msgstr "设定管理器"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Xfce 4设置管理器"
 
-#~ msgid "Customize the look of your desktop"
-#~ msgstr "设置桌面外观"
 
-#~ msgid "Configure window behavior and shortcuts"
-#~ msgstr "配置窗口行为及快捷方式"
 
-#~ msgid "Fine-tune window behaviour and effects"
-#~ msgstr "微调窗口行为及效果"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "窗口管理器调整"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "设置工作区数目："
 
-#~ msgid "Workspaces"
-#~ msgstr "工作区"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "日历设置"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Xfce4 日历程序设置"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Xfce 4日历设置"
 
-#~ msgid "About Xfce"
-#~ msgstr "关于 Xfce"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "关于 Xfce 桌面环境的信息"
 
-#~ msgid "Improve keyboard and mouse accessibility"
-#~ msgstr "使您的键盘和鼠标更好用"
 
-#~ msgid "Find and launch applications installed on your system"
-#~ msgstr "查找并启动您系统上安装的程序"
 
-#~ msgid "Clipboard manager"
-#~ msgstr "剪贴板管理器"
 
-#~ msgid "Clipman"
-#~ msgstr "Clipman"
 
-#~ msgid "A client program to query different dictionaries."
-#~ msgstr "用于查询不同词典的客户端程序"
 
-#~ msgid "Dictionary Client"
-#~ msgstr "词典客户端"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "Thunar 文件管理器"
 
-#~ msgid "Help using Xfce"
-#~ msgstr "帮助使用Xfce"
 
-#~ msgid "Log Out"
-#~ msgstr "注销"
 
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "注销 Xfce"
 
-#~ msgid "Audio mixer for the Xfce Desktop Environment"
-#~ msgstr "Xfce 桌面环境混音器"
 
-#~ msgid "Ideal for your quick notes"
-#~ msgstr "一个理想的快速便笺程序"
 
-#~ msgid "Customize the panel settings"
-#~ msgstr "自定义面板设置"
 
-#~ msgid "Power Manager"
-#~ msgstr "电源管理器"
 
-#~ msgid "Settings for the Xfce 4 Power Manager"
-#~ msgstr "Xfce 4 电源管理器设置"
 
-#~ msgid "Xfce 4 Power Manager"
-#~ msgstr "Xfce 4 电源管理器"
 
-#~ msgid "Run Program..."
-#~ msgstr "启动程序..."
 
-#~ msgid "Run a program"
-#~ msgstr "启动程序"
 
-#~ msgid "Screenshot"
-#~ msgstr "屏幕截图"
 
-#~ msgid ""
-#~ "Take screenshots of the entire screen, of the active window or of a region"
-#~ msgstr "截取全屏幕或当前活动窗口或某一指定区域图像"
 
-#~ msgid "Sensor Viewer"
-#~ msgstr "传感器查看器"
 
-#~ msgid "Sensors Values Viewer"
-#~ msgstr "传感器查看器"
 
-#~ msgid "Show sensor values."
-#~ msgstr "显示传感器值。"
 
-#~ msgid "Graphical settings editor for Xfconf"
-#~ msgstr "Xfconf 的图形界面设置编辑器"
 
-#~ msgid "Settings Editor"
-#~ msgstr "设置编辑器"
 
-#~ msgid "Easy to use task manager"
-#~ msgstr "易用的任务管理器"
 
-#~ msgid "Terminal emulator"
-#~ msgstr "终端模拟器"
 
-#~ msgid "MPD client"
-#~ msgstr "MPD客户端"
 
-#~ msgid "MPD client written in GTK+ for Xfce"
-#~ msgstr "使用GTK+编写的用于Xfce的MPD客户端"
 
-#~ msgid "Xfmpc"
-#~ msgstr "Xfmpc"
 
-#~ msgid "Print Manager"
-#~ msgstr "打印管理器"
 
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "显示打印列表，允许你管理其任务"
 
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "xfce4 打印管理器"
 
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr "允许你选择xfprint使用的打印系统后端"
 
-#~ msgid "Printing System Settings"
-#~ msgstr "打印系统设置"
 
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "xfce4 打印系统设置"
 
-#~ msgid "Print Dialog"
-#~ msgstr "打印对话框"
 
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "打印文件并让你设置其版面"
 
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "xfce4 打印对话框"
 
-#~ msgid "Jot down notes for later"
-#~ msgstr "简要记录备注以备日后使用"
 
-#~ msgid "Sticky Notes"
-#~ msgstr "笔记贴纸"
 
-#~ msgid "Xpad"
-#~ msgstr "Xpad"
 
-#~ msgid "Xpaint"
-#~ msgstr "X 画图"
 
-#~ msgid "Zim Desktop Wiki"
-#~ msgstr "Zim 桌面维基"
 
-#~ msgid "ATI Catalyst Control Center"
-#~ msgstr "ATI Catalyst 控制中心"
 
-#~ msgid "Google Earth Install"
-#~ msgstr "安装 Google Earth"
 
-#~ msgid "Sun Java 1.5.0 Plugin Control Panel"
-#~ msgstr "Sun Java 1.5.0 Plugin 控制面版"
 
-#~ msgid "Sun Java 1.5.0 Web Start"
-#~ msgstr "Sun Java 1.5.0 Web Start"
 
-#~ msgid "Sun Java 1.5.0 Console"
-#~ msgstr "Sun Java 1.5.0 控制台"
 
-#~ msgid "Sun Java 1.5.0 Monitoring & Management Console"
-#~ msgstr "Sun Java 1.5.0 监视与管理控制台"
 
-#~ msgid "Sun Java 1.5.0 Policy Tool"
-#~ msgstr "Sun Java 1.5.0 策略工具"
 
-#~ msgid "Sun Java 1.6.0 Plugin Control Panel"
-#~ msgstr "Sun Java 1.6.0 Plugin 控制面版"
-
-#~ msgid "Sun Java 1.6.0 Web Start"
-#~ msgstr "Sun Java 1.6.0 Web Start"
-
-#~ msgid "Sun Java 1.6.0 Cache Viewer"
-#~ msgstr "Sun Java 1.6.0 缓存浏览器"
-
-#~ msgid "Sun Java 1.6.0 Console"
-#~ msgstr "Sun Java 1.6.0 控制台"
-
-#~ msgid "Sun Java 1.6.0 Monitoring & Management Console"
-#~ msgstr "Sun Java 1.6.0 监视与管理控制台"
-
-#~ msgid "Sun Java 1.6.0 Policy Tool"
-#~ msgstr "Sun Java 1.6.0 策略工具"
-
-#~ msgid "Dell Remote Console Switch Software"
-#~ msgstr "Dell 远端主控台切换程式"
-
-#~ msgid "drcss"
-#~ msgstr "drcss"
-
-#~ msgid "FreeCol"
-#~ msgstr "FreeCol"
-
-#~ msgid "FreeCol is an open version of the game Colonization"
-#~ msgstr "FreeCol 是游戏 Colonization 的开放版本"
-
-#~ msgid "tuxfw"
-#~ msgstr "tuxfw"
-
-#~ msgid "Tux Droid Interface"
-#~ msgstr "Tux Droid 界面"
-
-#~ msgid "Tux Droid graphical interface"
-#~ msgstr "Tux Droid 图形界面"
-
-#~ msgid "Tux Gadget Maker"
-#~ msgstr "Tux Gadget 制作程序"
-
-#~ msgid "Tux droid gadget maker written by Rémi Jocaille"
-#~ msgstr "Rémi Jocaille 写的 Tux droid gadget 制作程序"
-
-#~ msgid "Tux Gadget Manager"
-#~ msgstr "Tux Gadget 管理器"
-
-#~ msgid "Tux droid gadget manager written by Rémi Jocaille"
-#~ msgstr "Rémi Jocaille 写的 Tux droid gadget 管理器"
-
-#~ msgid "Tux Shell"
-#~ msgstr "Tux Shell"
-
-#~ msgid "Tux droid shell written by Rémi Jocaille"
-#~ msgstr "Rémi Jocaille 写的 Tux droid shell"

@@ -1,72 +1,84 @@
-# Menu section translation to Bahasa Indonesia
-# Copyright (C) 2003
-# This file is distributed under the same license as the menu package.
-# Bill Allombert <ballombe@debian.org>, 2003.
 #
+# Latest versions of po files are at http://www.mandrivalinux.com/l10n/id.php3
+#
+# MenuMessages Bahasa Indonesia
+# Copyright (C) 2000 Mandriva
+# Budi Rachmanto <rac@linux-mandrake.com>, 2001 - 2003
+# Willy Sudiarto Raharjo <willysr@gmail.com>, 2004 - 2006.
+# Erwien Samantha <erwiensamantha@gmail.com>, 2005.
+# Bayu Artanto <bayuart@yahoo.com>, 2005.
+# Ahmad Ramadhana <ahmad_ramadhana@yahoo.com.sg>, 2005.
+# Firdaus <dausnux@gmail.com>, 2005.
+# Sofian <sofianhanafi@yahoo.com>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.9-3\n"
+"Project-Id-Version: menu-messages 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-03-08 15:54+0700\n"
-"Last-Translator: Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>\n"
-"Language-Team: Debian Indonesian Team <debian-l10n-id@gurame.fisika.ui.ac."
-"id>\n"
+"PO-Revision-Date: 2007-02-24 10:01+0700\n"
+"Last-Translator: Willy Sudiarto Raharjo <willysr@gmail.com>\n"
+"Language-Team: Indonesia <mdk-id@yahoogroups.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #, fuzzy
 msgid "2D Graphics"
-msgstr "Pengolah Gambar"
+msgstr "Grafis"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "Aplikasi grafis"
 
 #, fuzzy
 msgid "3D Graphics"
-msgstr "Pengolah Gambar"
+msgstr "Grafis"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "Aplikasi grafis"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "Manajemen Berkas"
+msgstr "Permainan dan hiburan"
 
 msgid "Accessibility"
-msgstr "Aksesibilitas"
+msgstr "Aksesibiliti"
 
+#, fuzzy
 msgid "Action"
-msgstr "Pertarungan"
+msgstr "Pendidikan"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "Pertarungan"
+msgstr "Permainan aksi-teka-teki"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
-msgstr "Administrasi Sistem"
+msgstr "Administrasi"
 
 msgid "Adventure"
 msgstr "Petualangan"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "Petualangan"
+msgstr "Permainan mirip Tetris"
 
 msgid "Amateur Radio"
-msgstr "Radio Amatir"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "Aplikasi"
+msgstr "Pencari Aplikasi"
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -84,22 +96,26 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Pertempuran"
+msgstr "Arcade"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "Permainan video arcade"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Perkakas Pengarsip"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr "Kecerdasan Buatan"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "Kecerdasan Buatan"
 
 msgid "Astronomy"
 msgstr "Astronomi"
@@ -111,25 +127,27 @@ msgstr "Astronomi"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "Pemutar Audio"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "Perekam Suara"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "backup"
 
 msgid "Biology"
 msgstr "Biologi"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "Biologi"
+msgstr "Perangkat Lunak Morphing"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Susun Balok"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Permainan Papan"
@@ -145,13 +163,14 @@ msgstr "Kalkulator"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "Emulator"
+msgstr "Kalkulator"
 
 msgid "Calendar"
 msgstr "Kalender"
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "Toolset Java"
 
 msgid "Card Games"
 msgstr "Permainan Kartu"
@@ -161,7 +180,7 @@ msgstr "Kartu"
 
 #, fuzzy
 msgid "Chart"
-msgstr "Kartu"
+msgstr "KCharSelect"
 
 msgid "Chat"
 msgstr ""
@@ -175,11 +194,11 @@ msgstr "Kimia"
 
 #, fuzzy
 msgid "Clock"
-msgstr "Susun Balok"
+msgstr "wmMoonClock"
 
 #, fuzzy
 msgid "Communications"
-msgstr "Komunikasi"
+msgstr "Notifikasi"
 
 msgid "Compression"
 msgstr ""
@@ -187,22 +206,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Ilmu komputer"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "Ilmu komputer"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "Ilmu komputer"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "Geosains"
+msgstr "Ilmu komputer"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Perkakas Konfigurasi ODBC (Pengguna Root)"
 
 #, fuzzy
 msgid "Construction"
-msgstr "Komunikasi"
+msgstr "Administrasi"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -210,15 +232,16 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Visualisasi Data"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "Visualisasi Data"
 
 msgid "Databases"
 msgstr "Basis Data"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "Aplikasi"
+msgstr "Aplikasi Selebihnya"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -226,23 +249,27 @@ msgstr "Desktop"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "Widget Desktop"
 
 msgid "Development"
 msgstr "Pengembangan"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "Lingkungan Pengembangan"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "Program grafik 3D"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "Kamus"
 
 msgid "Dictionary"
 msgstr "Kamus"
@@ -268,21 +295,24 @@ msgstr "Pendidikan"
 msgid "Electricity"
 msgstr "Kelistrikan"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "Kelistrikan"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "Elektronika"
+msgstr "Kelistrikan"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Aplikasi"
+msgstr "Aplikasi grafis"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -291,39 +321,44 @@ msgid "Emulators"
 msgstr "Emulator"
 
 msgid "Engineering"
-msgstr "Teknik & Rekayasa"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "Susun Balok"
+msgstr "Paskan blok jatuh bersamaan"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "Paskan blok jatuh bersamaan"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "Manajemen Berkas"
+msgstr "Manajer File"
 
 msgid "File Systems"
 msgstr "File Sistem"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "Transfer Berkas"
+msgstr "Manajer File"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "File Sistem"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "Perkakas teks"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "Ilmu Pengetahuan"
 
 msgid "Flow Chart"
 msgstr ""
@@ -331,11 +366,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Qt Designer"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "Aplikasi outline tingkat mahir"
 
 msgid "Games"
 msgstr "Permainan"
@@ -353,24 +390,27 @@ msgstr "Geografi"
 msgid "Geology"
 msgstr "Biologi"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "Geosains"
+msgstr "Geoscience"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "Geosains"
+msgstr "Geoscience"
 
 msgid "Geosciences"
 msgstr "Geoscience"
 
 msgid "Graphics"
-msgstr "Pengolah Gambar"
+msgstr "Grafis"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
 msgid "Hardware"
 msgstr "Perangkat Keras"
@@ -378,33 +418,38 @@ msgstr "Perangkat Keras"
 msgid "History"
 msgstr "Sejarah"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "Klien IM"
 
 msgid "Image Processing"
 msgstr "Pengolah Citra"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "Pengolah Citra"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Pesan Instan"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "Klien Pesan Instan Universal"
 
 msgid "Internet"
 msgstr "Internet"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Aplikasi"
+msgstr "Aplikasi Selebihnya"
 
 msgid "Java"
 msgstr ""
@@ -427,42 +472,50 @@ msgstr "Permainan Logika"
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
 msgid "Mathematics"
 msgstr "Matematika"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "Perangkat Lunak DJ"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "Penampil Dokumen"
+msgstr "Mixer"
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "Pemantauan"
+msgstr "Monitor"
 
 msgid "Multimedia"
 msgstr "Multimedia"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "Menu multimedia"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "Multimedia Player"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "Multimedia Player"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
 msgid "Network"
 msgstr "Jaringan"
@@ -472,7 +525,7 @@ msgstr "Penataan terkait jaringan"
 
 #, fuzzy
 msgid "News"
-msgstr "Berita Internet"
+msgstr "Mail/Berita"
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -480,14 +533,15 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Analisa Numeris"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "Analisa Numeris"
 
 msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "Program Kantoran"
+msgstr "Perkantoran"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -500,14 +554,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "Pemrograman"
+msgstr "Program lukis"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "Manajemen Paket"
+msgstr "Aplikasi outline tingkat mahir"
 
 msgid "Packaging"
 msgstr "Pemaketan"
@@ -515,8 +569,9 @@ msgstr "Pemaketan"
 msgid "Parallel Computing"
 msgstr "Komputasi Paralel"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "Komputasi Paralel"
 
 msgid "Performance"
 msgstr ""
@@ -524,37 +579,42 @@ msgstr ""
 msgid "Personal"
 msgstr "Pribadi"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "Geografi"
 
 msgid "Physics"
 msgstr "Fisika"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "Fisika"
+msgstr "Perangkat Lunak Morphing"
 
 msgid "Preferences"
 msgstr "Pengaturan"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "Dokumentasi"
 
 msgid "Printing"
 msgstr "Pencetakan"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "Perkakas Pengarsip"
 
+#, fuzzy
 msgid "Project Management"
-msgstr "Manajemen Proyek"
+msgstr "Manajemen Daya"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "Manajemen Proyek"
+msgstr "Aplikasi Pilihan"
 
 msgid "Publishing"
 msgstr ""
@@ -564,70 +624,79 @@ msgstr "ROX"
 
 #, fuzzy
 msgid "Raster Graphics"
-msgstr "Pengolah Gambar"
+msgstr "Grafis"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "Aplikasi grafis"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "Desktop Remote"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "Pengatur Volume"
 
 msgid "Robotics"
 msgstr "Robot"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "Perangkat Lunak Morphing"
 
 msgid "Role Playing"
 msgstr ""
 
+#, fuzzy
 msgid "Role playing games"
+msgstr "Permainan balap rally"
+
+msgid "Scanning"
 msgstr ""
 
-#, fuzzy
-msgid "Scanning"
-msgstr "Simpan Layar"
-
 msgid "Science"
-msgstr "IPTEK"
+msgstr "Sains"
 
 msgid "Screensavers"
 msgstr "Screensaver"
 
 msgid "Security"
-msgstr "Keamanan Sistem"
+msgstr "Keamanan"
 
 #, fuzzy
 msgid "Security tools"
-msgstr "Keamanan Sistem"
+msgstr "Keamanan"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "Sekuenser MIDI"
 
 msgid "Settings"
 msgstr "Pengaturan"
 
+#, fuzzy
 msgid "Simulation"
-msgstr "Simulasi"
+msgstr "Emulasi minitel"
 
 #, fuzzy
 msgid "Simulation Games"
-msgstr "Simulasi"
+msgstr "Permainan Eksplorasi Luar Angkasa"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "Penilik Pemutakhiran Perangkat Lunak"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "Manajer Media Perangkat Lunak"
 
+#, fuzzy
 msgid "Software to teach music"
-msgstr ""
+msgstr "Sumber Perangkat Lunak"
 
 msgid "Sound"
 msgstr "Suara"
@@ -637,17 +706,18 @@ msgstr "Olahraga"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "Olahraga"
+msgstr "Permainan Papan"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "Lembar kerja"
 
 msgid "Strategy"
-msgstr "Taktik dan Strategi"
+msgstr "Strategi"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "Taktik dan Strategi"
+msgstr "Permainan Strategi"
 
 msgid "System"
 msgstr "Sistem"
@@ -658,15 +728,16 @@ msgstr "Peralatan Sistem"
 msgid "System settings"
 msgstr "Penataan sistem"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "Radio dan TV"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "Radio dan TV"
+msgstr "Lihat dan laporkan crash applikasi"
 
 #, fuzzy
 msgid "TV applications"
@@ -675,11 +746,13 @@ msgstr "Aplikasi"
 msgid "Teaching Tools"
 msgstr "Alat Pengajaran"
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "Telepon ISDN"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "Perkakas teks"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -689,14 +762,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Emulator Terminal"
+msgstr "Aplikasi Terminal"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Emulator Terminal"
+msgstr "Terminal"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "Perkakas teks"
 
 msgid "Text tools"
 msgstr "Perkakas teks"
@@ -705,10 +779,11 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Peralatan"
+msgstr "Perkakas"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "Alat untuk pengembangan perangkat lunak"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -716,11 +791,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "Silakan pilih aplikasi utama"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "Silakan pilih aplikasi utama"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -728,8 +805,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "Konfigurasi printer"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -746,8 +824,9 @@ msgstr "Mainan"
 msgid "Translation"
 msgstr "Terjemahan"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "Terjemahan"
 
 msgid "Tuners"
 msgstr ""
@@ -757,46 +836,50 @@ msgstr ""
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "Pengolah Gambar"
+msgstr "Editor Grafis Vektor"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "Aplikasi grafis"
 
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "Pengaturan"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "Penampil Dokumen"
+msgstr "Pemutar Video"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "Perekam Video Digital"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "Penampil Dokumen"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "Jelajah Situs"
-
-msgid "Web Browsing"
-msgstr "Jelajah Situs"
-
-msgid "Web Development"
-msgstr "Pengembangan Situs"
+msgstr "Browser Web"
 
 #, fuzzy
+msgid "Web Browsing"
+msgstr "Browser Web"
+
+msgid "Web Development"
+msgstr "Pengembangan Web"
+
 msgid "Web Publishing"
-msgstr "Jelajah Situs"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -804,5536 +887,1794 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "Klien mail"
 
-#~ msgid "Data Management"
-#~ msgstr "Manajemen Data"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "Piranti Bergerak"
 
-#~ msgid "Medicine"
-#~ msgstr "Kedokteran"
 
-#~ msgid "Social"
-#~ msgstr "Ilmu Sosial"
 
-#~ msgid "Shells"
-#~ msgstr "Shell"
 
-#~ msgid "Language Environment"
-#~ msgstr "Pengaturan Bahasa"
 
-#~ msgid "Text"
-#~ msgstr "Teks"
 
-#~ msgid "Puzzles"
-#~ msgstr "Teka-teki"
 
-#~ msgid "Help"
-#~ msgstr "Panduan"
 
-#~ msgid "Window Managers"
-#~ msgstr "Pengolah Window"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "Modul FVWM"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-#~ msgid "Appearance"
-#~ msgstr "Bentuk Tampilan"
 
-#~ msgid "WorkSpace"
-#~ msgstr "Ruang Kerja"
 
-#~ msgid "Iceape Components"
-#~ msgstr "Komponen Iceape"
 
-#~ msgid "Teddies"
-#~ msgstr "Boneka"
 
-#~ msgid "Apps"
-#~ msgstr "Aplikasi"
 
-#~ msgid "Hamradio"
-#~ msgstr "Radio Amatir"
 
-#~ msgid "Math"
-#~ msgstr "Matematika"
 
-#~ msgid "Technical"
-#~ msgstr "Hal Teknis"
 
-#~ msgid "Tetris-like"
-#~ msgstr "Aneka Tetris"
 
-#~ msgid "Root-window"
-#~ msgstr "Window Utama"
 
-#~ msgid "XShells"
-#~ msgstr "Shell X Window"
 
-#~ msgid "Admin"
-#~ msgstr "Administrasi Sistem"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Semua Aplikasi"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Apa yang akan dilakukan?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Edutainment"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Lain-lain"
 
-#~ msgid "Utilities"
-#~ msgstr "Utilitas"
 
-#~ msgid "Advocacy"
-#~ msgstr "Advokat"
 
-#~ msgid "Benchmarking"
-#~ msgstr "Benchmark"
 
-#~ msgid "Bootstrapping"
-#~ msgstr "Boot"
 
-#~ msgid "Network bootstrapping"
-#~ msgstr "Boot jaringan"
 
-#~ msgid "Multiboot"
-#~ msgstr "Multiboot"
 
-#~ msgid "Clustering and Parallel processing"
-#~ msgstr "Pemrosesan cluster dan parallel"
 
-#~ msgid "Community and services"
-#~ msgstr "Komunitas dan layanan"
 
-#~ msgid "CPU design"
-#~ msgstr "design CPU"
 
-#~ msgid "Generic Linux Documentation"
-#~ msgstr "Dokumentasi Linux Generik"
 
-#~ msgid "Input hardware"
-#~ msgstr "Input Perangkat Keras"
 
-#~ msgid "Grahical hardware"
-#~ msgstr "Perangkat keras grafis"
 
-#~ msgid "Kernel internals"
-#~ msgstr "Internal kernel"
 
-#~ msgid "Internationalization"
-#~ msgstr "Internasionalisasi"
 
-#~ msgid "Installation"
-#~ msgstr "Installasi"
 
-#~ msgid "Kiosk"
-#~ msgstr "Kiosk"
 
-#~ msgid "Laptops and PDA"
-#~ msgstr "Laptop dan PDA"
 
-#~ msgid "Power saving"
-#~ msgstr "Penyimpanan sumber daya"
 
-#~ msgid "Linux on specific architectures"
-#~ msgstr "Linux pada arsitektur spesifik"
 
-#~ msgid "Network connection"
-#~ msgstr "Koneksi jaringan"
 
-#~ msgid "Network concepts"
-#~ msgstr "Konsep jaringan"
 
-#~ msgid "VPN"
-#~ msgstr "VPN"
 
-#~ msgid "Network configuration"
-#~ msgstr "Konfigurasi jaringan"
 
-#~ msgid "Network clients"
-#~ msgstr "Klien jaringan"
 
-#~ msgid "Network servers"
-#~ msgstr "Server jaringan"
 
-#~ msgid "OSes cohabitation"
-#~ msgstr "Kohabitasi OS"
 
-#~ msgid "Programming"
-#~ msgstr "Pemrograman"
 
-#~ msgid "Servers"
-#~ msgstr "Server"
 
-#~ msgid "Storage"
-#~ msgstr "Penyimpanan"
 
-#~ msgid "Migration"
-#~ msgstr "Migrasi"
 
-#~ msgid "X Window"
-#~ msgstr "X Window"
 
-#~ msgid "Other howtos"
-#~ msgstr "Howto lain"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "Konfigurasikan Komputer Anda"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Utilitas Jendela X"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Utilitas X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Tingkat Lanjut"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Setting Tingkat Lanjut"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Hilang & Ditemukan"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Taktik dan Strategi"
 
-#~ msgid "Information"
-#~ msgstr "Informasi"
 
-#~ msgid "More"
-#~ msgstr "Selebihnya"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Pengaturan pribadi"
 
-#~ msgid "Accessories"
-#~ msgstr "Aksesoris"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Aksesoris desktop"
 
-#~ msgid "Networking"
-#~ msgstr "Jaringan"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "Ilmu Pengetahuan & Matematika"
 
-#~ msgid "Peripherals"
-#~ msgstr "Periperal"
 
-#~ msgid "Look and Feel"
-#~ msgstr "Tampilan dan Rasa"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "Penataan mengendalikan tampilan dan perilaku desktop"
 
-#~ msgid "File"
-#~ msgstr "Berkas"
 
-#~ msgid "Personal settings"
-#~ msgstr "Penataan pribadi"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "Tema screensaver"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Konfigurasi sistem dan pengawasan"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Penataan untuk beberapa peralatan perangkat keras"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Menu KDE"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Pengaturan pribadi dan administrasi"
 
-#~ msgid "Universal Access"
-#~ msgstr "Akses Universal"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Penataan Akses Universal"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "Ubah pengaturan sistem (mempengaruhi seluruh pengguna)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Suara & Video"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet dan Jaringan"
 
-#~ msgid "Control Center"
-#~ msgstr "Pusat Kontrol"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Permainan ala Rogue"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Program untuk mengakses internet seperti web dan email"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Aplikasi yang tidak masuk dalam kategori lain"
 
-#~ msgid "Office Applications"
-#~ msgstr "Aplikasi Perkantoran"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "Harap tidak menghapus atau memodifikasi"
 
-#~ msgid "XCam"
-#~ msgstr "XCam"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Mandriva Linux Update"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "Mainkan taruhan dalam permainan dadu gaya poker"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "Hidupkan atau matikan sumber perangkat lunak"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Perancis dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "MIDI file player"
-#~ msgstr "Pemutar file MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "Five or More"
-#~ msgstr "Lima atau Lebih"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "Buang bola berwarna dari papan dengan membentuk garis"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Minesweeper"
 
-#~ msgid "XScanImage"
-#~ msgstr "XScanImage"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "Peramban Dokumentasi"
 
-#~ msgid "System Monitor"
-#~ msgstr "Monitor Sistem"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Lihat proses yang ada dan monitor kondisi sistem"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Pembuka Gambar"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Aplikasi pengawasan berbasis GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Media Player"
-#~ msgstr "Pemutar Media"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "Konfigurasi kebijakan lockdown"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "Editor Lockdown"
 
-#~ msgid "CannonSmash"
-#~ msgstr "CannonSmash"
 
-#~ msgid "About Me"
-#~ msgstr "Informasi Pribadi"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Masukkan informasi pribadi Anda"
 
-#~ msgid "Action-puzzle game involving bouncing penguins"
-#~ msgstr "Permainan Action-puzzle melibatkan pinguin"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "Membuat dan salin CD dan DVD"
 
-#~ msgid "Disc Burner and Copier"
-#~ msgstr "Pembakar dan Penyalin Disk"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Perubahan aplikasi yang ditampilkan pada menu utama"
 
-#~ msgid "Main Menu"
-#~ msgstr "Menu Utama"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Jelajah web"
 
-#~ msgid "Character Map"
-#~ msgstr "Tabel karakter"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Masukkan karakter istimewa ke dalam dokumen"
 
-#~ msgid "Python complete reference"
-#~ msgstr "Referensi lengkap Python"
 
-#~ msgid "Python documentation"
-#~ msgstr "Dokumentasi Python"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "CompizConfig Settings Manager"
 
-#~ msgid "Configure Compiz with CompizConfig"
-#~ msgstr "Atur Compiz dengan CompizConfig"
 
-#~ msgid "NetApplet"
-#~ msgstr "NetApplet"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "Applet pengawasan jaringan"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Konfigurasi Samba (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Swat - Perkakas Administrasi Samba"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "Pembuat Service Pack"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "Semua game kartu solitaire"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "The Mandriva Linux manuals in French"
-#~ msgstr "Manual Mandriva Linux dalam bahasa Perancis"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "Permainan papan catur GUI"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "Kostumisasi tampilan desktop"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "Cari penjelasan dan pengejaan kata di dalam kamus online"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr ""
-#~ "Tentukan lokasi dokumen atau folder pada komputer ini sesuai nama ataupun "
-#~ "isinya"
 
-#~ msgid "Search for Files..."
-#~ msgstr "Cari Berkas..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Jalankan aplikasi lainnya dan menyediakan berbagai macam peralatan untuk "
-#~ "mengatur jendela, menunjukkan waktu, dsb."
 
-#~ msgid "Panel"
-#~ msgstr "Panel"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Papan Ketik Visual"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "Tampilan untuk rp-pppoe"
 
-#~ msgid "TkPPPoE"
-#~ msgstr "TkPPPoE"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "Pembuat CD/DVD"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "Buat CD dan DVD"
 
-#~ msgid "Device Manager"
-#~ msgstr "Manajer Divais"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "Geser blok untuk menyelesaikan teka-teki"
 
-#~ msgid "Blender (DRI disabled)"
-#~ msgstr "Blender (DRI non aktif)"
 
-#~ msgid "Chess"
-#~ msgstr "Catur"
 
-#~ msgid "Leafpad"
-#~ msgstr "Leafpad"
 
-#~ msgid "Simple text editor"
-#~ msgstr "Penyunting teks sederhana"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Rambah marka buku dan lokasi jaringan lokal"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "Membuat dan Mengedit Profil untuk Pengguna"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "Penyunting Profil Pengguna"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "Penilik Foto"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Atur konfigurasi Bluetooth"
 
-#~ msgid "GUI Python Shell"
-#~ msgstr "Shell GUI Python"
 
-#~ msgid "PyShell"
-#~ msgstr "PyShell"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Penyunting Berkas Teks"
 
-#~ msgid "Manage Messaging and VoIP accounts"
-#~ msgstr "Mengelola akun Perpesanan dan VoIP"
 
-#~ msgid "Messaging and VoIP Accounts"
-#~ msgstr "Akun Perpesanan dan VoIP"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Menampilkan dan memutar gambar"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "Pemasang Katalog"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "Pasang suatu katalog perangkat lunak pada sistem"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "Ubah resolusi dan posisi monitor-monitor"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "Pengontrol untuk kartu suara Echoaudio "
 
-#~ msgid "Echo mixer"
-#~ msgstr "Echo mixer"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "Simpan gambar dari desktop atau suatu jendela anda"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "Ambil Cuplikan"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "Program Bantuan untuk Pengembang"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Belanda dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Rambah isi sistem berkas dengan pengatur berkas"
 
-#~ msgid "File Browser"
-#~ msgstr "Perambah Berkas"
 
-#~ msgid "ODBConfig (Root User)"
-#~ msgstr "ODBCConfig (Pengguna Root)"
 
-#~ msgid "The Mandriva Linux manuals in English"
-#~ msgstr "Manual Mandriva Linux dalam bahasa Inggris"
 
-#~ msgid "IDE for Python"
-#~ msgstr "IDE untuk Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "Pemberitahu mail"
 
-#~ msgid "Xmailbox"
-#~ msgstr "Xmailbox"
 
-#~ msgid "Configurator"
-#~ msgstr "Pengatur"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "Editor Diagram Dia"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "Edit Diagram Anda"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "Pasang paket tema untuk berbagai bagian desktop"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Pemasang Tema"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "Kontrol panel untuk RME Hammerfall"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME Digicontrol"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Buka bantuan GNOME"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Teknologi Pemandu"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr ""
-#~ "Pilih fitur kemudahan akses yang Anda inginkan untuk aktif saat login"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "Periksa ukuran folder dan ruang disk yang tersedia"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "Penganalisa Penggunaan Disk"
 
-#~ msgid "Full virtualizer for x86 hardware"
-#~ msgstr "Virtualizer untuk perangkat x86"
 
-#~ msgid "VirtualBox OSE"
-#~ msgstr "VirtualBox OSE"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "Atur, nikmati, dan berbagi foto Anda"
 
-#~ msgid "Photo Manager"
-#~ msgstr "Manajer Foto"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "Perkakas konfigurasi fax klien dan server"
 
-#~ msgid "Movie Player"
-#~ msgstr "Pemutar Film"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Mainkan film dan lagu"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Pembaca Dokumen"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "Tilik dokumen halaman berganda"
 
-#~ msgid "Home Folder"
-#~ msgstr "Folder Rumah"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Buka folder pribadi Anda"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "Selesaikan teka-teki dengan mencocokkan ubin bernomor"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Software Log Viewer"
-#~ msgstr "Penilik Log Perangkat Lunak"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "Tilik tugas manajemen paket yang lalu"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "A graphical designer/dialog builder for Qt4"
-#~ msgstr "Perancang dialog/desainer grafis untuk Qt4"
 
-#~ msgid "Qt4 Designer"
-#~ msgstr "Qt4 Designer"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "Konfigurasikan nilai awal pada aplikasi GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Pemilih Sistem Multimedia"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "Akses remote desktop"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "Remote Desktop Viewer"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Gtk-ocr adalah tampilan gtk untuk gocr"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "Hindari robot dan buat mereka saling tabrak."
 
-#~ msgid "Robots"
-#~ msgstr "Robots"
 
-#~ msgid "Search"
-#~ msgstr "Cari"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Spanyol dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "Crack Attack!"
-#~ msgstr "Crack Attack!"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "Mandriva Screensaver"
-#~ msgstr "Screensaver Mandriva"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "Warna pulsa baris pop-art-ish"
 
-#~ msgid "Pop art squares"
-#~ msgstr "Lapangan pop art"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "Foto F-Spot"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "Tampilkan slideshow dari folder Gambar anda"
 
-#~ msgid "Pictures folder"
-#~ msgstr "Folder gambar"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "Balonkan logo kaki GNOME di sekitar layar"
 
-#~ msgid "Floating Feet"
-#~ msgstr "Kaki Mengapung"
 
-#~ msgid "Cosmos"
-#~ msgstr "Cosmos"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "Tampilkan slideshow dari gambar cosmos"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Rambah seluruh diska dan folder lokal maupun remot dari komputer ini"
 
-#~ msgid "Computer"
-#~ msgstr "Komputer"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "Software Browser yang Tersedia"
 
-#~ msgid "Bittorrent Checker"
-#~ msgstr "Penguji Bittorrent"
 
-#~ msgid "Mandriva Linux Bittorrent checker"
-#~ msgstr "Penguji Bittorrent Mandriva Linux"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "TeX document processor - especially good at scientific documents"
-#~ msgstr "Pengolah dokumen TeX - khususnya baik untuk dokumen ilmiah"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Menampilkan Bumi pada desktop Anda"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Jelajah dan atur buku alamat"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Bookmark Web Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Buku Alamat Web"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Slovenia dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "An SSL web-based administration interface for Unix systems"
-#~ msgstr "Antarmuka administrasi berbasis web dan SSL untuk sistem UNIX"
 
-#~ msgid "webmin"
-#~ msgstr "webmin"
 
-#~ msgid "Menu Style Configuration"
-#~ msgstr "Konfigurasi Menu Style"
 
-#~ msgid "GUI Python Shell with Filling"
-#~ msgstr "Shell GUI Python dengan Filling"
 
-#~ msgid "PyCrust"
-#~ msgstr "PyCrust"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "Permainan aksi dan pemecahan teka-teki"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Alat Memutakhirkan Menu"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KColorChooser"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "Tabel Elemen Periodik KDE"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "Permainan Hangman KDE"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "KPhotoAlbum"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "Viewer citra sederhana"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Pengelola Pengguna"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "Program flashcard dan pembelajaran vocabulary"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Character Selector"
-#~ msgstr "Pemilih Karakter"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "Penjelajah Share SMB/CIFS"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Program Kalender dan Jadwal"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Home"
-#~ msgstr "Rumah"
 
-#~ msgid "Personal Files"
-#~ msgstr "File Pribadi"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "KJots"
-#~ msgstr "KJots"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "Mesin untuk tampilan desktop yang cantik."
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Potato Guy"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "Sebuah utilitas riwayat potong & tempel"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Alat Papan Klip"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "CD Player"
-#~ msgstr "Pemutar CD"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Klon Bomberman"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Sharing Desktop"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "Wizard Groupware KDE"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shisen-Sho"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "Tampilan GnuPG"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "Perkakas Enkripsi"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "Applet panel untuk mengubah ukuran dan mengubah orientasi layar X."
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Ubah Ukuran & Rotasi Layar"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Mail Client"
-#~ msgstr "Klien Mail"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Kalkulator Ilmiah"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "Peluncur dengan Hitungan Waktu"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Penyihir Folder Jaringan"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "Kdenlive"
-#~ msgstr "Kdenlive"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "Editor video nonlinier untuk KDE"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "Font Viewer"
-#~ msgstr "Penampil Font"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Plotter Fungsi"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Lingkungan Pengembangan Terpadu"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Desktop Planetarium"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "Perkakas Manajemen Wallet"
 
-#~ msgid "KRemoteControl Notifier Item"
-#~ msgstr "Item Notifikasi KRemoteControl"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Melihat Pemakaian Diska"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "Aplikasi BitTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "Visualisasi dari Performa Data Profil"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "Program Pembelajaran Geografi"
 
-#~ msgid "KGeography"
-#~ msgstr "KGeography"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Tactical Game"
-#~ msgstr "Permainan Taktik"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "Latihan dengan pecahan"
 
-#~ msgid "Info Center"
-#~ msgstr "Pusat Info"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Change Password"
-#~ msgstr "Ubah Katasandi"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "Referensi Jepang dan Alat Pembelajaran"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "Welcome"
-#~ msgstr "Selamat Datang"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "Penyunting Penanda"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "Pengorganisir dan Penyunting Penanda"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "Konfigurasi Desktop Anda"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "KWalletManager"
-#~ msgstr "KWalletManager"
 
-#~ msgid "A Subversion client for KDE"
-#~ msgstr "Klien Subversion untuk KDE"
 
-#~ msgid "kdesvn"
-#~ msgstr "kdesvn"
 
-#~ msgid "KwikDisk"
-#~ msgstr "KwikDisk"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "Perkakas Media Lepas Pasang"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "Klik mouse untuk Anda, mengurangi efek RSI"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Sweeper"
-#~ msgstr "Sweeper"
 
-#~ msgid "System Cleaner"
-#~ msgstr "Pembersih Sistem"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "SameGame"
-#~ msgstr "SameGame"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Pengedit Heksa"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Pembaca Berita"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Penyunting Menu"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "Pemutar Musik"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "Tracker Waktu Pribadi"
 
-#~ msgid "IRKick"
-#~ msgstr "IRKick"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "Server remote kontrol infra merah KDE Linux"
 
-#~ msgid "KSystemLog"
-#~ msgstr "KSystemLog"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "Penampil Catatan Sistem"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "Perangkat viewer log sistem"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Mencari File/Folder"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPPLogview"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "Jelajahi Konstruksi Geometri"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Manajer Berkas - Mode Pengguna Super"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "Permainan Letter Order KDE"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "KNotes"
-#~ msgstr "KNotes"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Pemformat Disket"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Configure email accounts"
-#~ msgstr "Konfigurasikan akun surel"
 
-#~ msgid "Email Settings"
-#~ msgstr "Pengaturan Surel"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Pasang tombol singkat untuk perintah tertentu"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Tombol Singkat"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Mandriva Linux Pxelinux configurator"
-#~ msgstr "Pengatur Pxelinux Mandriva Linux"
 
-#~ msgid "Network traffic analyzer (root user)"
-#~ msgstr "Penganalisa beban jaringan (pengguna root)"
 
-#~ msgid "Wireshark (root user)"
-#~ msgstr "Wireshark (pengguna root)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Itali dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Korea dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "Program untuk melihat TV"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "Prolog GNU"
 
-#~ msgid "GNU Prolog is a free implementation of Prolog"
-#~ msgstr "GNU Prolog adalah implementasi bebas dari Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "Visualisasi Data Explorer"
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Qt interface designer"
-#~ msgstr "Desainer antarmuka Qt"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Setel besarnya volume"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Konfigurasi lingkungan basis data Anda"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "Pengontrol untuk kartu suara berbasis Envy24 (ice1712)"
 
-#~ msgid "Envy24control"
-#~ msgstr "Envy24control"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Jepang dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "Game perang tank 3D multiplayer"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in French"
-#~ msgstr "Manual Pengguna DrakXTools Mandriva Linux dalam bahasa Perancis"
 
-#~ msgid "Screensaver"
-#~ msgstr "Screensaver"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "Tentukan preferensi screensaver Anda"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "Bebas, mudah, Pembukuan pribadi untuk siapa saja."
 
-#~ msgid "HomeBank"
-#~ msgstr "HomeBank"
 
-#~ msgid "Open Folder"
-#~ msgstr "Buka Folder"
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "Pasang perangkat lunak yang dipilih pada sistem"
 
-#~ msgid "Package Installer"
-#~ msgstr "Pemasang Paket"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "Permainan puzzle multiplayer"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "Sudoku"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "Unduh dan berbagi berkas melalui BitTorrent"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "Penilik Berkas Log"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "Lihat atau pantau berkas log sistem"
 
-#~ msgid "System Regional Settings"
-#~ msgstr "Setting Regional Sistem"
 
-#~ msgid "System wide language & country configurator"
-#~ msgstr "Pengkonfigurasi bahasa umum & negara sistem"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Proksi Jaringan"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "Atur proksi jaringan"
 
-#~ msgid "Mail and News Client"
-#~ msgstr "Klien Mail dan Berita"
 
-#~ msgid "Mail/News"
-#~ msgstr "Mail/Berita"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LXTerminal"
 
-#~ msgid "Use the command line"
-#~ msgstr "Pergunakan perintah baris"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "Pilih aplikasi apa yang dijalankan saat Anda log masuk"
 
-#~ msgid "Startup Applications"
-#~ msgstr "Aplikasi Awalan"
 
-#~ msgid "A manual browser for Qt4 documentation"
-#~ msgstr "Browser manual untuk dokumentasi Qt4"
 
-#~ msgid "Qt4 Assistant"
-#~ msgstr "Asisten Qt4"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Pratilik huruf"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "Bersihkan ranjau tersembunyi dari ladang ranjau"
 
-#~ msgid "Record sound clips"
-#~ msgstr "Rekam potongan suara"
 
-#~ msgid "Set your window properties"
-#~ msgstr "Atur properti jendela"
 
-#~ msgid "Windows"
-#~ msgstr "Jendela"
 
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Game Frozen Bubble"
 
-#~ msgid "Configure power management"
-#~ msgstr "Atur manajemen daya"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "Solitaire AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Mainkan bermacam permainan solitaire yang berbeda"
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "XRC resource editor for wxPython"
-#~ msgstr "Editor sumber daya XRC untuk wxPython"
 
-#~ msgid "XRCed"
-#~ msgstr "XRCed"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "Viewer DjVu"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Menambah atau menghapus pengguna dan grup"
 
-#~ msgid "User Administration"
-#~ msgstr "Administrasi Pengguna"
 
-#~ msgid "A translation tool for Qt4"
-#~ msgstr "Perkakas penerjemah untuk Qt4"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Qt Linguist"
 
-#~ msgid "Note-taker"
-#~ msgstr "Penyimpan-catatan"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Menyimpan catatan, menyambung ide, dan tetap tertata"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Catatan Tomboy"
 
-#~ msgid "Archive Manager"
-#~ msgstr "Manajer Arsip"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Buka dan modifikasi arsip"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "Batal, henti, lanjut atau tugas kembali cetak "
 
-#~ msgid "Search & Indexing"
-#~ msgstr "Pencarian & Indexing"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "Cari berkas, folder, dan dokumen dalam komputer"
 
-#~ msgid "About GNOME"
-#~ msgstr "Tentang GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Lebih jauh tentang GNOME"
 
-#~ msgid "A QT application to configure Synaptics TouchPad"
-#~ msgstr "Aplikasi QT untuk mengkonfigurasi TouchPad Synaptic"
 
-#~ msgid "Manage running processes"
-#~ msgstr "Mengelola proses yang berjalan"
 
-#~ msgid "Process manager"
-#~ msgstr "Manajer proses"
 
-#~ msgid "Task Manager"
-#~ msgstr "Manajer Tugas"
 
-#~ msgid "Blender"
-#~ msgstr "Blender"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Papan Ketik"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Atur papan ketik Anda"
 
-#~ msgid "XGPS"
-#~ msgstr "XGPS"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "Bongkar susunan ubin dengan membuang pasangan yang sama"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mahjongg"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Hungaria dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "GUI Python Shell with Filling and Editor Windows"
-#~ msgstr "Shell GUI Python dengan jendela Filling dan Editor"
 
-#~ msgid "PyAlaMode"
-#~ msgstr "PyAlaMode"
 
-#~ msgid "Mouse"
-#~ msgstr "Mouse"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Atur mouse Anda"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "Ambil foto dan video dengan webcam Anda, dengan efek grafis yang menarik"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "Dominasi papan pada versi klasi Reversi"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Install your Mandriva live system to disk"
-#~ msgstr "Install sistem Mandriva live Anda ke disk"
 
-#~ msgid "Live Install"
-#~ msgstr "Installasi Langsung"
 
-#~ msgid "Add or remove software installed on the system"
-#~ msgstr "Tambah atau hapus perangkat lunak yang terpasang pada sistem"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "Tambah/Hapus Piranti Lunak"
 
-#~ msgid "Software Update"
-#~ msgstr "Pemutakhiran Perangkat Lunak"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "Mutakhirkan perangkat lunak yang terpasang pada sistem"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "Tampilan grafis untuk menginstall file RPM"
 
-#~ msgid "Software Installer"
-#~ msgstr "Penginstall perangkat lunak"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - Manajer/pengubah/screensaver latar belakang desktop"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "Implementasi ulang game kuno Tower Toppler atau Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "Amati manajemen tenaga"
 
-#~ msgid "Power Statistics"
-#~ msgstr "Statistik Daya"
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer "
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "Empat-Sebaris"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "Buat garis-garis dengan warna yang sama untuk menang"
 
-#~ msgid "Database"
-#~ msgstr "Basis Data"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "Isian teks yang prediktif"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Server freeciv"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "Program pengatur sistem GNOME"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Membaca berita dari Usenet"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "Ubah perilaku dan tampilan dari jendela pengelola berkas"
 
-#~ msgid "File Management"
-#~ msgstr "Pengaturan Berkas"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "Emulator terminal standar untuk Sistem Window X"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "Tampilan untuk penindai port nmap"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "Tool for translating message catalogues of Qt based programs"
-#~ msgstr ""
-#~ "Perkakas untuk menterjemahkan katalog pesan dari program berbasis Qt"
 
-#~ msgid "ODBC Configuration Tool"
-#~ msgstr "Perkakas Konfigurasi ODBC"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Softphone Ekiga"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "Telepon IP, VoIP dan Pertemuan Video"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "Bicara dengan orang di Internet"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Blender (FullScreen)"
-#~ msgstr "Blender (Layar Penuh)"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Status Paket-Paket Mandriva Linux"
 
-#~ msgid "Packages Stats"
-#~ msgstr "Status Paket-Paket"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in English"
-#~ msgstr "Manual Pengguna DrakXTools Mandriva Linux dalam bahasa Inggris"
 
-#~ msgid "Edit text files"
-#~ msgstr "Edit berkas teks"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "Ubah preferensi pemutakhiran perangkat lunak"
 
-#~ msgid "Software Updates"
-#~ msgstr "Pemutakhiran Perangkat Lunak"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Pencari Komponen Bonobo"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "Tampilkan komponen Bonobo yang tersedia"
 
-#~ msgid "An easy to use text editor, supporting syntax highlight and UTF-8"
-#~ msgstr ""
-#~ "Editor teks yang mudah digunakan, mendukung highlight sintaks dan UTF-8"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Groupware Suite"
 
-#~ msgid "Language & country configuration"
-#~ msgstr "Konfigurasi bahasa & negara"
 
-#~ msgid "Regional Settings"
-#~ msgstr "Setting Regional"
 
-#~ msgid "OProfile starter"
-#~ msgstr "Pelaksana OProfile"
 
-#~ msgid "Start OProfile profiler"
-#~ msgstr "Menjalankan profiler OProfile"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Jerman dari Proyek Dokumentasi Linux (format html)"
 
-#~ msgid "Howtos German"
-#~ msgstr "Howto Jerman"
 
-#~ msgid "Network Center"
-#~ msgstr "Pusat Jaringan"
 
-#~ msgid "Network traffic analyzer"
-#~ msgstr "Penganalisa beban jaringan"
 
-#~ msgid "Wireshark"
-#~ msgstr "Wireshark"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "Pengirim Pesan Internet"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Pesan Internet Pidgin"
 
-#~ msgid "System information"
-#~ msgstr "Informasi sistem"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid "Qalculate!"
-#~ msgstr "Qalculate!"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Romania dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Perkakas Pusat Konfigurasi/Informasi Perangkat Keras"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Polandia dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "Tampilan untuk pencetakan mudah dengan CUPS"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "HP Sendfax"
-#~ msgstr "Sendfax HP"
 
-#~ msgid "Utility for sending faxes with HP's multi-function devices"
-#~ msgstr "Utilitas untuk mengirimkan fax dengan divais multi fungsi HP"
 
-#~ msgid "GNOME Pilot Install Databases"
-#~ msgstr "Install Database GNOME Pilot"
 
-#~ msgid "Install Databases on your Palm Pilot"
-#~ msgstr "Install Basis Data pada Palm Pilot Anda"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "Putar dan atur koleksi musik"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "Viewer for TeX DVI files"
-#~ msgstr "Viewer untuk file DVI TeX"
 
-#~ msgid "XDVI"
-#~ msgstr "XDVI"
 
-#~ msgid "View and organize your images"
-#~ msgstr "Tampilkan dan atur gambar anda"
 
-#~ msgid "Font Editor for PostScript, TrueType, OpenType and various fonts"
-#~ msgstr "Editor Font untuk PostScript, TrueType, OpenType dan variasi font"
 
-#~ msgid "FontForge"
-#~ msgstr "FontForge"
 
-#~ msgid "Registry Editor"
-#~ msgstr "Editor Registry"
 
-#~ msgid "Viewer for Postscript and PDF files"
-#~ msgstr "Viewer untuk file Postscript dan PDF"
 
-#~ msgid "gv"
-#~ msgstr "gv"
 
-#~ msgid "CUPS Web Interface"
-#~ msgstr "Manajemen Pencetakan"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "Pembaca Layar and Pembesar"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Inggris dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "Editor teks serbaguna"
 
-#~ msgid "VI editor"
-#~ msgstr "Editor VI"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Yunani dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "Howto Yunani"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Solitaire FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Mainkan permainan FreeCell  yang terkenal"
 
-#~ msgid "Window Manager"
-#~ msgstr "Manajer Jendela"
 
-#~ msgid "UFRaw"
-#~ msgstr "UFRaw"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Indonesia dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Gnuplot"
-#~ msgstr "Gnuplot"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "Program plot terkenal"
 
-#~ msgid "Configuration Editor"
-#~ msgstr "Editor Konfigurasi"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Edit langsung semua database konfigurasi"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "Membuat dan mengedit gambar Scalable Vector Graphics"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Cina dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "Sapaan Jalan Otomatis"
 
-#~ msgid "Tightvnc"
-#~ msgstr "Tightvnc"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "Game 3d lightcycle lain"
 
-#~ msgid "Armagetron Advanced"
-#~ msgstr "ArmageTron Advanced"
 
-#~ msgid "Vector Graphics Drawing Tool"
-#~ msgstr "Perkakas Menggambar Grafis Vektor"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Program Melaporkan Bug"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Laporkan adanya bug pada aplikasi GNOME"
 
-#~ msgid "Breakout-style arcade game"
-#~ msgstr "Permainan arcade ala-Breakout"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "Permainan mirip boulderdash"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Finlandia dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr ""
-#~ "Dokumen HOWTO bahasa Swedia dari Projek Dokumentasi Linux (format html)"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "Impor ke F-Spot"
 
-#~ msgid "Drawing"
-#~ msgstr "Menggambar"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "Pandu cacing di sekitar maze"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "A graphical front end for installing, removing and updating packages"
-#~ msgstr ""
-#~ "Tampilan grafis untuk menginstall, menghapus, dan mengupdate paket-paket"
 
-#~ msgid "XKill"
-#~ msgstr "XKill"
 
-#~ msgid "Personal Finance Manager"
-#~ msgstr "Manajer keuangan Pribadi"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "Emulator Terminal"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "Ganti Nama Bulk"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "Ganti Nama Banyak Berkas"
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "Buka Folder dengan Thunar"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "Buka folder yang ditentukan di Thunar"
 
-#~ msgid "Browse the filesystem with the file manager"
-#~ msgstr "Ramban sistem berkas dengan manajer berkas"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "Manajer Berkas Thunar"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "Automatic Bug Reporting Tool"
 
-#~ msgid "Accerciser"
-#~ msgstr "Accerciser"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "Lakukan percobaan aksesibilitas pada aplikasi Anda "
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "IDE Anjunta"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr ""
-#~ "Mengembangkan perangkat lunak di dalam suatu lingkungan pengembangan "
-#~ "terpadu"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "Navigator jendela berjangkar."
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "Avant Window Navigator"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Kelola preferensi, peluncur, aplet, dan tema Awn"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "E-Mail utility"
-#~ msgstr "Utilitas E-Mail"
 
-#~ msgid "Barrage"
-#~ msgstr "Barrage"
 
-#~ msgid "Bibus"
-#~ msgstr "Bibus"
 
-#~ msgid "Blueman Bluetooth Manager"
-#~ msgstr "Blueman Manager Bluetooth"
 
-#~ msgid "BMPx"
-#~ msgstr "BMPx"
 
-#~ msgid "Booh"
-#~ msgstr "Booh"
 
-#~ msgid "An OpenGL breakout"
-#~ msgstr "Breakout OpenGL"
 
-#~ msgid "Briquolo"
-#~ msgstr "Briquolo"
 
-#~ msgid "Chemtool"
-#~ msgstr "Chemtool"
 
-#~ msgid "ChmSee"
-#~ msgstr "ChmSee"
 
-#~ msgid "HTML Help(CHM) viewer"
-#~ msgstr "Pembuka HTML Help (CHM)"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Comix"
-#~ msgstr "Comix"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Editor XML Conglomerate"
 
-#~ msgid "Edit XML files"
-#~ msgstr "Edit file XML"
 
-#~ msgid "CoolEdit"
-#~ msgstr "CoolEdit"
 
-#~ msgid "Cream"
-#~ msgstr "Cream"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Crimson Fields"
 
-#~ msgid "CuteCom"
-#~ msgstr "CuteCom"
 
-#~ msgid "Power Management Preferences"
-#~ msgstr "Preferensi Manajemen Daya"
 
-#~ msgid "Settings for adjusting power usage"
-#~ msgstr "Tatanan untuk mengatur penggunaan daya"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Debugger Tampilan Data"
 
-#~ msgid "Play music"
-#~ msgstr "Memainkan musik"
 
-#~ msgid "Ding: Dictionary English-German"
-#~ msgstr "Ding: Kamus Inggris-Jerman"
 
-#~ msgid "Virtualization configuration"
-#~ msgstr "Konfigurasi virtualisasi"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Perangkat Matematika Dr. Geo"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Emesene"
-#~ msgstr "Emesene"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma"
 
-#~ msgid "Ex Falso"
-#~ msgstr "Ex Falso"
 
-#~ msgid ""
-#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
-#~ msgstr ""
-#~ "Aplikasi Kesukaan (Peramban Web, Pembaca Surat dan Emulator Terminal)"
 
-#~ msgid "Galculator"
-#~ msgstr "Galculator"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "ICC Profile Installer"
-#~ msgstr "Pemasang Profil ICC"
 
-#~ msgid "ICC profile installer"
-#~ msgstr "Pemasang profil ICC"
 
-#~ msgid "Install ICC profiles"
-#~ msgstr "Pasang profil ICC"
 
-#~ msgid "Color Profiles"
-#~ msgstr "Profil Warna"
 
-#~ msgid "Manage ICC color profiles"
-#~ msgstr "Kelola profil warna ICC"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "Adminstrasi gcompris"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "Permainan pendidikan untuk umur 2 sampai 10"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "Seperangkat pendidikan hiburan (edutainment) GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "Permainan pendidikan berbagai kegiatan"
 
-#~ msgid "Geany"
-#~ msgstr "Geany"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "Penyunting Berkas Teks (adminstrator)"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "Editor Heksadesimal GNOME"
 
-#~ msgid "A simple frontend to easily connect to remote filesystems"
-#~ msgstr ""
-#~ "Ujung depan sederhana untuk memudahkan sambungan ke sistem berkas jarak "
-#~ "jauh"
 
-#~ msgid "Gigolo"
-#~ msgstr "Gigolo"
 
-#~ msgid "GLightOff"
-#~ msgstr "GLightOff"
 
-#~ msgid "Globulation2"
-#~ msgstr "Globulation2"
 
-#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
-#~ msgstr "Globulation2 adalah permainan RTS terbaru"
 
-#~ msgid "Gmasqdialer"
-#~ msgstr "Gmasqdialer"
 
-#~ msgid "A gnome frontend for the mpd daemon"
-#~ msgstr "Gnome frontend untuk mpd daemon"
 
-#~ msgid "Gnome Music Player Client"
-#~ msgstr "Gnome Music Player Client"
 
-#~ msgid "A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs"
-#~ msgstr "Perangkat untuk mengelola Creative Nomad/Zen Jukeboxes dan DJ Dell"
 
-#~ msgid "Gnomad 2"
-#~ msgstr "Gnomad 2"
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "Pengirim Entry Blog"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "Kirim sebuah entry ke log web"
 
-#~ msgid "Customize your GNOME desktop"
-#~ msgstr "Kostumisasikan desktop GNOME anda"
 
-#~ msgid ""
-#~ "Do things as quickly as possible (but no quicker) with your files, "
-#~ "bookmarks, applications, music, contacts, and more!"
-#~ msgstr ""
-#~ "Lakukan tindakan secepat mungkin (tetapi tidak lebih cepat) dengan "
-#~ "berkas, bookmark, aplikasi, musik, kontak dan lainnya milik anda!"
 
-#~ msgid "GNOME Do"
-#~ msgstr "GNOME Do"
 
-#~ msgid "Genius Mathematical Tool and Calculator"
-#~ msgstr "Perangkat Matematika Genius dan Kalkulator"
 
-#~ msgid "Hearts"
-#~ msgstr "Hearts"
 
-#~ msgid "Network Tools"
-#~ msgstr "Program Jaringan"
 
-#~ msgid "View information about your network"
-#~ msgstr "Tilik informasi tentang jaringan Anda"
 
-#~ msgid "Splash"
-#~ msgstr "Splash"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio Music Player"
 
-#~ msgid "Gnote"
-#~ msgstr "Gnote"
 
-#~ msgid "Gnubiff is a mail notification program."
-#~ msgstr "Gnubiff adalah sebuah aplikasi untuk memberitahu datangnya surat."
 
-#~ msgid "Mail notification program"
-#~ msgstr "Aplikasi notifikasi surat"
 
-#~ msgid "Plot NumExp functions"
-#~ msgstr "Fungsi Fplot NumExp"
 
-#~ msgid "gNumExp Function Plotter"
-#~ msgstr "Fungsi Plot gNumExp"
 
-#~ msgid "Enter NumExp math queries"
-#~ msgstr "Masukkan query matematika NumExp"
 
-#~ msgid "gNumExp Math Console"
-#~ msgstr "gNumExp Math Console"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "Mainkan dan ekstrak CD"
 
-#~ msgid "Password Manager"
-#~ msgstr "Manajer Password"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid "Graveman"
-#~ msgstr "Graveman"
 
-#~ msgid "Grisbi"
-#~ msgstr "Grisbi"
 
-#~ msgid "Personnal finances manager"
-#~ msgstr "Manajer keuangan pribadi"
 
-#~ msgid "Grsync"
-#~ msgstr "Grsync"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTKWave"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "Viewer Bentuk Gelombang Elektronik GTKWave"
 
-#~ msgid "Gtranslator PO Editor"
-#~ msgstr "Penyunting PO Gtranslator"
 
-#~ msgid "Translate and localize applications and libraries"
-#~ msgstr "Terjemahkan dan lokalisasikan aplikasi dan pustaka"
 
-#~ msgid "Extra galeon preferences"
-#~ msgstr "Preferensi tambahan Galeon"
 
-#~ msgid "Extra preferences for application menus"
-#~ msgstr "Preferensi tambahan untuk menu aplikasi"
 
-#~ msgid "Extra nautilus preferences"
-#~ msgstr "Preferensi tambahan nautilus"
 
-#~ msgid "Extra session preferences"
-#~ msgstr "Preferensi sesi tambahan"
 
-#~ msgid "Gweled"
-#~ msgstr "Gweled"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "Gwine"
-#~ msgstr "Gwine"
 
-#~ msgid "Manage your wine cellar"
-#~ msgstr "Mengelola wine Anda"
 
-#~ msgid "Watch & listen"
-#~ msgstr "Lihat & dengar"
 
-#~ msgid "Hydrogen Drum Machine"
-#~ msgstr "Mesin Drum Hydrogen"
 
-#~ msgid "Full card game suite"
-#~ msgstr "Permainan kartu"
 
-#~ msgid "KardsGT"
-#~ msgstr "KardsGT"
 
-#~ msgid "Katoob"
-#~ msgstr "Katoob"
 
-#~ msgid "BasKet Note Pads"
-#~ msgstr "BasKet Note Pads"
 
-#~ msgid "Taking care of your ideas."
-#~ msgstr "Mengurus ide-ide Anda."
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "A viewer of CHM (MS-Help) files"
-#~ msgstr "Viewer untuk file-file CHM"
 
-#~ msgid "KchmViewer"
-#~ msgstr "KchmViewer"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "Kalkulator dan konversi mata uang"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "A standalone Flickr uploader for KDE"
-#~ msgstr "Pengirim Flickr mandiri untuk KDE"
 
-#~ msgid "kFlickr"
-#~ msgstr "kFlickr"
 
-#~ msgid "A graphical FTP client"
-#~ msgstr "Klien FTP grafis"
 
-#~ msgid "KFTPGrabber"
-#~ msgstr "KFTPGrabber"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "KMediaFactory"
-#~ msgstr "KMediaFactory"
 
-#~ msgid "Template based DVD authoring software"
-#~ msgstr "Software pembuatan DVD berbasis template"
 
-#~ msgid "KMess"
-#~ msgstr "KMess"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "KPlayer"
-#~ msgstr "KPlayer"
 
-#~ msgid "KRadio"
-#~ msgstr "KRadio"
 
-#~ msgid "Krecipes"
-#~ msgstr "Krecipes"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "Buku Memasak KDE"
 
-#~ msgid "A batch renamer"
-#~ msgstr "Pengubah nama massal"
 
-#~ msgid "KRename"
-#~ msgstr "KRename"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "Pengatur File Twin-Panel"
 
-#~ msgid "Krusader - root-mode"
-#~ msgstr "Krusader - mode-root"
 
-#~ msgid "Twin-Panel File Manager with root-privileges"
-#~ msgstr "Pengatur File Twin-Panel dengan hak akses root"
 
-#~ msgid "GUI for various VPN clients"
-#~ msgstr "GUI untuk berbagai klien VPN"
 
-#~ msgid "KVpnc"
-#~ msgstr "KVpnc"
 
-#~ msgid "A sound editor for KDE"
-#~ msgstr "Editor suara untuk KDE"
 
-#~ msgid "Kwave Sound Editor"
-#~ msgstr "Editor Suara Kwave"
 
-#~ msgid "GUI for the R-project"
-#~ msgstr "GUI untuk R-project"
 
-#~ msgid "RKWard"
-#~ msgstr "RKWard"
 
-#~ msgid "A collection manager"
-#~ msgstr "Manajer Koleksi"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "KScope"
-#~ msgstr "KScope"
 
-#~ msgid "Source-editing environment for large C projects"
-#~ msgstr "Lingkungan pengeditan kode sumber untuk proyek C yang besar"
 
-#~ msgid "lash"
-#~ msgstr "lash"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "Permainan perang multiplayer"
 
-#~ msgid "Automated Usenet Client"
-#~ msgstr "Klien Usenet Terotomasi"
 
-#~ msgid "Download from the Usenet with the help of NZB files"
-#~ msgstr "Mengunduh dari Usenet dengan bantuan dari berkas NZB"
 
-#~ msgid "LottaNZB Automated Usenet Client"
-#~ msgstr "LottaNZB Klien Usenet Terotomatisasi"
 
-#~ msgid "LPairs"
-#~ msgstr "LPairs"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "Mail Notification"
-#~ msgstr "Pemberitahuan Mail"
 
-#~ msgid "4stAttack"
-#~ msgstr "4stAttack"
 
-#~ msgid "Connect-four for pygame"
-#~ msgstr "Connect-four untuk Pygame"
 
-#~ msgid "First person shooter game"
-#~ msgstr "Permainan Menembak"
 
-#~ msgid "A 3D adventure and roleplaying game"
-#~ msgstr "Sebuah permainan petualangan 3D"
 
-#~ msgid "Balazar"
-#~ msgstr "Balazar"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "Arcade Shooter"
-#~ msgstr "Tembak-tembakan seru"
 
-#~ msgid "Critical Mass"
-#~ msgstr "Critical Mass"
 
-#~ msgid "Enlightened Terminal Emulator"
-#~ msgstr "Emulator Terminal Enlightened"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "A simple file manager with built-in FTP support"
-#~ msgstr "Pengatur file dengan dukungan FTP built-in"
 
-#~ msgid "FileRunner"
-#~ msgstr "FileRunner"
 
-#~ msgid "Bittorent Gtk2 Interface"
-#~ msgstr "Antarmuka Bittorrent GTK2"
 
-#~ msgid "GTorrentViewer"
-#~ msgstr "GTorrentViewer"
 
-#~ msgid "OilWar"
-#~ msgstr "OilWar"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "Permainan tembak-menembak sederhana"
 
-#~ msgid "Heartrate monitor viewer"
-#~ msgstr "Viewer monitor detak jantung"
 
-#~ msgid "PolarViewer"
-#~ msgstr "PolarViewer"
 
-#~ msgid "A MacOS run-time environment"
-#~ msgstr "lingkungan MacOS"
 
-#~ msgid "SheepShaver"
-#~ msgstr "SheepShaver"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "SpiralLoops"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "Synthesized Loops"
 
-#~ msgid "SpiralSynth"
-#~ msgstr "SpiralSynth"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "VOCPweb (Penerima pesan remote web VOCP)"
 
-#~ msgid ""
-#~ "VOCPweb allows you to log on to the VOCP voice messaging system and "
-#~ "retrieve messages through a browser"
-#~ msgstr ""
-#~ "VOCPweb mengijinkan Anda untuk login ke sistem pesan suara VOCP dan "
-#~ "menerima pesan melalui browser"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "Game Petualangan Abe!!"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "Permainan Crack-Dot-Com klasik"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "Konversi dan rip video"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "Wireless network discovery tool"
-#~ msgstr "Perangkat pencarian jaringan nirkabel"
 
-#~ msgid "airfart"
-#~ msgstr "airfart"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "Permainan 2D Dogfight"
 
-#~ msgid "AlbumShaper"
-#~ msgstr "AlbumShaper"
 
-#~ msgid "Create photo albums"
-#~ msgstr "Membuat album foto"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Dekoder dan browser Teletext/Videotext"
 
-#~ msgid "Action-loaded 2D arcade shooter game"
-#~ msgstr "Permainan Aksi Menembak 2D"
 
-#~ msgid "Alien Blaster"
-#~ msgstr "Alien Blaster"
 
-#~ msgid "Alien pool"
-#~ msgstr "Alien pool"
 
-#~ msgid "Arcade-style mix of asteroids and pool"
-#~ msgstr "Gabungan asteroid dan pool"
 
-#~ msgid "Alleyoop"
-#~ msgstr "Alleyoop"
 
-#~ msgid "Graphical frontend to Valgrind memory checker"
-#~ msgstr "Tampilan grafis ke penguji memori Valgrind"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "Browser/perangkat pembuat web W3C"
 
-#~ msgid "amaya"
-#~ msgstr "amaya"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Synth modular ALSA"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "Synthesizer Modular untuk ALSA"
 
-#~ msgid "AmyEdit"
-#~ msgstr "AmyEdit"
 
-#~ msgid "Lightweight LaTeX editor"
-#~ msgstr "Editor LaTex yang ringan"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Angel Wars"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "Game perang angkasa"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "GUI untuk Genpak"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "Strategi Perintah Tingkat Lanjut"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "Permainan 3D menghancurkan asteroid"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asteroids3D"
 
-#~ msgid "atanks"
-#~ msgstr "atanks"
 
-#~ msgid "An rxvt-based terminal emulator for X11"
-#~ msgstr "Emulasi untuk X11 berbasis rxvt"
 
-#~ msgid "aterm"
-#~ msgstr "aterm"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "Pengontrol Brainwave"
 
-#~ msgid "Bacula Console (wxWindows)"
-#~ msgstr "Bacula Console (wxWindows)"
 
-#~ msgid "Bacula Director Console"
-#~ msgstr "Konsol Pengarah Bacula"
 
-#~ msgid "Bacula Tray Monitor"
-#~ msgstr "Monitor Tray Bacula"
 
-#~ msgid "Balazar Brothers"
-#~ msgstr "Balazar Brothers"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "Konfigurasikan penyimpanan energi untuk sistem Anda"
 
-#~ msgid "Energy Saving"
-#~ msgstr "Hemat Energi"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bbconf adalah perangkat konfigurasi GUI untuk blackbox"
 
-#~ msgid "bbkeys"
-#~ msgstr "bbkeys"
 
-#~ msgid "BB Run"
-#~ msgstr "BB Run"
 
-#~ msgid "BlackBox Run Window"
-#~ msgstr "Jalankan Window Blackbox"
 
-#~ msgid "Tool for eBay users"
-#~ msgstr "Perangkat untuk pengguna eBay"
 
-#~ msgid "bidwatcher"
-#~ msgstr "bidWatcher"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "A tactical board game"
-#~ msgstr "Permainan papan taktik"
 
-#~ msgid "biloba"
-#~ msgstr "biloba"
 
-#~ msgid "BIRT - Batch Image Resizing Thing"
-#~ msgstr "BIRT - Batch Image Resizing Thing"
 
-#~ msgid "GUI tool for easy resizing series of images"
-#~ msgstr "Perangkat GUI untuk untuk memanipulasi citra secara mudah"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "Penggambar struktur kimia 2D"
 
-#~ msgid "BKchem"
-#~ msgstr "BKchm"
 
-#~ msgid "Blobby Volley"
-#~ msgstr "Blobby Volley"
 
-#~ msgid "Blobby Volley arcade game"
-#~ msgstr "Permainan arcade Blobby Volley"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Permainan mirip Mario"
 
-#~ msgid "Invasion: Battle of survival - a real time strategy game"
-#~ msgstr "Invasion: Battle of survival - sebuah permainan strategi nyata"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "Boxconf (Antarmuka konfigurasi kotak VOCP)"
 
-#~ msgid ""
-#~ "Boxconf presents a graphical user interface used to administer the VOCP "
-#~ "system box configuration"
-#~ msgstr ""
-#~ "Boxconf menampilkan antarmuka grafis yang digunakan untuk mengelola "
-#~ "konfigurasi sistem VOCP "
 
-#~ msgid "BPMDJ"
-#~ msgstr "BPMDJ"
 
-#~ msgid "A 3D chess game inspired by Battle Chess"
-#~ msgstr "Permainan catur 3D terinsipirasi oleh Battle Chess"
 
-#~ msgid "Brutal Chess"
-#~ msgstr "Brutal Chess"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "Dockapp Monitoring-duck-in-a-jar"
 
-#~ msgid "bubblemon"
-#~ msgstr "bubblemon"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "Bunuh kutu dengan mouse"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "Program perawatan image disk model C1541"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "Perangkat image disk VICE"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "Callcenter (Pusat Panggil VOCP)"
 
-#~ msgid ""
-#~ "The VOCP call center is meant to be an \"always on\" call monitor and to "
-#~ "give quick access to other VOCP GUIs and your call log"
-#~ msgstr ""
-#~ "Pusat panggil VOCP adalah pengawas panggilan \"selalu hidup\" dan juga "
-#~ "memberikan akses cepat ke GUI VOCP lainnya dan log panggilan Anda"
 
-#~ msgid "Broadband connection test program"
-#~ msgstr "Program tes koneksi akses Broadband"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "Camlgrenouille"
 
-#~ msgid "Webcam tool"
-#~ msgstr "Perangkat webcam"
 
-#~ msgid "camstream"
-#~ msgstr "camstream"
 
-#~ msgid "CanonUtil"
-#~ msgstr "CanonUtil"
 
-#~ msgid "Maintenance tool for Canon inkjet printers"
-#~ msgstr "Perangkat perawatan untuk printer inkjet Canon "
 
-#~ msgid "CD-Mason"
-#~ msgstr "CD-Mason"
 
-#~ msgid "Simple, powerful CD burning"
-#~ msgstr "Pembakar CD Sederhana dan Tangguh"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "Certain Death via Space Things"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "Permanan grafis dari Go"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "Program untuk membuat modul musik"
 
-#~ msgid "Cheesetracker"
-#~ msgstr "Cheesetracker"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "Browser Jaringan dan Perangkat (membutuhkan agen yang berjalan)"
 
-#~ msgid "childsplay"
-#~ msgstr "childsplay"
 
-#~ msgid "A open-source diary program"
-#~ msgstr "Program diary open-source"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "Clanbomber - permainan multiplayer gratis (GPL) mirip Bomberman"
 
-#~ msgid "Controller"
-#~ msgstr "Kontroller"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "Pengontrol MIDI untuk ZynAddSubFX"
 
-#~ msgid "Copter Commander OpenGL"
-#~ msgstr "Copter Commander OpenGL"
 
-#~ msgid "Copter-Commander Glx"
-#~ msgstr "Copter-Commander Glx"
 
-#~ msgid "Copter Commander"
-#~ msgstr "Copter Commander"
 
-#~ msgid "Crossfire Client"
-#~ msgstr "Klien Crossfire"
 
-#~ msgid "Cssed"
-#~ msgstr "Cssed"
 
-#~ msgid "CUI Term"
-#~ msgstr "CUI Term"
 
-#~ msgid "Composite user interface"
-#~ msgstr "Antarmuka pengguna komposit"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "Pilih Tema Kursor"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "Tema Kursor"
 
-#~ msgid "dap"
-#~ msgstr "dap"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "Klon Defender"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "A simple web browser"
-#~ msgstr "Browser web sederhana"
 
-#~ msgid "Dillo"
-#~ msgstr "Dillo"
 
-#~ msgid "Dino"
-#~ msgstr "Dino"
 
-#~ msgid "DiskSearch"
-#~ msgstr "DiskSearch"
 
-#~ msgid "Search removable media"
-#~ msgstr "Cari media penyimpanan portabel"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Pengawas Distcc"
 
-#~ msgid "An easy to use address book"
-#~ msgstr "Cara mudah menggunakan buku alamat"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "Emulator DOS"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "Dr.GeoCaml"
-#~ msgstr "Dr.GeoCaml"
 
-#~ msgid "DrGeoCaml Interactive Geometry Tool"
-#~ msgstr "Perangkat Geometri Interaktif DrGeoCaml"
 
-#~ msgid "Dr. Python"
-#~ msgstr "Dr. Python"
 
-#~ msgid "Python Editor and IDE"
-#~ msgstr "Editor dan IDE Python"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "2D Molecule Editor"
-#~ msgstr "Editor Molekul 2D"
 
-#~ msgid "EasyChem"
-#~ msgstr "EasyChem"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "EBView"
-#~ msgstr "EBView"
 
-#~ msgid "EBView is a browser for EB/EPWING files"
-#~ msgstr "EBView adalah penjelajah untuk file EB/EPWING"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr "Pengolah suara, perekam multitrack, dan mixer"
 
-#~ msgid "ecasound"
-#~ msgstr "ecasound"
 
-#~ msgid "E-Cell Model Editor"
-#~ msgstr "Editor Model E-Cell"
 
-#~ msgid "E-Cell Session Monitor"
-#~ msgstr "Monitor Sesi E-Cell"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Animator Egon Office Siag"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "Manajer file GTK"
 
-#~ msgid "Ecasound Mastering Interface"
-#~ msgstr "Ecasound Mastering Interface"
 
-#~ msgid "emi"
-#~ msgstr "emi"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour"
 
-#~ msgid "Graphical file manager"
-#~ msgstr "Manajer file grafis"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma adalah permainan teka-teki"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "EPIC adalah (E)nhanced (P)rogrammable (I)RC-II (C)lient."
 
-#~ msgid "Epic"
-#~ msgstr "Epic"
 
-#~ msgid "Python IDE"
-#~ msgstr "IDE Python"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "Mixer OSS lengkap"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
-#~ msgstr "eSvn adalah GUI Subversion antar platform (berbasis QT)"
 
-#~ msgid "esvn"
-#~ msgstr "esvn"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "Perangkat lunak seni interaktif"
 
-#~ msgid "Exim Monitor"
-#~ msgstr "Exim Monitor"
 
-#~ msgid "X11 monitor application for exim"
-#~ msgstr "Aplikasi pengawas X11 untuk exim"
 
-#~ msgid "Flash for Linux"
-#~ msgstr "Flash untuk Linux"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr "Aplikasi-Fluxbox untuk membuat dan mengelola ikon pada desktop"
 
-#~ msgid "Image viewer at heart, though it does other cool stuff"
-#~ msgstr "Penampil citra pada hati, meskipun melakukan hal lainnya."
 
-#~ msgid "feh"
-#~ msgstr "feh"
 
-#~ msgid "Fish Fillets NG"
-#~ msgstr "Fish Fillets NG"
 
-#~ msgid "Fish Fillets NG puzzle game"
-#~ msgstr "Permainan Puzzle Fish Fillets NG"
 
-#~ msgid "Flight Gear"
-#~ msgstr "Flight Gear"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "Simulator Terbang FlightGear"
 
-#~ msgid "FooBillard"
-#~ msgstr "FooBillard"
 
-#~ msgid "OpenGL billard game"
-#~ msgstr "Permainan Billard OpenGL"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "A.D.I.E. - Advanced Interactive Editor menggunakan toolkit FOX"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "Kalkulator menggunakan toolkit FOX"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "FOX Calculator"
 
-#~ msgid "fpm"
-#~ msgstr "fpm"
 
-#~ msgid "FrameWorks"
-#~ msgstr "FrameWorks"
 
-#~ msgid "Stop-motion animation tool"
-#~ msgstr "Perangkat Animasi"
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "Pemain synth/sequencer/sample bass untuk linux"
 
-#~ msgid "freebirth"
-#~ msgstr "freebirth"
 
-#~ msgid "Clone of the C64 Game Paradroid"
-#~ msgstr "Klon permainan C64 Paradroid"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreeLords"
-#~ msgstr "FreeLords"
 
-#~ msgid "Create Playlist for Freeplayer"
-#~ msgstr "Buat daftar untuk Freeplayer"
 
-#~ msgid "Freeplayer-playlist"
-#~ msgstr "Freeplayer-playlist"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "Manipulator suara"
 
-#~ msgid "Calculates fret distances for stringed musical instruments"
-#~ msgstr "Menghitung jarak fret untuk instrumen musik yang menggunakan string"
 
-#~ msgid "FretScale"
-#~ msgstr "FretScale"
 
-#~ msgid "Fricorder"
-#~ msgstr "Fricorder"
 
-#~ msgid "A GUI frontend for autotrace"
-#~ msgstr "Tampilan grafis untuk penelusuran otomatis"
 
-#~ msgid "FrontLine"
-#~ msgstr "FrontLine"
 
-#~ msgid "3D file browser"
-#~ msgstr "Browser file 3D"
 
-#~ msgid "fte"
-#~ msgstr "fte"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "Window manajer FVWM"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "Viewer Peta 3D"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "Gai-Album"
-#~ msgstr "Gai-Album"
 
-#~ msgid "Xmms cover viewer"
-#~ msgstr "Viewer sampul Xmms"
 
-#~ msgid "Backgrund switcher"
-#~ msgstr "Pengganti latar belakang"
 
-#~ msgid "Gai-bgswitcher"
-#~ msgstr "Gai-bgswitcher"
 
-#~ msgid "Blobs viewer :)"
-#~ msgstr "Blobs viewer :)"
 
-#~ msgid "Gai-blobs"
-#~ msgstr "Gai-blobs"
 
-#~ msgid "Displays the status of the keyboard leds"
-#~ msgstr "Menampilkan status lampu keyboard"
 
-#~ msgid "Gai-leds"
-#~ msgstr "Gai-leds"
 
-#~ msgid "Gai-mailcounter"
-#~ msgstr "Gai-mailcounter"
 
-#~ msgid "Mail counter"
-#~ msgstr "Penghitung Mail"
 
-#~ msgid "Gai-pal"
-#~ msgstr "Gai-pal"
 
-#~ msgid "Display time when they sun sets and rise"
-#~ msgstr "Menampilkan waktu ketika matahari terbit dan terbenam"
 
-#~ msgid "Gai-sun"
-#~ msgstr "Gai-sun"
 
-#~ msgid "Gai-visual-studio"
-#~ msgstr "Gai-visual-studio"
 
-#~ msgid "Visualizing the XMMS output"
-#~ msgstr "Memvisualisasikan output XMMS"
 
-#~ msgid "Galan"
-#~ msgstr "Galan"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "Viewer Molekul 3D"
 
-#~ msgid "GTK ASTerisk MANager"
-#~ msgstr "GTK ASTerisk MANager"
 
-#~ msgid "gastman"
-#~ msgstr "gastman"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "Bola Voli 2D"
 
-#~ msgid "gav"
-#~ msgstr "gav"
 
-#~ msgid "GTK2 color chooser"
-#~ msgstr "Pemilih warna GTK2"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "Edit preferensi GNOME Anda"
 
-#~ msgid "Gconfpref"
-#~ msgstr "Gconfpref"
 
-#~ msgid "gdis"
-#~ msgstr "gdis"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "Tetris bertemu Space Invaders"
 
-#~ msgid "Interactive software for dynamical mathematics"
-#~ msgstr "Software interaktif untuk matematika dinamis"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "gforth"
-#~ msgstr "gforth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "Buku Peringkat Guru"
 
-#~ msgid "ggradebook"
-#~ msgstr "ggradebook"
 
-#~ msgid "GNOME MM/QM Frontend"
-#~ msgstr "Tampilan MM/QM GNOME"
 
-#~ msgid "ghemical"
-#~ msgstr "ghemical"
 
-#~ msgid "DJ Collection Manager"
-#~ msgstr "Manajer Koleksi DJ"
 
-#~ msgid "GJay"
-#~ msgstr "GJay"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "Simulator penerbangan"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "Glest"
-#~ msgstr "Glest"
 
-#~ msgid "Glinuxsms"
-#~ msgstr "Glinuxsms"
 
-#~ msgid "Glinuxsms is a GNOME2 GUI/front-end for linuxsms"
-#~ msgstr "Glinuxsms adalah tampilan GUI GNOME2 untuk linuxsms"
 
-#~ msgid "GLiv"
-#~ msgstr "GLiv"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "Viewer grafis OpenGL"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "Permainan lightcycle 3D"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "Klien Gnome untuk server modem masqdialer"
 
-#~ msgid "Memory usage"
-#~ msgstr "Pemakaian Memori"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "Perlengkapan Otomatis MIDI"
 
-#~ msgid "GMudix GTK mud client"
-#~ msgstr "klien GTK GMudix"
 
-#~ msgid "gMudix"
-#~ msgstr "gMudix"
 
-#~ msgid "Gneutronica"
-#~ msgstr "Gneutronica"
 
-#~ msgid "MIDI drum sequencer"
-#~ msgstr "Sekuenser drum MIDI"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Gnome Photo Printer"
-#~ msgstr "Photo Printer Gnome"
 
-#~ msgid "Quick and simple photo printing"
-#~ msgstr "Percetakan foto yang cepat dan sederhana"
 
-#~ msgid "Gnome-SSHMan"
-#~ msgstr "Gnome-SSHMan"
 
-#~ msgid "Manage SSH connections"
-#~ msgstr "Mengelola koneksi SSH"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "Gnometab adalah editor tablature gitar."
 
-#~ msgid "GNOME applet to post link on the del.icio.us"
-#~ msgstr "Applet GNOME untuk mengirimkan link pada del.icio.us"
 
-#~ msgid "Gnomolicious"
-#~ msgstr "Gnomolicious"
 
-#~ msgid "A ripper, an encoder and an audio converter"
-#~ msgstr "Sebuah ripper, enkoder dan konverter audio"
 
-#~ msgid "Gnormalize"
-#~ msgstr "Gnormalize"
 
-#~ msgid "GNU Backgammon"
-#~ msgstr "GNU Backgammon"
 
-#~ msgid "Gnubik"
-#~ msgstr "Gnubik"
 
-#~ msgid "gnuitar"
-#~ msgstr "gnuitar"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "A free collaborative editor"
-#~ msgstr "Editor kolaboratif yang gratis"
 
-#~ msgid "Gobby"
-#~ msgstr "Gobby"
 
-#~ msgid "Gournal"
-#~ msgstr "Gournal"
 
-#~ msgid "Handwriting notepad"
-#~ msgstr "Catatan Tulisan tangan"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "Telpon Internet"
 
-#~ msgid "Gpppoem"
-#~ msgstr "Gpppoem"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "Pengawas pppoe"
 
-#~ msgid "GPRS Easy Connect"
-#~ msgstr "GPRS Easy Connect"
 
-#~ msgid "GUI to simplify GPRS cellular data connection"
-#~ msgstr "GUI untuk mempermudah koneksi data selular GPRS"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "Transfer file GPS"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "MGPSPoint"
 
-#~ msgid "GQ"
-#~ msgstr "GQ"
 
-#~ msgid "GQ is a GTK-based LDAP client"
-#~ msgstr "GQ adalah klien LDAP berbasis GTK"
 
-#~ msgid "Control print jobs"
-#~ msgstr "Mengontrol tugas pencetakan"
 
-#~ msgid "GQueue"
-#~ msgstr "GQueue"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "Visualisasi grafis data ilmiah"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "Simulator otomaton selular"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "Sistem Pendukung Analisa Sumber Daya Geografis"
 
-#~ msgid "Greenwich"
-#~ msgstr "Greenwich"
 
-#~ msgid "Whois client"
-#~ msgstr "Klien whois"
 
-#~ msgid "GRhino"
-#~ msgstr "GRhino"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "Kalkulator RPN"
 
-#~ msgid "GScore"
-#~ msgstr "GScore"
 
-#~ msgid "Musical Score Editor"
-#~ msgstr "Editor Nada musik"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "Klien permainan TetriNET untuk Linux"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK-IPTables"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "Konfigurasi Aturan IPTable"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "Mengganti Tema GTK1"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "Pengubah Tema GTK"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "Tampilan Gtk untuk asp2php"
 
-#~ msgid "GtkAtlantic"
-#~ msgstr "GtkAtlantic"
 
-#~ msgid "Buehlmann ZH-L16 model diving simulation"
-#~ msgstr "Simulasi selam Buehlmann model ZH-L16"
 
-#~ msgid "GtkDive"
-#~ msgstr "Gtkdive"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "Program grafis pencari file"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "Efek Gitar GTK"
 
-#~ msgid "Realtime effects"
-#~ msgstr "Efek realtime"
 
-#~ msgid "GTK CUPS"
-#~ msgstr "GTK CUPS"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "Tampilan GTK untuk CUPS"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "Tampilan GTK untuk Antrian CUPS GTKlp"
 
-#~ msgid "GTK Printer Queue"
-#~ msgstr "Antrian Printer GTK"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "motd versi GTK"
 
-#~ msgid "GtkPSProc"
-#~ msgstr "GtkPSProc"
 
-#~ msgid "Serial port terminal"
-#~ msgstr "Terminal port serial"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Viewer PostScript Siag"
 
-#~ msgid "Gnome Workstation Command Center"
-#~ msgstr "Gnome Workstation Command Center"
 
-#~ msgid "Network and workstation tools"
-#~ msgstr "Perangkat Jaringan dan workstation"
 
-#~ msgid "hackwhite_dune"
-#~ msgstr "hackwhite_dune"
 
-#~ msgid "Strategy action game"
-#~ msgstr "Permainan aksi strategi"
 
-#~ msgid "hedgewars"
-#~ msgstr "hedgewars"
 
-#~ msgid "Game like Nibbles but different"
-#~ msgstr "Game mirip Nibbles tetapi berbeda"
 
-#~ msgid "Heroes"
-#~ msgstr "Heroes"
 
-#~ msgid "Hexagonal Minesweeper"
-#~ msgstr "Minesweeper Heksagonal"
 
-#~ msgid "Hexamine"
-#~ msgstr "Hexamine"
 
-#~ msgid "Hexadecimal calculator"
-#~ msgstr "Kalkulator Heksadesimal"
 
-#~ msgid "Hexcalc"
-#~ msgstr "Hexcalc"
 
-#~ msgid "Othello clone"
-#~ msgstr "Klon othello"
 
-#~ msgid "Artillery/Worms-like Game in Open Space"
-#~ msgstr "Permainan mirip artilery/worm pada Dunia Terbuka"
 
-#~ msgid "HighMoon"
-#~ msgstr "HighMoon"
 
-#~ msgid "Holotz's Castle Editor"
-#~ msgstr "Editor Benteng Holotz"
 
-#~ msgid "Level editor for Holotz's Castle"
-#~ msgstr "Editor level untuk Benteng Holotz"
 
-#~ msgid "Holotz's Castle"
-#~ msgstr "Benteng Holotz"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "iaxComm"
-#~ msgstr "iaxComm"
 
-#~ msgid "ibWebAdmin"
-#~ msgstr "ibWebAdmin"
 
-#~ msgid "An X Window System-based calendar program"
-#~ msgstr "Sebuah program kalendar berbasis sistem X Window"
 
-#~ msgid "Podcast catcher"
-#~ msgstr "Penangkap Podcast"
 
-#~ msgid "Configurator for the GTK+2 Japanese Input Module"
-#~ msgstr "Pengatur untuk Input Modul bahasa Jepang GTK+2"
 
-#~ msgid "ImgSeek"
-#~ msgstr "ImgSeek"
 
-#~ msgid "ImgSeek Photo Manager"
-#~ msgstr "Manajer Foto ImgSeek"
 
-#~ msgid "Inventory"
-#~ msgstr "Inventory"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "Program Inventaris Sederhana"
 
-#~ msgid "IQNotes"
-#~ msgstr "IQNotes"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "Browser citra"
 
-#~ msgid "Drum machine styled audio sequencer"
-#~ msgstr "Penyelaras suara Drum"
 
-#~ msgid "JackBeat"
-#~ msgstr "JackBeat"
 
-#~ msgid "JackEQ"
-#~ msgstr "JackEQ"
 
-#~ msgid "Mixer for JACK audio server"
-#~ msgstr "Mixer untuk server audio JACK"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "Download Jigsaw"
 
-#~ msgid "Graphical puzzle game"
-#~ msgstr "Permainan teka-teki grafis"
 
-#~ msgid "Jools"
-#~ msgstr "Jools"
 
-#~ msgid "Jump 'n Bump"
-#~ msgstr "Jump 'n Bump"
 
-#~ msgid "Violent game with cute little bunnies"
-#~ msgstr "Permainan kesar dengan kelinci yang lucu"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "Klien ftp GTK2"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "Koneksi ALSA"
 
-#~ msgid "KAConnect"
-#~ msgstr "KAConnect"
 
-#~ msgid "Kcheckers"
-#~ msgstr "Kcheckers"
 
-#~ msgid "Kcheckers - Draughts game for KDE"
-#~ msgstr "Kcheckers - Permainan draught untuk KDE"
 
-#~ msgid "Kiax"
-#~ msgstr "Kiax"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Nanobot Kiki"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "Viewer Molekul QT"
 
-#~ msgid "Kodos"
-#~ msgstr "Kodos"
 
-#~ msgid "Visual regular expression editor"
-#~ msgstr "Editor visual ekspresi regular"
 
-#~ msgid "XKoules"
-#~ msgstr "XKoules"
 
-#~ msgid "Last.FM Player"
-#~ msgstr "Last.FM Player"
 
-#~ msgid "Play the last.fm internet radio"
-#~ msgstr "Memainkan radio internet last.fm"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "Viewer proses grafis"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "Klon Panzer General"
 
-#~ msgid "Links (hacked)"
-#~ msgstr "Links (versi ter-hack)"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "Browser WWW teks ala Lynx"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "lintalk"
-#~ msgstr "linTalk"
 
-#~ msgid "Cool script to send SMS"
-#~ msgstr "Skrip untuk mengirim SMS"
 
-#~ msgid "LinuxSMS"
-#~ msgstr "LinuxSMS"
 
-#~ msgid "Oki"
-#~ msgstr "Oki"
 
-#~ msgid "Debug information for package lplayer"
-#~ msgstr "Informasi debug untuk paket lplayer"
 
-#~ msgid "LongPlayer"
-#~ msgstr "LongPlayer"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "Klon tetris"
 
-#~ msgid "LDAP browser, utility and more"
-#~ msgstr "Penjelajah LDAP, utilitas, dan lebih banyak lagi"
 
-#~ msgid "Luma"
-#~ msgstr "Luma"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "Terbangkan pesawat berbentuk V dalam permainan 2D"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "Tangkap bom"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "MahJongg 3D Solitaire"
-#~ msgstr "MahJongg 3D Solitaire"
 
-#~ msgid ""
-#~ "MahJongg 3D Solitaire - A board game using OpenGL, with several themes"
-#~ msgstr ""
-#~ "MahJongg 3D Solitaire - Sebuah permainan papan menggunakan OpenGL, dengan "
-#~ "beberapa tema"
 
-#~ msgid "ManEdit"
-#~ msgstr "ManEdit"
 
-#~ msgid "UNIX manual pages editor"
-#~ msgstr "Editor halaman manual UNIX"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "Konferensi Internet MAS"
 
-#~ msgid "MASConf"
-#~ msgstr "MASConf"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "MAS Mixer"
 
-#~ msgid "MASMix"
-#~ msgstr "MASMix"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "Perangkat fungsi interaktif"
 
-#~ msgid "Mathplot"
-#~ msgstr "Mathplot"
 
-#~ msgid "Maxima"
-#~ msgstr "Maxima"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Antarmuka Tcl/Tk untuk Maxima"
 
-#~ msgid "A bubble bobble like arcade game"
-#~ msgstr "Permainan arcade ala bubble bobble"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "MIDI CC Sliders"
-#~ msgstr "Slide CC MIDI"
 
-#~ msgid "MIDI Controller"
-#~ msgstr "Kontroller MIDI"
 
-#~ msgid "MiniSIP"
-#~ msgstr "MiniSIP"
 
-#~ msgid "SIP Videophone"
-#~ msgstr "Videophone SIP"
 
-#~ msgid "Mirror Magic"
-#~ msgstr "Mirror Magic"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "Emulator terminal multi-bahasa"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Monotone-viz"
-#~ msgstr "Monotone-viz"
 
-#~ msgid "Visualizes monotone ancestry graphs"
-#~ msgstr "Memvisualisasikan grafis monotone"
 
-#~ msgid "Addictive puzzle game"
-#~ msgstr "Permainan teka-teki"
 
-#~ msgid "Monsterz"
-#~ msgstr "Monsterz"
 
-#~ msgid "The Sunbird Project is a redesign of the Calendar component"
-#~ msgstr "Proyek Sunbird adalah desain ulang dari komponen Calendar"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "A multi-tabbed X terminal emulator"
-#~ msgstr "Emulasi terminal X dengan multi-tab"
 
-#~ msgid "Mrxvt"
-#~ msgstr "Mrxvt"
 
-#~ msgid "Maitretarot"
-#~ msgstr "Maitretarot"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Maitretarot Client"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Perangkat diagnosa jaringan ping/traceroute"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "Sekuenser MIDI"
 
-#~ msgid "MyPasswordSafe"
-#~ msgstr "MyPasswordSafe"
 
-#~ msgid "Nabi"
-#~ msgstr "Nabi"
 
-#~ msgid "Simple Hangul XIM"
-#~ msgstr "XIM Hangul Tunggal"
 
-#~ msgid "Nagios"
-#~ msgstr "Nagios"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitor "
 
-#~ msgid "Development headers for nessus"
-#~ msgstr "Header Pengembangan untuk nessus"
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "NetHack Falcons Eye"
-#~ msgstr "NetHack Falcons Eye"
 
-#~ msgid "Nuclear Chess"
-#~ msgstr "Nuclear Chess"
 
-#~ msgid "Nuface"
-#~ msgstr "Nuface"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "Oki map editor"
-#~ msgstr "Editor peta Oki"
 
-#~ msgid ""
-#~ "A graphical front end for installing, removing and updating packages (old)"
-#~ msgstr ""
-#~ "Tampilan grafis untuk menginstall, menghapus, dan mengupdate paket-paket "
-#~ "paket (Lama)"
 
-#~ msgid "Install, Remove & Update Software (old)"
-#~ msgstr "Menginstall, Menghapus & Mengupdate Perangkat Lunak (lama)"
 
-#~ msgid "Browse Available Software (old)"
-#~ msgstr "Menjelajah Perangkat Lunak yang Tersedia (lama)"
 
-#~ msgid "OpenAlchemist"
-#~ msgstr "OpenAlchemist"
 
-#~ msgid "OpenArena"
-#~ msgstr "OpenArena"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "Buku Peringkat Digital"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "Mortal Szombat"
-#~ msgstr "Mortal Szombat"
 
-#~ msgid "Parody of Mortal Kombat"
-#~ msgstr "Parodi dari Mortal Kombat"
 
-#~ msgid "Openmsx"
-#~ msgstr "Openmsx"
 
-#~ msgid "OpenSi"
-#~ msgstr "OpenSi"
 
-#~ msgid "OpenSi client"
-#~ msgstr "Klien OpenSi"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "Penembak Orbital Eunuchs"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "Pemutar Video OSD Xine"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "Desktop Publishing for X (PAO)"
-#~ msgstr "Desktop Publishing untuk X (PAO)"
 
-#~ msgid "Passepartout"
-#~ msgstr "Passepartout"
 
-#~ msgid "Logic game"
-#~ msgstr "Permainan Logika"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "Klon dari permainan Missile Command klasik"
 
-#~ msgid "Penguin Command"
-#~ msgstr "Penguin Command"
 
-#~ msgid "Graphical client for PostgreSQL"
-#~ msgstr "Klien grafis untuk PostgreSQL"
 
-#~ msgid "pgadmin3"
-#~ msgstr "pgadmin3"
 
-#~ msgid "phpLDAPAdmin"
-#~ msgstr "phpLDAPAdmin"
 
-#~ msgid "phpMyAdmin"
-#~ msgstr "phpMyAdmin"
 
-#~ msgid "phpPgAdmin"
-#~ msgstr "phpPgAdmin"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "Emilia 3d Pinball"
 
-#~ msgid "Pinball"
-#~ msgstr "Pinball"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Pingus - klon Lemmings gratis"
 
-#~ msgid "Plan"
-#~ msgstr "Plan"
 
-#~ msgid "Ponyprog2000"
-#~ msgstr "Ponyprog2000"
 
-#~ msgid "Serial device programmer"
-#~ msgstr "Programmer divais serial"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "POPFile - Klasifikasi email otomatis"
 
-#~ msgid "An enhanced version of DooM - classic 3D shoot-em-up game"
-#~ msgstr "Versi pengembangan dari DooM - Permainan menembak 3D klasik"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "PrBooM-GL Multiplayer"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM-GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "PrBooM Multiplayer"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Debug information for package prokyon3"
-#~ msgstr "Informasi debug untuk paket prokyon3"
 
-#~ msgid "Prokyon3"
-#~ msgstr "Prokyon3"
 
-#~ msgid "Free SSH, Telnet and Rlogin client"
-#~ msgstr "Klien SSH, Telnet dan RLogin"
 
-#~ msgid "Putty"
-#~ msgstr "Putty"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic Writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Siag Office Pathetic writer"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Grafik molekuler yang dikendalikan dengan python"
 
-#~ msgid "PySyCache"
-#~ msgstr "PySyCache"
 
-#~ msgid "PythonCard Code Editor"
-#~ msgstr "Editor Kode PythonCard"
 
-#~ msgid ""
-#~ "The codeEditor sample in PythonCard is focused on being a simple to use "
-#~ "Python source code editor"
-#~ msgstr ""
-#~ "Contoh codeEditor pada PythonCard difokuskan pada penggunaan editor kode "
-#~ "sumber Python yang mudah digunakan"
 
-#~ msgid "PythonCard Resource Editor"
-#~ msgstr "Editor Sumber Daya PythonCard"
 
-#~ msgid ""
-#~ "This represents the beginnings of a GUI resource (layout) editor for "
-#~ "PythonCard"
-#~ msgstr ""
-#~ "Ini merepresentasikan awal dari editor sumber daya GUI untuk PythonCard"
 
-#~ msgid "PythonCard Samples"
-#~ msgstr "Contoh PythonCard"
 
-#~ msgid ""
-#~ "The main purpose of the samples is to \"stress\" the PythonCard framework "
-#~ "and make sure that the framework is robust and full-featured"
-#~ msgstr ""
-#~ "Tujuan utama dari contoh adalah untuk \"menguji\" kerangka PythonCard dan "
-#~ "memastikan bahwa framework tangguh dan kaya akan fitur"
 
-#~ msgid "ALSA Mixer"
-#~ msgstr "Mixer ALSA"
 
-#~ msgid "QAMix"
-#~ msgstr "QAMix"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "GUI Perekam ALSA"
 
-#~ msgid "QARecord"
-#~ msgstr "QARecord"
 
-#~ msgid "Multipage TIFF viewer"
-#~ msgstr "Viewer TIFF"
 
-#~ msgid "QFaxReader"
-#~ msgstr "QFaxReader"
 
-#~ msgid "Quantum GIS"
-#~ msgstr "Quantum GIS"
 
-#~ msgid "Quantum Geographic Information System"
-#~ msgstr "Quantum - Geographic Information System"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "Konektor Jackit berbasis Qt"
 
-#~ msgid "QJoyPad"
-#~ msgstr "QJoyPad"
 
-#~ msgid "MIDI Arpeggiator"
-#~ msgstr "MIDI Arpeggiator"
 
-#~ msgid "QMidiArp"
-#~ msgstr "QMidiArp"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "QtRadio - mendengarkan radio dengan QtRadio."
 
-#~ msgid "Quake II"
-#~ msgstr "Quake II"
 
-#~ msgid "Quake II: Capture The Flag"
-#~ msgstr "Quake II: Capture The Flag"
 
-#~ msgid "Quake II: Ground Zero"
-#~ msgstr "Quake II: Ground Zero"
 
-#~ msgid "Quake II: The Reckoning"
-#~ msgstr "Quake II: The Reckoning"
 
-#~ msgid "Quasar Accounting Software - Setup"
-#~ msgstr "Setup - Perangkat Lunak Akuntansi Quasar"
 
-#~ msgid "Quasar Setup"
-#~ msgstr "Quasar Setup"
 
-#~ msgid "Quasar"
-#~ msgstr "Quasar"
 
-#~ msgid "Quasar Accounting Software"
-#~ msgstr "Perangkat Lunak Akuntansi Quasar"
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "Membuat objek fraktal 3D"
 
-#~ msgid "Quat"
-#~ msgstr "Quat"
 
-#~ msgid "Keep track of things"
-#~ msgstr "Mencatat segalanya"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "Pembuat CD Video"
 
-#~ msgid "Poker-like card game"
-#~ msgstr "Permainan kartu mirip Poker"
 
-#~ msgid "RA Pai Gaw Poker"
-#~ msgstr "RA Pai Gaw Poker"
 
-#~ msgid "Molecular Graphics Visualization Tool"
-#~ msgstr "Perangkat visualisasi Grafis Molekuler"
 
-#~ msgid "RasMol"
-#~ msgstr "RasMol"
 
-#~ msgid "RBBR"
-#~ msgstr "RBBR"
 
-#~ msgid "RuBy BRowser"
-#~ msgstr "Browser RuBy"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "Editor audio digital"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Ri-li"
-#~ msgstr "Ri-li"
 
-#~ msgid "Ri-li arcade game"
-#~ msgstr "Permainan Ri-li"
 
-#~ msgid "Data plotting and graphing"
-#~ msgstr "Plot data dan penggambaran"
 
-#~ msgid "RLPlot"
-#~ msgstr "RLPlot"
 
-#~ msgid "Root-Tail"
-#~ msgstr "Root-Tail"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "Root-tail mencetak teks langsung ke jendela utama"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "Manajer File untuk lingkungan desktop ROX"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "SDLRoids - pengembangan shoot-the-asteroids"
 
-#~ msgid "Colourful puzzle game"
-#~ msgstr "Permainan teka-teki berwarna"
 
-#~ msgid "SDL Vexed"
-#~ msgstr "SDL Vexed"
 
-#~ msgid "SeaMonkey Address Book"
-#~ msgstr "SeaMonkey Address Book"
 
-#~ msgid "Seamonkey Address Book"
-#~ msgstr "SeaMonkey Address Book"
 
-#~ msgid "SeaMonkey Composer"
-#~ msgstr "SeaMonkey Composer"
 
-#~ msgid "Seamonkey Composer HTML editor"
-#~ msgstr "Editor HTML Seamonkey"
 
-#~ msgid "SeaMonkey Mail"
-#~ msgstr "SeaMonkey Mail"
 
-#~ msgid "Seamonkey Mail & Newsgroups e-mail client"
-#~ msgstr "Klien Mail & Newsgroup Seamonkey"
 
-#~ msgid "SeaMonkey News"
-#~ msgstr "SeaMonkey News"
 
-#~ msgid "Seamonkey Mail & Newsgroups news reader"
-#~ msgstr "Pembaca berita Mail & Newsgroup Seamonkey"
 
-#~ msgid "SeaMonkey Navigator"
-#~ msgstr "SeaMonkey Navigator"
 
-#~ msgid "Seamonkey Navigator web browser"
-#~ msgstr "Browser web Seamonkey"
 
-#~ msgid "Helicopter simulator"
-#~ msgstr "Simulator helikopter"
 
-#~ msgid "SearchAndRescue"
-#~ msgstr "SearchAndRescue"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "Sequenser MIDI berbasis loop"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "Mixer event MIDI"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "SoundFontCombi"
 
-#~ msgid "SffView"
-#~ msgstr "SffView"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX Shutterbug"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "Ambil screenshot, dan menyimpannya ke file"
 
-#~ msgid "SimSam"
-#~ msgstr "SimSam"
 
-#~ msgid "Simple Sampler"
-#~ msgstr "Simple Sampler"
 
-#~ msgid "A tool for testing SIP-protocol implementation (RFC3261)"
-#~ msgstr "Perangkat untuk menguji implementasi protokol SIP (RFC3261)"
 
-#~ msgid "SipBomber"
-#~ msgstr "SipBomber"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "Permainan balap mobil multiplayer 3D dengan Python"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "Editor font suara GPL"
 
-#~ msgid "Music player"
-#~ msgstr "Pemutar Musik"
 
-#~ msgid "SnackAmp"
-#~ msgstr "SnackAmp"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr "Permainan frantic 2D yang mengoleksi kotak dan bulatan"
 
-#~ msgid "Multitrack wave editor"
-#~ msgstr "Editor audio multi-trek"
 
-#~ msgid "Songs"
-#~ msgstr "Lagu-lagu"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "Editor TAB Gitar"
 
-#~ msgid "An innovative pong like game"
-#~ msgstr "Sebuah permainan seperti pong inovatif"
 
-#~ msgid "SPE"
-#~ msgstr "SPE"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Grass (Spearfish)"
 
-#~ msgid "Grass using the Spearfish sample data set"
-#~ msgstr "Grass menggunakan contoh data Spearfish"
 
-#~ msgid "MIDI software sampler"
-#~ msgstr "Contoh perangkat lunak MIDI"
 
-#~ msgid "Specimen"
-#~ msgstr "Specimen"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "Synthesizer Perangkat Lunak Modul Spiral"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "Synth Modular Spiral"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "Pemecah papanketik MIDI untuk ZynAddSubFX"
 
-#~ msgid "Spliter"
-#~ msgstr "Spliter"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "Proyek: Starfighter"
 
-#~ msgid "Star Voyager"
-#~ msgstr "Star Voyager"
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
 
-#~ msgid "A rythm game"
-#~ msgstr "Permainan ritme"
 
-#~ msgid "StepMania"
-#~ msgstr "StepMania"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "GUI untuk Uproar dan Yepp Samsung"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "Sophisticated clock for the X Window system"
-#~ msgstr "Jam mutakhir untuk Sistem Window X"
 
-#~ msgid "Sunclock"
-#~ msgstr "Sunclock"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "VLC adalah pemutar MPEG, MPEG2, DVD dan DivX gratis"
 
-#~ msgid "VLC skinned GUI media player"
-#~ msgstr "Pemutar media GUI VLC"
 
-#~ msgid "Software manager for WinCE devices"
-#~ msgstr "Manajer Perangkat Lunak untuk divais WinCE"
 
-#~ msgid "Synce-software-manager"
-#~ msgstr "Synce-software-manager"
 
-#~ msgid "Sysprof"
-#~ msgstr "Sysprof"
 
-#~ msgid "System-wide Linux Profiler"
-#~ msgstr "Profiler Linux"
 
-#~ msgid "Quick-configure menu"
-#~ msgstr "Menu konfigurasi cepat"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "Ted, Rich Text Processor"
-#~ msgstr "Ted - Editor Rich Text"
 
-#~ msgid "Go chess for GNOME"
-#~ msgstr "Catur Go untuk GNOME"
 
-#~ msgid "Tengen"
-#~ msgstr "Tengen"
 
-#~ msgid "Displays a 4D spinning hypercube"
-#~ msgstr "Menampilkan kubus 4D yang berputar"
 
-#~ msgid "Tesseract Trainer"
-#~ msgstr "Tesseract Trainer"
 
-#~ msgid "Tgif"
-#~ msgstr "Tgif"
 
-#~ msgid "JACK TimeMachine"
-#~ msgstr "JACK TimeMachine"
 
-#~ msgid "Records audio from ten seconds ago"
-#~ msgstr "Merekam audio 10 detik yang lalu"
 
-#~ msgid "tn5250"
-#~ msgstr "tn5250"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "Simulator Balap Mobil"
 
-#~ msgid "Simple clone of Notepad"
-#~ msgstr "Klon Notepad"
 
-#~ msgid "TPad"
-#~ msgstr "TPad"
 
-#~ msgid "Team based FPS/RTS"
-#~ msgstr "Tim berbasis FPS/RTS"
 
-#~ msgid "Tremulous"
-#~ msgstr "Tremulous"
 
-#~ msgid "Trigger Rally"
-#~ msgstr "Trigger Rally"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
-#~ msgstr "Tuxedo T. Penguin: Perjalanan untuk Herring"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Adu balap gokart dengan Tux"
 
-#~ msgid "Fun game to learn math"
-#~ msgstr "Permainan menyenangkan untuk belajar matematika"
 
-#~ msgid "TuxMathScrabble"
-#~ msgstr "TuxMathScrabble"
 
-#~ msgid "Clone of ShufflePuck Cafee"
-#~ msgstr "Klon dari ShufflePuck Cafee"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "Educational typing tutor game starring Tux"
-#~ msgstr "Permainan edukasi pengetikan dengan tokoh utama Tux"
 
-#~ msgid "TX"
-#~ msgstr "TX"
 
-#~ msgid "XML Editor"
-#~ msgstr "XML Editor"
 
-#~ msgid "unison"
-#~ msgstr "unison"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "Master Ur-Quan"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Driving simulation"
-#~ msgstr "Simulasi Mengemudi"
 
-#~ msgid "VDrift"
-#~ msgstr "VDrift"
 
-#~ msgid "3D OpenGL spaceflight simulator"
-#~ msgstr "Simulator pertempuran pesawat angkasa 3D OpenGL"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "Asembler model 3D"
 
-#~ msgid "Vertex"
-#~ msgstr "Vertex"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "Editor vi yang populer pada Unix dengan penambahan Assisten Vigor"
 
-#~ msgid "On-screen ALSA MIDI keyboard"
-#~ msgstr "Keyboard layar ALSA MIDI"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (GUI untuk Viewer dan Pengirim Fax VOCP)"
 
-#~ msgid ""
-#~ "VOCPhax presents a (hopefully) friendly and intuitive graphical interface "
-#~ "to view and send faxes"
-#~ msgstr ""
-#~ "VOCPhax menampilkan (diharapkan) antarmuka yang ramah dan intuitif untuk "
-#~ "melihat dan mengirimkan fax"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "Aplikasi Kontrol volume utama"
 
-#~ msgid "Volume knob"
-#~ msgstr "Knob volume"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "Pemutar musik SID VICE untuk Commodore"
 
-#~ msgid "VSID music player"
-#~ msgstr "Pemutar musik VSID"
 
-#~ msgid "VYM"
-#~ msgstr "VYM"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "Editor sound grafis"
 
-#~ msgid "WaveSurfer"
-#~ msgstr "WaveSurfer"
 
-#~ msgid "Battle For Wesnoth editor"
-#~ msgstr "Battle For Wesnoth editor"
 
-#~ msgid "The map editor of Battle for Wesnoth"
-#~ msgstr "Editor peta Battle For Wesnoth"
 
-#~ msgid "A fantasy turn-based strategy game."
-#~ msgstr "Permainan strategi fantasi"
 
-#~ msgid "Battle For Wesnoth"
-#~ msgstr "Battle For Wesnoth"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "Permainan balap dengan tokoh utama Tux"
 
-#~ msgid "Wherever Racer"
-#~ msgstr "Wherever Racer"
 
-#~ msgid "Settlers II clone"
-#~ msgstr "Klon Settlers II"
 
-#~ msgid "Widelands"
-#~ msgstr "Widelands"
 
-#~ msgid "Simple wireless network manager"
-#~ msgstr "Manajer jaringan nirkabel sederhana"
 
-#~ msgid "WIFI radar"
-#~ msgstr "WIFI radar"
 
-#~ msgid "WLanFE"
-#~ msgstr "WLanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "Konfigurasi LAN nirkabel"
 
-#~ msgid "Lunuar Ephemeris status docklet"
-#~ msgstr "Docklet status Lunuar Ephemeris"
 
-#~ msgid "Battery/Power status monitor for WindowMaker on laptops"
-#~ msgstr "Monitor status Baterai/Tenaga untuk WindowMaker pada laptop"
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "Battery status docklet"
-#~ msgstr "Docklet status baterai"
 
-#~ msgid "WMbattery"
-#~ msgstr "WMbattery"
 
-#~ msgid "WindowMaker dock application for linuxfr-addicted people"
-#~ msgstr "Aplikasi dock WindowMaker untuk pengguna linuxfr yang kecanduan"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "Pengawasan CPU dalam dockapp"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "An app to monitor disk IO and available space on partitions"
-#~ msgstr ""
-#~ "Sebuah aplikasi untuk memonitor IO disk dan ruang kosong pada partisi"
 
-#~ msgid "WmDf"
-#~ msgstr "WmDf"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr "Aplikasi yang menampilkan beban CPU sebagai api dalam ikon kecil"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "Jam analog dalam tanki ikan"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "Aplikasi yang menampilkan bumi yang berputar dalam ikon"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "Dockapp mixer suara OSS"
 
-#~ msgid "WMix"
-#~ msgstr "WMix"
 
-#~ msgid "Laptop status docklet"
-#~ msgstr "Docklet status Laptop"
 
-#~ msgid "WMLaptop"
-#~ msgstr "WMLaptop"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "Aplikasi pengawas Mem/Swap untuk WindowMaker"
 
-#~ msgid "A dockapp for monitoring network interfaces"
-#~ msgstr "Aplkasi untuk mengawasi antarmuka jaringan"
 
-#~ msgid "wmnd"
-#~ msgstr "wmnd"
 
-#~ msgid "UPS monitoring in a dockapp"
-#~ msgstr "Pengawas UPS dalam dockapp"
 
-#~ msgid "WMNut"
-#~ msgstr "WMNut"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "Pengaws multiple mailbox via Pop3 dalam dockapp"
 
-#~ msgid "Dockapp sound mixer adjustable with mouse wheel"
-#~ msgstr "Aplikasi mixer suara yang dapat diatur dengan mouse"
 
-#~ msgid "WmsMixer"
-#~ msgstr "WmsMixer"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "Tampilan data kuota stok dalam ikon kecil"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr "Informasi sistem (memori, swap, uptime, IO) dalam ikon kecil"
 
-#~ msgid "WmSysMon"
-#~ msgstr "WmSysMon"
 
-#~ msgid "WM Dock TV"
-#~ msgstr "WM Dock TV"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "melihat webcam dalam window dockapp kecil"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam"
 
-#~ msgid "WMWifi"
-#~ msgstr "WMWifi"
 
-#~ msgid "Wireless network docklet"
-#~ msgstr "Docklet jaringan nirkabel"
 
-#~ msgid "Frontend for xscreensaver in a dock.app"
-#~ msgstr "Tampilan untuk xscreensaver dalam dock.app"
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "Manajer file, serupa dengan Directory Opus pada AMIGA"
 
-#~ msgid "Worker"
-#~ msgstr "Worker"
 
-#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
-#~ msgstr "Melindungi dan mencegah Repetitive Strain Injury (RSI)"
 
-#~ msgid "Workrave"
-#~ msgstr "Workrave"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "Pembangun GUI untuk wxWindows/wxPython"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "Emulator C128"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "Emulator Commodore 128"
 
-#~ msgid "HP48 Emulator"
-#~ msgstr "Emulator HP48"
 
-#~ msgid "x48"
-#~ msgstr "x48"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "Emulator C64"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "Emulator Commodore 64"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "Zoom fraktal Realtime"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "Klon ARCHON"
 
-#~ msgid "Defend your computers from Wingdows Viruses"
-#~ msgstr "Melindungi komputer Anda dari virus Wingdows"
 
-#~ msgid "XBill"
-#~ msgstr "XBill"
 
-#~ msgid "X blast"
-#~ msgstr "X blast"
 
-#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
-#~ msgstr "XBlast TNT adalah permainan mirip bomberman (Multiplayer)"
 
-#~ msgid "View and manage a wine cellar"
-#~ msgstr "Melihat dan mengelola wine"
 
-#~ msgid "XCave"
-#~ msgstr "XCave"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "Emulator CBM2"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "Emulator Commodore BM 2"
 
-#~ msgid "CHM viewer for UNIX"
-#~ msgstr "Viewer CHM untuk Unix"
 
-#~ msgid "Xchm"
-#~ msgstr "Xchm"
 
-#~ msgid "Electronic circuit schematic drawing program"
-#~ msgstr "Program penggambar sirkuit elektronik"
 
-#~ msgid "XCircuit"
-#~ msgstr "XCircuit"
 
-#~ msgid "General turn-based 2D strategy game system, SDL interface"
-#~ msgstr "Sistem permainan strategi 2D, antarmuka SDL"
 
-#~ msgid "Xconq SDL interface"
-#~ msgstr "Antarmuka SDL Xconq"
 
-#~ msgid "General turn-based 2D strategy game system, Tk interface"
-#~ msgstr "Sistem permainan strategi 2D, antarmuka Tk"
 
-#~ msgid "Xconq Tk interface"
-#~ msgstr "Antarmuka Tk Xconq"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Editor Text Siag"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Manajer File Siag"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "An X11 client for Internet Go Server"
-#~ msgstr "Klien X11 Server Go Internet"
 
-#~ msgid "xgospel"
-#~ msgstr "xgospel"
 
-#~ msgid "A puzzle game"
-#~ msgstr "Permainan teka-teki"
 
-#~ msgid "xlogical"
-#~ msgstr "xlogical"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmms"
-#~ msgstr "Xmms"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Motocross platform game"
-#~ msgstr "Permainan motocross"
 
-#~ msgid "X-Moto"
-#~ msgstr "X-Moto"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Mr. adalah, klon Mr. Do untuk X"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "Menampilkan pinguin berlari-lari pada desktop."
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "Emulator Commodore PET"
 
-#~ msgid "PET Emulator"
-#~ msgstr "Emulator PET"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "Permainan terbang/tembak"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Server Xpilot"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - Membutuhkan server"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "Emulator CPLUS4"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "Emulator Commodore PLUS4"
 
-#~ msgid "GTK2 newsreader with full Unicode support"
-#~ msgstr "Pembaca berita GTK2 dengan dukungan Unicode"
 
-#~ msgid "xpn"
-#~ msgstr "xpn"
 
-#~ msgid "News reader"
-#~ msgstr "Pembaca berita"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "Perangkat untuk memanipulasi paket perangkat lunak"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "Permainan mirip Lode Runner"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "Klon dari Scorched Earth"
 
-#~ msgid "XScorch"
-#~ msgstr "XScorch"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Spreadsheet Office Siag"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "Versi QT dari pemutar musik C64"
 
-#~ msgid "Xsidplay"
-#~ msgstr "Xsidplay"
 
-#~ msgid "The Skat game"
-#~ msgstr "Permainan Skat"
 
-#~ msgid "Xskat"
-#~ msgstr "Xskat"
 
-#~ msgid "Fullscreen gesture recognition"
-#~ msgstr "Pengenalan gesture layar penuh"
 
-#~ msgid "X-Tux"
-#~ msgstr "X-Tux"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "Emulator Commodore VIC 20"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "Emulator VIC 20"
 
-#~ msgid "On-screen keyboard for X"
-#~ msgstr "Keyboard Layar untuk X"
 
-#~ msgid "Virtual Keyboard"
-#~ msgstr "Keyboard Virtual"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (Penerima pesan suara grafis VOCP)"
 
-#~ msgid ""
-#~ "Xvocp presents a graphical user interface to the contents of voice mail "
-#~ "boxes"
-#~ msgstr "Xvocp menampilkan antarmuka grafis dari isi kotak mail suara"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "Editor level untuk DOOM"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Yudit"
-#~ msgstr "Yudit"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "Synth software MIDI real-time"
 
-#~ msgid "Zynaddsubfx"
-#~ msgstr "Zynaddsubfx"
 
-#~ msgid "Arcade car game on acrobatic tracks"
-#~ msgstr "Permainan mobil pada jalur akrobatik"
 
-#~ msgid "ManiaDrive"
-#~ msgstr "ManiaDrive"
 
-#~ msgid "Panel Manager"
-#~ msgstr "Manajer Panel"
 
-#~ msgid "Lightweight web browser"
-#~ msgstr "Peramban web ringan"
 
-#~ msgid "Midori"
-#~ msgstr "Midori"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "It's the internet"
-#~ msgstr "Inilah internet"
 
-#~ msgid "Monkey Bubble"
-#~ msgstr "Monkey Bubble"
 
-#~ msgid "Monkey Bubble Arcade Game"
-#~ msgstr "Permainan Monkey Bubble"
 
-#~ msgid "MonoDevelop"
-#~ msgstr "MonoDevelop"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "basmi monster dan selamatkan gnome"
 
-#~ msgid "Monster Masher"
-#~ msgstr "Monster Masher"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Listen to your music"
-#~ msgstr "Mendengarkan musik Anda"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Pemutar Music Muine"
 
-#~ msgid "MySQL Administrator"
-#~ msgstr "MySQL Administrator"
 
-#~ msgid "MySQL Query Browser"
-#~ msgstr "MySQL Query Browser"
 
-#~ msgid "MySQL Database Design Tool"
-#~ msgstr "Perangkat Desain Basis Data MySQL"
 
-#~ msgid "MySQL Workbench"
-#~ msgstr "MySQL Workbench"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "Atur perangkat dan koneksi jaringan"
 
-#~ msgid "Neverball"
-#~ msgstr "Neverball"
 
-#~ msgid "Neverputt"
-#~ msgstr "Neverputt"
 
-#~ msgid "Nexuiz (glx client)"
-#~ msgstr "Nexuiz (klien glx)"
 
-#~ msgid "Nexuiz (sdl client)"
-#~ msgstr "Nexuiz (klien sdl)"
 
-#~ msgid "nip2"
-#~ msgstr "nip2"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "Kelola dan ubah tatanan sambungan jaringan Anda"
 
-#~ msgid "Network Connections"
-#~ msgstr "Sambungan Jaringan"
 
-#~ msgid "NodeView"
-#~ msgstr "NodeView"
 
-#~ msgid "The central control program of the OpenKiosk system"
-#~ msgstr "Program kontrol pusat dari sistem OpenKiosk"
 
-#~ msgid "Downloader for X"
-#~ msgstr "Downloader for X"
 
-#~ msgid "Monitor TV programs"
-#~ msgstr "Pantau program TV"
 
-#~ msgid "OnTV"
-#~ msgstr "OnTV"
 
-#~ msgid "OpenCity"
-#~ msgstr "OpenCity"
 
-#~ msgid "Parole Media Player"
-#~ msgstr "Pemutar Media Parole"
 
-#~ msgid "Pioneers Editor"
-#~ msgstr "Editor Pioneers"
 
-#~ msgid "Pioneers Server"
-#~ msgstr "Server Pioneers"
 
-#~ msgid "Pioneers"
-#~ msgstr "Pioneers"
 
-#~ msgid "A video editing and demultiplexing tool"
-#~ msgstr "Perangkat pengeditan dan demultiplexing video"
 
-#~ msgid "ProjectX"
-#~ msgstr "ProjectX"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "QDVDAuthor"
-#~ msgstr "QDVDAuthor"
 
-#~ msgid "Visual process manager"
-#~ msgstr "Manajer proses visual"
 
-#~ msgid "Quarry"
-#~ msgstr "Quarry"
 
-#~ msgid "Listen to, browse, or edit your audio collection"
-#~ msgstr "Mendengarkan, menjelajah, atau mengedit koleksi audio Anda"
 
-#~ msgid "Quod Libet"
-#~ msgstr "Quod Libet"
 
-#~ msgid "Connect to remote desktops"
-#~ msgstr "Mengakses remote desktop"
 
-#~ msgid "Remmina Remote Desktop Client"
-#~ msgstr "Remmina Remote Desktop Client"
 
-#~ msgid "Organize and secure your passwords"
-#~ msgstr "Mengatur dan mengamankan katasandi Anda"
 
-#~ msgid "ripperX"
-#~ msgstr "ripperX"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "Permainan Scorched Earth 3D OpenGL"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "Atur layanan yang akan dijalankan saat komputer dinyalakan"
 
-#~ msgid "Services"
-#~ msgstr "Layanan"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "Konfigurasikan folder yang hendak dibuka aksesnya dalam jaringan"
 
-#~ msgid "Shared Folders"
-#~ msgstr "Folder Terkongsi"
 
-#~ msgid "Organize your photos"
-#~ msgstr "Shotwell Photo Manager"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "AT-SPI Browser"
-#~ msgstr "Browser AT-SPI"
 
-#~ msgid "Browse your Assistive Technology-enabled desktop"
-#~ msgstr "Jelajahi desktop bantuan berbasis teknologi Anda"
 
-#~ msgid "Sound Converter"
-#~ msgstr "Sound Converter"
 
-#~ msgid "Archive manager"
-#~ msgstr "Manajer arsip"
 
-#~ msgid "Stopmotion"
-#~ msgstr "Stopmotion"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Konfigurasi Proc"
 
-#~ msgid "Change the default Java toolset"
-#~ msgstr "Ubah toolset java standar"
 
-#~ msgid "Personal task manager"
-#~ msgstr "Daftar tugas pribadi"
 
-#~ msgid "Tasks"
-#~ msgstr "Tugas-tugas"
 
-#~ msgid "To Do list"
-#~ msgstr "Daftar tugas"
 
-#~ msgid "Easy quick task management"
-#~ msgstr "Manajemen tugas yang cepat dan mudah"
 
-#~ msgid "Tasque"
-#~ msgstr "Tasque"
 
-#~ msgid "Multiple terminals in one window"
-#~ msgstr "Banyak terminal dalam satu jendela"
 
-#~ msgid "Terminator"
-#~ msgstr "Terminator"
 
-#~ msgid "Configure the Thunar file manager"
-#~ msgstr "Konfigurasi manajer berkas Thunar"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "Ubah tanggal, waktu, dan zona waktu komputer"
 
-#~ msgid "Time and Date"
-#~ msgstr "Tanggal dan Waktu"
 
-#~ msgid "Simple DVD mastering GUI"
-#~ msgstr "GUI DVD mastering"
 
-#~ msgid "TkDVD"
-#~ msgstr "TkDVD"
 
-#~ msgid "Trackballs"
-#~ msgstr "Trackballs"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "Klien terminal server"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "Program menggambar untuk anak-anak."
 
-#~ msgid "Drawing program"
-#~ msgstr "Program gambar"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
 
-#~ msgid "Twinkle"
-#~ msgstr "Twinkle"
 
-#~ msgid "Urlgfe"
-#~ msgstr "Urlgfe"
 
-#~ msgid "Users and Groups"
-#~ msgstr "Pemakai dan Kelompoknya"
 
-#~ msgid "GPS Data Manager"
-#~ msgstr "Pengelola Data GPS"
 
-#~ msgid "Map Based GPS Data Manager (live data capable)."
-#~ msgstr "Pengelola Data GPS Berbasis Peta (mampu menangani data live)."
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid "VLC media player"
-#~ msgstr "Pemutar media VLC"
 
-#~ msgid "Gnome Desktop Wallpapers Configuration Tool"
-#~ msgstr "Alat Konfigurasi Gambar Latar Desktop Gnome"
 
-#~ msgid "Wallpapers tool"
-#~ msgstr "Alat gambar latar desktop"
 
-#~ msgid "Postnuclear realtime strategy"
-#~ msgstr "Permainan strategi nyata tentang nuklir"
 
-#~ msgid "Warzone 2100"
-#~ msgstr "Warzone 2100"
 
-#~ msgid "Wormux"
-#~ msgstr "Wormux"
 
-#~ msgid "wxMaxima"
-#~ msgstr "wxMaxima"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "Emulator Terminal IBM 3270"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "A GTK+2 only archive manager"
-#~ msgstr "Manajer arsip khusus GTK+2"
 
-#~ msgid "Xarchiver"
-#~ msgstr "Xarchiver"
 
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "Chat IRC XChat-GNOME"
 
-#~ msgid "DOS emulator running under X"
-#~ msgstr "Emulasi DOS berjalan dibawah X"
 
-#~ msgid "XdTV"
-#~ msgstr "XdTV"
 
-#~ msgid "Burn Image (xfburn)"
-#~ msgstr "Bakar Citra (xfburn)"
 
-#~ msgid "CD and DVD burning application"
-#~ msgstr "Aplikasi pembakaran CD dan DVD"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "Kalender destop"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Desktop "
-#~ msgstr "Desktop "
 
-#~ msgid "Set desktop background and menu and icon behaviour"
-#~ msgstr "Atur latar belakang desktop dan menu serta perilaku ikon"
 
-#~ msgid "Configure screen settings and layout"
-#~ msgstr "Atur pengaturan layar dan tata letak"
 
-#~ msgid "Edit keyboard settings and application shortcuts"
-#~ msgstr "Sunting pengaturan papan ketik dan jalan pintas aplikasi"
 
-#~ msgid "Configure pointer device behavior and appearance"
-#~ msgstr "Atur perilaku divais penunjuk dan penampilan"
 
-#~ msgid "Customize desktop startup and splash screen"
-#~ msgstr "Sesuaikan hidupkan destop dan layar splash"
 
-#~ msgid "Session and Startup"
-#~ msgstr "Sesi dan Hidupkan"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "Manajer Pengaturan Grafis untuk Xfce 4"
 
-#~ msgid "Settings Manager"
-#~ msgstr "Manajer Pengaturan"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Manajer Pengaturan Xfce 4"
 
-#~ msgid "Customize the look of your desktop"
-#~ msgstr "Sesuaikan tampilan destop anda"
 
-#~ msgid "Configure window behavior and shortcuts"
-#~ msgstr "Atur perilaku jendela dan jalan pintas"
 
-#~ msgid "Fine-tune window behaviour and effects"
-#~ msgstr "Atur perilaku jendela dah efek"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "Tweak Manajer Jendela"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "Atur jumlah dan nama ruang kerja"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "Pengaturan Kalender"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Pengaturan untuk Aplikasi Kalender Xfce 4"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Pengaturan Kalender Xfce 4"
 
-#~ msgid "About Xfce"
-#~ msgstr "Tentang Xfce"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "Informasi tentang Lingkungan Destop Xfce"
 
-#~ msgid "Improve keyboard and mouse accessibility"
-#~ msgstr "Tingkatkan aksesibilitas papan ketik dan tetikus"
 
-#~ msgid "Find and launch applications installed on your system"
-#~ msgstr "Mencari dan menjalankan aplikasi terinstal di sistem anda"
 
-#~ msgid "Clipman"
-#~ msgstr "Clipman"
 
-#~ msgid "A client program to query different dictionaries."
-#~ msgstr "Program klien untuk kueri beragam kamus."
 
-#~ msgid "Dictionary Client"
-#~ msgstr "Klien Kamus"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "Manajer berkas Thunar"
 
-#~ msgid "Help using Xfce"
-#~ msgstr "Bantuan menggunakan Xfce"
 
-#~ msgid "Log Out"
-#~ msgstr "Log Keluar"
 
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "Log keluar Destop Xfce"
 
-#~ msgid "Audio mixer for the Xfce Desktop Environment"
-#~ msgstr "Mixer audio untuk Lingkungan Destop Xfce"
 
-#~ msgid "Ideal for your quick notes"
-#~ msgstr "Ideal untuk catatan cepat anda"
 
-#~ msgid "Customize how notifications appear on your screen"
-#~ msgstr "Sesuaikan bagaimana notifikasi tampak di layar anda"
 
-#~ msgid "Customize the panel settings"
-#~ msgstr "Kustomisasi pengaturan panel"
 
-#~ msgid "Power Manager"
-#~ msgstr "Manajer Daya"
 
-#~ msgid "Settings for the Xfce 4 Power Manager"
-#~ msgstr "Pengaturan untuk Manajer Daya Xfce 4"
 
-#~ msgid "Xfce 4 Power Manager"
-#~ msgstr "Manajer Daya Xfce 4"
 
-#~ msgid "Run Program..."
-#~ msgstr "Jalankan Program..."
 
-#~ msgid "Run a program"
-#~ msgstr "Jalankan program"
 
-#~ msgid "Screenshot"
-#~ msgstr "Cuplikan Layar"
 
-#~ msgid ""
-#~ "Take screenshots of the entire screen, of the active window or of a region"
-#~ msgstr ""
-#~ "Ambil cuplikan layar dari seluruh layar, dari jendela yang aktif atau "
-#~ "dari sebuah daerah"
 
-#~ msgid "Sensor Viewer"
-#~ msgstr "Penampil Sensor"
 
-#~ msgid "Sensors Values Viewer"
-#~ msgstr "Penampil Nilai Sensor"
 
-#~ msgid "Show sensor values."
-#~ msgstr "Tampilkan nilai sensor."
 
-#~ msgid "Graphical settings editor for Xfconf"
-#~ msgstr "Penyunting pengaturan grafis untuk Xfconf"
 
-#~ msgid "Settings Editor"
-#~ msgstr "Penyunting Pengaturan"
 
-#~ msgid "Terminal emulator"
-#~ msgstr "Emulator terminal"
 
-#~ msgid "MPD client"
-#~ msgstr "Klien MPD"
 
-#~ msgid "MPD client written in GTK+ for Xfce"
-#~ msgstr "Klien MPD ditulis dalam GTK+ untuk Xfce"
 
-#~ msgid "Xfmpc"
-#~ msgstr "Xfmpc"
 
-#~ msgid "Print Manager"
-#~ msgstr "Manajer Cetak"
 
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr ""
-#~ "Tampilkan senarai pencetak dan memungkinkan anda untuk mengatur tugas "
-#~ "mereka"
 
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "Manajer Cetak Xfce 4"
 
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr ""
-#~ "Memungkinkan anda untuk memilih penyokong sistem pencetakan yang akan "
-#~ "digunakan oleh xfprint"
 
-#~ msgid "Printing System Settings"
-#~ msgstr "Pengaturan Sistem Pencetakan"
 
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "Pengaturan Sistem Pencetakan Xfce 4"
 
-#~ msgid "Print Dialog"
-#~ msgstr "Dialog Cetak"
 
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "Cetak berkas dan memungkinkan anda untuk menata tata letaknya"
-
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "Dialog Cetak Xfce 4"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "Notes"
-
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"
-
-#~ msgid "VoIP Phone"
-#~ msgstr "Telepon VoIP"
-
-#~ msgid "Google Earth Install"
-#~ msgstr "Install Google Earth"
-
-#~ msgid "Sun Java 1.5.0 Plugin Control Panel"
-#~ msgstr "Panel Kontrol Sun Java 1.5.0"
-
-#~ msgid "Sun Java 1.5.0 Web Start"
-#~ msgstr "Sun Java 1.5.0 Web Start"
-
-#~ msgid "Sun Java 1.5.0 Policy Tool"
-#~ msgstr "Aplikasi Aturan Sun Java 1.5.0"
-
-#~ msgid "Sun Java 1.6.0 Plugin Control Panel"
-#~ msgstr "Panel Kontrol Plugin Sun Java 1.6.0"
-
-#~ msgid "Sun Java 1.6.0 Web Start"
-#~ msgstr "Sun Java 1.6.0 Web Start"
-
-#~ msgid "Sun Java 1.6.0 Cache Viewer"
-#~ msgstr "Viewer Cache Sun Java 1.6.0"
-
-#~ msgid "Sun Java 1.6.0 Console"
-#~ msgstr "Konsol Sun Java 1.6.0"
-
-#~ msgid "Sun Java 1.6.0 Monitoring & Management Console"
-#~ msgstr "Konsol Pengawasan & Manajemen Sun Java 1.6.0"
-
-#~ msgid "Sun Java 1.6.0 Policy Tool"
-#~ msgstr "Aplikasi Aturan Sun Java 1.6.0"
-
-#~ msgid "FreeCol"
-#~ msgstr "FreeCol"
-
-#~ msgid "FreeCol is an open version of the game Colonization"
-#~ msgstr "FreeCol adalah versi terbuka dari permainan Colonization"

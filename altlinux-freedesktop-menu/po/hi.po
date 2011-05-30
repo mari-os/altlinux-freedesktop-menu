@@ -1,41 +1,46 @@
-# translation of menu_po-sections.hi.po to Hindi
-# Menu section translation
-# Copyright (C) 2003
-# This file is distributed under the same license as the menu package.
+# translation of menu-messages-hi.po to हिन्दी, भारत (Hindi, India)
+# translation of menu-messages-hi.po to हिन्दी, भारत (Hindi, India)
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/hi.php3
 #
-# Bill Allombert <ballombe@debian.org>, 2003.
-# G Karunakar <karunakar@freedomink.org>, 2006.
+#
+# Copyright (C) 2000 MandrakeSoft
+# धनञ्जय शर्मा (Dhananjaya Sharma), 2004.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: menu_po-sections.hi\n"
+"Project-Id-Version: menu-messages-hi\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2006-11-09 12:29+0530\n"
-"Last-Translator: G Karunakar <karunakar@freedomink.org>\n"
-"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2004-03-22 13:15+0530\n"
+"Last-Translator: धनञ्जय शर्मा (Dhananjaya Sharma)\n"
+"Language-Team: हिन्दी, भारत (Hindi, India)\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 
 #, fuzzy
 msgid "2D Graphics"
-msgstr "ग्राफिक्स "
+msgstr "आलेखी"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "आलेखी अनुप्रयोग"
 
 #, fuzzy
 msgid "3D Graphics"
-msgstr "ग्राफिक्स "
+msgstr "आलेखी"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "आलेखी अनुप्रयोग"
 
 msgid "A clock application/applet"
 msgstr ""
 
+#, fuzzy
 msgid "A simple amusement"
-msgstr ""
+msgstr "खेल व मनोरंजन"
 
 msgid "Accessibility"
 msgstr "पहुँच"
@@ -46,7 +51,7 @@ msgstr "शिक्षा"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "शिक्षा"
+msgstr "ऐक्शन-पहेली खेल"
 
 msgid "AddressBooks"
 msgstr ""
@@ -57,14 +62,16 @@ msgstr "प्रशासन"
 msgid "Adventure"
 msgstr "रोमांच"
 
+#, fuzzy
 msgid "Adventure style games"
-msgstr ""
+msgstr "एक टेट्रिस जैसे खेल"
 
 msgid "Amateur Radio"
 msgstr ""
 
+#, fuzzy
 msgid "Application to burn a disc"
-msgstr ""
+msgstr "अनुप्रयोग"
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -84,48 +91,57 @@ msgstr ""
 msgid "Arcade"
 msgstr "ऑर्केड"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "आरकेड विडियो खेल"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "अभिलेख औज़ार"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "आर्क"
 
 msgid "Artificial Intelligence"
 msgstr "कृत्रिम ज्ञान"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "कृत्रिम ज्ञान"
 
 msgid "Astronomy"
 msgstr "खगोल विद्या"
 
+#, fuzzy
 msgid "Astronomy software"
-msgstr ""
+msgstr "खगोल विद्या"
 
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "ऑडियो प्लेयर"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "ध्वनि रेकॉर्डर"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "बैक-अप"
 
 msgid "Biology"
 msgstr "जीव विज्ञान"
 
+#, fuzzy
 msgid "Biology software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 #, fuzzy
 msgid "Blogs"
-msgstr "तालाबंद"
+msgstr "के-ब्लॉगर"
 
 msgid "Board Games"
 msgstr "बिसात के खेल"
@@ -139,14 +155,17 @@ msgstr ""
 msgid "Calculator"
 msgstr "गणक"
 
+#, fuzzy
 msgid "Calculators"
-msgstr ""
+msgstr "गणक"
 
+#, fuzzy
 msgid "Calendar"
-msgstr ""
+msgstr "ब्लैण्डर"
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "जावा टूलसेट"
 
 msgid "Card Games"
 msgstr "ताश के खेल"
@@ -156,24 +175,25 @@ msgstr "कार्ड"
 
 #, fuzzy
 msgid "Chart"
-msgstr "कार्ड"
+msgstr "के-चर-सलेक्ट"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "गपशप"
 
 msgid "Chemistry"
 msgstr "रसायन विज्ञान"
 
+#, fuzzy
 msgid "Chemistry software"
+msgstr "रसायन विज्ञान"
+
+msgid "Clock"
 msgstr ""
 
 #, fuzzy
-msgid "Clock"
-msgstr "तालाबंद"
-
-#, fuzzy
 msgid "Communications"
-msgstr "शिक्षा"
+msgstr "अनुप्रयोग"
 
 msgid "Compression"
 msgstr ""
@@ -181,22 +201,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "संगणक विज्ञान"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "संगणक विज्ञान"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "संगणक विज्ञान"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "विज्ञान"
+msgstr "संगणक विज्ञान"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "कॉन्फ़िगरेशन संपादक"
 
 #, fuzzy
 msgid "Construction"
-msgstr "शिक्षा"
+msgstr "प्रशासन"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -204,14 +227,16 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "डाटा दृश्यावलोकन"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "डाटा दृश्यावलोकन"
 
 msgid "Databases"
 msgstr "डाटाबेस"
 
+#, fuzzy
 msgid "Debug Applications"
-msgstr ""
+msgstr "और अधिक अनुप्रयोग"
 
 msgid "Desktop"
 msgstr "डेस्कटॉप"
@@ -219,23 +244,27 @@ msgstr "डेस्कटॉप"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "डेस्कटॉप ग्लोब"
 
 msgid "Development"
 msgstr "विकास"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "विकास वातावरण"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "एक ३डी ग्राफ़ प्रोग्राम"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "शब्दकोश"
 
 msgid "Dictionary"
 msgstr "शब्दकोश"
@@ -261,20 +290,24 @@ msgstr "शिक्षा"
 msgid "Electricity"
 msgstr "विधुत"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "विधुत"
 
+#, fuzzy
 msgid "Electronics"
-msgstr ""
+msgstr "विधुत"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "एक्समैबॉक्स"
 
+#, fuzzy
 msgid "Email applications"
-msgstr ""
+msgstr "आलेखी अनुप्रयोग"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -290,33 +323,38 @@ msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "तालाबंद"
+msgstr "गिरते पिण्डों को आपस में जमाएँ"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "गिरते पिण्डों को आपस में जमाएँ"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "विंडो प्रबंधक"
+msgstr "फ़ाइल प्रबंधक"
 
 #, fuzzy
 msgid "File Systems"
-msgstr "तंत्र "
+msgstr "तंत्र"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr ""
+msgstr "फ़ाइल प्रबंधक"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "सिस्टम उपकरण"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "टेक्टस टूल्स"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "विज्ञान शाखायें"
 
 msgid "Flow Chart"
 msgstr ""
@@ -324,11 +362,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "गनोम"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "क्यूटी डिज़ाइनर"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "आलेखी अनुप्रयोग"
 
 msgid "Games"
 msgstr "खेल"
@@ -342,28 +382,31 @@ msgstr "बच्चों के लिए खेल"
 msgid "Geography"
 msgstr "भूगर्भविज्ञान"
 
+#, fuzzy
 msgid "Geology"
-msgstr ""
+msgstr "जीव विज्ञान"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 #, fuzzy
 msgid "Geoscience"
-msgstr "विज्ञान"
+msgstr "भू-विज्ञान"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "विज्ञान"
+msgstr "भू-विज्ञान"
 
 msgid "Geosciences"
 msgstr "भू-विज्ञान"
 
 msgid "Graphics"
-msgstr "ग्राफिक्स "
+msgstr "आलेखी"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 msgid "Hardware"
 msgstr "हार्डवेयर"
@@ -371,32 +414,38 @@ msgstr "हार्डवेयर"
 msgid "History"
 msgstr "इतिहास"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "आईडीएलई"
 
 msgid "IRC"
 msgstr "आईआरसी"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "आईआरसी क्लाएंट"
 
 msgid "Image Processing"
 msgstr "प्रतिबिंब संसाधन"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "प्रतिबिंब संसाधन"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "इंस्टैंट मैसेंजर"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "सर्व-व्यापी त्वरित संदेशवाहक ग्राहक"
 
 msgid "Internet"
 msgstr "इंटरनेट"
 
+#, fuzzy
 msgid "Internet applications"
-msgstr ""
+msgstr "और अधिक अनुप्रयोग"
 
 msgid "Java"
 msgstr ""
@@ -419,21 +468,24 @@ msgstr "तर्क-शक्ति के खेल"
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 msgid "Mathematics"
 msgstr "गणित"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "डीजे सॉफ़्टवेयर"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "प्रदर्शक"
+msgstr "डब्लूएमएसमिक्सर"
 
 msgid "Monitoring"
 msgstr ""
@@ -441,20 +493,24 @@ msgstr ""
 msgid "Multimedia"
 msgstr "मल्टीमीडिया"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "मल्टीमीडिया मेनू"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "मल्टीमीडिया प्लेयर"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "मल्टीमीडिया प्लेयर"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 msgid "Network"
 msgstr "नेटवर्क"
@@ -471,8 +527,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "अंकीय विश्लेषण"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "अंकीय विश्लेषण"
 
 msgid "OCR"
 msgstr ""
@@ -491,13 +548,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "प्रोग्रामिंग"
+msgstr "पेन्ट प्रोग्राम"
 
 msgid "PDA"
 msgstr ""
 
+#, fuzzy
 msgid "Package manager applications"
-msgstr ""
+msgstr "टर्मिनल अनुप्रयोग"
 
 msgid "Packaging"
 msgstr "पैकेजिंग"
@@ -505,8 +563,9 @@ msgstr "पैकेजिंग"
 msgid "Parallel Computing"
 msgstr "सामान्तर कम्प्य़ूटिंग"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "सामान्तर कम्प्य़ूटिंग"
 
 msgid "Performance"
 msgstr ""
@@ -514,35 +573,41 @@ msgstr ""
 msgid "Personal"
 msgstr "निजी"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "भूगर्भविज्ञान"
 
 msgid "Physics"
 msgstr "भौतिक विज्ञान"
 
+#, fuzzy
 msgid "Physics software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 msgid "Preferences"
 msgstr "प्राथमिकताएँ"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "प्रस्तुतीकरण"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "प्रस्तुतीकरण"
 
 msgid "Printing"
 msgstr "मुद्रण"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "अभिलेख औज़ार"
 
 msgid "Project Management"
 msgstr "प्रोजेक्ट प्रबंधन"
 
+#, fuzzy
 msgid "Project management applications"
-msgstr ""
+msgstr "प्रोजेक्ट प्रबंधन"
 
 msgid "Publishing"
 msgstr ""
@@ -552,22 +617,26 @@ msgstr ""
 
 #, fuzzy
 msgid "Raster Graphics"
-msgstr "ग्राफिक्स "
+msgstr "आलेखी"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "आलेखी अनुप्रयोग"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "दूरस्थ डेस्कटॉप"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "आवाज निर्धारक नियंत्रक"
 
 msgid "Robotics"
 msgstr "रोबोटिक्स"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "मॉर्फ़िंग सॉफ़्टवेयर"
 
 msgid "Role Playing"
 msgstr ""
@@ -575,9 +644,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "सहेजें"
+msgstr ""
 
 msgid "Science"
 msgstr "विज्ञान"
@@ -588,55 +656,63 @@ msgstr "स्क्रीनसेवरs"
 msgid "Security"
 msgstr "सुरक्षा"
 
+#, fuzzy
 msgid "Security tools"
-msgstr ""
+msgstr "सुरक्षा"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "मीडी सीक्य़ून्सर"
 
 msgid "Settings"
 msgstr "विन्यास"
 
+#, fuzzy
 msgid "Simulation"
-msgstr ""
+msgstr "मीनीटेल ऐम्य़ूलेशन"
 
+#, fuzzy
 msgid "Simulation Games"
-msgstr ""
+msgstr "स्पेस अन्वेषण खेल"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "सॉफ्टवेयर अद्यतन दर्शक"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "सॉफ़्टवेयर मीडीया प्रबंधक"
 
+#, fuzzy
 msgid "Software to teach music"
-msgstr ""
+msgstr "सॉफ्टवेयर स्रोत"
 
 msgid "Sound"
 msgstr "ध्वनि"
 
 msgid "Sports"
-msgstr "खेलकूद"
+msgstr "स्पोर्टस"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "खेलकूद"
+msgstr "बिसात के खेल"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "स्प्रेडशीट"
 
 msgid "Strategy"
-msgstr "रणनीति"
+msgstr "व्यूह-रचना"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "रणनीति"
+msgstr "व्यूह-रचना"
 
 msgid "System"
-msgstr "तंत्र "
+msgstr "तंत्र"
 
 msgid "System Tools"
 msgstr "सिस्टम उपकरण"
@@ -644,26 +720,31 @@ msgstr "सिस्टम उपकरण"
 msgid "System settings"
 msgstr "सिस्टम जमावट"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "एमओटीवी"
 
 msgid "TV and Radio"
 msgstr ""
 
+#, fuzzy
 msgid "TV and Radio applications"
-msgstr ""
+msgstr "अनुप्रयोग क्रैश को देखें और रिपोर्ट करें"
 
+#, fuzzy
 msgid "TV applications"
-msgstr ""
+msgstr "अनुप्रयोग"
 
 msgid "Teaching Tools"
 msgstr "शिक्षण औज़ार"
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "आई०एस०डी०एन० दूरभाष"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "टेक्टस टूल्स"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -671,14 +752,17 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
+#, fuzzy
 msgid "Terminal emulator applications"
-msgstr ""
+msgstr "टर्मिनल अनुप्रयोग"
 
+#, fuzzy
 msgid "Terminals"
-msgstr ""
+msgstr "टर्मिनल "
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "टेक्टस टूल्स"
 
 msgid "Text tools"
 msgstr "टेक्टस टूल्स"
@@ -687,10 +771,11 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "औज़ार"
+msgstr "औज़ार"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "सॉफ्टवेयर विकास के औजार"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -698,11 +783,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "अपने डिफ़ॉल्ट अनुप्रयोग चुनें"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "अपने डिफ़ॉल्ट अनुप्रयोग चुनें"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -710,8 +797,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "मुद्रक विन्यस्त करें"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -728,21 +816,24 @@ msgstr "खिलौने"
 msgid "Translation"
 msgstr "अनुवाद "
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "अनुवाद "
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "टच टाइपिंग ट्यूटर"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "ग्राफिक्स "
+msgstr "ग्राफिक्स ड्राइंग"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "आलेखी अनुप्रयोग"
 
 msgid "Video"
 msgstr ""
@@ -750,27 +841,32 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "प्राथमिकताएँ"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "प्रदर्शक"
+msgstr "वीडीयो प्लेयर"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "डिज़िटल वीडीयो रिकार्डर"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "प्रदर्शक"
+msgstr "के-यूआई-व्यूअर"
 
+#, fuzzy
 msgid "Web Browsers"
-msgstr ""
+msgstr "वेब ब्राउज़र"
 
+#, fuzzy
 msgid "Web Browsing"
-msgstr ""
+msgstr "वेब ब्राउज़र"
 
 msgid "Web Development"
 msgstr "वेब स्थल विकास"
@@ -778,3542 +874,1147 @@ msgstr "वेब स्थल विकास"
 msgid "Web Publishing"
 msgstr ""
 
+#, fuzzy
 msgid "Wordprocessors"
-msgstr ""
+msgstr "वर्ड प्रोसेसर"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "कौनहै क्लाइंट"
 
-#~ msgid "Shells"
-#~ msgstr "शैल"
 
-#~ msgid "Text"
-#~ msgstr "पाठ"
 
-#~ msgid "Puzzles"
-#~ msgstr "पहेलियाँ"
 
-#~ msgid "Help"
-#~ msgstr "मदद"
 
-#, fuzzy
-#~ msgid "FVWM Modules"
-#~ msgstr "मॉड्यूल्स"
 
-#, fuzzy
-#~ msgid "Window Maker"
-#~ msgstr "विंडो प्रबंधक"
 
-#~ msgid "Appearance"
-#~ msgstr "रूप"
 
-#~ msgid "WorkSpace"
-#~ msgstr "कार्यक्षेत्र"
 
-#, fuzzy
-#~ msgid "Iceape Components"
-#~ msgstr "मोज़िला घटक"
 
-#~ msgid "Teddies"
-#~ msgstr "टेड्डीस"
 
-#~ msgid "Apps"
-#~ msgstr "अनुप्रयोग"
 
-#~ msgid "Hamradio"
-#~ msgstr "हेमरेडियो"
 
-#~ msgid "Math"
-#~ msgstr "गणित"
 
-#~ msgid "Technical"
-#~ msgstr "तकनीकी"
 
-#~ msgid "Tetris-like"
-#~ msgstr "टेट्रिस जैसे"
 
-#~ msgid "Root-window"
-#~ msgstr "रूट विंडो"
 
-#~ msgid "XShells"
-#~ msgstr "एक्सशैल"
 
-#~ msgid "Admin"
-#~ msgstr "प्रशासक"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> सभी कार्यक्रम"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> क्या करना है?"
 
-#~ msgid "Edutainment"
-#~ msgstr "खेल-खेल में सीखें"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "विविध"
 
-#~ msgid "Utilities"
-#~ msgstr "यूटिलिटीज़"
 
-#~ msgid "Internationalization"
-#~ msgstr "अंतर-राष्ट्रयीकरण "
 
-#~ msgid "Programming"
-#~ msgstr "प्रोग्रामिंग"
 
-#~ msgid "Servers"
-#~ msgstr "अनेक सर्वर"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "एक्स विंडो यूटिलिटीज़"
 
-#~ msgid "X-Utilities"
-#~ msgstr "एक्स-यूटिलिटीज़"
 
-#~ msgid "Wine"
-#~ msgstr "वाइन"
 
-#~ msgid "Advanced"
-#~ msgstr "विस्तृत"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "उन्नत विन्यास"
 
-#~ msgid "Lost & Found"
-#~ msgstr "खोया/पाया"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "रणनीतिक और कौशल"
 
-#~ msgid "Information"
-#~ msgstr "जानकारी"
 
-#~ msgid "Personal preferences"
-#~ msgstr "निजी पसंद"
 
-#~ msgid "Accessories"
-#~ msgstr "संलग्नक"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "डेस्कटॉप संलग्नक"
 
-#~ msgid "PIM"
-#~ msgstr "पीआईएम"
 
-#~ msgid "Science & Math"
-#~ msgstr "विज्ञान और गणित"
 
-#~ msgid "Peripherals"
-#~ msgstr "सहायक पुरजे"
 
-#~ msgid "Look and Feel"
-#~ msgstr "रूप व रंग"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "सेटिंग डेस्कटॉप प्रकटन व व्यवहार का नियंत्रण कर रहा है"
 
-#~ msgid "File"
-#~ msgstr "फ़ाइल"
 
-#~ msgid "Personal settings"
-#~ msgstr "निजी सेटिंग"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "स्क्रीनसेवर थीम"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "सिस्टम विन्यास व निरीक्षण"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "कई हार्डवेयर युक्तियों के लिए सेटिंग"
 
-#~ msgid "KDE Menu"
-#~ msgstr "केडीई मेन्यू"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "निजी वरीयता व प्रशासनिक जमावट"
 
-#~ msgid "Universal Access"
-#~ msgstr "सार्वभौमिक पहुँच"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "सार्वभौमिक अभिगम्यता जमावट"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "सिस्टमवाइड जमावट बदलें (सभी उपयोक्ताओं को प्रभावित करता है)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "ध्वनि व वीडियो"
 
-#~ msgid "Internet and Network"
-#~ msgstr "इंटरनेट व संजाल"
 
-#~ msgid "Control Center"
-#~ msgstr "नियंत्रण केंद्र"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "छलिया जैसे खेल"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "इंटरनेट से जुड़ने के लिये वेब व ईमेल जैसे प्रोग्राम"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "अनुप्रयोग जो अन्य श्रेणी में सटीक नहीं बैठती है"
 
-#~ msgid "Office Applications"
-#~ msgstr "कार्यालय अनुप्रयोग"
 
-#~ msgid ".hidden"
-#~ msgstr "ॅछिपाहुआ"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "कृपया हटाना या परिवर्तन ना करें"
 
-#~ msgid "XCam"
-#~ msgstr "एक्सकैम"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "मैनड्रिव लिनक्स अपडेट"
 
-#~ msgid "Freeciv"
-#~ msgstr "फ्रीसिव"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "पोकर जैसे पाँसे का खेल में विषम परिस्थितियों पर विजय पायें"
 
-#~ msgid "Tali"
-#~ msgstr "ताली"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "सॉफ्टवेयर स्रोत सक्रिय अथवा निष्क्रिय करें"
 
-#~ msgid "Audacity"
-#~ msgstr "आउडासिटी"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा फ़्रेंच भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप में)"
 
-#~ msgid "MIDI file player"
-#~ msgstr "मीडी फ़ाइल प्लेयर"
 
-#~ msgid "TiMidity++"
-#~ msgstr "टीमीडीटी++"
 
-#~ msgid "Five or More"
-#~ msgstr "पांच या अधिक"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "रंगीन गेंदों को पट्ट से मिटाने हेतु पंक्ति में लगाएँ "
 
-#~ msgid "Minesweeper"
-#~ msgstr "माइनस्वीपर"
 
-#~ msgid "System Monitor"
-#~ msgstr "तंत्र मॉनीटर"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "वर्तमान प्रक्रिया दिखाता है और तंत्र अवस्था मॉनीटर करता है"
 
-#~ msgid "GQview"
-#~ msgstr "जीक्य़ूव्य़ू"
 
-#~ msgid "Image Viewer"
-#~ msgstr "छवि प्रदर्शक"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "एक जीटीके-पर-आधारित मॉनिटरनिंग ऐप्लीकेशन"
 
-#~ msgid "Gkrellm"
-#~ msgstr "जीकेरेल्म"
 
-#~ msgid "Media Player"
-#~ msgstr "मीडिया-प्लेयर"
 
-#~ msgid "Empathy"
-#~ msgstr "एंपेथी"
 
-#~ msgid "IM Client"
-#~ msgstr "आईएम क्लाएंट"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "लॉकडाउन नीति विन्यस्त करें"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "संपादक लॉकडाउन करें"
 
-#~ msgid "About Me"
-#~ msgstr "के बारे में"
 
-#~ msgid "Set your personal information"
-#~ msgstr "निजी सूचना सेट करें"
 
-#~ msgid "IceBreaker"
-#~ msgstr "आईसब्रेकर"
 
-#~ msgid "Brasero"
-#~ msgstr "ब्रैसेरो"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "सीडी और डीवीडी बनाएँ और नक़ल लें"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "बदलें कि कौन से अनुप्रयोगों को मुख्य मेन्यू में दिखाया गया है"
 
-#~ msgid "Main Menu"
-#~ msgstr "मुख्य मेन्यू"
 
-#~ msgid "TkDiff"
-#~ msgstr "टीकेडिफ़"
 
-#~ msgid "Browse the web"
-#~ msgstr "वेब ब्राउज़ करें"
 
-#~ msgid "Epiphany"
-#~ msgstr "एपिफेनी"
 
-#~ msgid "Character Map"
-#~ msgstr "अक्षर तालिका"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "दस्तावेज़ों में विशिष्ट अक्षर प्रविष्ट करें"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "CompizConfig जमावट प्रबंधक"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "कोबो डीलक्स"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "सॉबा संरचना (एसडब्लूऐटी)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "स्वाट सॉबा प्रबंधन टूल"
 
-#~ msgid "Xwpick"
-#~ msgstr "एक्सडब्ल्यूपिक"
 
-#~ msgid "Create service packs for sharing with other computers"
-#~ msgstr "दूसरे कंप्यूटर के साथ साझा करने के लिए सेवा पैक बनाएँ"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "सेवा पैक निर्माता"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "सभी सोलिटेयर कार्डों के खेल"
 
-#~ msgid "PySOL"
-#~ msgstr "पाईसोल"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "जीय़ूआई शतरंजबोर्ड खेल"
 
-#~ msgid "XBoard"
-#~ msgstr "एक्सबोर्ड"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "डेस्कटॉप रूप पंसदीदा करें"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "ऑन लाइन शब्दकोश में परिभाषा व वर्तनी देखें"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr "नाम व सामग्री के आधार पर इस कंप्यूटर पर दस्तावेज व फोल्डर लोकेट करें"
 
-#~ msgid "Search for Files..."
-#~ msgstr "फ़ाइलों हेतु ढूंढें..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "अन्य अनुप्रयोग लांच करें और विंडो प्रबंधित करने व समय दिखाने आदि के लिए विविध अनुप्रयोग "
-#~ "दें."
 
-#~ msgid "Panel"
-#~ msgstr "फलक"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "वैकल्पिक इनपुट युक्ति के प्रयोग से अनुप्रयोग संचरित करें और टाइप करें"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "ऑन-स्क्रीन कुंजीपटल"
 
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "आरपी-पीपीपीओई के लिए फ़्रन्ट एन्ड"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "ऑडियो सीडी एक्सट्रैक्टर"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "अपने सीडी से संगीत नकल करें"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "CD/DVD सर्जक"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "CD और DVD बनाएँ"
 
-#~ msgid "Device Manager"
-#~ msgstr "उपकरण प्रबंधक"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "पसन्दीदा अनुप्रयोग"
 
-#~ msgid "Klotski"
-#~ msgstr "क्लोत्सकी"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "पज़ल समाधान के लिये ब्लॉक खिसकायें"
 
-#~ msgid "Chess"
-#~ msgstr "शतरंज"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "शतरंज का क्लासिक दो खिलाडियो वाला बोर्डगेम खेलें"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "पुस्तकचिह्न व स्थानीय संजाल अवस्थिति ब्रॉउज करें"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "उपयोक्ता के लिये प्रोफ़ाइल्स स्थापित और संपादित करें"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "उपयोक्ता प्रोफाइल संपादक"
 
-#~ msgid "F-Spot"
-#~ msgstr "एफ़ स्पॉट"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "फोटो प्रदर्शक"
 
-#~ msgid "Bluetooth"
-#~ msgstr "ब्लूटूथ"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "ब्लूटूथ सेटिंग विन्यस्त करें"
 
-#~ msgid "Emacs"
-#~ msgstr "ईमेक्स"
 
-#~ msgid "Text Editor"
-#~ msgstr "पाठ संपादक"
 
-#~ msgid "Disk Utility"
-#~ msgstr "डिस्क उपयोगिता"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "चालन और मीडिया प्रबंधित करें"
 
-#~ msgid "Office Suite"
-#~ msgstr "ऑफिस सूट"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "ब्रॉउज करें और घुमाएँ छवियाँ"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "कैटालॉग संस्थापक"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "सिस्टम पर सॉफ्टवेयर की सूची संस्थापित करें"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "ओपनऑफ़िस.ओआरजी कैलक्"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "अपने डेस्कटॉप या निजी विंडो के चित्र को सहेजें"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "स्क्रीनशॉट लें"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा डच भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप में)"
 
-#~ msgid "Eclipse"
-#~ msgstr "एक्लिप्स"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "फ़ाइल प्रबंधक के साथ फ़ाइलसिस्टम ब्राउज़ करें"
 
-#~ msgid "File Browser"
-#~ msgstr "फ़ाइल ब्राउज़र"
 
-#~ msgid "IDE for Python"
-#~ msgstr "पायथन के लिए आईडीई"
 
-#~ msgid "Mail notifier"
-#~ msgstr "विपत्र सूचना देने वाला"
 
-#~ msgid "Configurator"
-#~ msgstr "संरचक"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "डेस्कटॉप के विभिन्न भाग हेतु प्रसंग संस्थापित करें"
 
-#~ msgid "Theme Installer"
-#~ msgstr "प्रसंग स्थापक"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "आरएमई हैमरफ़ाल के लिए कन्ट्रोल पैनल"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "आरएमई डीजीकन्ट्रोल"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "गनोम से मदद लें"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "एक्सडालिक्लॉक"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "सहायक तकनालॉज़ी"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "चुनें कि आपकी लॉगिन के दौरान किस पहुँच फीचर को सक्रिय करना है"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "फोल्डर आकार जाँचें और उपलब्ध डिस्क स्थान"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "डिस्क प्रयोग विश्लेषण"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "संगठित करें, आनंद लें, और अपने फोटो को साझा करें"
 
-#~ msgid "Photo Manager"
-#~ msgstr "फोटो प्रबंधक"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "एक क्लाइंट व सर्वर फ़ैक्स संरचना टूल"
 
-#~ msgid "Movie Player"
-#~ msgstr "मूवी प्लेयर"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "बजाएँ मूवी और गीत"
 
-#~ msgid "Document Viewer"
-#~ msgstr "लेखपत्र प्रदर्शक"
 
-#~ msgid "Home Folder"
-#~ msgstr "घर फ़ोल्डर"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "अपना निजी फ़ोल्डर खोलें"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "संख्या शीर्षक मिलान से पज़ल पूरा करें"
 
-#~ msgid "Tetravex"
-#~ msgstr "टेट्रावेक्स "
 
-#~ msgid "Software Log Viewer"
-#~ msgstr "सॉफ्टवेयर लॉग दर्शक"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "पिछला संकुल प्रबंधन कार्य देखें"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "जी-स्ट्रीमर अनुप्रयोगों हेतु डिफ़ॉल्ट्स कॉन्फ़िगर करें "
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "मल्टीमीडिया तंत्र चयनक"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "दूरस्थ डेस्कटॉप की पहुँच लें"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "दूरस्थ डेस्कटॉप प्रदर्शक"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "ऑडिट विन्यास"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "ऑडिट विन्यास बदलें"
 
-#~ msgid "Metacity"
-#~ msgstr "मेटासिटी"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "जीटीके-ओसीआर एक जीओसीआर के लिए एक जीटीके फ़्रन्ट-एन्ड है"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "रोबॉट्स से दूर रहें और उन्हें आपस में टकराने दें"
 
-#~ msgid "Robots"
-#~ msgstr "रोबॉट्स"
 
-#~ msgid "Search"
-#~ msgstr "खोजें"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "डेस्कटॉप पर डॉटा के लिए खोजें"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा स्पेनिश भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप "
-#~ "में)"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "फेचमेलकॉन्फ"
 
-#~ msgid "ClanBomber"
-#~ msgstr "क्लानबॉम्बर"
 
-#~ msgid "R"
-#~ msgstr "आर"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "पल्सिंग रंग का एक pop-art-ish ग्रिड"
 
-#~ msgid "Pop art squares"
-#~ msgstr "पॉप अप वर्ग"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "F-Spot से कोई स्लाइड शो दिखाएँ"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "F-Spot फोटो"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "अपने चित्र फोल्डर से स्लाइडशो दिखाएं"
 
-#~ msgid "Pictures folder"
-#~ msgstr "चित्र फोल्डर"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "गनोम पाद लोगो स्क्रीन के गिर्द बबल"
 
-#~ msgid "Floating Feet"
-#~ msgstr "उत्प्लावित फीट"
 
-#~ msgid "Cosmos"
-#~ msgstr "कॉसमॉस"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "कोसमोस के चित्र का स्लाइडशो दिखाएं"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr "इस कंप्यूटर से पहुंच योग्य सभी स्थानीय डिस्क व फोल्डर ब्रॉउज करें"
 
-#~ msgid "Computer"
-#~ msgstr "कम्प्यूटर"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "उपलब्ध सॉफ़्टवेयर को ब्राउज करें"
 
-#~ msgid "LyX"
-#~ msgstr "एलवाईएक्स"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "पृथ्वी को अपने डेस्कटॉप पर दिखायें"
 
-#~ msgid "Xearth"
-#~ msgstr "एक्सपृथ्वी"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "अपने पसंद ब्राउज़ कर संघठित करें"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "एपिफेनी वेब पसंद"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "वेब पसंद"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा स्लोवियन भाषा में कैसे-करें (हाउटू) प्रलेख(एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "पहेलियाँ हल करने और सक्रियता का एक खेल"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "के-गोल्डरनर"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "मेनू अद्यतन करने का औजार"
 
-#~ msgid "K3b"
-#~ msgstr "के3बी"
 
-#~ msgid "Color Chooser"
-#~ msgstr "रंग चयनक"
 
-#~ msgid "KColorChooser"
-#~ msgstr "के-कलर-चूसर"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "केडीई तत्वों के पीरियाडिक टेबल"
 
-#~ msgid "Kalzium"
-#~ msgstr "के-एल्जियम"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "तत्वों के पीरियाडिक टेबल"
 
-#~ msgid "Hangman Game"
-#~ msgstr "हैंगमेन खेल"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "केडीई हैंगमेन खेल"
 
-#~ msgid "KHangMan"
-#~ msgstr "के-हैंगमेन"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "केफोटोएलबम"
 
-#~ msgid "Photo Album"
-#~ msgstr "फोटो एलबम"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "एक सरल चित्र प्रदर्शक"
 
-#~ msgid "Gwenview"
-#~ msgstr "ग्वेनव्यू"
 
-#~ msgid "KUser"
-#~ msgstr "के-यूज़र"
 
-#~ msgid "User Manager"
-#~ msgstr "उपयोक्ता प्रबंधक"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "के-जम्पिंगक्यूब"
 
-#~ msgid "Konquest"
-#~ msgstr "कॉन्क्वेस्ट"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "फ्लैश कार्ड तथा शब्द सीखने का प्रोग्राम"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "के-वर्ड-क्विज़"
 
-#~ msgid "Amarok"
-#~ msgstr "अमारॉक"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "सीवीएस फ्रन्टएण्ड"
 
-#~ msgid "Cervisia"
-#~ msgstr "सर्विसिया"
 
-#~ msgid "KRuler"
-#~ msgstr "के-रूलर"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "स्क्रीन रूलर"
 
-#~ msgid "KSnapshot"
-#~ msgstr "के-स्नेपशॉट"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "स्क्रीन केप्चर प्रोग्राम"
 
-#~ msgid "Character Selector"
-#~ msgstr "अक्षर चयनक"
 
-#~ msgid "Konqueror"
-#~ msgstr "कॉन्करर"
 
-#~ msgid "KLettres"
-#~ msgstr "के-लेटर्स"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "वर्णमाला सीखने के लिए एक केडीई प्रोग्राम"
 
-#~ msgid "Smb4K"
-#~ msgstr "एसएमबी४के"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "कैलेन्डर तथा समय-सारणी प्रोग्राम"
 
-#~ msgid "KOrganizer"
-#~ msgstr "के-आर्गेनाइज़र"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "निजी प्रबंधक"
 
-#~ msgid "Home"
-#~ msgstr "घर"
 
-#~ msgid "Personal Files"
-#~ msgstr "निजी फ़ाइलें"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "के-स्पेसड्यूएल"
 
-#~ msgid "KTouch"
-#~ msgstr "के-टच"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "के-इमेज-मैप-एडिटर"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "के-लिंक-स्टेटस"
 
-#~ msgid "KJots"
-#~ msgstr "के-जॉट्स"
 
-#~ msgid "Note Taker"
-#~ msgstr "नोट टेकर"
 
-#~ msgid "KMouth"
-#~ msgstr "के-माउथ"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "स्पीच सिंथेसाइज़र फ्रन्टएण्ड"
 
-#~ msgid "Konversation"
-#~ msgstr "कनवर्सेसन"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "ठंडी डेस्कटाप आईकैन्डी के लिए एक इंजन।"
 
-#~ msgid "SuperKaramba"
-#~ msgstr "सूपरकारम्बा"
 
-#~ msgid "Potato Guy"
-#~ msgstr "पोटैटो गाइ"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "काटें एवं चिपकाएं इतिहास यूटिलिटी "
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "क्लिपबोर्ड औज़ार"
 
-#~ msgid "Klipper"
-#~ msgstr "क्लिपर"
 
-#~ msgid "KBattleship"
-#~ msgstr "के-बैटलशिप"
 
-#~ msgid "Card Game"
-#~ msgstr "ताश के खेल"
 
-#~ msgid "CD Player"
-#~ msgstr "सीडी प्लेयर"
 
-#~ msgid "KsCD"
-#~ msgstr "के-एससीडी"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "बॉम्बरमैन क्लोन"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "ग्राफ गणक"
 
-#~ msgid "KAlgebra"
-#~ msgstr "के-अलजेब्रा"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "गणित एक्सप्रेशन सुलझाने वाला तथा प्लॉटर"
 
-#~ msgid "Kleopatra"
-#~ msgstr "क्लीयोपेट्रा"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "डेस्कटॉप साझेदारी"
 
-#~ msgid "Krfb"
-#~ msgstr "केआरएफबी"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "शाईसेन-शो"
 
-#~ msgid "Desktop Search"
-#~ msgstr "डेस्कटॉप खोज"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "याददाश्त बढ़ाने का एक खेल"
 
-#~ msgid "Blinken"
-#~ msgstr "ब्लिंकन"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "एक ग्नू-पीजी फ्रन्टएण्ड"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "एनक्रिप्शन औज़ार"
 
-#~ msgid "KGpg"
-#~ msgstr "के-जीपीजी"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "एक्स स्क्रीन का आकार बदलने तथा फिर से दिशानिर्धारण के लिए एक फलक ऐपलेट"
 
-#~ msgid "KRandRTray"
-#~ msgstr "के-रैँड-आर-ट्रे"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "स्क्रीन आकार बदलें व घुमाएँ"
 
-#~ msgid "KMail"
-#~ msgstr "के-मेल"
 
-#~ msgid "Mail Client"
-#~ msgstr "डाकिया"
 
-#~ msgid "KMahjongg"
-#~ msgstr "के-महजोंग"
 
-#~ msgid "Konsole"
-#~ msgstr "कंसोल"
 
-#~ msgid "KReversi"
-#~ msgstr "के-रिवर्सी"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "वैज्ञानिक गणक"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "डिफ/पैच फ्रन्टएण्ड"
 
-#~ msgid "Kompare"
-#~ msgstr "काम्पेयर"
 
-#~ msgid "KMag"
-#~ msgstr "के-मैग"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "स्क्रीन का आकार बढ़ाने वाला"
 
-#~ msgid "KTimer"
-#~ msgstr "के-टाइमर"
 
-#~ msgid "KNetAttach"
-#~ msgstr "केनेटअटैच"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "नेटवर्क फ़ोल्डर विज़ॉर्ड"
 
-#~ msgid "UML Modeller"
-#~ msgstr "यूएमएल मॉडलर"
 
-#~ msgid "Umbrello"
-#~ msgstr "अम्बरैलो"
 
-#~ msgid "KBlackBox"
-#~ msgstr "के-ब्लेकबॉक्स"
 
-#~ msgid "Kdenlive"
-#~ msgstr "केडेन्लाइव"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "केडीई के लिए नॉनलिनीयर विडियो संपादक"
 
-#~ msgid "KAtomic"
-#~ msgstr "के-एटॉमिक"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "पेशेंस ताश का खेल"
 
-#~ msgid "Kontact"
-#~ msgstr "कॉन्टेक्ट"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "निजी जानकारी प्रबंधक"
 
-#~ msgid "Marble"
-#~ msgstr "संगमरमर"
 
-#~ msgid "AMOR"
-#~ msgstr "एमोर"
 
-#~ msgid "Parley"
-#~ msgstr "पारले"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "शब्दावली प्रशिक्षक"
 
-#~ msgid "Font Viewer"
-#~ msgstr "फ़ॉन्ट प्रदर्शक"
 
-#~ msgid "KFontView"
-#~ msgstr "के-फ़ॉन्ट-व्यू"
 
-#~ msgid "Function Plotter"
-#~ msgstr "फंक्शन प्लॉट करने वाला"
 
-#~ msgid "KmPlot"
-#~ msgstr "के-एम-प्लॉट"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "गणितीय फंक्शन प्लॉटर"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "इंटरनेट डायल-अप औज़ार"
 
-#~ msgid "KPPP"
-#~ msgstr "केपीपीपी"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "एकीकृत विकास वातावरण"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "के-डेवलप ४"
 
-#~ msgid "System Information"
-#~ msgstr "तंत्र जानकारी"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "डेस्कटॉप प्लेनेटेरियम"
 
-#~ msgid "KStars"
-#~ msgstr "के-स्टार्स"
 
-#~ msgid "Kover"
-#~ msgstr "कोवर"
 
-#~ msgid "KolourPaint"
-#~ msgstr "कलर-पेंट"
 
-#~ msgid "Paint Program"
-#~ msgstr "छवि बनाने का प्रोग्राम"
 
-#~ msgid "KAlarm"
-#~ msgstr "के-अलार्म"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "निजी अलार्म शेड्यूलर"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr " बटुआ प्रबंधन औज़ार"
 
-#~ msgid "KTron"
-#~ msgstr "के-ट्रान"
 
-#~ msgid "KDiskFree"
-#~ msgstr "के-डिस्क-फ्री"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "डिस्क उपयोग देखें"
 
-#~ msgid "Kopete"
-#~ msgstr "के-ऑप्टी"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "बिटटोरेंट क्लाएंट"
 
-#~ msgid "KTorrent"
-#~ msgstr "केटोरेंट"
 
-#~ msgid "KCachegrind"
-#~ msgstr "के-केश-ग्रिंड"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "प्रोफ़ाइलर फ्रन्टएण्ड"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "परफार्मेस प्रोफाइलिंग डाटा का विजुअलाइज़ेशन"
 
-#~ msgid "Download Manager"
-#~ msgstr "डाउनलोड प्रबंधक"
 
-#~ msgid "KGet"
-#~ msgstr "के-गेट"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "भूगोल सीखने का प्रोग्राम"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "भूगोल प्रशिक्षक"
 
-#~ msgid "KGeography"
-#~ msgstr "के-जिओग्राफ़ी"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "कलर लाइन्स"
 
-#~ msgid "Tactical Game"
-#~ msgstr "रणनीतिक खेल"
 
-#~ msgid "Dolphin"
-#~ msgstr "डॉल्फ़िन"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "अभ्यास अंश"
 
-#~ msgid "KBruch"
-#~ msgstr "के-ब्रच"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "अंश के साथ अभ्यास प्रश्नोत्तर"
 
-#~ msgid "Info Center"
-#~ msgstr "जानकारी केंद्र"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "के-इन्फ़ोसेंटर"
 
-#~ msgid "Change Password"
-#~ msgstr "पासवर्ड बदलें"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "कंसोल-कैलेंडर"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "जापानी सन्दर्भ तथा शिक्षण औज़ार"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "जापानी सन्दर्भ/शिक्षण औज़ार"
 
-#~ msgid "Kiten"
-#~ msgstr "किटेन"
 
-#~ msgid "KMix"
-#~ msgstr "के-मिक्स"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "ध्वनि मिक्सर"
 
-#~ msgid "KBugBuster"
-#~ msgstr "के-बग-बस्टर"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "केडीई बग प्रबंधक"
 
-#~ msgid "Welcome"
-#~ msgstr "स्वागत"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "पसंदीदा संपादक"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "पसंदीदा व्यवस्था और संपादक"
 
-#~ msgid "KFileReplace"
-#~ msgstr "के-फ़ाइल-रिप्लेस"
 
-#~ msgid "Kolf"
-#~ msgstr "कोल्फ"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "लघु गोल्फ"
 
-#~ msgid "KwikDisk"
-#~ msgstr "क्विक-डिस्क"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "हटाया जा सकने वाला मीडिया यूटिलिटी"
 
-#~ msgid "KBounce"
-#~ msgstr "के-बाउंस"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "स्वचालित माउस क्लिक"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr ""
-#~ "आपके लिए माउस क्लिक करता है, बार-बार क्लिक के कारण ऊंगलियों में होने वाली क्षति को "
-#~ "कम करता है"
 
-#~ msgid "KMouseTool"
-#~ msgstr "के-माउस टूल"
 
-#~ msgid "Trash"
-#~ msgstr "रद्दी"
 
-#~ msgid "KMines"
-#~ msgstr "के-माइन्स"
 
-#~ msgid "Board Game"
-#~ msgstr "बिसात का खेल"
 
-#~ msgid "SameGame"
-#~ msgstr "सेमगेम"
 
-#~ msgid "KWrite"
-#~ msgstr "के-राइट"
 
-#~ msgid "Software Management"
-#~ msgstr "सॉफ़्टवेयर प्रबंधक"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "विकसित पाठ संपादक"
 
-#~ msgid "Kate"
-#~ msgstr "के-एटीई"
 
-#~ msgid "KNode"
-#~ msgstr "के-नोड"
 
-#~ msgid "News Reader"
-#~ msgstr "समाचार वाचक"
 
-#~ msgid "Menu Editor"
-#~ msgstr "मेन्यू संपादक"
 
-#~ msgid "JuK"
-#~ msgstr "ज्यूक"
 
-#~ msgid "Music Player"
-#~ msgstr "संगीत चालक"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "केडीई लिनक्स इन्फ्रारेड रिमोट नियंत्रण सर्वर."
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "शैक्षणिक प्रोग्रामिंग माहौल"
 
-#~ msgid "KTurtle"
-#~ msgstr "के-टर्टल"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "फ़ाइलें/फोल्डर ढूंढें"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "इंटरनेट डायलअप औजार लॉग प्रदर्शक"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "केपीपीपीलॉगव्यू"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "ज्यामितीय कंस्ट्रक्शन एक्सप्लोर करें"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "इंटरएक्टिव ज्यॉमिती"
 
-#~ msgid "Kig"
-#~ msgstr "केआईजी"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "फ़ाइल प्रबंधक- सुपर यूजर मोड"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "केडीई अक्षर अनुक्रम खेल"
 
-#~ msgid "Kanagram"
-#~ msgstr "के-अनाग्राम"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "अक्षर अनुक्रम खेल"
 
-#~ msgid "Popup Notes"
-#~ msgstr "पॉप-अप टीप"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "फ्लॉपी डिस्क फ़ॉर्मेटर"
 
-#~ msgid "KFloppy"
-#~ msgstr "के-फ़्लॉपी"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "कमांड हेतु शार्टकट कुंजियाँ नियत करें"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "कुंजीपटल शार्टकट"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा इटैलियन भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा कोरियन भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "टीवी देखने के लिए एक कार्यक्रम"
 
-#~ msgid "XawTV"
-#~ msgstr "एक्सॉ-टीवी"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "जीएनयू प्रोलॉग"
 
-#~ msgid "OpenDX"
-#~ msgstr "ओपनडीएक्स"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "दॄश्यालोकन डाटा एकप्लोरर"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "ओपनऑफ़िस.ओआरजी इमप्रेस"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Create and edit scientific formulas and equations by using Math."
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "ओपनऑफ़िस.ओआरजी मैथ"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "आवाज़ स्तर निर्धारित करें"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "पल्सऑडियो आवाज़ नियंत्रण"
 
-#~ msgid "Aumix"
-#~ msgstr "ऑमिक्स"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "अपने डाटाबेस वातावरण को संरचित करें"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "संस्थापित प्लगिन सक्रिय/निष्क्रिय करें"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "कीबोर्ड सूचक प्लगिन"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "एन्वि२४ (आईसीई१७१२) पर आधारित साउन्डकार्डों के लिए कन्ट्रोल टूल"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा जापानी भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "एक मल्टीप्लेयर ३डी टैंक युद्ध खेल"
 
-#~ msgid "BZflag"
-#~ msgstr "बीजेडफ़्लैग"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "ध्वनि आवाज और ध्वनि घटना बदलें"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "चुनें कि कैसे दूसरे उपयोक्ता आपके डेस्कटॉप को दूरस्थ रूप से देख सकते हैं"
 
-#~ msgid "Screensaver"
-#~ msgstr "स्क्रीन सेवर"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "अपना स्क्रीनसेवर पसंद सेट करें"
 
-#~ msgid "Open Folder"
-#~ msgstr "खुला फ़ोल्डर"
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "सिस्टम पर चयनित सॉफ्टवेयर संस्थापित करें"
 
-#~ msgid "Package Installer"
-#~ msgstr "पैकेज संस्थापक"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "मल्टीप्लेयर पहेली खेल"
 
-#~ msgid "Quadra"
-#~ msgstr "क्यूड्रा"
 
-#~ msgid "Sudoku"
-#~ msgstr "सोडोकु"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "इस क्रम ग्रिड पजल में अपना तर्क स्किल जांचें"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "लॉग फ़ाइल प्रदर्शक"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "तंत्र लॉग फ़ाइल दिखाएँ व मॉनीटर करें"
 
-#~ msgid "Network Proxy"
-#~ msgstr "नेटवर्क प्रॉक्सी"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "नेटवर्क प्रॉक्सी वरीयताएँ सेट करें"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "मोज़िला थंडरबर्ड"
 
-#~ msgid "Use the command line"
-#~ msgstr "कमांड लाइन का प्रयोग करें"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "चुनें कि कौन सा अनुप्रयोग शुरू करना है जब लॉगिन हों"
 
-#~ msgid "Startup Applications"
-#~ msgstr "आरंभन अनुप्रयोग"
 
-#~ msgid "Preview fonts"
-#~ msgstr "पूर्वावलोकन फान्ट"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "सुरंग भूमि से छुपे सुरंगों को मिटाएँ"
 
-#~ msgid "Record sound clips"
-#~ msgstr "ध्वनि क्लिप्स रेकॉर्ड करें"
 
-#~ msgid "Set your window properties"
-#~ msgstr "अपना विंडो गुण सेट करें"
 
-#~ msgid "Windows"
-#~ msgstr "विंडोज़"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "फ़्रोज़न-बुलबुला आरकेड खेल"
 
-#~ msgid "Configure power management"
-#~ msgstr "शक्ति प्रबंधन विन्यस्त करें"
 
-#~ msgid "Power Management"
-#~ msgstr "शक्ति प्रबंधन"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "एस्लेरियॉट सॉलिटेयर"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "भिन्न प्रकार के सॉलिटेयर खेल खेलें"
 
-#~ msgid "Notepad"
-#~ msgstr "नोटपैड"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "उपयोगकर्ताओं तथा समूहों को जोड़ना या ह्टाना"
 
-#~ msgid "User Administration"
-#~ msgstr "उपयोगकर्ता प्रबंधन"
 
-#~ msgid "Browse the Web"
-#~ msgstr "वेब पर ब्राउज करें"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "क्यूटी लिंग्विस्ट"
 
-#~ msgid "Note-taker"
-#~ msgstr "नोट-टेकर"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "टिप्पणी लें, विचारों को कड़ीबद्ध करें और संगठित रहें"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "टॉमब्वाए नोट्स"
 
-#~ msgid "Archive Manager"
-#~ msgstr "अभिलेख प्रबंधक"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "अभिलेख बनाएँ तथा परिवर्धित करें"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "रद्द, ठहरायें, फिर बहाल करें या कार्य फिर छापें"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "मुद्रण कार्य प्रबंधित करें"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "कंप्यूटर में फ़ाइल, फ़ोल्डर और दस्तावेज़ ढूंढें"
 
-#~ msgid "About GNOME"
-#~ msgstr "गनोम के बारे में"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "गनोम के बारे में और जानें"
 
-#~ msgid "Gnumeric"
-#~ msgstr "जीन्यूमेरिक"
 
-#~ msgid "Keyboard"
-#~ msgstr "कुंजीपटल"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "कुंजी पटल की वरीयताएँ नियत करें"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "एक जैसे जोड़ की टाइलें हटा कर ढेर साफ करें"
 
-#~ msgid "Mahjongg"
-#~ msgstr "महजोंग"
 
-#~ msgid "TkCVS"
-#~ msgstr "टीकेसीवीएस"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा हंगरेयिन भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "Mouse"
-#~ msgstr "माउस"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "अपने माउस की वरीयताएँ नियत करें"
 
-#~ msgid "Cheese"
-#~ msgstr "चीज"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "अपने वेबकैम से फोटो व वीडियो लें, मजेदार ग्राफिकल प्रभाव के साथ"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "चिरसम्मत Reversi के संस्करण में बोर्ड पर दबाव रखें"
 
-#~ msgid "Iagno"
-#~ msgstr "इआग्नो"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "सॉफ्टवेयर जोड़ें/हटायें"
 
-#~ msgid "Software Update"
-#~ msgstr "सॉफ्टवेयर अद्यतन"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "सिस्टम पर संस्थापित सॉफ्टवेयर अद्यतन करें"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "आरपीएम संचिकाओं के संसाधित करने के लिए ग्रफ़िक्ल फ़्रन्ट एन्ड"
 
-#~ msgid "Software Installer"
-#~ msgstr "सॉफ़्टवेयर स्थापन-कर्ता"
 
-#~ msgid "ChBg"
-#~ msgstr "सीएचबीजी"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "सीएचबीजी - डेस्कटाप पार्श्वपृष्टभूमि प्रबंधक/परिवर्तक/स्क्रीनरक्षक"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "टावर टॉपलर या नेबूल्स जैसे प्राचीन खेल की पुनः स्थापना"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "टावर टॉपलर"
 
-#~ msgid "Observe power management"
-#~ msgstr "शक्ति प्रबंधन निरीक्षण करें"
 
-#~ msgid "Power Statistics"
-#~ msgstr "शक्ति सांख्यिकी"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "ओपनऑफ़िस.ओआरजी राइटर"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "एक-पंक्ति-में-चार"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "समान रंग की पंक्ति बनाने हेतु प्रतिस्पर्धा करें"
 
-#~ msgid "Database"
-#~ msgstr "डाटाबेस"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
 
-#~ msgid "Time Tracker"
-#~ msgstr "टाइम ट्रेकर"
 
-#~ msgid "Dasher"
-#~ msgstr "डैशर"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "बिना कुंजीपट के पाठ दाखिल करें"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "अनुमानित पाठ प्रविष्टि"
 
-#~ msgid "Freeciv server"
-#~ msgstr "फ़्रीसिव सर्वर"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "एक प्रोफ़ेशनल सीऐडी सिस्टम"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "गनोम कॉन्फ़िगरेशन उपकरण"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "यूजनेट से समाचार पढ़ें"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "अंकगणित, वैज्ञानिक, या वित्तीय गणना करें"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "फाइल मैनेजर विंडो का आचरण व प्रकटन बदलें"
 
-#~ msgid "File Management"
-#~ msgstr "फ़ाइल प्रबंधन"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "एक्स विण्डो प्रणाली के लिए मानक टर्मिनल ऐम्यूलेटर"
 
-#~ msgid "XTerm"
-#~ msgstr "एक्सटर्म"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "एनमैप पोर्ट स्कैनरों के लिए एक फ़्रन्ट एन्ड"
 
-#~ msgid "Nmap"
-#~ msgstr "एनमैप"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ओडीबीसीसीकॉन्फ़िग"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Ekiga सॉफ्टफोन"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP टेलिफोनी, VoIP और वीडियो कॉन्फरेंसिंग"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "इंटरनेट पर लोगों से बात"
 
-#~ msgid "WMnet"
-#~ msgstr "डब्लूएमनेट"
 
-#~ msgid "J-Pilot"
-#~ msgstr "जे-पायलट"
 
-#~ msgid "Packages Stats"
-#~ msgstr "पैकेजों की स्थिति"
 
-#~ msgid "Edit text files"
-#~ msgstr "पाठ फ़ाइलें संपादित करें"
 
-#~ msgid "gedit"
-#~ msgstr "जीएडिट"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "सॉफ्टवेयर अद्यतन वरीयताएँ बदलें"
 
-#~ msgid "Software Updates"
-#~ msgstr "सॉफ्टवेयर अद्यतन"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bonobo घटक ब्रॉउजर"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "उपलब्ध Bonobo घटक सहेजें"
 
-#~ msgid "Joe"
-#~ msgstr "जोई"
 
-#~ msgid "Evolution"
-#~ msgstr "एवोल्यूशन"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "ग्रूपवेयर सूट"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "अपना ईडाक संपर्क व योजना प्रबंधित करें"
 
-#~ msgid "Scribus"
-#~ msgstr "स्क्रिबस"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा जर्मन भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप "
-#~ "में)"
 
-#~ msgid "Howtos German"
-#~ msgstr "कैसे-करें जर्मन भाषा में"
 
-#~ msgid ""
-#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
-#~ msgstr ""
-#~ "IM पर चैट.  AIM, Google Talk, Jabber/XMPP, MSN, Yahoo और कुछ और का समर्थन "
-#~ "करता है"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "इंटरनेट मेसेंजर"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "पिडगिन इंटरनेट मैसेंजर"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "पल्सऑडियो वरीयता"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "साउंड सर्वर वरीयता"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "स्थानीय साउंड सर्वर के विन्यास को देखें व बदलें"
 
-#~ msgid "System information"
-#~ msgstr "तंत्र सूचना"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "एक्ससिस्इन्फ़ो"
 
-#~ msgid "Qalculate!"
-#~ msgstr "क्वैलकूलेट"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा रोमानियन भाषा में कैसे-करें (हाउटू) प्रलेख(एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "HardDrake"
-#~ msgstr "हार्डड्रैक"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "हार्डवेयर केन्द्रिय संरचना/सूचना टूल"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा पोलिश भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप "
-#~ "में)"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "कप्स के साथ सहज मुद्रण हेतु फ़्रन्ट एन्ड"
 
-#~ msgid "RapidSVN"
-#~ msgstr "रैपिडएसवीएन"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "अपने संगीत संग्रह को बजाएँ और व्यवस्थित करें"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "रीह्दमबॉक्स"
 
-#~ msgid "View and organize your images"
-#~ msgstr "आपकी प्रतिबिंबों को देखें व रख-रखाव करें"
 
-#~ msgid "Registry Editor"
-#~ msgstr "रजिस्ट्री संपादक"
 
-#~ msgid "Orca"
-#~ msgstr "ओरका"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr "भाषण या ब्रेल के रूप में ऑन स्क्रीन सूचना देता है, या स्क्रीन आवर्द्धित करता है"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "स्क्रीन पाठक तथा आवर्धक"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा अंग्रेजी भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप "
-#~ "में)"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "SCIM इनपुट विधि सेटअप"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "स्मार्ट कॉमन इनपुट विधि प्लेटफॉर्म के लिए सेटअप उपयोगिता"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "सभी-प्रयोजनों हेतु पाठ संपादक"
 
-#~ msgid "VI editor"
-#~ msgstr "वीआई संपादक"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा ग्रीक भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप "
-#~ "में)"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "कैसे-करें ग्रीक भाषा में"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "फ्रीसेल सॉलिटेयर"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "लोकप्रिय ताश का खेल फ्रीसेल खेलें"
 
-#~ msgid "Window Manager"
-#~ msgstr "विन्डो प्रबंधक"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा इन्डोनेशियन भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "एक प्रसिद्ध फ़ंक्शन प्लौटिंग प्रोग्राम"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "आपके सम्पूर्ण कॉन्फ़िगरेशन डेटाबेस को सीधे संपादित करें"
 
-#~ msgid "Inkscape"
-#~ msgstr "इंकस्केप"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा चीनी भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल प्रारूप "
-#~ "में)"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "स्वतः चलाएँ प्रांप्ट"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "एक और ३डी लाइटसायकिल खेल"
 
-#~ msgid "XFig"
-#~ msgstr "एक्सफ़्गि"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "बग रपट उपकरण"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "गनोम-आधारित अनुप्रयोगों मे बग रपट दें"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "एलब्रेकआउट २"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "एक बोल्डरडैश जैसा खेल"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "रॉक्स एन्ड डायमेन्ड्स"
 
-#~ msgid "Lights Off"
-#~ msgstr "लाइट बन्द"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "सभी लाइट बन्द करें"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा फ़िन्निश भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr ""
-#~ "लिनक्स प्रलेखन परियोजना द्वारा स्वीडिश भाषा में कैसे-करें (हाउटू) प्रलेख (एचटीएमएल "
-#~ "प्रारूप में)"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "F-Spot में लाएँ"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "Create and edit drawings, flow charts, and logos by using Draw."
 
-#~ msgid "Drawing"
-#~ msgstr "ड्राइंग"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "ओपनऑफ़िस.ओआरजी ड्रा"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "भूल भुलैया में इल्ली को रास्ता दिखाएँ"
 
-#~ msgid "Nibbles"
-#~ msgstr "निब्बल्स"
 
-#~ msgid "Game"
-#~ msgstr "खेल"
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "स्वचालित बग रिपोर्टिंग औजार"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"
 
-#~ msgid "aMSN"
-#~ msgstr "ऐ एमएसएन"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "अन्जुटा आई०डी०ई०"
 
-#~ msgid "Atomix"
-#~ msgstr "एटामिक्स"
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "अवंत विंडो नाविगाटर"
 
-#~ msgid "Barrage"
-#~ msgstr "बर्राज़"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "केमोरामा वेबकेम दर्शक"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "वेबकेम से प्रतिमा देखें, बदलें और संग्रहित करें"
 
-#~ msgid "CinePaint"
-#~ msgstr "सिने पेन्ट"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "कॉगलोम्रेट एक्स०एम०एल० संपादक"
 
-#~ msgid "Edit XML files"
-#~ msgstr "एक्स एम एल संचिकाओं को संपादित करें"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "क्रिम्सॉन क्षेत्र"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "डाटा प्रदर्शक दोष-निवारक"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "डॉ जिओ"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "डॉ जिओ गणित यन्त्र"
 
-#~ msgid "Egoboo"
-#~ msgstr "ईगोबू"
 
-#~ msgid "Enigma"
-#~ msgstr "इनिग्मा"
 
-#~ msgid "Firestarter"
-#~ msgstr "फ़ॉयरस्टार्टर"
 
-#~ msgid "Galculator"
-#~ msgstr "गैल्कूलेटर"
 
-#~ msgid "Gamazons"
-#~ msgstr "गामाजोन्स"
 
-#~ msgid ""
-#~ "Play games that challenge your logic, verbal, calculation and memory "
-#~ "abilities"
-#~ msgstr "खेल खेलें  जो आपकी तर्क, मौखिक, गणना और स्मृति क्षमताओं से चुनौती लेती है "
 
-#~ msgid "gbrainy"
-#~ msgstr "जी-बरैनी"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "खेलगंमत के लिये व्यवस्थापन"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "2 से 10 तक आयु के बच्चों के लिये खेल"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "खेलगंमत का शैक्षिक समूह"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "विविध शैक्षिक खेल"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "पाठ संपादक (प्रशासक)"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "जीनोम षोडश संपादक"
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "ब्लॉग प्रविष्टि पोस्टर"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "एक वेब लॉग पर एक प्रविष्टि पोस्ट करना"
 
-#~ msgid "Genius Math Tool"
-#~ msgstr "जीनियस गणित औजार"
 
-#~ msgid "Genius Mathematical Tool and Calculator"
-#~ msgstr "जीनियस गणित औजार और गणक"
 
-#~ msgid "Network Tools"
-#~ msgstr "संजाल उपकरण"
 
-#~ msgid "View information about your network"
-#~ msgstr "अपने संजाल के बारे में सूचना देखें"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "निजी फ़ाइल साझा"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "फाइलों के साझा के लिए वरीयता"
 
-#~ msgid "Gnote"
-#~ msgstr "जीनोट"
 
-#~ msgid "GpsDrive"
-#~ msgstr "जीपीएसड्राइव"
 
-#~ msgid "GTetrinet"
-#~ msgstr "जीटेट्रीनेट"
 
-#~ msgid "GTKWave"
-#~ msgstr "जीटीकेवेव"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "जीटीकेवेव इलेक्ट्रानिक वेवफ़्रार्म व्यूअर"
 
-#~ msgid "Gweled"
-#~ msgstr "जीवेल्ड"
 
-#~ msgid "Gwibber"
-#~ msgstr "ग्विब्बर"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "IBus वरीयता"
 
-#~ msgid "Set IBus Preferences"
-#~ msgstr "IBus वरीयताएँ सेट करें"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Input Method Framework"
-#~ msgstr "IBus विधि फ्रेमवर्क"
 
-#~ msgid "Start IBus Input Method Framework"
-#~ msgstr "IBus इनपुट विधि फ्रेमवर्क आरंभ करें"
 
-#~ msgid "Desktop Session Recorder"
-#~ msgstr "डेस्कटॉप सत्र रेकॉर्डर"
 
-#~ msgid "Istanbul Desktop Session Recorder"
-#~ msgstr "इस्तांबुल डेस्कटॉप सत्र रेकॉर्डर"
 
-#~ msgid "Record a video of your desktop session"
-#~ msgstr "डेस्कटॉप सत्र का विडियो रिकार्ड करें"
 
-#~ msgid "Katoob"
-#~ msgstr "कॉटूब्"
 
-#~ msgid "Filelight"
-#~ msgstr "फ़ाइललाइट"
 
-#~ msgid "Game Creation Tool"
-#~ msgstr "Game Creation Tool"
 
-#~ msgid "Gluon Creator"
-#~ msgstr "Gluon Creator"
 
-#~ msgid "Blog Manager"
-#~ msgstr "ब्लॉग प्रबंधक"
 
-#~ msgid "KBlogger"
-#~ msgstr "के-ब्लॉगर"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "एक फाइल तथा डिरेक्ट्री तुलना तथा विलीन उपकरण"
 
-#~ msgid "KDiff3"
-#~ msgstr "के-डिफ3"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "करेंसी परिवर्तक तथा केल्कुलेटर"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "केयूरोकैल"
 
-#~ msgid "Database Creator"
-#~ msgstr "डाटाबेस सृजक"
 
-#~ msgid "FTP Client"
-#~ msgstr "एफटीपी क्लाएंट"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "केग्राफएडीटर"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "केडीई के लिए ग्राफ़विज डाट ग्राफ प्रदर्शत"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "केग्राफव्यूअर"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "(ले)टेक्स डेवलपमेंट वातावरण"
 
-#~ msgid "Kile"
-#~ msgstr "काइल"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "लेटेक्स फ्रंटएण्ड"
 
-#~ msgid "KMess"
-#~ msgstr "केमेस"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "आईआरसी क्लाएंट"
 
-#~ msgid "Network Monitor"
-#~ msgstr "नेटवर्क मॉनीटर"
 
-#~ msgid "Knights"
-#~ msgstr "केनाइट्स"
 
-#~ msgid "Cooking Book"
-#~ msgstr "व्यंजन पुस्तक"
 
-#~ msgid "Krecipes"
-#~ msgstr "के-रेसिपि"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "केडीई व्यंजन पुस्तक"
 
-#~ msgid "A batch renamer"
-#~ msgstr "एक बैच रीनेमर"
 
-#~ msgid "Application for Drawing and Handling of Images"
-#~ msgstr "छवियों को ड्रा करने तथा उन्हें प्रबन्धित करने का अनुप्रयोग"
 
-#~ msgid "Krusader"
-#~ msgstr "क्रुस्डर"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "ट्वीन-पैनल संचिका प्रबंधक"
 
-#~ msgid "Kuickshow"
-#~ msgstr "क्विकशो"
 
-#~ msgid "Makes sure you rest now and then"
-#~ msgstr "आपको अभी तथा कभी आराम करने देता है"
 
-#~ msgid "RSIBreak"
-#~ msgstr "आरएसआईब्रेक"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr "ड्रॉपडाउन टर्मिनल एमुलेटर जो कि केडीई कंसोल तकनॉलाजी पर आधारित है"
 
-#~ msgid "Yakuake"
-#~ msgstr "याकुआके"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "एक मौलिक मल्टीप्लेयर वारगेम"
 
-#~ msgid "Lumiere"
-#~ msgstr "ल्यूमिरे"
 
-#~ msgid "First person shooter game"
-#~ msgstr "प्रथम व्यक्ति शूटर खेल"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "बॉम्बर इनस्टिक्ट"
 
-#~ msgid "ExEf"
-#~ msgstr "इएक्स इएफ़"
 
-#~ msgid "OilWar"
-#~ msgstr "तेल युद्ध"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "अति सरल माउस शूटिंग खेल"
 
-#~ msgid "A MacOS run-time environment"
-#~ msgstr "एक मैकओएस रन-टाइम वातावरण"
 
-#~ msgid "SheepShaver"
-#~ msgstr "शीपसेवर"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "चक्राकार लूप्स"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "कृत्रिम रचित लूप्स"
 
-#~ msgid "SpiralSynth"
-#~ msgstr "स्पाइरलसिन्थि"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "वी०ओ०सी०पी० वेब (वी०ओ०सी०पी० वेब सुदूर संदेश पुनः प्राप्तकर्ता)"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "ऐ०बी०ई के विस्मयकारी एडवेन्चर!!"
 
-#~ msgid "Abuse"
-#~ msgstr "आब्यूस"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "क्लासिक क्रैक-डॉट-कॉम खेल"
 
-#~ msgid "AcidRip"
-#~ msgstr "ऐसिड-रिप"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "वीडीयो राइपिंग और रूपान्तर"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "ऐडोन्थहेल - वेसेट का एज़"
 
-#~ msgid "AirStrike"
-#~ msgstr "एयरस्ट्राइक"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "अविश्वसनीय व्यसनकारी द्धिआयमी डॉगफ़ाइट खेल"
 
-#~ msgid "Alevt"
-#~ msgstr "एल्व्ट"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "टेलपाठ्य/वीडीयोपाठ्य डिकोडर और ब्राउज़र"
 
-#~ msgid "Arcade-style mix of asteroids and pool"
-#~ msgstr "ऐसट्रोयाइड व पूल का आरकेड-स्टाइल मिश्रण"
 
-#~ msgid "Graphical frontend to Valgrind memory checker"
-#~ msgstr "वालग्रिंड मैमोरी चेकर की ओर ग्राफ़िक्ल फ़्रन्ट एन्ड"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "डब्लू-३सी का ब्राउज़र/वेब लेखन टूल"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "आल्सा मॉडूलर सिन्थ"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "आल्सा के लिए मॉडूलर कृत्रिम रचना-कर्ता"
 
-#~ msgid "Angel Wars"
-#~ msgstr "ऐन्जिल युद्ध"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "तेज-गतिवाला । प्राचीन रीति वाला साइड-स्क्रोलिंग स्पेस सूटर"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ऐ०एन०टी०-दूरभाष"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "जेनपैक के लिए जी०यू०आई०"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "उन्नत साम्रिक निर्देश"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "ऐस्ट्रोराइडों को उड़ाने का एक त्रियामी, प्रथम-व्यक्ति खेल"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "ऐस्ट्रोराइड त्रियामी"
 
-#~ msgid "AutoZen"
-#~ msgstr "आटोजेन"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "ब्रेनवेव नियंत्रक"
 
-#~ msgid "Bacula Director Console"
-#~ msgstr "बाकूला डायरेक्टर कन्सोल"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "सिसटम पे ऊर्जा संरक्षण कॉनफिगर करें"
 
-#~ msgid "Energy Saving"
-#~ msgstr "ऊर्जा संरक्षण"
 
-#~ msgid "Bbconf"
-#~ msgstr "बीबीसंरचना"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "ब्लैकबॉक्स के लिए बीबीसंरचना एक सम्पूर्ण जी०यू०आई० संरचाना टूल है"
 
-#~ msgid "Tool for eBay users"
-#~ msgstr "ई-बे उपभोक्ताओं हेतु टूल"
 
-#~ msgid "bigForth"
-#~ msgstr "बिगफ़ोर्थ"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "द्धिआयामी रसायनिक संरचना रेखाचित्र टूल"
 
-#~ msgid "BoboBot"
-#~ msgstr "बोबोबॉट"
 
-#~ msgid "Mario-like game"
-#~ msgstr "मारियो-जैसा खेल"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "बाक्सकोन्फ़ (वी०ओ०सी०पी० बाक्स संरचना इण्टरफ़ेस)"
 
-#~ msgid "BPMDJ"
-#~ msgstr "बीपीएमडीजे"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "एक-जार-में-डक-को-मॉनिटर डॉक-कार्यक्रम"
 
-#~ msgid "Bugsquish"
-#~ msgstr "बग्ग स्क्य़ुइश"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "माउस से बग्गों को मारें"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "सी१५४१ स्टैंड ऐलोन डिस्क इमेज रख-रखाव कार्यक्रम"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "वाइस डिस्क इमेज टूल"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "कॉल-सेंटर (वी०ओ०सी०पी० कॉल-सेंटर)"
 
-#~ msgid "Broadband connection test program"
-#~ msgstr "ब्रॉडबैन्ड कनेक्शन परीक्षण कार्यक्रम"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "Camlgrenouille"
 
-#~ msgid "Webcam tool"
-#~ msgstr "वेबकैम टूल"
 
-#~ msgid "CanonUtil"
-#~ msgstr "कैननयूटिल"
 
-#~ msgid "Maintenance tool for Canon inkjet printers"
-#~ msgstr "कैनन इंकजेट प्रिंटरों हेतु रख-रखाव टूल"
 
-#~ msgid "CDvST"
-#~ msgstr "सीडी बनाम एसटी"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "स्पेस चीजों के द्वारा निश्चित मरण"
 
-#~ msgid "CGoban"
-#~ msgstr "सीगोबॉन"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "गो के लिए सचित्र खेल"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "संगीत मॉडयूलों के निर्माण के लिए एक कार्यक्रम"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "चेओप्स-एनजी"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "नेटवर्क ब्राउज़र और औज़ार (चलित एजेन्ट आवश्यक)"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "क्लानबॉम्बर - फ़्री (जीपीएल) बाम्बरमैन-जैसा मल्टीप्लेयर खेल"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "जेनएडसबएफ़एक्स के लिए मीडी नियंत्रक"
 
-#~ msgid "Copter Commander OpenGL"
-#~ msgstr "कॉप्टर कॉमान्डर ओपनजीएल"
 
-#~ msgid "Copter-Commander Glx"
-#~ msgstr "कॉप्टर-कॉमान्डर जीएलएक्स"
 
-#~ msgid "Copter Commander"
-#~ msgstr "कॉप्टर कॉमान्डर"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "एक कर्सर थीम का चयन करें"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "कर्सर थीम्स"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "एक रक्षात्मक क्लोन"
 
-#~ msgid "A simple web browser"
-#~ msgstr "एक साधारण वेब ब्राउज़र"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "डीस्टसीसी मानीटर"
 
-#~ msgid "An easy to use address book"
-#~ msgstr "एक उपयोग-में-सहज पता-पुस्तिका"
 
-#~ msgid "Dlume"
-#~ msgstr "ड्लुम"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "एक डॉस एम्यूलेटर"
 
-#~ msgid "DOSBox"
-#~ msgstr "डॉसबाक्स"
 
-#~ msgid "Dr. Python"
-#~ msgstr "डाक्टर पायथन"
 
-#~ msgid "Python Editor and IDE"
-#~ msgstr "पायथन संपादक व आई०डी०ई०"
 
-#~ msgid "DVR"
-#~ msgstr "डीवीआर"
 
-#~ msgid "2D Molecule Editor"
-#~ msgstr "२डी परमाणु संपादक"
 
-#~ msgid "EasyChem"
-#~ msgstr "ईजीकेम"
 
-#~ msgid "Eboard"
-#~ msgstr "ईबोर्ड"
 
-#~ msgid "FICS chess-server interface"
-#~ msgstr "एफ़आईसीएस चेस-सर्वर इन्टरफ़ेस"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr "ध्वनि संसाधन, मल्टीट्रैक रिकार्डिंग, और मिक्सींग टूल्स"
 
-#~ msgid "Egon"
-#~ msgstr "ईगॉन"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "सिआग ऑफ़िस ईगॉन ऐनीमेटर"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "एक जीटीके संचिका प्रबंधक"
 
-#~ msgid "Endeavour"
-#~ msgstr "एन्डेवर"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "इनिग्मा एक प्रहेलिका खेल है"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "ईपिक (E)ऐनहानस्ड (P)प्रोग्रामेब्ल (I)आईआरसी-२ (C)क्लाइंट है"
 
-#~ msgid "Python IDE"
-#~ msgstr "पायथन आई०डी०ई०"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "एक पूर्ण लक्षणों से युक्त ओएसएस मिक्सर"
 
-#~ msgid "Ermixer"
-#~ msgstr "ईआरमिक्सर"
 
-#~ msgid "Evolvotron"
-#~ msgstr "ऐवोल्वोट्रान"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "इन्टरॉक्टिव जनरेटिव आर्ट सॉफ़्टवेयर"
 
-#~ msgid "Flash for Linux"
-#~ msgstr "लिनक्स के लिए फ़्लैश"
 
-#~ msgid "Fbdesk"
-#~ msgstr "एफ़बीडेस्क"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr "फ़्लशबॉक्स-कार्यक्रम आपके डेस्कटॉप पर आईकॉनों को निर्मित व प्रबंध करने हेतु"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "फ़्लाइटगीयर फ़्लाइट सिम्यूलेटर"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "ऐ०डी०आई०ई० - उनन्त इन्टरॉक्टिव ऐडीटर, फ़ॉक्स टूलकिट का उपयोग करते हुए"
 
-#~ msgid "FOX Adie"
-#~ msgstr "फ़ॉक्स  ऐडाई"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "फ़ॉक्स टूलकिट का उपयोग करने वाला गणक"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "फ़ॉक्स गणक"
 
-#~ msgid "FrameWorks"
-#~ msgstr "फ़्रेमवर्क्स"
 
-#~ msgid "Stop-motion animation tool"
-#~ msgstr "स्टॉप-मोशन ऐनिमेशन टूल"
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "बॉस सिन्थ/सीक्यून्सर/सैम्पल प्लेयर लिनक्स के लिए"
 
-#~ msgid "Clone of the C64 Game Paradroid"
-#~ msgstr "सी-६४ गेम पैराड्रौइड का क्लोन"
 
-#~ msgid "Freedroid"
-#~ msgstr "फ़्रीड्रौइड"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "फ़्रीड्रौइडआरपीजी"
 
-#~ msgid "FreeLords"
-#~ msgstr "फ़्रीलार्डस"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "साउण्ड को कुशलता से ठीक करने वाला"
 
-#~ msgid "Calculates fret distances for stringed musical instruments"
-#~ msgstr "तन्तुयुक्त संगीत वादों हेतु फ़्रेट दूरी की गणना करता है"
 
-#~ msgid "FretScale"
-#~ msgstr "फ़्रेटस्केल"
 
-#~ msgid "3D file browser"
-#~ msgstr "३डी संचिका ब्राउजर"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "एफ़वीडब्लूएम विण्डो प्रबंधक"
 
-#~ msgid "Fvwm"
-#~ msgstr "एफ़वीडब्लूएम"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "३डी मानचित्र प्रदर्शक"
 
-#~ msgid "g3DGMV"
-#~ msgstr "जी-३डीजीएमवी"
 
-#~ msgid "Xmms cover viewer"
-#~ msgstr "Xmms कवर प्रदर्शक"
 
-#~ msgid "Gai-bgswitcher"
-#~ msgstr "गाई-बीजीएसविचर"
 
-#~ msgid "Blobs viewer :)"
-#~ msgstr "ब्लोब्स प्रदर्शक :)"
 
-#~ msgid "Gai-blobs"
-#~ msgstr "गाई-ब्लोब्स"
 
-#~ msgid "Displays the status of the keyboard leds"
-#~ msgstr "की-बोर्ड लेड्स की अवस्था को दिखाता है"
 
-#~ msgid "Gai-leds"
-#~ msgstr "गाई-लेड्स"
 
-#~ msgid "Gai-mailcounter"
-#~ msgstr "गाई-मेलकाउन्टर"
 
-#~ msgid "Mail counter"
-#~ msgstr "मेलकाउन्टर"
 
-#~ msgid "Gai-pal"
-#~ msgstr "गाई-पाल"
 
-#~ msgid "Display time when they sun sets and rise"
-#~ msgstr "जब सूर्य उगता व डूबता है वह समय दिखाता है"
 
-#~ msgid "Gai-sun"
-#~ msgstr "गाई-सन"
 
-#~ msgid "Gai-visual-studio"
-#~ msgstr "गाई-विज़वल-स्टूडियो"
 
-#~ msgid "Visualizing the XMMS output"
-#~ msgstr "XMMS आउटपुट को दिखाया जा रहा है"
 
-#~ msgid "Galan"
-#~ msgstr "गैलन"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "३डी परमाणु प्रदर्शक"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "२-डी वॉलीवाल"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "अपनी गनोम वरीयताओं का संपादन करें"
 
-#~ msgid "Gconfpref"
-#~ msgstr "जीकॉन्फ़प्रिफ़"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "जेम ड्राप एक्स"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "टेट्रिस स्पेश इंवेडरों से मिला"
 
-#~ msgid "GNU Forth"
-#~ msgstr "जी०एन०यू फ़ोर्थ"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "अध्यापक की वर्ग पुस्तिका"
 
-#~ msgid "GNOME MM/QM Frontend"
-#~ msgstr "गनोम एमएम/क्यूएम फ़्रन्टएन्ड"
 
-#~ msgid "GJay"
-#~ msgstr "जीजय"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "एक्शन फ़्लाइट सीम्यूलेटर"
 
-#~ msgid "GL-117"
-#~ msgstr "जीएल-११७"
 
-#~ msgid "GLiv"
-#~ msgstr "जीलिव"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "ओपेनज़ीएल सचित्र दर्शनकर्ता"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "३डी लाइटसायकिल खेल"
 
-#~ msgid "Gltron"
-#~ msgstr "जीएलट्रॉन"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "जीमसक्यूडायलर मॉडम सर्वर के लिए गनोम क्लाइंट"
 
-#~ msgid "Memory usage"
-#~ msgstr "स्मृति उपयोग"
 
-#~ msgid "GMorgan"
-#~ msgstr "जीमॉर्गन"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "मीडी आटो-सहायक"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "गनोम-करबेरोस"
 
-#~ msgid "Gnometab"
-#~ msgstr "गनोमेटैब"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "गनोमेटैब एक गिटार टेब्लेचर संपादक है।"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "जीएनयू रोबो"
 
-#~ msgid "Gphone"
-#~ msgstr "जीफ़ोन"
 
-#~ msgid "Internet telephone"
-#~ msgstr "इन्टरनेट टेलीफ़ोन"
 
-#~ msgid "Gpppoem"
-#~ msgstr "जीपीपीपोयम"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "पीपीपीओई प्रेक्षक"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "जीपीएस डाटा ट्रान्सफ़र"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "एमजीपीएसपाइंट"
 
-#~ msgid "Control print jobs"
-#~ msgstr "नियंत्रण प्रिंट के कार्य"
 
-#~ msgid "Grace"
-#~ msgstr "ग्रेस"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "वैज्ञानिक सूचना का ग्राफ़िक्ल दृश्यावलोकन"
 
-#~ msgid "Grany"
-#~ msgstr "ग्रानी"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "सेल्यूलर आटोमेशन सीम्यूलेटर"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "जियोग्राफ़िक्स साधनों की विश्लेषण सहायक प्रणाली"
 
-#~ msgid "Greenwich"
-#~ msgstr "ग्रीनविच्च"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "एक आर०पी०एन० गणक"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "लिनक्स के लिए टेट्रीनेट खेल क्लाइंट"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "जीटीके-आईपीतालिकायें"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "आईपीतालिकाओं के नियमों की संरचना"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "जीटीके१ थीम का परिवर्तन"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "जीटीके थीम स्विच"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "ऐएसपी२पीएचपी के लिए जीटीके फ़्रन्ट एन्ड"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "सचित्र संचिका खोज कार्यक्रम"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "जीटीके गिटार के प्रभाव"
 
-#~ msgid "Realtime effects"
-#~ msgstr "रीयलटाइम के प्रभाव"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "कप्स के लिए जीटीके फ़्रन्ट एन्ड"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "जीटीकेएलपी कप्स क्यू के लिए जीटीके फ़्रन्ट एन्ड"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "एमओटीडी का जीटीके संस्मरण"
 
-#~ msgid "Gvu"
-#~ msgstr "जीवीयू"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "सिय्ग पोस्टस्क्रीप्ट व्यूअर"
 
-#~ msgid "Heroes"
-#~ msgstr "नायक"
 
-#~ msgid "Hexadecimal calculator"
-#~ msgstr "षोडश कैल्क्यूलेटर"
 
-#~ msgid "Hexcalc"
-#~ msgstr "हेक्सकैल"
 
-#~ msgid "Othello clone"
-#~ msgstr "ओथेलो क्लोन"
 
-#~ msgid "Horgand"
-#~ msgstr "होरौन्ड"
 
-#~ msgid "Configurator for the GTK+2 Japanese Input Module"
-#~ msgstr "जीटीके+२ जापानी इनपुट मॉडूयल के लिए संरचक"
 
-#~ msgid "ImgSeek"
-#~ msgstr "इमेजसीक"
 
-#~ msgid "ImgSeek Photo Manager"
-#~ msgstr "इमेजसीक फ़ोटो प्रबंधक"
 
-#~ msgid "Inventory"
-#~ msgstr "इन्वेन्टरि"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "आसान इन्वेन्टरि कार्यक्रम"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "इमेज ब्राउजर"
 
-#~ msgid "JackEQ"
-#~ msgstr "जैक ईक्य़ू"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "जीग्सॉ डॉउनलोड"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "जीटीके-२ एफ़टीपी क्लाइंट"
 
-#~ msgid "Junkie"
-#~ msgstr "जंकी"
 
-#~ msgid "ALSA connections"
-#~ msgstr "ऑल्सा के कनेक्शन"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "कीकी नैनोबॉट"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "क्य़ूटी परमाणु व्यूअर"
 
-#~ msgid "XKoules"
-#~ msgstr "एक्सकौउल्स"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "एक सचित्र प्रक्रिया व्यूअर"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "एक पैनजेर जनरल क्लोन"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "लायनक्स-जैसा पाठ डब्लूडब्लूडब्लू ब्राउजर"
 
-#~ msgid "LinPopUp"
-#~ msgstr "लिनपॉपअप"
 
-#~ msgid "LinuxSMS"
-#~ msgstr "लिनक्सएसएमएस"
 
-#~ msgid "LongPlayer"
-#~ msgstr "लॉगप्लेयर"
 
-#~ msgid "LTris"
-#~ msgstr "एलट्रीस"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "अच्छ टेट्रिस क्लोन"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "एक २डी आरकेड खेल में एक छोटे वी आकार वाले जहाज को उड़ायें"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "बॉम्बों को कैच करें"
 
-#~ msgid "MadBomber"
-#~ msgstr "मैडबॉम्बर"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "मॉस इन्टरनेट सम्मेलन"
 
-#~ msgid "MASConf"
-#~ msgstr "मॉसकॉन्फ़"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "मॉस मिक्सर"
 
-#~ msgid "MASMix"
-#~ msgstr "मॉसमिक्स"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "इन्टरऐक्टिव फ़ंक्शन ग्राफ़र"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "मैक्सिमा को टीसीएल/टीके इन्टरफ़ेस"
 
-#~ msgid "MGM"
-#~ msgstr "एमजीएम"
 
-#~ msgid "Mirror Magic"
-#~ msgstr "दर्पण जादू"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "एक बहु-भाषी टर्मिनल ऐम्यूलेटर"
 
-#~ msgid "Mlterm"
-#~ msgstr "एमएलटर्म"
 
-#~ msgid "Molrender"
-#~ msgstr "मोल्रेन्डर"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "मैट्रेटरोट क्लाइंट"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "पिंग/ट्रेसरूट नेटवर्क निदान टूल"
 
-#~ msgid "Xmtr"
-#~ msgstr "एक्सएमटीआर"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "मल्टी-ऐटर्म"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "मीडी सीक्य़ून्सर"
 
-#~ msgid "Natmonitor "
-#~ msgstr "नैटमॉनिटर"
 
-#~ msgid "Nessus"
-#~ msgstr "नेस्सूयस"
 
-#~ msgid "NiL Isn't Liero"
-#~ msgstr "निल लिरो नहीं है"
 
-#~ msgid "Nuclear Chess"
-#~ msgstr "न्यूकलर शंतरंज"
 
-#~ msgid "NexTView EPG decoder and browser"
-#~ msgstr "नेक्सटीवीव्य़ू ईपीजी डिकोडर व ब्राउजर"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "एनएक्सटीवीईपीजी"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "डिजीटल ग्रेडबुक"
 
-#~ msgid "OpenGrade"
-#~ msgstr "ओपनग्रेड"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "ओर्बिटल Eunuchs स्निपर"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "ओएसडी ज़ाइन विडियो प्लेयर"
 
-#~ msgid "Oxine"
-#~ msgstr "ओज़ाइन"
 
-#~ msgid "Desktop Publishing for X (PAO)"
-#~ msgstr "एक्स (पीऐओ) के लिए डेस्कटाप प्रकाशन"
 
-#~ msgid "Passepartout"
-#~ msgstr "पासेपार्टआउट"
 
-#~ msgid "Logic game"
-#~ msgstr "लॉजिक खेल"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "क्लासिक मिसाइल कॉमान्ड खेल का एक क्लोन"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "ईमिलिया ३डी पिनबाल"
 
-#~ msgid "Pingus"
-#~ msgstr "पिंगस"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "पिंगस - एक फ़्री लेमिंग्स क्लोन"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "पॉपफ़ाइल - स्वचालित विपत्र वर्गीकरण"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "पीआरबूम-जीएल मल्टीप्लेयर"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "पीआरबूम-जीएल"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "पीआरबूम मल्टीप्लेयर"
 
-#~ msgid "PrBooM"
-#~ msgstr "पीआरबूम"
 
-#~ msgid "Free SSH, Telnet and Rlogin client"
-#~ msgstr "फ़्री एसएसएच, टेलीनेट व आरलॉग-इन क्लाइंट"
 
-#~ msgid "Putty"
-#~ msgstr "पुट्टी"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "पेथेटिक लेखक"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "सियग् ऑफ़िस पेथेटिक लेखक"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "पायथन द्वारा नियंत्रित परमाणू ग्राफ़िक"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "आल्सा रिकार्डिंग जीय़ूआई"
 
-#~ msgid "QARecord"
-#~ msgstr "क्यूऐरिकार्ड"
 
-#~ msgid "Multipage TIFF viewer"
-#~ msgstr "मल्टीपेज टिफ़्फ़ व्यूअर"
 
-#~ msgid "QFaxReader"
-#~ msgstr "क्यूफ़ैक्सरीडर"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "क्यूजैककनेक्ट"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "क्यूटी-पर-आधारित जैक-इट कनेक्टर"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "क्य़ूटीरेडियो - रेडियो को क्यूडीरेडियो के साथ सुनें।"
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "३डी फ़्रॉक्टल ऑबजेक्टों का सॄजन"
 
-#~ msgid "Keep track of things"
-#~ msgstr "चीजों के ध्यान रखना"
 
-#~ msgid "Quicklist"
-#~ msgstr "क्विकलिस्ट"
 
-#~ msgid "QVCD"
-#~ msgstr "क्यूवीसीडी"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "वीडियो सीडी निर्माता"
 
-#~ msgid "RuBy BRowser"
-#~ msgstr "रूबाई ब्राउजर"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "डिजीटल आडियो संपादक"
 
-#~ msgid "Rezound"
-#~ msgstr "रिज़ाउनड"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "रूट-टेल पाठ को सीधे एक एक्स११ रूट विण्डो में मुद्रित करता है"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "आरओएक्स डेस्कटाप वातावरण का संचिका प्रबंधक"
 
-#~ msgid "High-level language for numerical computations"
-#~ msgstr "अंकीय गणनाओं हेतु उच्च-स्तरीय भाषा"
 
-#~ msgid "Scilab"
-#~ msgstr "स्काईलैब"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "एसडीएलरोयड्स - एक उन्नत सूट-द-ऐस्टिरायड"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "लूप-पर-आधारित मीडी सीक्यूनेन्सर"
 
-#~ msgid "Seq24"
-#~ msgstr "सीक्यू२४"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "मीडी घटना मिक्सर"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "साउन्डफ़ॉन्टकॉम्बि"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "फ़ॉक्स शटरबग"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "एक स्क्रीन आशु-चित्र को लें व इसे एक संचिका में सुरक्षित करें"
 
-#~ msgid "SimSam"
-#~ msgstr "सिमसैम"
 
-#~ msgid "Simple Sampler"
-#~ msgstr "आसान सैम्पलर"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "पायथन में एक मल्टीप्लेयर ३डी रेसिंग व कार-टकराने का खेल"
 
-#~ msgid "Slune"
-#~ msgstr "स्लूने"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "जीपीएल साउन्ड फ़ॉन्ट संपादक"
 
-#~ msgid "Music player"
-#~ msgstr "संगीत प्लेयर"
 
-#~ msgid "SnackAmp"
-#~ msgstr "स्नैकाऐम्प"
 
-#~ msgid "Snd"
-#~ msgstr "ध्वनि"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr "बक्सों को संग्रह करने तथा गोलियों से बचने वाला २डी फ़्रैन्टिक आरकेड खेल"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "गिटार टैब संपादक"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "ग्रास (स्पियरफ़िश)"
 
-#~ msgid "Grass using the Spearfish sample data set"
-#~ msgstr "स्पियरफ़िश सैम्पल डाटा सेट का उपयोग करने वाला ग्रास"
 
-#~ msgid "MIDI software sampler"
-#~ msgstr "मीडी सॉफ़्टवेयर सैम्पलर"
 
-#~ msgid "Specimen"
-#~ msgstr "स्पेसीमेन"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "स्पाइरल  मॉडयूलर सॉफ़्टवेयर सिन्थेजाइजर"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "स्पाइरल मॉडयूलर सिन्थ"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "जेनएडसबएफ़एक्स के लिए मीडी की-बोर्ड विभाजनकर्ता"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "प्रोजेक्ट: स्टारफ़ाइटर"
 
-#~ msgid "Star Voyager"
-#~ msgstr "स्टार वॉयजर"
 
-#~ msgid "Stellarium"
-#~ msgstr "स्टेलेरियम"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "सैमसंग अपरोर व येप्प के लिए जीयूआई"
 
-#~ msgid "Sulu"
-#~ msgstr "सूलू"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "वीएलसी एक निःशुल्क एमपीईजी, एमपीईजी२, डीवीडी और डिवएक्स प्लेयर है"
 
-#~ msgid "VLC skinned GUI media player"
-#~ msgstr "वीएलसी खालवाला जीयूआई मीडीया प्लेयर"
 
-#~ msgid "Swami"
-#~ msgstr "स्वामी"
 
-#~ msgid "Ted"
-#~ msgstr "टेड"
 
-#~ msgid "JACK TimeMachine"
-#~ msgstr "जैक टाइममशीन"
 
-#~ msgid "Records audio from ten seconds ago"
-#~ msgstr "दस क्षण पूर्व से आडियो रिकार्ड करता है"
 
-#~ msgid "TORCS"
-#~ msgstr "टीओआरसीएस"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "ओपन रेसिंग कार सिम्यूलेटर"
 
-#~ msgid "Tulip"
-#~ msgstr "टुलिप"
 
-#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
-#~ msgstr "ट्क्सईडिओ टी। पेन्ग्यूविन: हररिंग के लिए एक क्वेस्ट"
 
-#~ msgid "Karting with tux"
-#~ msgstr "ट्क्स के साथ कारटिंग"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "ट्क्सपुक"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "दी उर-क्वान मास्टर्स"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "उर-क्वान मास्टर्स"
 
-#~ msgid "Vega Strike"
-#~ msgstr "वेगा स्ट्राइक"
 
-#~ msgid "3D model assembler"
-#~ msgstr "३डी मॉडल ऐसम्बलर"
 
-#~ msgid "Vertex"
-#~ msgstr "वर्टेक्स"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "ओजस्वी सहायक के साथ प्रसिद्धि वीआई यूनिक्स संपादक"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "वी०ओ०सी०पी० हैक्स (वी०ओ०सी०पी० फ़ैक्स प्रदर्शनकर्ता और जी०यू०आई० भेजने वाला)"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "मुख्य वॉल्युम नियंत्रण डॉक कार्यक्रम"
 
-#~ msgid "Volume knob"
-#~ msgstr "वॉल्युम नॉब"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "वीआईसीई एसआईडी संगीत प्लेयर कॉम्डोर धुनों के लिए"
 
-#~ msgid "VSID music player"
-#~ msgstr "वीएसआईडी संगीत प्लेयर"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "ग्रफ़िक्ल साउन्ड संपादक"
 
-#~ msgid "Battle For Wesnoth editor"
-#~ msgstr "वेसनोथ संपादक के लिए युद्ध"
 
-#~ msgid "The map editor of Battle for Wesnoth"
-#~ msgstr "वेसनोथ के लिए युद्ध के मानचित्र का संपादक"
 
-#~ msgid "A fantasy turn-based strategy game."
-#~ msgstr "एक फ़ैन्टेसी बारी-बारी-से-खेलने वाला कूटनीतिक खेल।"
 
-#~ msgid "Battle For Wesnoth"
-#~ msgstr "वेसनोथ के लिए युद्ध"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "ट्क्स को स्टार के रूप में पेश करता हुआ एक जबर्दस्त रेसिंग खेल"
 
-#~ msgid "Settlers II clone"
-#~ msgstr "सेट्लर्स २ क्लोन"
 
-#~ msgid "Widelands"
-#~ msgstr "वाइडलैन्डस"
 
-#~ msgid "WLanFE"
-#~ msgstr "डब्लूलैनएफ़ई"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "बेतार स्थानीयनेटवर्क संरचना"
 
-#~ msgid "WmApm"
-#~ msgstr "डब्लूऐपीएम"
 
-#~ msgid "WindowMaker dock application for linuxfr-addicted people"
-#~ msgstr "लिनक्सएफ़आर-आदत-वाले व्यक्तियों के लिए विण्डोमेकर डॉक ऐपलीकेशन"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "डब्लूकॉइनकॉइन"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "एक डॉकऐपलेट में सीपीयू मॉनीटरिंग"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "डब्लूसीपीयूलोड"
 
-#~ msgid "WmCube"
-#~ msgstr "डब्लूएमक्यूब"
 
-#~ msgid "WmDf"
-#~ msgstr "डब्लूएमडीएफ़"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr "एक डॉक.ऐपीपी जो कि सीपीयू लोड को आग की भांति एक छोटे आईकॉन में दिखाता है"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "एक फ़िश टैंक में एनालॉग"
 
-#~ msgid "WmFishTime"
-#~ msgstr "डब्लूएमफ़िशटाइम"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "एक डॉक.ऐपीपी जो कि एक घुमती हुई धरती को एक छोटे आईकॉन में दिखाता है"
 
-#~ msgid "WmGlobe"
-#~ msgstr "डब्लूग्लोब"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "डॉकऐपीपी ओएसएस साउण्ड मिक्सर"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "विण्डोमेकर के लिए मेम्/स्वैप मॉनीटरिंग डॉकऐपीपी"
 
-#~ msgid "UPS monitoring in a dockapp"
-#~ msgstr "एक डॉकऐपीपी में यूपीएस मॉनीटरिंग"
 
-#~ msgid "WMNut"
-#~ msgstr "डब्लूनट"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "एक डॉकऐपीपी में पॉप३एलबी द्वारा मल्टीपल मेलबॉक्स मॉनीटरिंग"
 
-#~ msgid "WmsMixer"
-#~ msgstr "डब्लूएमएसमिक्सर"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "एक छोटे आईकॉन में एक स्टाक कोट डाटा डिस्पले"
 
-#~ msgid "WmStock"
-#~ msgstr "डब्लूएमस्टाक"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr "एक छोटे आईकॉन में तंत्र सूचना (स्मृति, स्वैप, अपटाइम, आईओ)"
 
-#~ msgid "WmSysMon"
-#~ msgstr "डब्लूएमसिसमॉन"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "एक छोटी डॉकऐपीपी विण्डो में अपने स्वंम के वेबकैम को देखें"
 
-#~ msgid "WmWebcam"
-#~ msgstr "डब्लूएमवेबकैम"
 
-#~ msgid "WmXss"
-#~ msgstr "डब्लूएमएक्सएसएस"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "ऐएमआईजीऐ पर ओपस निर्देशिका जैसा, एक संचिका प्रबंधक"
 
-#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
-#~ msgstr "रीपिटेटिव स्ट्रेन इंजूरी (आरएसआई) के बचाव व से ठीक होने में सहायता"
 
-#~ msgid "Workrave"
-#~ msgstr "वर्करेव"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "डब्लूएक्सविण्डोज/डब्लूएक्सपायथन के लिए एक जीयूआई सर्जनकर्ता"
 
-#~ msgid "wxGlade"
-#~ msgstr "डब्लूएक्सग्लेड"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "सी१२८ एम्यूलेटर"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "कॉम्डोर १२८ ऐम्यूलेटर"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "सी६४ एम्यूलेटर"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "कॉम्डोर ६४ ऐम्यूलेटर"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "रीयलटाइम फ़्रैक्टल ज़ूमर"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "आर्कॉन खेला का क्लोन"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "सीबीएम२ एम्यूलेटर"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "कॉम्डोर बीएम २ ऐम्य़ूलेटर"
 
-#~ msgid "Siag text editor"
-#~ msgstr "सिय्ग पाठ ऐडीटर"
 
-#~ msgid "Xedplus"
-#~ msgstr "एक्सईडीप्लस"
 
-#~ msgid "Siag File manager"
-#~ msgstr "सिय्ग संचिका प्रबंधक"
 
-#~ msgid "Xfiler"
-#~ msgstr "एक्सफ़िलर"
 
-#~ msgid "A mp3 playlist frontend"
-#~ msgstr "एक एमपी३ प्लेसूची फ़्रन्टएन्ड"
 
-#~ msgid "XMakeMol"
-#~ msgstr "एक्समेकमोल"
 
-#~ msgid "Xmorph"
-#~ msgstr "एक्समॉर्फ़ी"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "मिस्टर एलएस एक्स के लिए एक मिस्टर डू क्लोन है"
 
-#~ msgid "XMrIs"
-#~ msgstr "एक्समर्ल्स"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "आपके डेस्कटाप पर पेन्ग्य़ूविनों को दौड़ते हुए दिखाता है।"
 
-#~ msgid "Xpenguins"
-#~ msgstr "एक्सपेन्ग्य़ूविन्स"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "कॉम्डोर पीईटी ऐम्यूलेटर"
 
-#~ msgid "PET Emulator"
-#~ msgstr "पीईटी ऐम्यूलेटर"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "उड़ों/निशाना-लगाओं आरकेड खेल"
 
-#~ msgid "Xpilot server"
-#~ msgstr "एक्सपायलट सर्वर"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "एक्सपायलट - आवश्यक सर्वर"
 
-#~ msgid "X-Pired"
-#~ msgstr "एक्स-पाइरेड"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "सीप्लस२ ऐम्य़ूलेटर"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "कॉम्डोर प्लस४ ऐम्य़ूलेटर"
 
-#~ msgid "News reader"
-#~ msgstr "समाचार वाचक"
 
-#~ msgid "Xrn"
-#~ msgstr "एक्सआरएन"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "सॉफ़्टवेयर पैकेजों को हेर-फ़ेर करने हेतु टूल"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "ठंडा आरकेड/सोचनेवाला खेल बहुत कुछ लोड रनर जैसा"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "एक्स-स्क्वैन्ज़र"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "स्क्रोच्ड पॄथ्वी का क्लोन"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "सियग ऑफ़िस स्प्रेडशीट"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "सी६४ म्य़ूजिक प्लेयर का क्यूटी संस्मरण"
 
-#~ msgid "The Skat game"
-#~ msgstr "दी स्क्ट खेल"
 
-#~ msgid "Shooting game on X Window System"
-#~ msgstr "एक्स विण्डो सिस्टम पर निशानेबाजी का खेल"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "कॉम्डोर वीआईसी २० ऐम्य़ूलेटर"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "वीआईसी २० ऐम्यूलेटर"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "वी०ओ०सी०पी० (वी०ओ०सी०पी० सचित्र वाणी संदेश पुनः प्राप्त करना)"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "डूम के लिए एक स्तर संपादक"
 
-#~ msgid "Yadex"
-#~ msgstr "याडेक्स"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "वास्तविक-काल मीडी सॉफ़्टवेयर कृत्रिम-रचनाकर्ता"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "राक्षसों को कुचलें और गनोमों को बचायें"
 
-#~ msgid "Monster Masher"
-#~ msgstr "मॉनस्टर मासेर्"
 
-#~ msgid "Listen to your music"
-#~ msgstr "अपने संगीत को सुनें"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "म्यूइन संगीत प्लेयर"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "संजाल युक्ति और संबंधन का विन्यास करें"
 
-#~ msgid "Neverball"
-#~ msgstr "नेवरबाल"
 
-#~ msgid "Neverputt"
-#~ msgstr "नेवरपुट"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "अपना संजाल कनेक्शन सेटिंग प्रबंधित करें और बदलें"
 
-#~ msgid "Network Connections"
-#~ msgstr "संजाल कनेक्शन"
 
-#~ msgid "Downloader for X"
-#~ msgstr "एक्स के लिए डॉउनलोडर"
 
-#~ msgid "pydance"
-#~ msgstr "पॉयडान्स"
 
-#~ msgid "QDVDAuthor"
-#~ msgstr "क्यूडीवीडीऑथर"
 
-#~ msgid "Organize and secure your passwords"
-#~ msgstr "अपने कूट-शब्दों को संयोजित व सुरक्षित करें"
 
-#~ msgid "ripperX"
-#~ msgstr "रिपरएक्स"
 
-#~ msgid "Sawfish"
-#~ msgstr "सॉफ़िस"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "स्कोर्चेड ३डी"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "स्कोर्चेड ३डी पृथ्वी ३डी ओपनजीएल रिमेक"
 
-#~ msgid "Decrypt File"
-#~ msgstr "फाइल विगोपित करे"
 
-#~ msgid "Import Key"
-#~ msgstr "कुंजी आयात करें"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "मुख्य सर्वर और दूसरे गोपन सेटिंग विन्यस्त करें"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "गोपन व कीरिंग"
 
-#~ msgid "Verify Signature"
-#~ msgstr "हस्ताक्षर जांचें"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "अपना कूटशब्द और गोपन कुंजी प्रबंधित करें"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "कूटशब्द व गोपन कुंजी"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "विन्यस्त करें कौन सेवायें चलेगी जब सिस्टम शुरू होगा"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "आपके संजाल पड़ोस के लिये विन्यस्त करें कि कौन सा फोल्डर उपलब्ध है"
 
-#~ msgid "Shared Folders"
-#~ msgstr "साझेदारी फोल्डर"
 
-#~ msgid "Sirius"
-#~ msgstr "सीरिय्स"
 
-#~ msgid "Sound Converter"
-#~ msgstr "दवानी बदलनेवला"
 
-#~ msgid "Sweep"
-#~ msgstr "स्वीप"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "एडोब फ्लैश फाइल चलाएं"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Swfdec फ्लैश प्लेयर"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "प्रॉक संरचना"
 
-#~ msgid "Change the default Java toolset"
-#~ msgstr "तयशुदा जावा टूलसेट बदलें"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "बदलें तारीख़, समय और समय क्षेत्र"
 
-#~ msgid "Time and Date"
-#~ msgstr "समय और तारीख़"
 
-#~ msgid "Trackballs"
-#~ msgstr "ट्रैकबालें"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "टर्मिनल सर्वर क्लाइंट"
-
-#~ msgid "Tux Paint"
-#~ msgstr "ट्क्स पेन्ट"
-
-#~ msgid "Viking"
-#~ msgstr "वाईकिंग"
-
-#~ msgid "Manage virtual machines"
-#~ msgstr "वर्चुअल मशीन प्रबंधित करें"
-
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "वर्चुअल मशीन प्रबंधक"
-
-#~ msgid "VLC media player"
-#~ msgstr "वीएलसी मीडिया प्लेयर"
-
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "आईबीएम ३२७० टर्मिनल ऐम्यूलेटर"
-
-#~ msgid "X3270"
-#~ msgstr "एक्स३२७०"
-
-#~ msgid "DOS emulator running under X"
-#~ msgstr "एक्स के अन्तर्गत चलने वाला डॉस एम्यूलेटर"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "स्टीकी नोट्स"
-
-#~ msgid "Xpaint"
-#~ msgstr "एक्सपेन्ट"

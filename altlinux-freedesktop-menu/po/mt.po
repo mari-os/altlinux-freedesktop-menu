@@ -15,10 +15,10 @@ msgstr ""
 "PO-Revision-Date: 2003-09-20 11:13+0200\n"
 "Last-Translator: Ramon Casha <rcasha@waldonet.net.mt>\n"
 "Language-Team:  <mt@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -139,9 +139,8 @@ msgstr "Bijoloġija"
 msgid "Biology software"
 msgstr "Programm biex timmorfja minn stampa għall-oħra"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Bijoloġija"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Logħob tal-boards"
@@ -185,9 +184,8 @@ msgstr "Kimika"
 msgid "Chemistry software"
 msgstr "Kimika"
 
-#, fuzzy
 msgid "Clock"
-msgstr "KCalc"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
@@ -286,9 +284,8 @@ msgstr "Edituri"
 msgid "Education"
 msgstr "Edukazzjoni"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Sigurtà"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -443,9 +440,8 @@ msgstr "Internet"
 msgid "Internet applications"
 msgstr "Programmi KDE"
 
-#, fuzzy
 msgid "Java"
-msgstr "Lavaps"
+msgstr ""
 
 msgid "KDE"
 msgstr "KDE"
@@ -485,9 +481,8 @@ msgstr "Programm biex timmorfja minn stampa għall-oħra"
 msgid "Mixers"
 msgstr "WmsMixer"
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Network"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Multimedja"
@@ -504,9 +499,8 @@ msgstr "Programm biex iddoqq mużika"
 msgid "Multimedia Recorders"
 msgstr "Programm biex iddoqq mużika"
 
-#, fuzzy
 msgid "Music"
-msgstr "MusE"
+msgstr ""
 
 #, fuzzy
 msgid "Musical software"
@@ -518,9 +512,8 @@ msgstr "Network"
 msgid "Network-related settings"
 msgstr ""
 
-#, fuzzy
 msgid "News"
-msgstr "KNotes"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -567,9 +560,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr "Programm biex timmorfja minn stampa għall-oħra"
 
-#, fuzzy
 msgid "Performance"
-msgstr "Preferenzi"
+msgstr ""
 
 #, fuzzy
 msgid "Personal"
@@ -663,7 +655,7 @@ msgstr "Sigurtà"
 
 #, fuzzy
 msgid "Sequencers"
-msgstr "Xjenza"
+msgstr "Sekwenzatur MIDI"
 
 msgid "Settings"
 msgstr "Setings"
@@ -832,9 +824,8 @@ msgstr "Programm għal disinji b'vektori"
 msgid "Vector based graphical applications"
 msgstr "Programmi tat-Terminal"
 
-#, fuzzy
 msgid "Video"
-msgstr "Jigdo"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
@@ -882,1918 +873,620 @@ msgstr ""
 msgid "chat clients"
 msgstr "Klijent Whois"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Programmi kollha"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Xi trid tagħmel?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Edukazzjoni u Divertiment"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Varji"
 
-#~ msgid "Shells"
-#~ msgstr "Shells"
 
-#~ msgid "Servers"
-#~ msgstr "Servers"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Utilitajiet tal-XWindows"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Utilitajiet tal-X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Avvanzat"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Setings avvanzati"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Mitlufin u Misjuba"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Tattika u Strateġija"
 
-#~ msgid "Information"
-#~ msgstr "Informazzjoni"
 
-#~ msgid "Accessories"
-#~ msgstr "Aċċessorji"
 
-#~ msgid "Science & Math"
-#~ msgstr "Xjenza u Matematika"
 
-#~ msgid "Peripherals"
-#~ msgstr "Apparat"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Menu KDE"
 
-#~ msgid "Control Center"
-#~ msgstr "Ċentru tal-Kontroll"
 
-#~ msgid "Puzzles"
-#~ msgstr "Taħbil il-moħħ"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Logħob bħal Rogue"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "Jekk jogħġbok tneħħix jew tbiddel dan"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Aġġornament Mandriva Linux"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Franċiż"
 
-#~ msgid "MIDI file player"
-#~ msgstr "Programm biex iddoqq mużika MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Minesweeper"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Uri l-proċessi kurrenti u mmonitorja l-istat tas-sistema"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Werrej tal-istampi"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Programm ta' monitoring ibbażat fuq GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Ibbrawżja l-web"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Konfigurazzjoni Samba (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "SWAT, l-għodda għall-amministrazzjoni ta' Samba"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "Il-logħbiet kollha ta' solitaire"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Appearance"
-#~ msgstr "Apparenza"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Tastiera fuq l-iskrin"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "Interfaċċja għal rp-pppoe"
 
-#~ msgid "Device Manager"
-#~ msgstr "Maniġġjar tal-apparat"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Editur tat-test"
 
-#~ msgid "Office Suite"
-#~ msgstr "Sett tal-uffiċċju"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bl-"
-#~ "Olandiż"
 
-#~ msgid "Eclipse"
-#~ msgstr "Ekliss"
 
-#~ msgid "IDE for Python"
-#~ msgstr "IDE għall-Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "Notifikazzjoni ta' imejl"
 
-#~ msgid "Configurator"
-#~ msgstr "Konfiguratur"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Għajnuna dwar GNOME"
 
-#~ msgid "Help"
-#~ msgstr "Għajnuna"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Doqq kanzunetti u videos"
 
-#~ msgid "Home Folder"
-#~ msgstr "Direttorju Personali"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Interfaċċja bil-gtk għal gocr"
 
-#~ msgid "Search"
-#~ msgstr "Fittex"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bl-"
-#~ "Ispanjol"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Uri stampa tad-dinja fuq id-desktop"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Dur u organizza l-favoriti"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bis-"
-#~ "Sloven"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Għodda li taġġorna l-menus"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Agħżel Kulur"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Manager tal-users"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Programm biex tieħu \"ritratt\" tal-iskrin"
 
-#~ msgid "Character Selector"
-#~ msgstr "Agħżel Karattri"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Programm b' kalendarju w skeda"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Home"
-#~ msgstr "Direttorju Personali"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "KJots"
-#~ msgstr "KJots"
 
-#~ msgid "Note Taker"
-#~ msgstr "Ħu noti"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "Programm Għall-Ħolqien ta' Diskors Artifiċjali"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Potato Guy"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Għodda tal-klipbord"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "Card Game"
-#~ msgstr "Logħba tal-karti"
 
-#~ msgid "CD Player"
-#~ msgstr "CD Player"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Verżjoni ta' Bomberman"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shisen-Sho"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr ""
-#~ "Applet tal-pannell biex tibdel id-daqs jew orjentazzjoni tal-iskrin X."
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Ibdel daqs u rotazzjoni tal-iskrin"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Mail Client"
-#~ msgstr "Klijent tal-imejl"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Kalkulatriċi xjentifika"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "AMOR"
-#~ msgstr "ĦEDRI"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "Annimal ta' fuq l-iskrin"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "Paint Program"
-#~ msgstr "Programm sempliċi tat-tpinġija"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Uri l-użu tad-diski"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Tactical Game"
-#~ msgstr "Logħba ta' tattika"
 
-#~ msgid "Info Center"
-#~ msgstr "Ċentru tal-Informazzjoni"
 
-#~ msgid "KTeaTime"
-#~ msgstr "It-Tè lest"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "Il-Kitla tat-Tè"
 
-#~ msgid "Change Password"
-#~ msgstr "Ibdel Password"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "Welcome"
-#~ msgstr "Merħba"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "KwikDisk"
-#~ msgstr "KwikDisk"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "Klikk tal-Maws Awtomatiku"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "Jikklikkjalek il-maws, biex tevita wġigħ RSI"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Trash"
-#~ msgstr "Skart"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Board Game"
-#~ msgstr "Logħba tal-bord"
 
-#~ msgid "SameGame"
-#~ msgstr "LogħbaStess (SameGame)"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Editur tat-test avvanzat"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Qarrej tal-aħbarijiet (news)"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Editur tal-menu"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "Żomm il-ħin personali"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Manager tal-Fajls (mod Super User)"
 
-#~ msgid "Popup Notes"
-#~ msgstr "Noti żgħar"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Għodda biex tifformattja floppies"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Taqsiriet tat-tastiera"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bit-"
-#~ "Taljan"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Korean"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "Programm biex tara t-TV"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Ikkonfigura l-ambjent tad-database"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr ""
-#~ "Għodda biex tikkontrolla kards tal-awdjo bbażati fuq Envy24 (ice1712)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Ġappuniż"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "Logħba ta' gwerra b' tankijiet b'ħafna plejers"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "Logħba ta' taħbil il-moħħ b'ħafna plejers"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Windows"
-#~ msgstr "Windows"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Logħba tal-arcades \"frozen bubble\""
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "Werrej DjVu"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Żid jew neħħi users u gruppi"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Ibbrawżja l-web"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Lingwist Qt"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Tastiera"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bl-"
-#~ "Ungeriż"
 
-#~ msgid "Mouse"
-#~ msgstr "Maws"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "Interfaċċja grafika biex tinstalla pakketti RPM"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - Programm biex tbiddel l-isfond / screensaver"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr ""
-#~ "Implementazzjoni ġdida għal logħba antika magħrufa bħala Tower Toppler "
-#~ "jew Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Database"
-#~ msgstr "Database"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Server Freeciv"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "Sistema CAD professjonali"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "L-emulatur ta' terminal standard tas-sistema X Windows"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "Interfaċċja għall-portscanner nmap"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Page Layout"
-#~ msgstr "Tqassim tal-paġna"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Ġermaniż"
 
-#~ msgid "Howtos German"
-#~ msgstr "Howto's bil-Ġermaniż"
 
-#~ msgid "System information"
-#~ msgstr "Informazzjoni dwar is-sistema"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bir-"
-#~ "Rumen"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Għodda għall-konfigurazzjoni u informazzjoni tal-ħardwer"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Pollakk"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "Programm għal printjar faċli bil-CUPS"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "Registry Editor"
-#~ msgstr "Editur tar-\"registry\""
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bl-"
-#~ "Ingliż"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "Editur ta' test ġeneriku"
 
-#~ msgid "VI editor"
-#~ msgstr "Editur VI"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Grieg"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "Howto's bil-Grieg"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bl-"
-#~ "Indoneżjan"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "Programm famuż li jipplottja funzjonijiet"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Editja direttament id-database ta' konfigurazzjoni"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" biċ-"
-#~ "Ċiniż"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "Logħba oħra 3D lightcycle"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "Logħba simili għal boulderdash"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Blat u djamanti"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bil-"
-#~ "Finlandiż"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr ""
-#~ "Dokumenti HOWTO (format html) mil-\"Linux Documentation Project\" bl-"
-#~ "Isvediż"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "IDE Anjuta"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "Barrage"
-#~ msgstr "Barrage"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Editur tal-XML Conglomerate"
 
-#~ msgid "Edit XML files"
-#~ msgstr "Editja fajls XML"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Crimson Fields"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Data Display Debugger"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Għodda tal-matematika Dr.Geo"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "Editur essadeċimali għal Gnome"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTKWave"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "Werrej ta' \"waveforms\" elettroniċi"
 
-#~ msgid "Katoob"
-#~ msgstr "Katoob"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "KMess"
-#~ msgstr "KMess"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "Klijent MSN"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "A batch renamer"
-#~ msgstr "Programm biex tibdel l-ismijiet ta' ħafna fajls f'daqqa"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "Manager tal-Fajls b'żewġ pannelli"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "Programm KPart ta' KDE"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "Logħba ta' gwerra unika b'ħafna plejers"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "First person shooter game"
-#~ msgstr "Logħba ta' sparar fl-ewwel persuna"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "OilWar"
-#~ msgstr "OilWar"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "Logħba sempliċi ħafna ta' sparar bil-maws"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "SpiralLoops"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "Sintetizzatur ta' \"loops\""
 
-#~ msgid "SpiralSynth"
-#~ msgstr "SpiralSynth"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "L-Avventuri Inkredibbli ta' Abe"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "Logħba klassika Crack-Dot-Com"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "Qari u konverżjoni ta' videos"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "Logħba ta' ġlied bl-ajru 2D"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Browser ta' teletext/videotext"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "Browser/għodda tal-kitba tal-W3C"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Alsa Modular Synth"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "Sintetizzatur modulari għal ALSA"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Angel Wars"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "Logħba tal-ispazju għaġġilija u stil antik"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "GUI għal Genpak"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "Logħba fl-ewwel persuna biex teqred asterojdi"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asterojdi 3D"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "Ikkonfigura l-kontroll tal-konsum għas-sistema"
 
-#~ msgid "Energy Saving"
-#~ msgstr "Kontroll tal-konsum"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bbconf hija għodda grafika kompleta għal blackbox"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "Programm biex tpinġi strutturi kimiċi 2D"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Logħob bħal Mario"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "BoxConf (VOCP)"
 
-#~ msgid "Bugsquish"
-#~ msgstr " "
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "Oqtol insetti bil-maws"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "Programm indipendenti biex tmantni \"disk images\" tal-C1541"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "Għodda biex tagħmel \"image\" ta' diski"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "Callcenter (VOCP)"
 
-#~ msgid "Webcam tool"
-#~ msgstr "Għodda għall-webcam"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "Certain Death via Space Things"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "Logħba grafika ta' Go"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "Editur biex toħloq moduli ta' mużika"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "Browser u għodda tan-network (jiħtieġ l-aġent jaħdem)"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr ""
-#~ "Clanbomber - logħba b'xejn (GPL) b'ħafna plejers simili għal Bomberman"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "Kontrollatur MIDI għal ZynAddSubFX"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "Agħżel tema ta' kursuri"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "Temi tal-kursuri"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "Verżjoni ta' Defender"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "A simple web browser"
-#~ msgstr "Web browser sempliċi"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Monitur Distcc"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "Emulatur DOS"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "FICS chess-server interface"
-#~ msgstr "Interfaċċja għas-server taċ-ċess FICS"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr ""
-#~ "Għodda ta' pproċessar tal-awdjo, rekordjar multitrack u taħlit ta' mużika"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Animatur Egon tas-Siag Office"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "Maniġġjar tal-fajls bil-GTK"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma hija logħba ta' taħbil il-moħħ"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "EPIC huwa klijent IRC-II programmabbli estiż"
 
-#~ msgid "Python IDE"
-#~ msgstr "IDE Python"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "Mikser OSS b'ħafna faċilitajiet"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "Programm li joħloq arti ġenerattiva"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr ""
-#~ "Applikazzjoni fluxbox biex toħloq u timmaniġġja l-ikoni fuq id-desktop"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "Simulatur tat-titjir FlightGear"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "Editur avvanzat interattiv li juża t-toolkit FOX"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "Kalkulatriċi li tuża t-toolkit FOX"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "Kalkulatriċi FOX"
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "Sintetizzatur/sekwenzatur/kampjuni tal-baxx għal-Linux"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "Manipulatur tal-awdjo"
 
-#~ msgid "3D file browser"
-#~ msgstr "Browser tal-fajls 3D"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "Window manager FVWM"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "Werrej ta' mapep 3D"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "Werrej ta' molekuli 3D"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "Volibol 2D"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "Ibdel il-preferenzi tiegħek ta' Gnome"
 
-#~ msgid "Gconfpref"
-#~ msgstr "Gconfpref"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "Tetris imħallat ma' Space Invaders"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "Gradebook tal-għalliema"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "Simulatur aeronawtiku bl-azzjoni"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "GLiv"
-#~ msgstr "GLiv"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "Werrej grafiku OpenGL"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "Logħba 3D lightcycle"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "Klijent ta' Gnome għall-modem server \"masqdialer\""
 
-#~ msgid "Memory usage"
-#~ msgstr "Użu tal-memorja"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "Awto-akkumpanjament MIDI"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "Editur tat-tabulatura tal-kitarra"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "Telefon tal-Internet"
 
-#~ msgid "Gpppoem"
-#~ msgstr "Gpppoem"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "Monitur pppoe"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "Trasferiment ta' data GPS"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "MGPSPoint"
 
-#~ msgid "Control print jobs"
-#~ msgstr "Ikkontrolla xogħol ta' printjar"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "Viżwalizzazzjoni grafika ta' data xjentifika"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "Simulatur ta' awtomaton ċellulari"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "Sistema ta' analiżi ta' riżorsi grafiċi"
 
-#~ msgid "Greenwich"
-#~ msgstr "Greenwich"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "Kalkulatriċi RPN"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "Klijent TetriNET għal-Linux"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK-IPTables"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "Konfigurazzjoni tar-regoli ta' IPTables"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "Ibdel tema GTK1"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "Aqleb tema GTK"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "Interfaċċja għal asp2php"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "Programm grafiku biex issib il-fajls"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "Effetti tal-kitarra GTK"
 
-#~ msgid "Realtime effects"
-#~ msgstr "Effetti \"realtime\""
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "Interfaċċja GTK għal CUPS"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "Interfaċċja tal-GTK għall-kju GTKlp CUPS"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "Verżjoni Gnome ta' motd"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Werrej postscript Siag"
 
-#~ msgid "Heroes"
-#~ msgstr "Heroes"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "Inventory"
-#~ msgstr "Inventorju"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "Programm sempliċi ta' inventorji"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "Dawnloader \"Jigsaw\""
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "Klijent tal-ftp GTK2"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "Konnessjonijiet ALSA"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Kiki n-nanobot"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "Werrej tal-molekuli Qt"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "Werrej tal-proċessi grafiku"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "Verżjoni ta' Panzer General"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "Browser WWW simili għal Lynx"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "Verżjoni ta' tetris"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "Logħba tal-ispazju 2D"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "Aqbad il-bombi"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "ManEdit"
-#~ msgstr "ManEdit"
 
-#~ msgid "UNIX manual pages editor"
-#~ msgstr "Editur tal-paġni tal-manwali UNIX"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "Konferenzi bl-internet MAS"
 
-#~ msgid "MASConf"
-#~ msgstr "MASConf"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "Mikser MAS"
 
-#~ msgid "MASMix"
-#~ msgstr "MASMix"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "Oħloq graffi ta' funzjonijiet interattivament"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Interfaċċja Tcl/Tk għal MAS"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "Emulatur ta' terminal multi-lingwali"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Klijent Maitretarot"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Għodda djanostika tan-network b' ping/traceroute"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "Sekwenzatur MIDI"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitor "
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "NiL Isn't Liero"
-#~ msgstr "NiL"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "Orbital Eunuchs Sniper"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "Ara videos bix-Xine"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "Verżjoni tal-logħba klassika Missile Command"
 
-#~ msgid "Penguin Command"
-#~ msgstr "Penguin Command"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "Emilia 3d Pinball"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Verżjoni ta' Lemmings"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "POPFile - Klassifikazzjoni awtomatika tal-imejl"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "PrBooM-GL Multiplayer"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM-GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "PrBooM Multiplayer"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic Writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Siag Office Pathetic writer"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Grafika molekulari kontrollat minn Python"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "GUI għal rekordjar ALSA"
 
-#~ msgid "QARecord"
-#~ msgstr "QARecord"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "isma' r-radju b' QtRadio."
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "Ġeneratur ta' Frattali 3D"
 
-#~ msgid "Keep track of things"
-#~ msgstr "Żomm kont ta' affarijiet"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "Programm biex toħloq Video CDs"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "Editur ta' awdjo diġitali"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "Root-tail jikteb direttament fuq id-desktop X11"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "Programm tal-immaniġġjar tal-fajls għall-ambjent tad-desktop ROX"
 
-#~ msgid "High-level language for numerical computations"
-#~ msgstr "Lingwa ta' livell għoli għall-komputazzjoni numerika"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "Logħba asterojdi estiża"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "Sekwenzatur MIDI ibbażat fuq loops"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "Mikser ta' avvenimenti MIDI"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "SoundFontCombi"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX Shutterbug"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "Ħu ritratt tal-iskrin u iktbu ġo fajl"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "Logħba ta' tlielaq tal-karozzi 3D multi-plejer"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "Editur tas-\"sound fonts\""
 
-#~ msgid "Music player"
-#~ msgstr "Programm biex iddoqq mużika"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr "logħba \"arcade\" 2D li tiġbor kaxex u tevita projettili"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "Editur tat-tabulatura tal-kitarra"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Grass (Spearfish)"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "Sintetizzatur softwer modulari"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "Spiral Modular Synth"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "Programm biex jaqsam it-tastiera MIDI għal ZynAddSubFX"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "Proġett: Starfighter"
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "GUI għal Samsung Uproar u Yepp"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "VLC idoqq MPEG, MPEG2, DVD u DivX"
 
-#~ msgid "Swami"
-#~ msgstr "Swami"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "Simulatur ta' tiġrijiet bil-karozzi"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
-#~ msgstr "Tuxedo T. Penguin: A Quest For Herring"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Go-karts"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "The Ur-Quan Masters"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "Bennej ta' mudelli 3D"
 
-#~ msgid "Vertex"
-#~ msgstr "Ferrex"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "L-editur popolari tal-Unix \"vi\" biż-żieda tal-assistent Vigor"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (VOCP Fax)"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "Kontroll tal-volum"
 
-#~ msgid "Volume knob"
-#~ msgstr "Volum"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "Programm biex iddoqq melodiji SID tal-Commodore"
 
-#~ msgid "VSID music player"
-#~ msgstr "Programm biex iddoqq mużika VSID"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "Editur grafiku tal-awdjo"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "Logħba tat-tlielaq tal-karozzi ma' Tux"
 
-#~ msgid "WLanFE"
-#~ msgstr "WLanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "Konfigurazzjoni ta' LAN \"wireless\""
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "Programm għal WindowMaker biex timmonitorja s-CPU"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "WmDf"
-#~ msgstr "WmDf"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr ""
-#~ "Programm għal WindowMaker li jurik it-tagħbija tas-sistema bħala fjammi"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "Arloġġ għal WindowMaker ġo akwarju"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "Programm għal WindowMaker li jurik id-dinja ddur"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "Programm għal WindowMaker biex tħallat awdjo"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "Programm għal WindowMaker biex timmonitorja memorja/swap"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "Monitur għal diversi kaxex postali permezz ta' POP3"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "Wiri ta' kwotazzjonijiet tal-ishma f' ikona żgħira"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr ""
-#~ "Informazzjoni dwar is-sistema (memorja, swap, uptime, IO) f'ikona żgħira"
 
-#~ msgid "WmSysMon"
-#~ msgstr "WmSysMon"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "Ara l-webcam tiegħek stess ġo window żgħira teħel"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam "
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "Bennej ta' GUIs' b' wxWindows/wxPython"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "Emulatur C128"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "Emulatur tal-Commodore 128"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "Emulatur C64"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "Emulatur tal-Commodore 64"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "Programm ta' esplorazzjoni ta' frattali"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "Verżjoni tal-logħba ARCHON"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "Emulatur CBM2"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "Emulatur Commodore BM 2"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Editur ta' test Siag"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Manager tal-fajls Siag"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "A mp3 playlist frontend"
-#~ msgstr "Interfaċċja għall-lista ta' diski mp3"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Verżjoni ta' \"Mr.Do\" għal X"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "Uri pingwini jiġġerrew fuq id-desktop"
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "Emulatur Commodore PET"
 
-#~ msgid "PET Emulator"
-#~ msgstr "Emulatur PET"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "Logħba tal-arcades - tir u spara"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Xpilot server"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - jeħtieġ server"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "Emulatur CPLUS4"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "Emulatur Commodore PLUS4"
 
-#~ msgid "News reader"
-#~ msgstr "Qarrej tal-aħbarijiet (news)"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "Għodda biex timmanipula pakketti ta' softwer"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "Logħba tal-moħħ/arcade simili ħafna ta' Lode Runner"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "Verżjoni ta' Scorched Earth"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "Verżjoni QT tal-plejer tal-mużika tal-C64"
 
-#~ msgid "The Skat game"
-#~ msgstr "Logħba Skat"
 
-#~ msgid "Shooting game on X Window System"
-#~ msgstr "Logħba ta' sparar"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "Emulatur Commodore VIC 20"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "Emulatur VIC 20"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (kisba ta' messaġġi bil-vuċi)"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "Editur tal-livelli għal DOOM"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "Sintetizzatur MIDI \"realtime\""
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "Neverball"
-#~ msgstr "Neverball"
 
-#~ msgid "Downloader for X"
-#~ msgstr "Downloader għal X"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "Verżjoni OpenGL ta' Scorched Earth"
 
-#~ msgid "Services"
-#~ msgstr "Servizzi"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Konfigurazzjoni proc"
 
-#~ msgid "Trackballs"
-#~ msgstr "Trackballs"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid "VLC media player"
-#~ msgstr "Plejer tal-medja VLC"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "Emulatur ta' terminals IBM 3270"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "Sticky Notes"
-#~ msgstr "Noti li jeħlu"
 
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"
+
+
+
+
+

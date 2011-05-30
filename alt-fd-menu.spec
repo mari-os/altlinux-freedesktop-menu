@@ -1,9 +1,10 @@
 %def_with gnome3
+%def_without gnome2
 %define gnome2ver 2.90
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.40
+Version: 0.41
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
@@ -47,10 +48,12 @@ Group: Graphical desktop/Other
 Requires(pre): %name-common
 Requires: %name-common
 Provides: %name
+Provides: %name-gnomish-menu
 
 %description shallow-menu
 freedesktop.org compliant altlinux menu with shallow layout
 
+%if_with gnome2
 %package gnomish-menu
 Summary: altlinux freedesktop menu with shallow layout (GNOME-based)
 Group: Graphical desktop/Other
@@ -62,6 +65,7 @@ Requires: gnome2-menus-resources
 %description gnomish-menu
 freedesktop.org compliant altlinux menu with shallow layout
 that use GNOME desktop directories and looks like GNOME menu.
+%endif
 
 %package xfce
 Summary: xfce freedesktop menu
@@ -114,9 +118,9 @@ ALTLinux freedesktop.org menu for GNOME
 Summary: gnome3 freedesktop menu
 Group: Graphical desktop/GNOME
 Provides: gnome3-freedesktop-menu
-#Conflicts: gnome-menus-default
-#Provides: gnome-menus = %gnome3ver.%version
-#Obsoletes: gnome-menus-default < %gnome3ver.%version
+Conflicts: gnome-menus-default
+Provides: gnome-menus = %gnome3ver.%version
+Obsoletes: gnome-menus-default < %gnome3ver.%version
 Requires: %name
 
 %description gnome3
@@ -218,8 +222,10 @@ touch /etc/xdg/menus/lxde-applications.menu
 %files shallow-menu
 %_altdir/%name-shallow-menu
 
+%if_with gnome2
 %files gnomish-menu
 %_altdir/%name-gnomish-menu
+%endif
 
 %files xfce
 #config (noreplace) is too dangerous for unexpirienced user
@@ -231,11 +237,13 @@ touch /etc/xdg/menus/lxde-applications.menu
 %config %_sysconfdir/xdg/menus/lxde-applications.menu
 %dir %_sysconfdir/xdg/menus/lxde-applications-merged
 
+%if_with gnome2
 %files gnome
 %config %_sysconfdir/xdg/menus/gnome-applications.menu
 %dir %_sysconfdir/xdg/menus/gnome-applications-merged
 %config %_sysconfdir/xdg/menus/settings.menu
 %dir %_sysconfdir/xdg/menus/settings-merged
+%endif
 
 %if_with gnome3
 %files gnome3
@@ -260,6 +268,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Mon May 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.41-alt1
+- build without gnome2, to be included in gnome3 transaction
+
 * Tue May 24 2011 Igor Vlasenko <viy@altlinux.ru> 0.40-alt1
 - use native gnome2 resources instead of private copy
 

@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2008-08-29 00:39+0800\n"
 "Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
 "Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ms\n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -136,9 +136,8 @@ msgstr ""
 msgid "Biology software"
 msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Balsa"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Permainan 'Board'"
@@ -303,7 +302,7 @@ msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Aplikasi Terminal"
+msgstr "Aplikasi Grafik"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -361,7 +360,7 @@ msgstr ""
 
 #, fuzzy
 msgid "GUI designer applications"
-msgstr "Aplikasi Terminal"
+msgstr "Aplikasi Grafik"
 
 msgid "Games"
 msgstr "Permainan"
@@ -375,9 +374,8 @@ msgstr "Permainan Kanak-kanak"
 msgid "Geography"
 msgstr "Geografi"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Geografi"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
@@ -437,9 +435,8 @@ msgstr "Internet"
 msgid "Internet applications"
 msgstr "Aplikasi Lain"
 
-#, fuzzy
 msgid "Java"
-msgstr "Lavaps"
+msgstr ""
 
 msgid "KDE"
 msgstr "KDE"
@@ -474,13 +471,11 @@ msgstr "Perisian DJ"
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Mines"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Rangkaian"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Multimedia"
@@ -497,9 +492,8 @@ msgstr "Pemain Multimedia"
 msgid "Multimedia Recorders"
 msgstr "Pemain Multimedia"
 
-#, fuzzy
 msgid "Music"
-msgstr "MusE"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -510,9 +504,8 @@ msgstr "Jaringan"
 msgid "Network-related settings"
 msgstr ""
 
-#, fuzzy
 msgid "News"
-msgstr "KNotes"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -560,9 +553,8 @@ msgstr "Perkomputeran Selari"
 msgid "Parallel computing software"
 msgstr "Perkomputeran Selari"
 
-#, fuzzy
 msgid "Performance"
-msgstr "Keutamaan"
+msgstr ""
 
 #, fuzzy
 msgid "Personal"
@@ -724,7 +716,7 @@ msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "Aplikasi Terminal"
+msgstr "Aplikasi Grafik"
 
 #, fuzzy
 msgid "TV applications"
@@ -831,9 +823,8 @@ msgstr "Grafik"
 msgid "Vector based graphical applications"
 msgstr "Aplikasi Grafik"
 
-#, fuzzy
 msgid "Video"
-msgstr "Jigdo"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
@@ -882,1582 +873,532 @@ msgstr ""
 msgid "chat clients"
 msgstr "Pelanggan Mel"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Semua aplikasi"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Hendak buat apa ?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Hiburan Mendidik"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Pelbagai"
 
-#~ msgid "Shells"
-#~ msgstr "Shell"
 
-#~ msgid "Programming"
-#~ msgstr "Pengaturcaraan"
 
-#~ msgid "Servers"
-#~ msgstr "Pelayan"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "Tetapkan Komputer Anda"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Utiliti Tetingkap X"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Utiliti X"
 
-#~ msgid "Advanced"
-#~ msgstr "Lanjutan"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Tetapan Lanjutan"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Hilang & Jumpa"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Strategi dan Taktik"
 
-#~ msgid "Information"
-#~ msgstr "Maklumat"
 
-#~ msgid "Accessories"
-#~ msgstr "Aksesori"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Aksesori Desktop"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "Matematik & Sains"
 
-#~ msgid "Peripherals"
-#~ msgstr "Perkakasan"
 
-#~ msgid "File"
-#~ msgstr "Fail"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Konfigurasi dan monitor sistem"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Menu KDE"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Bunyi & Video"
 
-#~ msgid "Control Center"
-#~ msgstr "Pusat Kawalan"
 
-#~ msgid "Puzzles"
-#~ msgstr "Tekasuai"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Program untuk mengakses Internet seperti web dan emel"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Aplikasi yang tak sesuai bagi kategori lain"
 
-#~ msgid "Office Applications"
-#~ msgstr "Aplikasi Pejabat"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Mandriva Linux Update"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Five or More"
-#~ msgstr "LImau atau Lebih"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "Buang bola berwarna drpd papan dengan membentuk barisan"
 
-#~ msgid "System Monitor"
-#~ msgstr "Monitor Sistem"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Lihat proses semasa dan monitor keadaan sistem"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Pelihat Imej"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "About Me"
-#~ msgstr "Perihal Saya"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Tetapkan maklumat peribadi anda"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Tukar aplikasi mana yang akan ditunjukkan pada menu utama"
 
-#~ msgid "Main Menu"
-#~ msgstr "Menu Utama"
 
-#~ msgid "Browse the web"
-#~ msgstr "Layari web"
 
-#~ msgid "Character Map"
-#~ msgstr "Peta Aksara"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Menyisipkan aksara istimewa ke dokumen"
 
-#~ msgid "NetApplet"
-#~ msgstr "NetApplet"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "Aplet pengawas rangkaian"
 
-#~ msgid "Appearance"
-#~ msgstr "Penampilan"
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Lancar aplikasi-aplikasi lain dan bekalkan pelbagai utiliti untuk "
-#~ "mengurus tetingkap, tunjuk masa, dsb."
 
-#~ msgid "Panel"
-#~ msgstr "Panel"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Papan Kekunci Pada-Skrin"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "Aplikasi Digemari"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Kongfigurasi Tetapan Bluetooth"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Editor Teks"
 
-#~ msgid "Office Suite"
-#~ msgstr "Set Pejabat"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "Program Bantuan Pembangun"
 
-#~ msgid "Devhelp"
-#~ msgstr "DevHelp"
 
-#~ msgid "File Browser"
-#~ msgstr "Pelungsur Fail"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "Pilih pakej tema bagi pelbagai bahagian pada dekstop"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Pemasang Tema"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Mendapatkan bantuan bersama GNOME"
 
-#~ msgid "Help"
-#~ msgstr "Bantuan"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Aplikasi Teknologi Penolong"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "Alatan tetapan pelayan dan klien fax"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Mainkan cereka dan lagu"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Pelihat Dokumen"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "Paparkan "
 
-#~ msgid "Home Folder"
-#~ msgstr "Folder Rumah"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "Lihat tugas pengurusan pakej masa lalu"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "Konfigurasi default bagi aplikasi GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Pemilih Sistem Multimedia"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "Buat konfigurasi pada peranti PalmOS"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "Peranti PalmOS"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Robots"
-#~ msgstr "robot"
 
-#~ msgid "Search"
-#~ msgstr "Cari"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Semak imbas semua cakera jauh dan tempatan serta folder-folder yang boleh "
-#~ "dicapai dari komputer"
 
-#~ msgid "Computer"
-#~ msgstr "Komputer"
 
-#~ msgid "A graphical front end for browsing installed & available packages"
-#~ msgstr "Antara depan bergrafik untuk melungsur pakej yang ada & dipasang"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "Lungsur Perisian Yang Ada"
 
-#~ msgid "Bittorrent Checker"
-#~ msgstr "Pemeriksa Bittorrent"
 
-#~ msgid "Mandriva Linux Bittorrent checker"
-#~ msgstr "Pemeriksa BitTorrent Mandriva Linux"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Lihat dan pelihara tandabuku anda"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Tandabuku Web Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Tandabuku Web"
 
-#~ msgid "Menu Style Configuration"
-#~ msgstr "Tetapan Gaya Menu"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Alat Mengemas Kini Menu"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Pemilih Warna"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KColorChooser"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "Jadual Berkala bagi Elemen"
 
-#~ msgid "Hangman Game"
-#~ msgstr "Permainan Gantung suka-suka"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "Permainan Hangman KDE"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Photo Album"
-#~ msgstr "Album Gambar"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "Pelihat imej ringkas"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Pengurus Pengguna"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - Temui Muzik Anda!"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "Bahagian Depan CVS"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KRuler"
-#~ msgstr "KPembaris"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "Pembaris Skrin"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Program Cekupan Skrin"
 
-#~ msgid "Character Selector"
-#~ msgstr "Character Selector"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Kalendar dan Program Penjadualan "
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "Penyusun Peribadi"
 
-#~ msgid "Home"
-#~ msgstr "Rumah"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "Penyunting Peta Imej HTML"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "Pemeriksa Pautan"
 
-#~ msgid "Note Taker"
-#~ msgstr "Pengambil Nota"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "Antaramuka Pensintesis Pertuturan"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Alat Klipbod"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "CD Player"
-#~ msgstr "Pemain CD"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "Pengurusan Gambar KDE"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Klon Bomberman"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Perkongsian Ruang Kerja"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Saiz Semula Skrin & Putar"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Scientific Calculator"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Bahagian Depan Beza/Tampal"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "Pembesar Skrin"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Wizard Folder Rangkaian"
 
-#~ msgid "UML Modeller"
-#~ msgstr "Pemodel UML"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "Pengurus Makumat Peribadi"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "Makhluk di atas Skrin"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "Jurulatih Perbendaharaan Kata"
 
-#~ msgid "Font Viewer"
-#~ msgstr "Pemapar Fon"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Plot Fungsi"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "Pemplot Fungsi Matematik"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Persekitaran Pembangunan Bersepadu"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Planetarium Ruang Kerja"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "Penjadual Penggera Peribadi "
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Lihat Penggunaan Cakera"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "Program BitTorrent untuk KDE"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "Klien BitTorrent"
 
-#~ msgid "KTorrent"
-#~ msgstr "KTorrent"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "Jurulatih Geografi"
 
-#~ msgid "KGeography"
-#~ msgstr "KGeography"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "Latih Pecahan"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "Buat latihan pecahan"
 
-#~ msgid "Info Center"
-#~ msgstr "Pusat Maklumat"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "Change Password"
-#~ msgstr "Tukar katalaluan"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "Alat Pembelajaran dan Rujukan Bahasa Jepun"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "Alat Rujukan/Pembelajaran Bahasa Jepun"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "Pengadun Bunyi"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "Pengurusan Pepijat KDE"
 
-#~ msgid "Welcome"
-#~ msgstr "Selamat Datang"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "Alatan Cari & Ganti"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "KwikDisk"
-#~ msgstr "KwikDisk"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "Utiliti Media Mudah Alih"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "Klik Tetikus Automatik"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "Mengklik tetikus untuk anda, mengurangkan kesan RSI"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Trash"
-#~ msgstr "Sampah"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "SameGame"
-#~ msgstr "SameGame"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "Pengurusan Gambar"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Editor Teks Lanjutan"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Editor Heks"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Pembaca Berita"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Editor Menu"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "Pemain Muzik"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "Penjejak Waktu Peribadi"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Cari Fail/Folder"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "Jelahan Pembinaan Geometrik"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "Geometri Interaktif"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Pengurus Fail - Mod Pengguna Super"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "Permainan Susun Huruf KDE"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "Permainan Susun Huruf"
 
-#~ msgid "Popup Notes"
-#~ msgstr "Nota Popup "
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Pengformat Liut"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Umpuk kekunci pintasan pada arahan"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Pintasan Papan Kekunci"
 
-#~ msgid "Add urpmi media"
-#~ msgstr "Tambah media urpmi"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Mandriva Linux Pxelinux configurator"
-#~ msgstr "Penetap Pxelinux Mandriva Linux"
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Ubahsuai aras volum"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Konfigurasikan persekitaran pangkalandata"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "Mengaktifkan / mematikan plugin dipasang"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "Penunjuk plugin Papankekunci"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Proksi Rangkaian"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LXTerminal"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Fon Prebiu"
 
-#~ msgid "Record sound clips"
-#~ msgstr "klip bunyi Rekod"
 
-#~ msgid "Windows"
-#~ msgstr "Tetingkap"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "Solitaire AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Main pelbagai jenis permainan solitaire"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "Pemapar DjVu"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Tambah atau buang pengguna dan kumpulan"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Jurubahasa Qt"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Ambil nota, pautkan idea dan kekal terurus"
 
-#~ msgid "Archive Manager"
-#~ msgstr "Pengurus Arkib"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Cipta dan ubahsuai arkib"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "Cari fail, folder, dan dokumen pada komputer anda"
 
-#~ msgid "About GNOME"
-#~ msgstr "Perihal GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Belajar lebih lanjut mengenai GNOME"
 
-#~ msgid "Task Manager"
-#~ msgstr "Pengurus Tugas"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Papan Kekunci"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Tetapkan keutamaan papan kekunci"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mahjongg"
 
-#~ msgid "Mouse"
-#~ msgstr "Tetikus"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Tetapkan keutamaan tetikus"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Add or remove software installed on the system"
-#~ msgstr "Menambah atau memadam perisian yang dipasang pada sistem"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "Menambah/Memadam perisian"
 
-#~ msgid "Software Installer"
-#~ msgstr "Penginstal perisian"
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Database"
-#~ msgstr "Pangkalan Data"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "Radas Konfigurasi GNOME"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "Pembaca berita Pan"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Membaca Berita dari Usenet"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "Tukar kelakuan dan penampilan tetingkap pengurus fail"
 
-#~ msgid "File Management"
-#~ msgstr "Pengurusan Fail"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "Bercakap dengan orang di Internet"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Stat pakej Mandriva Linux"
 
-#~ msgid "Packages Stats"
-#~ msgstr "Stat Pakej"
 
-#~ msgid "Edit text files"
-#~ msgstr "Edit fail teks"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Sut Groupware"
 
-#~ msgid "Language & country configuration"
-#~ msgstr "Tetapan negara & bahasa"
 
-#~ msgid "Regional Settings"
-#~ msgstr "Tetapan Wilayah"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "Keutamaan PulseAudio"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "Keutamaan Pelayan Bunyi"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "Lihat dan ubah konfigurasi pelayan bunyi lokal"
 
-#~ msgid "Qalculate!"
-#~ msgstr "Qalculate!"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Alatan maklumat/Tetapan Berpusat Perkakasan"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "Mian dan pelihara koleksi muzik anda"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "View and organize your images"
-#~ msgstr "Lihat dan pelihara imej anda"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "Pembaca dan Pembesar Skrin"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Solitaire FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Main permainan kad popular FreeCell"
 
-#~ msgid "Window Manager"
-#~ msgstr "Pengurus Tetingkap"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Edit keseluruhan pangkalandata konfigurasi anda."
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "Desakan Lari auto"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Armagetron Advanced"
-#~ msgstr "Armagetron Lanjutan"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Alat Pelaporan Pepijat"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Lapor pepijat pada aplikasi berasaskan GNOME"
 
-#~ msgid "Drawing"
-#~ msgstr "Lukisan"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "A graphical front end for installing, removing and updating packages"
-#~ msgstr ""
-#~ "Antara depan bergrafik untuk memasang, membuang dan mengemaskini pakej"
 
-#~ msgid "Install & Remove Software"
-#~ msgstr "Pasang & Buang Perisian"
 
-#~ msgid "Karbon14"
-#~ msgstr "Karbon14"
 
-#~ msgid "Kexi"
-#~ msgstr "Kexi"
 
-#~ msgid "KPlato"
-#~ msgstr "KPlato"
 
-#~ msgid "KPresenter"
-#~ msgstr "KPresenter"
 
-#~ msgid "Krita"
-#~ msgstr "Krita"
 
-#~ msgid "KSpread"
-#~ msgstr "KSpread"
 
-#~ msgid "KWord"
-#~ msgstr "KWord"
 
-#~ msgid "Write text documents"
-#~ msgstr "Cipta dokumen kosong"
 
-#~ msgid "GNUSim8085"
-#~ msgstr "GNUSim8085"
 
-#~ msgid "GnomeICU ICQ Instant Messenger"
-#~ msgstr "Pesanan Segera ICQ GnomeICU"
 
-#~ msgid "LiVES "
-#~ msgstr "LiVES "
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "IDE Anjuta"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "Pengemudi tetingkap macam dock."
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "Pengemudi Tetingkap Avant"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Uruskan tetapan Awn, pelancar Awn, applet Awn, dan tema Awn"
 
-#~ msgid "Barrage"
-#~ msgstr "Barrage"
 
-#~ msgid "Booh"
-#~ msgstr "Booh"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Pelihat Webcam Camorama"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "Lihat, ubah dan simpan imej drpd webcam"
 
-#~ msgid "ChmSee"
-#~ msgstr "ChmSee"
 
-#~ msgid "HTML Help(CHM) viewer"
-#~ msgstr "Pelihat Bantuan HTML(CHM)"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Scan for viruses..."
-#~ msgstr "Imbas virus"
 
-#~ msgid "Virus Scanner"
-#~ msgstr "Pengimbas Virus"
 
-#~ msgid "CoolEdit"
-#~ msgstr "CoolEdit"
 
-#~ msgid "Cream"
-#~ msgstr "Cream"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Crimson Fields"
 
-#~ msgid "Power Management Preferences"
-#~ msgstr "Pilihan Pengurusan Kuasa"
 
-#~ msgid "Settings for adjusting power usage"
-#~ msgstr "Tetapan untuk penyesuaian penggunaan kuasa"
 
-#~ msgid "Virtualization configuration"
-#~ msgstr "Tetapan virtualization"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "Galculator"
-#~ msgstr "Galculator"
 
-#~ msgid "Galeon Web Browser"
-#~ msgstr "Pelayar Web Galeon"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "A desktop applet system for GNOME"
-#~ msgstr "Sistem aplet desktop bagi GNOME"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "Editor Teks (pentadbir)"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "Editor Heksadesimal GNOME"
 
-#~ msgid "A gnome frontend for the mpd daemon"
-#~ msgstr "Frontend gnome untuk daemon mpd"
 
-#~ msgid "Gnome Music Player Client"
-#~ msgstr "Klien Pemain Musik Gnome"
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "Pengepos Kemasukan Blog"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "Pos kemasukan ke log web"
 
-#~ msgid "Network Tools"
-#~ msgstr "Alatan Rangkaian"
 
-#~ msgid "View information about your network"
-#~ msgstr "Lihat maklumat bagi peranti rangkaian"
 
-#~ msgid "Desktop Library Package Inspector"
-#~ msgstr "Pemeriksa Pakej Pustaka Desktop"
 
-#~ msgid "Get useful information about installed GNOME desktop libraries"
-#~ msgstr ""
-#~ "Mendapatkan maklumat berguna perihal pustaka desktop GNOME yang dipasang"
 
-#~ msgid "Package Viewer"
-#~ msgstr "Pelihat Pakej"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio Music Player"
 
-#~ msgid "Graveman"
-#~ msgstr "Graveman"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "Tetrinet client"
-#~ msgstr "Klien Tetrinet"
 
-#~ msgid "Tetrinet client for GNOME"
-#~ msgstr "Klien Tetrinet bagi GNOME"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "KDE Micro-blogging Client"
-#~ msgstr "Klien Mikro-pemblog KDE"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "Frontend for audio file creation"
-#~ msgstr "Bahagian hadapan untuk penciptaan fail audio"
 
-#~ msgid "Color Palette Editor"
-#~ msgstr "Editor Palet Warna"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "Perbandingan Fail Dan Direktori Dan Alatan Gabungan"
 
-#~ msgid "KDiff3"
-#~ msgstr "KDiff3"
 
-#~ msgid "Kepas - KDE Easy Publish and Share"
-#~ msgstr "Kepas - Mudah Terbit dan Kongsi dalam KDE"
 
-#~ msgid "Database Creator"
-#~ msgstr "Pencipta Pangkalan Data"
 
-#~ msgid "Icon Editor"
-#~ msgstr "Editor Ikon"
 
-#~ msgid "KIconEdit"
-#~ msgstr "KIkonEdit"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "Persekitaran pembangunan (La)TeX"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "Antaradepan LaTeX"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "Klien MSN"
 
-#~ msgid "KMyMoney"
-#~ msgstr "KMyMoney"
 
-#~ msgid "Personal Finance Manager"
-#~ msgstr "Pengurus Kewangan Peribadi"
 
-#~ msgid "Network Monitor"
-#~ msgstr "Monitor Rangkaian"
 
-#~ msgid "Povray Modeler"
-#~ msgstr "Pemodel Povray"
 
-#~ msgid "KVpnc"
-#~ msgstr "KVpnc"
 
-#~ msgid "KDE Partition Manager"
-#~ msgstr "Pengurus Partisyen KDE"
 
-#~ msgid "Manage disks, partitions and file systems"
-#~ msgstr "Urs cakera, partisyen dan sistem fail"
 
-#~ msgid "A collection manager"
-#~ msgstr "Pengurus koleksi"
 
-#~ msgid "Collection Manager"
-#~ msgstr "Pengurus Koleksi"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "First person shooter game"
-#~ msgstr "Permainan menembak first person"
 
-#~ msgid "Balazar"
-#~ msgstr "Balazar"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "Critical Mass"
-#~ msgstr "Critical Mass"
 
-#~ msgid "Eterm"
-#~ msgstr "Eterm"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "Penyalin dan penukar video"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Create photo albums"
-#~ msgstr "Cipta album gambar"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Action-loaded 2D arcade shooter game"
-#~ msgstr "Permainan menembak arked 2D penuh aksi"
 
-#~ msgid "AlsaMixerGUI"
-#~ msgstr "AlsaMixerGUI"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Sintesis Modular ALSA"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Angel Wars"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "GUI untuk Genpak"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "Arahan Strategik Lanjutan"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "Pengawal gelombang otak"
 
-#~ msgid "Bacula Console (wxWindows)"
-#~ msgstr "Bacula Console (wxWindows)"
 
-#~ msgid "Bacula Director Console"
-#~ msgstr "Bacula Director Console"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "Konfigurasikan penjimatan tenaga bagi sistem anda"
 
-#~ msgid "Energy Saving"
-#~ msgstr "Penjimatan Tenaga"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "BB Run"
-#~ msgstr "BB Run"
 
-#~ msgid "BlackBox Run Window"
-#~ msgstr "Tetingkap Laksana BlackBox"
 
-#~ msgid "Tool for eBay users"
-#~ msgstr "Alatan untuk pengguna eBay"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Permainan ala-Mario"
 
-#~ msgid "BPMDJ"
-#~ msgstr "BPMDJ"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "Bunuh pepijat dengan tetikus"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "Camlgrenouille"
 
-#~ msgid "CD-Mason"
-#~ msgstr "CD-Mason"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Cire                "
-#~ msgstr "Cire"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "Enlightenment"
-#~ msgstr "Enlightenment"
 
-#~ msgid "The Enlightenment window manager"
-#~ msgstr "Pengurus tetingkap Enlightenment"
 
-#~ msgid "Python IDE"
-#~ msgstr "IDE Python"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "Gai-leds"
-#~ msgstr "Gai-leds"
 
-#~ msgid "Galan"
-#~ msgstr "Galan"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "Glinuxsms"
-#~ msgstr "Glinuxsms"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "GScore"
-#~ msgstr "GScore"
 
-#~ msgid "Heroes"
-#~ msgstr "Heroes"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "Podcast catcher"
-#~ msgstr "Pencekup podcast"
 
-#~ msgid "ImgSeek"
-#~ msgstr "ImgSeek"
 
-#~ msgid "KAConnect"
-#~ msgstr "KAConnect"
 
-#~ msgid "Kodos"
-#~ msgstr "Kodos"
 
-#~ msgid "LongPlayer"
-#~ msgstr "LongPlayer"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Maxima"
-#~ msgstr "Maxima"
 
-#~ msgid "Nabi"
-#~ msgstr "Nabi"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitor "
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Simple Sampler"
-#~ msgstr "Pensampel Mudah"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "Specimen"
-#~ msgstr "Specimen"
 
-#~ msgid "Star Voyager"
-#~ msgstr "Star Voyager"
 
-#~ msgid "Tengen"
-#~ msgstr "Tengen"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "WMLaptop"
-#~ msgstr "WMLaptop"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "Wireless network docklet"
-#~ msgstr "Docklet rangkaian tanpa wayar"
 
-#~ msgid "Workrave"
-#~ msgstr "Workrave"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "X-Tux"
-#~ msgstr "X-Tux"
 
-#~ msgid "Maintain and query a SQL database"
-#~ msgstr "Senggara dan pertanyaan pangkalan data SQL"
 
-#~ msgid "Monkey Bubble"
-#~ msgstr "Monkey Bubble"
 
-#~ msgid "Monkey Bubble Arcade Game"
-#~ msgstr "Permainan Arked Monkey Bubble"
 
-#~ msgid "MonoDevelop"
-#~ msgstr "MonoDevelop"
 
-#~ msgid "Listen to your music"
-#~ msgstr "Dengar muzik anda"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Pemain Muzik Muine"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "Konfigurasikan peranti dan sambungan rangkaian"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "SELinux"
-#~ msgstr "SELinux"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "Konfigurasi servis yang mana akan dilaksanakan bila sistem bermula"
 
-#~ msgid "Services"
-#~ msgstr "Servis"
 
-#~ msgid "Simple Scan"
-#~ msgstr "Pengimbas Ringkas"
 
-#~ msgid "Audio Format Converter"
-#~ msgstr "Penukar Format Audio"
 
-#~ msgid "Convert audio files into other formats"
-#~ msgstr "Tukar file audio ke format yang lain"
 
-#~ msgid "Sound Converter"
-#~ msgstr "Penukar Audio"
 
-#~ msgid "Multiple terminals in one window"
-#~ msgstr "Kesemua terminal dalam satu tetingkap"
 
-#~ msgid "Terminator"
-#~ msgstr "Terminator"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "Tukar masa , tarikh dan zonwaktu sistem"
 
-#~ msgid "Time and Date"
-#~ msgstr "Masa dan Tarikh"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "Klien Pelayan Terminal"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "Program melukis untuk kanak-kanak"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
 
-#~ msgid "Users and Groups"
-#~ msgstr "Pengguna dan Kumpulan"
 
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "Pengurus Mesin Maya"
 
-#~ msgid "Workspaces"
-#~ msgstr "Ruangkerja"
 
-#~ msgid "Run Program..."
-#~ msgstr "Lari Program..."
 
-#~ msgid "Sticky Notes"
-#~ msgstr "Nota Lekat"
 
-#~ msgid "ATI Catalyst Control Center"
-#~ msgstr "Pusat Kawalan Catalyst ATI"
 
-#~ msgid "Google Earth Install"
-#~ msgstr "Pasang Google Earth"
 
-#~ msgid "Tux Droid Interface"
-#~ msgstr "Antaramuka Droid Tux"
 
-#~ msgid "Tux Droid graphical interface"
-#~ msgstr "Antaramuka bergrafik Tux Droid"
 
-#~ msgid "Tux Gadget Maker"
-#~ msgstr "Pembuat Gadjet Tux"
 
-#~ msgid "Tux Gadget Manager"
-#~ msgstr "Pengurus Gadjet Tux"
 
-#~ msgid "Tux Shell"
-#~ msgstr "Tux Shell"
+
+
+
+
+
+
+

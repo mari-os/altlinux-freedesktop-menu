@@ -12,10 +12,10 @@ msgstr ""
 "PO-Revision-Date: 1999-08-25 11:07+0200\n"
 "Last-Translator: Nobody\n"
 "Language-Team: ss\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -164,9 +164,8 @@ msgstr ""
 msgid "Chat"
 msgstr ""
 
-#, fuzzy
 msgid "Chemistry"
-msgstr "Umlandvo"
+msgstr ""
 
 msgid "Chemistry software"
 msgstr ""
@@ -462,9 +461,8 @@ msgstr "Tinhlobonhlobo-tetindzaba"
 msgid "Multimedia Recorders"
 msgstr "Tinhlobonhlobo-tetindzaba"
 
-#, fuzzy
 msgid "Music"
-msgstr "Ligundvwane"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -524,9 +522,8 @@ msgstr ""
 msgid "Performance"
 msgstr ""
 
-#, fuzzy
 msgid "Personal"
-msgstr "Sikhungo"
+msgstr ""
 
 msgid "Photography"
 msgstr ""
@@ -708,9 +705,8 @@ msgstr "Sihleli sembhalo"
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
-#, fuzzy
 msgid "Tools"
-msgstr "AquÃ­ podes modificar o aspecto de Kopete"
+msgstr ""
 
 msgid "Tools for web developers"
 msgstr ""
@@ -815,74 +811,27 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "Edutainment"
-#~ msgstr "Infundvo-tfokotisa"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Lokuhlangahlangene"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "X kwekusetjentiswa kweliwindi"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Kwekusetjentiswa-X"
 
-#~ msgid "Wine"
-#~ msgstr "Iwayini"
 
-#~ msgid "Advanced"
-#~ msgstr "Sembili"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Kuhleleka lokusembili"
 
-#~ msgid "Information"
-#~ msgstr "Imininingwane"
 
-#~ msgid "Peripherals"
-#~ msgstr "Ema-peripherals"
 
-#~ msgid "Control Center"
-#~ msgstr "Sikhungo sekulawula"
 
-#~ msgid "Appearance"
-#~ msgstr "Kuvela"
 
-#~ msgid "Help"
-#~ msgstr "Sita"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "Home"
-#~ msgstr "Ekhaya"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KGet"
-#~ msgstr "I-KGet"
 
-#~ msgid "Info Center"
-#~ msgstr "Sikhungo semniningwane"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Sihleli menyu"
 
-#~ msgid "Windows"
-#~ msgstr "Emawindi"
 
-#~ msgid "Keyboard"
-#~ msgstr "Libhodi letinkhinobho"
 
-#~ msgid "Page Layout"
-#~ msgstr "Kushicelela ku desktop"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "Kushicelela ku desktop"
+

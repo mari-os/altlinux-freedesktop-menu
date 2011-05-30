@@ -12,10 +12,10 @@ msgstr ""
 "PO-Revision-Date: 2005-01-28 00:06+0100\n"
 "Last-Translator: Alemayehu <alemayehu@gmx.at>\n"
 "Language-Team: Amharic <am-translate@geez.org>\n"
+"Language: am\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: am\n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -129,9 +129,8 @@ msgstr "ባዮሎጂ"
 msgid "Biology software"
 msgstr "ባዮሎጂ"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "ባዮሎጂ"
+msgstr ""
 
 #, fuzzy
 msgid "Board Games"
@@ -164,9 +163,8 @@ msgstr "ጨዋታዎች"
 msgid "Cards"
 msgstr "ካርዶች"
 
-#, fuzzy
 msgid "Chart"
-msgstr "ቻድ"
+msgstr ""
 
 #, fuzzy
 msgid "Chat"
@@ -277,9 +275,8 @@ msgstr "አርትኢዎች"
 msgid "Education"
 msgstr "ትምህርት"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "ደህንነት"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -462,9 +459,8 @@ msgstr ""
 msgid "Mixers"
 msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "FontForg"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "የመገናኛ ብዙሃን"
@@ -481,9 +477,8 @@ msgstr "የመገናኛ ብዙኃን አጫዋች"
 msgid "Multimedia Recorders"
 msgstr "የመገናኛ ብዙኃን አጫዋች"
 
-#, fuzzy
 msgid "Music"
-msgstr "መጠቆሚያ"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -539,13 +534,11 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "ምርጫዎች"
+msgstr ""
 
-#, fuzzy
 msgid "Personal"
-msgstr "ተርሚናል"
+msgstr ""
 
 msgid "Photography"
 msgstr ""
@@ -840,204 +833,71 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> ምን ማድረግ?"
 
-#~ msgid "Edutainment"
-#~ msgstr "ትምህርት"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "ሌሎች"
 
-#~ msgid "Shells"
-#~ msgstr "ሼሎች"
 
-#~ msgid "Servers"
-#~ msgstr "ሰርቨሮች"
 
-#~ msgid "Wine"
-#~ msgstr "ወይን"
 
-#~ msgid "Advanced"
-#~ msgstr "ጠለቅ"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "ጠለቅ ምርጫዎች"
 
-#~ msgid "Information"
-#~ msgstr "መረጃ"
 
-#~ msgid "Accessories"
-#~ msgstr "አጋዥ ፕሮግራሞች"
 
-#~ msgid "Networking"
-#~ msgstr "መረብ"
 
-#~ msgid "Peripherals"
-#~ msgstr "ዳርቻዎች"
 
-#~ msgid "Sound & Video"
-#~ msgstr "ድምጽ እና ቪዲዮ"
 
-#~ msgid "Puzzles"
-#~ msgstr "እንቆቅልሾች"
 
-#~ msgid "Appearance"
-#~ msgstr "አቀራረብ"
 
-#~ msgid "Panel"
-#~ msgstr "ፓነል"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Simple text editor"
-#~ msgstr "ቀላል የጽሑፍ ማረሚያ"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Text Editor"
-#~ msgstr "የጽሑፍ ማቀናጃ"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "ከኖም መረጃ አግኝ"
 
-#~ msgid "Help"
-#~ msgstr "መረጃ"
 
-#~ msgid "Document Viewer"
-#~ msgstr "የሰነድ ተመልካች"
 
-#~ msgid "Home Folder"
-#~ msgstr "የቤት ዶሴ"
 
-#~ msgid "Search"
-#~ msgstr "ፈልግ..."
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Home"
-#~ msgstr "መጀመሪያ"
 
-#~ msgid "Welcome"
-#~ msgstr "እንኳን ደህና መጡ"
 
-#~ msgid "Hex Editor"
-#~ msgstr "የHex ማቀናጃ"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "የፊደል ሠሌዳው አቋራጭ"
 
-#~ msgid "Windows"
-#~ msgstr "መስኮቶች"
 
-#~ msgid "Browse the Web"
-#~ msgstr "ዌብን ይቃኙ"
 
-#~ msgid "Keyboard"
-#~ msgstr "የፊደል ገበታ"
 
-#~ msgid "Mahjongg"
-#~ msgstr "ማህጆንግ"
 
-#~ msgid "Database"
-#~ msgstr "ዳታቤዝ"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "Edit text files"
-#~ msgstr "የጽሑፍ ፋይሎች ያስተካክሉ"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "View and organize your images"
-#~ msgstr "ምስሎችዎን ይመልከቱና ያዋቅሩ"
 
-#~ msgid "Window Manager"
-#~ msgstr "ማስኮት አስተዳዳሪ"
 
-#~ msgid "AbiWord"
-#~ msgstr "አቢወርድ"
 
-#~ msgid "Extra session preferences"
-#~ msgstr "የተጨማሪ ክፍለ ጊዜ ምርጫዎች"
 
-#~ msgid "Network Monitor"
-#~ msgstr "የመረብ መቆጣጠሪያ"
 
-#~ msgid "Abuse"
-#~ msgstr "አሰቃይ"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "FVWM የመስኮቶች መቆጣጠሪያ"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "3D የካርታ ተመልካች"
 
-#~ msgid "Internet telephone"
-#~ msgstr "የኢንተርኔት ስልክ"
 
-#~ msgid "Kodos"
-#~ msgstr "Kodos"
 
-#~ msgid "Panel Manager"
-#~ msgstr "ፓነል  አስተዳዳሪ"
 
-#~ msgid "Mousepad"
-#~ msgstr "የአይጥ-ስጋጃ"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Services"
-#~ msgstr "አገልግሎቶች"
 
-#~ msgid "Users and Groups"
-#~ msgstr "ተጠቃሚዎች እና መድረኮች"
 
-#~ msgid "Orage"
-#~ msgstr "ዖራጌ"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "የመስኮት አስተዳዳሪ ማሰማመር"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "ካለንደር ስየማዎች"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "የሸፍሲ 4 ካለንደር ስየማዎች"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "የሸፍሲ 4 ካለንደር ስየማዎች"
 
-#~ msgid "Print Manager"
-#~ msgstr "የህትመት አስተዳዳሪ"
 
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "ያሉትን ማተሚያዎች በማሳየት ለማስተዳደር ያስችልዎታል"
 
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "የሸፍሲ 4 የህትመት አስተዳዳሪ"
 
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr "የሸፍሲ ኅትመት ስርዓት የሚጠቀምበትን የጀርባ-ስርዓትለመምረጥ ያስችልዎታል"
 
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "የሸፍሲ 4 የኅትመት ስርዓት ስየማዎች"
 
-#~ msgid "Print Dialog"
-#~ msgstr "የኅትመት መጠይቅ"
 
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "ፋይልስ ለማተምና የገጽ አጣጣሉን ለመሰየም ያስችሎታል"
 
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "የሸፍሲ 4 የኅትመት መጠይቅ"
+
+

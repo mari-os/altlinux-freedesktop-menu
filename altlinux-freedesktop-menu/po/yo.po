@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2004-02-23  18:53+0100\n"
 "Last-Translator: Nobody\n"
 "Language-Team: Yoruba\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -408,7 +408,7 @@ msgstr "Àsopọ kòmpútà àgbáyé"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Ìlòsí ìdaríi kòmpútà"
+msgstr "Àwọn ìṣàmúlò-ètò gíráfíìsì"
 
 msgid "Java"
 msgstr ""
@@ -524,9 +524,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "Àwọn ìkúndùn"
+msgstr ""
 
 msgid "Personal"
 msgstr ""
@@ -603,9 +602,8 @@ msgstr ""
 msgid "Screensavers"
 msgstr ""
 
-#, fuzzy
 msgid "Security"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Security tools"
 msgstr ""
@@ -812,44 +810,16 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "Advanced"
-#~ msgstr "Ìlọsíwájú"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Àwọn ìkúndùn aládàáni"
 
-#~ msgid "Accessories"
-#~ msgstr "Àwọn àfikún"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Àwọn ààtò ìṣàkóso àti àwọn ìkúndùn aládàáni"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Ìró & Fídíò"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Àwọn àtòjọ-ètò fún ìráyè ítánẹ́ẹ̀tì bíi wẹ́ẹ̀bù àti lẹ́tà kọ̀ǹpútà"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Àwọn ìsàmúlò-ètò tí kò bá àwọn ọ̀wọ́ mìíràn mu"
 
-#~ msgid "Office Applications"
-#~ msgstr "Ìdaríi Kợmpútà fùn ợfiìsi"
 
-#~ msgid "Browse the web"
-#~ msgstr "Wáròyìn wẹ́ẹ̀bù náà"
 
-#~ msgid "Home Folder"
-#~ msgstr "Fódà Ilé"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Wáròyìn kí o sì ṣààtò àwọn àmì-ìwé rẹ"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Àwọn Àmì-ìwé Wẹ́ẹ̀bù Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Àwọn Àmì-ìwé Wẹ́ẹ̀bù"

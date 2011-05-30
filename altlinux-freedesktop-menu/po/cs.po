@@ -1,53 +1,68 @@
-# Menu section translation
-# Copyright (C) 2003
-# This file is distributed under the same license as the menu package.
-# Bill Allombert <ballombe@debian.org>, 2003.
-# Czech translation: Miroslav Kure, 2004--2007
+# Translation of cs.po to Czech
 #
+# Latest versions of po files are at http://www.mandrivalinux.com/l10n/cs.php3
+#
+# Collection of titles/sections of Mandriva Linux menu's.
+# It's generated from the /usr/lib/menu/* files.
+#
+# Copyright (C) 2000 Mandriva
+#
+# Vladimír Marek <vlmarek@volny.cz>, 2000.
+# Radek Vybiral <Radek.Vybiral@vsb.cz>, 2000.
+# Michal Bukovjan <bukm@centrum.cz>, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section\n"
+"Project-Id-Version: cs\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2007-10-14 21:27+0200\n"
-"Last-Translator: Miroslav Kure <kurem@debian.cz>\n"
-"Language-Team: Czech <debian-l10n-czech@lists.debian.org>\n"
+"PO-Revision-Date: 2010-05-13 22:08+0200\n"
+"Last-Translator: Michal Bukovjan <bukm@centrum.cz>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #, fuzzy
 msgid "2D Graphics"
 msgstr "Grafika"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "Aplikace pro graficku"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "Grafika"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "Aplikace pro graficku"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "Správa souborů"
+msgstr "Hry a zábava"
 
 msgid "Accessibility"
-msgstr "Přístupnost"
+msgstr "Zpřístupnění"
 
+#, fuzzy
 msgid "Action"
-msgstr "Akční"
+msgstr "Vzdělávání"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "Akční"
+msgstr "Taktická hra"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
 msgstr "Správa"
@@ -60,7 +75,7 @@ msgid "Adventure style games"
 msgstr "Dobrodružné"
 
 msgid "Amateur Radio"
-msgstr "Radioamatéři"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
@@ -84,20 +99,24 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arkády"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "Video hra"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Archivační nástroj"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr "Umělá inteligence"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "Umělá inteligence"
 
 msgid "Astronomy"
 msgstr "Astronomie"
@@ -109,14 +128,17 @@ msgstr "Astronomie"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "Zvukový přehrávač"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "Záznamník zvuků"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "Zálohy"
 
 msgid "Biology"
 msgstr "Biologie"
@@ -127,7 +149,7 @@ msgstr "Biologie"
 
 #, fuzzy
 msgid "Blogs"
-msgstr "Blokové"
+msgstr "Blogilo"
 
 msgid "Board Games"
 msgstr "Deskové hry"
@@ -143,10 +165,11 @@ msgstr "Kalkulačka"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "Emulátory"
+msgstr "Kalkulačka"
 
+#, fuzzy
 msgid "Calendar"
-msgstr ""
+msgstr "Blender"
 
 msgid "Camera tools, etc."
 msgstr ""
@@ -159,10 +182,11 @@ msgstr "Karty"
 
 #, fuzzy
 msgid "Chart"
-msgstr "Karetní"
+msgstr "KCharSelect"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "XChat IRC"
 
 msgid "Chemistry"
 msgstr "Chemie"
@@ -173,11 +197,11 @@ msgstr "Chemie"
 
 #, fuzzy
 msgid "Clock"
-msgstr "Blokové"
+msgstr "Xlock"
 
 #, fuzzy
 msgid "Communications"
-msgstr "Komunikace"
+msgstr "Aplikace"
 
 msgid "Compression"
 msgstr ""
@@ -185,22 +209,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Počítačové vědy"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "Počítačové vědy"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "Počítačové vědy"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "Zeměpis"
+msgstr "Počítačové vědy"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Nástroj pro nastavení ODBC (správce systému)"
 
 #, fuzzy
 msgid "Construction"
-msgstr "Komunikace"
+msgstr "Hra s vytvářením sítě"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -208,15 +235,16 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Vizualizace dat"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "Vizualizace dat"
 
 msgid "Databases"
 msgstr "Databáze"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "Aplikace"
+msgstr "Více aplikací"
 
 msgid "Desktop"
 msgstr "Pracovní plocha"
@@ -224,14 +252,16 @@ msgstr "Pracovní plocha"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "Udělátka pro pracovní plochu"
 
 msgid "Development"
 msgstr "Vývoj"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "Vývojové prostředí"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -239,14 +269,16 @@ msgstr ""
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "Slovník"
 
 msgid "Dictionary"
 msgstr "Slovník"
 
+#, fuzzy
 msgid "Disc burning"
-msgstr ""
+msgstr "Vypalování médií"
 
 msgid "Documentation"
 msgstr "Dokumentace"
@@ -261,26 +293,29 @@ msgid "Editors"
 msgstr "Editory"
 
 msgid "Education"
-msgstr "Vzdělání"
+msgstr "Vzdělávání"
 
 msgid "Electricity"
 msgstr "Elektro"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "Elektro"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "Elektronika"
+msgstr "Elektro"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Aplikace"
+msgstr "Aplikace pro graficku"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -289,39 +324,44 @@ msgid "Emulators"
 msgstr "Emulátory"
 
 msgid "Engineering"
-msgstr "Inženýrství"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "Blokové"
+msgstr "Hra s padajícími bloky"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "Hra s padajícími bloky"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "Správa souborů"
+msgstr "Správce souborů"
 
 msgid "File Systems"
 msgstr "Souborové systémy"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "Přenos souborů"
+msgstr "Správce souborů"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "Souborové systémy"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "Textové nástroje"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "Věda"
 
 msgid "Flow Chart"
 msgstr ""
@@ -329,11 +369,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Qt designer"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "Aplikace pro graficku"
 
 msgid "Games"
 msgstr "Hry"
@@ -354,12 +396,13 @@ msgstr "Biologie"
 msgid "Geology software"
 msgstr ""
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "Zeměpis"
+msgstr "Geovědy"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "Zeměpis"
+msgstr "Geovědy"
 
 msgid "Geosciences"
 msgstr "Geovědy"
@@ -376,33 +419,38 @@ msgstr "Hardware"
 msgid "History"
 msgstr "Historie"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "IRC klient"
 
 msgid "Image Processing"
 msgstr "Zpracování obrazu"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "Zpracování obrazu"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Komunikátor"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "Komunikátor"
 
 msgid "Internet"
 msgstr "Internet"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Aplikace"
+msgstr "Více aplikací"
 
 msgid "Java"
 msgstr ""
@@ -431,30 +479,35 @@ msgstr ""
 msgid "Mathematics"
 msgstr "Matematika"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "Prohlížení dostupného software"
 
 msgid "Medical software"
 msgstr ""
 
 #, fuzzy
 msgid "Mixers"
-msgstr "Prohlížeče"
+msgstr "HDSPMixer"
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "Sledování"
+msgstr "Monitory"
 
 msgid "Multimedia"
 msgstr "Multimédia"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "Nabídka multimédií"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "Přehrávač multimédií"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "Přehrávač multimédií"
 
 msgid "Music"
 msgstr ""
@@ -470,7 +523,7 @@ msgstr "Nastavení související se sítí"
 
 #, fuzzy
 msgid "News"
-msgstr "Zprávy z webu"
+msgstr "Pošta/Diskusní skupiny"
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -478,8 +531,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Numerická analýza"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "Numerická analýza"
 
 msgid "OCR"
 msgstr ""
@@ -498,14 +552,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "Programování"
+msgstr "Kreslící program"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "Správa balíků"
+msgstr "Aplikace pro správu tiskáren"
 
 msgid "Packaging"
 msgstr "Balíčkovač"
@@ -513,8 +567,9 @@ msgstr "Balíčkovač"
 msgid "Parallel Computing"
 msgstr "Paralelní zpracování dat"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "Paralelní zpracování dat"
 
 msgid "Performance"
 msgstr ""
@@ -522,8 +577,9 @@ msgstr ""
 msgid "Personal"
 msgstr "Osobní"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "Zeměpis"
 
 msgid "Physics"
 msgstr "Fyzika"
@@ -535,24 +591,27 @@ msgstr "Fyzika"
 msgid "Preferences"
 msgstr "Nastavení"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "Prezentace"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "Prezentace"
 
 msgid "Printing"
 msgstr "Tisk"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "Archivační nástroj"
 
 msgid "Project Management"
 msgstr "Správa projektů"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "Správa projektů"
+msgstr "Aplikace pro správu tiskáren"
 
 msgid "Publishing"
 msgstr ""
@@ -564,20 +623,24 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "Grafika"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "Aplikace pro graficku"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "Vzdálený grafický přístup"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "Ovládání hlasitosti"
 
 msgid "Robotics"
 msgstr "Robotika"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "Robotika"
 
 msgid "Role Playing"
 msgstr ""
@@ -587,7 +650,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Scanning"
-msgstr "Spoření"
+msgstr "XSane - Skenování"
 
 msgid "Science"
 msgstr "Věda"
@@ -602,43 +665,49 @@ msgstr "Bezpečnost"
 msgid "Security tools"
 msgstr "Bezpečnost"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "Věda"
 
 msgid "Settings"
 msgstr "Nastavení"
 
+#, fuzzy
 msgid "Simulation"
-msgstr "Simulátory"
+msgstr "Migrace"
 
 #, fuzzy
 msgid "Simulation Games"
-msgstr "Simulátory"
+msgstr "Plošinová hra"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "Prohlížeč aktualizací software"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "Správce zdrojů software"
 
+#, fuzzy
 msgid "Software to teach music"
-msgstr ""
+msgstr "Zdroje software"
 
 msgid "Sound"
-msgstr "Zvuky"
+msgstr "Zvuk"
 
 msgid "Sports"
 msgstr "Sporty"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "Sporty"
+msgstr "Deskové hry"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "Tabulkový kalkulátor"
 
 msgid "Strategy"
 msgstr "Strategie"
@@ -656,15 +725,16 @@ msgstr "Systémové nástroje"
 msgid "System settings"
 msgstr "Systémová nastavení"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "Televize a rádio"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "Televize a rádio"
+msgstr "Aplikace pro graficku"
 
 #, fuzzy
 msgid "TV applications"
@@ -676,8 +746,9 @@ msgstr "Výukové nástroje"
 msgid "Telephony"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "Textové nástroje"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -687,14 +758,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Emulátory terminálu"
+msgstr "Terminálové aplikace"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Emulátory terminálu"
+msgstr "Terminál"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "Textové nástroje"
 
 msgid "Text tools"
 msgstr "Textové nástroje"
@@ -705,8 +777,9 @@ msgstr ""
 msgid "Tools"
 msgstr "Nástroje"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "Nástroje pro vývoj software"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -714,11 +787,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "Vyberte své implicitní aplikace"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "Vyberte své implicitní aplikace"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -726,8 +801,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "Nastavit tiskárny"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -744,3855 +820,1272 @@ msgstr "Hračky"
 msgid "Translation"
 msgstr "Překlad"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "Překlad"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "Výuka psaní na stroji"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "Grafika"
+msgstr "editor vektorové grafiky"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "Aplikace pro graficku"
 
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "Nastavení"
 
+#, fuzzy
 msgid "Video Editing"
-msgstr ""
+msgstr "Video editor"
 
 #, fuzzy
 msgid "Video Players"
-msgstr "Prohlížeče"
+msgstr "Přehrávač videa"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "Záznamník zvuků"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "Prohlížeče"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "Prohlížení webu"
-
-msgid "Web Browsing"
-msgstr "Prohlížení webu"
-
-msgid "Web Development"
-msgstr "Vývoj webu"
+msgstr "Prohlížeč WWW"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "Prohlížení webu"
+msgid "Web Browsing"
+msgstr "Prohlížeč WWW"
 
-msgid "Wordprocessors"
+msgid "Web Development"
+msgstr "Webový vývoj"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Textový procesor"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "Poštovní klienti"
 
-#~ msgid "Data Management"
-#~ msgstr "Správa dat"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "Mobilní zařízení"
 
-#~ msgid "Medicine"
-#~ msgstr "Medicína"
 
-#~ msgid "Social"
-#~ msgstr "Společenské"
 
-#~ msgid "Shells"
-#~ msgstr "Shelly"
 
-#~ msgid "Language Environment"
-#~ msgstr "Jazykové prostředí"
 
-#~ msgid "Text"
-#~ msgstr "Text"
 
-#~ msgid "Puzzles"
-#~ msgstr "Hlavolamy"
 
-#~ msgid "Help"
-#~ msgstr "Nápověda"
 
-#~ msgid "Window Managers"
-#~ msgstr "Správci oken"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "FVWM moduly"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-# Non official sections from WindowMaker
-#~ msgid "Appearance"
-#~ msgstr "Vzhled"
 
-#~ msgid "WorkSpace"
-#~ msgstr "Pracovní plocha"
 
-# Fresuently used unofficial sections.
-# From Apps/Net/Mozilla Components
-#~ msgid "Iceape Components"
-#~ msgstr "Iceape - součásti"
 
-# From Games/Toys/Teddies
-#~ msgid "Teddies"
-#~ msgstr "Medvídci"
 
-#~ msgid "Apps"
-#~ msgstr "Aplikace"
 
-#~ msgid "Hamradio"
-#~ msgstr "Amatérské rádio"
 
-#~ msgid "Math"
-#~ msgstr "Matematika"
 
-#~ msgid "Technical"
-#~ msgstr "Technické"
 
-#~ msgid "Tetris-like"
-#~ msgstr "Tetrisové variace"
 
-#~ msgid "Root-window"
-#~ msgstr "Kořenové okno"
 
-#~ msgid "XShells"
-#~ msgstr "XShelly"
 
-# From Apps/System/Admin
-#~ msgid "Admin"
-#~ msgstr "Administrátor"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Všechny aplikace"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Co chcete dělat ?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Škola hrou"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Různé"
 
-#~ msgid "Utilities"
-#~ msgstr "Nástroje"
 
-#~ msgid "Advocacy"
-#~ msgstr "Poradenství"
 
-#~ msgid "Benchmarking"
-#~ msgstr "Výkonnostní měření"
 
-#~ msgid "Bootstrapping"
-#~ msgstr "Zavádění systému"
 
-#~ msgid "Network bootstrapping"
-#~ msgstr "Zavádění ze sítě"
 
-#~ msgid "Multiboot"
-#~ msgstr "Zavádění různých systémů"
 
-#~ msgid "Clustering and Parallel processing"
-#~ msgstr "Shlukování a paralelní zpracování"
 
-#~ msgid "Community and services"
-#~ msgstr "Komunita a služby"
 
-#~ msgid "CPU design"
-#~ msgstr "Návrh CPU"
 
-#~ msgid "Generic Linux Documentation"
-#~ msgstr "Obecná dokumentace k Linuxu"
 
-#~ msgid "Input hardware"
-#~ msgstr "Vstupní hardware"
 
-#~ msgid "Grahical hardware"
-#~ msgstr "Grafický hardware"
 
-#~ msgid "Kernel internals"
-#~ msgstr "Vnitřní záležitosti jádra"
 
-#~ msgid "Internationalization"
-#~ msgstr "Lokalizace"
 
-#~ msgid "Installation"
-#~ msgstr "Instalace"
 
-#~ msgid "Kiosk"
-#~ msgstr "Kiosk"
 
-#~ msgid "Laptops and PDA"
-#~ msgstr "Přenosné počítače a PDA"
 
-#~ msgid "Power saving"
-#~ msgstr "Šetření energie"
 
-#~ msgid "Linux on specific architectures"
-#~ msgstr "Linux na specifických architekturách"
 
-#~ msgid "Network connection"
-#~ msgstr "Síťové připojení"
 
-#~ msgid "Network concepts"
-#~ msgstr "Síťové základy"
 
-#~ msgid "VPN"
-#~ msgstr "VPN"
 
-#~ msgid "Network configuration"
-#~ msgstr "Nastavení sítě"
 
-#~ msgid "Network clients"
-#~ msgstr "Síťoví klienti"
 
-#~ msgid "Network servers"
-#~ msgstr "Síťové servery"
 
-#~ msgid "OSes cohabitation"
-#~ msgstr "Soužití různých OS"
 
-#~ msgid "Programming"
-#~ msgstr "Programování"
 
-#~ msgid "Servers"
-#~ msgstr "Servery"
 
-#~ msgid "Storage"
-#~ msgstr "Úložná zařízení"
 
-#~ msgid "X Window"
-#~ msgstr "X Window"
 
-#~ msgid "Other howtos"
-#~ msgstr "Ostatní návody"
 
-#~ msgid "Buy it"
-#~ msgstr "Koupit"
 
-#~ msgid "Subscribe"
-#~ msgstr "Připojit se ke klubu"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "Nastavit váš počítač"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Nástroje X Window"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Nástroje X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Pokročilé"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Pokročilé nastavení"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Ztráty a nálezy"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Taktické a strategické"
 
-#~ msgid "Information"
-#~ msgstr "Informace"
 
-#~ msgid "More"
-#~ msgstr "Více"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Osobní nastavení"
 
-#~ msgid "Accessories"
-#~ msgstr "Příslušenství"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Příslušenství prostředí pracovní plochy"
 
-#~ msgid "Networking"
-#~ msgstr "Sítě"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "Věda a matematika"
 
-#~ msgid "GGZ Gaming Zone"
-#~ msgstr "Herní zóna GGZ"
 
-#~ msgid "Peripherals"
-#~ msgstr "Periférie"
 
-#~ msgid "Look and Feel"
-#~ msgstr "Vzhled a chování"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "Nastavení ovládající vzhled a chování pracovního prostředí"
 
-#~ msgid "File"
-#~ msgstr "Soubor"
 
-#~ msgid "Personal settings"
-#~ msgstr "Osobní nastavení"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "Motivy šetřiče obrazovky"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Nastavení a sledování systému"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Nastavení různých hardwarových zařízení"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Nabídka KDE"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Osobní nastavení a nastavení správy"
 
-#~ msgid "Universal Access"
-#~ msgstr "Univerzální přístup"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Nastavení univerzálního přístupu"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "Změna nastavení systému (ovlivní všechny uživatele)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Zvuk a video"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet a síť"
 
-#~ msgid "Control Center"
-#~ msgstr "Ovládací centrum"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Hry podobné Rogue"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Programy pro přístup k Internetu, například WWW a e-mail"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Aplikace které nepatří do jiných kategorií"
 
-#~ msgid "Office Applications"
-#~ msgstr "Kancelářské aplikace"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "Prosím nemazat ani neměnit"
 
-#~ msgid "CRXvt (Big5)  "
-#~ msgstr "CRXvt (Big5)"
 
-#~ msgid "Traditional Chinese rxvt terminal  "
-#~ msgstr "rxvt terminál s podporou tradiční čínštiny"
 
-#~ msgid "Manage OpenJDK policy files"
-#~ msgstr "Správa souborů s politikami OpenJDK"
 
-#~ msgid "OpenJDK Policy Tool"
-#~ msgstr "Nástroj pro politiky OpenJDK"
 
-#~ msgid "A SANE-based frontend for webcams"
-#~ msgstr ""
-#~ "Na skenovacím systému SANE založené grafické rozhraní pro webové kamery"
 
-#~ msgid "XCam"
-#~ msgstr "XCam"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Mandriva Linux Update"
 
-#~ msgid "Freeciv"
-#~ msgstr "Freeciv"
 
-#~ msgid ""
-#~ "Turn-based strategy game inspired by the history of human civilization"
-#~ msgstr "Tahová strategická hra inspirovaná historií lidské civilizace"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "Překonejte své šance ve hře v kostky podobné pokeru"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "Povolit nebo zakázat zdroje software"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid "Record and edit audio files"
-#~ msgstr "Záznam a úpravy zvukových souborů"
 
-#~ msgid "Sound Editor"
-#~ msgstr "Editor zvuku"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu ve "
-#~ "francouzštině"
 
-#~ msgid "Howto French"
-#~ msgstr "Francouzská Howto"
 
-#~ msgid "MIDI file player"
-#~ msgstr "Přehrávač hudebních souborů MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "PowerManga"
-#~ msgstr "PowerManga"
 
-#~ msgid "Shoot 'em up game with 3D graphics"
-#~ msgstr "3d střílečka"
 
-#~ msgid "Extreme Tux Racer"
-#~ msgstr "Extreme Tux Racer"
 
-#~ msgid "OpenGL racing game featuring Tux"
-#~ msgstr "Závodní hra pro OpenGL s Tuxem"
 
-#~ msgid "Edit DV video"
-#~ msgstr "Nástroj pro úpravy DV videa"
 
-#~ msgid "Kino"
-#~ msgstr "Kino"
 
-#~ msgid "A graphical traceroute"
-#~ msgstr "Grafické sledování směrování na síti"
 
-#~ msgid "xtraceroute"
-#~ msgstr "xtraceroute"
 
-#~ msgid "Five or More"
-#~ msgstr "Pět nebo víc"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "Odstraňovat barevné koule z hrací desky tvořením úseček"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Minové pole"
 
-#~ msgid "A simple frontend for the SANE scanning system"
-#~ msgstr "Jednoduché grafické rozhraní pro skenovací systém SANE"
 
-#~ msgid "XScanImage"
-#~ msgstr "XScanImage"
 
-#~ msgid "C++ IDE for developing Qt applications"
-#~ msgstr "IDE C++ pro vývoj aplikací pro Qt"
 
-#~ msgid "Qt Creator"
-#~ msgstr "Qt Creator"
 
-#~ msgid "Screem HTML/XML Editor"
-#~ msgstr "Editor HTML/XML Screem"
 
-#~ msgid "Website editor and management system"
-#~ msgstr "Editor a systém pro správu webových stránek"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "Prohlížeč dokumentace"
 
-#~ msgid "Mono Documentation"
-#~ msgstr "Dokumentace Mono"
 
-#~ msgid "View, search and edit documentation related to Mono"
-#~ msgstr "Prohlížení, prohledávání a úprava dokumentace spojené s Mono"
 
-#~ msgid "System Monitor"
-#~ msgstr "Sledování systému"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Zobrazit aktuální procesy a sledovat stav systému"
 
-#~ msgid "Reboot"
-#~ msgstr "Restart"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Prohlížeč obrázků"
 
-#~ msgid "View and manage images"
-#~ msgstr "Prohlížení a uspořádání obrázků"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Monitorovací aplikace napsaná v GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Media Player"
-#~ msgstr "Přehrávač médií"
 
-#~ msgid "Play and organize your media collection"
-#~ msgstr "Přehrávání a organizace vaší mediální sbírky"
 
-#~ msgid "Lets you watch TV in a window"
-#~ msgstr "Sledujte TV v okně"
 
-#~ msgid "Zapping TV Viewer"
-#~ msgstr "Prohlížeč televize Zapping"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Viewer"
-#~ msgstr "Zobrazení kazet Lexmark 5xxx, 7xxx a 11xx"
 
-#~ msgid "Lexmark showcartridges"
-#~ msgstr "Zobrazení kazet Lexmark"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner"
-#~ msgstr "Zarovnání hlav pro Lexmark 5xxx, 7xxx a 11xx"
 
-#~ msgid "Lexmark headalign"
-#~ msgstr "Zarovnání hlav Lexmark"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "IM Client"
-#~ msgstr "Klient IM"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "Konfigurace omezení práv"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "Editor pro omezení práv uživatele"
 
-#~ msgid "A 3D table tennis game"
-#~ msgstr "3D stolní tenis"
 
-#~ msgid "CannonSmash"
-#~ msgstr "CannonSmash"
 
-#~ msgid "About Me"
-#~ msgstr "O mně"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Nastavte své osobní informace"
 
-#~ msgid "Action-puzzle game involving bouncing penguins"
-#~ msgstr "Akčně-logická hra se skákajícími tučňáky"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner"
-#~ msgstr "Čištění hlav Lexmark 5xxx, 7xxx a 11xx"
 
-#~ msgid "Lexmark headclean"
-#~ msgstr "Čištění hlav Lexmark"
 
-#~ msgid "CMake"
-#~ msgstr "CMake"
 
-#~ msgid "Cross-platform buildsystem"
-#~ msgstr "Meziplatformní sestavovací systém"
 
-#~ msgid "Access EXIF information from pictures"
-#~ msgstr "Přístup k informacím v obrázcích ve formátu EXIF"
 
-#~ msgid "Gexif"
-#~ msgstr "Gexif"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "Vytvořit a kopírovat CD a DVD"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Změna aplikací dostupných přes hlavní menu"
 
-#~ msgid "Main Menu"
-#~ msgstr "Hlavní menu"
 
-#~ msgid "Google Gadgets (Qt)"
-#~ msgstr "Google Gadgets (Qt)"
 
-#~ msgid "Run Google Gadgets in KDE/Qt environment"
-#~ msgstr "Spouští Google Gadgets v prostředí KDE/Qt"
 
-#~ msgid "Graphical interface to diff"
-#~ msgstr "Grafická nadstavba pro diff"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Prohlížet WWW"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Alignment, ink level, cartridge maintenance"
-#~ msgstr "Seřízení hlav, stav inkoustů a provádění údržby"
 
-#~ msgid "Epson Inkjet Printer Manager"
-#~ msgstr "Správce tiskáren Epson Inkjet"
 
-#~ msgid "Character Map"
-#~ msgstr "Mapa znaků"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Vložit speciální znaky do dokumentů"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in Brazilian Portuguese"
-#~ msgstr ""
-#~ "Uživatelský manuál pro DrakXTools k Mandriva Linuxu v brazilské "
-#~ "portugalštině"
 
-#~ msgid "The Mandriva Linux manuals in Brazilian Portuguese"
-#~ msgstr "Dokumentace k Mandriva Linuxu v brazilské portugalštině"
 
-#~ msgid "Python complete reference"
-#~ msgstr "Kompletní příručka k jazyku Python"
 
-#~ msgid "Python documentation"
-#~ msgstr "Python dokumentace"
 
-#~ msgid "X11 screen saver"
-#~ msgstr "Šetřič obrazovky X11"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "Správce nastavení CompizConfig"
 
-#~ msgid "Configure Compiz with CompizConfig"
-#~ msgstr "Nastavení prostředí Compiz pomocí CompizConfig"
 
-#~ msgid "Authorizations"
-#~ msgstr "Oprávnění"
 
-#~ msgid "Configure authorizations"
-#~ msgstr "Nastavení oprávnění"
 
-#~ msgid "NetApplet"
-#~ msgstr "NetApplet"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "Aplet pro sledování sítě"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Nastavení Samby (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Nástroj pro administrátory SWAT pro Sambu"
 
-#~ msgid "Screenshot grabber"
-#~ msgstr "Snímač oken"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "A program for watching TV (nicer interface)"
-#~ msgstr "Program pro sledování televize (hezčí uživatelské rozhraní)"
 
-#~ msgid "Create service packs for sharing with other computers"
-#~ msgstr "Vytvářet opravné balíky pro sdílení s ostatními počítači"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "Tvůrce opravných balíků"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "Karetní hra Solitaire"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "Create Web Pages"
-#~ msgstr "Vytvářejte webové stránky"
 
-#~ msgid "KompoZer"
-#~ msgstr "KompoZer"
 
-#~ msgid "Web Authoring System"
-#~ msgstr "Systém pro tvorbu webových stránek"
 
-#~ msgid "Mandriva Linux Starter Guide in French"
-#~ msgstr "Úvod pro začátečníky k Mandriva Linuxu ve francouzštině"
 
-#~ msgid "The Mandriva Linux manuals in French"
-#~ msgstr "Dokumentace k Mandriva Linuxu ve francouzštině"
 
-#~ msgid "Chainsaw"
-#~ msgstr "Chainsaw"
 
-#~ msgid "Log4j log viewer"
-#~ msgstr "Prohlížeč záznamů Log4j"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "Grafické rozhraní pro šachy"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "Vlastní nastavení vzhledu pracovní plochy"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "Kontrolovat slova a pravopis v on-line slovníku"
 
-#~ msgid "Google Gadgets (GTK)"
-#~ msgstr "Google Gadgets (GTK)"
 
-#~ msgid "Run Google Gadgets in GNOME/GTK environment"
-#~ msgstr "Spouští Google Gadgets v prostředí GNOME/GTK"
 
-#~ msgid "Browse the file system and manage the files"
-#~ msgstr "Procházet systém souborů správcem souborů"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr ""
-#~ "Vyhledání dokumentů a adresářů na tomto počítači podle názvu nebo obsahu"
 
-#~ msgid "Search for Files..."
-#~ msgstr "Hledat soubory..."
 
-#~ msgid "Avahi VNC Server Browser"
-#~ msgstr "Prohližeč serverů VNC Avahi"
 
-#~ msgid "Browse for Zeroconf-enabled VNC Servers"
-#~ msgstr "Probírání VNC serverů přístupných přes Zeroconf"
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Spouštění jiných aplikací a různé nástroje pro správu oken, zobrazení "
-#~ "času apod."
 
-#~ msgid "Panel"
-#~ msgstr "Panel"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "Navigační aplikace a psaní využívají alternativní vstupní zařízení"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Klávesnice na obrazovce"
 
-#~ msgid "Browse your database's contents"
-#~ msgstr "Prohlížejte obsah vaší databáze"
 
-#~ msgid "Database browser"
-#~ msgstr "Prohlížeč databáze"
 
-#~ msgid "Lookup words"
-#~ msgstr "Slovník s pokročilými funkcemi"
 
-#~ msgid "StarDict"
-#~ msgstr "StarDict"
 
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "Rozhraní pro rp-pppoe"
 
-#~ msgid "TkPPPoE"
-#~ msgstr "TkPPPoE"
 
-#~ msgid "GnuCash Finance Management"
-#~ msgstr "Správa financí GnuCash"
 
-#~ msgid "Manage your finances, accounts, and investments"
-#~ msgstr "Správa vašich financí, účtů a investic"
 
-#~ msgid "Download and upload files via FTP, FTPS and SFTP"
-#~ msgstr "Stahování a nahrávání souborů pomocí protokolů FTP, FTPS a SFTP"
 
-#~ msgid "FTP client"
-#~ msgstr "FTP klient"
 
-#~ msgid "FileZilla"
-#~ msgstr "FileZilla"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "Extraktor zvukových CD"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "Kopírování hudby z vašich CD"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "Tvůrce CD/DVD"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "Vytvořit CD a DVD"
 
-#~ msgid "Device Manager"
-#~ msgstr "Správce zařízení"
 
-#~ msgid "Manage devices"
-#~ msgstr "Správa zařízení"
 
-#~ msgid "Import the photos on your camera card"
-#~ msgstr "Import fotografií z karty vašeho fotoaparátu"
 
-#~ msgid "Photo Import Tool"
-#~ msgstr "Nástroj pro import fotografií"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "Preferované aplikace"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "Hlavolam řešený posunováním bloků"
 
-#~ msgid "Blender (DRI disabled)"
-#~ msgstr "Blender (bez DRI)"
 
-#~ msgid "The free open source 3D content creation suite (with DRI disabled)"
-#~ msgstr ""
-#~ "Svobodná a otevřená sada nástrojů pro tvorbu 3D obsahu (s vypnutým DRI)"
 
-#~ msgid "3D Chess Game"
-#~ msgstr "3D hra šachy"
 
-#~ msgid "Chess"
-#~ msgstr "Šachy"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "Hrát klasickou šachovou hru pro dva hráče"
 
-#~ msgid "Manage your PulseAudio sound server."
-#~ msgstr "Správa vašeho zvukového serveru PulseAudio"
 
-#~ msgid "PulseAudio Manager"
-#~ msgstr "Správce PulseAudio"
 
-#~ msgid "Leafpad"
-#~ msgstr "Leafpad"
 
-#~ msgid "Simple text editor"
-#~ msgstr "Jednoduchý textový editor"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Procházet založená a místní síťová umístění"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "Vytvářet a upravovat profily uživatelů"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "Editor profilů uživatele"
 
-#~ msgid "Chat with other people using Internet Relay Chat"
-#~ msgstr "Povídání si s dalšími lidmi pomocí protokolu Internet Relay Chat"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "Prohlížeč fotografií"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Nastavení voleb pro Bluetooth"
 
-#~ msgid "GUI Python Shell"
-#~ msgstr "Grafický shell pro Python"
 
-#~ msgid "PyShell"
-#~ msgstr "PyShell"
 
-#~ msgid "Edit text"
-#~ msgstr "Úprava textu"
 
-#~ msgid "Emacs"
-#~ msgstr "Editor Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Textový editor"
 
-#~ msgid "Manage Messaging and VoIP accounts"
-#~ msgstr "Spravovat účty IM a VoIP"
 
-#~ msgid "Messaging and VoIP Accounts"
-#~ msgstr "Účty IM a VoIP"
 
-#~ msgid "Disk Utility"
-#~ msgstr "Diskový nástroj"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "Správa disků a médií"
 
-#~ msgid "Office Suite"
-#~ msgstr "Kancelář"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
 
-#~ msgid "Configure login screen behavior"
-#~ msgstr "Nastavuje chování přihlašovací obrazovky"
 
-#~ msgid "Login Screen"
-#~ msgstr "Přihlašovací obrazovka"
 
-#~ msgid "Capture Volume Meter"
-#~ msgstr "Měřič hlasitosti vstupu"
 
-#~ msgid "Monitor the input volume"
-#~ msgstr "Sledování hlasitosti vstupu"
 
-#~ msgid "PulseAudio Volume Meter (Capture)"
-#~ msgstr "Měřič hlasitosti PulseAudio (vstup)"
 
-#~ msgid "GBRXvt (GB2312)  "
-#~ msgstr "GBRXvt (GB2312)"
 
-#~ msgid "Simplified Chinese rxvt terminal  "
-#~ msgstr "rxvt terminál s podporou jednoduché čínštiny"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Procházení a otáčení obrázků"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "Instalátor katalogů"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "Instalovat katalog software na tento systém"
 
-#~ msgid "Monitor the output volume"
-#~ msgstr "Sledování hlasitosti výstupu"
 
-#~ msgid "Playback Volume Meter"
-#~ msgstr "Měřič hlasitosti přehrávání"
 
-#~ msgid "PulseAudio Volume Meter (Playback)"
-#~ msgstr "Měřič hlasitosti PulseAudio (přehrávání)"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "Změnit rozlišení a polohu monitorů"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Provádějte výpočty, analyzujte informace a ovládejte seznamy v sešitech "
-#~ "pomocí Calcu."
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "Ovládací nástroj pro zvukové karty Echoaudio"
 
-#~ msgid "Echo mixer"
-#~ msgstr "Echo mixer"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "Uložit obrázky konkrétního okna nebo pracovní plochy"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "Sejmout snímek obrazovky"
 
-#~ msgid "Phone Manager"
-#~ msgstr "Správce telefonu"
 
-#~ msgid "Receive and send text messages from your mobile phone"
-#~ msgstr "Přijímat a odesílat zprávy z vašeho mobilního telefonu"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "Program nápovědy pro vývojáře"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu ve "
-#~ "holandštině"
 
-#~ msgid "Howto Dutch"
-#~ msgstr "Holandská Howto"
 
-#~ msgid "Eclipse"
-#~ msgstr "Eclipse"
 
-#~ msgid "Eclipse Integrated Development Environment"
-#~ msgstr "Integrované vývojové prostředí Eclipse"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Procházet systém souborů správcem souborů"
 
-#~ msgid "File Browser"
-#~ msgstr "Prohlížeč souborů"
 
-#~ msgid "ODBConfig (Root User)"
-#~ msgstr "ODBConfig (správce systému)"
 
-#~ msgid "Mandriva Linux Starter Guide in English"
-#~ msgstr "Úvod pro začátečníky k Mandriva Linuxu v angličtině"
 
-#~ msgid "The Mandriva Linux manuals in English"
-#~ msgstr "Dokumentace k Mandriva Linuxu v angličtině"
 
-#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
-#~ msgstr ""
-#~ "Vyčisti obrazovku pomocí odstraňování skupin kamenů různých barev a tvarů"
 
-#~ msgid "Swell Foop"
-#~ msgstr "Swell Foop"
 
-#~ msgid "IDE for Python"
-#~ msgstr "Vývojové prostředí pro Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "Upozornění při příchodu pošty"
 
-#~ msgid "Add and organize the OpenOffice.org extensions."
-#~ msgstr "Přidání a správa rozšíření pro OpenOffice.org"
 
-#~ msgid "Extension Manager"
-#~ msgstr "Správce rozšíření"
 
-#~ msgid "OpenOffice.org Extension Manager"
-#~ msgstr "Správce rozšíření OpenOffice.org"
 
-#~ msgid "Configurator"
-#~ msgstr "Nastavení"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "Editor diagramů Dia"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "Upravte vaše diagramy"
 
-#~ msgid "Monitor and manage OpenJDK applications"
-#~ msgstr "Sledování a správa aplikací OpenJDK"
 
-#~ msgid "OpenJDK Monitoring & Management Console"
-#~ msgstr "Konzole pro sledování a správu OpenJDK"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "Instalace balíčků s tématy pro různé části pracovní plochy"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Instalace témat"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "Ovládací panel pro RME Hammerfall"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME Digicontrol"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Získat nápovědu o GNOME"
 
-#~ msgid "A melting digital clock"
-#~ msgstr "Tající digitální hodiny"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Technologie usnadnění"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr ""
-#~ "Vyberte vlastnosti zpřístupnění, které mají být zapnuty po přihlášení"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "Kontrola velikosti adresářů a dostupného diskového prostoru"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "Analyzátor využití disku"
 
-#~ msgid "Full virtualizer for x86 hardware"
-#~ msgstr "Plná virtualizace x86 hardware"
 
-#~ msgid "VirtualBox OSE"
-#~ msgstr "VirtualBox OSE"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr ""
-#~ "Tvorba nebo otevření návrhů uživatelského rozhraní pro aplikace v GTK+"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "Organizovat, prohlížet a sdílet vaše fotografie"
 
-#~ msgid "Photo Manager"
-#~ msgstr "Správce fotografií"
 
-#~ msgid "Graphical user interface for managing log4j log messages"
-#~ msgstr "Grafické uživatelské rozhraní pro správu zpráv záznamů log4j"
 
-#~ msgid "LogFactor5"
-#~ msgstr "LogFactor5"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "Nástroj pro nastavení klienta a serveru pro faxování"
 
-#~ msgid "Fax configuration"
-#~ msgstr "Nastavení faxu"
 
-#~ msgid "Movie Player"
-#~ msgstr "Přehrávač filmů"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Přehrávání filmů a písniček"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Prohlížeč dokumentů"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "Zobrazovat dokumenty po více stránkách"
 
-#~ msgid "Home Folder"
-#~ msgstr "Domovská složka"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Otevřít osobní složku"
 
-#~ msgid "Frontend for Nvidia TV output"
-#~ msgstr "Uživatelské rozhraní pro TV výstup Nvidia"
 
-#~ msgid "Nvidia TV Output"
-#~ msgstr "Nvidia TV výstup"
 
-#~ msgid "Fit falling blocks together"
-#~ msgstr "Skládat padací bloky dohromady"
 
-#~ msgid "Quadrapassel"
-#~ msgstr "Quadrapassel"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "Hlavolam řešený srovnáváním očíslovaných dlaždic"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Software Log Viewer"
-#~ msgstr "Prohlížeč záznamů softwaru"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "Zobrazit poslední úkoly správy balíků"
 
-#~ msgid "Clone of Sega's \"Chu Chu Rocket\", a multi-player puzzle game"
-#~ msgstr "Klon hlavolamu pro více hráčů Chu Chu Rocket pro Segu"
 
-#~ msgid "A graphical designer/dialog builder for Qt4"
-#~ msgstr "Grafický návrhář dialogů pro Qt4"
 
-#~ msgid "Qt4 Designer"
-#~ msgstr "Qt4 designer"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "Nastavit implicitní hodnoty pro aplikace GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Výběr systému multimédií"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "Nastavit zařízení PalmOS"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "Zařízení PalmOS"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "Přístup na vzdálené plochy"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "Prohlížeč vzdálené plochy"
 
-#~ msgid "HDSPMixer"
-#~ msgstr "HDSPMixer"
 
-#~ msgid "Hammerfall DSP matrix mixer control GUI"
-#~ msgstr "Uživatelské rozhraní pro ovládání maticového mixéru Hammerfall DSP"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "Nastavení auditu"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "Úprava nastavení auditu"
 
-#~ msgid "Bluefish Editor"
-#~ msgstr "Editor Bluefish"
 
-#~ msgid "Web Development Editor"
-#~ msgstr "Vývojové prostředí pro Web"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr"
-#~ msgstr "Gtk-ocr"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Grafické rozhraní pro gocr v GTK"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "Unikat robotům a nechat je navzájem do sebe narážet"
 
-#~ msgid "Robots"
-#~ msgstr "Roboti"
 
-#~ msgid "Search"
-#~ msgstr "Vyhledávání"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "Vyhledávání dat ve vašem počítači"
 
-#~ msgid "xine"
-#~ msgstr "xine"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu ve "
-#~ "španělštině"
 
-#~ msgid "Howto Spanish"
-#~ msgstr "Španělská Howto"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "Full-featured POP/IMAP mail retrieval daemon"
-#~ msgstr "Plně vybavený děmon pro získávání pošty POP/IMAP"
 
-#~ msgid "Crack Attack!"
-#~ msgstr "Crack Attack!"
 
-#~ msgid "A free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "Volně šiřitelný (GPL) klon hry Bomberman pro více hráčů"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "GGZ Core Client"
-#~ msgstr "GGZ základní klient"
 
-#~ msgid "Gtk+ internet gaming center"
-#~ msgstr "Internetové herní centrum v GTK+"
 
-#~ msgid "ggz-gtk"
-#~ msgstr "ggz-gtk"
 
-#~ msgid "A language for statistical computing"
-#~ msgstr "Jazyk pro statistické výpočty"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "Ia Ora Free"
-#~ msgstr "Ia Ora Volné"
 
-#~ msgid "Mandriva Screensaver"
-#~ msgstr "Šetřič obrazovky Mandriva"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "Pop-artová mřížka pulzujících barev."
 
-#~ msgid "Pop art squares"
-#~ msgstr "Pop-artové čtverce"
 
-#~ msgid "Ia Ora Blue"
-#~ msgstr "Ia Ora Modré"
 
-#~ msgid "Ia Ora"
-#~ msgstr "Ia Ora"
 
-#~ msgid "Ia Ora Gray"
-#~ msgstr "Ia Ora Šedé"
 
-#~ msgid "Ia Ora One"
-#~ msgstr "Ia Ora One"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "Promítat snímky z F-Spotu"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "Fotografie F-Spotu"
 
-#~ msgid "Ia Ora Orange"
-#~ msgstr "Ia Ora Oranžové"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "Zobrazovat obrázky z vaší složky obrázků"
 
-#~ msgid "Pictures folder"
-#~ msgstr "Složka obrázků"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "Zobrazí bubliny s logem 'GNOME·foot'"
 
-#~ msgid "Floating Feet"
-#~ msgstr "Plovoucí chodidla"
 
-#~ msgid "Cosmos"
-#~ msgstr "Kosmos"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "Zobrazovat obrázky kosmu"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Procházení všech místních a vzdálených disků a složek dostupných z tohoto "
-#~ "počítače"
 
-#~ msgid "Computer"
-#~ msgstr "Počítač"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in English"
-#~ msgstr "Rychlý úvod k Mandriva Linuxu v angličtině"
 
-#~ msgid "A graphical front end for browsing installed & available packages"
-#~ msgstr "Grafický nástroj pro prohlížení instalovaných a dostupných balíčků"
 
-#~ msgid "Convert HTML files to PDF or PostScript"
-#~ msgstr "Převod souborů ve formátu HTML na formát PDF nebo PostScript"
 
-#~ msgid "HTMLDoc"
-#~ msgstr "HTMLDoc"
 
-#~ msgid "Bittorrent Checker"
-#~ msgstr "Kontrola BitTorrent"
 
-#~ msgid "Mandriva Linux Bittorrent checker"
-#~ msgstr "Kontrola BitTorrent distribuce Mandriva Linux"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "TeX document processor - especially good at scientific documents"
-#~ msgstr "Textový procesor TeX - zvlášť vhodný pro vědecké dokumenty"
 
-#~ msgid "Interactive C# Shell"
-#~ msgstr "Interaktivní shell C#"
 
-#~ msgid ""
-#~ "Write C# in an interactive shell, and inject your code into running Mono "
-#~ "processes"
-#~ msgstr ""
-#~ "Psaní C# v interaktivním shellu a vkládání vašeho kódu do běžících Mono "
-#~ "procesů"
 
-#~ msgid "gsharp"
-#~ msgstr "gsharp"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Zobrazí zeměkouli na pracovní ploše"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Procházet a organizovat vaše záložky"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Záložky WWW Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Záložky WWW"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v rumunštině"
 
-#~ msgid "Howto Slovenian"
-#~ msgstr "Slovinská Howto"
 
-#~ msgid "An SSL web-based administration interface for Unix systems"
-#~ msgstr ""
-#~ "Rozhraní pro správu systémů Unix založené na webovém přístupu přes SSL"
 
-#~ msgid "webmin"
-#~ msgstr "webmin"
 
-#~ msgid "Menu Style Configuration"
-#~ msgstr "Nastavení stylu menu"
 
-#~ msgid "Play a classic 2D platform game"
-#~ msgstr "Plošinovka inspirovaná SuperMariem s tučňákem Tuxem v hlavní roli"
 
-#~ msgid "SuperTux 2"
-#~ msgstr "SuperTux 2"
 
-#~ msgid "GUI Python Shell with Filling"
-#~ msgstr "Grafický shell pro Python s doplňováním"
 
-#~ msgid "PyCrust"
-#~ msgstr "PyCrust"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "Akční hra s řešením hádanek"
 
-#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
-#~ msgstr "Hledání zlata, odolávání nepřátelům a řešení hádanek"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Nástroj pro aktualizaci nabídky"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "KDiamond"
-#~ msgstr "KDiamond"
 
-#~ msgid "Three-in-a-row game"
-#~ msgstr "Desková hra \"tři v řadě\""
 
-#~ msgid "KSnake"
-#~ msgstr "KSnake"
 
-#~ msgid "Snake-like Game"
-#~ msgstr "Hra typu Hadi"
 
-#~ msgid "Disk writing program"
-#~ msgstr "Program pro vypalování"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Výběr barev"
 
-#~ msgid "KColorChooser"
-#~ msgstr "Výběr barev"
 
-#~ msgid "A KDE Blogging Client"
-#~ msgstr "Klient pro blogování v KDE"
 
-#~ msgid "Blogilo"
-#~ msgstr "Blogilo"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "Periodická tabulka prvků pro KDE"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "Periodická tabulka"
 
-#~ msgid "Hangman Game"
-#~ msgstr "Hra Hangman"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "Hra 'oběšenec' pro KDE"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Contact Manager"
-#~ msgstr "Správce kontaktů"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "KPhotoAlbum"
 
-#~ msgid "Photo Album"
-#~ msgstr "Fotoalbum"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "Jednoduchý prohlížeč obrázků"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Kiriki"
-#~ msgstr "Kiriki"
 
-#~ msgid "Yahtzee-like Dice Game"
-#~ msgstr "Hra s kostkami podobná Yahtzee"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Správce uživatelů"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Territory Capture Game"
-#~ msgstr "Hra o zabírání území"
 
-#~ msgid "Galactic Strategy Game"
-#~ msgstr "Strategická galaktická hra"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "Výukový program na procvičení slovní zásoby"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "Procvičování slovní zásoby"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Kontact Administration"
-#~ msgstr "Správa Kontactu"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - objevte svou hudbu!"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "Rozhraní pro CVS"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "Obrazovkové pravítko"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Snímač obrazovky"
 
-#~ msgid "Character Selector"
-#~ msgstr "Vyběr znaků"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "Výuka abecedy"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "KDE program pro výuku abecedy"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "Prohližeč SMB/CIFS sdílení"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Kalendářový a plánovací program"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "Osobní organizér"
 
-#~ msgid "Home"
-#~ msgstr "Můj adresář"
 
-#~ msgid "Personal Files"
-#~ msgstr "Osobní soubory"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "Vesmírný souboj pro KDE"
 
-#~ msgid "Space Arcade Game"
-#~ msgstr "Vesmírná arkádová hra"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "Čtečka svodek pro KDE"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "Čtečka svodek"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "Editor HTML map"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KBlocks"
-#~ msgstr "KBlocks"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "Kontrola odkazů"
 
-#~ msgid "KJots"
-#~ msgstr "KJots"
 
-#~ msgid "Note Taker"
-#~ msgstr "Poznámkový blok"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "Rozhraní hlasového syntetizátoru"
 
-#~ msgid "Konversation"
-#~ msgstr "Konversation"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "Nástroj pro úžasnou pracovní plochu, která je pastvou pro oči."
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Nepomuk PIMO Shell"
-#~ msgstr "Nepomuk shell PIMO"
 
-#~ msgid "The simple Nepomuk PIMO Shell"
-#~ msgstr "Jednoduchý Nepomuk shell PIMO"
 
-#~ msgid "Picture Game for Children"
-#~ msgstr "Obrázková hra pro děti"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Bramborový chlapík"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "Nástroj pro historii práce se schránkou"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Program pro práci se schránkou"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "Battleship Game"
-#~ msgstr "Bitva lodí"
 
-#~ msgid "KBattleship"
-#~ msgstr "Lodě"
 
-#~ msgid "Go Board Game"
-#~ msgstr "Desková hra Go"
 
-#~ msgid "Kigo"
-#~ msgstr "Kigo"
 
-#~ msgid "Card Game"
-#~ msgstr "Karty"
 
-#~ msgid "LSkat"
-#~ msgstr "Poručík skat"
 
-#~ msgid "CD Player"
-#~ msgstr "CD přehrávač"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "KDE správce fotografií"
 
-#~ msgid "Photo Viewer and Editor"
-#~ msgstr "Prohlížeč obrázků"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Arcade Bombing Game"
-#~ msgstr "Arkádová bombardovací hra"
 
-#~ msgid "Bomber"
-#~ msgstr "Bomber"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Klon hry Bomberman"
 
-#~ msgid "Granatier"
-#~ msgstr "Granatier"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "Kalkulačka grafů"
 
-#~ msgid "KAlgebra"
-#~ msgstr "KAlgebra"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "Řešení a vykreslování matematických výrazů"
 
-#~ msgid "Qt Designer UI File Viewer"
-#~ msgstr "Prohlížeč UI souborů z Qt Designeru"
 
-#~ msgid "3-D Game based on Rubik's Cube"
-#~ msgstr "Trojrozměrná hra založená na Rubikově kostce"
 
-#~ msgid "A 3-D game based on Rubik's Cube"
-#~ msgstr "Trojrozměrná hra založená na Rubikově kostce"
 
-#~ msgid "Kubrick"
-#~ msgstr "Kubrick"
 
-#~ msgid "KAppTemplate"
-#~ msgstr "KAppTemplate"
 
-#~ msgid "KDE Template Generator"
-#~ msgstr "Generátor šablon KDE"
 
-#~ msgid "Certificate Manager and Unified Crypto GUI"
-#~ msgstr "Správa certifikátů a GUI pro sjednocené šifrování"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Sdílení pracovní plochy"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KsirK Skin Editor"
-#~ msgstr "KsirK editor skinů"
 
-#~ msgid "Skin Editor for the World Domination Strategy Game"
-#~ msgstr "Editor skinů pro Strategickou hru o ovládnutí světa"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "KDE průvodce pro groupware"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Šisen-Šo"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "Hra s dlaždicemi Šisen-Šo"
 
-#~ msgid "Desktop Search"
-#~ msgstr "Vyhledávání v počítači"
 
-#~ msgid "Nepomuk Search Client"
-#~ msgstr "Nepomuk vyhledávací klient"
 
-#~ msgid "The simple Nepomuk Desktop Search Client"
-#~ msgstr "Jednoduchý klient pro prohledávání pracovní stanice Nepomuk"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "Hra k procvičování paměti"
 
-#~ msgid "Blinken"
-#~ msgstr "Blinken"
 
-#~ msgid "Memory Enhancement Game"
-#~ msgstr "Hra pro rozšiřování paměti"
 
-#~ msgid "KSudoku"
-#~ msgstr "KSudoku"
 
-#~ msgid "KSudoku, Sudoku game & more for KDE"
-#~ msgstr "KSudoku, Sudoku hra pro KDE"
 
-#~ msgid "Sudoku Game"
-#~ msgstr "Sudoku hra"
 
-#~ msgid "Graph Theory Tool for Professors and Students."
-#~ msgstr "Nástroj pro teorii grafů určený studentům a profesorům."
 
-#~ msgid "Rocs"
-#~ msgstr "Rocs"
 
-#~ msgid "Rocs Graph Theory"
-#~ msgstr "Teorie grafů Rocs"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "Rozhraní pro GnuPG"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "Šifrovací nástroj"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "Applet pro změnu velikosti a orientace obrazovky"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Změna velikosti a rotace obrazovky"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Mail Client"
-#~ msgstr "Klient pro čtení elektronické pošty"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Mahjongg Solitaire"
-#~ msgstr "Mahjongg solitér"
 
-#~ msgid "Konsole"
-#~ msgstr "Konzole"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "Desková hra Reversi"
 
-#~ msgid "Killbots"
-#~ msgstr "Killbots"
 
-#~ msgid "KMail view"
-#~ msgstr "KMail pohled"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Vědecká kalkulačka"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Rozhraní pro Diff/Patch"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "Lupa obrazovky"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "Stopky"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "Manage your money"
-#~ msgstr "Spravujte své peníze"
 
-#~ msgid "skrooge"
-#~ msgstr "skrooge"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Průvodce síťovou složkou"
 
-#~ msgid "UML Modeller"
-#~ msgstr "UML modelář"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "Logická hra s černou skříňkou"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "Kdenlive"
-#~ msgstr "Kdenlive"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "Nelineární video editor pro prostředí KDE"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "Logická hra jako Sokoban"
 
-#~ msgid "KPatience"
-#~ msgstr "KPatience"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "Karetní hra passiáns"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "Správce osobních informací"
 
-#~ msgid "Desktop Globe"
-#~ msgstr "Glóbus na pracovní plochu"
 
-#~ msgid "Marble"
-#~ msgstr "Marble"
 
-#~ msgid "Bovo"
-#~ msgstr "Bovo"
 
-#~ msgid "Five-in-a-row Board Game"
-#~ msgstr "Desková hra \"pět v řadě\""
 
-#~ msgid "Annotate..."
-#~ msgstr "Komentovat…"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "Příšerka na obrazovce"
 
-#~ msgid "Parley"
-#~ msgstr "Parley"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "Procvičování slovní zásoby"
 
-#~ msgid "Font Viewer"
-#~ msgstr "Prohlížeč písem"
 
-#~ msgid "KFontView"
-#~ msgstr "Prohlížeč písem"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Zobrazení funkce"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "Kreslení funkcí"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "Připojení přes vytáčenou linku"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Integrované vývojové prostředí"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "KDevelop 4"
 
-#~ msgid "Breakout-like Game"
-#~ msgstr "Hra typu Breakout"
 
-#~ msgid "KBreakOut"
-#~ msgstr "KBreakOut"
 
-#~ msgid "System Information"
-#~ msgstr "Informace o systému"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Planetárium na vaší obrazovce"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "CD Cover Printer"
-#~ msgstr "Tisk obalů na CD"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "Four-in-a-row Board Game"
-#~ msgstr "Desková hra \"čtyři v řadě\""
 
-#~ msgid "KFourInLine"
-#~ msgstr "Čtyři v řadě"
 
-#~ msgid "KNetWalk"
-#~ msgstr "KNetWalk"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "Osobní plánovač alarmů"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "Nástroj pro správu úschovny"
 
-#~ msgid "Eat pills escaping ghosts"
-#~ msgstr "Jezte prášky a unikejte duchům"
 
-#~ msgid "Kapman"
-#~ msgstr "Kapman"
 
-#~ msgid "Pac-Man Clone"
-#~ msgstr "Klon Pacmana"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "Tron-like Game"
-#~ msgstr "Hra typu Tron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Zobrazení využití disku"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "BitTorrent pro KDE"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "BitTorrent klient"
 
-#~ msgid "KTorrent"
-#~ msgstr "KTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "Rozhraní pro profilaci"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "Vizualizace profilovacích dat výkonu"
 
-#~ msgid "Download Manager"
-#~ msgstr "Správce stahování"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "Zeměpisný výukový program"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "Procvičování zeměpisu"
 
-#~ msgid "KGeography"
-#~ msgstr "KGeography"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Čáry pro KDE"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "Cvičení se zlomky"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "Praktická cvičení se zlomky"
 
-#~ msgid "Computer-Aided Translation System"
-#~ msgstr "Systém pro překlad pomocí počítače"
 
-#~ msgid "Lokalize"
-#~ msgstr "Lokalize"
 
-#~ msgid "Info Center"
-#~ msgstr "Informační centrum"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "Vařič čaje"
 
-#~ msgid "Change Password"
-#~ msgstr "Změna hesla"
 
-#~ msgid "Connect the dots to create squares"
-#~ msgstr "Spojte tečky a vytvořte čtverce"
 
-#~ msgid "KSquares"
-#~ msgstr "KSquares"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "Konzolový kalendář"
 
-#~ msgid "KsirK"
-#~ msgstr "KsirK"
 
-#~ msgid "World Domination Strategy Game"
-#~ msgstr "Strategická hra o ovládnutí světa"
 
-#~ msgid "Cantor"
-#~ msgstr "Cantor"
 
-#~ msgid "Jigsaw puzzle game"
-#~ msgstr "Hlavolam Jigsaw"
 
-#~ msgid "Palapeli"
-#~ msgstr "Palapeli"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "Japonský referenční a výukový nástroj"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "Japonský referenční/výukový nástroj"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "Zvukový směšovač"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "Správa chyb KDE"
 
-#~ msgid "Welcome"
-#~ msgstr "Vítejte"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "Editor záložek"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "Editor a organizátor záložek"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "Nastavit vaši pracovní plochu"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "Nástroj pro vyhledání a nahrazení"
 
-#~ msgid "Akonadi Tray Utility"
-#~ msgstr "Akonadi pomůcka pro oznamování"
 
-#~ msgid "Akonaditray"
-#~ msgstr "Akonaditray"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "Miniaturní golf"
 
-#~ msgid "KWalletManager"
-#~ msgstr "KWalletManager"
 
-#~ msgid "Distributed IRC client with central core component"
-#~ msgstr "Distribuovaný klient IRC s centrální komponentou jádra"
 
-#~ msgid "Quassel IRC"
-#~ msgstr "Quassel IRC"
 
-#~ msgid "A Subversion client for KDE"
-#~ msgstr "Klient Subversion pro prostředí KDE"
 
-#~ msgid "SVN client"
-#~ msgstr "SVN klient"
 
-#~ msgid "kdesvn"
-#~ msgstr "kdesvn"
 
-#~ msgid "KwikDisk"
-#~ msgstr "Kwikdisk"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "Nástroj pro výměnné disky"
 
-#~ msgid "Ball Bouncing Game"
-#~ msgstr "Hra s poskakujícími míčky"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "Automatické klikání myší"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "Kliká za vás myší, omezuje tak efekt RSI"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Quassel IRC (Client only)"
-#~ msgstr "Quassel IRC (pouze klient)"
 
-#~ msgid "Sweeper"
-#~ msgstr "Zametač"
 
-#~ msgid "System Cleaner"
-#~ msgstr "Vyčištění systému"
 
-#~ msgid "Contains removed files"
-#~ msgstr "Obsahuje odstraněné soubory"
 
-#~ msgid "Trash"
-#~ msgstr "Koš"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Minesweeper-like Game"
-#~ msgstr "Hra s minovým polem"
 
-#~ msgid "Board Game"
-#~ msgstr "Desková Same"
 
-#~ msgid "SameGame"
-#~ msgstr "Same"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "Správa fotografií"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "KPackageKit"
-#~ msgstr "KPackageKit"
 
-#~ msgid "PackageKit interface for KDE"
-#~ msgstr "PackageKit rozhraní pro KDE"
 
-#~ msgid "Software Management"
-#~ msgstr "Správa softwaru"
 
-#~ msgid "Nepomuk Ontology Importer"
-#~ msgstr "Importér ontologie Nepomuk"
 
-#~ msgid "Ontology Import"
-#~ msgstr "Import ontologie"
 
-#~ msgid "Simple Client to the Nepomuk Ontology Manager Service"
-#~ msgstr "Jednoduchý klient pro Správce služby Ontologie Nepomuk"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Pokročilý textový editor"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Editor hexadecimálních čísel"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "DBPedia References"
-#~ msgstr "DBPedia reference"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Klient pro čtení diskusních skupin"
 
-#~ msgid "Interactive Physical Simulator"
-#~ msgstr "Interaktivní fyzikální simulátor"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "Simulace fyzikálních experimentů"
 
-#~ msgid "Step"
-#~ msgstr "Step"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Editor nabídky"
 
-#~ msgid "KDE Bluetooth"
-#~ msgstr "KDE Bluetooth"
 
-#~ msgid "kbluetooth"
-#~ msgstr "kbluetooth"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "Přehrávač hudby"
 
-#~ msgid "KTimeTracker"
-#~ msgstr "KTimeTracker"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "Osobní měřič času"
 
-#~ msgid "Akonadi Console"
-#~ msgstr "Akonadi konzole"
 
-#~ msgid "Akonadi Management and Debugging Console"
-#~ msgstr "Konzole pro správu a ladění Akonadi"
 
-#~ msgid "KRDC"
-#~ msgstr "KRDC"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "Klient vzdálené pracovní plochy"
 
-#~ msgid "IRKick"
-#~ msgstr "IRKick"
 
-#~ msgid "KDE LIRC Server"
-#~ msgstr "LIRC server pro KDE"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "Server dálkového ovládání pro KDE."
 
-#~ msgid "KSystemLog"
-#~ msgstr "KSystemLog"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "Prohlížeč systémových logů"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "Nástroj na prohlížení záznamů systému"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "Prostředí pro výuku programování"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Najít soubory/složky"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "Prohlížeč záznamů připojení přes vytáčenou linku"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPPLogview"
 
-#~ msgid "A simple ball dodging game"
-#~ msgstr "Jednoduchá hra s míčkem"
 
-#~ msgid "Kollision"
-#~ msgstr "Kollision"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "Objevujte geometrické konstrukce"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "Interaktivní geometrie"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Správce souborů - superuživatelský režim"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "Hra uspořádání písmen pro KDE"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "Hra uspořádání písmen"
 
-#~ msgid "KNotes"
-#~ msgstr "Poznámky pro KDE"
 
-#~ msgid "Popup Notes"
-#~ msgstr "Vyskakovací poznámky"
 
-#~ msgid "KDE SVN Build"
-#~ msgstr "KDE SVN sestavení"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Formátovač disket"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Dragon Player"
-#~ msgstr "Přehrávač Dragon"
 
-#~ msgid "Configure email accounts"
-#~ msgstr "Nastavit poštovní účty"
 
-#~ msgid "Email Settings"
-#~ msgstr "Nastavení pošty"
 
-#~ msgid "Acquire images from a scanner"
-#~ msgstr "Získání obrázků ze skeneru"
 
-#~ msgid "About Mandriva"
-#~ msgstr "O distribuci Mandriva"
 
-#~ msgid "More about Mandriva"
-#~ msgstr "Více informací o distribuci Mandriva"
 
-#~ msgid "Anthy Dictionary editor"
-#~ msgstr "Editor slovníku Anthy"
 
-#~ msgid "Edit Anthy dictionary."
-#~ msgstr "Úprava slovníku Anthy"
 
-#~ msgid "Management tool for a private dictionary of anthy"
-#~ msgstr "Nástroj pro správu soukromého slovníku Anthy"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Přiřaďte klávesové zkratky k příkazům"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Klávesové zkratky"
 
-#~ msgid "Add urpmi media"
-#~ msgstr "Přidání zdrojů urpmi"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Mandriva Linux Pxelinux configurator"
-#~ msgstr "Nastavení PXE pro Mandriva Linux"
 
-#~ msgid "Network traffic analyzer (root user)"
-#~ msgstr "Analýza síťového provozu (správce systému)"
 
-#~ msgid "Wireshark (root user)"
-#~ msgstr "Wireshark (správce systému)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v italštině"
 
-#~ msgid "Howto Italian"
-#~ msgstr "Italská Howto"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v korejštině"
 
-#~ msgid "Howto Korean"
-#~ msgstr "Korejská Howto"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "Program pro sledování televize"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "GNU Prolog is a free implementation of Prolog"
-#~ msgstr "Svobodná implementace jazyka Prolog"
 
-#~ msgid "HP Device Manager"
-#~ msgstr "Správce zařízení HP"
 
-#~ msgid "View device status, ink levels and perform maintenance."
-#~ msgstr "Zobrazení stavu zařízení, stavu inkoustů a provádění údržby"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "Průzkumník vizualizovaných dat"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Vytvářejte a upravujte prezentace pro ukázky, porady a webové stránky "
-#~ "pomocí Impressu."
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Qt interface designer"
-#~ msgstr "Editor UI pro Qt"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Vytvářejte a upravujte vědecké výpočty a vzorce pomocí Math."
 
-#~ msgid "Formula"
-#~ msgstr "Vzorec"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Upravit úroveň hlasitosti"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "Ovládání hlasitosti PulseAudio"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Basic volume controller"
-#~ msgstr "Základní ovládání hlasitosti"
 
-#~ msgid "JRXvt (JIS)  "
-#~ msgstr "JRXvt (JIS)"
 
-#~ msgid "Japanese rxvt terminal  "
-#~ msgstr "rxvt terminál s podporou japonštiny"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Nastavte vaše databázové prostředí"
 
-#~ msgid "Database Access Properties"
-#~ msgstr "Vlastnosti přístupu k databázi"
 
-#~ msgid "Linphone"
-#~ msgstr "Linphone"
 
-#~ msgid "Linphone is a web-phone"
-#~ msgstr "Webový telefon Linphone"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "Povolení nebo zakázání instalovaných zásuvných modulů"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "Zásuvné moduly pro indikátory klávesnice"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr ""
-#~ "Ovládací nástroj pro zvukové karty založené na čipu Envy24 (ice1712)"
 
-#~ msgid "Envy24control"
-#~ msgstr "Envy24control"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v japonštině"
 
-#~ msgid "Howto Japanese"
-#~ msgstr "Japonská Howto"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "3D tanková bitva pro více hráčů"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "Změna hlasitosti zvuku a přiřazení zvuků událostem"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in French"
-#~ msgstr ""
-#~ "Uživatelský manuál pro DrakXTools k Mandriva Linuxu ve francouzštině"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr ""
-#~ "Vyberte, jakým způsobem umožníte vzdáleně zobrazit vaši pracovní plochu"
 
-#~ msgid "Remote Desktop"
-#~ msgstr "Vzdálená pracovní plocha"
 
-#~ msgid "Screensaver"
-#~ msgstr "Šetřič obrazovky"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "Nastavit váš šetřič obrazovky"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "Svobodné, snadné, osobní účetnictví pro každého"
 
-#~ msgid "HomeBank"
-#~ msgstr "HomeBank"
 
-#~ msgid "Open Folder"
-#~ msgstr "Otevřít složku"
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "Instalovat vybraný software na tento systém"
 
-#~ msgid "Package Installer"
-#~ msgstr "Instalátor balíčků"
 
-#~ msgid "An Applet for Quick Device Changing"
-#~ msgstr "Aplet pro rychlou změnu zařízení"
 
-#~ msgid "Device Chooser"
-#~ msgstr "Výběr zařízení"
 
-#~ msgid "PulseAudio Device Chooser"
-#~ msgstr "Výběr zařízení PulseAudio"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "Hádanka pro více hráčů"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "Sudoku"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "Test vašich logických schopností v hlavolamu s číselnou mřížkou"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in Brazilian Portuguese"
-#~ msgstr "Rychlý úvod k Mandriva Linuxu v brazilské portugalštině"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "Stahovat a sdílet soubory přes BitTorrent"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "Prohlížeč záznamových souborů"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "Prohlížet nebo kontrolovat systémový soubor záznamů"
 
-#~ msgid "System Regional Settings"
-#~ msgstr "Regionální nastavení systému"
 
-#~ msgid "System wide language & country configurator"
-#~ msgstr "Nastavení jazyka a země pro celý systém"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Proxy sítě"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "Nastavit vaši proxy sítě"
 
-#~ msgid "Mail and News Client"
-#~ msgstr "Klient pro poštu a diskusní skupiny"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LXTerminal"
 
-#~ msgid "Use the command line"
-#~ msgstr "Používat příkazový řádek"
 
-#~ msgid "Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Hider"
-#~ msgstr "Schování kazet Lexmark 5xxx, 7xxx a 11xx"
 
-#~ msgid "Lexmark hidecartridges"
-#~ msgstr "Schování kazet Lexmark"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "Vybere aplikace, které se mají spouštět při přihlášení"
 
-#~ msgid "Startup Applications"
-#~ msgstr "Aplikace spouštěné při přihlášení"
 
-#~ msgid "A manual browser for Qt4 documentation"
-#~ msgstr "Prohlížeč manuálů dokumentace prostředí QT4"
 
-#~ msgid "Qt4 Assistant"
-#~ msgstr "Qt4 asistent"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Náhled písem"
 
-#~ msgid "Electrical engineering tool"
-#~ msgstr "Nástroj pro navrhování elektrických obvodů"
 
-#~ msgid "Oregano electrical engineering tool"
-#~ msgstr "Navrhování elektrických obvodů Oregano"
 
-#~ msgid "Schematic capture and simulation of electronic circuits"
-#~ msgstr "Schematické zachycení a simulace elektrických obvodů"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "Odstranění skrytých min z minového pole"
 
-#~ msgid "Assembly Comparison Tool"
-#~ msgstr "Nástroj pro porovnání sestavení"
 
-#~ msgid "Identify differences in the API exposed by mono library assemblies."
-#~ msgstr "Identifikace rozdílů mezi API vystavenými sestaveními knihoven Mono"
 
-#~ msgid "Mono IL Contrast"
-#~ msgstr "Mono IL Contrast"
 
-#~ msgid "Codeina"
-#~ msgstr "Codeina"
 
-#~ msgid "Gstreamer Codec Installer"
-#~ msgstr "Instalátor kodeků GStreamer"
 
-#~ msgid "Record sound clips"
-#~ msgstr "Vytváření zvukových záznamů"
 
-#~ msgid "Gnome Audio CD editor and burner"
-#~ msgstr "Editace a vypalování zvukových CD pro prostředí GNOME"
 
-#~ msgid "Gnome CD Master"
-#~ msgstr "Gnome CD Master"
 
-#~ msgid "Set your window properties"
-#~ msgstr "Nastavit vaše vlastnosti okna"
 
-#~ msgid "Windows"
-#~ msgstr "Okna"
 
-#~ msgid "Openbox"
-#~ msgstr "Openbox"
 
-#~ msgid "HDSPConf"
-#~ msgstr "HDSPConf"
 
-#~ msgid "Hammerfall DSP control application"
-#~ msgstr "Aplikace pro ovládání Hammerfall DSP"
 
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Arkáda Frozen Bubble"
 
-#~ msgid "Configure power management"
-#~ msgstr "Nastavit správu napájení"
 
-#~ msgid "Power Management"
-#~ msgstr "Správa napájení"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "Solitaire AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Hrát mnoho různých her solitaire"
 
-#~ msgid "Notepad"
-#~ msgstr "Poznámkový blok"
 
-#~ msgid "XRC resource editor for wxPython"
-#~ msgstr "Editor zdrojů XRC pro wxPython"
 
-#~ msgid "XRCed"
-#~ msgstr "XRCed"
 
-#~ msgid "DjView3"
-#~ msgstr "DjView3"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "Prohlížeč DjVu souborů"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Přidat nebo odstranit uživatele a skupiny"
 
-#~ msgid "User Administration"
-#~ msgstr "Správa uživatelů"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Prohlížení stránek World Wide Webu"
 
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Webový prohlížeč Firefox"
 
-#~ msgid "A translation tool for Qt4"
-#~ msgstr "Nástroj pro překladatele pro Qt4"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Lingvista pro Qt"
 
-#~ msgid "KRXvt (KSC5601)  "
-#~ msgstr "KRXvt (KSC5601)"
 
-#~ msgid "Korean rxvt terminal  "
-#~ msgstr "rxvt terminál s podporou korejštiny"
 
-#~ msgid "Note-taker"
-#~ msgstr "Poznámky"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Pomůže vám vyznat se ve vašich poznámkách"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Poznámky Tomboy"
 
-#~ msgid "Archive Manager"
-#~ msgstr "Správce archivů"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Vytvářet a upravovat archiv"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "Zrušit, pozastavit, znovu spustit nebo znovu vytisknout úlohu"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "Spravovat tiskové úlohy"
 
-#~ msgid "Create and edit Web pages by using Writer."
-#~ msgstr "Vytvářejte a upravujte WWW stránky pomocí Writer."
 
-#~ msgid "OpenOffice.org Writer/Web"
-#~ msgstr "OpenOffice.org Writer/WWW"
 
-#~ msgid "Web Page Creation"
-#~ msgstr "Tvorba WWW stránek"
 
-#~ msgid "Configure Desktop Search"
-#~ msgstr "Nastavit vyhledávání"
 
-#~ msgid "Search & Indexing"
-#~ msgstr "Vyhledávání a indexace"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "Hledat soubory, adresáře a dokumenty ve vašem počítači"
 
-#~ msgid "About GNOME"
-#~ msgstr "O GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Poznejte lépe GNOME"
 
-#~ msgid "A QT application to configure Synaptics TouchPad"
-#~ msgstr "Aplikace pro Qt pro nastavení dotykové desky Synaptics"
 
-#~ msgid "Qsynaptics"
-#~ msgstr "Qsynaptics"
 
-#~ msgid "Manage running processes"
-#~ msgstr "Správa běžících procesů"
 
-#~ msgid "Process manager"
-#~ msgstr "Vizuální správce procesů"
 
-#~ msgid "Task Manager"
-#~ msgstr "Správce úloh"
 
-#~ msgid "ImageMagick"
-#~ msgstr "ImageMagick"
 
-#~ msgid "Views Graphics files"
-#~ msgstr "Prohlížeč grafických souborů"
 
-#~ msgid "The free open source 3D content creation suite"
-#~ msgstr "Svobodná a otevřená sada nástrojů pro tvorbu 3D obsahu"
 
-#~ msgid "Calculation, Analysis, and Visualization of Information"
-#~ msgstr "Kalkulace, analýzy a vizualizace informací"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "FLTK Photo Software"
-#~ msgstr "FLTK foto software"
 
-#~ msgid "flPhoto"
-#~ msgstr "flPhoto"
 
-#~ msgid "Command Line"
-#~ msgstr "Příkazový řádek"
 
-#~ msgid "Keyboard"
-#~ msgstr "Klávesnice"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Nastavte vlastnosti vaší klávesnice"
 
-#~ msgid "XGPS"
-#~ msgstr "XGPS"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "Rozložit hromadu kamenů odstraňováním odpovídajících si dvojic"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mahjongg"
 
-#~ msgid "Graphical interface to CVS and SVN"
-#~ msgstr "Grafické uživatelské rozhraní pro CVS a SVN"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid "Avahi Zeroconf Browser"
-#~ msgstr "Prohlížeč Avahi Zeroconf"
 
-#~ msgid "Browse for Zeroconf services available on your network"
-#~ msgstr "Probírání služeb Zeroconf dostupných na vaší síti"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v maďarštině"
 
-#~ msgid "Howto Hungarian"
-#~ msgstr "Maďarská Howto"
 
-#~ msgid "GUI Python Shell with Filling and Editor Windows"
-#~ msgstr "Grafický shell pro Python s doplňováním a editorem oken"
 
-#~ msgid "PyAlaMode"
-#~ msgstr "PyAlaMode"
 
-#~ msgid "Mouse"
-#~ msgstr "Myš"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Nastavte vlastnosti vaší myši"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "Snímejte obrázky a videoklipy svou webovou kamerou, se zábavnými "
-#~ "grafickými efekty"
 
-#~ msgid "Setup utility for gcin input method"
-#~ msgstr "Nástroj pro nastavení vstupní metody gcin"
 
-#~ msgid "gcin Setup"
-#~ msgstr "Nastavení gcin"
 
-#~ msgid "Avahi SSH Server Browser"
-#~ msgstr "Prohližeč serverů SSH Avahi"
 
-#~ msgid "Browse for Zeroconf-enabled SSH Servers"
-#~ msgstr "Probírání SSH serverů přístupných přes Zeroconf"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "Dominujte na hrací ploše v klasické verzi hry Reversi"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Install your Mandriva live system to disk"
-#~ msgstr "Instalace vašeho živého systému Mandriva na disk"
 
-#~ msgid "Live Install"
-#~ msgstr "Živá instalace"
 
-#~ msgid "GNOME MDB Viewer"
-#~ msgstr "Prohlížeč MDB pro GNOME"
 
-#~ msgid "Gmdb"
-#~ msgstr "Gmdb"
 
-#~ msgid "Add or remove software installed on the system"
-#~ msgstr "Přidat nebo odebrat software instalovaný na systému"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "Přidat/Odebrat software"
 
-#~ msgid "Software Update"
-#~ msgstr "Aktualizace softwaru"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "Aktualizovat software instalovaný na tomto systému"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "Grafické rozhraní pro instalaci balíčků RPM"
 
-#~ msgid "Software Installer"
-#~ msgstr "Instalace software"
 
-#~ msgid "A ball-and-paddle game with nice graphics."
-#~ msgstr "Hra s míčkem a plošinou s pěknou grafikou"
 
-#~ msgid "LBreakout2"
-#~ msgstr "LBreakout2"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "Správa a změna pozadí pracovní plochy"
 
-#~ msgid "Mandriva Linux Quick Startup Guide in French"
-#~ msgstr "Rychlý úvod k Mandriva Linuxu ve francouzštině"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "Reimplementace starší hry známé jako Tower Toppler nebo Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "Sledovat správu napájení"
 
-#~ msgid "Power Statistics"
-#~ msgstr "Statistika napájení"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Vytvářejte a upravujte text a obrázky v dopisech, sestavách, dokumentech "
-#~ "a webových stránkách pomocí Writeru."
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "Čtyři-v-řadě"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "Vytvářením čar stejných barev zvítězíte"
 
-#~ msgid "Database"
-#~ msgstr "Databáze"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr ""
-#~ "Spravujte databáze, vytvářejte dotazy a sestavy pro sledování a řízení "
-#~ "vašich informací pomocí Base."
 
-#~ msgid "OpenOffice.org Base"
-#~ msgstr "OpenOffice.org Base"
 
-#~ msgid "Time Tracker"
-#~ msgstr "Měřič času"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "Zadávání textu bez klávesnice"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "Prediktivní vstup textu"
 
-#~ msgid "Lexmark printer manager"
-#~ msgstr "Správce tiskárny Lexmark"
 
-#~ msgid "Status, alignment, cartridge maintenance"
-#~ msgstr "Seřízení hlav, stav inkoustů a údržba kazet"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Freeciv server"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "Profesionální systém CAD"
 
-#~ msgid "Qcad"
-#~ msgstr "Qcad"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "Nástroj pro nastavení prostředí GNOME"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "Program pro čtení diskusních skupin Pan"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Čtení zpráv diskusních skupin ze sítě Usenet"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "Provádění aritmetických, vědeckých nebo finančních kalkulací"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "Změnit chování a vzhled oken správce souborů"
 
-#~ msgid "File Management"
-#~ msgstr "Správa souborů"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "Standardní emulátor terminálu pro X Window Systém"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "Rozhraní pro skener portů nmap"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "Atomix-like enhanced puzzle game."
-#~ msgstr "Rozšířený hlavolam podobný hře Atomix"
 
-#~ msgid "LMarbles"
-#~ msgstr "LMarbles"
 
-#~ msgid "Qt Assistant - 3"
-#~ msgstr "Qt asistent 3"
 
-#~ msgid "Tool for translating message catalogues of Qt based programs"
-#~ msgstr "Nástroj pro překlad katalogů zpráv programů založených na Qt"
 
-#~ msgid "ODBC Configuration Tool"
-#~ msgstr "Nástroj pro nastavení ODBC"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "Planner Project Management"
-#~ msgstr "Správa projektů Planner"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Telefon Ekiga"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP telefonie, VoIP a videokonference"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "Hovory s lidmi přes Internet"
 
-#~ msgid "CPU load indicator"
-#~ msgstr "Indikátor zatížení CPU"
 
-#~ msgid "XCpuState"
-#~ msgstr "XCpuState"
 
-#~ msgid "Gendarme"
-#~ msgstr "Gendarme"
 
-#~ msgid "Gendarme Wizard"
-#~ msgstr "Průvodce Gendarme"
 
-#~ msgid "Inspect your .NET and Mono assemblies"
-#~ msgstr "Zkoumání vašich sestavení .NET a Mono"
 
-#~ msgid "A WindowMaker dock network monitor"
-#~ msgstr "Sledování sítě pro WindowMaker"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "Google Gadget Designer"
-#~ msgstr "Návrhář Google Gadgets"
 
-#~ msgid "Desktop organizer application for the Palm PDAs"
-#~ msgstr "Organizace pracovního prostředí pro PDA Palm"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Blender (FullScreen)"
-#~ msgstr "Blender (celá obrazovka)"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Statistiky o balíčcích distribuce Mandriva Linux"
 
-#~ msgid "Packages Stats"
-#~ msgstr "Statistiky o balíčcích"
 
-#~ msgid "Configure your database access environment"
-#~ msgstr "Nastavte přístupy do vašeho databázového prostředí"
 
-#~ msgid "Database access control center"
-#~ msgstr "Ovládací centrum přístupů k databázím"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in English"
-#~ msgstr "Uživatelský manuál pro DrakXTools k Mandriva Linuxu v angličtině"
 
-#~ msgid ""
-#~ "A version of the rxvt terminal with support for Traditional Chinese, "
-#~ "Simplified Chinese, Japanese and Korean."
-#~ msgstr ""
-#~ "Verze rxvt terminálu, která podporuje tradiční čínštinu, jednoduchou "
-#~ "čínštinu, japonštinu a korejštinu."
 
-#~ msgid "RXvt"
-#~ msgstr "RXvt"
 
-#~ msgid "Edit text files"
-#~ msgstr "Úprava textových souborů"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Pop-Up Notifications"
-#~ msgstr "Vyskakovací upozornění"
 
-#~ msgid "Set your pop-up notification preferences"
-#~ msgstr "Nastavení vašich voleb pro vyskakovací upozornění"
 
-#~ msgid "Wine Windows Program Loader"
-#~ msgstr "Zavaděč programů Windows pro Wine"
 
-#~ msgid "Configure file indexing with Tracker"
-#~ msgstr "Nastavit indexování souborů prohledávačem Tracker"
 
-#~ msgid "Search and Indexing"
-#~ msgstr "Hledání a indexování"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "Změnit nastavení aktualizací software"
 
-#~ msgid "Software Updates"
-#~ msgstr "Aktualizace software"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Prohlížeč komponent Bonobo"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "Zobrazí dostupné komponenty Bonobo"
 
-#~ msgid "An easy to use text editor, supporting syntax highlight and UTF-8"
-#~ msgstr ""
-#~ "Jednoduše použitelný textový editor podporující vysvícení syntaxe a UTF-8"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Sada groupware"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "Správa vaší elektronické pošty, kontaktů a rozvrhu"
 
-#~ msgid "Language & country configuration"
-#~ msgstr "Nastavení jazyka a země"
 
-#~ msgid "Regional Settings"
-#~ msgstr "Regionální nastavení"
 
-#~ msgid "OProfile starter"
-#~ msgstr "OProfile spouštěč"
 
-#~ msgid "Start OProfile profiler"
-#~ msgstr "Spustit OProfile měřič výkonu"
 
-#~ msgid "Page Layout"
-#~ msgstr "Publikační systém (DTP)"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "Publikační systém (DTP)"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v němčině"
 
-#~ msgid "Howtos German"
-#~ msgstr "Německá Howto"
 
-#~ msgid "Network Center"
-#~ msgstr "Síťové centrum"
 
-#~ msgid "IcedTea Java Web Start"
-#~ msgstr "IcedTea Java webový start"
 
-#~ msgid "Launch Java Web Start applications"
-#~ msgstr "Spouštění aplikací Java Web Start"
 
-#~ msgid "Network traffic analyzer"
-#~ msgstr "Analýza síťového provozu "
 
-#~ msgid "Wireshark"
-#~ msgstr "Wireshark"
 
-#~ msgid ""
-#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
-#~ msgstr ""
-#~ "Chat pomocí IM. Podporuje AIM, Google Talk, Jabber/XMPP, MSN, Yahoo a "
-#~ "další"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "Internet Messenger"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Výměna zpráv Pidgin"
 
-#~ msgid "A set of Solitaire type games for the X Window System"
-#~ msgstr "Sada her typu Solitaire pro systém X Window"
 
-#~ msgid "xpat2"
-#~ msgstr "xpat2"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "Nastavení PulseAudio"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "Nastavení zvukového serveru"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "Zobrazení a úprava nastavení lokálního zvukového serveru"
 
-#~ msgid "System information"
-#~ msgstr "Informace o systému"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid "Powerful and easy to use calculator"
-#~ msgstr "Mocná a jednoduchá kalkulačka"
 
-#~ msgid "Qalculate!"
-#~ msgstr "Qalculate!"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v rumunštině"
 
-#~ msgid "Howto Romanian"
-#~ msgstr "Rumunská Howto"
 
-#~ msgid ""
-#~ "Locate documents and folders on this computer by name or content using "
-#~ "Tracker"
-#~ msgstr ""
-#~ "Nalézt dokumenty a složky na tomto počítači podle názvu nebo obsahu "
-#~ "pomocí vyhledávače Tracker"
 
-#~ msgid "Tracker Search Tool"
-#~ msgstr "Prohledávač Tracker"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Nástroj pro nastavení a administraci hardware"
 
-#~ msgid "Hardware Configuration Tool"
-#~ msgstr "Nástroj pro nastavení hardware"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v polštině"
 
-#~ msgid "Howto Polish"
-#~ msgstr "Polská Howto"
 
-#~ msgid "Change screensaver properties"
-#~ msgstr "Změna vlastností spořiče obrazovky"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "Rozhraní pro snadný tisk se systémem CUPS"
 
-#~ msgid "X Printing Panel"
-#~ msgstr "Panel pro tisk v X"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "RapidSVN SvnCpp C++ API development libraries"
-#~ msgstr "RapidSVN SvnCpp C++ API vývojové knihovny"
 
-#~ msgid "HP Sendfax"
-#~ msgstr "HP Sendfax"
 
-#~ msgid "Utility for sending faxes with HP's multi-function devices"
-#~ msgstr "Pomocný program pro posílání faxů pomocí multifunkčních zařízení HP"
 
-#~ msgid "GNOME Pilot Install Databases"
-#~ msgstr "Instalace databází do GNOME Pilot"
 
-#~ msgid "Install Databases on your Palm Pilot"
-#~ msgstr "Instalace databází na váš Palm Pilot"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "Přehrávání a organizace vaší sbírky hudby"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "Viewer for TeX DVI files"
-#~ msgstr "Prohlížeč pro soubory TeX DVI"
 
-#~ msgid "XDVI"
-#~ msgstr "XDVI"
 
-#~ msgid "View and organize your images"
-#~ msgstr "Prohlížení a uspořádání vašich obrázků"
 
-#~ msgid "Font Editor for PostScript, TrueType, OpenType and various fonts"
-#~ msgstr "Editor písma typu PostScript, TrueType, OpenType a jiná"
 
-#~ msgid "FontForge"
-#~ msgstr "FontForge"
 
-#~ msgid "Registry Editor"
-#~ msgstr "Editor registru"
 
-#~ msgid "Viewer for Postscript and PDF files"
-#~ msgstr "Prohlížeč pro Postscriptové a PDF soubory"
 
-#~ msgid "gv"
-#~ msgstr "gv"
 
-#~ msgid "CUPS Web Interface"
-#~ msgstr "CUPS webové rozhraní"
 
-#~ msgid "Manage Printing"
-#~ msgstr "Správa tisku"
 
-#~ msgid "MPlayer Media Player"
-#~ msgstr "Přehrávač médií MPlayer"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr ""
-#~ "Převod informací z obrazovky do řeči nebo na Braillovo písmo a zvětšení "
-#~ "obrazovky"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "Čtení obrazovky a lupa"
 
-#~ msgid "Access digital cameras (via GPhoto2)"
-#~ msgstr "Přístup k digitálním fotoaparátům (přes GPhoto2)"
 
-#~ msgid "GTKam"
-#~ msgstr "GTKam"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v angličtině"
 
-#~ msgid "Howto English"
-#~ msgstr "Anglická Howto"
 
-#~ msgid "Ffado Mixer"
-#~ msgstr "Ffado směšovač"
 
-#~ msgid "Mixer for Firewire Audio Devices"
-#~ msgstr "Mixér pro zvuková zařízení Firewire"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "Nastavení vstupní metody SCIM"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "Nástroj pro nastavení Smart Common Input Method platformy"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "Výkonný textový editor"
 
-#~ msgid "VI editor"
-#~ msgstr "Editor VI"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v řečtině"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "Řecká Howto"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Solitaire FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Hrát populární karetní hru FreeCell"
 
-#~ msgid "Window Manager"
-#~ msgstr "Správce oken"
 
-#~ msgid "A utility to read and manipulate raw images from digital cameras"
-#~ msgstr ""
-#~ "Nástroj pro čtení a manipulaci s obrázky RAW z digitálních fotoaparátů"
 
-#~ msgid "Raw image converter"
-#~ msgstr "Převodník obrázků RAW"
 
-#~ msgid "UFRaw"
-#~ msgstr "UFRaw"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu pro "
-#~ "Indonésii"
 
-#~ msgid "Howto Indonesian"
-#~ msgstr "Indonéská Howto"
 
-#~ msgid "Gnuplot"
-#~ msgstr "Gnuplot"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "Známý program pro vytváření grafů funkcí"
 
-#~ msgid "Configuration Editor"
-#~ msgstr "Editor nastavení"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Editujte přímo vaši databázi s nastavením"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "Vytvářejte a upravujte vektorovou grafiku (SVG)"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid "Belgian eID card viewer"
-#~ msgstr "Prohlížeč belgických eID karet"
 
-#~ msgid "Display and administer your eID card"
-#~ msgstr "Zobrazení a správa vaší eID karty"
 
-#~ msgid "beidgui"
-#~ msgstr "beidgui"
 
-#~ msgid "Customize uim input method environment"
-#~ msgstr "Přizpůsobení prostředí pro vstupní metodu uim"
 
-#~ msgid "Input Method"
-#~ msgstr "Vstupní metoda"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu v čínštině"
 
-#~ msgid "Howto Chinese"
-#~ msgstr "Čínská Howto"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "Výzva automatického spuštění"
 
-#~ msgid "Tightvnc"
-#~ msgstr "TightVNC"
 
-#~ msgid "Create images and edit photographs"
-#~ msgstr "Vytvářet obrázky a upravovat fotografie"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "Editor obrázků"
 
-#~ msgid "Qt Assistant 3"
-#~ msgstr "Qt asistent 3"
 
-#~ msgid "Tool for online help doc"
-#~ msgstr "Nástroj pro online nápovědu a dokumentaci"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "3d světelná hra"
 
-#~ msgid "Armagetron Advanced"
-#~ msgstr "Armagetron Advanced"
 
-#~ msgid "Vector Graphics Drawing Tool"
-#~ msgstr "Vektorový kreslící program"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Nástroj pro hlášení chyb"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Ohlásit chybu v aplikacích založených na GNOME"
 
-#~ msgid "Breakout-style arcade game"
-#~ msgstr "Dobrodružná hra ve stylu hry Breakout"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "Manage your mobile phone"
-#~ msgstr "Správa vašeho mobilního telefonu"
 
-#~ msgid "Mobile Phone Suite"
-#~ msgstr "Nástroje pro mobilní telefony"
 
-#~ msgid "Xgnokii"
-#~ msgstr "Xgnokii"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "Hra podobná hře Boulderdash"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid "Lights Off"
-#~ msgstr "Zhasněte světla"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "Zhasněte všechna světla"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu ve finštině"
 
-#~ msgid "Howto Finnish"
-#~ msgstr "Finská Howto"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr ""
-#~ "HOWTO dokumenty (HTML formát) z Linux Dokumentačního Projektu ve švédštině"
 
-#~ msgid "Howto Swedish"
-#~ msgstr "Švédská Howto"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "Import do F-Spot"
 
-#~ msgid "Coherence"
-#~ msgstr "Coherence"
 
-#~ msgid "DLNA/UPnP MediaServer/MediaRenderer"
-#~ msgstr "DLNA/UPnP MediaServer/MediaRenderer"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "Vytvářejte a upravujte kresby, bloková schémata a loga pomocí Draw."
 
-#~ msgid "Drawing"
-#~ msgstr "Kreslení"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "Vést červa v bludišti"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "A graphical front end for installing, removing and updating packages"
-#~ msgstr "Grafické rozhraní pro instalování, odebírání a aktualizaci balíčků"
 
-#~ msgid "Install & Remove Software"
-#~ msgstr "Instalovat a odebrat software"
 
-#~ msgid "Kill a client by its X resource"
-#~ msgstr "Zabití klienta podle jeho zdroje X"
 
-#~ msgid "XKill"
-#~ msgstr "XKill"
 
-#~ msgid "High quality video deinterlacer"
-#~ msgstr "Vysoce kvalitní dekodér videa"
 
-#~ msgid "TVtime Television Viewer"
-#~ msgstr "Prohlížeč televize TVtime"
 
-#~ msgid "Television Viewer"
-#~ msgstr "Prohlížeč televize"
 
-#~ msgid "Upgrade to Powerpack"
-#~ msgstr "Povýšení na Powerpack"
 
-#~ msgid "Join Mandriva Community"
-#~ msgstr "Připojit se ke komunitě Mandriva"
 
-#~ msgid "Install on Hard Disk"
-#~ msgstr "Instalovat na pevný disk"
 
-#~ msgid "Web browser"
-#~ msgstr "Webový prohlížeč"
 
-#~ msgid "Quake II"
-#~ msgstr "Quake II"
 
-#~ msgid "Quake II: Capture The Flag"
-#~ msgstr "Quake II: Capture The Flag"
 
-#~ msgid "Quake II: Ground Zero"
-#~ msgstr "Quake II: Ground Zero"
 
-#~ msgid "Quake II: The Reckoning"
-#~ msgstr "Quake II: The Reckoning"
 
-#~ msgid "ATI Catalyst Control Center"
-#~ msgstr "Ovládací centrum ATI Catalyst"
 
-#~ msgid "Allows the configuration of the ATI graphics hardware settings."
-#~ msgstr "Umožňuje nastavení voleb grafického hardware ATI"
 
-#~ msgid "ATI Catalyst Control Center (Administrative)"
-#~ msgstr "Ovládací centrum ATI Catalyst (správce)"
 
-#~ msgid ""
-#~ "Allows the configuration of the ATI graphics hardware settings that "
-#~ "requires administrative access."
-#~ msgstr ""
-#~ "Umožňuje nastavení voleb grafického hardware ATI vyžadujících přístupová "
-#~ "práva správce"
 
-#~ msgid "Google Earth Install"
-#~ msgstr "Instalace Google Earth"
 
-#~ msgid "Hacked Heretic (OpenGL)"
-#~ msgstr "Hacked Heretic (OpenGL)"
 
-#~ msgid "Hacked Heretic is a Linux port of Raven Game's old shooter, Heretic"
-#~ msgstr ""
-#~ "Hacked Heretic je Linuxový port staré střílečky Heretic od společnosti "
-#~ "Raven Game"
 
-#~ msgid "Hacked Heretic (SDL)"
-#~ msgstr "Hacked Heretic (SDL)"
 
-#~ msgid "Sun Java 1.5.0 Plugin Control Panel"
-#~ msgstr "Sun Java 1.5.0 ovládací panel zásuvných modulů"
 
-#~ msgid "Sun Java 1.5.0 Web Start"
-#~ msgstr "Sun Java 1.5.0 webový start"
 
-#~ msgid "Sun Java 1.5.0 Console"
-#~ msgstr "Sun Java 1.5.0 konsole"
 
-#~ msgid "Sun Java 1.5.0 Monitoring & Management Console"
-#~ msgstr "Sun Java 1.5.0 konzole pro sledování a správu"
 
-#~ msgid "Sun Java 1.5.0 Policy Tool"
-#~ msgstr "Sun Java 1.5.0 nástroj pro definici politik"
 
-#~ msgid "Sun Java 1.6.0 Plugin Control Panel"
-#~ msgstr "Sun Java 1.6.0 ovládací panel zásuvných modulů"
 
-#~ msgid "Sun Java 1.6.0 Web Start"
-#~ msgstr "Sun Java 1.6.0 webový start"
 
-#~ msgid "Sun Java 1.6.0 Cache Viewer"
-#~ msgstr "Sun Java 1.6.0 prohlížeč vyrovnávací paměti"
 
-#~ msgid "Sun Java 1.6.0 Console"
-#~ msgstr "Sun Java 1.6.0 konsole"
 
-#~ msgid "Sun Java 1.6.0 Monitoring & Management Console"
-#~ msgstr "Sun Java 1.6.0 konzole pro sledování a správu"
 
-#~ msgid "Sun Java 1.6.0 Policy Tool"
-#~ msgstr "Sun Java 1.6.0 nástroj pro definici politik"
 
-#~ msgid "Clustal X"
-#~ msgstr "Clustal X"
-
-#~ msgid "GUI interface for ClustalW"
-#~ msgstr "GUI rozhraní pro ClustalW"
-
-#~ msgid "Dark Oberon"
-#~ msgstr "Dark Oberon"
-
-#~ msgid "Dell Remote Console Switch Software"
-#~ msgstr "Software společnosti Dell pro přepnutí na vzdálenou konzoli"
-
-#~ msgid "drcss"
-#~ msgstr "drcss"
-
-#~ msgid "FreeCol"
-#~ msgstr "FreeCol"
-
-#~ msgid "FreeCol is an open version of the game Colonization"
-#~ msgstr "Otevřená verze hry Colonization"
-
-#~ msgid "Opera"
-#~ msgstr "Opera"
-
-#~ msgid "Rise of the Triad (Registered)"
-#~ msgstr "Rise of the Triad (registrovaná verze)"
-
-#~ msgid ""
-#~ "RotT Registered launch script, this requires the registered data files"
-#~ msgstr ""
-#~ "Spouštěcí skript pro registrovanou verzi RotT, který vyžaduje "
-#~ "registrované datové soubory"
-
-#~ msgid "Rise of the Triad"
-#~ msgstr "Rise of the Triad"
-
-#~ msgid ""
-#~ "RotT Shareware launcher, will automatically download the needed data-files"
-#~ msgstr ""
-#~ "Spouštěč sharewarové verze hry RotT, který automaticky stáhne potřebné "
-#~ "datové soubory"
-
-#~ msgid "tuxfw"
-#~ msgstr "tuxfw"
-
-#~ msgid "Tux Droid Interface"
-#~ msgstr "Tux Droid rozhraní"
-
-#~ msgid "Tux Droid graphical interface"
-#~ msgstr "Grafické rozhraní pro Tux Droid"
-
-#~ msgid "Tux Gadget Maker"
-#~ msgstr "Tux produkce vynálezů"
-
-#~ msgid "Tux droid gadget maker written by Rémi Jocaille"
-#~ msgstr "Produkce vynálezů pro Tux Droid napsaný Rémi Jocaillem"
-
-#~ msgid "Tux Gadget Manager"
-#~ msgstr "Tux správce vynálezů"
-
-#~ msgid "Tux droid gadget manager written by Rémi Jocaille"
-#~ msgstr "Správce vynálezů pro Tux Droid napsaný Rémi Jocaillem"
-
-#~ msgid "Tux Shell"
-#~ msgstr "Tux shell"
-
-#~ msgid "Tux droid shell written by Rémi Jocaille"
-#~ msgstr "Shell pro Tux Droid napsaný Rémi Jocaillem"

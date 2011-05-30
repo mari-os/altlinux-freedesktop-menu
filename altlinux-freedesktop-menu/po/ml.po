@@ -1,77 +1,82 @@
-# translation of menu_po-sections to malayalam
-# Menu section translation to Malayalam
-# Copyright (C) 2006 The Debian Project
-# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2006, 2008.
-# This file is distributed under the same license as the menu package.
+# Translation into Malayalam
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ml.php3
+#
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu_po-sections_ml\n"
+"Project-Id-Version: menu-messages\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2006-12-07 19:46+0530\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
-"Language-Team: malayalam <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2003-07-05 10:29+0530\n"
+"Last-Translator: Nobody\n"
+"Language-Team: Malayalam\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 
 #, fuzzy
 msgid "2D Graphics"
-msgstr "ഗ്രാഫിക്സ്"
+msgstr "ചിത്രീകരണം"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
 #, fuzzy
 msgid "3D Graphics"
-msgstr "ഗ്രാഫിക്സ്"
+msgstr "ചിത്രീകരണം"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "ഫയലുകളുടെ നടത്തിപ്പു്"
+msgstr "കളികളും വിനോദങ്ങളും"
 
 msgid "Accessibility"
-msgstr "സാമീപ്യതാ"
+msgstr "ആക്സസ്സിബിളിറ്റി"
 
+#, fuzzy
 msgid "Action"
-msgstr "അടിപിടി"
+msgstr "വിദ്യാഭ്യാസം"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "അടിപിടി"
+msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
 
 msgid "AddressBooks"
 msgstr ""
 
 msgid "Administration"
-msgstr "ഭരണം"
+msgstr "നടത്തിപ്പ്"
 
 msgid "Adventure"
-msgstr "സാഹസികം"
+msgstr ""
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "സാഹസികം"
+msgstr ""
 
 msgid "Amateur Radio"
-msgstr "അമേച്വര്‍ റേഡിയോ"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "പ്രയോഗങ്ങള്‍"
+msgstr "പ്രയോഗങ്ങള്‌"
 
 msgid "Application to manage your finance"
 msgstr ""
 
 msgid "Applications"
-msgstr "പ്രയോഗങ്ങള്‍"
+msgstr "പ്രയോഗങ്ങള്‌"
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -88,8 +93,9 @@ msgstr "ആര്‍കേഡ്"
 msgid "Arcade style game"
 msgstr ""
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "േശഖര പാലകന്"
 
 msgid "Art"
 msgstr ""
@@ -101,41 +107,41 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "വാനനിരീക്ഷണം"
+msgstr "ജ്യോതിശാസ്ത്രം"
 
 #, fuzzy
 msgid "Astronomy software"
-msgstr "വാനനിരീക്ഷണം"
+msgstr "ജ്യോതിശാസ്ത്രം"
 
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "മൂവി പ്ളെയര്‍"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "സൌണ്ട് റിക്കോര്‍ഡര്‍"
 
 msgid "Backup"
 msgstr ""
 
 msgid "Biology"
-msgstr "ജീവശാസ്ത്രം"
+msgstr ""
 
-#, fuzzy
 msgid "Biology software"
-msgstr "ജീവശാസ്ത്രം"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "കട്ടകള്‍"
+msgstr ""
 
 msgid "Board Games"
 msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
 
 #, fuzzy
 msgid "Boards"
-msgstr "ബോര്‍ഡ്"
+msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
 
 msgid "Building"
 msgstr ""
@@ -145,49 +151,47 @@ msgstr "ഗണനി"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "എമുലേറ്ററുകള്‍"
+msgstr "ഗണനി"
 
 msgid "Calendar"
 msgstr ""
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "ജാവാ ടൂള്‍സെറ്റ്"
 
 msgid "Card Games"
 msgstr "ചീട്ടു് കളികള്‍"
 
 #, fuzzy
 msgid "Cards"
-msgstr "ചീട്ട്"
+msgstr "ചീട്ടു് കളികള്‍"
 
-#, fuzzy
 msgid "Chart"
-msgstr "ചീട്ട്"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
 
 msgid "Chemistry"
-msgstr "രസതന്ത്രം"
+msgstr ""
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "രസതന്ത്രം"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "കട്ടകള്‍"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
-msgstr "ആശയവിനിമയം"
+msgstr "പ്രയോഗങ്ങള്‌"
 
 msgid "Compression"
 msgstr ""
 
 #, fuzzy
 msgid "Computer Science"
-msgstr "ശാസ്ത്രം"
+msgstr "കംപ്യൂട്ടര്‍"
 
 msgid "Computer Science software"
 msgstr ""
@@ -197,14 +201,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Computer science"
-msgstr "ഭൂതലശാസ്ത്രം"
+msgstr "കംപ്യൂട്ടര്‍"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "സജ്ജീകരണ സംശോധകന്‍"
 
 #, fuzzy
 msgid "Construction"
-msgstr "ആശയവിനിമയം"
+msgstr "നടത്തിപ്പ്"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -220,7 +225,7 @@ msgstr "വസ്തുതാശേഖരം"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "പ്രയോഗങ്ങള്‍"
+msgstr "കൂടുതല്‍ പ്രയോഗങ്ങള്‍"
 
 msgid "Desktop"
 msgstr "പണിയിടം"
@@ -228,14 +233,16 @@ msgstr "പണിയിടം"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "പണിയിട ഭൂഗോളം"
 
 msgid "Development"
 msgstr "വികസനം‌"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "(ലാ)ടെക് വികസിപ്പിയ്ക്കാനുള്ള പരിസരം"
 
 msgid "Dial-up programs"
 msgstr ""
@@ -243,8 +250,9 @@ msgstr ""
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "നിഘണ്ടു"
 
 msgid "Dictionary"
 msgstr "നിഘണ്ടു"
@@ -254,30 +262,30 @@ msgstr ""
 
 #, fuzzy
 msgid "Documentation"
-msgstr "ആശയവിനിമയം"
+msgstr "ഡോക്യുമെന്‍റേഷന്‍ ബ്റൌസറ്‍"
 
 msgid "E17"
 msgstr ""
 
 #, fuzzy
 msgid "Economy"
-msgstr "വാനനിരീക്ഷണം"
+msgstr "ജ്യോതിശാസ്ത്രം"
 
 msgid "Editors"
 msgstr "എഴുത്തിടങ്ങള്‍"
 
 msgid "Education"
-msgstr "വിദ്യഭ്യാസം"
+msgstr "വിദ്യാഭ്യാസം"
 
 #, fuzzy
 msgid "Electricity"
-msgstr "ഇലക്ട്രോണിക്സ്"
+msgstr "മെറ്റാസിറ്റി"
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr "ഇലക്ട്രോണിക്സ്"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -287,46 +295,51 @@ msgstr ""
 
 #, fuzzy
 msgid "Email applications"
-msgstr "പ്രയോഗങ്ങള്‍"
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
 msgid "Emulator of another platform"
 msgstr ""
 
+#, fuzzy
 msgid "Emulators"
-msgstr "എമുലേറ്ററുകള്‍"
+msgstr "ഗണനി"
 
 msgid "Engineering"
-msgstr "എഞ്ചിനീയറിങ്ങ്"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "കട്ടകള്‍"
+msgstr "വീഴുന്ന ബ്ളോക്കുകള്‍ ഒരുമിച്ച് വയ്ക്കുക"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "വീഴുന്ന ബ്ളോക്കുകള്‍ ഒരുമിച്ച് വയ്ക്കുക"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "ഫയലുകളുടെ നടത്തിപ്പു്"
+msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍"
 
 #, fuzzy
 msgid "File Systems"
 msgstr "സിസ്റ്റം"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "ഫയലുകളുടെ കൈമാറ്റം"
+msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "വ്യ‍ൂഹ ഉപകരണങ്ങള്"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "ഫയല്‍ ബ്രൌസര്‍"
 
 msgid "Finances"
 msgstr ""
@@ -340,11 +353,12 @@ msgstr "ജിനോം"
 msgid "GUI Designers"
 msgstr ""
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
 msgid "Games"
-msgstr "കളികള്‍"
+msgstr "കളികള്"
 
 msgid "Games and amusements"
 msgstr "കളികളും വിനോദങ്ങളും"
@@ -352,35 +366,35 @@ msgstr "കളികളും വിനോദങ്ങളും"
 msgid "Games for Kids"
 msgstr "കുട്ടികള്‍ക്കുള്ള കളികള്‍"
 
-msgid "Geography"
-msgstr ""
-
 #, fuzzy
+msgid "Geography"
+msgstr "കെ-ജ്യോഗ്രഫി"
+
 msgid "Geology"
-msgstr "ജീവശാസ്ത്രം"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-msgid "Geoscience"
-msgstr "ഭൂതലശാസ്ത്രം"
-
 #, fuzzy
+msgid "Geoscience"
+msgstr "ശാസ്ത്രം"
+
 msgid "Geoscience software"
-msgstr "ഭൂതലശാസ്ത്രം"
+msgstr ""
 
 #, fuzzy
 msgid "Geosciences"
-msgstr "ഭൂതലശാസ്ത്രം"
+msgstr "ശാസ്ത്രം"
 
 msgid "Graphics"
-msgstr "ഗ്രാഫിക്സ്"
+msgstr "ചിത്രീകരണം"
 
 msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "ഭരണം"
+msgstr "ഖരസാമഗ്രി"
 
 msgid "History"
 msgstr "ചരിത്രം"
@@ -391,8 +405,9 @@ msgstr ""
 msgid "IRC"
 msgstr ""
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "ഐഎം ക്ലയന്റ്:"
 
 msgid "Image Processing"
 msgstr ""
@@ -400,18 +415,20 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "അതിവേഗ ദൂതന്‍"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "അതിവേഗ ദൂതന്‍"
 
 msgid "Internet"
 msgstr "വിവരമണ്ഡലം"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "പ്രയോഗങ്ങള്‍"
+msgstr "കൂടുതല്‍ പ്രയോഗങ്ങള്‍"
 
 msgid "Java"
 msgstr ""
@@ -446,24 +463,27 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "ദര്‍ശിനികള്‍"
+msgstr ""
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "നിരീക്ഷണം"
+msgstr "മോണിറ്ററുകള്‍"
 
 msgid "Multimedia"
 msgstr "ബഹുമാധ്യമം"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "ബഹുമാധ്യമം"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "ബഹുമാധ്യമം"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "ബഹുമാധ്യമം"
 
 msgid "Music"
 msgstr ""
@@ -472,21 +492,19 @@ msgid "Musical software"
 msgstr ""
 
 msgid "Network"
-msgstr "ശൃംഖല"
+msgstr "വലക്കെട്ട്"
 
 msgid "Network-related settings"
 msgstr "ശൃംഘലയുമായി ബന്ധപ്പെട്ട സജ്ജീകരണങ്ങള്‍"
 
-#, fuzzy
 msgid "News"
-msgstr "വെബിലെ വാര്‍ത്തകള്‍"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
 
-#, fuzzy
 msgid "Numeric Analysis"
-msgstr "ഡാറ്റ വിശകലനം"
+msgstr ""
 
 msgid "Numerical analysis software"
 msgstr ""
@@ -495,7 +513,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "ആപ്പീസ്"
+msgstr "കാര്യാലയം"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -508,18 +526,17 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "പ്രോഗ്രാമിങ്ങ്"
+msgstr "നിര്‍ദ്ദേശ-സംഹിത"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "പൊതികളുടെ നടത്തിപ്പു്"
+msgstr "ചിത്രം പകര്‍ത്തിയെടുക്കാനുള്ള പ്രയോഗം"
 
-#, fuzzy
 msgid "Packaging"
-msgstr "പൂട്ടല്‍"
+msgstr ""
 
 msgid "Parallel Computing"
 msgstr ""
@@ -533,15 +550,15 @@ msgstr ""
 msgid "Personal"
 msgstr "സ്വകാര്യം"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "കെ-ജ്യോഗ്രഫി"
 
 msgid "Physics"
-msgstr "ഭൌതികശാസ്ത്രം"
+msgstr ""
 
-#, fuzzy
 msgid "Physics software"
-msgstr "ഭൌതികശാസ്ത്രം"
+msgstr ""
 
 msgid "Preferences"
 msgstr "മുന്‍ഗണനകള്‍"
@@ -559,11 +576,11 @@ msgid "Profiling tools"
 msgstr ""
 
 msgid "Project Management"
-msgstr "സംരംഭത്തിന്റെ നടത്തിപ്പു്"
+msgstr "പദ്ധതിനിര്‍വ്വഹണം"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "സംരംഭത്തിന്റെ നടത്തിപ്പു്"
+msgstr "പദ്ധതിനിര്‍വ്വഹണം"
 
 msgid "Publishing"
 msgstr ""
@@ -573,19 +590,23 @@ msgstr ""
 
 #, fuzzy
 msgid "Raster Graphics"
-msgstr "ഗ്രാഫിക്സ്"
+msgstr "ചിത്രീകരണം"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "വിദൂരത്തിലുളള ഡസ്ക്-ടോപ്പ്"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "ശബ്ദം ക്രമീകാരി"
 
+#, fuzzy
 msgid "Robotics"
-msgstr ""
+msgstr "റോബോട്ടുകള്‍"
 
 msgid "Robotics software"
 msgstr ""
@@ -596,9 +617,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "രക്ഷിയ്ക്കല്‍"
+msgstr ""
 
 msgid "Science"
 msgstr "ശാസ്ത്രം"
@@ -619,24 +639,27 @@ msgstr ""
 msgid "Settings"
 msgstr "സജ്ജീകരണം"
 
-msgid "Simulation"
-msgstr "സിമുലേഷന്‍"
-
 #, fuzzy
+msgid "Simulation"
+msgstr "വിദ്യാഭ്യാസം"
+
 msgid "Simulation Games"
-msgstr "സിമുലേഷന്‍"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "സോഫ്റ്റ്‌വെയര്‍ പരിഷ്കണ പ്രദര്‍ശനി"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "സോഫ്റ്റ്‌വെയര്‍ ലോഗ് വ്യൂവര്‍"
 
+#, fuzzy
 msgid "Software to teach music"
-msgstr ""
+msgstr "സോഫ്റ്റ്‌വെയര്‍ ശ്രോതസ്സുകള്‍"
 
 msgid "Sound"
 msgstr "ശബ്ദം"
@@ -644,18 +667,19 @@ msgstr "ശബ്ദം"
 msgid "Sports"
 msgstr "കായികം"
 
+#, fuzzy
 msgid "Sports Games"
-msgstr ""
+msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
 
 msgid "Spreadsheets"
 msgstr ""
 
-msgid "Strategy"
-msgstr "തന്ത്രം"
-
 #, fuzzy
+msgid "Strategy"
+msgstr "കൌശലവും സമരതന്ത്രവും"
+
 msgid "Strategy Games"
-msgstr "തന്ത്രം"
+msgstr ""
 
 msgid "System"
 msgstr "സിസ്റ്റം"
@@ -670,15 +694,15 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
-msgstr "ടിവിയും റേഡിയോയും"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "ടിവിയും റേഡിയോയും"
+msgstr "പ്രയോഗത്തിന്റെ തകരാറുകള്‍ രേഖപ്പെടുത്തുക"
 
 #, fuzzy
 msgid "TV applications"
-msgstr "പ്രയോഗങ്ങള്‍"
+msgstr "പ്രയോഗങ്ങള്‌"
 
 msgid "Teaching Tools"
 msgstr "പഠിപ്പിയ്ക്കാനുള്ള പണിയായുധങ്ങള്‍"
@@ -686,8 +710,9 @@ msgstr "പഠിപ്പിയ്ക്കാനുള്ള പണിയാ�
 msgid "Telephony"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "പഠിപ്പിയ്ക്കാനുള്ള പണിയായുധങ്ങള്‍"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -697,27 +722,28 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "ടെര്‍മിനല്‍ എമുലേറ്ററുകള്‍"
+msgstr "ടെര്‍മിനല്‍ പ്രയോഗങ്ങള്‍"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "ടെര്‍മിനല്‍ എമുലേറ്ററുകള്‍"
+msgstr "ടെ‍ര്മിനല്"
 
 msgid "Text tool utilities"
 msgstr ""
 
 #, fuzzy
 msgid "Text tools"
-msgstr "ടൂളുകള്‍"
+msgstr "രചന ചിട്ടപ്പെടുത്തല്‌ ഉപാധി"
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "ടൂളുകള്‍"
+msgstr "ഉപകരണങ്ങള്"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "മൃദുസാമഗ്രി നിര്മ്മിക്കുവാനുള്ള ഉപകരങ്ങള്"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -725,11 +751,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഡീഫോള്‍ട്ട് പ്രയോഗങ്ങള്‍ തിരഞ്ഞെടുക്കുക"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഡീഫോള്‍ട്ട് പ്രയോഗങ്ങള്‍ തിരഞ്ഞെടുക്കുക"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -737,8 +765,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "പ്രിന്‍ററുകള്‍ സജ്ജമാക്കുക"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -755,57 +784,63 @@ msgstr "കളിപ്പാട്ടങ്ങള്‍"
 msgid "Translation"
 msgstr "പരിഭാഷ"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "പരിഭാഷ"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "ടച്ച് ടൈപ്പിങ്ങ് പഠനസഹായി"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "ഗ്രാഫിക്സ്"
+msgstr "ചിത്രീകരണം"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
 msgid "Video"
-msgstr "വീഡിയോ"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "മുന്‍ഗണനകള്‍"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "ദര്‍ശിനികള്‍"
+msgstr "മൂവി പ്ളെയര്‍"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "സൌണ്ട് റിക്കോര്‍ഡര്‍"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "ദര്‍ശിനികള്‍"
+msgstr "ഫാക്സ് വ്യുവര്‍"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "വെബില്‍ പരതുക"
-
-msgid "Web Browsing"
-msgstr "വെബില്‍ പരതുക"
-
-msgid "Web Development"
-msgstr "വെബ്ബിനുള്ള വികസനം"
+msgstr "വെബ് ബ്രൌസര്‍"
 
 #, fuzzy
+msgid "Web Browsing"
+msgstr "വെബ് ബ്രൌസര്‍"
+
+msgid "Web Development"
+msgstr "വെബിനുള്ള വികസനം"
+
 msgid "Web Publishing"
-msgstr "വെബില്‍ പരതുക"
+msgstr ""
 
 msgid "Wordprocessors"
 msgstr ""
@@ -813,1194 +848,385 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "തപാല്‍ ക്ലയന്റ്"
 
-#~ msgid "Data Management"
-#~ msgstr "ഡാറ്റ നടത്തിപ്പു്"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "മൊബൈല്‍ ഉപകരണങ്ങള്‍"
 
-#~ msgid "Medicine"
-#~ msgstr "വൈദ്യശാസ്ത്രം"
 
-#~ msgid "Social"
-#~ msgstr "സാമൂഹികം"
 
-#~ msgid "Shells"
-#~ msgstr "ഷെല്ലുകള്‍"
 
-#~ msgid "Language Environment"
-#~ msgstr "ഭാഷാ പരിസരം"
 
-#~ msgid "Text"
-#~ msgstr "പദാവലി"
 
-#~ msgid "Puzzles"
-#~ msgstr "പസിലുകള്‍"
 
-#~ msgid "Help"
-#~ msgstr "സഹായം"
 
-#~ msgid "Window Managers"
-#~ msgstr "ജാലകത്തിന്റെ നടത്തിപ്പുകാര്‍"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "എഫ്‌വിഡബ്ലിയുഎം മൊഡ്യൂളുകള്‍"
 
-#~ msgid "Window Maker"
-#~ msgstr "വിന്‍ഡോമേക്കര്‍"
 
-#~ msgid "Appearance"
-#~ msgstr "ചമയം"
 
-#~ msgid "WorkSpace"
-#~ msgstr "പണിസ്ഥലം"
 
-#~ msgid "Iceape Components"
-#~ msgstr "ഐസ്ഏപ്പ് ഘടകങ്ങള്‍"
 
-#~ msgid "Teddies"
-#~ msgstr "ടെഡ്ഡികള്‍"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "പലവക"
 
-#~ msgid "Utilities"
-#~ msgstr "ഉപകരണങ്ങള്‍"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "എക്സ്-ജാലക ഉപകരണങ്ങള്‍"
 
-#~ msgid "X-Utilities"
-#~ msgstr "എക്സ്-ഉപകരണങ്ങള്‍"
 
-#~ msgid "Advanced"
-#~ msgstr "പുരോഗമിച്ച"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "ഉന്നതതല സജ്ജീകരണങ്ങള്"
 
-#~ msgid "Lost & Found"
-#~ msgstr "പോയതും കണ്ടതും"
 
-#~ msgid "Information"
-#~ msgstr "വിവരം"
 
-#~ msgid "Personal preferences"
-#~ msgstr "സ്വകാര്യ മുന്‍ഗണനകള്‍"
 
-#~ msgid "Accessories"
-#~ msgstr "സഹപ്രയോഗങ്ങള്"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "പണിയിടോപകരണങ്ങള്‍"
 
-#~ msgid "PIM"
-#~ msgstr "പിഐഎം"
 
-#~ msgid "Science & Math"
-#~ msgstr "ശാസ്ത്രവും ഗണിതവും"
 
-#~ msgid "Peripherals"
-#~ msgstr "ബാഹ്യോപകരണങ്ങള്‍"
 
-#~ msgid "Look and Feel"
-#~ msgstr "ചമയം"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "പണിയിടത്തിന്‍റെ കാഴ്ചയും പെരുമാറ്റവും നിയന്ത്രിയ്ക്കുന്ന സജ്ജീകരണങ്ങള്‍"
 
-#~ msgid "File"
-#~ msgstr "ഫയല്‍"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "സ്ക്രീന്‍ സേവര്‍ ഥീംസ്"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "സിസ്റ്റത്തിന്‍റെ ക്രമീകരണവും നിരീക്ഷണവും"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "പലയിനം ഹാര്‍ഡ്‌വെയര്‍ ഉപകരണങ്ങള്‍ക്കുള്ള  സജ്ജീകരണങ്ങള്‍"
 
-#~ msgid "KDE Menu"
-#~ msgstr "കെഡിഇയിലെ മെനു"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "സ്വകാര്യ മുന്‍ഗണനകളും നടത്തിപ്പ് സജ്ജീകരണങ്ങളും"
 
-#~ msgid "Universal Access"
-#~ msgstr "സാര്‍വ്വജനികലഭ്യത"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "സാര്‍വ്വജനികലഭ്യതാ സജ്ജീകരണങ്ങള്‍"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr ""
-#~ "സിസ്റ്റം മുഴുവനുളള സജ്ജീകരണങ്ങളില്‍ മാറ്റം വരുത്തുക (എല്ലാ ഉപയോക്താക്കളേയും ബാധിക്കുന്നു)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "ശബ്ദവും ചലച്ചിത്രവും"
 
-#~ msgid "Internet and Network"
-#~ msgstr "ഇന്‍ററ്‍നെറ്റും ശൃംഘലയും"
 
-#~ msgid "Control Center"
-#~ msgstr "നിയന്ത്രണകേന്ദ്രം"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "കളികള്‍"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "ഇന്‍ററ്‍നെറ്റ് ലഭ്യതയ്ക്കാവശ്യമുളള പ്രോഗ്രാമുകളായ വെബും ഇമെയിലും"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍‌പ്പെടാത്ത പ്രയോഗങ്ങള്‍"
 
-#~ msgid "Office Applications"
-#~ msgstr "കാര്യാലയ പ്രയോഗങ്ങള്‌"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "സോഫ്റ്റ്‌വെയര്‍ ശ്രോതസ്സുകള്‍ പ്രവര്‍ത്തന സജ്ജം അല്ലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതമാക്കുക"
 
-#~ msgid "Five or More"
-#~ msgstr "അഞ്ച് അല്ലെങ്കില്‍ കൂടുതല്‍"
 
-#~ msgid "System Monitor"
-#~ msgstr "വ്യ‍ൂഹ നിരീക്ഷണി"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "നിലവിലുളള പ്രക്രിയകള്‍ വീക്ഷിക്കുകയും സിസ്റ്റത്തിന്‍റെ അവസ്ഥ നിരീക്ഷിക്കുകയും ചെയ്യുന്നു"
 
-#~ msgid "Image Viewer"
-#~ msgstr "ഇമേജ് വ്യൂവര്‍"
 
-#~ msgid "Empathy"
-#~ msgstr "എമ്പതി "
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "ലോക്ക് ഡൌണ്‍ നയം ക്രമീകരിക്കുക"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "ലോക്ക് ഡൌണ്‍ എഡിറ്റര്‍"
 
-#~ msgid "About Me"
-#~ msgstr "ഈ പ്രയോഗത്തെ സംബന്ധിച്ച്"
 
-#~ msgid "Set your personal information"
-#~ msgstr "നിങ്ങളുടെ സ്വകാര്യ വിവരങ്ങള്‍ ക്രമീകരിക്കുക"
 
-#~ msgid "Brasero"
-#~ msgstr "ബ്രസേറോ "
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "സിഡികളും ഡിവിഡികളും തയ്യാറാക്കി പകര്‍ത്തുക"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "പ്രധാന മെനുവില്‍ കാണിയ്ക്കുന്ന പ്രയോഗങ്ങള്‍ മാറ്റുക"
 
-#~ msgid "Main Menu"
-#~ msgstr "പ്രധാന മെനു"
 
-#~ msgid "Browse the web"
-#~ msgstr "വലക്കെട്ട് തിരയുക"
 
-#~ msgid "Epiphany"
-#~ msgstr "എപ്പിഫാനി "
 
-#~ msgid "Character Map"
-#~ msgstr "ക്യാരക്റ്റര്‍ മാപ്പ്"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "പ്രമാണങ്ങളിലേയ്ക്കു് പ്രത്യേകാക്ഷരങ്ങള്‍ ചേര്‍ക്കുക"
 
-#~ msgid "Create service packs for sharing with other computers"
-#~ msgstr "മറ്റു് കമ്പ്യൂട്ടറുകളുമായി പങ്കിടുന്നതിനു് സര്‍വീസ് പാക്കുകള്‍ ഉണ്ടാക്കുക"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "സര്‍വീസ് പാക്ക് സൃഷ്ടാവു്"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "പണിയിടത്തെ ചിട്ടപ്പെടുത്തുക"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "ഓണ്‍‍ലൈന്‍ നിഘണ്ടുവിന്‍ വാക്കുകളുടെ അര്‍ത്ഥങ്ങളും ചേരുവകകളും പരിശോധിക്കുക"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr ""
-#~ "പേരു് അല്ലെങ്കില്‍ ഉള്ളടക്കമനുസരിച്ചു് ഈ കമ്പ്യൂട്ടറില്‍ വിവരണങ്ങള്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡറുകള്‍ "
-#~ "കണ്ടുപിടിക്കുക"
 
-#~ msgid "Search for Files..."
-#~ msgstr "ഫയലുകള്‍ക്കായി തിരയുക..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "മറ്റൂ് പ്രയോഗങ്ങള്‍ ലഭ്യമാക്കി, ജാലകങ്ങള്‍ കൈകാര്യം ചെയ്യുക, സമയം കാണിക്കുക പോലുള്ള "
-#~ "യൂട്ടിലിറ്റികള്‍ നല്‍കുക."
 
-#~ msgid "Panel"
-#~ msgstr "പാനല്‍"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "പ്രയോഗങ്ങള്‍ കണ്ടു് മറ്റൂ് ഇന്‍പുട്ട് ഡിവൈസുകളുപയോഗിച്ചു് ടൈപ്പ് ചെയ്യുക"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "ഓണ്‍ സ്ക്രീന്‍ കീബോര്‍ഡ്"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "ഓഡിയോ സി.ഡി കംപ്യൂട്ടറിലേയ്ക്കു് പകര്‍ത്തുന്നതിനുളള സംവിധാനം"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "നിങ്ങളുടെ സി.ഡികളില്‍ നിന്നും  ഗാനങ്ങള്‍ പകര്‍ത്തുക"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "സി.ഡി/ഡി.വി.ഡി നിര്‍മ്മാണ സംവിധാനം"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "CD-കളും DVD-കളും തയ്യാറാക്കുന്നു"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "പരിഗണിച്ച പ്രയോഗങ്ങള്"
 
-#~ msgid "Klotski"
-#~ msgstr "ക്ളോട്ടസ്കി"
 
-#~ msgid "Chess"
-#~ msgstr "ചെസ്സ്"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "അടയാളപ്പെടുത്തിയ വെബ് പേജുകളും ലോക്കല്‍ നെറ്റ്‌വറ്‍ക്ക് സ്ഥാനങ്ങളും തിരയുക"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "ഉപയോക്താക്കള്‍ക്കുളള പ്രൊഫൈലുകള്‍ സ്ഥാപിച്ച് ആവശ്യമുളള മാറ്റങ്ങള്‍ വരുത്തുക"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "ഉപയോക്താവിന്റെ പ്രൊഫൈലില്‍ മാറ്റം വരുത്തുന്നതിനുളള ഉപകരണം (എഡിറ്റര്‍)"
 
-#~ msgid "Bluetooth"
-#~ msgstr "ബ്ലൂടൂത്"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "ബ്ലൂടൂത് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
 
-#~ msgid "Text Editor"
-#~ msgstr "രചന ചിട്ടപ്പെടുത്തല്‌ ഉപാധി"
 
-#~ msgid "Disk Utility"
-#~ msgstr "ഡിസ്ക് യൂട്ടിലിറ്റി"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "ഡ്രൈവുകളും മീഡിയയും കൈകാര്യം ചെയ്യുന്നു"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "ചിത്രങ്ങള്‍ കാണുകയും തിരിക്കുകയും ചെയ്യുക"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "കാറ്റലോഗ് ഇന്‍സ്റ്റോളര്‍"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "സോഫ്റ്റ്‌വെയറുകളുടെ കാറ്റലോഗ് സിസ്റ്റമില്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "മോണിറ്ററുകളുടെ റിസല്യൂഷനും സ്ഥാനവും മാറ്റുക"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "നിങ്ങളുടെ ഡസ്ക്ടോപ്പ് അല്ലെങ്കില്‍ ഓരോ ജാലകങ്ങളുടെ ഇമേജ് സൂക്ഷിക്കുക"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "സ്ക്രീന്‍ഷോട്ട് എടുക്കുക"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "ഡവലപ്പറിനെ സഹായിക്കുന്ന പ്റോഗ്റാം"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "ഫയല്‍ മാനേജറ്‍ ഉപയോഗിച്ച് ഫയല്‍ സിസ്റ്റം തിരയുക"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "പണിയിടത്തിന്റെ വിവിധ ഭാഗങ്ങള്‍ക്ക് രംഗവിധാനം തിരഞ്ഞെടുക്കുക"
 
-#~ msgid "Theme Installer"
-#~ msgstr "രംഗവിധാന ഇന്‍സ്റ്റാളര്‍"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "ഗ്നോം സഹായം ലഭിക്കുക"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "സഹായകമായ സാങ്കേതികവിദ്യകള്‍"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "ലോഗിന്‍ ചെയ്യമ്പോള്‍ ഏതു് ആക്സസിബിളിറ്റി വിശേഷതയാണു് തെരഞ്ഞെടുക്കേണ്ടതു്"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "ഫോള്‍ഡറിന്‍റെ വ്യാപ്തിയും ഡിസ്കില്‍ ലഭ്യമായ സ്ഥലവും പരിശോധിക്കുക"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "ഡിസ്ക് യൂസര്‍ അനലൈസര്‍"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "GTK+ പ്റോഗ്റാമുകള്‍ക്കുളള യൂസറ്‍ ഇന്‍ററ്‍ഫെയിസ് രീതികള്‍ ഉണ്ടാക്കുക അല്ലെങ്കില്‍ തുറക്കുക"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "സിനിമയും പാട്ടുകളും പ്രവര്‍ത്തിപ്പിക്കുന്നു"
 
-#~ msgid "Document Viewer"
-#~ msgstr "രേഖ നിരീക്ഷകന്‍"
 
-#~ msgid "Home Folder"
-#~ msgstr "ആസ്ഥാന-കൂട്"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "നിങ്ങളുടെ സ്വകാര്യ ഫോള്‍ഡറ്‍ തുറക്കുക"
 
-#~ msgid "Tetravex"
-#~ msgstr "ടെട്രാവെക്സ്"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "കഴിഞ്ഞുപോയ പാക്കേജ് മാനേജ്മെന്റ് ജോലികള്‍ കാണുക"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "GStreamer പ്രയോഗങ്ങള്‍ക്കു് സ്വതവേയുള്ളവ ക്രമീകരിക്കുക"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "മള്‍ട്ടിമീഡിയാ സിസ്റ്റം തെരഞ്ഞെടുക്കല്‍ സംവിധാനം"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "വിദൂര മേശപ്പുറത്തു പ്രവേശിക്കുക"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "വിദൂര മേശപ്പുറ ദര്‍ശനി "
 
-#~ msgid "Audit Configuration"
-#~ msgstr "ഓഡിറ്റ് ക്രമികരണം"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "ഓഡിറ്റ് ക്രമികരണത്തില്‍ മാറ്റം വരുത്തുക"
 
-#~ msgid "Metacity"
-#~ msgstr "മെറ്റാസിറ്റി"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "ഒരു പോപ് കലാപരമായ സ്പന്ദിയ്ക്കുന്ന നിറങ്ങളുടെ ഗ്രിഡ്"
 
-#~ msgid "Pop art squares"
-#~ msgstr "പോപ് കലാ ചതുരങ്ങള്‍"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "നിങ്ങളുടെ ചിത്രങ്ങളുള്ള കൂടയില്‍ നിന്നും ഒന്നൊന്നായി പ്രദര്‍ശിപ്പിയ്ക്കുക"
 
-#~ msgid "Pictures folder"
-#~ msgstr "ചിത്രങ്ങളുള്ള കൂട"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "ഗ്നോമിന്റെ കാല്‍പ്പാദമുദ്ര സ്ക്രീനിന് ചുറ്റും കുമിളകളാക്കുക"
 
-#~ msgid "Floating Feet"
-#~ msgstr "പാറിനടക്കുന്ന കാല്‍പ്പാദം"
 
-#~ msgid "Cosmos"
-#~ msgstr "കോസ്മോസ്"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "പ്രപഞ്ചത്തിന്റെ ചിത്രങ്ങളൊന്നൊന്നായി പ്രദര്‍ശിപ്പിയ്ക്കുക"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr "ലഭ്യമായ പ്രാദേശികവും വിദൂരവുമായ എല്ലാ ഡിസ്ക്കുകളും കൂടകളും പരതുക."
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "സൂചിതസ്ഥാനങ്ങള് കാണുകയും സംഘടിപ്പിക്കുകയും ചെയ്യുക"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Epiphany വെബ് ബുക്ക് മാര്‍ക്കുകള്‍"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "സൂചിതസ്ഥാനങ്ങള്"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "മെനു പുതുക്കല്‍ സഹായി"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "കെഡിഇ മൂലകങ്ങളുടെ ആവര്‍ത്തനപ്പട്ടിക"
 
-#~ msgid "Kalzium"
-#~ msgstr "കാല്‍സിയം"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "മൂലകങ്ങളുടെ ആവര്‍ത്തനപ്പട്ടിക"
 
-#~ msgid "Hangman Game"
-#~ msgstr "ഹാങ്ങ്മാന്‍ കളി"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "കെഡിഇ ഹാങ്ങ്മാന്‍ കളി"
 
-#~ msgid "KHangMan"
-#~ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "കെഫോട്ടോആല്‍ബം"
 
-#~ msgid "Photo Album"
-#~ msgstr "ഫോട്ടോ ആല്‍ബം"
 
-#~ msgid "KUser"
-#~ msgstr "കെയൂസര്‍"
 
-#~ msgid "User Manager"
-#~ msgstr "ഉപയോക്താക്കളുടെ നടത്തിപ്പുകാരന്‍"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "ഫ്ലാഷ്‌കാര്‍ഡും വാക്പട്ടികയും പഠിക്കാനുള്ള ഒരു പ്രോഗ്രാം"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "ഫ്ലാഷ് കാര്‍ഡ് പഠനസഹായി"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "കെ-വേര്‍ഡ്ക്വിസ്"
 
-#~ msgid "Konqueror"
-#~ msgstr "കോണ്ക്വറര്"
 
-#~ msgid "KLettres"
-#~ msgstr "കെ-ലെറ്റേഴ്സ്"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "അക്ഷരമാല പഠിക്കുക"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "അക്ഷരമാല പഠിക്കുവാനുള്ള ഒരു കെഡിഇ പ്രയോഗം"
 
-#~ msgid "Home"
-#~ msgstr "ആസ്ഥാനം"
 
-#~ msgid "Personal Files"
-#~ msgstr "സ്വകാര്യ ഫയലുകള്‍"
 
-#~ msgid "KTouch"
-#~ msgstr "കെ-ടച്ച്"
 
-#~ msgid "KMouth"
-#~ msgstr "കെമൌത്ത്"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "സംസാരസംയോജനത്തിനുള പ്രത്യ‌ക്ഷഉപാധി"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "മുറിക്കല്‍-പകര്‍ത്തല്‍ നാള്‍വഴിസൂക്ഷിപ്പുസഹായി."
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "ക്ലിപ്ബോര്‍ഡ് ഉപകരണം"
 
-#~ msgid "Klipper"
-#~ msgstr "ക്ലിപ്പര്‍"
 
-#~ msgid "CD Player"
-#~ msgstr "സി.ഡി പ്ളേയര്‍"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "ഗ്രാഫ് ഗണനി"
 
-#~ msgid "KAlgebra"
-#~ msgstr "കെ-ആള്‍ജിബ്ര"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "ഗണിതസൂത്ര പരിഹാരകനും പ്ലോട്ടറും"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "പണിയിടം പങ്കുവെക്കല്‍"
 
-#~ msgid "Krfb"
-#~ msgstr "കെആര്‍എഫ്ബി"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "ഒരു ഓര്‍മ്മ വര്‍ദ്ധിപ്പിക്കല്‍ കളി"
 
-#~ msgid "Blinken"
-#~ msgstr "ബ്ലിങ്കന്‍"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "എക്സ് സ്ക്രീനുകളുടെ വലിപ്പം മാറ്റുന്നതിനുള്ള ഒരു പാനല്‍ ആപ്ലെറ്റ്."
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "സ്ക്രീനിന്റെ വലിപ്പം മാറ്റി തിരിക്കുക"
 
-#~ msgid "Konsole"
-#~ msgstr "കണ്‍സോള്‍"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "ഡിഫ്/പാച്ച് പുരോഭാഗം"
 
-#~ msgid "KMag"
-#~ msgstr "കെമാഗ്"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "യവനികയിലെ ഭൂതക്കണ്ണാടി"
 
-#~ msgid "KNetAttach"
-#~ msgstr "കെനെറ്റ്അറ്റാച്ച്"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "നെറ്റ്‌വര്‍ക്ക് ഫോള്‍ഡര്‍ മാന്ത്രികന്‍"
 
-#~ msgid "Marble"
-#~ msgstr "മാര്‍ബിള്‍"
 
-#~ msgid "AMOR"
-#~ msgstr "അമോര്‍"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "സ്ക്രീന്‍ ജന്തു"
 
-#~ msgid "Parley"
-#~ msgstr "പാര്‍ലി"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "വാക്പട്ടിക പഠനസഹായി"
 
-#~ msgid "Font Viewer"
-#~ msgstr "അക്ഷരരൂപങ്ങള്‍ തുറക്കുക"
 
-#~ msgid "KFontView"
-#~ msgstr "കെഫോണ്ട്‌വ്യൂ"
 
-#~ msgid "Function Plotter"
-#~ msgstr "ഫങ്ഷന്‍ പ്ലോട്ടര്‍"
 
-#~ msgid "KmPlot"
-#~ msgstr "കെഎംപ്ലോട്ട്"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "ഗണിത ഫങ്ഷന്‍ പ്ലോട്ടര്‍"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "ഇന്റര്‍നെറ്റ് ഡയലപ്പ് ഉപകരണം"
 
-#~ msgid "KPPP"
-#~ msgstr "കെപിപിപി"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "ഏകോപിത വികസന പരിസ്ഥിതി"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "പണിയിട പ്ലാനറ്റേറിയം"
 
-#~ msgid "KStars"
-#~ msgstr "കെ-സ്റ്റാര്‍സ്"
 
-#~ msgid "Kopete"
-#~ msgstr "കോപീറ്റ്"
 
-#~ msgid "Download Manager"
-#~ msgstr "ഇറക്കിവെക്കല്‍ കാര്യസ്ഥന്‍"
 
-#~ msgid "KGet"
-#~ msgstr "കെഗെറ്റ്"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "ഒരു ഭൂമിശാസ്ത്ര പഠന പ്രോഗ്രാം"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "ഭൂമിശാസ്ത്ര പഠനസഹായി"
 
-#~ msgid "Dolphin"
-#~ msgstr "ഡോള്‍ഫിന്‍"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "ഭിന്നകങ്ങള്‍ അഭ്യസിക്കുക"
 
-#~ msgid "KBruch"
-#~ msgstr "കെ-ബ്രൂച്ച്"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "ഭിന്നകങ്ങള്‍ ചെയ്ത് അഭ്യസിക്കുക"
 
-#~ msgid "Info Center"
-#~ msgstr "വിവരകേന്ദ്രം"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "കെഇന്‍ഫോസെന്റര്‍"
 
-#~ msgid "KTeaTime"
-#~ msgstr "കെടീടൈം"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "ചായപ്പാത്രം"
 
-#~ msgid "Change Password"
-#~ msgstr "അടയാളവാക്ക് മാറ്റുക"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "ജാപ്പനീസ് റഫറന്‍സിനായും പഠിക്കാനായുമുള്ള ഉപകരണം"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "ജാപ്പനീസ് റഫറന്‍സ്/പഠന ഉപകരണം"
 
-#~ msgid "Kiten"
-#~ msgstr "കിറ്റണ്‍"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "യാന്ത്രിക മൌസ് ഞൊട്ട്"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "RSI ഫലങ്ങള്‍ കുറച്ച്, നിങ്ങള്‍ക്ക് വേണ്ടി മൌസില്‍ ഞൊട്ടുന്നു."
 
-#~ msgid "KMouseTool"
-#~ msgstr "കെമൌസ് ഉപകരണം"
 
-#~ msgid "KWrite"
-#~ msgstr "കെറൈറ്റ്"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "ഫിസിക്സ് പരീക്ഷണങ്ങള്‍ സിമുലേറ്റ് ചെയ്യുക"
 
-#~ msgid "Step"
-#~ msgstr "സ്റ്റെപ്പ്"
 
-#~ msgid "Menu Editor"
-#~ msgstr "മെനു മാറ്റുന്നിടം"
 
-#~ msgid "KRDC"
-#~ msgstr "കെആര്‍ഡിസി"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "വിദൂര പണിയിട ക്ലയന്റ്"
 
-#~ msgid "KSystemLog"
-#~ msgstr "കെസിസ്റ്റംലോഗ്"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "സിസ്റ്റം ലോഗ് കാണാന്നുള്ള ടൂള്‍"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "പ്രോഗ്രാമിങ്ങ് പഠന പരിസ്ഥിതി"
 
-#~ msgid "KTurtle"
-#~ msgstr "കെ-ടര്‍ട്ടില്‍"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "രേഖകളും കൂടകളും തിരയുക"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "ഇന്റര്‍നെറ്റ് ഡയലപ്പ് ഉപകരണ ലോഗ് ദര്‍ശകന്‍"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "കെപിപിപി ദിനസരിക്കാഴ്ച"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "ജ്യാമിതീയ നിര്‍മ്മിതികള്‍ കണ്ടുപഠിക്കുക"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "ഇന്ററാക്ടീവ് ജ്യാമിതി"
 
-#~ msgid "Kig"
-#~ msgstr "കിഗ്"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍ - പ്രത്യേകാധികാരമുള്ള ഉപയോക്താവായി"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "കെഡിഇ അക്ഷരക്രമം കളി"
 
-#~ msgid "Kanagram"
-#~ msgstr "കെ-അനഗ്രം"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "അക്ഷരക്രമം കളി"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "ഫ്ളോപ്പി ഫോര്‍മാറ്റര്‍"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "നിര്‍ദ്ദേങ്ങള്‍ക്ക് കുറക്കുവഴികള് നല്‍കുക"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "കീബോര്‍ഡ് കുറക്കുവഴികള്"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "ശബ്ദം ക്രമീകരിക്കുക "
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "പള്‍സ്ഓഡിയോ ശബ്ദ നിയന്ത്രണം"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "ഇന്‍സ്റ്റാള്‍ ചെയ്ത സംയോജകങ്ങള്‍ പ്രാവര്‍ത്തികം/അപ്രാവര്‍ത്തികം ആക്കുക"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "കീബോര്‍ഡ് സൂചക പ്ലഗ്ഗിനുകള്‍ "
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "ശബ്ദ വോള്യമും ശബ്ദ ഇവന്റുകളും മാറ്റുക"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "മറ്റുളള ഉപയോക്താക്കള്‍ക്ക് നിങ്ങളുടെ പണിയിടം കാണുന്നതെങ്ങനെയെന്നു് തെരഞ്ഞെടുക്കുക"
 
-#~ msgid "Screensaver"
-#~ msgstr "സ്ക്രീന്‍ സേവര്‍"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "നിങ്ങളുടെ സ്ക്രീന്‍ സേവറിന്‍റെ മുന്‍ഗണനകള്‍ ക്രമീകരിക്കുക"
 
-#~ msgid "Open Folder"
-#~ msgstr "ഫോള്‍ഡര്‍ തുറക്കുക "
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "തെരഞ്ഞെടുത്ത സോഫ്റ്റ്‌വെയറുകള്‍ സിസ്റ്റമില്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
 
-#~ msgid "Package Installer"
-#~ msgstr "പാക്കേജ് ഇന്‍സ്റ്റോളര്‍"
 
-#~ msgid "Sudoku"
-#~ msgstr "സുഡോകു"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "ലോഗ് ഫയല്‍ ദര്‍ശിനി"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "സിസ്റ്റം ലോഗ് ഫയലുകള്‍ കാണുക അല്ലെങ്കില്‍ നിരീക്ഷിക്കുക"
 
-#~ msgid "Network Proxy"
-#~ msgstr "നെറ്റ്‍വര്‍ക്ക് പ്രോക്സി"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "നിങ്ങളുടെ നെറ്റ്‍വര്‍ക്ക് പ്രോക്സിയില്‍ നിങ്ങളുടെ ഇഷ്ടാനിഷ്ടങ്ങള്‍ സെറ്റ് ചെയ്യുക"
 
-#~ msgid "Use the command line"
-#~ msgstr "കമാന്‍ഡ് ലൈന്‍ ഉപയോഗിക്കുക"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "നിങ്ങള്‍ ലോഗിന്‍ ചെയ്യുമ്പോള്‍ ആരംഭിക്കേണ്ട പ്രയോഗങ്ങള്‍ തെരഞ്ഞെടുക്കുക"
 
-#~ msgid "Startup Applications"
-#~ msgstr "പ്രാരംഭ പ്രയോഗങ്ങള്‍"
 
-#~ msgid "Preview fonts"
-#~ msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ കണ്ടുനോക്കുക"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "യുദ്ധഭൂമിയില്‍നിന്ന് കുഴിബോംബുകള്‍ എടുത്ത് മാറ്റുക"
 
-#~ msgid "Record sound clips"
-#~ msgstr "ശബ്ദ ക്ലിപ്പുകള്‍ റിക്കോര്‍ഡ് ചെയ്യുക"
 
-#~ msgid "Set your window properties"
-#~ msgstr "നിങ്ങളുടെ ജാലകത്തിന്‍റെ വിശേഷതകള്‍ സെറ്റ് ചെയ്യുക"
 
-#~ msgid "Windows"
-#~ msgstr "ജാലകങ്ങള്"
 
-#~ msgid "Configure power management"
-#~ msgstr "പവര്‍ മാനേജ്മെന്‍റ് സജ്ജമാക്കുക"
 
-#~ msgid "Power Management"
-#~ msgstr "പവര്‍ മാനേജ്മെന്‍റ്"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "അയില്‍റയട്ട് സോളിറ്റെയറ്‍"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "പലതരം സോളിറ്റെയറ്‍ കളികള്‍ കളിക്കുക"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "ഉപയോക്താക്കളേയും ഗ്രൂപ്പുകളേയും ചേര്‍ക്കുകയോ നീക്കം ചെയ്യുകയോ ചെയ്യുക"
 
-#~ msgid "Note-taker"
-#~ msgstr "നോട്ട്-ടേക്കര്‍"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "കുറിപ്പുകളെടുക്കുക, ആശയങ്ങള്‍ ബന്ധപ്പെടുത്തുക, ചിട്ട പാലിക്കുക"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Tomboy കുറിപ്പുകള്‍"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "ഒരു പുതിയ ആര്‍ക്കൈവ് നിര്‍മ്മിച്ച് അത് പരിഷ്കരിക്കുക"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr ""
-#~ "റദ്ദാക്കുക, താല്‍ക്കാലികമായി നിറ്‍ത്തുക, വീണ്ടും ആരംഭിക്കുക അല്ലെങ്കില്‍ വീണ്ടും പ്റിന്‍റ് ചെയ്യുക"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "പ്റിന്‍റ് ചെയ്യുവാനുളള ജോലികള്‍  കൈകാര്യം ചെയ്യുക"
 
-#~ msgid "About GNOME"
-#~ msgstr "ഗ്നോമിനെക്കുറിച്ച്"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "ഗ്നോമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക"
 
-#~ msgid "Gnumeric"
-#~ msgstr "ജിന്യ‌ൂമറിക്"
 
-#~ msgid "Keyboard"
-#~ msgstr "കീബോര്‍ഡ്"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "കീബോര്‍ഡ് മുന്ഗണനകള് സജ്ജീകരിക്കുക"
 
-#~ msgid "Mahjongg"
-#~ msgstr "മാജ്ജോങ്"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "മൌസ് മുന്‌ഗണനകള് രേഖപ്പെടുത്തുക"
 
-#~ msgid "Cheese"
-#~ msgstr "ചീസ്"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "നിങ്ങളുടെ വെബ്കാം ഉപയോഗിച്ചു് നല്ല രസമുള്ള ഗ്രാഫിക്കല്‍ എഫക്ടുകളോടുകൂടിയ ഫോട്ടോകളും "
-#~ "വീഡിയോകളും എടുക്കുക"
 
-#~ msgid "Iagno"
-#~ msgstr "ഇയാഗ്നോ"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "സോഫ്റ്റ്‌വെയര്‍ ചേര്‍ക്കുക/നീക്കം ചെയ്യുക"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "സിസ്റ്റമില്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന സോഫ്റ്റ്‌വെയറുകള്‍ പരിഷ്കരിക്കുക"
 
-#~ msgid "Observe power management"
-#~ msgstr "വൈദ്യുതി നടത്തിപ്പ് നോക്കിക്കാണുക"
 
-#~ msgid "Power Statistics"
-#~ msgstr "വൈദ്യുതിസ്ഥിതിവിവരം"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "വരിയില്‍ നാല്"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "ജയിക്കാനായി ഒരേ നിറമുള്ളവരികള്‍ നിര്‍മിക്കുക."
 
-#~ msgid "Time Tracker"
-#~ msgstr "സമയ നിരീക്ഷകന്‍"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "കീബോര്‍ഡില്ലാതെ വാചകം എന്റര്‍ ചെയ്യുക"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "പ്രെഡിക്റ്റീവ് ടെക്സ്റ്റ് എന്‍ട്രി"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "ഗ്നോം അനുരൂപമാക്കുന്ന ഉപകരണം"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "അരിതമെറ്റിക്, ശാസ്ത്രീയം അല്ലെങ്കില്‍ ധനകാര്യ സംബന്ധമായ കണക്കുകൂട്ടലുകള്‍ നടത്തുക"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "ഫയല്‍ മാനേജര്‍ ജാലകങ്ങളുടെ കാഴ്ചയും പെരുമാറ്റവും മാറ്റുക"
 
-#~ msgid "File Management"
-#~ msgstr "രചനാ നടത്തിപ്പ്"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Ekiga Softphone"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP ടെലിഫോണി, VoIP, വീഡിയോ കോണ്‍ഫറന്‍സിങ്"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "ഇന്‍ററ്‍നെറ്റ് വഴി സംസാരിക്കുക"
 
-#~ msgid "Edit text files"
-#~ msgstr "വാചക രചനകള് തിരുത്തുക"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "സോഫ്റ്റ്‌വെയര്‍ പരിഷ്കരണ മുന്‍ഗണനകള്‍ മാറ്റുക"
 
-#~ msgid "Software Updates"
-#~ msgstr "സോഫ്റ്റ്‌വെയര്‍ പരിഷ്കാരങ്ങള്‍"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bonobo ഘടകത്തിന്‍റെ ബ്രൌസര്‍"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "ലഭ്യമായ Bonobo ഘടകങ്ങള്‍ കാണിക്കുക"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Groupware Suite"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "നിങ്ങളുടെ ഈ മെയില്‍ , കോണ്ടാക്റ്റുകള്‍, ഷെഡ്യൂള്‍ ഇവിടെ ക്രമീകരിക്കുക"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "പള്‍സ്ഓഡിയോ മുന്‍ഗണനകള്‍"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "ശബ്ദ സര്‍വറിനുള്ള മുന്‍ഗണനകള്‍"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "ലോക്കല്‍ ശബ്ദ സര്‍വറിനുള്ള ക്രമീകരണം കണ്ടു് മാറ്റങ്ങള്‍ വരുത്തുക."
 
-#~ msgid "Orca"
-#~ msgstr "ഓര്‍ക്കാ"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "സ്ക്രീന്‍ റീഡറും മാഗ്നിഫയറും"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "സ്കിം ഇന്‍പുട്ട് മെഥേഡ് ക്രമികരണം"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "സ്മാര്‍ട്ട് കോമണ്‍ ഇന്‍പുട്ട് മെഥേഡ് പ്ലാറ്റ്ഫോമിനുള്ള ക്രമികരണ പ്രയോഗം"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "ഫ്റീസെല്‍ സോളിറ്റെയറ്‍"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "പ്റസിദ്ധമായ ഫ്റീസെല്‍ ചീട്ട് കളി കളിക്കുക"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "താങ്കളുടെ രൂപരേഖാ വിവരങ്ങള് മുഴുവനും ഒരുമിച്ച് സജ്ജീകരിക്കുക"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "സ്വയം പ്രവര്‍ത്തിയ്ക്കാനുള്ള ശ്രമം"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "ബഗ് റിപ്പോര്‍ട്ട് ടൂള്‍"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "GNOME സംബന്ധിച്ചുളള പ്രയോഗങ്ങളില്‍ ബഗ് റിപ്പോര്‍ട്ട് ചെയ്യുക"
 
-#~ msgid "Lights Off"
-#~ msgstr "ലൈറ്റ് അണക്കൂ"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "എല്ലാ ലൈറ്റുകളും കെടുത്തുക"
 
-#~ msgid "Nibbles"
-#~ msgstr "നിബിള്‍സ്"
 
-#~ msgid "Color Palette Editor"
-#~ msgstr "നിറക്കൂട്ടിന്റെ സന്നിവേശം"
 
-#~ msgid "KColorEdit"
-#~ msgstr "കെകളര്‍എഡിറ്റ്"
 
-#~ msgid "KFax"
-#~ msgstr "കെഫാക്സ്"
 
-#~ msgid "Icon Editor"
-#~ msgstr "ചിഹ്നങ്ങളുടെ സന്നിവേശം"
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "ഓട്ടോമാറ്റിക് ബഗ് രേഖപ്പെടുത്തല്‍ പ്രയോഗം"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "നിങ്ങളുടെ പ്രയോഗത്തിനു് ഒരു ആക്സസിബിളിറ്റി അഭ്യാസം ലഭ്യമാക്കുക"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "അന്‍ജുത ഐഡിഇ"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "ഏകോപിത വികസന പരിസ്ഥിതി (ide)യില്‍ സോഫ്റ്റ്‌വെയറുകള്‍ വികസിപ്പിക്കുക"
 
-#~ msgid "Manipulate component attributes with gattrib"
-#~ msgstr "gattrib ഉപയോഗിച്ച്   കമ്പോണന്ടിന്റെ  സവിശേഷതകള്‍ മാറ്റം വരുത്തുക"
 
-#~ msgid "gEDA Attribute Editor"
-#~ msgstr "gEDA യുടെ കമ്പോണന്‍ടു  സവിശേഷത എഡിറ്റര്‍"
 
-#~ msgid "Hearts"
-#~ msgstr "ഹാട്ട്സ് (Herats)"
 
-#~ msgid "Network Tools"
-#~ msgstr "നെറ്റ്‍വര്‍ക്ക് പ്രയോഗങ്ങള്‍"
 
-#~ msgid "View information about your network"
-#~ msgstr "നിങ്ങളുടെ നെറ്റ്വര്‍ക്കിനെ പറ്റി വിവരങ്ങള്‍ കാണുക"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "സ്വകാര്യ ഫയല്‍ പങ്കിടല്‍"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "ഫയലുകള്‍ പങ്കിടുന്നതിനുള്ള മുന്‍ഗണനകള്‍"
 
-#~ msgid "Gnote"
-#~ msgstr "ജിനോട്ട്"
 
-#~ msgid "Gwibber"
-#~ msgstr "ഗ്വിബ്ബര്‍"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "IBus മുന്‍ഗണനകള്‍"
 
-#~ msgid "Set IBus Preferences"
-#~ msgstr "IBus മുന്‍ഗണനകള്‍ സജ്ജമാക്കുക"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Input Method Framework"
-#~ msgstr "ഇന്‍പുട്ട് മെഥേഡ് ആകൃതി"
 
-#~ msgid "Start IBus Input Method Framework"
-#~ msgstr "IBus ഇന്‍പുട്ട് മെഥേഡ് ആകൃതി ആരംഭിയ്ക്കുക"
 
-#~ msgid "Game Creation Tool"
-#~ msgstr "Game Creation Tool"
 
-#~ msgid "Gluon Creator"
-#~ msgstr "Gluon Creator"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "ഫയലും അറകളും താരതമ്യം ചെയ്യാനും ലയിപ്പിക്കാനുമുള്ള ഒരു ആയുധം"
 
-#~ msgid "KDiff3"
-#~ msgstr "കെഡിഫ്3"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "നാണയമാറ്റത്തിനും ഗണനിക്കുമുള്ള ഒരു പരിപാടി"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "കെയൂറോകാല്‍ക്ക്"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "കെഗ്രാഫ്എഡിറ്റര്‍"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "കെഡിഇയ്ക്കുവേണ്ടിയുള്ള ഗ്രാഫ്‌‌വിസിന്റെ ഡോട്ട് ഗ്രാഫ് ദര്‍ശിനി"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "കെഗ്രാഫ്‌വ്യൂവര്‍"
 
-#~ msgid "KIconEdit"
-#~ msgstr "കെഐക്കണ്‍എഡിറ്റ്"
 
-#~ msgid "Kile"
-#~ msgstr "കൈല്‍"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "ലാടെക് ഫ്രണ്ടെന്റ്"
 
-#~ msgid "KMid"
-#~ msgstr "കെമിഡ്"
 
-#~ msgid "Cooking Book"
-#~ msgstr "പാചകപുസ്തകം"
 
-#~ msgid "Krecipes"
-#~ msgstr "കെവിഭവങ്ങള്‍"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "കെഡി‌ഈയുടെ പാചക പുസ്തകം"
 
-#~ msgid "Kuickshow"
-#~ msgstr "ക്വിക്ക്ഷോ"
 
-#~ msgid "Mailody"
-#~ msgstr "മെയിലഡി"
 
-#~ msgid "Makes sure you rest now and then"
-#~ msgstr "നിങ്ങള്‍ വല്ലപ്പോഴും വിശ്രമിക്കുന്നുണ്ടെന്ന് ഉറപ്പാക്കുക"
 
-#~ msgid "RSIBreak"
-#~ msgstr "RSI ഇടവേള"
 
-#~ msgid "Scan and save images"
-#~ msgstr "ചിത്രം സ്കാന്‍ ചെയ്തൂ സൂക്ഷിയ്ക്കുക"
 
-#~ msgid "Skanlite"
-#~ msgstr "സ്കാന്‍ലൈറ്റ്"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr "കെഡി‌ഈയുടെ കണ്‍സോള്‍ സാങ്കേതികത്വം അടിസ്ഥാനമാക്കിയ ഇറങ്ങിവരുന്ന ടെര്‍മിനല്‍ എമുലേറ്റര്‍"
 
-#~ msgid "Yakuake"
-#~ msgstr "യാക്വാകെ"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "നെറ്റ്‍വര്‍ക്ക് ഡിവൈസും കണക്ഷനും ക്രമീകരിക്കുക"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr ""
-#~ "നിങ്ങളുടെ നെറ്റ്‌വര്‍ക്ക് കണക്ഷന്‍ സജ്ജീകരണങ്ങള്‍ കൈകാര്യം ചെയ്യുകയും മാറ്റങ്ങള്‍ വരുത്തുകയും ചെയ്യുക."
 
-#~ msgid "Network Connections"
-#~ msgstr "നെറ്റ്‌വര്‍ക്ക് കണക്ഷനുകള്‍"
 
-#~ msgid "Decrypt File"
-#~ msgstr "ഫയല്‍ ഡീക്റിപ്റ്റ് ചെയ്യുക"
 
-#~ msgid "Import Key"
-#~ msgstr "കീ ഇംപോറ്‍ട്ട് ചെയ്യുക"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "കീ സര്‍വറുകളും മറ്റു് എന്‍ക്രിപ്ഷന്‍ ക്രമീകരണങ്ങളും ക്രമീകരിക്കുക"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "എന്‍ക്രിപ്ഷനും കീറിങുകളും"
 
-#~ msgid "Verify Signature"
-#~ msgstr "ഒപ്പ് ഉറപ്പാക്കുക"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "നിങ്ങളുടെ അടയാളവാക്കും എന്‍ക്രിപ്ഷന്‍ കീകളും കൈകാര്യം ചെയ്യുക"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "അടയാളവാക്കും എന്‍ക്രിപ്ഷന്‍ കീകളും"
-
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "സിസ്റ്റം ആരംഭിക്കുന്പോള്‍ ഏതെല്ലാം സേവനങ്ങള്‍ ആരംഭിക്കണമെന്ന് ക്രമീകരിക്കുന്നു"
-
-#~ msgid "Services"
-#~ msgstr "സേവനങ്ങള്"
-
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "അടുത്തുളള നെറ്റ്‍വര്‍ക്കുകള്‍ക്ക് ലഭ്യമാകുന്ന ഫോള്‍ഡറുകള്‍ ഏതെന്ന് ക്രമീകരിക്കുക"
-
-#~ msgid "Shared Folders"
-#~ msgstr "ഷെയര്‍ഡ് ഫോള്‍ഡറുകള്‍"
-
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "അഡോബി ഫ്ലാഷ് ഫയലുകള്‍ തുറക്കുക"
-
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Swfdec ഫ്ലാഷ് പ്ലയര്‍"
-
-#~ msgid "Change the default Java toolset"
-#~ msgstr "സ്വതവേയുള്ള ജാവാ ടൂള്‍സെറ്റ് മാറ്റുക"
-
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "കംപ്യൂട്ടറിന്‍റെ സമയം, തീയതി, ടൈം സോണ്‍ മാറ്റുക"
-
-#~ msgid "Time and Date"
-#~ msgstr "സമയവും തീയതിയും"
-
-#~ msgid "Users and Groups"
-#~ msgstr "ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും"
-
-#~ msgid "Manage virtual machines"
-#~ msgstr "വിര്‍ച്ച്വല്‍ മഷീനുകള്‍ കൈകാര്യം ചെയ്യുക"
-
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "വിര്‍ച്ച്വല്‍ മഷീന്‍ മാനേജര്‍"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "സ്റ്റികി നോട്ട്സ്"

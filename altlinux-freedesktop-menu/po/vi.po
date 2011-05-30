@@ -1,67 +1,72 @@
-# Vietnamese Translation for menu-section.
-# Copyright © 2007 Free Software Foundation, Inc.
-# Clytie Siddall <clytie@riverland.net.au>, 2005-2007.
-#
+# Vietnamese Translation for Menu-messages-main Module.
+# Copyright (C) 2003 MandrakeSoft
+# NGUYEN-DAI Quy <NDQ@iris.ltas.ulg.ac.be>, 2000
+# Trinh Minh Thanh <tmthanh@yahoo.com>, 2001-2005
+# Larry Nguyen <larry@vnlinux.org>, 2004
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.9-3\n"
+"Project-Id-Version: menu-messages-vi\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2007-07-09 15:23+0930\n"
-"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"PO-Revision-Date: 2005-02-13 00:37+0700\n"
+"Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: LocFactoryEditor 1.6.4a6\n"
 
 #, fuzzy
 msgid "2D Graphics"
-msgstr "Đồ hoạ"
+msgstr "Đồ họa"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "Ứng dụng đồ họa"
 
 #, fuzzy
 msgid "3D Graphics"
-msgstr "Đồ hoạ"
+msgstr "Đồ họa"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "Ứng dụng đồ họa"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "Quản lý tập tin"
+msgstr "Trò chơi và giải trí"
 
 msgid "Accessibility"
-msgstr "Truy cập"
+msgstr "Hỗ trợ"
 
+#, fuzzy
 msgid "Action"
-msgstr "Hành động"
+msgstr "Giáo dục"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "Hành động"
+msgstr "Trò chơi đoán ô chữ hành động"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "Sổ địa chỉ"
 
 msgid "Administration"
-msgstr "Quản trị"
+msgstr "Quản lý"
 
 msgid "Adventure"
 msgstr "Phiêu lưu"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "Phiêu lưu"
+msgstr "Trò chơi giống Tetris "
 
 msgid "Amateur Radio"
-msgstr "Rađiô nghiệp dư"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
@@ -83,22 +88,26 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Nhà điện tử"
+msgstr "Mái vòm"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "Trò chơi Video Arcade"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Công cụ nén"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr "Artificial Intelligence"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "Artificial Intelligence"
 
 msgid "Astronomy"
 msgstr "Thiên văn học"
@@ -110,25 +119,27 @@ msgstr "Thiên văn học"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "Trình chơi Video "
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "Bộ thu âm"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "Sao lưu"
 
 msgid "Biology"
-msgstr "Sinh học"
+msgstr "Sinh vật học"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "Sinh học"
+msgstr "Phần mềm Morphing"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Khối"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Trò chơi bảng"
@@ -144,7 +155,7 @@ msgstr "Máy tính"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "Mô phỏng"
+msgstr "Máy tính"
 
 msgid "Calendar"
 msgstr "Lịch"
@@ -160,25 +171,26 @@ msgstr "Bài lá"
 
 #, fuzzy
 msgid "Chart"
-msgstr "Đánh bài"
+msgstr "KCharSelect"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "Trò chuyện"
 
 msgid "Chemistry"
-msgstr "Hoá học"
+msgstr "Hóa học"
 
 #, fuzzy
 msgid "Chemistry software"
-msgstr "Hoá học"
+msgstr "Hóa học"
 
 #, fuzzy
 msgid "Clock"
-msgstr "Khối"
+msgstr "Sunclock"
 
 #, fuzzy
 msgid "Communications"
-msgstr "Giao thông"
+msgstr "Liên lạc với bạn bè"
 
 msgid "Compression"
 msgstr ""
@@ -186,22 +198,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Khoa học Máy tính"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "Khoa học Máy tính"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "Khoa học Máy tính"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "Khoa địa học"
+msgstr "Khoa học Máy tính"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Bộ sửa đổi cấu hình"
 
 #, fuzzy
 msgid "Construction"
-msgstr "Giao thông"
+msgstr "Quản lý"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -209,15 +224,16 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Hiển thị dữ liệu"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "Hiển thị dữ liệu"
 
 msgid "Databases"
 msgstr "Cơ sở dữ liệu"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "Ứng dụng"
+msgstr "Ứng dụng khác"
 
 msgid "Desktop"
 msgstr "Màn hình nền"
@@ -225,23 +241,27 @@ msgstr "Màn hình nền"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "Tiện ích đĩa"
 
 msgid "Development"
 msgstr "Phát triển"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "Các môi trường phát triển"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "Chương trình đồ họa 3D"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "Từ điển"
 
 msgid "Dictionary"
 msgstr "Từ điển"
@@ -259,7 +279,7 @@ msgid "Economy"
 msgstr "Kinh tế học"
 
 msgid "Editors"
-msgstr "Biên soạn"
+msgstr "Trình biên tập"
 
 msgid "Education"
 msgstr "Giáo dục"
@@ -267,63 +287,71 @@ msgstr "Giáo dục"
 msgid "Electricity"
 msgstr "Electricity"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "Electricity"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "Điện tử học"
+msgstr "Electricity"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Ứng dụng"
+msgstr "Ứng dụng đồ họa"
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Mô phỏng"
+msgstr "Trình mô phỏng"
 
 msgid "Engineering"
-msgstr "Kỹ thuật kỹ sư"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "Khối"
+msgstr "Khớp khối đang rơi xuống"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "Khớp khối đang rơi xuống"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "Quản lý tập tin"
+msgstr "Trình quản lí file"
 
 #, fuzzy
 msgid "File Systems"
-msgstr "Hệ thống"
+msgstr "Hệ Thống"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "Truyền tập tin"
+msgstr "Trình quản lí file"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "Công cụ hệ thống"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "Công cụ văn bản"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "Khoa học"
 
 msgid "Flow Chart"
 msgstr ""
@@ -334,8 +362,9 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "Ứng dụng đồ họa"
 
 msgid "Games"
 msgstr "Trò chơi"
@@ -351,60 +380,68 @@ msgstr "Địa lý"
 
 #, fuzzy
 msgid "Geology"
-msgstr "Sinh học"
+msgstr "Sinh vật học"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "Phần mềm Morphing"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "Khoa địa học"
+msgstr "Khoa học địa chất"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "Khoa địa học"
+msgstr "Khoa học địa chất"
 
 msgid "Geosciences"
 msgstr "Khoa học địa chất"
 
 msgid "Graphics"
-msgstr "Đồ hoạ"
+msgstr "Đồ họa"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "Phần mềm Morphing"
 
 msgid "Hardware"
-msgstr "Phần cứng"
+msgstr "Phần Cứng"
 
 msgid "History"
 msgstr "Lịch sử"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "Trình trò chuyện"
 
 msgid "Image Processing"
 msgstr "Xử lý ảnh"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "Xử lý ảnh"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Thông điệp tức thời (IM)"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "Máy khách thông điệp tức thời rộng rãi"
 
 msgid "Internet"
 msgstr "Mạng"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Ứng dụng"
+msgstr "Ứng dụng khác"
 
 msgid "Java"
 msgstr ""
@@ -423,47 +460,54 @@ msgstr "Văn học"
 
 #, fuzzy
 msgid "Logic Games"
-msgstr "Trò chơi"
+msgstr "Trò trơi suy đoán"
 
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "Phần mềm Morphing"
 
 msgid "Mathematics"
 msgstr "Toán học"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "Phần mềm DJ"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "Phần mềm Morphing"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "Bộ xem"
+msgstr "WmsMixer"
 
 msgid "Monitoring"
-msgstr "Theo dõi"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Đa phương tiện "
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "Trình đơn Đa phương tiện"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "Trình chơi nhạc đa phương tiện"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "Trình chơi nhạc đa phương tiện"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "Phần mềm Morphing"
 
 msgid "Network"
 msgstr "Mạng"
@@ -471,9 +515,8 @@ msgstr "Mạng"
 msgid "Network-related settings"
 msgstr "Thiết lập mạng"
 
-#, fuzzy
 msgid "News"
-msgstr "Tin tức Mạng"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -481,8 +524,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Phân tích số"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "Phân tích số"
 
 msgid "OCR"
 msgstr ""
@@ -501,14 +545,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "Lập trình"
+msgstr "Chương trình vẽ"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "Quản lý gói"
+msgstr "Trình đầu cuối"
 
 msgid "Packaging"
 msgstr "Đóng gói"
@@ -516,8 +560,9 @@ msgstr "Đóng gói"
 msgid "Parallel Computing"
 msgstr "Điện toán song song"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "Điện toán song song"
 
 msgid "Performance"
 msgstr ""
@@ -525,30 +570,34 @@ msgstr ""
 msgid "Personal"
 msgstr "Cá nhân"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "Địa lý"
 
 msgid "Physics"
 msgstr "Vật lý"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "Vật lý"
+msgstr "Phần mềm Morphing"
 
 msgid "Preferences"
 msgstr "Tùy thích"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "Trình diễn"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "Trình diễn"
 
 msgid "Printing"
 msgstr "In ấn"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "Công cụ nén"
 
 msgid "Project Management"
 msgstr "Quản lý dự án"
@@ -565,22 +614,26 @@ msgstr ""
 
 #, fuzzy
 msgid "Raster Graphics"
-msgstr "Đồ hoạ"
+msgstr "Đồ họa"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "Ứng dụng đồ họa"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "Màn hình làm việc từ xa"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "Điều khiển âm lượng"
 
 msgid "Robotics"
 msgstr "Robotics"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "Phần mềm Morphing"
 
 msgid "Role Playing"
 msgstr ""
@@ -588,9 +641,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "Lưu"
+msgstr ""
 
 msgid "Science"
 msgstr "Khoa học"
@@ -605,27 +657,31 @@ msgstr "Bảo mật"
 msgid "Security tools"
 msgstr "Bảo mật"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "MIDI sequencer"
 
 msgid "Settings"
 msgstr "Thiết lập"
 
+#, fuzzy
 msgid "Simulation"
-msgstr "Mô phỏng"
+msgstr "Mô phỏng Minitel"
 
 #, fuzzy
 msgid "Simulation Games"
-msgstr "Mô phỏng"
+msgstr "Trò chơi thám hiểm không gian"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "Trình cài đặt phần mềm"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "Trình Quản Lý Nguồn Phần Mềm"
 
 msgid "Software to teach music"
 msgstr ""
@@ -638,10 +694,11 @@ msgstr "Thể thao"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "Thể thao"
+msgstr "Trò chơi bảng"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "Bảng tính"
 
 msgid "Strategy"
 msgstr "Chiến lược"
@@ -651,7 +708,7 @@ msgid "Strategy Games"
 msgstr "Chiến lược"
 
 msgid "System"
-msgstr "Hệ thống"
+msgstr "Hệ Thống"
 
 msgid "System Tools"
 msgstr "Công cụ hệ thống"
@@ -659,15 +716,16 @@ msgstr "Công cụ hệ thống"
 msgid "System settings"
 msgstr "Thiết lập hệ thống"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "TV và Rađiô"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "TV và Rađiô"
+msgstr "Ứng dụng đồ họa"
 
 #, fuzzy
 msgid "TV applications"
@@ -676,11 +734,13 @@ msgstr "Ứng dụng"
 msgid "Teaching Tools"
 msgstr "Công cụ Dạy"
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "ISDN Telephone"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "Công cụ văn bản"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -690,14 +750,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Mô phỏng thiết bị cuối"
+msgstr "Trình đầu cuối"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Mô phỏng thiết bị cuối"
+msgstr "Thiết bị cuối"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "Công cụ văn bản"
 
 msgid "Text tools"
 msgstr "Công cụ văn bản"
@@ -708,8 +769,9 @@ msgstr ""
 msgid "Tools"
 msgstr "Công cụ"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "Công cụ phát triển phần mềm"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -717,11 +779,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "Chọn các ứng dụng mặc định của bạn"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "Chọn các ứng dụng mặc định của bạn"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -729,8 +793,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "Cấu hình máy in"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -747,4227 +812,1414 @@ msgstr "Đồ chơi"
 msgid "Translation"
 msgstr "Dịch"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "Dịch"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "Trình dạy Gõ Bàn phím"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "Đồ hoạ"
+msgstr "Công cụ vẽ đồ họa vector"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "Ứng dụng đồ họa"
 
 msgid "Video"
-msgstr "Ảnh động"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "Tùy thích"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "Bộ xem"
+msgstr "Trình chơi Video "
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "Trình ghi Video số"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "Bộ xem"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "Duyệt Mạng"
-
-msgid "Web Browsing"
-msgstr "Duyệt Mạng"
-
-msgid "Web Development"
-msgstr "Phát triển WWW"
+msgstr "Bộ duyệt Web"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "Duyệt Mạng"
+msgid "Web Browsing"
+msgstr "Bộ duyệt Web"
 
-msgid "Wordprocessors"
+msgid "Web Development"
+msgstr "Phát triển Mạng"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Bộ xử lý từ"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "Whois client"
 
-#~ msgid "Data Management"
-#~ msgstr "Quản lý dữ liệu"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "Thiết bị di động"
 
-#~ msgid "Medicine"
-#~ msgstr "Y khoa"
 
-#~ msgid "Social"
-#~ msgstr "Xã hội"
 
-#~ msgid "Shells"
-#~ msgstr "Trình bao"
 
-#~ msgid "Language Environment"
-#~ msgstr "Môi trường ngôn ngữ"
 
-#~ msgid "Text"
-#~ msgstr "Văn bản"
 
-#~ msgid "Puzzles"
-#~ msgstr "Câu đố"
 
-#~ msgid "Help"
-#~ msgstr "Trợ giúp"
 
-#~ msgid "Window Managers"
-#~ msgstr "Quản lý cửa sổ"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "Mô-đun FVWM"
 
-#~ msgid "Window Maker"
-#~ msgstr "Tạo cửa sổ"
 
-#~ msgid "Appearance"
-#~ msgstr "Diện mạo"
 
-#~ msgid "WorkSpace"
-#~ msgstr "Vùng làm việc"
 
-#~ msgid "Iceape Components"
-#~ msgstr "Thành phần Iceape"
 
-#~ msgid "Teddies"
-#~ msgstr "Con gấu bông"
 
-#~ msgid "Apps"
-#~ msgstr "Ứng dụng"
 
-#~ msgid "Hamradio"
-#~ msgstr "Truyền thành tài tử"
 
-#~ msgid "Math"
-#~ msgstr "Toán học"
 
-#~ msgid "Technical"
-#~ msgstr "Kỹ thuật"
 
-#~ msgid "Tetris-like"
-#~ msgstr "Khối thả"
 
-#~ msgid "Root-window"
-#~ msgstr "Cửa sổ chủ"
 
-#~ msgid "XShells"
-#~ msgstr "Ứng dụng X"
 
-#~ msgid "Admin"
-#~ msgstr "Quản lý"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Mọi ứng dụng"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Làm gì ?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Giáo dục"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Linh tinh"
 
-#~ msgid "Utilities"
-#~ msgstr "Các tiện ích"
 
-#~ msgid "Internationalization"
-#~ msgstr "Quốc tế hóa"
 
-#~ msgid "Programming"
-#~ msgstr "Lập trình"
 
-#~ msgid "Servers"
-#~ msgstr "Máy chủ"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "Cấu hình máy tính"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Các tiện ích của X window"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Tiện ích X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Nâng cao"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Thông số nâng cao"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Mất & Tìm"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Chiến thuật và Chiến lược"
 
-#~ msgid "Information"
-#~ msgstr "Thông tin"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Tùy thích cá nhân"
 
-#~ msgid "Accessories"
-#~ msgstr "Công cụ bổ sung"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Bổ trợ môi trường"
 
-#~ msgid "Networking"
-#~ msgstr "Mạng làm việc"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "Khoa học & Toán học"
 
-#~ msgid "Peripherals"
-#~ msgstr "Thiết bị ngoại vi "
 
-#~ msgid "Look and Feel"
-#~ msgstr "Sắc thái"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "Thiết lập điều khiển diện mạo và cách ứng xử của hệ thống"
 
-#~ msgid "File"
-#~ msgstr "Tập tin"
 
-#~ msgid "Personal settings"
-#~ msgstr "Thiết lập cá nhân"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "Sắc thái của ảnh bảo vệ màn hình"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Cấu hình và theo dõi hệ thống"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Thiết lập cho các thiết bị phần cứng"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Thực đơn KDE"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Thiết lập quản lý và Tùy thích cá nhân"
 
-#~ msgid "Universal Access"
-#~ msgstr "Truy cập hoàn toàn"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Thiết lập Truy cập Hoàn toàn"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "Thay đổi thiết lập cho toàn hệ thống (cho mọi người dùng)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Âm thanh và Ảnh động"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet và mạng"
 
-#~ msgid "Control Center"
-#~ msgstr "Trung tâm điều khiển"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Trò chơi giống Rogue"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr ""
-#~ "Chương trình truy cập Mạng như trình duyệt và trình nhận/gửi thư điện tử"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Chương trình chưa phân loại"
 
-#~ msgid "Office Applications"
-#~ msgstr "Ứng dụng văn phòng"
 
-#~ msgid ".hidden"
-#~ msgstr ".ẩn"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "Xin đừng gỡ bỏ hay thay đổi"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Cập Nhật Mandriva Linux"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "Chơi súc sắc kiểu bài xì — chắc thắng nhé"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Pháp"
 
-#~ msgid "MIDI file player"
-#~ msgstr "Trình chơi tập tin MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "Five or More"
-#~ msgstr "Năm hay Nhiều hơn"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "Bỏ các bóng cùng màu ra bảng bằng cách sắp dòng"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Gỡ mìn "
 
-#~ msgid "Documentation Browser"
-#~ msgstr "Bộ duyệt tài liệu"
 
-#~ msgid "System Monitor"
-#~ msgstr "Bộ theo dõi hệ thống"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Xem các tiến trình hiện thời và theo dõi tình trạng hệ thống"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Bộ xem ảnh"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Một ứng dụng theo dõi dựa trên GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "Cấu hình chính sách khoá cứng"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "Bộ hiệu chỉnh khoá cứng"
 
-#~ msgid "About Me"
-#~ msgstr "Tự giới thiệu"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Lập thông tin cá nhân"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "Tạo và sao chép đĩa CD và DVD"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Thay đổi những ứng dụng hiển thị trong trình đơn chính"
 
-#~ msgid "Main Menu"
-#~ msgstr "Trình đơn chính"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Duyệt Mạng"
 
-#~ msgid "Character Map"
-#~ msgstr "Sơ đồ ký tự"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Chèn ký tự đặc biệt vào tài liệu"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "Applet quan sát mạng"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Cấu hình SAMBA (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Công cụ quản trị Swat Samba"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "Mọi trò chơi bài lá Solitaire"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "Trò chơi cờ vua đồ họa"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "Tùy chỉnh màn hình nền"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr ""
-#~ "Tìm từ trong từ điển trực tuyến để kiểm tra chính tả và sự định nghĩa"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr "Trên máy tính này, tìm tài liệu và thư mục theo tên hay nội dung"
 
-#~ msgid "Search for Files..."
-#~ msgstr "Tìm kiếm tập tin..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Khởi chạy các ứng dụng khác và cung cấp các tiện ích khác nhau để quản lý "
-#~ "cửa sổ, hiển thị giờ v.v."
 
-#~ msgid "Panel"
-#~ msgstr "Bảng"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "Duyệt qua các ứng dụng và gõ dùng thiết bị nhập thay thế"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Bàn phím-màn hình"
 
-#~ msgid "Lookup words"
-#~ msgstr "Tra từ"
 
-#~ msgid "StarDict"
-#~ msgstr "StarDict"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "Frontend cho rp-pppoe"
 
-#~ msgid "GnuCash Finance Management"
-#~ msgstr "Quản lý Tài chính GnuCash"
 
-#~ msgid "Manage your finances, accounts, and investments"
-#~ msgstr "Quản lý tài chính, các tài khoản và vốn cố định"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "Bộ trích đĩa CD Âm thanh"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "Trích âm nhạc ra các CD của bạn"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "Bộ Tạo CD/DVD"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "Tạo đĩa CD và DVD"
 
-#~ msgid "Device Manager"
-#~ msgstr "Trình quản lý thiết bị"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "Ứng dụng ưa thích"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "Trượt khối để giải hình ghép"
 
-#~ msgid "Chess"
-#~ msgstr "Cờ"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "Chơi cờ hai người truyền thống "
 
-#~ msgid "Leafpad"
-#~ msgstr "Leafpad"
 
-#~ msgid "Simple text editor"
-#~ msgstr "Một trình soạn thảo văn bản đơn giản"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Duyệt các địa điểm mạng cục bộ và các địa điểm được đánh dấu"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "Tạo và Sửa Hồ sơ cho Người dùng"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "Bộ Sửa Hồ sơ Người dùng"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "Bộ Xem Ảnh Chụp"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Cấu hình cho Bluetooth"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Bộ soạn thảo văn bản"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "Quản lý đĩa và các loại vật chứa"
 
-#~ msgid "Office Suite"
-#~ msgstr "Bộ Ứng dụng Văn phòng"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Duyệt và xoay ảnh"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Thực hiện tính toán, phân tích thông tin và quản lý danh sách trong bảng "
-#~ "tính bằng Calc."
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "Công cụ điều khiển card âm thanh Echoaudio"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "Lưu ảnh của màn hình nền hay cửa sổ riêng"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "Chụp ảnh màn hình"
 
-#~ msgid "Phone Manager"
-#~ msgstr "Bộ Quản lý Điện thoại"
 
-#~ msgid "Receive and send text messages from your mobile phone"
-#~ msgstr "Nhận và gởi tin nhẳn chữ từ điện thoại di động"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "Chương trình trợ giúp cho nhà phát triển"
 
-#~ msgid "Devhelp"
-#~ msgstr "Trợ giúp phát triển"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Hà lan"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Duyệt hệ thống tập tin với trình quản lý tập tin"
 
-#~ msgid "File Browser"
-#~ msgstr "Bộ duyệt tập tin"
 
-#~ msgid "IDE for Python"
-#~ msgstr "IDE cho Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "Trình thông báo thư"
 
-#~ msgid "Configurator"
-#~ msgstr "Trình cấu hình"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "Bộ biên soạn sơ đồ Dia"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "Hiệu chỉnh sơ đồ"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "Cài đặt sắc thái cho các phần khác nhau của giao diện"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Trình cài đặt sắc thái"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "Control panel cho RME Hammerfall"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME Digicontrol"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Trợ giúp với GNOME"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Công nghệ Giúp đỡ"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "Chọn tính năng khả năng truy cập cần dùng khi đăng nhập"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "Kiểm tra kích cỡ thư mục và chỗ rảnh trên đĩa"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "Bộ phân tích cách sử dụng đĩa"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr ""
-#~ "Tạo hay mở bản đồ án thiết kế giao diện người dùng cho ứng dụng GTK+"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "Tổ chức, thích thú và chia ra các ảnh chụp của bạn"
 
-#~ msgid "Photo Manager"
-#~ msgstr "Bộ Quản Lý Ảnh Chụp"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "Công cụ cấu hình máy chủ và máy khách fax"
 
-#~ msgid "Movie Player"
-#~ msgstr "Bộ phát phim"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Chơi phim và nhạc"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Trình xem tài liệu"
 
-#~ msgid "Home Folder"
-#~ msgstr "Thư mục chính"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Mở thư mục cá nhân"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "Tạo xong hình ghép bằng cách khớp đá lát hiển thị số"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "Cấu hình mặc định cho ứng dụng GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Bộ chọn Hệ thống Đa phương tiện"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "Cấu hình thiết bị dùng PalmOS"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "Thiết bị dùng PalmOS"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "Truy cập đến màn hình nền từ xa"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "Bộ Xem Màn Hình Nền Từ Xa"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Gtk-ocr là một gtk frontend cho gocr"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "Tránh các rô-bốt và làm cho chúng đâm sầm vào nhau"
 
-#~ msgid "Robots"
-#~ msgstr "Rô-bốt"
 
-#~ msgid "Search"
-#~ msgstr "Tìm kiếm"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "Tìm kiếm dữ liệu trong môi trường của bạn"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Tây-Ban-Nha"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "Vẽ lưới các màu đập kiểu dáng nghệ thuật phổ biến."
 
-#~ msgid "Pop art squares"
-#~ msgstr "Vuông nghệ thuật phổ biến"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "Hiển thị chiều ảnh bằng F-Spot"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "Ảnh chụp F-Spot"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "Hiển thị trình diễn các ảnh từ thư mục Ảnh (Pictures) của bạn"
 
-#~ msgid "Pictures folder"
-#~ msgstr "Thư mục Ảnh"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "Thổi bong bóng biểu tượng chân GNOME chung quanh màn hình"
 
-#~ msgid "Floating Feet"
-#~ msgstr "Chân nổi"
 
-#~ msgid "Cosmos"
-#~ msgstr "Vũ trụ"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "Hiển thị trình diễn các ảnh của vũ trụ"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Duyệt mọi đĩa cục bộ và đĩa từ xa cũng như các thư mục có thể truy cập từ "
-#~ "máy này"
 
-#~ msgid "Computer"
-#~ msgstr "Máy tính"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "Duyệt phần mềm hiện có"
 
-#~ msgid "Bittorrent Checker"
-#~ msgstr "Bittorrent checker"
 
-#~ msgid "Mandriva Linux Bittorrent checker"
-#~ msgstr "Bittorrent checker"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Hiển thị trái đất trên desktop của bạn"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Duyệt và tổ chức các dấu sách"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Đánh dấu Web Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Đánh dấu Web"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Slovenia"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "Trò chơi hành động và giải đoán ô chữ"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Công cụ Cập nhật Thực đơn"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Trình chọn màu"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KColorChooser"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "Bảng Tuần hoàn các Nguyên tố Hoá học KDE"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "Bảng Tuần hoàn các Nguyên tố"
 
-#~ msgid "Hangman Game"
-#~ msgstr "Trò chơi Hangman"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "Trò chơi Hangman KDE"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "KPhotoAlbum"
 
-#~ msgid "Photo Album"
-#~ msgstr "Tập Ảnh"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "Bộ xem ảnh đơn giản"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Bộ quản lý người dùng"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Konquest"
-#~ msgstr "Chinh phục"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "Chương trình học từ vựng và flashcard"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "CVS Frontend"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "Thước đo màn hình"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Chương trình chụp màn hình"
 
-#~ msgid "Character Selector"
-#~ msgstr "Trình chọn kí tự "
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "Trình duyệt chia sẻ SMB/CIFS"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Chương trình lịch và kế hoạch"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Home"
-#~ msgstr "Nhà"
 
-#~ msgid "Personal Files"
-#~ msgstr "Tập tin Cá nhân"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Akregator"
-#~ msgstr "Xem tin nhanh với Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "Bộ đọc nguồn tin"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "KJots"
-#~ msgstr "KJots"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "Giao diện Tổng hợp Giọng nói"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "Engine cho cool desktop eyecandy."
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Anh chàng Khoai tây"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "Công cụ chứa lịch sử các cắt dán"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Công cụ Bảng nháp"
 
-#~ msgid "Klipper"
-#~ msgstr "Bảng nháp"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "Card Game"
-#~ msgstr "Game thẻ "
 
-#~ msgid "CD Player"
-#~ msgstr "Trình chơi CD"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "Bộ quản lý ảnh chụp KDE"
 
-#~ msgid "Photo Viewer and Editor"
-#~ msgstr "Bộ xem ảnh"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Bản sao của Bomberman"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Chia sẻ desktop"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shisen-Sho"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "Một GnuPG frontend"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "Công Cụ Mã Hóa"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "Bảng con đê thay đổi và định hướng lại màn hình X"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Thay đổi cỡ màn hình & Quay"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Mail Client"
-#~ msgstr "Mail Client"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Máy tính khoa học "
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Diff/Patch Frontend"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "Kính lúp Màn hình"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KNetAttach"
-#~ msgstr "Tấn công Mạng KDE"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Trình thao tác Thư mục Mạng"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "Kdenlive"
-#~ msgstr "Kdenlive"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "Nonlinear video editor cho KDE"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "Luyện tập Từ vựng"
 
-#~ msgid "Font Viewer"
-#~ msgstr "Trình xem Phông chữ"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Trình vẽ hàm số"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "Vẽ đồ thị Hàm số Toán học"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "Công cụ quay số Mạng"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Môi trường Phát triển Hợp nhất"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Desktop Planetarium"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "Paint Program"
-#~ msgstr "Chương trình vẽ"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "Công cụ quản lý đăng nhập"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Xem đĩa trống "
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "Trình khách BitTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "Nhìn thấy dữ liệu lý lịch hoạt động"
 
-#~ msgid "Download Manager"
-#~ msgstr "Trình quản lý việc tải tập tin"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "Một Chương trình giúp Học Địa lý"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "Luyện tập Địa lý"
 
-#~ msgid "KGeography"
-#~ msgstr "Địa lý K"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Tactical Game"
-#~ msgstr "Trò chơi chiến thuật "
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "Bài tập Phân số"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "Bài tập thực hành về phân số"
 
-#~ msgid "Info Center"
-#~ msgstr "Trung tâm Thông tin"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "Trung tâm Thông tin KDE"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Change Password"
-#~ msgstr "Đổi mật khẩu "
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "Công cụ Tham khảo/Học Tiếng Nhật"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "Trình quản lí bug KDE"
 
-#~ msgid "Welcome"
-#~ msgstr "Chào Mừng"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "Cấu hình desktop"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "Miniature Golf"
 
-#~ msgid "KwikDisk"
-#~ msgstr "KwikDisk"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "Ấn Chuột Tự động"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "Nhấn chuột cho bạn, giảm hiệu ứng RSI"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Trash"
-#~ msgstr "Thùng rác"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Board Game"
-#~ msgstr "Game bàn "
 
-#~ msgid "SameGame"
-#~ msgstr "SameGame"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "Quản lý ảnh chụp"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Trình soạn văn bản nâng cao"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Bộ soạn thảo thập lục phân"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Trình đọc News "
 
-#~ msgid "Menu Editor"
-#~ msgstr "Biên soạn menu"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "Bộ phát nhạc"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "Trình đo thời gian "
 
-#~ msgid "IRKick"
-#~ msgstr "IRKick"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "Máy chủ điều khiển hồng ngoại linux từ xa của KDE"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Tìm Tập tin/Thư mục"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "Trình xem bản ghi của công cụ quay số Mạng"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "Bộ xem bản ghi KPPP"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "Khám phá các phép Dụng Hình học"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "Hình học Tương tác"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Bộ quản lý Tập tin - Chế độ siêu người dùng"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "Trò chơi Sắp xếp Chữ cái KDE"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "Trò chơi Sắp xếp Chữ cái"
 
-#~ msgid "Popup Notes"
-#~ msgstr "Ghi chép Popup"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Trình định dạng đĩa mềm"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Gán phím nóng cho lệnh"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Phím tắt"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Mandriva Linux Pxelinux configurator"
-#~ msgstr "Cấu hình Pxelinux"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Ý"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Nam Triều tiên"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "Chương trình để xem TV"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV "
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "Trình thăm dò dữ liệu hiển thị"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Tạo và chỉnh sửa trình diễn cho chiếu ảnh, hội họp và trang Mạng dùng "
-#~ "Impress."
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Tạo và chỉnh sửa công thức khoa học và phương trình dùng Math."
 
-#~ msgid "Formula"
-#~ msgstr "Công thức"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Điều chỉnh mức âm lượng"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Cấu hình môi trường cơ sở dữ liệu"
 
-#~ msgid "Database Access Properties"
-#~ msgstr "Tài sản truy cập cơ sở dữ liệu"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "Bật/tắt bổ sung đã cài đặt"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "Bổ sung chỉ thị bàn phím"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "Công cụ điều khiển card âm thanh dựa trên Envy24 (ice1712)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Nhật"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "Trò đấu xe tăng 3D nhiều người chơi"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in French"
-#~ msgstr "Tài liệu Mandrakelinux bằng tiếng Pháp"
 
-#~ msgid "Screensaver"
-#~ msgstr "Trình bảo vệ màn hình"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "Lập các tùy thích cho trình bảo vệ màn hình"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "Kế toán Miễn phí,dễ dùng,cá nhân cho mọi người"
 
-#~ msgid "HomeBank"
-#~ msgstr "Ngân hàng tại nhà"
 
-#~ msgid "Open Folder"
-#~ msgstr "Mở thư mục"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "Trò chơi đoán ô chữ cho nhiều người chơi"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "Sudoku"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "Kiểm tra kỹ năng lôgic của bạn trong câu đố lưới con số"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "Tải và chia sẻ tập tin qua BitTorrent"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "Bộ Xem Tập Tin Ghi Lưu"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "Xem hay theo dõi tập tin bản ghi hệ thống"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Ủy nhiệm mạng"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "Đặt tùy thích máy phục vụ ủy nhiệm mạng cho bạn."
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LXTerminal"
 
-#~ msgid "Use the command line"
-#~ msgstr "Dùng dòng lệnh"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "Hãy chọn những ứng dụng nào cần khởi chạy khi bạn đăng nhập"
 
-#~ msgid "Startup Applications"
-#~ msgstr "Ứng dụng Khởi chạy"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Xem thử phông"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "Xóa mọi mìn bị ẩn ra vùng mìn"
 
-#~ msgid "Record sound clips"
-#~ msgstr "Thu đoạn âm thanh"
 
-#~ msgid "Set your window properties"
-#~ msgstr "Đặt thuộc tính cửa sổ"
 
-#~ msgid "Windows"
-#~ msgstr "Cửa sổ"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Trò chơi arcade Frozen Bubble"
 
-#~ msgid "Configure power management"
-#~ msgstr "Cấu hình quản lý điện năng"
 
-#~ msgid "Power Management"
-#~ msgstr "Quản lý Điện năng"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "AisleRiot Solitaire"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Chơi nhiều trò chơi solitaire khác nhau"
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Thêm hoặc bỏ người dùng và nhóm"
 
-#~ msgid "User Administration"
-#~ msgstr "Quản trị người dùng"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Duyệt web"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Nhà ngôn ngữ học Qt"
 
-#~ msgid "Note-taker"
-#~ msgstr "Bộ ghi chú"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Ghi chép, liên kết ý kiến và cứ sắp đặt"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Ghi chú Tomboy"
 
-#~ msgid "Archive Manager"
-#~ msgstr "Bộ quản lý kho lưu"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Tạo và sửa đổi kho lưu"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "Thôi, tạm dừng, tiếp tục lại hoặc in lại các công việc"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "Quản lý công việc in"
 
-#~ msgid "Create and edit Web pages by using Writer."
-#~ msgstr "Tạo và chỉnh sửa trang Mạng bằng Writer."
 
-#~ msgid "OpenOffice.org Writer/Web"
-#~ msgstr "Writer/Web của OpenOffice.org"
 
-#~ msgid "Web Page Creation"
-#~ msgstr "Tạo trang Mạng"
 
-#~ msgid "Search & Indexing"
-#~ msgstr "Tìm kiếm và Chỉ mục"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "Tìm tập tin, thư mục và tài liệu trên máy tính."
 
-#~ msgid "About GNOME"
-#~ msgstr "Giới thiệu GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Xem thông tin thêm về GNOME"
 
-#~ msgid "A QT application to configure Synaptics TouchPad"
-#~ msgstr "Ứng dụng QT để cấu hình Synaptics TouchPad"
 
-#~ msgid "Manage running processes"
-#~ msgstr "Quản lý các tiến trình đang chạy"
 
-#~ msgid "Process manager"
-#~ msgstr "Quản lý tiến trình"
 
-#~ msgid "Task Manager"
-#~ msgstr "Quản lý tác vụ"
 
-#~ msgid "Calculation, Analysis, and Visualization of Information"
-#~ msgstr "Tính, phân tích và cách thức hiển thị thông tin"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Bàn phím"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Lập các tùy thích cho bàn phím của bạn"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "Tháo chồng đá lát ra bằng cách bỏ các cặp khớp"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mạt chược"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Hung-ga-ri"
 
-#~ msgid "Mouse"
-#~ msgstr "Con chuột"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Lập các tùy thích cho chuột"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "Chụp ảnh và phim dùng webcam, thêm các hiệu ứng đồ họa thứ vị."
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "Thống trị bảng trong trò chơi kiểu Reversi cổ điển"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "Một Frontend đồ họa để cài đặt các tập tin RPM"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - trình quản lý/thay đổi/bảo vệ màn hình cho desktop"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr "Sự trở lại của một trò chơi cũ Tower Toppler hoặc Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "Theo dõi sự quản lý điện năng"
 
-#~ msgid "Power Statistics"
-#~ msgstr "Thống kê điện năng"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Tạo và chỉnh sửa văn bản và đồ họa trong thư, báo cáo, tài liệu và trang "
-#~ "Mạng dùng Writer."
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "Bốn-trong-một-hàng"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "Đua để sắp dòng cùng màu để thắng"
 
-#~ msgid "Database"
-#~ msgstr "Cơ sở dữ liệu"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr ""
-#~ "Quản lý cơ sở dữ liệu, tạo truy vấn và báo cáo để theo dõi và quản lý "
-#~ "thông tin của bạn bằng Base."
 
-#~ msgid "OpenOffice.org Base"
-#~ msgstr "Base của OpenOffice.org"
 
-#~ msgid "Project Hamster - track your time"
-#~ msgstr "Dự án Hamster — theo dõi thời gian làm"
 
-#~ msgid "Time Tracker"
-#~ msgstr "Theo dõi Thời gian"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "Nhập văn bản mà không có bàn phím"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "Nhập đoạn dự đoán"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Freeciv server"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "Hệ thống CAD chuyên nghiệp"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "Công cụ cấu hình GNOME"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "Bộ đọc tin tức Pan"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Đọc tin từ Usenet"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "Chạy phép tính số học, khoa học hay tài chính"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "Thay đổi hành vi và diện mạo của cửa sổ trình quản lý tập tin"
 
-#~ msgid "File Management"
-#~ msgstr "Quản lý tập tin"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "Trình mô phỏng Terminal chuẩn cho Hệ thống Cửa sổ X"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "Front-end cho trình quét cổng nmap"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "Cấu hình ODBC"
 
-#~ msgid "Planner Project Management"
-#~ msgstr "Quản lý dự án Planner"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Điện thoại mềm Ekiga"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "Điện thoại IP, VoIP và hội thảo ảnh động"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "Nói chuyện với mọi người qua internet"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Thống kê các gói của Mandriva Linux"
 
-#~ msgid "Packages Stats"
-#~ msgstr "Thống kê các gói"
 
-#~ msgid "Mandriva Linux DrakXTools User Manual in English"
-#~ msgstr "Tài liệu Mandrakelinux bằng tiếng Anh"
 
-#~ msgid "Edit text files"
-#~ msgstr "Soạn thảo tập tin văn bản"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bộ duyệt thành phần Bonobo"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "Hiển thị các thành phần Bonobo sẵn sàng"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Bộ phần mềm nhóm (Groupware)"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "Quản lý thư tín, lịch biểu và các liên lạc"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Đức"
 
-#~ msgid "Howtos German"
-#~ msgstr "Howtos bằng tiếng Đức"
 
-#~ msgid ""
-#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
-#~ msgstr ""
-#~ "Trò chuyện qua mạng tin nhắn tức khắc: hỗ trợ AIM, Google Talk, Jabber/"
-#~ "XMPP, MSN, Yahoo và nhiều mạng khác"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "Tin Nhắn"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Tin Nhắn Pidgin"
 
-#~ msgid "System information"
-#~ msgstr "Thông tin Hệ thống"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid "Qalculate!"
-#~ msgstr "Qalculate!"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Rumani"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Công cụ của Trung tâm cấu hình/thông tin phần cứng"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Ba lan"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "Frontend để dễ dàng in ấn bằng CUPS"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "Phát nhạc và tổ chức các tập nhạc của bạn."
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "View and organize your images"
-#~ msgstr "Duyệt và sắp xếp hình ảnh"
 
-#~ msgid "Registry Editor"
-#~ msgstr "Biên soạn registry"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr ""
-#~ "Đưa ra thông tin trên màn hình như là tiếng nói hay chữ nổi, hoặc phóng "
-#~ "to màn hình"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "Trình phóng đại và trình đọc màn hình"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Anh"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "Cài đặt bộ gõ SCIM"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "Tiện ích thiết lập cho bộ gõ SCIM"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "Trình soạn thảo đa năng VI"
 
-#~ msgid "VI editor"
-#~ msgstr "Trình soạn thảo VI"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Hy-lạp"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "Howtos bằng tiếng Hy-lạp"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Solitaire FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Đánh bài FreeCell phổ thông"
 
-#~ msgid "Window Manager"
-#~ msgstr "Trình quản lí cửa sổ"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Indonesia"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "Chương trình có chức năng vẽ nổi tiếng"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Trực tiếp biên soạn toàn bộ cơ sở dữ liệu về cấu hình của bạn"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "Tạo và hiệu chỉnh ảnh kiểu đồ hóa véc-tơ có khả năng co giãn (SVG)"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Trung quốc"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "Hỏi autorun"
 
-#~ msgid "Create images and edit photographs"
-#~ msgstr "Tạo và biên soạn ảnh hay ảnh chụp"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "Bộ biên soạn ảnh"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "Một trò chơi lightcycle 3D khác"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Công cụ báo lỗi"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Báo lỗi trong ứng dụng nền GNOME"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "Trò chơi gống như boulderdash"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Đá và Kim cương"
 
-#~ msgid "Lights Off"
-#~ msgstr "Đóng đèn"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "Đóng mọi đèn"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Phần Lan"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr "Tài liệu HOWTO (định dạng html) của LDP bằng tiếng Thụy điển"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "Tạo và chỉnh bản vẽ, lược đồ, và biểu hình dùng Draw."
 
-#~ msgid "Drawing"
-#~ msgstr "Vẽ"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "Hướng dẫn con giun qua cung mê"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "Personal Finance Manager"
-#~ msgstr "Trình quản lý tài chính cá nhân"
 
-#~ msgid "Color Palette Editor"
-#~ msgstr "Bộ sửa bảng chọn màu"
 
-#~ msgid "Icon Editor"
-#~ msgstr "Bộ xem biểu tượng"
 
-#~ msgid "GnomeICU ICQ Instant Messenger"
-#~ msgstr "Bộ tin nhắn tức khắc ICQ GnomeICU"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "Trình giả lập Terminal"
 
-#~ msgid "Differences tool"
-#~ msgstr "Công cụ khác biệt"
 
-#~ msgid "File difference and patch visualiser"
-#~ msgstr "Trình xem sự khác nhau giữa tập tin và vá"
 
-#~ msgid "Xffm Patch manager"
-#~ msgstr "Trình quản lý vá lỗi Xffm"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "Thử ra khả năng truy cập của ứng dụng"
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "Anjuta IDE"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "Phát triển phần mềm trong một môi trường phát triển thống nhất"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "Molecule puzzle game"
-#~ msgstr "Trò chơi trí tuệ về phân tử"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Quản lý tùy chỉnh, bộ khởi chạy, tiểu dụng và diện mạo"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "E-Mail utility"
-#~ msgstr "Tiện ích thư điện tử"
 
-#~ msgid "Barrage"
-#~ msgstr "Barrage"
 
-#~ msgid "Blam Feed Reader"
-#~ msgstr "Bộ đọc dòng Blam"
 
-#~ msgid "Feed reader"
-#~ msgstr "Bộ đọc dòng"
 
-#~ msgid "Blueman Bluetooth Manager"
-#~ msgstr "Blueman - Trình quản lý Bluetooth"
 
-#~ msgid "Bluetooth Manager"
-#~ msgstr "Trình quản lý Bluetooth"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Bộ xem máy ảnh Mạng Camorama"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "Xem, sửa đổi và lưu ảnh từ máy ảnh Mạng."
 
-#~ msgid "ChmSee"
-#~ msgstr "ChmSee"
 
-#~ msgid "HTML Help(CHM) viewer"
-#~ msgstr "Trình duyệt HTML Help(CHM)"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Conduit Synchronizer"
-#~ msgstr "Bộ đồng bộ hoá ống dẫn Conduit"
 
-#~ msgid "Synchronization for GNOME"
-#~ msgstr "Chức năng đồng bộ hoá cho GNOME"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Trình biên soạn XML kết hợp"
 
-#~ msgid "Edit XML files"
-#~ msgstr "Biên soạn tập tin XML"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Trường đỏ thẫm"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Trình Gỡ Rối Hiển Thị Dữ Liệu"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Công cụ toán Dr.Geo"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma"
 
-#~ msgid "Desktop Firewall Tool"
-#~ msgstr "Công Cụ Tường Lửa Cho Máy Bàn"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "Galculator"
-#~ msgstr "Galculator"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "Quản lý GCompris"
 
-#~ msgid "GCompris Administration"
-#~ msgstr "Quản trị GCompris"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "Trò chơi giáo dục cho trẻ con từ 2 đến 10 tuổi"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "Bộ trình giáo dục GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "Trò chơi giáo dục đa hoạt động"
 
-#~ msgid "A desktop applet system for GNOME"
-#~ msgstr "Hệ thống tiểu dụng mặt bàn cho GNOME"
 
-#~ msgid "A fast and lightweight IDE using GTK2"
-#~ msgstr "Một IDE nhanh và nhẹ nhàng dùng GTK2"
 
-#~ msgid "Geany"
-#~ msgstr "Geany"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "Bộ soạn thảo văn bản (quản trị)"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "Bộ soạn thảo thập lục phân Gnome"
 
-#~ msgid "Giggle"
-#~ msgstr "Giggle"
 
-#~ msgid "Git repository viewer"
-#~ msgstr "Trình xem kho Git"
 
-#~ msgid "Globulation2"
-#~ msgstr "Globulation2"
 
-#~ msgid "Globulation2 - a state of the art Real Time Strategy (RTS) game"
-#~ msgstr "Globulation2 - trò chơi Real Time Strategy (RTS) nghệ thuật"
 
-#~ msgid "A user-friendly database environment."
-#~ msgstr "Một môi trường cơ sở dữ liệu thân thiện với người dùng."
 
-#~ msgid "Glom"
-#~ msgstr "Glom"
 
-#~ msgid "CHM Viewer"
-#~ msgstr "Trình Xem CHM"
 
-#~ msgid "Gnomad 2"
-#~ msgstr "Gnomad 2"
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "Blog Entry Poster"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "Ghi một mục vào web log"
 
-#~ msgid "A two paned file manager"
-#~ msgstr "Bộ quản lý tập tin ô đôi"
 
-#~ msgid "GNOME Commander"
-#~ msgstr "GNOME Commander"
 
-#~ msgid ""
-#~ "Do things as quickly as possible (but no quicker) with your files, "
-#~ "bookmarks, applications, music, contacts, and more!"
-#~ msgstr ""
-#~ "Mở tập tin, đánh dấu, ứng dụng, liên lạc, phát nhạc và mọi điều bạn muốn "
-#~ "làm! Luôn và ngay!"
 
-#~ msgid "GNOME Do"
-#~ msgstr "GNOME Do"
 
-#~ msgid "Drivel Journal Editor"
-#~ msgstr "Bộ biên soạn nhật ký Drivel"
 
-#~ msgid "Journal Editor"
-#~ msgstr "Bộ biên soạn nhật ký"
 
-#~ msgid "Update and manage your online journal"
-#~ msgstr "Cập nhật và quản lý nhật ký trực tuyến của bạn"
 
-#~ msgid "Genius Mathematical Tool and Calculator"
-#~ msgstr "Công cụ toán học thông minh và bàn tính"
 
-#~ msgid "GNOME-Mud"
-#~ msgstr "GNOME Mud"
 
-#~ msgid "The GNOME MUD Client"
-#~ msgstr "Ứng dụng khách MUD của Gnome"
 
-#~ msgid "Network Tools"
-#~ msgstr "Công cụ mạng"
 
-#~ msgid "View information about your network"
-#~ msgstr "Xem thông tin về mạng của bạn"
 
-#~ msgid "Desktop Library Package Inspector"
-#~ msgstr "Bộ kiểm tra Gói thư viện Desktop"
 
-#~ msgid "Get useful information about installed GNOME desktop libraries"
-#~ msgstr "Lấy thông tin hữu dụng về các thư viện GNOME đã cài đặt"
 
-#~ msgid "Package Viewer"
-#~ msgstr "Bộ xem gói"
 
-#~ msgid "GNOME Dialup Tool"
-#~ msgstr "Công cụ quay số GNOME"
 
-#~ msgid "GNOME PPP"
-#~ msgstr "GNOME PPP"
 
-#~ msgid "Manage your system tasks"
-#~ msgstr "Quản lý các tác vụ hệ thống của bạn"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "Chia sẻ tập tin cá nhân"
 
-#~ msgid "FM-Radio Tuner"
-#~ msgstr "Bộ điều chỉnh Rađiô FM"
 
-#~ msgid "Listen to FM-radio"
-#~ msgstr "Nghe rađiô FM"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio Music Player"
 
-#~ msgid "Gnubiff is a mail notification program."
-#~ msgstr "Gnubiff là một chương trình thông báo thư."
 
-#~ msgid "Mail notification program"
-#~ msgstr "Chương trình thông báo thư"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "Chơi và giải nén CD"
 
-#~ msgid "Gossip Instant Messenger"
-#~ msgstr "Bộ tin nhắn tức khắc Gossip"
 
-#~ msgid "GParted"
-#~ msgstr "GParted"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid "Graveman"
-#~ msgstr "Graveman"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "Tetrinet client"
-#~ msgstr "Ứng dụng khách Tetrinet"
 
-#~ msgid "Tetrinet client for GNOME"
-#~ msgstr "Ứng dụng khách Tetrinet cho GNOME"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTKWave"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "Trình xem GTKWave Electronic Waveform"
 
-#~ msgid "Extra galeon preferences"
-#~ msgstr "Tùy thích thêm cho Galeon"
 
-#~ msgid "Extra preferences for application menus"
-#~ msgstr "Tùy thích thêm cho các menu của ứng dụng"
 
-#~ msgid "Extra nautilus preferences"
-#~ msgstr "Tùy thích thêm cho Nautilus"
 
-#~ msgid "Extra session preferences"
-#~ msgstr "Tùy thích thêm cho phiên làm việc"
 
-#~ msgid "Guikachu"
-#~ msgstr "Guikachu"
 
-#~ msgid "Resource editor for PalmOS"
-#~ msgstr "Bộ hiệu chỉnh tài nguyên cho PalmOS"
 
-#~ msgid "Gweled"
-#~ msgstr "Gweled"
 
-#~ msgid "Gwget Download Manager"
-#~ msgstr "Gwget — Bộ Quản lý Tải về"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "Tùy thích IBus"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Desktop Session Recorder"
-#~ msgstr "Bộ thu phiên chạy màn hình nền"
 
-#~ msgid "Istanbul Desktop Session Recorder"
-#~ msgstr "Bộ thu phiên chạy màn hình nền Istanbul"
 
-#~ msgid "Record a video of your desktop session"
-#~ msgstr "Thu ảnh động của phiên chạy màn hình nền"
 
-#~ msgid "Katoob"
-#~ msgstr "Katoob"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "Bàn tính và đổi tỷ giá tiền tệ"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "Bộ xem đồ thị chấm Graphviz cho KDE"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "kgraphviewer"
 
-#~ msgid "KMess"
-#~ msgstr "KMess"
 
-#~ msgid "Network Monitor"
-#~ msgstr "Trình theo dõi mạng"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "A batch renamer"
-#~ msgstr "Trình đổi tên batch"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "Trình quản lý tập tin có cửa sổ kép"
 
-#~ msgid "Kuickshow"
-#~ msgstr "Kuickshow"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "Chương trình KPart của KDE"
 
-#~ msgid "A collection manager"
-#~ msgstr "Trình quản lý bộ sưu tập"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "KScope"
-#~ msgstr "KScope"
 
-#~ msgid "Connect to Internet Relay Chat"
-#~ msgstr "Kết nối đến Internet Relay Chat (IRC)"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "Trò chơi chiến đấu nhiều người chơi"
 
-#~ msgid "LPairs"
-#~ msgstr "LPairs"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "Configure keyboard, mouse, and other input devices"
-#~ msgstr "Cấu hình bàn phím, chuột, và các thiết bị đầu vào khác"
 
-#~ msgid "Keyboard and Mouse"
-#~ msgstr "Bàn phím và chuột"
 
-#~ msgid "First person shooter game"
-#~ msgstr "Trò chơi bắn súng cá nhân đầu tiên"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct "
 
-#~ msgid "Arcade Shooter"
-#~ msgstr "Arcade Shooter"
 
-#~ msgid "Critical Mass"
-#~ msgstr "Critical Mass"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "GTorrentViewer"
-#~ msgstr "GTorrentViewer"
 
-#~ msgid "OilWar"
-#~ msgstr "OilWar"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "Trò chơi bắn chuột đơn giản"
 
-#~ msgid "A MacOS run-time environment"
-#~ msgstr "MacOS run-time environment"
 
-#~ msgid "SheepShaver"
-#~ msgstr "SheepShaver"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "SpiralLoops"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "Các loop tổng hợp"
 
-#~ msgid "SpiralSynth"
-#~ msgstr " SpiralSynth"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "VOCPweb (Thu lấy thông điệp từ xa qua  VOCP Web)"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "Cuộc phiêu lưu thú vị của Abe !"
 
-#~ msgid "Abuse"
-#~ msgstr "Lạm dụng"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "Trò  Crack-Dot-Com kinh điển"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "Tách và chuyển đổi Video"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "AirStrike"
-#~ msgstr " AirStrike"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "Trò chơi Dogfight 2D rất mê li"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Trình duyệt và giải mã Teletext/Videotext"
 
-#~ msgid "Arcade-style mix of asteroids and pool"
-#~ msgstr "Arcade-style hỗ hợp giữa asteroids và pool"
 
-#~ msgid "Graphical frontend to Valgrind memory checker"
-#~ msgstr "Frontend đồ họa cho trình kiểm tra bộ nhớ Valgrind"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "Công cụ cấp quyền web và trình duyệt của W3C"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Alsa Modular Synth"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "Modular Synthesizer cho ALSA"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Chiến tranh thiên thần"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "Người bắn vào không gian cuộn lề kiểu cũ và nhịp độ nhanh"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "GUI cho Genpak"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "Lệnh chiến lược nâng cao"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "Trò chơi 3D bắn asteroids"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asteroids3D"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "Trình điều khiển Brainwave"
 
-#~ msgid "Bacula Console (wxWindows)"
-#~ msgstr "Bacula Console (wxWindows)"
 
-#~ msgid "Bacula Director Console"
-#~ msgstr "Bacula Director Console"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "Cấu hình tiết kiệm năng lượng cho hệ thống"
 
-#~ msgid "Energy Saving"
-#~ msgstr "Tiết Kiệm Năng Lượng"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr ""
-#~ "Bbconf là một công cụ cấu hình có giao diện đồ họa hoàn chỉnh cho Blackbox"
 
-#~ msgid "BB Run"
-#~ msgstr "BB Run"
 
-#~ msgid "BlackBox Run Window"
-#~ msgstr "BlackBox Run Window"
 
-#~ msgid "Tool for eBay users"
-#~ msgstr "Công cụ cho người dùng eBay"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "Công cụ vẽ cấu trúc hoá học 2D"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Trò chơi giống Mario"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "Boxconf (Giao diện cấu hình hộp VOCP)"
 
-#~ msgid "BPMDJ"
-#~ msgstr "BPMDJ"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "Monitoring-duck-in-a-jar dockapp"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "Giệt lỗi bằng chuột"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "chương trình bảo trì ảnh ổ đĩa C1541 stand alone"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "Công cụ ảnh ổ đĩa VICE"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "Callcenter (Trung tâm gọi VOCP)"
 
-#~ msgid "Broadband connection test program"
-#~ msgstr "Chương trình kiểm tra kết nối băng thông rộng"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "Camlgrenouille"
 
-#~ msgid "Webcam tool"
-#~ msgstr "Công cụ Webcam"
 
-#~ msgid "CanonUtil"
-#~ msgstr "CanonUtil"
 
-#~ msgid "Maintenance tool for Canon inkjet printers"
-#~ msgstr "Công cụ bảo trì máy in Canon inkjet"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "Cái chết tất yếu bởi các vật trong không gian"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "Trò chơi đồ họa của Go"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "Chương trình tạo các module âm nhạc"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "Trình duyệt và công cụ mạng (đòi hỏi tác nhân đang chạy)"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr ""
-#~ "Clanbomber - trò nhiều người chơi đa phương tiện kiểu Bomberman miễn phí "
-#~ "(GPL)"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "Bộ điều khiển MIDI cho ZynAddSubFX "
 
-#~ msgid "Copter Commander OpenGL"
-#~ msgstr "Copter Commander OpenGL"
 
-#~ msgid "Copter-Commander Glx"
-#~ msgstr "Copter-Commander Glx"
 
-#~ msgid "Copter Commander"
-#~ msgstr "Copter Commander"
 
-#~ msgid "Cssed"
-#~ msgstr "Cssed"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "Chọn Cursor Theme"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "Cursor Themes"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "Bản sao của Defender"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendgiun"
 
-#~ msgid "A simple web browser"
-#~ msgstr "Một trình duyệt web đơn giản"
 
-#~ msgid "DiskSearch"
-#~ msgstr "DiskSearch"
 
-#~ msgid "Search removable media"
-#~ msgstr "Tìm kiếm phương tiện tháo lắp"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Trình theo dõi Distcc"
 
-#~ msgid "An easy to use address book"
-#~ msgstr "Một sổ địa chỉ dễ dùng"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "Trình mô phỏng DOS"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "Dr. Python"
-#~ msgstr "Dr. Python"
 
-#~ msgid "Python Editor and IDE"
-#~ msgstr "Python Editor và IDE"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "2D Molecule Editor"
-#~ msgstr "Trình biên tập phân tử 2D"
 
-#~ msgid "EasyChem"
-#~ msgstr "EasyChem"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "FICS chess-server interface"
-#~ msgstr "Giao diện chess-server của FICS"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr "Công cụ xử lý âm thanh, ghi đa rãnh và trộn âm"
 
-#~ msgid ""
-#~ "A software suite for modeling, simulation, and analysis of biological "
-#~ "cells"
-#~ msgstr "Bộ phần mềm để tạo mẫu, mô phỏng, và phân tích các biological cell"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Siag Office Egon Animator"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "Một trình quản lý tập tin của GTK"
 
-#~ msgid "Ecasound Mastering Interface"
-#~ msgstr "Giao diện chính của Ecasound"
 
-#~ msgid "Endeavour"
-#~ msgstr "Nỗ Lực"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma là trò đoán ô chữ"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "EPIC là (E)nhanced (P)rogrammable (I)RC-II (C)lient."
 
-#~ msgid "Epic"
-#~ msgstr "Epic"
 
-#~ msgid "Python IDE"
-#~ msgstr "Python IDE"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "Bộ trộn OSS đầy đủ tính năng"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
-#~ msgstr "eSvn là một cross-platform (QT-based) GUI cho Subversion"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "Phần mềm nghệ thuật sinh tương tác"
 
-#~ msgid "Flash for Linux"
-#~ msgstr "Flash cho Linux"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr ""
-#~ "Fluxbox- ứng dụng để tạo và quản lý các biểu tượng trên desktop của bạn"
 
-#~ msgid "Fish Fillets NG"
-#~ msgstr "Fish Fillets NG"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "Trình mô phỏng Chuyến Bay FlightGear"
 
-#~ msgid "FooBillard"
-#~ msgstr "FooBillard"
 
-#~ msgid "OpenGL billard game"
-#~ msgstr "Trò chơi billard của OpenGL"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr ""
-#~ "A.D.I.E. - Trình biên soạn tương tác nâng cao sử dụng bộ công cụ của FOX"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "Bàn tính sử dụng bộ công cụ của FOX"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "Bàn tính FOX"
 
-#~ msgid "FrameWorks"
-#~ msgstr "FrameWorks"
 
-#~ msgid "Stop-motion animation tool"
-#~ msgstr "Công cụ hoạt cảnh tĩnh "
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "Trình chơi bass synth/sequencer/sample cho linux"
 
-#~ msgid "Clone of the C64 Game Paradroid"
-#~ msgstr "Bản sao C64 Game Paradroid"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreeLords"
-#~ msgstr "FreeLords"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "Trình thao tác âm thanh"
 
-#~ msgid "Calculates fret distances for stringed musical instruments"
-#~ msgstr "Tính toán các quãng phím cho nhạc cụ có dây"
 
-#~ msgid "FretScale"
-#~ msgstr "FretScale"
 
-#~ msgid "A GUI frontend for autotrace"
-#~ msgstr "GUI frontend cho autotrace"
 
-#~ msgid "3D file browser"
-#~ msgstr "Trình duyệt tập tin 3D"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "Trình quản lý cửa sổ FVWM"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "Trình xem 3D Map"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "Xmms cover viewer"
-#~ msgstr "Trình xem xmms cover"
 
-#~ msgid "Gai-bgswitcher"
-#~ msgstr "Gai-bgswitcher"
 
-#~ msgid "Blobs viewer :)"
-#~ msgstr "Blobs viewer :)"
 
-#~ msgid "Gai-blobs"
-#~ msgstr "Gai-blobs"
 
-#~ msgid "Displays the status of the keyboard leds"
-#~ msgstr "Hiển thị trạng thái đèn chỉ thị của bàn phím"
 
-#~ msgid "Gai-leds"
-#~ msgstr "Gai-leds"
 
-#~ msgid "Gai-mailcounter"
-#~ msgstr "Gai-mailcounter"
 
-#~ msgid "Mail counter"
-#~ msgstr "Bộ đến thư"
 
-#~ msgid "Gai-pal"
-#~ msgstr "Gai-pal"
 
-#~ msgid "Display time when they sun sets and rise"
-#~ msgstr "Hiển thị thời gian khi mặt trời mọc và lặn"
 
-#~ msgid "Gai-sun"
-#~ msgstr "Gai-sun"
 
-#~ msgid "Gai-visual-studio"
-#~ msgstr "Gai-visual-studio"
 
-#~ msgid "Visualizing the XMMS output"
-#~ msgstr "Hiển thị xmms output"
 
-#~ msgid "Galan"
-#~ msgstr "Galan"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "Trình xem phân tử 3D"
 
-#~ msgid "GTK ASTerisk MANager"
-#~ msgstr "GTK ASTerisk MANager"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "Bóng truyền 2-D"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "Biên soạn các tùy chỉnh cho GNOME"
 
-#~ msgid "Gconfpref"
-#~ msgstr "Gconfpref"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "Tetris gặp Space Invaders"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "Sách nâng cao của giáo viên"
 
-#~ msgid "GNOME MM/QM Frontend"
-#~ msgstr "GNOME MM/QM Frontend"
 
-#~ msgid "DJ Collection Manager"
-#~ msgstr "Trình quản lý sưu tập DJ"
 
-#~ msgid "GJay"
-#~ msgstr "GJay"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "Trình mô phỏng chuyến bay hành động"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "Glinuxsms"
-#~ msgstr "Glinuxsms"
 
-#~ msgid "GLiv"
-#~ msgstr "GLiv"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "Trình xem đồ họa OpenGL"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "Trò chơi Lightcycle 3D"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "Máy khách Gnome cho máy chủ modem của masqdialer"
 
-#~ msgid "Memory usage"
-#~ msgstr "Sử dụng bộ nhớ"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "Tự động bổ sung MIDI"
 
-#~ msgid "GMudix GTK mud client"
-#~ msgstr "GMudix GTK mud client"
 
-#~ msgid "gMudix"
-#~ msgstr "gMudix"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "Gnometab là trình biên soạn guitar tablature."
 
-#~ msgid "GNU Backgammon"
-#~ msgstr "GNU Backgammon"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "Gournal"
-#~ msgstr "Gournal"
 
-#~ msgid "Handwriting notepad"
-#~ msgstr "Notepad chữ viết tay"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "Điện thoại Internet"
 
-#~ msgid "Gpppoem"
-#~ msgstr "Gpppoem"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "Trình theo dõi pppoe"
 
-#~ msgid "GPRS Easy Connect"
-#~ msgstr "Kết nối GPRS dễ dàng"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "Truyền tải dữ liệu GPS"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "MGPSPoint"
 
-#~ msgid "Control print jobs"
-#~ msgstr "Điều khiển các tác vụ in"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "Hiển thị đồ họa cho dữ liệu khoa học"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "Trình mô phỏng cellular automaton"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "Hệ Thống Hỗ Trợ Phân Tích Tài Nguyên Địa Lý"
 
-#~ msgid "Greenwich"
-#~ msgstr "Greenwich"
 
-#~ msgid "GRhino"
-#~ msgstr "GRhino"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "Bàn tính RPN"
 
-#~ msgid "GScore"
-#~ msgstr "GScore"
 
-#~ msgid "Musical Score Editor"
-#~ msgstr "Trình biên soạn phổ nhạc"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "Máy khách trò chơi TetriNET cho Linux"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK-IPTables"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "Cấu hình quy tắc IPTables"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "Chuyển theme của GTK1"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "Bộ chuyển Theme của GTK"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "Frontend cho asp2php"
 
-#~ msgid "GtkAtlantic"
-#~ msgstr "GtkAtlantic"
 
-#~ msgid "Buehlmann ZH-L16 model diving simulation"
-#~ msgstr "Mô phỏng Buehlmann ZH-L16 model diving"
 
-#~ msgid "GtkDive"
-#~ msgstr "GtkDive"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "Chương trình tìm tập tin trong giao diện đồ họa"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "Tác động cho Guitar của GTK"
 
-#~ msgid "Realtime effects"
-#~ msgstr "Các tác động theo thời gian thực"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "GTK Frontend cho CUPS"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "Frontend của GTK cho hàng đợi in CUPS của GTKlp"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "Phiên bản Gtk của motd"
 
-#~ msgid "GtkPSProc"
-#~ msgstr "GtkPSProc"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Trình xem PostScript của Siag"
 
-#~ msgid "Gnome Workstation Command Center"
-#~ msgstr "Trung tâm chỉ huy máy trạm Gnome"
 
-#~ msgid "Network and workstation tools"
-#~ msgstr "Công cụ mạng và máy trạm"
 
-#~ msgid "Heroes"
-#~ msgstr "Heroes"
 
-#~ msgid "Hexadecimal calculator"
-#~ msgstr "Bàn tính hexadecimal"
 
-#~ msgid "Hexcalc"
-#~ msgstr "Hexcalc"
 
-#~ msgid "Othello clone"
-#~ msgstr "Bản sao Othello"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "Configurator for the GTK+2 Japanese Input Module"
-#~ msgstr "Trình cấu hình cho GTK+2 Japanese Input Module"
 
-#~ msgid "ImgSeek"
-#~ msgstr "ImgSeek"
 
-#~ msgid "ImgSeek Photo Manager"
-#~ msgstr "Trình quản lý ảnh chụp ImgSeek"
 
-#~ msgid "Inventory"
-#~ msgstr "Kiểm kê"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "Chương trình kiểm kê đơn giản"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "Trình duyệt ảnh"
 
-#~ msgid "Drum machine styled audio sequencer"
-#~ msgstr "Tần số âm thanh kiểu máy đánh trống"
 
-#~ msgid "JackEQ"
-#~ msgstr "JackEQ"
 
-#~ msgid "Mixer for JACK audio server"
-#~ msgstr "Bộ trộn cho JACK audio server"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "Tải Xuống Jigsaw"
 
-#~ msgid "Graphical puzzle game"
-#~ msgstr "Trò chơi đồ họa giải ô chữ"
 
-#~ msgid "Jools"
-#~ msgstr "Jools"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "Máy Khách FTP GTK2"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "Kết nối ALSA"
 
-#~ msgid "KAConnect"
-#~ msgstr "KAConnect"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Kiki the nanobot"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "Trình xem QT Molecule"
 
-#~ msgid "Kodos"
-#~ msgstr "Kodos"
 
-#~ msgid "Visual regular expression editor"
-#~ msgstr "Trình biên soạn biểu thức chính quy trực quan"
 
-#~ msgid "XKoules"
-#~ msgstr "XKoules"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "Trình xem tiến trình bằng đồ họa"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "Bản sao của Panzer"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "Trình duyệt Web dạng văn bản giống như Lynx"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "LinuxSMS"
-#~ msgstr "LinuxSMS"
 
-#~ msgid "LongPlayer"
-#~ msgstr "LongPlayer"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "Bản sao thú vị của Tetris"
 
-#~ msgid "Luma"
-#~ msgstr "Luma"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "Bay một con thuyền dạng chữ V nhỏ trong trò chơi kiểu mái vòm 2D"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "Bắt các quả bom"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "Hội thảo trên internet của MAS"
 
-#~ msgid "MASConf"
-#~ msgstr "MASConf"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "Bộ trộn MAS"
 
-#~ msgid "MASMix"
-#~ msgstr "MASMix"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "Biểu đồ chức năng tương tác"
 
-#~ msgid "Maxima"
-#~ msgstr "Maxima"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Giao diện Tcl/Tk cho Maxima"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "MIDI CC Sliders"
-#~ msgstr "MIDI CC Sliders"
 
-#~ msgid "MIDI Controller"
-#~ msgstr "MIDI Controller"
 
-#~ msgid "Mirror Magic"
-#~ msgstr "Mirror Magic"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "Trình mô phỏng terminal đa ngôn ngữ"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "A multi-tabbed X terminal emulator"
-#~ msgstr "Trình mô phỏng X terminal đa tab"
 
-#~ msgid "Mrxvt"
-#~ msgstr "Mrxvt"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Máy khách Maitretarot"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Công cụ chuẩn đoán mạng về Ping/Traceroute"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "MIDI sequencer"
 
-#~ msgid "Nabi"
-#~ msgstr "Nabi"
 
-#~ msgid "Simple Hangul XIM"
-#~ msgstr "Hangul XIM đơn giản"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitor "
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "NiL Isn't Liero"
-#~ msgstr "NiL không phải là Liero"
 
-#~ msgid "Nuclear Chess"
-#~ msgstr "Nuclear Chess"
 
-#~ msgid "NexTView EPG decoder and browser"
-#~ msgstr "Bộ giải mã NexTView EPG và trình duyệt"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "Gradebook số"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "Orbital Eunuchs Sniper"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "Trình chơi OSD Xine Video"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "Desktop Publishing for X (PAO)"
-#~ msgstr "Desktop Publishing cho X (PAO)"
 
-#~ msgid "Passepartout"
-#~ msgstr "Passepartout"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "Bản sao của trò chơi Missile Command cổ điển"
 
-#~ msgid "Penguin Command"
-#~ msgstr "Lệnh chim cánh cụt"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "Emilia 3d Pinball"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Pingus - bản sao Lemmings miễn phí"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "POPFile - Phân Loại Thư Tự Động"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "PrBooM-GL Multiplayer"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM-GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "PrBooM Multiplayer"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Free SSH, Telnet and Rlogin client"
-#~ msgstr "SSH, Telnet và Rlogin client miễn phí"
 
-#~ msgid "Putty"
-#~ msgstr "Putty"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic Writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Siag Office Pathetic writer"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Các đồ họa phân tử có điều khiển của Python"
 
-#~ msgid "ALSA Mixer"
-#~ msgstr "Bộ trộn ALSA"
 
-#~ msgid "QAMix"
-#~ msgstr "QAMix"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "Giao diện đồ họa ghi của ALSA"
 
-#~ msgid "QARecord"
-#~ msgstr "QARecord"
 
-#~ msgid "Multipage TIFF viewer"
-#~ msgstr "Trình xem TIFF đa trang"
 
-#~ msgid "QFaxReader"
-#~ msgstr "QFaxReader"
 
-#~ msgid "Quantum GIS"
-#~ msgstr "Quantum GIS"
 
-#~ msgid "Quantum Geographic Information System"
-#~ msgstr "Hệ thống thông tin địa lý Quantum"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "Trình kết nối Jackit dựa trên QT"
 
-#~ msgid "QJoyPad"
-#~ msgstr "QJoyPad"
 
-#~ msgid "MIDI Arpeggiator"
-#~ msgstr "MIDI Arpeggiator"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "QtRadio - nghe đài phát thanh bằng QtRadio."
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "Tạo các đối tượng 3D fractal"
 
-#~ msgid "Quat"
-#~ msgstr "Quat"
 
-#~ msgid "Keep track of things"
-#~ msgstr "Theo dấu vết các sự việc"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "Trình Tạo Video CD"
 
-#~ msgid "Poker-like card game"
-#~ msgstr "Trò chơi bài giống Poker"
 
-#~ msgid "RA Pai Gaw Poker"
-#~ msgstr "RA Pai Gaw Poker"
 
-#~ msgid "Molecular Graphics Visualization Tool"
-#~ msgstr "Công cụ đồ họa về phân tử"
 
-#~ msgid "RasMol"
-#~ msgstr "RasMol"
 
-#~ msgid "RBBR"
-#~ msgstr "RBBR"
 
-#~ msgid "RuBy BRowser"
-#~ msgstr "RuBy BRowser"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "Trình biên tập âm thanh số"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "Root-tail in văn bản trực tiếp đến cửa sổ của root"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "Trình quản lý tập tin của môi trường ROX desktop"
 
-#~ msgid "High-level language for numerical computations"
-#~ msgstr "Ngôn ngữ bậc cao cho tính toán số học"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "SDLRoids - an enhanced shoot-the-asteroids"
 
-#~ msgid "Colourful puzzle game"
-#~ msgstr "Trò giải ô chữ nhiều màu sắc"
 
-#~ msgid "SDL Vexed"
-#~ msgstr "SDL Vexed"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "Loop-based MIDI sequencer"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "Bộ trộn sự kiện MIDI"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "SoundFontCombi"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX Shutterbug"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "Chụp ảnh màn hình và lưu thành tập tin"
 
-#~ msgid "SimSam"
-#~ msgstr "SimSam"
 
-#~ msgid "Simple Sampler"
-#~ msgstr "Sampler đơn giản"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "Trò chơi đâm ô tô và đua xe 3D viết bằng Python"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "Trình biên soạn phông âm thanh của GPL"
 
-#~ msgid "Music player"
-#~ msgstr "Trình chơi nhạc"
 
-#~ msgid "SnackAmp"
-#~ msgstr "SnackAmp"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr "Trò chơi 2D gôm hộp và đỡ đạn"
 
-#~ msgid "Multitrack wave editor"
-#~ msgstr "Trình biên soạn wave đa kênh"
 
-#~ msgid "Songs"
-#~ msgstr "Bài hát"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "Trình biên soạn Guitar Tab"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Grass (Spearfish)"
 
-#~ msgid "Grass using the Spearfish sample data set"
-#~ msgstr "Grass dùng bộ Spearfish sample data"
 
-#~ msgid "MIDI software sampler"
-#~ msgstr "Sampler phần mềm MIDI"
 
-#~ msgid "Specimen"
-#~ msgstr "Mẫu vật"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "Bộ tổng hợp phần mềm dạng module xoắn ốc"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "Spiral Modular Synth"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr " Trình chia tách bàn phím MIDI cho ZynAddSubFX"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "Dự án: Starfighter"
 
-#~ msgid "Star Voyager"
-#~ msgstr "Star Voyager"
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "GUI cho Uproar và Yepp của Samsung"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "Sophisticated clock for the X Window system"
-#~ msgstr "Đồng hồ tinh xảo cho hệ thống cửa sổ X"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "VLC là trình chơi MPEG, MPEG2, DVD và DivX miễn phí"
 
-#~ msgid "VLC skinned GUI media player"
-#~ msgstr "Trình chơi media có diệm mạo VLC"
 
-#~ msgid "Swami"
-#~ msgstr "Swami"
 
-#~ msgid "Software manager for WinCE devices"
-#~ msgstr "Software manager for WinCE devices"
 
-#~ msgid "Synce-software-manager"
-#~ msgstr "Synce-software-manager"
 
-#~ msgid "Quick-configure menu"
-#~ msgstr "Menu cấu hình nhanh"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "Ted, Rich Text Processor"
-#~ msgstr "Ted, trình soạn thảo Rich Text"
 
-#~ msgid "Go chess for GNOME"
-#~ msgstr "Go chess cho GNOME"
 
-#~ msgid "Tengen"
-#~ msgstr "Tengen"
 
-#~ msgid "JACK TimeMachine"
-#~ msgstr "JACK TimeMachine"
 
-#~ msgid "Records audio from ten seconds ago"
-#~ msgstr "Ghi lại âm thanh từ 10 giây trước"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "Trình Mô Phỏng Open Racing Car"
 
-#~ msgid "Simple clone of Notepad"
-#~ msgstr "Bản sao đơn giản của NotePad"
 
-#~ msgid "TPad"
-#~ msgstr "TPad"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
-#~ msgstr "Tuxedo T. Penguin: Tìm kiếm cá trích"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Karting với Tux"
 
-#~ msgid "Fun game to learn math"
-#~ msgstr "Trò chơi thú vị để học toán"
 
-#~ msgid "TuxMathScrabble"
-#~ msgstr "TuxMathScrabble"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "Trình lắp ráp model 3D"
 
-#~ msgid "Vertex"
-#~ msgstr "Vertex"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "Trình soạn thảo Unix phổ biến Vi có bổ sung trợ giúp Vigor"
 
-#~ msgid "On-screen ALSA MIDI keyboard"
-#~ msgstr "Bàn phím ALSA MIDI ảo"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (Trình xem VOCP Fax và Sender GUI)"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "Chương trình nằm trên panel điều khiển Âm Lượng Chính"
 
-#~ msgid "Volume knob"
-#~ msgstr "Núm âm lượng"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "Trình chơi âm nhạc VICE SID cho các điệu Commodore"
 
-#~ msgid "VSID music player"
-#~ msgstr "Trình chơi nhạc VSID"
 
-#~ msgid "BananaPOS Point Of Sale Terminal"
-#~ msgstr "BananaPOS Point của chi nhánh bán hàng"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "Trình biên tập âm thanh bằng đồ họa"
 
-#~ msgid "WaveSurfer"
-#~ msgstr "WaveSurfer"
 
-#~ msgid "Battle For Wesnoth editor"
-#~ msgstr "Battle For Wesnoth editor"
 
-#~ msgid "The map editor of Battle for Wesnoth"
-#~ msgstr "The map editor of Battle for Wesnoth"
 
-#~ msgid "A fantasy turn-based strategy game."
-#~ msgstr "Trò chơi chiến thuật turn-based hay."
 
-#~ msgid "Battle For Wesnoth"
-#~ msgstr "Battle For Wesnoth"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "Trò đua tuyệt vời starring Tux"
 
-#~ msgid "Settlers II clone"
-#~ msgstr "Settlers II clone"
 
-#~ msgid "Widelands"
-#~ msgstr "Widelands"
 
-#~ msgid "WLanFE"
-#~ msgstr "WLanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "Cấu hình mạng cục bộ không dây"
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "WindowMaker dock application for linuxfr-addicted people"
-#~ msgstr "Ứng dụng nằm trên panel của WindowMaker cho dân nghiền Linuxfr"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "Chương trình nằm trên panel theo dõi CPU"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "WmDf"
-#~ msgstr "WmDf"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr "Hiển thị tải của CPU theo kiểu ngọn lửa trong một biểu tượng nhỏ"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "Đồng hồ analog trong bể cá"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr ""
-#~ "Chương trình nằm trên panel hiển thị Trái đất xoay trong một biểu tượng"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "Chương trình bộ trộn âm thanh OSS nằm trên panel"
 
-#~ msgid "Laptop status docklet"
-#~ msgstr "Docklet trạng thái của laptop"
 
-#~ msgid "WMLaptop"
-#~ msgstr "WMLaptop"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "Chương trình theo dõi Mem/Swap nằm trên panel cho WindowMaker"
 
-#~ msgid "UPS monitoring in a dockapp"
-#~ msgstr "Chương trình nằm trên panel theo dõi UPS"
 
-#~ msgid "WMNut"
-#~ msgstr "WMNut"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "Theo dõi nhiều hộp thư POP3 trong một chương trình nằm trên panel"
 
-#~ msgid "WmsMixer"
-#~ msgstr "WmsMixer"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "Hiển thị stock quote data trong biểu tượng nhỏ"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr ""
-#~ "Thông tin hệ thống (bộ nhớ, swap, uptime, IO) trong một biểu tượng nhỏ"
 
-#~ msgid "WmSysMon"
-#~ msgstr "WmSysMon"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "Xem webcam của riêng bạn trong một chương trình nhỏ nằm trên panel"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam"
 
-#~ msgid "WMWifi"
-#~ msgstr "WMWifi"
 
-#~ msgid "Wireless network docklet"
-#~ msgstr "Docklet mạng không dây"
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "Trình quản lý tập tin, tương tự Directory Opus trên AMIGA"
 
-#~ msgid "Assists in recovery and prevention of Repetitive Strain Injury (RSI)"
-#~ msgstr "Hỗ trợ việc phục hồi và phòng ngừa Repetitive Strain Injury (RSI)"
 
-#~ msgid "Workrave"
-#~ msgstr "Workrave"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "GUI builder cho wxWindows/wxPython"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "Trình mô phỏng C128"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "Trình mô phỏng Commodore 128"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "Trình mô phỏng C64"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "Trình mô phỏng Commodore 64"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "Trình phóng to nhỏ fractal theo thời gian thực"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "Bản sao của trò ARCHON"
 
-#~ msgid "Defend your computers from Wingdows Viruses"
-#~ msgstr "Bảo vệ máy tính khỏi Wingdows Virus"
 
-#~ msgid "XBill"
-#~ msgstr "XBill"
 
-#~ msgid "X blast"
-#~ msgstr "X blast"
 
-#~ msgid "XBlast TNT a bomberman like game (Multiplayer)"
-#~ msgstr "XBlast TNT trò chơi giống bomberman (cho nhiều người cùng chơi)"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "Trình mô phỏng CBM2"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "Trình mô phỏng Commodore BM 2"
 
-#~ msgid "CHM viewer for UNIX"
-#~ msgstr "Trình xem CHM cho Unix"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Trình soạn thảo văn bản Siag"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Trình quản lý tập tin Siag"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "A mp3 playlist frontend"
-#~ msgstr "Frontend danh sách chơi MP3"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Mr. Is, bản sao Mr. Do cho X"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "Hiển thị các chú chim cánh cụt đang chạy trên desktop của bạn."
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "Trình mô phỏng Commodore PET"
 
-#~ msgid "PET Emulator"
-#~ msgstr "Trình mô phỏng PET"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "Một trò chơi arcade bay và bắn"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Máy chủ Xpilot"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - đòi hỏi chạy trên máy chủ"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "Trình mô phỏng CPLUS4"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "Trình mô phỏng Commodore PLUS4"
 
-#~ msgid "News reader"
-#~ msgstr "Trình đọc Tin tức"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "Công cụ xử lý các gói phần mềm"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "Trò chơi arcade/thinking hay rất giống với Lode Runner"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "Bản sao của Scorched Earth"
 
-#~ msgid "XScorch"
-#~ msgstr "XScorch"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Siag Office spreadsheet"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "Phiên bản QT của trình chơi nhạc C64"
 
-#~ msgid "The Skat game"
-#~ msgstr "Trò chơi Skat"
 
-#~ msgid "Xskat"
-#~ msgstr "Xskat"
 
-#~ msgid "Shooting game on X Window System"
-#~ msgstr "Trò chơi bắn súng trên Hệ thống Cửa sổ X"
 
-#~ msgid "Fullscreen gesture recognition"
-#~ msgstr "Việc nhận biết ứng xử là toàn màn hình"
 
-#~ msgid "X-Tux"
-#~ msgstr "X-Tux"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "Trình mô phỏng Commodore VIC 20"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "Trình mô phỏng VIC 20"
 
-#~ msgid "On-screen keyboard for X"
-#~ msgstr "Bàn phím ảo cho X"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (thu thông điệp giọng nói đồ họa VOCP)"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "Trình biên tập mức độ cho DOOM"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "Tổng hợp phần mềm MIDI theo thời gian thực"
 
-#~ msgid "Lets you edit audio samples under gnome"
-#~ msgstr "Cho phép bạn hiệu chỉnh mẫu âm thanh trong GNOME."
 
-#~ msgid "Marlin Sample Editor"
-#~ msgstr "Bộ Sửa Mẫu Marlin"
 
-#~ msgid "Panel Manager"
-#~ msgstr "Quản lý panel"
 
-#~ msgid "Meld"
-#~ msgstr "Meld"
 
-#~ msgid "Maintain and query a SQL database"
-#~ msgstr "Bảo trì và truy vấn cơ sở dữ liệu SQL"
 
-#~ msgid "Mergeant Database Administration"
-#~ msgstr "Quản trị cơ sở dữ liệu Mergeant"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "Monkey Bubble"
-#~ msgstr "Monkey Bubble"
 
-#~ msgid "Monkey Bubble Arcade Game"
-#~ msgstr "Monkey Bubble Arcade Game"
 
-#~ msgid "MonoDevelop"
-#~ msgstr "MonoDevelop"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "Nghiền nát yêu quái và bảo vệ Gnome"
 
-#~ msgid "Monster Masher"
-#~ msgstr "Monster Masher"
 
-#~ msgid "Listen to your music"
-#~ msgstr "Nghe nhạc"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Trình chơi nhạc Muine"
 
-#~ msgid "MySQL Administrator"
-#~ msgstr "MySQL Administrator"
 
-#~ msgid "MySQL Query Browser"
-#~ msgstr "MySQL Query Browser"
 
-#~ msgid "Add items to the Nautilus popup menu"
-#~ msgstr "Thêm mục vào trình đơn bật lên Nautilus"
 
-#~ msgid "Nautilus Actions Configuration"
-#~ msgstr "Cấu hình hành động Nautilus"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "Cấu hình thiết bị và kết nối mạng"
 
-#~ msgid "Neverball"
-#~ msgstr "Neverball"
 
-#~ msgid "Neverputt"
-#~ msgstr "Neverputt"
 
-#~ msgid "Downloader for X"
-#~ msgstr "Downloader for X"
 
-#~ msgid "Enable/disable write support for NTFS with a simple click."
-#~ msgstr "Bật/Tắt hỗ trợ khả năng ghi NTFS chỉ với một thao tác."
 
-#~ msgid "NTFS Configuration Tool"
-#~ msgstr "Công cụ cấu hình NTFS"
 
-#~ msgid "Monitor TV programs"
-#~ msgstr "Theo dõi chương trình TV"
 
-#~ msgid "OnTV"
-#~ msgstr "OnTV"
 
-#~ msgid "Communicate over the Jabber network"
-#~ msgstr "Trình khách Jabber"
 
-#~ msgid "Bibliography Manager"
-#~ msgstr "Bộ Quản lý Thư tịch"
 
-#~ msgid "Manage bibliographic databases"
-#~ msgstr "Quản lý các cơ sở dữ liệu thư tịch"
 
-#~ msgid "Pybliographic Bibliography Manager"
-#~ msgstr "Bộ Quản lý Thư tịch kiểu Pybliograph"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "QDVDAuthor"
-#~ msgstr "QDVDAuthor"
 
-#~ msgid "Quarry"
-#~ msgstr "Quarry"
 
-#~ msgid "Search and replace using regular expressions"
-#~ msgstr "Tìm kiếm và thay thế bằng sử dụng biểu thức chính quy"
 
-#~ msgid "regexxer Search Tool"
-#~ msgstr "Công cụ Tìm kiếm regexxer"
 
-#~ msgid "Organize and secure your passwords"
-#~ msgstr "Tổ chức và bảo mật mật khẩu của bạn "
 
-#~ msgid "ripperX"
-#~ msgstr "ripperX"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "Scorched Earth 3D OpenGL Remake"
 
-#~ msgid "Decrypt File"
-#~ msgstr "Giải mật mã tập tin"
 
-#~ msgid "Import Key"
-#~ msgstr "Nhập khoá"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "Cấu hình máy phục vụ và thiết lập mã hoá khác"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "Mật mã và Vòng khoá"
 
-#~ msgid "Verify Signature"
-#~ msgstr "Thẩm tra chữ ký"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "Quản lý các mật khẩu và khoá mật mã của bạn"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "Mật khẩu và khoá mật mã"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "Cấu hình những dịch vụ nào sẽ được chạy khi hệ thống khởi động."
 
-#~ msgid "Services"
-#~ msgstr "Các dịch vụ"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "Cấu hình những thư mục nào công bố cho mạng cục bộ"
 
-#~ msgid "Shared Folders"
-#~ msgstr "Thư mục dùng chung"
 
-#~ msgid "Simple Scan"
-#~ msgstr "Quét đơn giản"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "Audio Format Converter"
-#~ msgstr "Bộ chuyển định dạng Audio"
 
-#~ msgid "Convert audio files into other formats"
-#~ msgstr "Chuyển đổi file audio sang các định dạng khác"
 
-#~ msgid "Sound Converter"
-#~ msgstr "Bộ chuyển đổi âm thanh"
 
-#~ msgid "Aggregates news and blog feeds"
-#~ msgstr "Tập hợp nguồn tin tức và nhật ký Mạng"
 
-#~ msgid "Straw Feed Reader"
-#~ msgstr "Bộ đọc nguồn tin Straw"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "Phát tập tin Adobe Flash"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Bộ chơi Flash Swfdec"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Cấu hình Proc"
 
-#~ msgid "Personal task manager"
-#~ msgstr "Trình quản lý công việc cá nhân"
 
-#~ msgid "Tasks"
-#~ msgstr "Công việc"
 
-#~ msgid "To Do list"
-#~ msgstr "Danh sách công việc"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "Sửa đổi thời gian, ngày và múi giờ trong hệ thống"
 
-#~ msgid "Time and Date"
-#~ msgstr "Ngày và Giờ"
 
-#~ msgid "Simple DVD mastering GUI"
-#~ msgstr "Giao diện chính DVD đơn giản"
 
-#~ msgid "TkDVD"
-#~ msgstr "TkDVD"
 
-#~ msgid "Trackballs"
-#~ msgstr "Trackballs"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "Terminal Server Client"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "Chương trình vẽ dành cho trẻ em."
 
-#~ msgid "Drawing program"
-#~ msgstr "Trình vẽ"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
 
-#~ msgid "Urlgfe"
-#~ msgstr "Urlgfe"
 
-#~ msgid "Users and Groups"
-#~ msgstr "Người dùng và Nhóm"
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid ""
-#~ "A translation tool to help a human translator translate files into other "
-#~ "languages"
-#~ msgstr ""
-#~ "Một công cụ thông dịch để giúp con người dịch sang các ngôn ngữ khác"
 
-#~ msgid "Virtaal"
-#~ msgstr "Virtaal"
 
-#~ msgid "VLC media player"
-#~ msgstr "Trình chơi media của VLC"
 
-#~ msgid "Wormux"
-#~ msgstr "Wormux"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "Trình mô phỏng terminal của IBM 3270"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "DOS emulator running under X"
-#~ msgstr "Trình mô phỏng DOS chạy trong X"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "Lịch màn hình"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "Trình quản lí các thiết lập đồ họa cho Xfce 4"
 
-#~ msgid "Settings Manager"
-#~ msgstr "Trình quản lí các thiết lập"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Trình quản lí các thiết lập Xfce 4"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "Tinh chỉnh của trình quản lí cửa sổ"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "Thiết lập Lịch"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Thiết lập cho Ứng dụng Lịch của Xfce 4"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Thiết lập Lịch Xfce 4"
 
-#~ msgid "About Xfce"
-#~ msgstr "Giới thiệu Xfce"
 
-#~ msgid "Clipboard manager"
-#~ msgstr "Trình quản lý bộ nhớ đệm"
 
-#~ msgid "Clipman"
-#~ msgstr "Clipman"
-
-#~ msgid "Ideal for your quick notes"
-#~ msgstr "Ý tưởng cho chú thích nhanh của bạn"
-
-#~ msgid "Screenshot"
-#~ msgstr "Ảnh chụp màn hình"
-
-#~ msgid ""
-#~ "Take screenshots of the entire screen, of the active window or of a region"
-#~ msgstr ""
-#~ "Chụp toàn bộ màn hình, hay cửa sổ đang kích hoạt hay một vùng màn hình"
-
-#~ msgid "Print Manager"
-#~ msgstr "Trình quản lí in"
-
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "Hiển thị danh sách máy in và cho phép quản lý công việc của chúng"
-
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "Trình quản lí in của Xfce 4"
-
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr "Cho phép chọn hệ thống in mà xfprint sẽ sử dụng"
-
-#~ msgid "Printing System Settings"
-#~ msgstr "Thiết lập hệ thống in"
-
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "Thiết lập hệ thống in của Xfce 4"
-
-#~ msgid "Print Dialog"
-#~ msgstr "Hộp thoại in"
-
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "In một tập tin và cho phép người dùng xác lập vẻ ngoài của nó"
-
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "Hộp thoại in của Xfce 4"
-
-#~ msgid "Jot down notes for later"
-#~ msgstr "Ghi nhanh chú thích đến sau"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "Ghi chép bám dính"
-
-#~ msgid "Xpad"
-#~ msgstr "Xpad"
-
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"

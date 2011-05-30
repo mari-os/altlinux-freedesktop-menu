@@ -1,57 +1,65 @@
-# Menu section translation to Georgian
-# Copyright (C) 2007
-# This file is distributed under the same license as the menu package.
-# Bill Allombert <ballombe@debian.org>, 2007.
-# Aiet Kolkhi <aietkolkhi@gmail.com>
 #
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ka.php3
+#
+# Strings used in the menus of window mananagers on a Linux-Mandrake system.
+# Georgian translation
+# Copyright (C) 2000 MandrakeSoft
+# levan shoshiashvili <shoshia@hotmail.com>,2001
+# Aiet Kolkhi <aiet@qartuli.net>, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.35\n"
+"Project-Id-Version: menu-messages\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-09-10 01:21+0400\n"
-"Last-Translator: Aiet Kolkhi <aietkolkhi@gmail.com>\n"
-"Language-Team: Georgian <aietkolkhi@gmail.com>\n"
+"PO-Revision-Date: 2004-09-30 00:04+0400\n"
+"Last-Translator: Aiet Kolkhi <aiet@qartuli.net>\n"
+"Language-Team: Georgian <aiet@qartuli.com>\n"
+"Language: ka\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #, fuzzy
 msgid "2D Graphics"
 msgstr "გრაფიკა"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "გრაფიკული პროგრამები"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "გრაფიკა"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "გრაფიკული პროგრამები"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "ფაილთა მართვა"
+msgstr "თამაშები და სხვა"
 
 msgid "Accessibility"
 msgstr "გამარტივება"
 
+#, fuzzy
 msgid "Action"
-msgstr "მძაფრსიუჟეტიანი"
+msgstr "განათლება"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "მძაფრსიუჟეტიანი"
+msgstr "მაგიდის თამაშები"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
-msgstr "ადმინისტრირება"
+msgstr "ადმინისტრაცია"
 
 msgid "Adventure"
 msgstr "სათავგადასავლო"
@@ -61,7 +69,7 @@ msgid "Adventure style games"
 msgstr "სათავგადასავლო"
 
 msgid "Amateur Radio"
-msgstr "სამოყვარულო რადიო"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
@@ -85,11 +93,13 @@ msgstr ""
 msgid "Arcade"
 msgstr "არკადია"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "კიდევ ერთი 3-განზ. lightcycle თამაში"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "არქივატორი"
 
 msgid "Art"
 msgstr ""
@@ -110,14 +120,17 @@ msgstr "ასტრონომია"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "აუდიოდამკვრელი"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "ხმის ჩამწერი"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "რეზერვირება"
 
 msgid "Biology"
 msgstr "ბიოლოგია"
@@ -126,9 +139,8 @@ msgstr "ბიოლოგია"
 msgid "Biology software"
 msgstr "ბიოლოგია"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "ბლოკები"
+msgstr ""
 
 msgid "Board Games"
 msgstr "მაგიდის თამაშები"
@@ -144,7 +156,7 @@ msgstr "კალკულატორი"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "ემულატორები"
+msgstr "კალკულატორი"
 
 msgid "Calendar"
 msgstr "კალენდარი"
@@ -158,12 +170,12 @@ msgstr "ბანქოს თამაშები"
 msgid "Cards"
 msgstr "კარტი"
 
-#, fuzzy
 msgid "Chart"
-msgstr "ბანქო"
-
-msgid "Chat"
 msgstr ""
+
+#, fuzzy
+msgid "Chat"
+msgstr "ჩატი"
 
 msgid "Chemistry"
 msgstr "ქიმია"
@@ -172,20 +184,19 @@ msgstr "ქიმია"
 msgid "Chemistry software"
 msgstr "ქიმია"
 
-#, fuzzy
 msgid "Clock"
-msgstr "ბლოკები"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
-msgstr "კომუნიკაცია"
+msgstr "პროგრამები"
 
 msgid "Compression"
 msgstr ""
 
 #, fuzzy
 msgid "Computer Science"
-msgstr "მეცნიერება"
+msgstr "კომპიუტერი"
 
 msgid "Computer Science software"
 msgstr ""
@@ -195,14 +206,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Computer science"
-msgstr "გეოლოგიური მეცნიერება"
+msgstr "კომპიუტერი"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "კონფიგურაციის რედაქტორი"
 
 #, fuzzy
 msgid "Construction"
-msgstr "კომუნიკაცია"
+msgstr "ადმინისტრაცია"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -218,7 +230,7 @@ msgstr "მონაცემთა ბაზები"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "პროგრამები"
+msgstr "დამატებითი პროგრამები"
 
 msgid "Desktop"
 msgstr "სამუშაო დაფა"
@@ -226,23 +238,27 @@ msgstr "სამუშაო დაფა"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "ხელსაწყოები"
 
 msgid "Development"
 msgstr "პროგრამირება"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "პროგრამირების გარსები"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "სახატავი პროგრამა"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "ლექსიკონი"
 
 msgid "Dictionary"
 msgstr "ლექსიკონი"
@@ -268,13 +284,13 @@ msgstr "განათლება"
 
 #, fuzzy
 msgid "Electricity"
-msgstr "ელექტრონიკა"
+msgstr "Metacity"
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr "ელექტრონიკა"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -284,7 +300,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Email applications"
-msgstr "პროგრამები"
+msgstr "გრაფიკული პროგრამები"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -293,52 +309,57 @@ msgid "Emulators"
 msgstr "ემულატორები"
 
 msgid "Engineering"
-msgstr "ინჟინირება"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "ბლოკები"
+msgstr ""
 
 msgid "Falling blocks games"
 msgstr ""
 
 #, fuzzy
 msgid "File Managers"
-msgstr "ფაილთა მართვა"
+msgstr "ფაილთა მენეჯერი"
 
 #, fuzzy
 msgid "File Systems"
 msgstr "სისტემა"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "ფაილის ტრანსფერი"
+msgstr "ფაილთა მენეჯერი"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "სისტემური ხელსაწყოები"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "ტექსტის ხელსაწყოები"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "მეცნიერება"
 
 msgid "Flow Chart"
 msgstr ""
 
+#, fuzzy
 msgid "GNOME"
-msgstr ""
+msgstr "გნომის შესახებ"
 
 msgid "GUI Designers"
 msgstr ""
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "გრაფიკული პროგრამები"
 
 msgid "Games"
 msgstr "თამაშები"
@@ -349,8 +370,9 @@ msgstr "თამაშები და სხვა"
 msgid "Games for Kids"
 msgstr "საბავშვო თამაშები"
 
+#, fuzzy
 msgid "Geography"
-msgstr ""
+msgstr "KGeography"
 
 #, fuzzy
 msgid "Geology"
@@ -359,12 +381,13 @@ msgstr "ბიოლოგია"
 msgid "Geology software"
 msgstr ""
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "გეოლოგიური მეცნიერება"
+msgstr "გეო-მეცნიერებები"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "გეოლოგიური მეცნიერება"
+msgstr "გეო-მეცნიერებები"
 
 msgid "Geosciences"
 msgstr "გეო-მეცნიერებები"
@@ -376,20 +399,21 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "აპარატურა"
+msgstr "მოწყობილობა"
+
+msgid "History"
+msgstr ""
 
 #, fuzzy
-msgid "History"
-msgstr "ქიმია"
-
 msgid "IDE"
-msgstr ""
+msgstr "KDE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "IRC საუბარი"
 
 msgid "Image Processing"
 msgstr ""
@@ -408,7 +432,7 @@ msgstr "ინტერნეტი"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "პროგრამები"
+msgstr "დამატებითი პროგრამები"
 
 msgid "Java"
 msgstr ""
@@ -427,7 +451,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Logic Games"
-msgstr "თამაშები"
+msgstr " Rogue ტიპის თამაშები"
 
 msgid "MIDI"
 msgstr ""
@@ -444,24 +468,26 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "მნახველები"
+msgstr ""
 
 msgid "Monitoring"
-msgstr "მონიტორინგი"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "მულტიმედია"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "მულტიმედიის მენუ"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "მედიადამკვრელი"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "მულტიმედიის მენუ"
 
 msgid "Music"
 msgstr ""
@@ -475,16 +501,14 @@ msgstr "ქსელი"
 msgid "Network-related settings"
 msgstr ""
 
-#, fuzzy
 msgid "News"
-msgstr "ინტერნეტ-სიახლეები"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
 
-#, fuzzy
 msgid "Numeric Analysis"
-msgstr "მონაცემთა ანალიზი"
+msgstr ""
 
 msgid "Numerical analysis software"
 msgstr ""
@@ -513,7 +537,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "პაკეტთა მართვა"
+msgstr "კონსოლის პროგრამები"
 
 msgid "Packaging"
 msgstr "ჩალაგება"
@@ -527,11 +551,13 @@ msgstr ""
 msgid "Performance"
 msgstr ""
 
+#, fuzzy
 msgid "Personal"
-msgstr ""
+msgstr "პირადი საქაღალდეები"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "KGeography"
 
 msgid "Physics"
 msgstr "ფიზიკა"
@@ -543,11 +569,13 @@ msgstr "ფიზიკა"
 msgid "Preferences"
 msgstr "პარამეტრები"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "პრეზენტაცია"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "პრეზენტაცია"
 
 msgid "Printing"
 msgstr "ბეჭდვა"
@@ -555,12 +583,13 @@ msgstr "ბეჭდვა"
 msgid "Profiling tools"
 msgstr ""
 
+#, fuzzy
 msgid "Project Management"
-msgstr "პროექტთა მართვა"
+msgstr "დენის მმართველი"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "პროექტთა მართვა"
+msgstr "სასურველი პროგრამები"
 
 msgid "Publishing"
 msgstr ""
@@ -572,14 +601,17 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "გრაფიკა"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "გრაფიკული პროგრამები"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "დაშორებული კომპიუტერი"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "ხმის კონტროლი"
 
 msgid "Robotics"
 msgstr ""
@@ -593,10 +625,10 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "შენახვა"
+msgstr ""
 
+#, fuzzy
 msgid "Science"
 msgstr "მეცნიერება"
 
@@ -610,18 +642,19 @@ msgstr "უსაფრთხოება"
 msgid "Security tools"
 msgstr "უსაფრთხოება"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "მეცნიერება"
 
 msgid "Settings"
 msgstr "პარამეტრები"
 
-msgid "Simulation"
-msgstr "სიმულაცია"
-
 #, fuzzy
+msgid "Simulation"
+msgstr "განათლება"
+
 msgid "Simulation Games"
-msgstr "სიმულაცია"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
@@ -641,11 +674,13 @@ msgstr "ხმა"
 msgid "Sports"
 msgstr "სპორტი"
 
+#, fuzzy
 msgid "Sports Games"
-msgstr ""
+msgstr "მაგიდის თამაშები"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "ელცხრილი"
 
 msgid "Strategy"
 msgstr "სტრატეგიული"
@@ -660,31 +695,34 @@ msgstr "სისტემა"
 msgid "System Tools"
 msgstr "სისტემური ხელსაწყოები"
 
+#, fuzzy
 msgid "System settings"
-msgstr ""
+msgstr "პარამეტრები"
 
 msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
-msgstr "ტელე და რადიო"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "ტელე და რადიო"
+msgstr "გრაფიკული პროგრამები"
 
 #, fuzzy
 msgid "TV applications"
 msgstr "პროგრამები"
 
+#, fuzzy
 msgid "Teaching Tools"
-msgstr ""
+msgstr "მენიუს განახლების პროგრამა"
 
 msgid "Telephony"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "ტექსტის ხელსაწყოები"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -694,14 +732,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "ტერმინალის ემულატორები"
+msgstr "კონსოლის პროგრამები"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "ტერმინალის ემულატორები"
+msgstr "ტერმინალი"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "ტექსტის ხელსაწყოები"
 
 msgid "Text tools"
 msgstr "ტექსტის ხელსაწყოები"
@@ -712,8 +751,9 @@ msgstr ""
 msgid "Tools"
 msgstr "ხელსაწყოები"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "პროგრამირების ხელსაწყოები"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -721,11 +761,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "ნაგულისხმები პროგრამების ამორჩევა"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "ნაგულისხმები პროგრამების ამორჩევა"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -751,929 +793,348 @@ msgstr "სათამაშოები"
 msgid "Translation"
 msgstr "თარგმნა"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "თარგმნა"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "\"ბრმა\" ბეჭდვის შესწავლა"
 
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "გრაფიკა"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "გრაფიკული პროგრამები"
 
 msgid "Video"
-msgstr "ვიდეო"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "პარამეტრები"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "მნახველები"
+msgstr "აუდიოდამკვრელი"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "ხმის ჩამწერი"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "მნახველები"
+msgstr "შრიფტის დათვალიერება"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "ინტერნეტი"
-
-msgid "Web Browsing"
-msgstr "ინტერნეტი"
-
-msgid "Web Development"
-msgstr "ვებ-პროგრამირება"
+msgstr "ვებ ბრაუზერი"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "ინტერნეტი"
+msgid "Web Browsing"
+msgstr "ვებ ბრაუზერი"
 
-msgid "Wordprocessors"
+msgid "Web Development"
+msgstr "ვებ პროგრამირება"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "ტექსტის რედაქტორი"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "ფოსტის კლიენტი"
 
-#~ msgid "Data Management"
-#~ msgstr "მონაცემთა მართვა"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "მობილური მოწყობილობები"
 
-#~ msgid "Medicine"
-#~ msgstr "მედიცინა"
 
-#~ msgid "Social"
-#~ msgstr "სოციალური"
 
-#~ msgid "Shells"
-#~ msgstr "გარსები (Shells)"
 
-#~ msgid "Language Environment"
-#~ msgstr "ენის გარემო"
 
-#~ msgid "Text"
-#~ msgstr "ტექსტი"
 
-#~ msgid "Puzzles"
-#~ msgstr "თავსატეხები"
 
-#~ msgid "Help"
-#~ msgstr "დახმარება"
 
-#~ msgid "Window Managers"
-#~ msgstr "გრაფიკული გარსები"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "FVWM მოდულები"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-#~ msgid "Appearance"
-#~ msgstr "იერსახე"
 
-#~ msgid "WorkSpace"
-#~ msgstr "სამუშაო გარემო"
 
-#~ msgid "Iceape Components"
-#~ msgstr "Iceape კომპონენტები"
 
-#~ msgid "Teddies"
-#~ msgstr "სათამაშოები"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> ყველა პროგრამები"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> რა ვქნათ ?"
 
-#~ msgid "Edutainment"
-#~ msgstr "განათლება-გართობა"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "სხვდასხვა"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "X Window–ს ხელსაწყოები"
 
-#~ msgid "X-Utilities"
-#~ msgstr " X-ხელსაწყოები"
 
-#~ msgid "Wine"
-#~ msgstr "Wine (Windows ემულატორი)"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Lost & Found"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "ტაქტიკა & სტრატეგია"
 
-#~ msgid "Information"
-#~ msgstr "ინფორმაციები"
 
-#~ msgid "Personal preferences"
-#~ msgstr "პერსონალური პარამეტრები"
 
-#~ msgid "Accessories"
-#~ msgstr "აქსესუარები"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "სამუშაო მაგიდის აქსესუარები"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "მეცნიერება და მათემატიკა "
 
-#~ msgid "Peripherals"
-#~ msgstr "მოწყობილობები"
 
-#~ msgid "File"
-#~ msgstr "ფაილი"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "ეკრანმზოგის თემები"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "სისტემის კონფიგურაცია და მონიტორინგი"
 
-#~ msgid "KDE Menu"
-#~ msgstr "KDE მენიუ"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "საკუთარი პარამეტრები და ადმინისტრაცია"
 
-#~ msgid "Sound & Video"
-#~ msgstr "ხმა და ვიდეო"
 
-#~ msgid "Control Center"
-#~ msgstr "საკონტროლო ცენტრი"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "პროგრამები ინტერნეტისათვის, ვები და მეილი"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "პროგრამები რომლებიც არც ერთ კატეგორიაში არ შედიან"
 
-#~ msgid "Office Applications"
-#~ msgstr "საოფისე პროგრამები"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid "Five or More"
-#~ msgstr "ხუთი ან მეტი"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "ა"
 
-#~ msgid "System Monitor"
-#~ msgstr "სისტემის მონიტორი"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "მიმდინარე პროცესებისა და თვალყურის სისტემის ნახვა"
 
-#~ msgid "Image Viewer"
-#~ msgstr "სურათების გალერეა"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "დაბლოკვის პარამეტრების გამართვა"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "დაბლოკვის რედაქტორი"
 
-#~ msgid "About Me"
-#~ msgstr "ჩემს შესახებ"
 
-#~ msgid "Set your personal information"
-#~ msgstr "პერსონალური ინფორმაციის შექმნა"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr ""
-#~ "ძირითად მენიუში პროგრამების მართვა, შესაძლებელია მათი დამალვა ან ჩვენება"
 
-#~ msgid "Main Menu"
-#~ msgstr "ძირითადი მენიუ"
 
-#~ msgid "Browse the web"
-#~ msgstr "გაისეირნეთ ინტერნეტში"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Character Map"
-#~ msgstr "სიმბოლოთა რუკა"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "სამუშაო მაგიდის ხედის გალამაზება"
 
-#~ msgid "Search for Files..."
-#~ msgstr "ფაილის ძებნა..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "რთავს სხვა პროგრამებს და უზრუნველყოფს სხვადასხვა აპლეტებს როგორც, ფანჯრის "
-#~ "აპლეტი, დროის აპლეტი და სხვა."
 
-#~ msgid "Panel"
-#~ msgstr "პანელი"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "ეკრანის კლავიატურა"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "CD/DVD შემქმნელი"
 
-#~ msgid "Simple text editor"
-#~ msgstr "მარტივი ტექსტური რედაქტორი"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "ლოკალური და ქსელური მისამართების დათვალიერება"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "მომხმარებლების პროფილების ჩადგმა და რედაქტირება"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "პროფილების რედაქტორი"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-სპოტ"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "ფოტო დამთვალიერებელი"
 
-#~ msgid "Bluetooth"
-#~ msgstr "ლურჯი კბილი"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "ლურჯი კბილის პარამეტრების კონფიგურაცია"
 
-#~ msgid "Text Editor"
-#~ msgstr "ტექსტის რედაქტორი"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "ეკრანის ანაბეჭდი"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "ფაილ სისტემის ფაილ მენეჯერით დათვალიერება"
 
-#~ msgid "File Browser"
-#~ msgstr "ფაილ ბრაუზერი"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "აყენებს სამუშაო მაგიდის სხვადასხვა ნაწილების თემებს"
 
-#~ msgid "Theme Installer"
-#~ msgstr "გაფორმების დამყენებელი"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "დახმარება GNOME-ში"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "დამხმარე ტექნოლოგიები"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "ორგანიზირება, დათვალიერება და გაზიარება"
 
-#~ msgid "Photo Manager"
-#~ msgstr "ფოტო მენეჯერი"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "ფილმების ან სიმღერების დაკვრა"
 
-#~ msgid "Document Viewer"
-#~ msgstr "დოკუმენტების მნახველი"
 
-#~ msgid "Home Folder"
-#~ msgstr "სახლის დასტა"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "პირადი დასტის გახსნა"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Search"
-#~ msgstr "ძებნა"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "მფეთქავი ფერები პოპ-არტ-სტილში"
 
-#~ msgid "Pop art squares"
-#~ msgstr "კვადრატები პოპ-არტ სტილში"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "მომხმარებლის სურათების დასტის სლაიდშოუ"
 
-#~ msgid "Pictures folder"
-#~ msgstr "სურათების დასტა"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "ჯუჯის ნაფეხურები ეკრანის გარშემო"
 
-#~ msgid "Floating Feet"
-#~ msgstr "მოსრიალე ფეხი"
 
-#~ msgid "Cosmos"
-#~ msgstr "კოსმოსი"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "კოსმოსური სურათების სლაიდშოუ"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "თქვენი კომპიუტერიდან ლოკალური ან დაშორებული დისკების, დასტების "
-#~ "დათვალიერება"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "ნიშნულების დათვალიერება და რედაქტირება"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Epiphany-ს ვებ ნიშნულები"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Web ნიშნულები"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "ელემენტების პერიოდული ცხრილი"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "ელემენტების პერიოდული ცხრილი"
 
-#~ msgid "Hangman Game"
-#~ msgstr "თამაში \"ჩამოხრჩობანა\""
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "KDE თამაში \"ჩამოხრჩობანა\""
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Photo Album"
-#~ msgstr "ფოტო ალბომი"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "სურათების მარტივი დამთვალიერებელი"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "სიტყვათა მარაგის შემოწმება ბარათებით"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "კალენდრის და მგეგმავის პროგრამა"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "პირადი ორგანიზატორი"
 
-#~ msgid "Home"
-#~ msgstr "პირადი უჯრა"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "გაცვლის ბუფერის უტილიტა"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "CD Player"
-#~ msgstr "CD გამშვები"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "სერვერი Groupware"
 
-#~ msgid "Desktop Search"
-#~ msgstr "სამუშაო მაგიდის ძიება"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "ეკრანის ზომა და ორიენტაცია"
 
-#~ msgid "KMail"
-#~ msgstr "K-ფოსტა"
 
-#~ msgid "Konsole"
-#~ msgstr "კონსოლი"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "ქსელურ საქარალდეთა ოსტატი"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "პირადი ინფორმაციის მმართველი"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "სიტყვათა მარაგის შემოწმება"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "ფუნქციების გრაფიკები"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "მათიმატიკური ფუნქციების გრაფიკები"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "სამაგიდო პლანეტარიუმი"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "პერსონალური მაღვიძარას მგეგმავი"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "BitTorrent-ის პროგრამა KDE-თვის"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "BitTorrent-ის კლიენტი"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "გეოგრაფიის სასწავლო პროგრამა"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "გეოგრაფიის სავარჯიშოები"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "ვარჯიში წილადებთან"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "პრაქტიკული სავარჯიშოები წილადებთან"
 
-#~ msgid "Info Center"
-#~ msgstr "საინფორმაციო ცენტრი"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "Change Password"
-#~ msgstr "პაროლის შეცვლა"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "KonsoleKalendar"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "იაპონურის ლექსიკონი/შესწავლა"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "Welcome"
-#~ msgstr "იდღეგრძელეთ!"
 
-#~ msgid "Trash"
-#~ msgstr "ურნა"
 
-#~ msgid "KWrite"
-#~ msgstr "რედაქტორი KWrite"
 
-#~ msgid "Software Management"
-#~ msgstr "პროგრამათა მენეჯმენტი"
 
-#~ msgid "KNode"
-#~ msgstr "K-ნოდა"
 
-#~ msgid "News Reader"
-#~ msgstr "სიახლეების წამკითხველი"
 
-#~ msgid "Menu Editor"
-#~ msgstr "მენუს ედიტორი"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "პერსონალური დროის აღმრიცხველი"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "ფაილთა და საქაღალდეთა ძიება"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "გეომეტრიულ ფიგურათა შესწავლა"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "ინტერაქტიური გეომეტრია"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "ფაილური მენეჯერი (root-ის პრივილეგიებით)"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "KDE ასოების გადალაგების თამაში"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "ასოების გადალაგება"
 
-#~ msgid "Popup Notes"
-#~ msgstr "მოტივტივე შენიშვნები"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "დისკეტის დამფორმატებელი"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "ბრძანებისთვის სხარტი კლავიშის მინიჭება"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "სხარტი კლავიშები"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "მონაცემთა ბაზის გარემოს კონფიგურირება"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "დაყენებული მოდულების ჩართვა/გამორთვა"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "კლავიატურის ინდიკატორის მოდულები"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Screensaver"
-#~ msgstr "ეკრანმზოგი"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "მიუთითეთ თქვენი ეკრანმზოგის პარამეტრები"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "უფასო, მარტივი, პერსონალური ბუღალტერია ყველასათვის"
 
-#~ msgid "HomeBank"
-#~ msgstr "საშინაო ბანკი"
 
-#~ msgid "Open Folder"
-#~ msgstr "დასტის გახსნა"
 
-#~ msgid "Network Proxy"
-#~ msgstr "ქსელის პროქსი"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "თვენი ქსელის პროქსის პარამეტრების დაყენება"
 
-#~ msgid "Use the command line"
-#~ msgstr "ბრზანების ხაზის გამოყენება"
 
-#~ msgid "Preview fonts"
-#~ msgstr "შრიფტის ესკიზი"
 
-#~ msgid "Record sound clips"
-#~ msgstr "ჩაიწერე ხმის კლიპები"
 
-#~ msgid "Set your window properties"
-#~ msgstr "თქვენი ფანჯრის პარამეტრების მითითება"
 
-#~ msgid "Windows"
-#~ msgstr "ფანჯრები"
 
-#~ msgid "Configure power management"
-#~ msgstr "დენის მართვის მმართვა"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "მომხმარებლების და ჯგუფების დამატება ან ამოშლა"
 
-#~ msgid "Browse the Web"
-#~ msgstr "ინტერნეტში გასეირნება"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "არქივის შექმნა და რედაქტირება"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "დამატებითი ინფორმაცია გნომის შესახებ"
 
-#~ msgid "Keyboard"
-#~ msgstr "კლავიატურა"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "კლავიატურის პარამეტრების დაყენება"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "თაგვის პარამეტრების დაყენება"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "გადაიღე შენი ვებკამერით სახალისო გარფიკული ეფექტების მქონე სურათები და "
-#~ "ვიდეო"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "გნომის კონფიგურაციის ხელსაწყო"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "ფაილ მენჯერის ფანჯრის ქცევის და გაფორმების შეცვლა"
 
-#~ msgid "File Management"
-#~ msgstr "ფაილების მართვა"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "ეკიგა ტელეფონი"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP ტელეკავშირგაბმულობა და ვიდეო კონფერენცია"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "ხალხთან ლაპარაკი ინტერნეტის საშუალებით"
 
-#~ msgid "Edit text files"
-#~ msgstr "ტექსტური ფაილების რედაქტირება"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Bonobo კომპონენტების გზამკვლევი"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "შესაძლო Bonobo კომპონენტების ჩვენება"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "კონფიგურაციის მონაცემთა ბაზის პირდაპირი რედაქტირება"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "ავტო-გაშვების შემოთავაზება"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "გამოსახულებების რედაქტორი"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "ხარვეზების აღწერის ხელსაწყო"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "გნომის პროგრამების ხარვეზების შესახებ შეტყობინება"
 
-#~ msgid "Drawing"
-#~ msgstr "სახატავი"
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "Anjuta IDE"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Awn-ის პარამეტრებით, გამშვებები, აპპლეტებითა და თემებით მართვა"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "პროგრამის მართვა"
 
-#~ msgid "GCompris Administration"
-#~ msgstr "GCompris პროგრამის მართვა"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "საგანმანათლებლო თამაში 2-დან 10-წლამდე ბავშვებისთვის"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "თამაშების კრებული - GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "საგანმანათლებლო თამაში მრავალი სავარჯიშოთი"
 
-#~ msgid "Network Tools"
-#~ msgstr "ქსელის ხელსაწყოები"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "View disk usage information"
-#~ msgstr "დისკის გამოყენების ინფორმაციის ხილვა"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "ფაილთა და საქაღალდეთა შედარების და შერწყმის ხელსაწყო"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "ვალუტათა კონვერტორი და კალკულატორი"
 
-#~ msgid "A graphical FTP client"
-#~ msgstr "გრაფიკული FTP კლიენტი"
 
-#~ msgid "FTP Client"
-#~ msgstr "FTP კლიენტი"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "Graphviz-ის dot გრაფიკების დასათვალიერებელი პროგრამა KDE-თვის"
 
-#~ msgid "Network Monitor"
-#~ msgstr "ქსელის მონიტორი"
 
-#~ msgid "Cooking Book"
-#~ msgstr "სამზარეულო წიგნი"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "KDE-ს სამზარეულო წიგნი"
 
-#~ msgid "Critical Mass"
-#~ msgstr "Critical Mass"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asteroids3D"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "CanonUtil"
-#~ msgstr "CanonUtil"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Cssed"
-#~ msgstr "Cssed"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "Dr. Python"
-#~ msgstr "Dr. Python"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "FooBillard"
-#~ msgstr "FooBillard"
 
-#~ msgid "Panel Manager"
-#~ msgstr "პანელის მმართველი"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "მუსრი გაავლეთ მონსტრებს და დაიხსენით კეთილი გნომები"
 
-#~ msgid "Monster Masher"
-#~ msgstr "Monster Masher – მონსტრთა მმუსვრელი"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "ქსელის მოწყობილობათა და კავშირების გამართვა"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "სისტემის ჩატვირთვისას გასაშვები სერვისების გამართვა"
 
-#~ msgid "Services"
-#~ msgstr "სერვისი"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "ქსელის გარემოცვაში გასაზიარებელი დასტები"
 
-#~ msgid "Shared Folders"
-#~ msgstr "გაზიარებული დასტები"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "სისტემური დროის, თარიღისა და დროის ზონის შეცვლა"
 
-#~ msgid "Time and Date"
-#~ msgstr "დრო და თარიღი"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "სახატავი პროგრამა ბავშვებისთვის."
 
-#~ msgid "Tux Paint"
-#~ msgstr "თხუპნია!"
-
-#~ msgid "Desktop calendar"
-#~ msgstr "მარტივი კალენდარი"
-
-#~ msgid "Orage"
-#~ msgstr "კალენდარი"
-
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "Xfce 4-ის პარამეტრების გრაფიკული მმართველი"
-
-#~ msgid "Settings Manager"
-#~ msgstr "პარამეტრების მმართველი"
-
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Xfce 4-ის პარამეტრების მმართველი"
-
-#~ msgid "Calendar Settings"
-#~ msgstr "კალენდარის პარამეტრები"
-
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Xfce 4-ის კალენდრის პროგრამის პარამეტრების მართვა"
-
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Xfce 4 კალენდარის პარამეტრები"

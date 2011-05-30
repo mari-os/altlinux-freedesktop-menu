@@ -12,10 +12,10 @@ msgstr ""
 "PO-Revision-Date: 1999-08-25 11:07+0200\n"
 "Last-Translator: Nobody\n"
 "Language-Team: fo\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -258,9 +258,8 @@ msgstr ""
 msgid "Editors"
 msgstr "Ritlar"
 
-#, fuzzy
 msgid "Education"
-msgstr "Undirvísing og -hald"
+msgstr ""
 
 msgid "Electricity"
 msgstr ""
@@ -692,7 +691,7 @@ msgstr "Tekstforrit"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Úteindir"
+msgstr "Tekstforrit"
 
 msgid "Text tool utilities"
 msgstr ""
@@ -704,9 +703,8 @@ msgstr "Tekstritil"
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
-#, fuzzy
 msgid "Tools"
-msgstr "Leiku"
+msgstr ""
 
 msgid "Tools for web developers"
 msgstr ""
@@ -811,68 +809,26 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Hentleikar til X"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Hentleikar til X"
 
-#~ msgid "Advanced"
-#~ msgstr "Tilkomið"
 
-#~ msgid "Information"
-#~ msgstr "Upplýsingar"
 
-#~ msgid "Office Suite"
-#~ msgstr "Skrivstovuforrit"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Uppseting av Fetchmail"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalsium"
 
-#~ msgid "KUser"
-#~ msgstr "KNýtari"
 
-#~ msgid "User Manager"
-#~ msgstr "Nýtarahandfarari"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Eplamaður"
 
-#~ msgid "AMOR"
-#~ msgstr "Amor"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Funkateknari"
 
-#~ msgid "KStars"
-#~ msgstr "KStjørnur"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "BitTorrent-viðskiftari"
 
-#~ msgid "Change Password"
-#~ msgstr "Broyt atlát"
 
-#~ msgid "KWrite"
-#~ msgstr "KSkriva"
 
-#~ msgid "Keyboard"
-#~ msgstr "Knappaborð"
 
-#~ msgid "Configure keyboard, mouse, and other input devices"
-#~ msgstr "Samanset knappaborð, mús, og arðar inntøkutóleindir"
 
-#~ msgid "Keyboard and Mouse"
-#~ msgstr "Knappaborð og mús"
 
-#~ msgid "Services"
-#~ msgstr "Tænastur"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "Eitt tekniforrit til børn."
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
+
+

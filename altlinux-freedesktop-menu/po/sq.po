@@ -1,18 +1,21 @@
-# Menu section translation
-# Copyright (C) 2003
-# This file is distributed under the same license as the menu package.
-# Bill Allombert <ballombe@debian.org>, 2003.
-# , fuzzy
+#
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/sq.php3
+#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Naim Daka <naim70@freesurf.ch>, 2002.
 #
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.9-3\n"
+"Project-Id-Version: menu-messages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-05-05 19:01+0200\n"
-"Last-Translator: Elian Myftiu <elian.myftiu@gmail.com>\n"
-"Language-Team: Debian L10n Albanian <debian-l10n-albanian@lists.debian.org>\n"
+"PO-Revision-Date: 2002-11-26 13:35+0200\n"
+"Last-Translator: Naim Daka <naim70@freesurf.ch>\n"
+"Language-Team: Albanian <LL@li.org>\n"
+"Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,32 +24,35 @@ msgstr ""
 msgid "2D Graphics"
 msgstr "Grafikë"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "Programe grafiku"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "Grafikë"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "Programe grafiku"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "Organizues Skedash"
+msgstr "Lojra dhe argëtime"
 
 msgid "Accessibility"
-msgstr "Hyrshmëri"
+msgstr "Açesibiliteti"
 
+#, fuzzy
 msgid "Action"
-msgstr "Aksion"
+msgstr "Edukim"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "Aksion"
+msgstr "Një lojë akcioni-enigmë"
 
 msgid "AddressBooks"
 msgstr ""
@@ -55,18 +61,18 @@ msgid "Administration"
 msgstr "Administrim"
 
 msgid "Adventure"
-msgstr "Aventurë"
+msgstr "Avanture"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "Aventurë"
+msgstr "Avanture"
 
 msgid "Amateur Radio"
-msgstr "Radio Amatori"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "Programe"
+msgstr "Gjetës Zbatimesh"
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -84,13 +90,15 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Arcade"
+msgstr "Lojë me Arkadë"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "Lojë Arkade video"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Organizuesi i Arkivit"
 
 msgid "Art"
 msgstr ""
@@ -102,20 +110,22 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "Astronomi"
+msgstr "Atronomi"
 
 #, fuzzy
 msgid "Astronomy software"
-msgstr "Astronomi"
+msgstr "Atronomi"
 
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "Audio plejer"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "Regjistruesi i Zërit"
 
 msgid "Backup"
 msgstr ""
@@ -125,15 +135,14 @@ msgstr "Biologji"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "Biologji"
+msgstr "Softver i morphing (deformues i imazheve)"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Blloqe"
+msgstr ""
 
 #, fuzzy
 msgid "Board Games"
-msgstr "Lojra"
+msgstr "Lojë e stendës"
 
 msgid "Boards"
 msgstr "Lojë e stendës"
@@ -146,7 +155,7 @@ msgstr "Kalkulator (llogaritës)"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "Emulues"
+msgstr "Kalkulator (llogaritës)"
 
 msgid "Calendar"
 msgstr "Kalendar"
@@ -161,27 +170,26 @@ msgstr "Lojra"
 msgid "Cards"
 msgstr "Kartelat"
 
-#, fuzzy
 msgid "Chart"
-msgstr "Letra"
-
-msgid "Chat"
 msgstr ""
 
+#, fuzzy
+msgid "Chat"
+msgstr "Fjalosje IRC"
+
 msgid "Chemistry"
-msgstr "Kimi"
+msgstr "Kimia"
 
 #, fuzzy
 msgid "Chemistry software"
-msgstr "Kimi"
+msgstr "Kimia"
 
-#, fuzzy
 msgid "Clock"
-msgstr "Blloqe"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
-msgstr "Komunikim"
+msgstr "Njoftime"
 
 msgid "Compression"
 msgstr ""
@@ -189,31 +197,36 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Shkenca Informatike"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "Shkenca Informatike"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "Shkenca Informatike"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "Gjeoshkencë"
+msgstr "Shkenca Informatike"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Editori i konfigurimit"
 
 #, fuzzy
 msgid "Construction"
-msgstr "Komunikim"
+msgstr "Administrim"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
+#, fuzzy
 msgid "Data Visualization"
-msgstr ""
+msgstr "Internacionalizimi"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "Eksploatuesi i të Dhënave Çfaqëse"
 
 msgid "Databases"
 msgstr "Baza e të dhënave"
@@ -222,29 +235,34 @@ msgstr "Baza e të dhënave"
 msgid "Debug Applications"
 msgstr "Programe"
 
+#, fuzzy
 msgid "Desktop"
-msgstr ""
+msgstr "Hapësira e Punës në Distancë"
 
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "Aksesorë hapësire pune"
 
 msgid "Development"
 msgstr "Zhvillimi"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "Zhvillues të mjediseve"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "Program grafik në 3D"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "Fjalori"
 
 msgid "Dictionary"
 msgstr "Fjalori"
@@ -260,10 +278,10 @@ msgstr ""
 
 #, fuzzy
 msgid "Economy"
-msgstr "Astronomi"
+msgstr "Atronomi"
 
 msgid "Editors"
-msgstr "Editues"
+msgstr "Botues teksti"
 
 msgid "Education"
 msgstr "Edukim"
@@ -271,63 +289,71 @@ msgstr "Edukim"
 msgid "Electricity"
 msgstr "Elektrike"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "Elektrike"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "Elektronikë"
+msgstr "Elektrike"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Programe"
+msgstr "Programe grafiku"
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Emulues"
+msgstr "Imituesit"
 
 msgid "Engineering"
-msgstr "Inxhinieri"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "Blloqe"
+msgstr "Përshtat blloqet që bien bashkë"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "Përshtat blloqet që bien bashkë"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "Organizues Skedash"
+msgstr "Administrues i Skedares"
 
 #, fuzzy
 msgid "File Systems"
-msgstr "Sistem"
+msgstr "Sistemi"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "Lëvizje Skedash"
+msgstr "Administrues i Skedares"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "Vegla të Sistemit"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "Vegla teksti"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "Shkencat"
 
 msgid "Flow Chart"
 msgstr ""
@@ -338,8 +364,9 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "Programe grafiku"
 
 msgid "Games"
 msgstr "Lojra"
@@ -357,15 +384,17 @@ msgstr ""
 msgid "Geology"
 msgstr "Biologji"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "Gjeoshkencë"
+msgstr "Gjeologjitë"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "Gjeoshkencë"
+msgstr "Gjeologjitë"
 
 msgid "Geosciences"
 msgstr "Gjeologjitë"
@@ -373,8 +402,9 @@ msgstr "Gjeologjitë"
 msgid "Graphics"
 msgstr "Grafikë"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
 msgid "Hardware"
 msgstr "Hardware"
@@ -382,33 +412,39 @@ msgstr "Hardware"
 msgid "History"
 msgstr "Kronollogjia"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "IRC Klient"
 
+#, fuzzy
 msgid "Image Processing"
-msgstr ""
+msgstr "Shfletues imazhi"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Instant Messenger"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "Klient Univerzal i Lajmit të Çastit"
 
 msgid "Internet"
 msgstr "Internet"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Programe"
+msgstr "Internacionalizimi"
 
 msgid "Java"
 msgstr ""
@@ -427,64 +463,69 @@ msgstr "Literatura"
 
 #, fuzzy
 msgid "Logic Games"
-msgstr "Lojra"
+msgstr "Lojë Logic"
 
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
 msgid "Mathematics"
-msgstr "Matematikë"
+msgstr "Metematikë"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "Shfletues i Lirë për Softverin"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "Shikues"
+msgstr "WmsMixer"
 
 msgid "Monitoring"
-msgstr "Vëzhgues"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Multimedia"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "Menuja për multimedialen"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "Lexues Multimedia"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "Lexues Multimedia"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
 msgid "Network"
-msgstr "Rrjet"
+msgstr "Rrjeta"
 
 msgid "Network-related settings"
 msgstr "Rregullime lidhur me Rrjetin"
 
-#, fuzzy
 msgid "News"
-msgstr "Të Reja Rrjeti"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
 
-#, fuzzy
 msgid "Numeric Analysis"
-msgstr "Analizë të Dhënash"
+msgstr ""
 
 msgid "Numerical analysis software"
 msgstr ""
@@ -506,14 +547,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "Programim"
+msgstr "Program vizatimi"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "Organizues Paketash"
+msgstr "Programet e Preferuar"
 
 msgid "Packaging"
 msgstr "Paketim"
@@ -521,8 +562,9 @@ msgstr "Paketim"
 msgid "Parallel Computing"
 msgstr ""
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
 msgid "Performance"
 msgstr ""
@@ -534,20 +576,22 @@ msgid "Photography"
 msgstr ""
 
 msgid "Physics"
-msgstr "Fizikë"
+msgstr "Fizika"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "Fizikë"
+msgstr "Softver i morphing (deformues i imazheve)"
 
 msgid "Preferences"
 msgstr "Pëlqimet"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "Prezantime"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "Prezantime"
 
 msgid "Printing"
 msgstr "Stampimi"
@@ -555,12 +599,13 @@ msgstr "Stampimi"
 msgid "Profiling tools"
 msgstr ""
 
+#, fuzzy
 msgid "Project Management"
-msgstr "Projektim"
+msgstr "Organizimi i file"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "Projektim"
+msgstr "Programet e Preferuar"
 
 msgid "Publishing"
 msgstr ""
@@ -572,20 +617,25 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "Grafikë"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "Programe grafiku"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "Hapësira e Punës në Distancë"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "Kontrolli i Volumit"
 
+#, fuzzy
 msgid "Robotics"
-msgstr ""
+msgstr "Robotët"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "Softver i morphing (deformues i imazheve)"
 
 msgid "Role Playing"
 msgstr ""
@@ -593,35 +643,36 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "Kursim"
+msgstr ""
 
+#, fuzzy
 msgid "Science"
-msgstr "Shkencë"
+msgstr "Shkencat"
 
 msgid "Screensavers"
 msgstr "Ruajtës ekrani"
 
 msgid "Security"
-msgstr "Siguri"
+msgstr "Siguria"
 
 #, fuzzy
 msgid "Security tools"
-msgstr "Siguri"
+msgstr "Siguria"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "Sekuencor MIDI"
 
 msgid "Settings"
 msgstr "Parametrat"
 
-msgid "Simulation"
-msgstr "Simulim"
-
 #, fuzzy
+msgid "Simulation"
+msgstr "Imitues Minitel"
+
 msgid "Simulation Games"
-msgstr "Simulim"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
@@ -629,34 +680,36 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "Menagjues i Burimit Softver"
 
 msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "Zë"
+msgstr "Zëri"
 
 msgid "Sports"
-msgstr "Sporte"
+msgstr "Sportet"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "Sporte"
+msgstr "Sportet"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "Fleta elektronike"
 
 msgid "Strategy"
-msgstr "Strategji"
+msgstr "Strategjia"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "Strategji"
+msgstr "Strategjia"
 
 msgid "System"
-msgstr "Sistem"
+msgstr "Sistemi"
 
 msgid "System Tools"
 msgstr "Vegla të Sistemit"
@@ -664,15 +717,16 @@ msgstr "Vegla të Sistemit"
 msgid "System settings"
 msgstr "Rregullime sistemi"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "TV dhe Radio"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "TV dhe Radio"
+msgstr "Zbatim për pjekje CDsh dhe DVDsh"
 
 #, fuzzy
 msgid "TV applications"
@@ -681,11 +735,13 @@ msgstr "Programe"
 msgid "Teaching Tools"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "Telefoni ISDN"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "Vegla teksti"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -695,14 +751,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Emulues Terminali"
+msgstr "Emulues terminali"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Emulues Terminali"
+msgstr "Terminali"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "Vegla teksti"
 
 msgid "Text tools"
 msgstr "Vegla teksti"
@@ -711,10 +768,11 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Vegla"
+msgstr "Veglat"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "Vegla për zhvillim programesh"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -722,11 +780,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "Zgjidh programet e zakonshëm"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "Zgjidh programet e zakonshëm"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -747,10 +807,11 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Lodra"
+msgstr "Vegla të vogla"
 
+#, fuzzy
 msgid "Translation"
-msgstr ""
+msgstr "Transmission"
 
 msgid "Translation tools"
 msgstr ""
@@ -763,2662 +824,877 @@ msgstr ""
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "Grafikë"
+msgstr "Vegël për Vizatim Vectoriel"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "Programe grafiku"
 
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "Pëlqimet"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "Shikues"
+msgstr "Lexues Video"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "Regjistrues Video Digjital"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "Shikues"
+msgstr "Shikues figurash"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "Shfletim Rrjeti"
-
-msgid "Web Browsing"
-msgstr "Shfletim Rrjeti"
-
-msgid "Web Development"
-msgstr "Zhvillim Rrjeti"
+msgstr "Shfletuesi Web"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "Shfletim Rrjeti"
+msgid "Web Browsing"
+msgstr "Shfletuesi Web"
 
-msgid "Wordprocessors"
+#, fuzzy
+msgid "Web Development"
+msgstr "Zhvillimi"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Procesues teksti"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "Kush është klienti"
 
-#~ msgid "Data Management"
-#~ msgstr "Organizues të Dhënash"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "Dispozitivë Të Lëvizshëm"
 
-#~ msgid "Medicine"
-#~ msgstr "Mjekësi"
 
-#~ msgid "Social"
-#~ msgstr "Sociale"
 
-#~ msgid "Shells"
-#~ msgstr "Shells"
 
-#~ msgid "Language Environment"
-#~ msgstr "Mjedis Gjuhësh"
 
-#~ msgid "Text"
-#~ msgstr "Tekst"
 
-#~ msgid "Puzzles"
-#~ msgstr "Gjëza"
 
-#~ msgid "Help"
-#~ msgstr "Ndihmë"
 
-#~ msgid "Window Managers"
-#~ msgstr "Organizues Dritaresh"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "Module FVWM"
 
-#~ msgid "Window Maker"
-#~ msgstr "Krijues Dritaresh"
 
-#~ msgid "Appearance"
-#~ msgstr "Pamje e Jashtme"
 
-#~ msgid "WorkSpace"
-#~ msgstr "Hapësirë Pune"
 
-#~ msgid "Iceape Components"
-#~ msgstr "Përbërës Iceape"
 
-#~ msgid "Teddies"
-#~ msgstr "Zbavitje"
 
-#~ msgid "Apps"
-#~ msgstr "Programe"
 
-#~ msgid "Hamradio"
-#~ msgstr "Hamradio"
 
-#~ msgid "Math"
-#~ msgstr "Matematikë"
 
-#~ msgid "Technical"
-#~ msgstr "Teknike"
 
-#~ msgid "Tetris-like"
-#~ msgstr "Si-Tetris"
 
-#~ msgid "Root-window"
-#~ msgstr "Dritarja-root"
 
-#~ msgid "XShells"
-#~ msgstr "XShells"
 
-#~ msgid "Admin"
-#~ msgstr "Administrues"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Gjitha Aplikacionet"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Çka të bëjë?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Edukues"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Ndryshëm"
 
-#~ msgid "Programming"
-#~ msgstr "Programim"
 
-#~ msgid "Servers"
-#~ msgstr "Serverët"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Të detajuara"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Rregullimet e detajuara"
 
-#~ msgid "Information"
-#~ msgstr "Informacion"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Preferime vetjake"
 
-#~ msgid "Accessories"
-#~ msgstr "Aksesorë"
 
-#~ msgid "Peripherals"
-#~ msgstr "Periferikët"
 
-#~ msgid "Look and Feel"
-#~ msgstr "Pamje dhe Ndjesi"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "Rregullime që kontrollojnë pamjen e hapësirës së punës dhe sjelljen"
 
-#~ msgid "File"
-#~ msgstr "Skedë"
 
-#~ msgid "Personal settings"
-#~ msgstr "Rregullime vetjake"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "Temat e ruajtësit të ekranit"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Konfigurim dhe vëzhgim sistemi"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Rregullime për dispozitivë të ndryshëm"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Preferimet vetjake dhe rregullimet administrative"
 
-#~ msgid "Universal Access"
-#~ msgstr "Hyrje universale"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Rregullimet për hyrjen universale"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr ""
-#~ "Ndrysho rregullimet në rang sistemi (ndikon tek të gjithë përdoruesit)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Zë & Video"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet dhe Rrjet"
 
-#~ msgid "Control Center"
-#~ msgstr "Qendra e Kontrollit"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr ""
-#~ "Programe për hyrje në Internet (si p.sh. rrjeti dhe posta elektronike)"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Programe që nuk gjejnë vend në kategori të tjera"
 
-#~ msgid "Office Applications"
-#~ msgstr "Programe për zyrë"
 
-#~ msgid ".hidden"
-#~ msgstr ".fshehura"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "Ju lutemi mos i zhdukni apo ndryshoni"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Azhurnimi Mandriva Linux"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Frangjisht"
 
-#~ msgid "MIDI file player"
-#~ msgstr "Lexues skedaresh MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "Five or More"
-#~ msgstr "Pesë apo më Shumë"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "Hiq topat me ngjyrë nga tabela duke krijuar rreshta"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Hulumtues mine"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "Shfletuesi i dokumentimit"
 
-#~ msgid "System Monitor"
-#~ msgstr "Monitori i sistemit"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Shfaq proçeset aktualë dhe monitoron gjëndjen e sistemit"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Aplikacion vështrimi i bazuar në GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "Konfiguro politikën e bllokimeve"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "Editori i bllokimeve"
 
-#~ msgid "About Me"
-#~ msgstr "Rreth Meje"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Cakto të dhënat e tua personale"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Ndrysho çfarë aplikativësh do të shfaqen tek menuja kryesore"
 
-#~ msgid "Main Menu"
-#~ msgstr "Menuja kryesore"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Eksploro web-in"
 
-#~ msgid "Character Map"
-#~ msgstr "Harta e simboleve"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Shto simbole të veçantë në dokumente"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Konfigurimi Samba (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Vegël Swat për administrimin e Samba"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "Të gjitha lojërat solitere me letra"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "Personalizon paraqitjen e ambjentit grafik"
 
-#~ msgid "Search for Files..."
-#~ msgstr "Kërko për files..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Lëshon aplikativë të tjerë dhe vë në dispozicion instrumentë të ndryshëm "
-#~ "për të manazhuar dritaret, shfaqur kohën, etj."
 
-#~ msgid "Panel"
-#~ msgstr "Panel"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr ""
-#~ "Shfleto aplikativët dhe shkruaj duke përdorur dispozitivë alternativë për "
-#~ "input"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Tastierë në ekran"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "Interfac për rp-pppoe"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "Krijuesi i CD/DVD"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Simple text editor"
-#~ msgstr "Përpunues i thjeshtë tekstesh"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Shfleton pozicionet e rrjetit lokal dhe në libërshënues"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "Përcakton dhe ndryshon profilet e përdoruesve"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "Editori i profilit të përdoruesit"
 
-#~ msgid "Emacs"
-#~ msgstr "Botues Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Editues teksti"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Shfleto dhe rrotullo figurat"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "Programi ndihmues i zhvilluesve"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Holandisht"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Shfleto file e sistemit me organizuesin e file"
 
-#~ msgid "File Browser"
-#~ msgstr "Shfletuesi i file"
 
-#~ msgid "IDE for Python"
-#~ msgstr "Mjedis zhvillues për Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "Informues i letrave"
 
-#~ msgid "Configurator"
-#~ msgstr "Konfigurues"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "Instalon paketat e temave për pjesë të ndryshme të «desktop»"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Instaluesi i temave"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Merr ndihmë me GNOME"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Teknollogjitë asistuese"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "Zgjidh çfarë karakteristika përshtatshmërie të akivizohen në hyrje"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "Krijon ose hap vizatime interfaqesh përdorimi për aplikativë GTK+"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Movie Player"
-#~ msgstr "Lexues Filmash"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Lexo filmat dhe këngët"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Shikues dokumentesh"
 
-#~ msgid "Home Folder"
-#~ msgstr "Kartela Home"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Hap kartelën personale"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "Sjellja e paracaktuar për aplikativët GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Zgjedhësi i Sistemeve Multimedialë"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "Hyrje në desktop-e në distancë"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "Shfaqësh desktop-esh në distancë"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Interfac grafike për njohjen e karakterëve gocr"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "Shmang robotët dhe bëji të përplasen me njëri tjetrin"
 
-#~ msgid "Search"
-#~ msgstr "Hulumto"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Spanjollisht"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "Një rrjetë me ngjyra pulsuese."
 
-#~ msgid "Pop art squares"
-#~ msgstr "Kuadrate arti pop"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "Shfaq minjatura fotografish nga kartela juaj e fotografive"
 
-#~ msgid "Pictures folder"
-#~ msgstr "Kartela e fotografive"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "Bubbles dhe stema e GNOME rreth e qark ekranit"
 
-#~ msgid "Floating Feet"
-#~ msgstr "Shputa në lundrim"
 
-#~ msgid "Cosmos"
-#~ msgstr "Kozmos"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "Shfaq minjatura fotografish nga kozmosi"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Shfleton të gjithë disqet dhe kartelat lokale dhe në distancë të "
-#~ "arritshme nga ky kompjutër"
 
-#~ msgid "Computer"
-#~ msgstr "Kompjuteri"
 
-#~ msgid "LyX"
-#~ msgstr "Lyx"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Çfaqe Botën në tryezën tënde"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Shfleto dhe organizo libërshënuesit tuaj"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Libërshënuesit web të Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Libërshënues web"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Sllovenisht"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalcium"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "KUser"
-#~ msgstr "KUser (K-përdorues)"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "Katror Kërcues"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Kalendar dhe block personel"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Home"
-#~ msgstr "Dosja personale"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Feed Reader"
-#~ msgstr "Lexues Prurjesh"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "KJots"
-#~ msgstr "Blok i shënimeve"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Djaloshi Patate"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "CD Player"
-#~ msgstr "Lexuesi i CD"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Një klon Bomberman"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Shpëndarje e Tryezës"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shisen-Sho"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "KMail"
-#~ msgstr "Letër elektronike"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsolë"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Funksion i Përbetuar"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Ambien zhvillimi i integruar"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "BitTorrent Klient"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Linja të Ngjyrosura"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "Pregatitës i Çajit"
 
-#~ msgid "Change Password"
-#~ msgstr "Ndrryshimi i parullës"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "Welcome"
-#~ msgstr "Mirësevini"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Distributed IRC client with central core component"
-#~ msgstr "Klient i shpërndarë IRC me përbërës qendror"
 
-#~ msgid "Quassel IRC"
-#~ msgstr "Quassel IRC"
 
-#~ msgid "KwikDisk"
-#~ msgstr "Hyrje e shpejt në lexues"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Quassel IRC (Client only)"
-#~ msgstr "Quassel IRC (Vetëm klient)"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "SameGame"
-#~ msgstr "Lojë e Njëjtë"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Kate"
-#~ msgstr "Botues i multi-dokumneteve"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Editor Hex"
 
-#~ msgid "KNode"
-#~ msgstr "Forum i Bisedimeve"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Botues i Menyve"
 
-#~ msgid "KNotes"
-#~ msgstr "KNotes"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Formatuesi i disketave floppy"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Caktoi taste shpejtues komandave"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Kombinacione përshpejtuese nga tastiera"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Italisht"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Korean"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "Një program për ta shiquar TV(në) "
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OopenDX"
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Formula"
-#~ msgstr "Formulë"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Rregullo nivelin e volumit"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Konfiguro ambientin tuaj të databazave"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "Aktivo/çaktivo plugin e instaluar"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "Plugin e treguesit të tastierës"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "Vegël kontroluese për Envy24 (ice1712) e bazuar në kartelën e zërit"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Japonisht"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "Një multi lexues i betejës me tanksa në 3D"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Screensaver"
-#~ msgstr "Ekranzgjuesi"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "Përcakto preferimet e ruajtësit tuaj të ekranit"
 
-#~ msgid "Open Folder"
-#~ msgstr "Hap kartelën"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "Një multi lexues i lojës me enigmë"
 
-#~ msgid "Quadra"
-#~ msgstr "Kuadrat"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "Shkarko dhe shpërnda skedarët me BitTorrent"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Proxy i Rrjetit"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "Cakto preferimet e proxy të rrjetit tuaj"
 
-#~ msgid "Use the command line"
-#~ msgstr "Përdor rreshtin e komandës"
 
-#~ msgid "Record sound clips"
-#~ msgstr "Regjistron audio clips"
 
-#~ msgid "Set your window properties"
-#~ msgstr "Cakto pronësitë e dritareve"
 
-#~ msgid "Windows"
-#~ msgstr "Dritaret"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Lojë arkade Frozen Bubble"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "Solitaire AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Lojra të shumta solitaire"
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Shto apo zhdukë përdoruesit dhe grupet"
 
-#~ msgid "User Administration"
-#~ msgstr "Administrimi i përdoruesit"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Shfletues Web"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Qt Linguist"
 
-#~ msgid "Note-taker"
-#~ msgstr "Mbajtës-shënimesh"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Tomboy - Shënime"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Krijo dhe ndrysho një arkiv"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "Gjej files, kartela, dhe dokumentë në kompjuterin tuaj"
 
-#~ msgid "About GNOME"
-#~ msgstr "Informacione mbi GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Mëso më tepër mbi GNOME"
 
-#~ msgid "Task Manager"
-#~ msgstr "Përgjegjës Procesesh"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Tastiera"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Cakto preferimet e tastierës"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "Zbërthe një stivë gurësh duke hequr palët që përputhen"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mahjongg"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Hungarisht"
 
-#~ msgid "Mouse"
-#~ msgstr "Mouse"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Zgjidh preferimet e miut"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "Bëj foto dhe regjistro video me kamerën tënde web, me efekte të këndshme "
-#~ "grafike."
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "Interfac grafike dhe për instalimin e skedareve RPM"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr "ChBg - Menagjimi i tryezës së ekranit/ndyshuesi/ekranzgjuesi"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr ""
-#~ "Ripërmbushje e një loje të vjetër e njoftur me emrin Tower Toppler ose "
-#~ "Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "Katër-në-një-Rresht"
 
-#~ msgid "Database"
-#~ msgstr "Databazë"
 
-#~ msgid "Time Tracker"
-#~ msgstr "Llogaritja e kohës"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "Shkruaj tekst pa një tastierë"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "Shtimi i tekstit të propozuar"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Serveri Freeciv"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "Një sistem profesionel CAD"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "Veglat e konfigurimit të GNOME"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "Pan - Lexuesi i Lajmeve"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Lexoi lajmet nga Usenet"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "Kryen llogari aritmetikore, shkencore ose financiare"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr ""
-#~ "Ndryshon sjelljen dhe paraqitjen e dritareve të administruesit të file"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "Një imitues standard i terminalit për Sistemin X Windows"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "Një interfac për skanerë në portën nmap"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Soft-telefon Ekiga"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "Telefoni IP, VoIP dhe video konferencë"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "Flisni me njerëz në Internet"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Edit text files"
-#~ msgstr "Përpuno files teksti"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Shfletuesi i komponentëve Bonobo"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "Shfaq komponentët Bonobo në dispozicion"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Suite Groupware"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "Menazhon postën personale, kontakte dhe projekte"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Gjermanisht"
 
-#~ msgid "Howtos German"
-#~ msgstr "Howto në Gjermanisht"
 
-#~ msgid ""
-#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
-#~ msgstr ""
-#~ "Fjalosje përmes IM-së.  Mbulon AIM, Google Talk, Jabber/XMPP, MSN, Yahoo "
-#~ "dhe të tjera"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "Lajmësjellës Internet"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Pidgin Internet Messenger"
 
-#~ msgid "System information"
-#~ msgstr "Informacion i Sistemit"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Rumanisht"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Vegël administrimi dhe konfigurimi për materialin"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Polakisht"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "Interfac për një stampim të leht me CUPS"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "View and organize your images"
-#~ msgstr "Shfaq dhe organizon imazhet tuaja"
 
-#~ msgid "Registry Editor"
-#~ msgstr "Botues i Regjistrit"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "Lexues ekrani dhe zmadhues"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Anglisht"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "Një botues i tekstit për multi-përdorues"
 
-#~ msgid "VI editor"
-#~ msgstr "Botues VI"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Greqisht"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "Howto në Greqisht"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Loja FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Luaj lojën e famshme të letrave FreeCell"
 
-#~ msgid "Window Manager"
-#~ msgstr "Përgjegjës Dritaresh"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Indonezisht"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "Program me famë të funksioneve gjurmuese"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Ndrysho drejtpërsëdrejti të gjithë databazën e konfigurimit"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Kinezisht"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "Konfermo ekzekutimin automatik"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "Një lojë tjetër në 3D me përcjellje ndriçuese"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Vegël për Njoftimin e Difekteve"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Raporto një difekt në lidhje me programet për GNOME"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "Një boulderdash sikur lojë"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Findlandishte"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr ""
-#~ "Dokumentet HOWTO (formë html) nga Dokumnetacioni Linux i Projektit në "
-#~ "Suedisht"
 
-#~ msgid "Drawing"
-#~ msgstr "Vizatim"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "Drejto një krimb në një labirint"
 
-#~ msgid "Nibbles"
-#~ msgstr "Kafshatat e vogla"
 
-#~ msgid "Communicate with your friends"
-#~ msgstr "Komuniko me miqtë tuaj"
 
-#~ msgid "GnomeICU ICQ Instant Messenger"
-#~ msgstr "GnomeICU Mesazhues instantant ICQ"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "Emulues Terminali"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "Riemërtim në Masë"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "Riemërto Shumë Kartela"
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "Hap Dosje me Thunar-in"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "Hap dosjen e treguar me Thunar-in"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "Përgjegjësi i Kartelave Thunar"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Accerciser"
-#~ msgstr "Accerciser"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "Verifikimi i açesibilitetit të aplikativëve të krijuar"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "Anjuta IDE"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "Zhvillo software në një mjedis zhvillimi të integruar"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "Molecule puzzle game"
-#~ msgstr "Loja e molekulave"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "Nje panel navigues dritaresh."
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "Avant Window Navigator"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Menaxho preferencat e Awn, leshuesve, applikacionet dhe temat"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "E-Mail utility"
-#~ msgstr "Instrument E-Mail"
 
-#~ msgid "Barrage"
-#~ msgstr "Pendë"
 
-#~ msgid "Blam Feed Reader"
-#~ msgstr "Blam - Lexuesi i lajmeve"
 
-#~ msgid "Feed reader"
-#~ msgstr "Lexues lajmesh"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Camorama, shikuesi për webcam"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "Shiko, ndrysho dhe ruaj imazhet nga një webcam"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Editori XML Conglomerate"
 
-#~ msgid "Edit XML files"
-#~ msgstr "Ndrysho XML files"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Fushat Crimson"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Rregullues i të dhënave të çfaqura"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Dr.Geo - Instrument për Matematikën"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigmë"
 
-#~ msgid ""
-#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
-#~ msgstr ""
-#~ "Zbatime të Parapëlqyer (Shfletues Web, Lexues Poste dhe Emulues Terminali)"
 
-#~ msgid "Desktop Firewall Tool"
-#~ msgstr "Instrumenti i Desktop për Firewall"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "A desktop applet system for GNOME"
-#~ msgstr "Një sistem programesh të vegjël desktopi për GNOME"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "Editues teksti (administratorin)"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "Editori hexadecimal i GNOME"
 
-#~ msgid "Glom"
-#~ msgstr "Glom"
 
-#~ msgid "A gnome frontend for the mpd daemon"
-#~ msgstr "Nisja e proçesit mpd nga Gnome"
 
-#~ msgid "Gnome Music Player Client"
-#~ msgstr "Clienti Gnome per player mizike"
 
-#~ msgid "A two paned file manager"
-#~ msgstr "Një organizues file me dy panelë"
 
-#~ msgid "GNOME Commander"
-#~ msgstr "GNOME Commander"
 
-#~ msgid "Drivel Journal Editor"
-#~ msgstr "Editori i Gazetës Drivel"
 
-#~ msgid "Journal Editor"
-#~ msgstr "Editori i Gazetës"
 
-#~ msgid "Network Tools"
-#~ msgstr "Instrumentë për rrjetin"
 
-#~ msgid "View information about your network"
-#~ msgstr "Shfaq informacionet në lidhje me rrjetin"
 
-#~ msgid "Manage your system tasks"
-#~ msgstr "Organizo detyrat e sistemit tënd"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "Luaj dhe nxirr këngët e CD-ve"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid ""
-#~ "Manage genealogical information, perform genealogical research and "
-#~ "analysis"
-#~ msgstr ""
-#~ "Menaxho informacione gjenalogjike,bëj analiza dhe hulumtim gjenealogjik"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTKWave"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "GTKWave çfaqës i valëve elektronike Wav"
 
-#~ msgid "Katoob"
-#~ msgstr "Katoob"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "KMess"
-#~ msgstr "KMess"
 
-#~ msgid "Knights"
-#~ msgstr "Kalorësit (Knights)"
 
-#~ msgid "A batch renamer"
-#~ msgstr "Një ri-emërues batch"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "Administrues i skedareve me dy tabela"
 
-#~ msgid "Download and view feeds"
-#~ msgstr "Shkarkoji dhe shfaqi prurjet"
 
-#~ msgid "Liferea Feed Reader"
-#~ msgstr "Lexuesi i Prurjeve Liferea"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "Lojë luftarake për multilojëtar"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "First person shooter game"
-#~ msgstr "Personi i parë lojë gjyetie"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "OilWar"
-#~ msgstr "OilWar"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "Lojë shumë e thjeshtë me min gjuetie"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "LakuDredhues"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "SintisajzeraLakues"
 
-#~ msgid "SpiralSynth"
-#~ msgstr "SintisajzeriDredhtë"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "VOCPweb (VOCP Web i Largët i Lajmit Rikuperues)"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "Avanturë Amazing Abe!!"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuzim"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "Një lojë klasike Djege-Topthin-Internet"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "Rrjepë video dhe shëndrrues"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Humbjet Anësore"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "Lojë në 2D e dogfight"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Dekodues dhe shfletues Teletekst/Videotekst"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "W3C's shfletues/web autorizues i veglës"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Sintisajzer Mudular me Alsa"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "Modulues Sintisajzer për ALSA"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Angel Wars"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr ""
-#~ "Tërhiqe-shpejtë, i modës së-vjetër kalime-anësore hapësirë e gjyetisë"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "GUI për Genpak"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "Një 3D, për personin e parë të lojës me atoroides shkatërrues"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asteroids3D"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Brainwave controller"
-#~ msgstr "Kontrolues Brainwave"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "Konfigurojeni energjinë mbrojtëse në sistemin tuaj"
 
-#~ msgid "Energy Saving"
-#~ msgstr "Energjia e Mbrojtur"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bcconf është konfigurim komplet i GUI-it për veglën e blackbox(it)"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "Vegël vizatimi në 2D për struktura kemikale"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Mario-sikur lojë"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "Boxconf (Konfigurimi i interfacit të arkës VOCP)"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "Aplikues duck të gjithë-në-një"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "Mbyti bug-et me min"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr "Program autonom për mirëmbajtjen e diskut C1541"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "Vegël disku e imazhit VICE"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "Qendrathirrëse (VOCP Qendra Thirrëse)"
 
-#~ msgid "Webcam tool"
-#~ msgstr "Vegël për webcam"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr "Vdekje e Caktuar via Gjërave Hapësinore"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "Lojë grafike e GO"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "Një program për krijimin e modeleve muzikore"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "Shfletues i Rrjetit dhe Veglash (nevojitet një agjent nisës)"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "ClanBomber - lojë multilexuese gratis (GPL) njëjtë sikur Bomberman"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "MIDI kontrollues për ZynAddSubFX"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "Zgjedheni një Temë T Kursor"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "Temat Kursor"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "Një Klon Defender"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "A simple web browser"
-#~ msgstr "Një shfletues web i thjeshtë"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Monitor Distcc"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "Një imitues DOS"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "FICS chess-server interface"
-#~ msgstr "FICS interfac me karrigë-server"
 
-#~ msgid "Sound processing, multitrack recording, and mixing tools"
-#~ msgstr "Proces i zërit, regjistrues i multi pistave, dhe vegla për mikser"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Animues Egon i Siag Office"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "Administrues për skedare GTK"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma është një lojë mistere"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr "EPIC është një klient IRC me Programim dhe Përmirësim"
 
-#~ msgid "Python IDE"
-#~ msgstr "Python IDE"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "Një mikser OSS komplet"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Interactive generative art software"
-#~ msgstr "Grafues i funksioneve me softver arti"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr ""
-#~ "Aplikacion-Fluxbox për të krijuar dhe administruar ikonat në tryezën tuaj"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "Një Imitues i Fluturimit FlightGear"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr "A.D.I.E. - Botues Ndëraktiv i Përparuar me përdorimin e veglave FOX"
 
-#~ msgid "FOX Adie"
-#~ msgstr "FOX Adie"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "Kalkulatriçe që përdore veglat FOX"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "Kalkulatriçe FOX"
 
-#~ msgid "Bass synth/sequencer/sample player for linux"
-#~ msgstr "Bass lexues sintisajzer/sekuencë/i-thjesht për linux"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "Manipulues i zërit"
 
-#~ msgid "3D file browser"
-#~ msgstr "Shfletues për skedare 3D"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "Administrues i Dritareve FVWM"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "Çfaqës i Hartës 3D"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "Çfaqës i Molekulave 3D"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "2-D Volleyball"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "Paraqiti pëlqimet tuaja gnome"
 
-#~ msgid "Gconfpref"
-#~ msgstr "Gconfigurimpreferuar"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Pikë Gjeometrike X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "Tetris takon Pushtuesit i Kozmosit"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "Mësuesit e gradebook"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "Një Imitues Akcioni Fluturues"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "GLiv"
-#~ msgstr "GLiv"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "Një çfaqës grafik OpenGL"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "Lojë me cikle të lehta në 3d"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "Program klienti Gnome për serverin  me modem masqdialer"
 
-#~ msgid "Memory usage"
-#~ msgstr "Përdorimi i memorisë"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "MIDI Auto-Accompaniment"
-#~ msgstr "MIDI Auto-Shoqërimi"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "Botues i tabelës Gnometab muzikore për kitare."
 
-#~ msgid "GNU Robbo"
-#~ msgstr "GNU Robbo"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "Telefon interneti"
 
-#~ msgid "Gpppoem"
-#~ msgstr "Gpppoem"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "Monitor Pppoe"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "Transferues i të dhënave GPS"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "PikaMGPS"
 
-#~ msgid "Control print jobs"
-#~ msgstr "Qendër kontrlluese e punëve (jobs)"
 
-#~ msgid "Grace"
-#~ msgstr "Grace (Meritë)"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "Çfaqës grafikë për të dhënave shkencore"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "Imitues automatikë i celularve"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "Sistem Gjeografikë me Përkrahje të Burimeve Analistike"
 
-#~ msgid "Greenwich"
-#~ msgstr "Greenwich"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "Një Kalkulatriçe RPN"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "TetriNET lojë klienti për Linux"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK-TablotëIP"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "Konfigurimi i Rregullave për TablotëIP"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "Ndërro temën GTK1"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "Ndërrues i temës GTK"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "Inteface për asp2php"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "Interface grafike për kërkimin e skedareve"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "Efekte GTK për Kitare"
 
-#~ msgid "Realtime effects"
-#~ msgstr "Efektet në kohë të saktë"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "Një inteface GTK për CUPS"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "Inteface grafike GTK për skedaret e rreshtuara në stampim CUPS"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "Version Gtk i motd"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Çfaqës i dokumenteve Postscript Siag"
 
-#~ msgid "Heroes"
-#~ msgstr "Heronjët"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "Inventory"
-#~ msgstr "Inventar"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "Program i thjesht inventar"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "Jigsaw Shkarkoje"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "Klient ftp i GTK2"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "ALSA lidhjet"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Kiki nanobot"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "Çfaqës i Molekulës QT"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "Një çfaqës grafik i proceseve"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "Një Klon i Përgjithshëm Pancer"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "Lynx-sikur shfletues teksti WWW"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "Një klon i bukur tetris"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "Mizë e vogël V në formë anijes me 2D lojë arkade"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "Kapi bombat"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "ManEdit"
-#~ msgstr "ManEdit"
 
-#~ msgid "UNIX manual pages editor"
-#~ msgstr "Çfaqës i faqeve doracake për UNIX"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "MAS Konferencë në Internet"
 
-#~ msgid "MASConf"
-#~ msgstr "Konfigurimi MAS"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "MAS Mikseri"
 
-#~ msgid "MASMix"
-#~ msgstr "MASMix"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "Grafues i funksioneve bashkëvepruese"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Tcl/Tk intrefac në Maxima"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "Një imitues me multi-gjuhë në terminal"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Klient i Maitretarot"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Ping/Tracroute vegël diagnoze për rrjet"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "Sekuencor MIDI"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitori "
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "NiL Isn't Liero"
-#~ msgstr "Nil nuk është Liero"
 
-#~ msgid "NexTView EPG decoder and browser"
-#~ msgstr "Dekodues dhe shfletues i NexTView EPG"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "Gradebook Digjitale"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "Sniper i Orbitës Eunuchs"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "Lexues OSD për Video Xine"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "Një klon i lojës klasike me Misil Komandues"
 
-#~ msgid "Penguin Command"
-#~ msgstr "Urdhër Pinguini"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "Pinball 3d Emilia"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Pingus - Një klon i lirë Lemmings"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "SkedarePOP - Klasifikim Automatik Email"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "Multi lojëtar për PrBooM-GL"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM-GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "Multi lojëtar për PrBooM"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Shkrimtari Patetik"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Trajtimi i tekstit Siag Office"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Kontrollues molekularë grafik Python"
 
-#~ msgid "ALSA recording GUI"
-#~ msgstr "ALSA regjistrim i GUI"
 
-#~ msgid "QARecord"
-#~ msgstr "QAREgjistrimi"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "Lidhës Jackit për Qt-based"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "QtRadio - ndëgjoni radion me QtRadio."
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "Prodho objecte fraktale në 3D"
 
-#~ msgid "Keep track of things"
-#~ msgstr "Mbaje pistën e gjërave"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "Krijues Video CD"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "Botues audio digjital"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr "Root-bishti stampon direkt tekstin në dritaren administruese X11"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "Administrues i skedareve të mjedisit ROX"
 
-#~ msgid "High-level language for numerical computations"
-#~ msgstr "Një gjuhë i nivelit-të-lartë për llogaritje numerike"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "SDLRoids - një rritje e gjuatjeve-në-ateroide"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "Sekuencor MIDI Loop-based"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "MIDI event mixer"
-#~ msgstr "Mikser eventual MIDI"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "ZëPolisëKombinuar"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX Bug gjuajtës"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "Grabit imazhin e ecranit dhe e shpëton në një skedare"
 
-#~ msgid "A multiplayer 3D racing and car-crashing game in Python"
-#~ msgstr "Lojë garash me djeshje të veturave në 3D, Python"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "Një botues i polisës së zërit GPL"
 
-#~ msgid "Music player"
-#~ msgstr "Lexues i muzikës"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "2D frantic arcade game of collecting boxes and dodging bullets"
-#~ msgstr ""
-#~ "2D lojë me arkadë frantic të pakove koleksionuese dhe lëvizja e topthave"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "Botues i tabelës për kitare"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Barishte (Gjuajtës peshku)"
 
-#~ msgid "Grass using the Spearfish sample data set"
-#~ msgstr ""
-#~ "Barishte duke përdorur Gjuajtësin e peshkut si rregullues i të dhënave"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "Softveri Sintisajzer Mudular me Spirale"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "Sintisajzer Mudular me Spirale"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "Tastierë MIDI e ndarë për ZynAddSubFX"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "Projekt: LuftarYjesh"
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "GUI për Samsung Uproar dhe Yepp"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "VLC është një lexues gratis për MPEG, MPEG2, DVD dhe DivX"
 
-#~ msgid "Swami"
-#~ msgstr "Swami"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "Imitues i Hapjes së Garës me Veturë"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulipan"
 
-#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
-#~ msgstr "Tuxedo T. Penguin: Një Kërkues Për Harengë"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Karting me tux"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "Dhe Ur-Quan Masters"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Ur-Quan Masters"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "Bashkedyzues-modelor 3D"
 
-#~ msgid "Vertex"
-#~ msgstr "Vertex"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "Botuesi i tekstit të popularizuar ndër Unix vi, me asistentin Vigor"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (VOCP është çfaqës i Fax-it dhe Dërgues GUI)"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "Aplikues i dokumenteve kontrolluese të vellimit"
 
-#~ msgid "Volume knob"
-#~ msgstr "Çelësi i vellimit"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "Lexues audio VISE SID për muzikë Commodore"
 
-#~ msgid "VSID music player"
-#~ msgstr "Lexues i muzikës VSID"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "Çfaqës i zërit grafik"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "Një lojë madhështore garash me Tux"
 
-#~ msgid "WLanFE"
-#~ msgstr "WlanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "Konfigurimi i LAN ajëror"
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "WindowMaker dock application for linuxfr-addicted people"
-#~ msgstr ""
-#~ "Krijues Dritare, dokumentacioni, aplikacioni, për popujt e dedikuar në "
-#~ "linuxfr"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "Monitor procesi në një apliketë dokumenti"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "WmDf"
-#~ msgstr "WmDf"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr ""
-#~ "Një apliketë dokumenti i cili çfaqë ngarkimin e procesusit sikur zjarrë "
-#~ "në një ikonë të vogël"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "Një orë analogjike në një akuarium"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "Një apliketë dokumenti e cila çfaqë botën duke u rrotulluar"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "Apliketë dokumenti në OSS mikser i zërit"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "Monitor i Memorisë/Swap në apliketë dokumenti për WindowMaker"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "Monitor për letra të shumta në vijën POP3 në një apliketë dokumenti"
 
-#~ msgid "WmsMixer"
-#~ msgstr "WmsMixer"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "Çfaqës i kursit monetar në një ikonë të vogël"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "System information (memory, swap, uptime, IO) in a small icon"
-#~ msgstr ""
-#~ "Sistem informacioni (memoria, swap, koha e lartë, IO) në një ikonë të "
-#~ "vogël"
 
-#~ msgid "WmSysMon"
-#~ msgstr "WmSysMon"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "Shiqoni kamerën tuaj web në një apliketë dokumenti"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam"
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "Një administrues i skedareve, i njëjtë si Repertori Opus në AMIGA"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "Një ndërtues GUI për wxWindows/wxPython"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "Imitues C128"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "Imitues Commodore 128"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "Imitues C64"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "Imitues Commodore 64"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "Zmadhues fraktal në kohë reale"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "Klon i lojës ARCHON"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "Imitues CBM2"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "Imitues Commodore BM 2"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Botues i tekstit Siag"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Administrues i skedareve Siag"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "A mp3 playlist frontend"
-#~ msgstr "Një interface shfletues dhe lexues i mp3(ve)"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Z. Është një Z. Krijoe një klon për X"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "Çfaqi në tryezë pinguinat në vrapim."
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "Imitues Commodore PET"
 
-#~ msgid "PET Emulator"
-#~ msgstr "Imitues PET"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "Një lojë arcade fluturo/gjauj"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Xpilot server"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - I nevojshëm për një server"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "Imitues CPLUS4"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "Imitues Commodore PLUS4"
 
-#~ msgid "News reader"
-#~ msgstr "Lexues i forumeve"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "Vegël për manipulimin e pakove software"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "Një lojë e këndshme arkade/reflekseve e ngjajshme me Lode Runner"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "Klon i Botës së Djegur"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Tablues Siag Office"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "Version QT i lexuesit muzikor i Commodore 64"
 
-#~ msgid "The Skat game"
-#~ msgstr "Loja Skat"
 
-#~ msgid "Shooting game on X Window System"
-#~ msgstr "Lojë gjyetie në Sistemin X Window"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "Imitues Commodore VIC 20"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "Imitues VIC 20"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (VOCP Lajm rekuperues grafik me zë)"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "Një çfaqës i nevele DOOM"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "Koha-reale MIDI softver sintisajzer"
 
-#~ msgid "Panel Manager"
-#~ msgstr "Përgjegjës Panelesh"
 
-#~ msgid "Meld"
-#~ msgstr "Meld"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "Konfigurimi i dispozitivëve dhe lidhjeve të rrjetit"
 
-#~ msgid "Neverball"
-#~ msgstr "Kurrtopthi"
 
-#~ msgid "Downloader for X"
-#~ msgstr "Shkarkues për X"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Djegur 3D"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "Djegja e Tokës 3D OpenGL e Ribërë"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "Konfigurimi i shërbimeve që duhen filluar kur niset sistemi"
 
-#~ msgid "Services"
-#~ msgstr "Shërbimet"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr ""
-#~ "Përcakto çfarë kartela janë në dispozicion për fqinjët tek rrjeti juaj"
 
-#~ msgid "Shared Folders"
-#~ msgstr "Kartelat e përbashkëta"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "Archive manager"
-#~ msgstr "Përgjegjës arkivash"
 
-#~ msgid "Xfce archive manager"
-#~ msgstr "Përgjegjësi Xfce arkivash"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "Riprodhon file Adobe Flash"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Swfdec - Riprodhues Flash"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Konfigurim Proc"
 
-#~ msgid "Configure the Thunar file manager"
-#~ msgstr "Formësoni përgjegjësin e kartelave Thunar"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "Ndryshon orën e sistemit, datën, dhe zonën e orës"
 
-#~ msgid "Time and Date"
-#~ msgstr "Ora dhe Data"
 
-#~ msgid "Trackballs"
-#~ msgstr "Rrotat rrotulluese"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
 
-#~ msgid "Users and Groups"
-#~ msgstr "Përdoruesit dhe grupet"
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid "VLC media player"
-#~ msgstr "Lexues i medias VLC"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "Imitues i Terminalit IBM 3270"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "A GTK+2 only archive manager"
-#~ msgstr "Përgjegjës arkivash vetëm për GTK+2"
 
-#~ msgid "Xarchiver"
-#~ msgstr "Xarchiver"
 
-#~ msgid "Chat with people using IRC"
-#~ msgstr "Fjalosuni me njerëzit përmes IRC-së"
 
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "Fjalosje IRC XChat-GNOME"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "Kalendar desktopi"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Customize desktop startup and splash screen"
-#~ msgstr "Përshtasni desktopin dhe skenën e siglës"
 
-#~ msgid "Session and Startup"
-#~ msgstr "Sesion dhe Nisje"
 
-#~ msgid "Configure window behavior and shortcuts"
-#~ msgstr "Formësoni sjellje dhe shkurtore dritareje"
 
-#~ msgid "Fine-tune window behaviour and effects"
-#~ msgstr "Rregulloni më imët efekte dhe sjellje dritaresh"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "Rregullime të Imta për Përgjegjës Dritaresh"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "Caktoni numrat dhe emrat e hapësirave të punës"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "Rregullime Kalendari"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Rregullimet për Zbatimin Kalendar Xfce 4"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Rregullime për Kalendarin Xfce"
 
-#~ msgid "About Xfce"
-#~ msgstr "Rreth Xfce-së"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "Të dhëna mbi Mjedisin Desktop Xfce"
 
-#~ msgid "Find and launch applications installed on your system"
-#~ msgstr "Gjeni dhe nisni zbatime të instaluar në sistemin tuaj"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "Përgjegjësi i Kartelave Thunar"
 
-#~ msgid "Help using Xfce"
-#~ msgstr "Ndihmë për përdorimin e Xfce-së"
 
-#~ msgid "Log Out"
-#~ msgstr "Dilni"
 
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "Dil prej Desktopit Xfce 4"
 
-#~ msgid "Customize how notifications appear on your screen"
-#~ msgstr "Përshtasni mënyrën se si shfaqen njoftimet në ekranin tuaj"
-
-#~ msgid "Customize the panel settings"
-#~ msgstr "Përshtasni rregullimet për panelin"
-
-#~ msgid "Run Program..."
-#~ msgstr "Xhironi një Program..."
-
-#~ msgid "Run a program"
-#~ msgstr "Xhironi një program"
-
-#~ msgid "Show sensor values."
-#~ msgstr "Shfaq vlera ndijuesish."
-
-#~ msgid "Easy to use task manager"
-#~ msgstr "Përgjegjës procesesh i lehtë për t'u përdorur"
-
-#~ msgid "Print Manager"
-#~ msgstr "Përgjegjës Shtypjesh"
-
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "Shfaq listë shtypësash dhe ju lejon të administroni aktet e tyre"
-
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "Përgjegjës Shtypjesh Xfce 4"
-
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr ""
-#~ "Ju lejon të përzgjidhni për shtypjen sistem \"backend\" që të përdoret "
-#~ "prej xfprint-it"
-
-#~ msgid "Printing System Settings"
-#~ msgstr "Rregullime  Sistemi Shtypjesh"
-
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "Rregullime Sistemi Shtypjesh Xfce 4"
-
-#~ msgid "Print Dialog"
-#~ msgstr "Dialog  Shtypjesh"
-
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr ""
-#~ "Shtyp një kartelë dhe ju lejon të rregulloni dhe caktoni skemën për të"
-
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "Dialog  Shtypjesh Xfce 4"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "Notues Ngjitës"
-
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"

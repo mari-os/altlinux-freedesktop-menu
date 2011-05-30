@@ -1,52 +1,64 @@
-# Menu sections translation to Catalan.
-# Copyright © 2003, 2004, 2008 Software in the Public Interest, Inc.
-# This file is distributed under the same license as the menu package.
-# Jordi Mallach <jordi@debian.org>, 2003, 2004, 2008.
+# translation of ca.po to Catalan
+# translation of menu-messages.po to Catalan
+# Collection of titles/sections of Mandrakelinux menu's.
+# It's generated from the /usr/lib/menu/* files.
+#
+# Copyright (C) 1999-2004 Mandrakesoft
+# Softcatalà <linux@softcatala.org>, 1999-2003.
+# Albert Astals Cid <astals11@terra.es>, 2003, 2004, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section\n"
+"Project-Id-Version: ca\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-09-10 19:39+0200\n"
-"Last-Translator: Jordi Mallach <jordi@debian.org>\n"
-"Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
+"PO-Revision-Date: 2005-09-07 16:21+0200\n"
+"Last-Translator: Albert Astals Cid <astals11@terra.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
 
 #, fuzzy
 msgid "2D Graphics"
 msgstr "Gràfics"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "Aplicacions de gràfics"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "Gràfics"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "Aplicacions de gràfics"
 
+#, fuzzy
 msgid "A clock application/applet"
-msgstr ""
+msgstr "Una aplicació per a KDE"
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "Gestió de fitxers"
+msgstr "Jocs i entreteniments"
 
 msgid "Accessibility"
 msgstr "Accessibilitat"
 
+#, fuzzy
 msgid "Action"
-msgstr "Acció"
+msgstr "Educació"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "Acció"
+msgstr "Joc de trencaclosques"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
 msgstr "Administració"
@@ -56,14 +68,14 @@ msgstr "Aventura"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "Aventura"
+msgstr "Un joc similar al Tetris"
 
 msgid "Amateur Radio"
-msgstr "Radioafició"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "Aplicacions"
+msgstr "Cercador d'aplicacions"
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -83,20 +95,24 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arcade"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "Videojoc d'arcade"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Eina d'arxivament"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr "Intel·ligència artificial"
 
+#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr ""
+msgstr "Intel·ligència artificial"
 
 msgid "Astronomy"
 msgstr "Astronomia"
@@ -108,25 +124,28 @@ msgstr "Astronomia"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "Reproductor d'àudio"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "Enregistrador de so"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "Còpies de seguretat"
 
 msgid "Biology"
 msgstr "Biologia"
 
 #, fuzzy
 msgid "Biology software"
-msgstr "Biologia"
+msgstr "Programari de metamorfosi"
 
 #, fuzzy
 msgid "Blogs"
-msgstr "Blocs"
+msgstr "Blogilo"
 
 msgid "Board Games"
 msgstr "Jocs de taula"
@@ -142,13 +161,14 @@ msgstr "Calculadora"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "Emuladors"
+msgstr "Calculadora"
 
 msgid "Calendar"
 msgstr "Calendari"
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "Eines Java"
 
 msgid "Card Games"
 msgstr "Jocs de cartes"
@@ -158,10 +178,11 @@ msgstr "Cartes"
 
 #, fuzzy
 msgid "Chart"
-msgstr "Cartes"
+msgstr "KCharSelect"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "Xat"
 
 msgid "Chemistry"
 msgstr "Química"
@@ -172,11 +193,11 @@ msgstr "Química"
 
 #, fuzzy
 msgid "Clock"
-msgstr "Blocs"
+msgstr "KBlocks"
 
 #, fuzzy
 msgid "Communications"
-msgstr "Comunicació"
+msgstr "Notificacions"
 
 msgid "Compression"
 msgstr ""
@@ -184,22 +205,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Informàtica"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "Informàtica"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "Informàtica"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "Geociència"
+msgstr "Informàtica"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Editor de la configuració"
 
 #, fuzzy
 msgid "Construction"
-msgstr "Comunicació"
+msgstr "Joc de construcció de xarxes"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -207,8 +231,9 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Visualització de dades"
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "Visualització de dades"
 
 msgid "Databases"
 msgstr "Bases de dades"
@@ -222,29 +247,34 @@ msgstr "Escriptori"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "Estris de l'escriptori"
 
 msgid "Development"
 msgstr "Desenvolupament"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "Entorns de desenvolupament"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "Un programa de gràfics 3D"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "Diccionari"
 
 msgid "Dictionary"
 msgstr "Diccionari"
 
+#, fuzzy
 msgid "Disc burning"
-msgstr ""
+msgstr "Gravació de disc"
 
 msgid "Documentation"
 msgstr "Documentació"
@@ -264,21 +294,24 @@ msgstr "Educació"
 msgid "Electricity"
 msgstr "Electricitat"
 
+#, fuzzy
 msgid "Electricity software"
-msgstr ""
+msgstr "Electricitat"
 
+#, fuzzy
 msgid "Electronics"
-msgstr "Electrònica"
+msgstr "Electricitat"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
+#, fuzzy
 msgid "Email"
-msgstr ""
+msgstr "Xmailbox"
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Aplicacions"
+msgstr "Aplicacions de gràfics"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -287,40 +320,45 @@ msgid "Emulators"
 msgstr "Emuladors"
 
 msgid "Engineering"
-msgstr "Enginyeria"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "Blocs"
+msgstr "Joc de blocs que cauen"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "Joc de blocs que cauen"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "Gestió de fitxers"
+msgstr "Gestor de fitxers"
 
 #, fuzzy
 msgid "File Systems"
 msgstr "Sistema"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "Transferència de fitxers"
+msgstr "Gestor de fitxers"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "Eines del sistema"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "Eines de text"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "Ciències"
 
 msgid "Flow Chart"
 msgstr ""
@@ -328,11 +366,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Dissenyador Qt"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "Aplicacions de gràfics"
 
 msgid "Games"
 msgstr "Jocs"
@@ -350,15 +390,17 @@ msgstr "Geografia"
 msgid "Geology"
 msgstr "Biologia"
 
+#, fuzzy
 msgid "Geology software"
-msgstr ""
+msgstr "Programari de metamorfosi"
 
+#, fuzzy
 msgid "Geoscience"
-msgstr "Geociència"
+msgstr "Ciències de la Terra"
 
 #, fuzzy
 msgid "Geoscience software"
-msgstr "Geociència"
+msgstr "Ciències de la Terra"
 
 msgid "Geosciences"
 msgstr "Ciències de la Terra"
@@ -366,8 +408,9 @@ msgstr "Ciències de la Terra"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#, fuzzy
 msgid "HAM radio software"
-msgstr ""
+msgstr "Programari de metamorfosi"
 
 msgid "Hardware"
 msgstr "Maquinari"
@@ -375,33 +418,38 @@ msgstr "Maquinari"
 msgid "History"
 msgstr "Historial"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "Client IRC"
 
 msgid "Image Processing"
 msgstr "Processament d'imatges"
 
+#, fuzzy
 msgid "Image Processing software"
-msgstr ""
+msgstr "Processament d'imatges"
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Missatger a l'instant"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "Client de missatgeria instantània universal"
 
 msgid "Internet"
 msgstr "Internet"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Aplicacions"
+msgstr "Més aplicacions"
 
 msgid "Java"
 msgstr ""
@@ -424,42 +472,50 @@ msgstr "Joc de lògica"
 msgid "MIDI"
 msgstr ""
 
+#, fuzzy
 msgid "Math software"
-msgstr ""
+msgstr "Programari de metamorfosi"
 
 msgid "Mathematics"
 msgstr "Matemàtiques"
 
+#, fuzzy
 msgid "Medical Software"
-msgstr ""
+msgstr "Programa de DJ"
 
+#, fuzzy
 msgid "Medical software"
-msgstr ""
+msgstr "Programari de metamorfosi"
 
 #, fuzzy
 msgid "Mixers"
-msgstr "Visualitzadors"
+msgstr "Mesclador"
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "Seguiment"
+msgstr "Monitors"
 
 msgid "Multimedia"
 msgstr "Multimèdia"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "Menú multimèdia"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "Reproductor multimèdia"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "Reproductor multimèdia"
 
 msgid "Music"
 msgstr ""
 
+#, fuzzy
 msgid "Musical software"
-msgstr ""
+msgstr "Programari de metamorfosi"
 
 msgid "Network"
 msgstr "Xarxa"
@@ -467,9 +523,8 @@ msgstr "Xarxa"
 msgid "Network-related settings"
 msgstr "Paràmetres de xarxa"
 
-#, fuzzy
 msgid "News"
-msgstr "Notícies web"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -477,8 +532,9 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Anàlisi numèric"
 
+#, fuzzy
 msgid "Numerical analysis software"
-msgstr ""
+msgstr "Anàlisi numèric"
 
 msgid "OCR"
 msgstr ""
@@ -497,14 +553,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "Programació"
+msgstr "Programa de dibuix"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "Gestió de paquets"
+msgstr "Aplicació de digitalització d'imatges"
 
 msgid "Packaging"
 msgstr "Gestió de paquets"
@@ -512,8 +568,9 @@ msgstr "Gestió de paquets"
 msgid "Parallel Computing"
 msgstr "Computació en paral·lel"
 
+#, fuzzy
 msgid "Parallel computing software"
-msgstr ""
+msgstr "Computació en paral·lel"
 
 msgid "Performance"
 msgstr ""
@@ -521,37 +578,41 @@ msgstr ""
 msgid "Personal"
 msgstr "Personal"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "Geografia"
 
 msgid "Physics"
 msgstr "Física"
 
 #, fuzzy
 msgid "Physics software"
-msgstr "Física"
+msgstr "Programari de metamorfosi"
 
 msgid "Preferences"
 msgstr "Preferències"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "Presentació"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "Presentació"
 
 msgid "Printing"
 msgstr "Impressió"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "Eina d'arxivament"
 
 msgid "Project Management"
-msgstr "Gestió de projectes"
+msgstr "Gestor de Projectes"
 
 #, fuzzy
 msgid "Project management applications"
-msgstr "Gestió de projectes"
+msgstr "Gestor de Projectes"
 
 msgid "Publishing"
 msgstr ""
@@ -563,20 +624,24 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "Gràfics"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "Aplicacions de gràfics"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "Escriptori remot"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "Control del volum"
 
 msgid "Robotics"
 msgstr "Robòtica"
 
+#, fuzzy
 msgid "Robotics software"
-msgstr ""
+msgstr "Programari de metamorfosi"
 
 msgid "Role Playing"
 msgstr ""
@@ -584,9 +649,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "Estalvi"
+msgstr ""
 
 msgid "Science"
 msgstr "Ciència"
@@ -601,30 +665,35 @@ msgstr "Seguretat"
 msgid "Security tools"
 msgstr "Seguretat"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "Seqüenciador MIDI"
 
 msgid "Settings"
 msgstr "Preferències"
 
+#, fuzzy
 msgid "Simulation"
-msgstr "Simuladors"
+msgstr "Emulador de Minitel"
 
 #, fuzzy
 msgid "Simulation Games"
-msgstr "Simuladors"
+msgstr "Joc d'exploració de l'espai"
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
+#, fuzzy
 msgid "Software to learn science"
-msgstr ""
+msgstr "Visualitzador de les actualitzacions de programari"
 
+#, fuzzy
 msgid "Software to teach arts"
-msgstr ""
+msgstr "Gestor de Fonts del Programari"
 
+#, fuzzy
 msgid "Software to teach music"
-msgstr ""
+msgstr "Fonts de programari"
 
 msgid "Sound"
 msgstr "So"
@@ -634,10 +703,11 @@ msgstr "Esports"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "Esports"
+msgstr "Jocs de taula"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "Full de càlcul"
 
 msgid "Strategy"
 msgstr "Estratègia"
@@ -655,15 +725,16 @@ msgstr "Eines del sistema"
 msgid "System settings"
 msgstr "Paràmetres del sistema"
 
+#, fuzzy
 msgid "TV"
-msgstr ""
+msgstr "MoTV"
 
 msgid "TV and Radio"
-msgstr "TV i ràdio"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "TV i ràdio"
+msgstr "Aplicació per cremar CD i DVD"
 
 #, fuzzy
 msgid "TV applications"
@@ -672,11 +743,13 @@ msgstr "Aplicacions"
 msgid "Teaching Tools"
 msgstr "Eines d'ensenyament"
 
+#, fuzzy
 msgid "Telephony"
-msgstr ""
+msgstr "Telefonia ISDN"
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "Eines de text"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -686,14 +759,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Emuladors de terminal"
+msgstr "Aplicacions de terminal"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Emuladors de terminal"
+msgstr "Terminal"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "Eines de text"
 
 msgid "Text tools"
 msgstr "Eines de text"
@@ -704,8 +778,9 @@ msgstr ""
 msgid "Tools"
 msgstr "Eines"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "Eines per a desenvolupar programari"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -713,11 +788,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "Seleccioneu les aplicacions per defecte"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "Depureu aplicacions"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -725,8 +802,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "Configuració d'impressores"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -743,5445 +821,1787 @@ msgstr "Joguines"
 msgid "Translation"
 msgstr "Traducció"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "Traducció"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "Tutor de mecanografia"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "Gràfics"
+msgstr "Editor de gràfics vectorials"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "Aplicacions de gràfics"
 
 msgid "Video"
-msgstr "Vídeo"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "Preferències"
 
+#, fuzzy
 msgid "Video Editing"
-msgstr ""
+msgstr "Editor de vídeo"
 
 #, fuzzy
 msgid "Video Players"
-msgstr "Visualitzadors"
+msgstr "Reproductor de vídeo"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "Gravador de vídeo digital"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "Visualitzadors"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "Navegació web"
-
-msgid "Web Browsing"
-msgstr "Navegació web"
-
-msgid "Web Development"
-msgstr "Desenvolupament web"
+msgstr "Navegador web"
 
 #, fuzzy
-msgid "Web Publishing"
-msgstr "Navegació web"
+msgid "Web Browsing"
+msgstr "Navegador web"
 
-msgid "Wordprocessors"
+msgid "Web Development"
+msgstr "Desenvolupament Web"
+
+msgid "Web Publishing"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Processador de textos"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "Client whois"
 
-#~ msgid "Data Management"
-#~ msgstr "Gestió de dades"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "Dispositius mòbils"
 
-#~ msgid "Medicine"
-#~ msgstr "Medicina"
 
-#~ msgid "Social"
-#~ msgstr "Social"
 
-# Intèrprets d'ordres queda massa llarg. Intèrprets a seques, ambigu... jm
-#~ msgid "Shells"
-#~ msgstr "Intèrprets d'ordres"
 
-#~ msgid "Language Environment"
-#~ msgstr "Entorn de llengua"
 
-#~ msgid "Text"
-#~ msgstr "Text"
 
-#~ msgid "Puzzles"
-#~ msgstr "Trencaclosques"
 
-#~ msgid "Help"
-#~ msgstr "Ajuda"
 
-#~ msgid "Window Managers"
-#~ msgstr "Gestors de finestres"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "Mòduls de l'FVWM"
 
-#~ msgid "Window Maker"
-#~ msgstr "Window Maker"
 
-# Non official sections from WindowMaker
-#~ msgid "Appearance"
-#~ msgstr "Aparença"
 
-#~ msgid "WorkSpace"
-#~ msgstr "Espai de treball"
 
-# Frequently used unofficial sections.
-# From Apps/Net/Mozilla Components
-#~ msgid "Iceape Components"
-#~ msgstr "Components de l'Iceape"
 
-# From Games/Toys/Teddies
-#~ msgid "Teddies"
-#~ msgstr "Peluixos"
 
-#~ msgid "Apps"
-#~ msgstr "Aplicacions"
 
-#~ msgid "Hamradio"
-#~ msgstr "Radioaficionat"
 
-#~ msgid "Math"
-#~ msgstr "Matemàtiques"
 
-#~ msgid "Technical"
-#~ msgstr "Tècniques"
 
-#~ msgid "Tetris-like"
-#~ msgstr "Tipus tetris"
 
-#~ msgid "Root-window"
-#~ msgstr "Finestra arrel"
 
-#~ msgid "XShells"
-#~ msgstr "Shells per a X"
 
-# From Apps/System/Admin
-#~ msgid "Admin"
-#~ msgstr "Administració"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Totes les aplicacions"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> Què voleu fer?"
 
-#~ msgid "Edutainment"
-#~ msgstr "Educació"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Diversos"
 
-#~ msgid "Utilities"
-#~ msgstr "Utilitats"
 
-#~ msgid "Internationalization"
-#~ msgstr "Internacionalització"
 
-#~ msgid "Programming"
-#~ msgstr "Programació"
 
-#~ msgid "Servers"
-#~ msgstr "Servidors"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "Configurar el teu ordinador"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Utilitats de X Window System"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Utilitats de X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Avançat"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Configuracions avançades"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Perdut i trobat"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Tàctiques i estratègia"
 
-#~ msgid "Information"
-#~ msgstr "Informació"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Preferències personals"
 
-#~ msgid "Accessories"
-#~ msgstr "Accessoris"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Accessoris de l'escriptori"
 
-#~ msgid "Networking"
-#~ msgstr "Xarxa"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "Ciència i Matemàtiques"
 
-#~ msgid "Peripherals"
-#~ msgstr "Perifèrics"
 
-#~ msgid "Look and Feel"
-#~ msgstr "Aspecte i comportament"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr ""
-#~ "Paràmetres que controlen l'aspecte i el comportament de l'escriptori"
 
-#~ msgid "File"
-#~ msgstr "Fitxer"
 
-#~ msgid "Personal settings"
-#~ msgstr "Paràmetres personals"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "Temes de l'estalvi de pantalla"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Configuració i monitorització del sistema"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Paràmetres per a diferents dispositius de maquinari"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Menú de KDE"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Preferències personals i paràmetres d'administració"
 
-#~ msgid "Universal Access"
-#~ msgstr "Accés universal"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Paràmetres d'accés universal"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "Canvia els paràmetres del sistema (afecta a tots els usuaris)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "So i vídeo"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Internet i xarxa"
 
-#~ msgid "Control Center"
-#~ msgstr "Centre de control"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Jocs com el Rogue"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Programes per a accedir a Internet, com la web i el correu"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Aplicacions que no encaixaven en d'altres categories"
 
-#~ msgid "Office Applications"
-#~ msgstr "Aplicacions ofimàtiques"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "Si us plau, no ho esborreu ni ho modifiqueu"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "Actualització de Mandriva Linux"
 
-#~ msgid "Freeciv"
-#~ msgstr "Freeciv"
 
-#~ msgid ""
-#~ "Turn-based strategy game inspired by the history of human civilization"
-#~ msgstr "Joc d'estratègia inspirat en la història de la civilització humana"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "Jugueu a un joc de daus similar al pòquer"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Enable or disable software sources"
-#~ msgstr "Habilita o inhabilita les fonts de programari"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "French"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en francès"
 
-#~ msgid "MIDI file player"
-#~ msgstr "Reproductor de fitxers MIDI"
 
-#~ msgid "TiMidity++"
-#~ msgstr "TiMidity++"
 
-#~ msgid "Edit DV video"
-#~ msgstr "Edita vídeos DV"
 
-#~ msgid "Five or More"
-#~ msgstr "Cinc o més"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "Suprimiu les boles de colors del tauler formant línies"
 
-#~ msgid "Minesweeper"
-#~ msgstr "Cercamines"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "Navegador de documentació"
 
-#~ msgid "System Monitor"
-#~ msgstr "Monitor del sistema"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "Visualitza els processos actuals i l'estat del sistema del monitor"
 
-#~ msgid "GQview"
-#~ msgstr "GQview"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Visualitzador d'imatges"
 
-#~ msgid "View and manage images"
-#~ msgstr "Visualitza i gestiona imatges"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "Aplicació per a la monitorització basada en GTK"
 
-#~ msgid "Gkrellm"
-#~ msgstr "Gkrellm"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Media Player"
-#~ msgstr "Reproductor de medis"
 
-#~ msgid "Play and organize your media collection"
-#~ msgstr "Reproduïu i organitzeu la col·lecció multimèdia"
 
-#~ msgid "Empathy"
-#~ msgstr "Empathy"
 
-#~ msgid "IM Client"
-#~ msgstr "Client de missatgeria instantània"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "Configureu la política de restriccions"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "Editor de restriccions"
 
-#~ msgid "About Me"
-#~ msgstr "Quant a mi"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Establiu la vostra informació personal"
 
-#~ msgid "IceBreaker"
-#~ msgstr "IceBreaker"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "Crea i copia CD i DVD"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Canvia les aplicacions que es mostren al menú principal"
 
-#~ msgid "Main Menu"
-#~ msgstr "Menú principal"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Navegueu per la web"
 
-#~ msgid "Epiphany"
-#~ msgstr "Epiphany"
 
-#~ msgid "Character Map"
-#~ msgstr "Mapa de caràcters"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Inseriu caràcters especials en els documents"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "Editor de la configuració de Compiz"
 
-#~ msgid "Configure Compiz with CompizConfig"
-#~ msgstr "Configura Compiz amb CompizConfig"
 
-#~ msgid "Authorizations"
-#~ msgstr "Autoritzacions"
 
-#~ msgid "Configure authorizations"
-#~ msgstr "Configura les autoritzacions"
 
-#~ msgid "Network monitoring applet"
-#~ msgstr "Applet de monitorització de xarxa"
 
-#~ msgid "Kobo Deluxe"
-#~ msgstr "Kobo Deluxe"
 
-#~ msgid "Samba Configuration (SWAT)"
-#~ msgstr "Configuració de Samba (SWAT)"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "Eina d'administració de Samba Swat"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "Create service packs for sharing with other computers"
-#~ msgstr "Crea paquets de servei per a compartir amb altres ordinadors"
 
-#~ msgid "Service Pack Creator"
-#~ msgstr "Creador de paquets de servei"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "Tots el jocs de cartes de solitari"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "GUI chessboard game"
-#~ msgstr "Un joc d'escacs amb GUI"
 
-#~ msgid "XBoard"
-#~ msgstr "XBoard"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "Personalitzeu l'aparença de l'escriptori"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr ""
-#~ "Comprova les definicions de paraules i l'ortografia en un diccionari en "
-#~ "línia"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr ""
-#~ "Localitza documents i directoris en aquest ordinador pel nom o contingut"
 
-#~ msgid "Search for Files..."
-#~ msgstr "Cerca fitxers..."
 
-#~ msgid "Avahi VNC Server Browser"
-#~ msgstr "Navegador de servidors VNC Avahi"
 
-#~ msgid "Browse for Zeroconf-enabled VNC Servers"
-#~ msgstr "Explora els servidors de VNC configurats amb Zeroconf"
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "Llanceu altres aplicacions i proporcioneu diverses utilitats per a "
-#~ "gestionar finestres, mostrar l'hora, etc."
 
-#~ msgid "Panel"
-#~ msgstr "Quadre"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr ""
-#~ "Navegueu per les aplicacions i teclegeu amb dispostitius d'entrada "
-#~ "alternatius"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Teclat en pantalla"
 
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
 
-#~ msgid "Frontend for rp-pppoe"
-#~ msgstr "Frontal per a rp-pppoe"
 
-#~ msgid "GnuCash Finance Management"
-#~ msgstr "Gestor de finances GnuCash"
 
-#~ msgid "Manage your finances, accounts, and investments"
-#~ msgstr "Gestioneu les vostres finances, comptes i inversions"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "Extractor d'àudio CD"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "Copia la música dels CD"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "Creador de CD/DVD"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "Crea CD i DVD"
 
-#~ msgid "Device Manager"
-#~ msgstr "Gestor de dispositius"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "Aplicacions preferides"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "Moveu els blocs per resoldre el trencaclosques"
 
-#~ msgid "Chess"
-#~ msgstr "Escacs"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "Jugueu al clàssic joc de taula dels escacs"
 
-#~ msgid "Leafpad"
-#~ msgstr "Leafpad"
 
-#~ msgid "Simple text editor"
-#~ msgstr "Editor de text simple"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Navegueu adreces d'interès i ubicacions de xarxa locals"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "Estableix i edita perfils per a usuaris"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "Editor de perfils d'usuari"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "Visualitzador fotogràfic"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Configura els paràmetres del Bluetooth"
 
-#~ msgid "PyShell"
-#~ msgstr "PyShell"
 
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
 
-#~ msgid "Text Editor"
-#~ msgstr "Editor de text"
 
-#~ msgid "Manage Messaging and VoIP accounts"
-#~ msgstr "Gestiona els comptes de missatgeria i VoIP"
 
-#~ msgid "Messaging and VoIP Accounts"
-#~ msgstr "Comptes de missatgeria i VoIP"
 
-#~ msgid "Disk Utility"
-#~ msgstr "Utilitat de discs"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "Gestioneu unitats i suports"
 
-#~ msgid "Office Suite"
-#~ msgstr "Programes d'oficina"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Navegueu per imatges i gireu-les"
 
-#~ msgid "Catalog Installer"
-#~ msgstr "Instal·lador de catàlegs"
 
-#~ msgid "Install a catalog of software on the system"
-#~ msgstr "Instal·la un catàleg de programari en el sistema"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "Canvia la resolució i la posició dels monitors"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Feu càlculs, analitzeu informació i gestioneu llistes a fulls de càlcul "
-#~ "amb el Calc."
 
-#~ msgid "Control tool for Echoaudio soundcards"
-#~ msgstr "Eina de control per targetes de so Echoaudio"
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "Desa imatges del vostre escriptori o de finestres individuals"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "Feu una captura de pantalla"
 
-#~ msgid "Phone Manager"
-#~ msgstr "Gestor de telèfons"
 
-#~ msgid "Receive and send text messages from your mobile phone"
-#~ msgstr "Rebeu i envieu missatges de text des del vostre telèfon mòbil"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "Programa d'ajuda per als desenvolupadors"
 
-#~ msgid "Devhelp"
-#~ msgstr "Devhelp"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Dutch"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en holandès"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Navegueu pel sistema de fitxers amb el gestor de fitxers"
 
-#~ msgid "File Browser"
-#~ msgstr "Navegador de fitxers"
 
-#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
-#~ msgstr "Netegeu la pantalla suprimint grups de fitxes de colors"
 
-#~ msgid "Swell Foop"
-#~ msgstr "Atac salvatge"
 
-#~ msgid "IDE for Python"
-#~ msgstr "IDE (entorn integrat de desenvolupament) per a Python"
 
-#~ msgid "Mail notifier"
-#~ msgstr "Notificador de correu"
 
-#~ msgid "Configurator"
-#~ msgstr "Configuració"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "Editor de diagrames Dia"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "Editeu els vostres diagrames"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "Instal·la paquets de temes per a diferents parts de l'escriptori"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Instal·lador de temes"
 
-#~ msgid "Control panel for RME Hammerfall"
-#~ msgstr "Panel de control per RME Hammerfall"
 
-#~ msgid "RME Digicontrol"
-#~ msgstr "RME Digicontrol"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Obteniu ajuda amb GNOME"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Xdaliclock"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Tecnologies assistives"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr ""
-#~ "Seleccioneu quines funcionalitats d'accessibilitat s'han d'habilitar en "
-#~ "entrar"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "Comprova la mida de les carpetes i l'espai disponible al disc"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "Analitzador de l'ús dels discs"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "Creeu o obriu dissenys d'interfície d'usuari per a aplicacions GTK+"
 
-#~ msgid "Glade 3"
-#~ msgstr "Glade 3"
 
-#~ msgid "Interface Designer"
-#~ msgstr "Dissenyador de interfícies"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "Organitzeu, gaudiu i compartiu fotografies"
 
-#~ msgid "Photo Manager"
-#~ msgstr "Gestor fotogràfic"
 
-#~ msgid "A client and server fax configuration tool"
-#~ msgstr "Eina de configuració de client i servidor de fax"
 
-#~ msgid "Movie Player"
-#~ msgstr "Reproductor de pel·lícules"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Reprodueix vídeos i cançons"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Visualitzador de documents"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "Visualitzeu documents multi-pàgina"
 
-#~ msgid "Home Folder"
-#~ msgstr "Carpeta d'inici"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Obriu la vostra carpeta d'inici"
 
-#~ msgid "Fit falling blocks together"
-#~ msgstr "Col·loqueu junts els blocs que caiguin"
 
-#~ msgid "Quadrapassel"
-#~ msgstr "Quadrapassel"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "Completeu el trencaclosques fent coincidint les fitxes"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Software Log Viewer"
-#~ msgstr "Visualitzador del registre de programari"
 
-#~ msgid "View past package management tasks"
-#~ msgstr "Visualitza les tasques de gestió de paquets realitzats"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "Configura els valors predeterminats per a les aplicacions GStreamer"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "Selector de sistemes multimèdia"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "Configura els dispositius PalmOS"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "Dispositius PalmOS"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "Accés a escriptoris remots"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "Visualitzador d'escriptoris remots"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "Configuració d'auditoria"
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "Modifiqueu la configuració de l'auditòria"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Gtk-ocr is a gtk frontend for gocr"
-#~ msgstr "Gtk-ocr és un frontal gtk per a gocr"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "Eviteu els robots i feu que xoquin entre ells"
 
-#~ msgid "Robots"
-#~ msgstr "Robots"
 
-#~ msgid "Search"
-#~ msgstr "Cerca"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "Cerca dades al vostre escriptori"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Spanish"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en espanyol"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "Una xarxa de colors de pulsació d'estil pop-art."
 
-#~ msgid "Pop art squares"
-#~ msgstr "Quadrats pop-art"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "Mostra una presentació de diapositives des de l'F-Spot"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "Fotografies de l'F-Spot"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr ""
-#~ "Mostra una projecció amb diapositives de la vostre carpeta d'imatges"
 
-#~ msgid "Pictures folder"
-#~ msgstr "Carpeta d'imatges"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "Bombolles amb el logotip del peu del GNOME per tota la pantalla"
 
-#~ msgid "Floating Feet"
-#~ msgstr "Peu flotant"
 
-#~ msgid "Cosmos"
-#~ msgstr "Cosmos"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "Mostra una projecció amb diapositives d'imatges del cosmos"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Navegueu tots els discs i carpetes locals o remotes accessibles de "
-#~ "d'aquest ordinador"
 
-#~ msgid "Computer"
-#~ msgstr "Ordinador"
 
-#~ msgid "Browse Available Software"
-#~ msgstr "Navega pel programari disponible"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Mostra la Terra en l'escriptori"
 
-#~ msgid "Xearth"
-#~ msgstr "Xearth"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Navegueu per les vostres adreces d'interès i organitzeu-les"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Adreces web d'interès de l'Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Adreces web d'interès"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Slovenian"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en eslovè"
 
-#~ msgid "Platform Game"
-#~ msgstr "Videojoc de Plataformes"
 
-#~ msgid "PyCrust"
-#~ msgstr "PyCrust"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "Un joc d'acció i solució de trencaclosques"
 
-#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
-#~ msgstr "Cerca l'or, esquiva els enemics i resol trencaclosques"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Eina d'actualització del menú"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "KDiamond"
-#~ msgstr "KDiamond"
 
-#~ msgid "Three-in-a-row game"
-#~ msgstr "Joc de tres en fila"
 
-#~ msgid "KSnake"
-#~ msgstr "KSnake"
 
-#~ msgid "Snake-like Game"
-#~ msgstr "Joc a l'estil de l'snake"
 
-#~ msgid "Disk writing program"
-#~ msgstr "Programa d'escriptura de disc"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Elecció de colors"
 
-#~ msgid "KColorChooser"
-#~ msgstr "Elecció de colors"
 
-#~ msgid "A KDE Blogging Client"
-#~ msgstr "Un client de blocs per al KDE"
 
-#~ msgid "Blogilo"
-#~ msgstr "Blogilo"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "Taula periòdica dels elements per a KDE"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "Taula periòdica dels elements"
 
-#~ msgid "Hangman Game"
-#~ msgstr "Joc del penjat"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "Joc del penjat per a KDE"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Contact Manager"
-#~ msgstr "Gestor de contactes"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "KPhotoAlbum"
 
-#~ msgid "Photo Album"
-#~ msgstr "Àlbum de fotografies"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "Un visor d'imatges senzill"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Kiriki"
-#~ msgstr "Kiriki"
 
-#~ msgid "Yahtzee-like Dice Game"
-#~ msgstr "Joc de daus com el Yahtzee"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Gestor d'usuaris"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Territory Capture Game"
-#~ msgstr "Joc de conquesta del territori"
 
-#~ msgid "Galactic Strategy Game"
-#~ msgstr "Joc d'estratègia galàctica"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "Un programa de targetes ràpides i d'aprenentatge de vocabulari"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "Entrenador per targetes ràpides"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Kontact Administration"
-#~ msgstr "Administració del Kontact"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - Redescobreix la teva música!"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "Programa de CVS"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervisia"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "Regla de pantalla"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Programa de captura de pantalla"
 
-#~ msgid "Character Selector"
-#~ msgstr "Selector de caràcters"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "Apreneu l'alfabet"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "Un programa del KDE per aprendre l'alfabet"
 
-#~ msgid "Smb4K"
-#~ msgstr "Smb4K"
 
-#~ msgid "The SMB/CIFS Share Browser"
-#~ msgstr "El navegador de compartits SMB/CIFS"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Un programa de calendari i planificació"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "Organitzador personal"
 
-#~ msgid "Home"
-#~ msgstr "Inici"
 
-#~ msgid "Personal Files"
-#~ msgstr "Fitxers personals"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Space Arcade Game"
-#~ msgstr "Joc arcade d'espai"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "Un lector de fonts per al KDE"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "Lector de fonts"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "Un editor de mapes d'imatge HTML"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "Comprovador d'enllaços"
 
-#~ msgid "KJots"
-#~ msgstr "Anotador"
 
-#~ msgid "Note Taker"
-#~ msgstr "Anotador"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "Interfície per al sintetitzador de veu"
 
-#~ msgid "Konversation"
-#~ msgstr "Konversation"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "Un motor per fer més vistós l'escriptori."
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Picture Game for Children"
-#~ msgstr "Joc d'imatges per a la canalla"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Mr Potato"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "Una utilitat de la historia de tallar i enganxar"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Eina de portapapers"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "Battleship Game"
-#~ msgstr "Joc d'enfonsar la flota"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "Go Board Game"
-#~ msgstr "Joc de taula Go"
 
-#~ msgid "Kigo"
-#~ msgstr "Kigo"
 
-#~ msgid "Card Game"
-#~ msgstr "Joc de cartes"
 
-#~ msgid "LSkat"
-#~ msgstr "LSkat"
 
-#~ msgid "CD Player"
-#~ msgstr "Reproductor de CD"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid ""
-#~ "Manage your photographs like a professional with the power of open source"
-#~ msgstr "Gestor de fotografies del KDE"
 
-#~ msgid "Photo Viewer and Editor"
-#~ msgstr "Visor d'imatges"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Arcade Bombing Game"
-#~ msgstr "Joc arcade de bombardeig"
 
-#~ msgid "Bomber"
-#~ msgstr "Bomber"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Un clon del Bomberman"
 
-#~ msgid "Granatier"
-#~ msgstr "Granatier"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "Calculadora gràfica"
 
-#~ msgid "KAlgebra"
-#~ msgstr "KAlgebra"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "Soluciona i representa gràficament expressions matemàtiques"
 
-#~ msgid "Qt Designer UI File Viewer"
-#~ msgstr "Visor de fitxer UI de Qt Designer"
 
-#~ msgid "3-D Game based on Rubik's Cube"
-#~ msgstr "Joc en 3-D basat en el cub de Rubik"
 
-#~ msgid "A 3-D game based on Rubik's Cube"
-#~ msgstr "Un joc en 3-D basat en el cub de Rubik"
 
-#~ msgid "Kubrick"
-#~ msgstr "Kubrick"
 
-#~ msgid "KAppTemplate"
-#~ msgstr "KAppTemplate"
 
-#~ msgid "KDE Template Generator"
-#~ msgstr "Generador de plantilles del KDE"
 
-#~ msgid "Certificate Manager and Unified Crypto GUI"
-#~ msgstr "Gestor de certificats i IGU criptogràfica unificada"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Compartició de l'escriptori"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KsirK Skin Editor"
-#~ msgstr "Editor d'aparences pel Ksirk"
 
-#~ msgid "Skin Editor for the World Domination Strategy Game"
-#~ msgstr "Editor d'aparences per al joc d'estratègia de dominació mundial"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "Assistent de Groupware KDE"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shisen-Sho"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "Joc de mosaics Shisen-Sho a l'estil Mahjongg"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "Un joc per millorar la memòria"
 
-#~ msgid "Blinken"
-#~ msgstr "Blinken"
 
-#~ msgid "Memory Enhancement Game"
-#~ msgstr "Un Joc per Millorar la Memòria"
 
-#~ msgid "KSudoku"
-#~ msgstr "KSudoku"
 
-#~ msgid "KSudoku, Sudoku game & more for KDE"
-#~ msgstr "KSudoku, joc de Sudoku per KDE"
 
-#~ msgid "Sudoku Game"
-#~ msgstr "Joc de Sudoku"
 
-#~ msgid "Graph Theory Tool for Professors and Students."
-#~ msgstr "Eina de teoria de grafs per a professors i estudiants."
 
-#~ msgid "Rocs"
-#~ msgstr "Rocs"
 
-#~ msgid "Rocs Graph Theory"
-#~ msgstr "Teoria de grafs Rocs"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "Un entorn gràfic per GnuPG"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "Eina de xifrat"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "Un applet del plafó per amidar i reorientar les pantalles X."
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Amida i gira la pantalla"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "Mail Client"
-#~ msgstr "Client de correu"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Mahjongg Solitaire"
-#~ msgstr "Solitari Mahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Consola"
 
-#~ msgid "KReversi"
-#~ msgstr "Reversi"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "Joc de taula Reversi"
 
-#~ msgid "Killbots"
-#~ msgstr "Killbots"
 
-#~ msgid "KMail view"
-#~ msgstr "Vista del KMail"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Calculadora científica"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Interfície per a diff/patch"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "Lupa de la pantalla"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "Llançador amb compte enrere"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "Snippets datafile editor"
-#~ msgstr "Editor de fitxer de base de dades de retalls"
 
-#~ msgid "skrooge"
-#~ msgstr "skrooge"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Assistent de carpeta de xarxa"
 
-#~ msgid "UML Modeller"
-#~ msgstr "Modelador UML"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "Joc de lògica Blackbox"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "Kdenlive"
-#~ msgstr "Kdenlive"
 
-#~ msgid "Nonlinear video editor for KDE"
-#~ msgstr "Editor de vídeo no lineal per KDE"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "Joc de lògica similar al Sokoban"
 
-#~ msgid "KPatience"
-#~ msgstr "KPatience"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "Partida de cartes paciència"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "Gestor d'informació personal"
 
-#~ msgid "Desktop Globe"
-#~ msgstr "Planetari per a l'escriptori"
 
-#~ msgid "Marble"
-#~ msgstr "Marble"
 
-#~ msgid "Bovo"
-#~ msgstr "Bovo"
 
-#~ msgid "Five-in-a-row Board Game"
-#~ msgstr "Joc de cinc en fila"
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "Criatura a la pantalla"
 
-#~ msgid "Parley"
-#~ msgstr "Parley"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "Entrenador de vocabulari"
 
-#~ msgid "Font Viewer"
-#~ msgstr "Visor de lletres"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Traçador de funcions"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "Traçador de funcions matemàtiques"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "Eina per a la connexió telefònica a Internet"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Entorn integrat de desenvolupament"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "KDevelop 4"
 
-#~ msgid "Breakout-like Game"
-#~ msgstr "Joc similar al Breakout"
 
-#~ msgid "KBreakOut"
-#~ msgstr "KBreakOut"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Planetari per a l'escriptori"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Kover"
-#~ msgstr "Kover"
 
-#~ msgid "Four-in-a-row Board Game"
-#~ msgstr "Joc de quatre en fila"
 
-#~ msgid "KFourInLine"
-#~ msgstr "KFourInLine"
 
-#~ msgid "KNetWalk"
-#~ msgstr "KNetWalk"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "Paint Program"
-#~ msgstr "Programa de pintura"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "Planificador d'alarmes personals"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "Eina de gestió de carteres"
 
-#~ msgid "Eat pills escaping ghosts"
-#~ msgstr "Mengeu píndoles mentre escapeu dels fantasmes"
 
-#~ msgid "Kapman"
-#~ msgstr "Kapman"
 
-#~ msgid "Pac-Man Clone"
-#~ msgstr "Clon del Pac-Man"
 
-#~ msgid "KRemoteControl Notifier Item"
-#~ msgstr "Element notificador del KRemoteControl"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "Tron-like Game"
-#~ msgstr "Joc a l'estil Tron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Veure l'ús de disc"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "Un programa de BitTorrent per KDE"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "Client de BitTorrent"
 
-#~ msgid "KTorrent"
-#~ msgstr "KTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "Interfície de Profiler"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "Visualizació de dades de perfilat de rendiment"
 
-#~ msgid "Download Manager"
-#~ msgstr "Gestor de descàrregues"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "Kajongg"
-#~ msgstr "Kajongg"
 
-#~ msgid "Mah Jongg"
-#~ msgstr "Mah Jongg"
 
-#~ msgid "The ancient Chinese board game for 4 players"
-#~ msgstr "L'antic joc de taula xinés per a quatre jugadors"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "Un programa per aprendre geografia"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "Entrenador de geografia"
 
-#~ msgid "KGeography"
-#~ msgstr "KGeography"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Tactical Game"
-#~ msgstr "Joc de tàctica"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "Exercita les fraccions"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "Practica exercicis amb fraccions"
 
-#~ msgid "Computer-Aided Translation System"
-#~ msgstr "Sistema de traducció assistida per ordinador"
 
-#~ msgid "Lokalize"
-#~ msgstr "Lokalize"
 
-#~ msgid "Info Center"
-#~ msgstr "Centre d'informació"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "El cuiner de te"
 
-#~ msgid "Change Password"
-#~ msgstr "Canvia contrasenya"
 
-#~ msgid "Connect the dots to create squares"
-#~ msgstr "Connecteu els punts per crear quadrats"
 
-#~ msgid "KSquares"
-#~ msgstr "KSquares"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "KonsoleKalendar"
 
-#~ msgid "KsirK"
-#~ msgstr "KsirK"
 
-#~ msgid "World Domination Strategy Game"
-#~ msgstr "Joc d'estratègia de dominació mundial"
 
-#~ msgid "Cantor"
-#~ msgstr "Cantor"
 
-#~ msgid "KDE Frontend to Mathematical Software"
-#~ msgstr "Frontal del KDE per a programari matemàtic"
 
-#~ msgid "Jigsaw puzzle game"
-#~ msgstr "Joc de trencaclosques Jigsaw"
 
-#~ msgid "Palapeli"
-#~ msgstr "Palapeli"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "Eina de referència i estudi del japonès"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "Eina de referència i estudi del japonès"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "Kmix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "Mesclador de so"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "Gestió d'errors a KDE"
 
-#~ msgid "Welcome"
-#~ msgstr "Benvingut"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "Editor d'adreces d'interès"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "Organitzador i editor d'adreces d'interès"
 
-#~ msgid "Configure Your Desktop"
-#~ msgstr "Configura el teu escriptori"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "Eina cerca i substitueix"
 
-#~ msgid "Akonadi Tray Utility"
-#~ msgstr "Utilitat de la safata per a l'Akonadi"
 
-#~ msgid "Akonaditray"
-#~ msgstr "Akonaditray"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "Golf en miniatura"
 
-#~ msgid "KWalletManager"
-#~ msgstr "KWalletManager"
 
-#~ msgid "Distributed IRC client with central core component"
-#~ msgstr "Client d'IRC distribuït amb un component de nucli central"
 
-#~ msgid "Quassel IRC"
-#~ msgstr "Xat IRC Quassel"
 
-#~ msgid "KwikDisk"
-#~ msgstr "KwikDisk"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "Utilitat per discos extraïbles"
 
-#~ msgid "Ball Bouncing Game"
-#~ msgstr "Un joc de pilotes rebotant"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "Clic automàtic del ratolí"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr ""
-#~ "Fa els clics del ratolí­, reduint els efectes del RSI (índex de força "
-#~ "relativa)"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Quassel IRC (Client only)"
-#~ msgstr "Xat IRC Quassel (només el client)"
 
-#~ msgid "Sweeper"
-#~ msgstr "Sweeper"
 
-#~ msgid "System Cleaner"
-#~ msgstr "Netejador del sistema"
 
-#~ msgid "Trash"
-#~ msgstr "Paperera"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Minesweeper-like Game"
-#~ msgstr "Joc a l'estil del buscamines"
 
-#~ msgid "Board Game"
-#~ msgstr "Joc de taula"
 
-#~ msgid "SameGame"
-#~ msgstr "Joc iguals"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "Gestor de fotografies"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "KPackageKit"
-#~ msgstr "KPackageKit"
 
-#~ msgid "PackageKit interface for KDE"
-#~ msgstr "Interfície del PackageKit per al KDE"
 
-#~ msgid "Software Management"
-#~ msgstr "Gestor de programari"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Editor de text avançat"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Editor hexadecimal"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Lector de notícies"
 
-#~ msgid "Interactive Physical Simulator"
-#~ msgstr "Simulador interactiu de física"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "Simuleu experiments de física"
 
-#~ msgid "Step"
-#~ msgstr "Step"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Editor del menú"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "Reproductor de música"
 
-#~ msgid "KTimeTracker"
-#~ msgstr "KTimeTracker"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "Cronòmetre personal"
 
-#~ msgid "Akonadi Console"
-#~ msgstr "Consola de l'Akonadi"
 
-#~ msgid "Akonadi Management and Debugging Console"
-#~ msgstr "Consola de gestió i depuració per a l'Akonadi"
 
-#~ msgid "KRDC"
-#~ msgstr "KRDC"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "Client d'escriptori remot"
 
-#~ msgid "IRKick"
-#~ msgstr "IRKick"
 
-#~ msgid "KDE LIRC Server"
-#~ msgstr "Servidor LIRC de KDE"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "Servidor de control remot per infrarojos de Linux KDE."
 
-#~ msgid "KSystemLog"
-#~ msgstr "KSystemLog"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "Visor dels registres del sistema"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "Eina de visualització dels registres del sistema"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "Entorn de programació educatiu"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Cerca fitxers i carpetes"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "Visor de la bitàcola de l'eina de connexió telefònica a Internet"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPPLogview"
 
-#~ msgid "A simple ball dodging game"
-#~ msgstr "Un senzill joc d'esquivar una bola"
 
-#~ msgid "Kollision"
-#~ msgstr "Kollision"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "Explora construccions geomètriques"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "Geometria interactiva"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Gestor de fitxers (mode superusuari)"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "Joc d'ordenació de lletres per a KDE"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "Joc d'ordenació de lletres"
 
-#~ msgid "KNotes"
-#~ msgstr "KNotes"
 
-#~ msgid "Popup Notes"
-#~ msgstr "Notes emergents"
 
-#~ msgid "KDE SVN Build"
-#~ msgstr "Construcció SVN del KDE"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Formatador de disquet"
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Dragon Player"
-#~ msgstr "Dragon Player"
 
-#~ msgid "Configure email accounts"
-#~ msgstr "Configuració dels comptes de correu electrònic"
 
-#~ msgid "Email Settings"
-#~ msgstr "Paràmetres del correu electrònic"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Assigna dreceres a ordres"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Dreceres de teclat"
 
-#~ msgid "Drakpxelinux"
-#~ msgstr "Drakpxelinux"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Italian"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en italià"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en coreà"
 
-#~ msgid "A program for watching TV"
-#~ msgstr "Un programa per veure la TV"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Visualization Data Explorer"
-#~ msgstr "Explorador de dades de visualització"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Creeu i editeu presentacions per a diapositives, pàgines web i "
-#~ "conferències amb l'Impress."
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Qt interface designer"
-#~ msgstr "Dissenyador d'interfícies Qt"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Creeu i editeu fòrmules científiques i equacions amb el Math."
 
-#~ msgid "Formula"
-#~ msgstr "Fórmula"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Ajusta el nivell de volum"
 
-#~ msgid "PulseAudio Volume Control"
-#~ msgstr "Control del volum del PulseAudio"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "Configura el teu entorn de bases de dades"
 
-#~ msgid "Database Access Properties"
-#~ msgstr "Propietats d'accés a la base de dades"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "Habiliteu/inhabiliteu els connectors instal·lats"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "Connectors de l'indicador de teclat"
 
-#~ msgid "Control tool for Envy24 (ice1712) based soundcards"
-#~ msgstr "Eina de control per targetes de so basades en Envy24 (ice1712)"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Japanese"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en japonès"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "Joc de guerres de tancs en 3D per a diversos jugadors"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "Canvieu el volum del so i els sons dels esdeveniments"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "Trieu com altres usuaris remots poden visualitzar el meu escriptori"
 
-#~ msgid "Screensaver"
-#~ msgstr "Salvapantalles"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "Establiu les preferències de l'estalvi de pantalla"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "Comptabilitat personal per a tothom, lliure i fàcil d'utilitzar."
 
-#~ msgid "HomeBank"
-#~ msgstr "HomeBank"
 
-#~ msgid "Open Folder"
-#~ msgstr "Obre la carpeta"
 
-#~ msgid "Install selected software on the system"
-#~ msgstr "Instal·la el programari seleccionat en el sistema"
 
-#~ msgid "Package Installer"
-#~ msgstr "Instal·lador de paquets"
 
-#~ msgid "Multiplayer puzzle game"
-#~ msgstr "Joc de trencaclosques per a diversos jugadors"
 
-#~ msgid "Quadra"
-#~ msgstr "Quadra"
 
-#~ msgid "Sudoku"
-#~ msgstr "Sudoku"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr ""
-#~ "Posa a prova les teves habilitats lògiques en aquesta graella de "
-#~ "trencaclosques numèrica"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "Baixeu i compartiu fitxers mitjançant el BitTorrent"
 
-#~ msgid "Transmission"
-#~ msgstr "Transmission"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "Visualitzador de registres"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "Visualitza o monitoritza els fitxers de registre del sistema"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Servidor intermediari de xarxa"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "Establiu les preferències del servidor intermediari de xarxa"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
 
-#~ msgid "LXTerminal"
-#~ msgstr "LXTerminal"
 
-#~ msgid "Use the command line"
-#~ msgstr "Obriu la línia d'ordres"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "Trieu quines aplicacions voleu que s'iniciïn en entrar"
 
-#~ msgid "Startup Applications"
-#~ msgstr "Aplicacions d'inici"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Previsualització del tipus de lletra"
 
-#~ msgid "Electrical engineering tool"
-#~ msgstr "Eina d'enginyeria elèctrica"
 
-#~ msgid "Oregano electrical engineering tool"
-#~ msgstr "Eina d'enginyeria elèctrica Oregano"
 
-#~ msgid "Schematic capture and simulation of electronic circuits"
-#~ msgstr "Captureu esquemàtics i simuleu circuits electrònics"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "Netegeu les mines ocultes del camp de mines"
 
-#~ msgid "Mines"
-#~ msgstr "Mines"
 
-#~ msgid "Record sound clips"
-#~ msgstr "Enregistra talls de so"
 
-#~ msgid "Set your window properties"
-#~ msgstr "Configureu les propietats de la finestra"
 
-#~ msgid "Windows"
-#~ msgstr "Finestres"
 
-#~ msgid "Frozen Bubble arcade game"
-#~ msgstr "Joc arcade Frozen Bubble"
 
-#~ msgid "Configure power management"
-#~ msgstr "Configureu la gestió d'energia"
 
-#~ msgid "Power Management"
-#~ msgstr "Gestor d'energia"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "Solitari AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Jugueu a molts jocs de solitari diferents"
 
-#~ msgid "Notepad"
-#~ msgstr "Notepad"
 
-#~ msgid "XRCed"
-#~ msgstr "XRCed"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "Visualitzador de DjVu"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Afegeix o suprimeix usuaris i grups"
 
-#~ msgid "User Administration"
-#~ msgstr "Administració d'usuaris"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Navega pel web"
 
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Navegador web Firefox"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Lingüista Qt"
 
-#~ msgid "Note-taker"
-#~ msgstr "Prenedor de notes"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Pren notes, enllaça idees i organitza't"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Notes del Tomboy"
 
-#~ msgid "Archive Manager"
-#~ msgstr "Gestor d'arxius"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Crea i modifica un arxiu"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "Cancel·la, posa en pausa, reprèn o torna a imprimir tasques"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "Gestió de tasques d'impressió"
 
-#~ msgid "Create and edit Web pages by using Writer."
-#~ msgstr "Creeu i editeu pàgines web amb el Writer."
 
-#~ msgid "OpenOffice.org Writer/Web"
-#~ msgstr "OpenOffice.org Writer/Web"
 
-#~ msgid "Web Page Creation"
-#~ msgstr "Creació de pàgines web"
 
-#~ msgid "Configure Desktop Search"
-#~ msgstr "Configura la cerca a l'escriptori"
 
-#~ msgid "Search & Indexing"
-#~ msgstr "Cerca i indexació"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "Cerca fitxers, carpetes i documents al vostre ordinador"
 
-#~ msgid "About GNOME"
-#~ msgstr "Quant al GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Apreneu més coses sobre el GNOME"
 
-#~ msgid "Manage running processes"
-#~ msgstr "Gestioneu els processos en execució"
 
-#~ msgid "Process manager"
-#~ msgstr "Gestor de processos"
 
-#~ msgid "Task Manager"
-#~ msgstr "Gestor de tasques"
 
-#~ msgid "Calculation, Analysis, and Visualization of Information"
-#~ msgstr "Càlcul, anàlisi, i visualització d'informació"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Teclat"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Estableix les preferències del teclat"
 
-#~ msgid "XGPS"
-#~ msgstr "XGPS"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr ""
-#~ "Separa una pila de fitxers suprimint-ne els parells que es corresponguin"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mahjongg"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid "Avahi Zeroconf Browser"
-#~ msgstr "Navegador zeroconf Avahi"
 
-#~ msgid "Browse for Zeroconf services available on your network"
-#~ msgstr "Navegueu pels serveis Zeroconf disponibles a la vostra xarxa"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Hungarian"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en hongarès"
 
-#~ msgid "PyAlaMode"
-#~ msgstr "PyAlaMode"
 
-#~ msgid "Mouse"
-#~ msgstr "Ratolí"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Estableix les preferències del ratolí"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr "Feu fotos i vídeos amb la càmera web, amb efectes gràfics divertits"
 
-#~ msgid "Avahi SSH Server Browser"
-#~ msgstr "Navegador de servidors SSH Avahi"
 
-#~ msgid "Browse for Zeroconf-enabled SSH Servers"
-#~ msgstr "Explora els servidors SSH configurats amb Zeroconf"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "Domineu el tauler en una versió clàssica del Reversi"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Add or remove software installed on the system"
-#~ msgstr "Afegeix o suprimeix programari instal·lat en el sistema"
 
-#~ msgid "Add/Remove Software"
-#~ msgstr "Afegeix/Suprimeix programari"
 
-#~ msgid "Software Update"
-#~ msgstr "Actualització de programari"
 
-#~ msgid "Update software installed on the system"
-#~ msgstr "Actualitza el programari instal·lat en el sistema"
 
-#~ msgid "Graphical front end to install RPM files"
-#~ msgstr "Frontal gràfic per instal·lar fitxers RPM"
 
-#~ msgid "Software Installer"
-#~ msgstr "Instal·lador de programari"
 
-#~ msgid "ChBg"
-#~ msgstr "ChBg"
 
-#~ msgid "ChBg - Desktop background manager/changer/screensaver"
-#~ msgstr ""
-#~ "ChBg - Gestor del fons, canviador i estalvi de pantalla de l'escriptori"
 
-#~ msgid "Reimplementation of the old game known as Tower Toppler or Nebulous"
-#~ msgstr ""
-#~ "Reimplementació de l'antic joc conegut com a Tower Toppler o Nebulous"
 
-#~ msgid "Tower Toppler"
-#~ msgstr "Tower Toppler"
 
-#~ msgid "Observe power management"
-#~ msgstr "Observeu la gestió d'energia"
 
-#~ msgid "Power Statistics"
-#~ msgstr "Estadístiques de l'energia"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Creeu i editeu text i gràfics a cartes, informes, documents i pàgines web "
-#~ "amb el Writer."
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "Quatre en ratlla"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "Per guanyar feu línies del mateix color"
 
-#~ msgid "Database"
-#~ msgstr "Base de dades"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr ""
-#~ "Gestioneu bases de dades i creeu consultes i informes per fer el "
-#~ "seguiment i gestionar la vostra informació amb el Base."
 
-#~ msgid "OpenOffice.org Base"
-#~ msgstr "OpenOffice.org Base"
 
-#~ msgid "Time Tracker"
-#~ msgstr "Comptador de temps"
 
-#~ msgid "Dasher"
-#~ msgstr "El Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "Introduïu text sense teclat"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "Entrada de text predictiu"
 
-#~ msgid "Freeciv server"
-#~ msgstr "Servidor Freeciv"
 
-#~ msgid "A professional CAD system"
-#~ msgstr "Un sistema CAD professional"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "L'eina de configuració del GNOME"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "Lector de notícies Pan"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "Llegiu notícies des de Usenet"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "Realitza càlculs aritmètics, científics o financers"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr ""
-#~ "Canvieu l'aparença i el comportament de les finestres del gestor de "
-#~ "fitxers"
 
-#~ msgid "File Management"
-#~ msgstr "Gestió de fitxers"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "L'emulador estàndard de terminal per al sistema de finestres X"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "Frontal per a l'escàner de ports nmap"
 
-#~ msgid "Nmap"
-#~ msgstr "Nmap"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBCConfig"
 
-#~ msgid "Planner Project Management"
-#~ msgstr "Gestor de projectes del Planner"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Telèfon per programari Ekiga"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "Telefonia IP, VoIP i videoconferència"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "Parleu amb gent arreu d'Internet"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J-Pilot"
 
-#~ msgid "Mandriva Linux packages stats"
-#~ msgstr "Estadístiques dels paquets de Mandriva Linux"
 
-#~ msgid "Packages Stats"
-#~ msgstr "Estadístiques dels paquets"
 
-#~ msgid "Edit text files"
-#~ msgstr "Editeu fitxers de text"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Wine Windows Program Loader"
-#~ msgstr "Wine - Carregador d'aplicacions del Windows"
 
-#~ msgid "Configure file indexing with Tracker"
-#~ msgstr "Configureu la indexació de fitxers amb el Tracker"
 
-#~ msgid "Search and Indexing"
-#~ msgstr "Cerca i indexació"
 
-#~ msgid "Change software update preferences"
-#~ msgstr "Canvia les preferències de les actualitzacions de programari"
 
-#~ msgid "Software Updates"
-#~ msgstr "Actualitzacions de programari"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "Navegador de components Bonobo"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "Mostra els components Bonobo disponibles"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Aplicacions de treball en grup"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "Gestioneu els correus electrònics, contactes i horaris"
 
-#~ msgid "Page Layout"
-#~ msgstr "Publicació d'escriptori"
 
-#~ msgid "Page Layout and Publication"
-#~ msgstr "Publicació d'escriptori"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "German"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en alemany"
 
-#~ msgid "Howtos German"
-#~ msgstr "Documents COM ES FA en alemany"
 
-#~ msgid ""
-#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
-#~ msgstr ""
-#~ "Xategeu amb missatgeria instantània, amb AIM, Google Talk, Jabber/XMPP, "
-#~ "MSN, Yahoo i més"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "Missatger d'Internet"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Missatger d'Internet Pidgin"
 
-#~ msgid "PulseAudio Preferences"
-#~ msgstr "Preferències del PulseAudio"
 
-#~ msgid "Sound Server Preferences"
-#~ msgstr "Preferències del servidor de so"
 
-#~ msgid "View and modify the configuration of the local sound server"
-#~ msgstr "Visualitzeu i modifiqueu la configuració del servidor de so local"
 
-#~ msgid "System information"
-#~ msgstr "Informació del sistema"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Xsysinfo"
 
-#~ msgid "Qalculate!"
-#~ msgstr "Qalculate!"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Romanian"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en romanès"
 
-#~ msgid ""
-#~ "Locate documents and folders on this computer by name or content using "
-#~ "Tracker"
-#~ msgstr ""
-#~ "Localitza documents i directoris d'aquest ordinador pel nom o el "
-#~ "contingut utilitzant el Tracker"
 
-#~ msgid "Tracker Search Tool"
-#~ msgstr "Eina de cerca Tracker"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "Eina principal de configuració/informació del maquinari"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Polish"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en polonès"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "Frontal per a una impressió fàcil amb CUPS"
 
-#~ msgid "RapidSVN"
-#~ msgstr "RapidSVN"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "Reproduïu i organitzeu la vostra col·lecció de música"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "View and organize your images"
-#~ msgstr "Visualitzeu i organitzeu les vostres imatges"
 
-#~ msgid "FontForge"
-#~ msgstr "FontForge"
 
-#~ msgid "Registry Editor"
-#~ msgstr "Editor del registre"
 
-#~ msgid "MPlayer Media Player"
-#~ msgstr "Reproductor multimèdia MPlayer"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr ""
-#~ "Presenta informació en pantalla com a parla o braille, o augmenta la "
-#~ "pantalla"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "Lector de pantalla i ampliador"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "English"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en anglès"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "Configuració de l'SCIM"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr ""
-#~ "Eina de configuració de la plataforma SCIM (Smart Common Input Method)"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "Editor de textos d'ús general"
 
-#~ msgid "VI editor"
-#~ msgstr "Editor VI"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Greek"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en grec"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "Documents COM ES FA en grec"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Solitari del FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Juga al popular joc de cartes del FreeCell"
 
-#~ msgid "Window Manager"
-#~ msgstr "Gestor de finestres"
 
-#~ msgid "A utility to read and manipulate raw images from digital cameras"
-#~ msgstr ""
-#~ "Una eina per llegir i manipular les imatges Raw d'una càmera digital"
 
-#~ msgid "Raw image converter"
-#~ msgstr "Convertidor d'imatges Raw"
 
-#~ msgid "UFRaw"
-#~ msgstr "UFRaw"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Indonesian"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en indonesi"
 
-#~ msgid "The famous function plotting program"
-#~ msgstr "El conegut programa de funcions d'impressió amb traçador"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "Edita directament la base de dades de la configuració sencera"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "Creeu i editeu imatges de gràfics de vectors escalables"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Chinese"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en xinès"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "Pregunta d'execució automàtica"
 
-#~ msgid "Create images and edit photographs"
-#~ msgstr "Creeu imatges i editeu fotografies"
 
-#~ msgid "GIMP"
-#~ msgstr "El GIMP"
 
-#~ msgid "Image Editor"
-#~ msgstr "Editor d'imatges"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "Un altre joc en 3D de motos Lightcycle"
 
-#~ msgid "Vector Graphics Drawing Tool"
-#~ msgstr "Eina de dibuix de gràfics vectorials"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Eina d'informe d'errors"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Informeu d'errors en aplicacions del GNOME"
 
-#~ msgid "LBreakout 2"
-#~ msgstr "LBreakout 2"
 
-#~ msgid "A boulderdash like game"
-#~ msgstr "Un joc semblant al boulderdash"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid "Lights Off"
-#~ msgstr "Apaga els llums"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "Apaga tots els llums"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Finnish"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en finès"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Swedish"
-#~ msgstr ""
-#~ "Documents COM ES FA (format HTML) del projecte de documentació de Linux "
-#~ "en suec"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "Importa a l'F-Spot"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "Creeu i editeu dibuixos, diagrames de flux i logotips amb el Draw."
 
-#~ msgid "Drawing"
-#~ msgstr "Dibuix"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "Guieu un cuc per un laberint"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "KOffice"
-#~ msgstr "KOffice"
 
-#~ msgid "KPlato"
-#~ msgstr "KPlato"
 
-#~ msgid "Personal Finance Manager"
-#~ msgstr "Gestor de finances personals"
 
-#~ msgid "Communicate with your friends"
-#~ msgstr "Comuniqueu-vos amb els vostres amics i amigues"
 
-#~ msgid "GnomeICU ICQ Instant Messenger"
-#~ msgstr "Missatgeria instantània ICQ"
 
-#~ msgid "Game"
-#~ msgstr "Joc"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "Emulador de terminal"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "Canvi de nom en bloc"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "Canvia el nom de multiples fitxers"
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "Obri el directori amb Thunar"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "Obre les carpetes especificades dins Thunar"
 
-#~ msgid "Browse the filesystem with the file manager"
-#~ msgstr "Navega el sistema de fitxers amb el gestor de fitxers"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "Gestor de fitxers Thunar"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "Eina d'enviament automàtic d'informes d'errors"
 
-#~ msgid "Accerciser"
-#~ msgstr "Accerciser"
 
-#~ msgid "Give your application an accessibility workout"
-#~ msgstr "Proporciona a les vostres aplicacions un anàlisi d'accessibilitat"
 
-#~ msgid "Generate color schemes"
-#~ msgstr "Genera esquemes de color"
 
-#~ msgid "aMSN"
-#~ msgstr "aMSN"
 
-#~ msgid "Anjuta IDE"
-#~ msgstr "Anjuta EID"
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "Desenvolupeu programari en un entorn integrat de desenvolupament"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "AutoScan is a utility for network exploration"
-#~ msgstr "AutoScan és una utilitat d'exploració de xarxa"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "Un navegador de finestres en forma de base d'acoblament"
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "Avant Window Navigator"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr ""
-#~ "Gestiona les preferències de l'Awn, els llançadors, miniaplicacions i "
-#~ "temes"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "E-Mail utility"
-#~ msgstr "Eina de correu electrònic"
 
-#~ msgid "Barrage"
-#~ msgstr "Barrage"
 
-#~ msgid "BEAST"
-#~ msgstr "BEAST"
 
-#~ msgid "MIDI Tracker, Music Composition and Modular Synthesis Application"
-#~ msgstr "Rastrejador MIDI, composició musical i aplicació de síntesi modular"
 
-#~ msgid "Music Composer"
-#~ msgstr "Compositor musical"
 
-#~ msgid "Blam Feed Reader"
-#~ msgstr "Lector de canals de notícies Blam"
 
-#~ msgid "Feed reader"
-#~ msgstr "Lector de canals de notícies"
 
-#~ msgid "Blueman Bluetooth Manager"
-#~ msgstr "Gestor Bluetooth Blueman"
 
-#~ msgid "Bluetooth Manager"
-#~ msgstr "Gestor del Bluetooth"
 
-#~ msgid "Booh"
-#~ msgstr "Booh"
 
-#~ msgid "Briquolo"
-#~ msgstr "Briquolo"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Visualitzador de càmera web Camorama"
 
-#~ msgid "View, alter and save images from a webcam"
-#~ msgstr "Visualitza, altera i desa imatges d'una càmera web"
 
-#~ msgid "ChmSee"
-#~ msgstr "ChmSee"
 
-#~ msgid "Chromium Web Browser"
-#~ msgstr "Navegador web Chromium"
 
-#~ msgid "CinePaint"
-#~ msgstr "CinePaint"
 
-#~ msgid "Conduit Synchronizer"
-#~ msgstr "Sincronitzador Conduit"
 
-#~ msgid "Synchronization for GNOME"
-#~ msgstr "Sincronització per al GNOME"
 
-#~ msgid "Conglomerate XML Editor"
-#~ msgstr "Editor XML Conglomerate"
 
-#~ msgid "Edit XML files"
-#~ msgstr "Edita fitxers XML"
 
-#~ msgid "Address book"
-#~ msgstr "Llibreta d'adreces"
 
-#~ msgid "Contacts"
-#~ msgstr "Contactes"
 
-#~ msgid "Cream"
-#~ msgstr "Cream"
 
-#~ msgid "Crimson Fields"
-#~ msgstr "Crimson Fields"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Depurador de dades gràfic (DDD)"
 
-#~ msgid ""
-#~ "Allows to create video CDs and DVDs, suitable to be reproduced in home "
-#~ "DVD players"
-#~ msgstr ""
-#~ "Permet crear CDs i DVDs de vídeo, que poden reproduir-se en reproductors "
-#~ "domèstics"
 
-#~ msgid "DVD/CD Video Creator"
-#~ msgstr "Creador de CD/DVDs de vídeo"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr.Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Eina matemàtica del Dr. Geo"
 
-#~ msgid "Egoboo"
-#~ msgstr "Egoboo"
 
-#~ msgid "Access control list editor"
-#~ msgstr "Editor de llistes de control d'accés"
 
-#~ msgid ""
-#~ "View or change ACL and User Extended Attributes on files and directories"
-#~ msgstr ""
-#~ "Visualitza o canvia la llista de control d'accés i els atributs d'usuari "
-#~ "en fitxers i directoris"
 
-#~ msgid "Enigma"
-#~ msgstr "Enigma"
 
-#~ msgid "Lightweight PDF document viewer"
-#~ msgstr "Visor de documents PDF lleuger"
 
-#~ msgid "ePDFViewer"
-#~ msgstr "ePDFViewer"
 
-#~ msgid "Ex Falso"
-#~ msgstr "Ex Falso"
 
-#~ msgid ""
-#~ "Preferred Applications (Web Browser, Mail Reader and Terminal Emulator)"
-#~ msgstr ""
-#~ "Aplicacions preferides (navegador web, lector de correu i emulador de "
-#~ "terminal)"
 
-#~ msgid "Extrackt"
-#~ msgstr "Extrackt"
 
-#~ msgid "Desktop Firewall Tool"
-#~ msgstr "Eina de tallafoc Firestarter per a l'escriptori"
 
-#~ msgid "Firestarter"
-#~ msgstr "Firestarter"
 
-#~ msgid "Scanner Utility"
-#~ msgstr "Utilitat d'escaneig"
 
-#~ msgid "Simply scan images"
-#~ msgstr "Escàner d'imatges senzill"
 
-#~ msgid "Galculator"
-#~ msgstr "Galculator"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid ""
-#~ "Play games that challenge your logic, verbal, calculation and memory "
-#~ "abilities"
-#~ msgstr ""
-#~ "Jugueu a trencaclosques que desafien les vostres habilitats lògiques, "
-#~ "verbals, de càlcul i memòria"
 
-#~ msgid "gbrainy"
-#~ msgstr "gbrainy"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "Administració per el gcompris"
 
-#~ msgid "GCompris Administration"
-#~ msgstr "Administració del GCompris"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "Joc educatiu de 2 a 10 anys"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "Programari educatiu GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "Joc educatiu amb múltiples activitats"
 
-#~ msgid "A desktop applet system for GNOME"
-#~ msgstr "Un sistema de miniaplicacions de l'escriptori per al GNOME"
 
-#~ msgid "A fast and lightweight IDE using GTK2"
-#~ msgstr "Un IDE lleuger i veloç que usa GTK2"
 
-#~ msgid "Geany"
-#~ msgstr "Geany"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "Editor de text (administrador)"
 
-#~ msgid "Geeqie"
-#~ msgstr "Geeqie"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "Editor hexadecimal del GNOME"
 
-#~ msgid "Giggle"
-#~ msgstr "Giggle"
 
-#~ msgid "Git repository viewer"
-#~ msgstr "Visualitzador de dipòsits Git"
 
-#~ msgid "A simple frontend to easily connect to remote filesystems"
-#~ msgstr "Una interfície simple per connectar-se a sistemes de fitxers remots"
 
-#~ msgid "Gigolo"
-#~ msgstr "Gigolo"
 
-#~ msgid ""
-#~ "Opens a terminal as the root user, using gksu to ask for the password"
-#~ msgstr ""
-#~ "Obre un terminal com a l'usuari root, utilitzat gksu per a demanar la "
-#~ "contrasenya"
 
-#~ msgid "Root Terminal"
-#~ msgstr "Terminal root"
 
-#~ msgid "Create labels, business cards and media covers"
-#~ msgstr ""
-#~ "Crea etiquetes, targetes de visita i caràtules de suports multimèdia"
 
-#~ msgid "GLightOff"
-#~ msgstr "GLightOff"
 
-#~ msgid "Globulation2"
-#~ msgstr "Globulation2"
 
-#~ msgid "A user-friendly database environment."
-#~ msgstr "Un entorn de bases de dades fàcil d'usar."
 
-#~ msgid "Glom"
-#~ msgstr "Glom"
 
-#~ msgid "A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs"
-#~ msgstr "Una eina per gestionar reproductors Creative Nomad/Zen i Dell DJs"
 
-#~ msgid "Gnomad 2"
-#~ msgstr "Gnomad 2"
 
-#~ msgid "Nomad/Zen Jukebox/Dell DJ Client"
-#~ msgstr "Client per a reproductors Nomad/Zen/Dell DJ"
 
-#~ msgid "Activity Journal"
-#~ msgstr "Diari d'activitats"
 
-#~ msgid ""
-#~ "Browse a chronological log of your activities and easily find files, "
-#~ "contacts, etc."
-#~ msgstr ""
-#~ "Vegeu un registre cronològic de les vostres activitats i trobeu fàcilment "
-#~ "fitxers, contactes, etc."
 
-#~ msgid "Blog Entry Poster"
-#~ msgstr "Envia entrades de bloc"
 
-#~ msgid "Post an entry to a web log"
-#~ msgstr "Envia una entrada a un bloc"
 
-#~ msgid "A two paned file manager"
-#~ msgstr "Un gestor de fitxers amb dues subfinestres"
 
-#~ msgid "GNOME Commander"
-#~ msgstr "GNOME Commander"
 
-#~ msgid "Configure your printers"
-#~ msgstr "Configureu les vostres impressores"
 
-#~ msgid ""
-#~ "Do things as quickly as possible (but no quicker) with your files, "
-#~ "bookmarks, applications, music, contacts, and more!"
-#~ msgstr ""
-#~ "Feu les coses tan ràpid com podeu (però no més ràpid) amb els vostres "
-#~ "fitxers, adreces d'interès, aplicacions, música, contactes i més!"
 
-#~ msgid "GNOME Do"
-#~ msgstr "GNOME Do"
 
-#~ msgid "Drivel Journal Editor"
-#~ msgstr "Editor de blocs Drivel"
 
-#~ msgid "Journal Editor"
-#~ msgstr "Editor de blocs"
 
-#~ msgid "Update and manage your online journal"
-#~ msgstr "Actualitzeu i gestioneu el vostre bloc en línia"
 
-#~ msgid "Genius Math Tool"
-#~ msgstr "Eina matemàtica Genius"
 
-#~ msgid "Genius Mathematical Tool and Calculator"
-#~ msgstr "Calculadora i eina matemàtica Genius"
 
-#~ msgid "GNOME-Mud"
-#~ msgstr "GNOME-Mud"
 
-#~ msgid "The GNOME MUD Client"
-#~ msgstr "Client de MUD del GNOME"
 
-#~ msgid "Network Tools"
-#~ msgstr "Eines de xarxa"
 
-#~ msgid "View information about your network"
-#~ msgstr "Visualitzeu informació sobre la xarxa"
 
-#~ msgid "GNOME Dialup Tool"
-#~ msgstr "Utilitat d'Accés Telefònic de GNOME"
 
-#~ msgid "GNOME PPP"
-#~ msgstr "GNOME PPP"
 
-#~ msgid "Manage your system tasks"
-#~ msgstr "Gestioneu les tasques del vostre sistema"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "Fitxer personal de compartició"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "Preferències per a compartir fitxers"
 
-#~ msgid "FM-Radio Tuner"
-#~ msgstr "Sintonitzador de ràdio FM"
 
-#~ msgid "Listen to FM-radio"
-#~ msgstr "Escolteu la ràdio FM"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Reproductor de música Gnomoradio"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "Reprodueix i extreu CDs"
 
-#~ msgid "Gossip Instant Messenger"
-#~ msgstr "Missatgeria instantània Gossip"
 
-#~ msgid "Gourmet Recipe Manager"
-#~ msgstr "Gestor de receptes Gourmet"
 
-#~ msgid "Create, reorganize, and delete partitions"
-#~ msgstr "Creeu, reorganitzeu i suprimiu particions"
 
-#~ msgid "GParted"
-#~ msgstr "GParted"
 
-#~ msgid "Partition Editor"
-#~ msgstr "Editor de particions"
 
-#~ msgid "GpsDrive"
-#~ msgstr "GpsDrive"
 
-#~ msgid "Gramps Genealogy System"
-#~ msgstr "Sistema Genealògic Gramps"
 
-#~ msgid ""
-#~ "Manage genealogical information, perform genealogical research and "
-#~ "analysis"
-#~ msgstr "Gestió d'informació genealògica, anàlisi i recerca genealògiques"
 
-#~ msgid "Graveman"
-#~ msgstr "Graveman"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "Tetrinet client"
-#~ msgstr "Client de Tetrinet"
 
-#~ msgid "Tetrinet client for GNOME"
-#~ msgstr "Client de Tetrinet per al GNOME"
 
-#~ msgid "Manage music and video on an Apple iPod"
-#~ msgstr "Administrar música i vídeo en un iPod Apple"
 
-#~ msgid "gtkpod iPod Manager"
-#~ msgstr "Administrador d'iPod gtkpod"
 
-#~ msgid "iPod Manager"
-#~ msgstr "Administrador d'iPod"
 
-#~ msgid "GTKWave"
-#~ msgstr "GTKWave"
 
-#~ msgid "GTKWave Electronic Waveform Viewer"
-#~ msgstr "Visualitzador electrònic de fitxers d'ona GTKWave."
 
-#~ msgid "Gtranslator PO Editor"
-#~ msgstr "Editor de fitxers PO Gtranslator"
 
-#~ msgid "Translate and localize applications and libraries"
-#~ msgstr "Traduïu aplicacions i biblioteques"
 
-#~ msgid "Extra galeon preferences"
-#~ msgstr "Preferències extra de galeon"
 
-#~ msgid "Extra preferences for application menus"
-#~ msgstr "Preferències extra pels menús de l'aplicació"
 
-#~ msgid "gTweakUI - Menus"
-#~ msgstr "gTweakUI - Menús"
 
-#~ msgid "Extra nautilus preferences"
-#~ msgstr "Preferències extra pel Nautilus"
 
-#~ msgid "gTweakUI - Nautilus"
-#~ msgstr "gTweakUI - Nautilus"
 
-#~ msgid "Extra session preferences"
-#~ msgstr "Preferències extra per a les sessions"
 
-#~ msgid "gTweakUI - Session"
-#~ msgstr "gTweakUI - Sessions"
 
-#~ msgid "Guikachu"
-#~ msgstr "Guikachu"
 
-#~ msgid "Resource editor for PalmOS"
-#~ msgstr "Editor de recursos per al PalmOS"
 
-#~ msgid "Gweled"
-#~ msgstr "Gweled"
 
-#~ msgid "Gwget Download Manager"
-#~ msgstr "Gestor de baixades gwget"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "Watch videos or TV and listen to audio in a variety of formats"
-#~ msgstr "Reproduïu vídeos i cançons"
 
-#~ msgid "Add, Remove, Extract data from your iPod"
-#~ msgstr "Afegeix, suprimeix i extreu dades de l'iPod"
 
-#~ msgid "Hipo iPod Management Tool"
-#~ msgstr "Eina de gestió de l'iPod Hipo"
 
-#~ msgid "Watch & listen"
-#~ msgstr "Escolta i mira"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "Prefèrencies de l'IBus"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Configure Japanese input method (im-ja)"
-#~ msgstr "Configura el mètode de introducció de texte en japonés (im-ja)"
 
-#~ msgid "Japanese input"
-#~ msgstr "Introducció de japonés"
 
-#~ msgid "ISO File Editor"
-#~ msgstr "Editor de fitxers ISO"
 
-#~ msgid "Read, write and modify ISO images"
-#~ msgstr "Llegiu, escriviu i modifiqueu imatges ISO"
 
-#~ msgid "Desktop Session Recorder"
-#~ msgstr "Gravador de sessions de l'escriptori"
 
-#~ msgid "Istanbul Desktop Session Recorder"
-#~ msgstr "Gravador de sessions de l'escriptori Istanbul"
 
-#~ msgid "Record a video of your desktop session"
-#~ msgstr "Gravar un vídeo de la vostra sessió d'escriptori"
 
-#~ msgid "Katoob"
-#~ msgstr "Katoob"
 
-#~ msgid "KThesaurus"
-#~ msgstr "KThesaurus"
 
-#~ msgid "Choqok"
-#~ msgstr "Choqok"
 
-#~ msgid "KDE Micro-blogging Client"
-#~ msgstr "Client de microblocs KDE"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "Una eina per a comparar i fusionar fitxers o directoris"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "Una calculadora i conversor de monedes"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "Database Creator"
-#~ msgstr "Creador de bases de dades"
 
-#~ msgid "A graphical FTP client"
-#~ msgstr "Un client gràfic FTP"
 
-#~ msgid "FTP Client"
-#~ msgstr "Client FTP"
 
-#~ msgid "KFTPGrabber"
-#~ msgstr "KFTPGrabber"
 
-#~ msgid "A Graphviz dot graph editor for KDE"
-#~ msgstr "Un editor de gràfiques de punts de Graphviz pel KDE"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "kgrapheditor"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "Un visualitzador de gràfic de punts Graphviz pel KDE"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "kgraphviewer"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "Entorn de desenvolupament de (La)Tex"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "Frontal per LaTeX"
 
-#~ msgid "KMess"
-#~ msgstr "KMess"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "Client MSN"
 
-#~ msgid "A KDE4 MIDI/Karaoke Player"
-#~ msgstr "Un reproductor MIDI/Karaoke per al KDE 4"
 
-#~ msgid "Network Monitor"
-#~ msgstr "Monitor de xarxa"
 
-#~ msgid "A KDE frontend for NetworkManager"
-#~ msgstr "Un frontal del KDE per al NetworkManager"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "Write presentation documents"
-#~ msgstr "Escriu documents de presentació"
 
-#~ msgid "Cooking Book"
-#~ msgstr "Llibre de cuina"
 
-#~ msgid "Krecipes"
-#~ msgstr "Krecipes"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "El llibre de cuina de KDE"
 
-#~ msgid "A batch renamer"
-#~ msgstr "Utilitat per reanomenar en lot"
 
-#~ msgid "Application for Drawing and Handling of Images"
-#~ msgstr "Aplicació per a dibuix i modificació d'imatges"
 
-#~ msgid "Krusader"
-#~ msgstr "Krusader"
 
-#~ msgid "Twin-Panel File Manager"
-#~ msgstr "Gestor de fitxers amb dues finestres"
 
-#~ msgid "Write spreadsheet documents"
-#~ msgstr "Escriu documents de full de càlcul"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "Una aplicació KPart per a KDE"
 
-#~ msgid "KVpnc"
-#~ msgstr "KVpnc"
 
-#~ msgid "A KDE4 Application"
-#~ msgstr "Una aplicació del KDE4"
 
-#~ msgid "Mailody"
-#~ msgstr "Mailody"
 
-#~ msgid "Mail Viewer"
-#~ msgstr "Visor de correu electrònic"
 
-#~ msgid "MailodyMailViewer"
-#~ msgstr "MailodyMailViewer"
 
-#~ msgid "KDE Partition Manager"
-#~ msgstr "Gestor de particions del KDE"
 
-#~ msgid "Manage disks, partitions and file systems"
-#~ msgstr "Gestioneu discos, particions i sistemes de fitxers"
 
-#~ msgid "Scan and save images"
-#~ msgstr "Escaneja i desa imatges"
 
-#~ msgid "Skanlite"
-#~ msgstr "Skanlite"
 
-#~ msgid "A collection manager"
-#~ msgstr "Un gestor de col·leccions"
 
-#~ msgid "Collection Manager"
-#~ msgstr "Gestor de col·leccions"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr ""
-#~ "Un emulador de terminal desplegable basat en la tecnologia del Konsole "
-#~ "del KDE."
 
-#~ msgid "Drop-down Terminal"
-#~ msgstr "Terminal desplegable"
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "KScope"
-#~ msgstr "KScope"
 
-#~ msgid "Connect to Internet Relay Chat"
-#~ msgstr "Connecta a Internet Relay Chat"
 
-#~ msgid "Last-Exit"
-#~ msgstr "Last-Exit"
 
-#~ msgid "Last.fm player"
-#~ msgstr "Reproductor de Last.fm"
 
-#~ msgid "Download and view feeds"
-#~ msgstr "Baixeu i visualitzeu canals"
 
-#~ msgid "Liferea Feed Reader"
-#~ msgstr "Lector de canals Liferea"
 
-#~ msgid "A unique multiplayer wargame"
-#~ msgstr "Joc de guerra únic per a diversos jugadors"
 
-#~ msgid "easy music production for everyone!"
-#~ msgstr "Producció fàcil de música per a tothom!"
 
-#~ msgid "music production suite"
-#~ msgstr "Programari de producció musical"
 
-#~ msgid "LPairs"
-#~ msgstr "LPairs"
 
-#~ msgid "Lumiere"
-#~ msgstr "Lumiere"
 
-#~ msgid "Configure Mail Notification"
-#~ msgstr "Configura l'avisador de correu"
 
-#~ msgid "Mail Notification"
-#~ msgstr "Notificació de correu"
 
-#~ msgid "First person shooter game"
-#~ msgstr "Joc de tiradors de primera persona"
 
-#~ msgid "A 3D adventure and roleplaying game"
-#~ msgstr "Un joc d'aventura i rol en 3D"
 
-#~ msgid "Balazar"
-#~ msgstr "Balazar"
 
-#~ msgid "BomberInstinct"
-#~ msgstr "BomberInstinct"
 
-#~ msgid "Arcade Shooter"
-#~ msgstr "Arcade de disparar"
 
-#~ msgid "Critical Mass"
-#~ msgstr "Critical Mass"
 
-#~ msgid "ExEf"
-#~ msgstr "ExEf"
 
-#~ msgid "GTorrentViewer"
-#~ msgstr "GTorrentViewer"
 
-#~ msgid "OilWar"
-#~ msgstr "OilWar"
 
-#~ msgid "Very simple mouse shooting game"
-#~ msgstr "Joc molt simple de disparar amb el ratolí"
 
-#~ msgid "A MacOS run-time environment"
-#~ msgstr "Un entorn d'execució de MacOS"
 
-#~ msgid "SheepShaver"
-#~ msgstr "SheepShaver"
 
-#~ msgid "SpiralLoops"
-#~ msgstr "SpiralLoops"
 
-#~ msgid "Synthesized Loops"
-#~ msgstr "Bucles sintetitzats"
 
-#~ msgid "SpiralSynth"
-#~ msgstr "SpiralSynth"
 
-#~ msgid "VOCPweb (VOCP Web Remote Message Retrieval)"
-#~ msgstr "VOCPweb (Recuperació per web de missatges remots VOCP)"
 
-#~ msgid "Abe's Amazing Adventure!!"
-#~ msgstr "Abe's Amazing Adventure!!"
 
-#~ msgid "Abuse"
-#~ msgstr "Abuse"
 
-#~ msgid "The classic Crack-Dot-Com game"
-#~ msgstr "El joc clàssic de Crack-Dot-Com"
 
-#~ msgid "AcidRip"
-#~ msgstr "AcidRip"
 
-#~ msgid "Video ripping and conversion"
-#~ msgstr "Extracció i conversió de vídeo"
 
-#~ msgid "Adonthell - Waste's Edge"
-#~ msgstr "Adonthell - Waste's Edge"
 
-#~ msgid "AirStrike"
-#~ msgstr "AirStrike"
 
-#~ msgid "Incredibly addictive 2D dogfight game"
-#~ msgstr "Joc de lluita de gossos en 2D increïblement addictiu"
 
-#~ msgid "AlbumShaper"
-#~ msgstr "AlbumShaper"
 
-#~ msgid "Create photo albums"
-#~ msgstr "Crea àlbums de fotos"
 
-#~ msgid "Alevt"
-#~ msgstr "Alevt"
 
-#~ msgid "Teletext/Videotext decoder and browser"
-#~ msgstr "Decodificador i navegador de Teletext/Videotext"
 
-#~ msgid "Graphical frontend to Valgrind memory checker"
-#~ msgstr "Frontal gràfic per al comprovador de memòria de Valgrind"
 
-#~ msgid "W3C's browser/web authoring tool"
-#~ msgstr "Navegador del W3C / eina de creació de webs"
 
-#~ msgid "Alsa Modular Synth"
-#~ msgstr "Sintentitzador modular Alsa"
 
-#~ msgid "Modular Synthesizer for ALSA"
-#~ msgstr "Sintentitzador modular  per Alsa"
 
-#~ msgid "Angel Wars"
-#~ msgstr "Angel Wars"
 
-#~ msgid "Fast-paced, old-fashioned side-scrolling space shooter"
-#~ msgstr "Tirador espacial, amb moviment lateral, ràpid i tradicional"
 
-#~ msgid "ANT-phone"
-#~ msgstr "ANT-phone"
 
-#~ msgid "GUI for Genpak"
-#~ msgstr "GUI per al Genpak"
 
-#~ msgid "Advanced Strategic Command"
-#~ msgstr "Advanced Strategic Command"
 
-#~ msgid "A 3D, first-person game of blowing up asteroids"
-#~ msgstr "Un joc 3D en primer persona de fer explotar asteroides"
 
-#~ msgid "Asteroids3D"
-#~ msgstr "Asteroids3D"
 
-#~ msgid "AutoZen"
-#~ msgstr "AutoZen"
 
-#~ msgid "Configure energy saving for your system"
-#~ msgstr "Configura l'estalvi d'energia pel teu sistema"
 
-#~ msgid "Energy Saving"
-#~ msgstr "Estalvi d'energia"
 
-#~ msgid "Bbconf"
-#~ msgstr "Bbconf"
 
-#~ msgid "Bbconf is a complete GUI config tool for blackbox"
-#~ msgstr "Bbconf és una eina gràfica de configuració per a blackbox"
 
-#~ msgid "BB Run"
-#~ msgstr "BB Run"
 
-#~ msgid "Tool for eBay users"
-#~ msgstr "Eina per usuaris d'eBay"
 
-#~ msgid "bigForth"
-#~ msgstr "bigForth"
 
-#~ msgid "2D chemical structure drawing tool"
-#~ msgstr "Eina de dibuix d'estructures químiques en 2D"
 
-#~ msgid "BoboBot"
-#~ msgstr "BoboBot"
 
-#~ msgid "Mario-like game"
-#~ msgstr "Jocs com el Mario"
 
-#~ msgid "Invasion: Battle of survival - a real time strategy game"
-#~ msgstr "Invasion: Battle of survival - un joc d'estrategia en temps real"
 
-#~ msgid "Boxconf (VOCP Box Configuration interface)"
-#~ msgstr "Boxconf (Interfície de configuració de bústies VOCP)"
 
-#~ msgid "BPMDJ"
-#~ msgstr "BPMDJ"
 
-#~ msgid "Monitoring-duck-in-a-jar dockapp"
-#~ msgstr "Miniaplicació de monitorització que mostra un ànec en un gerro"
 
-#~ msgid "Bugsquish"
-#~ msgstr "Bugsquish"
 
-#~ msgid "Kill bugs with mouse"
-#~ msgstr "Mata les bestioles amb el ratolí"
 
-#~ msgid "C1541 stand alone disk image maintenance program"
-#~ msgstr ""
-#~ "C1541 - Programa independent per al manteniment d'imatges de disc de "
-#~ "Commodore"
 
-#~ msgid "VICE disk image tool"
-#~ msgstr "Eina VICE per a imatges de disc de Commodore"
 
-#~ msgid "Callcenter (VOCP Call Center)"
-#~ msgstr "Callcenter (Centre de trucades VOCP)"
 
-#~ msgid "Broadband connection test program"
-#~ msgstr "Programa de prova de connexions de banda ampla"
 
-#~ msgid "Camlgrenouille"
-#~ msgstr "Camlgrenouille"
 
-#~ msgid "Webcam tool"
-#~ msgstr "Eina per a càmeres web"
 
-#~ msgid "CanonUtil"
-#~ msgstr "CanonUtil"
 
-#~ msgid "Maintenance tool for Canon inkjet printers"
-#~ msgstr "Eina de manteniment per a impressores de tinta Canon"
 
-#~ msgid "CD-Mason"
-#~ msgstr "CD-Mason"
 
-#~ msgid "Simple, powerful CD burning"
-#~ msgstr "Enregistrament de CD simple i potent"
 
-#~ msgid "CDvST"
-#~ msgstr "CDvST"
 
-#~ msgid "Certain Death via Space Things"
-#~ msgstr ""
-#~ "Mort segura a mans de coses de l'espai (Certain Death via Space Things)"
 
-#~ msgid "CGoban"
-#~ msgstr "CGoban"
 
-#~ msgid "Graphical game of Go"
-#~ msgstr "Joc gràfic Go"
 
-#~ msgid "A program for creating music modules"
-#~ msgstr "Un programa per crear mòduls de música"
 
-#~ msgid "Cheops-NG"
-#~ msgstr "Cheops-NG"
 
-#~ msgid "Network Browser and Tools (requires running agent)"
-#~ msgstr "Navegador i eines de xarxa (necessita un agent d'execució)"
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr ""
-#~ "Clanbomber - joc lliure (GPL) per a diversos jugadors, semblant al "
-#~ "Bomberman"
 
-#~ msgid "Install Clauer in Firefox"
-#~ msgstr "Instal·la Clauer per a Firefox"
 
-#~ msgid "Uninstall Clauer from Firefox"
-#~ msgstr "Desinstal·la Clauer per a Firefox"
 
-#~ msgid "MIDI controller for ZynAddSubFX"
-#~ msgstr "Controlador MIDI per a ZynAddSubFX"
 
-#~ msgid "Copter Commander OpenGL"
-#~ msgstr "Copter Commander OpenGL"
 
-#~ msgid "Copter-Commander Glx"
-#~ msgstr "Copter-Commander Glx"
 
-#~ msgid "Copter Commander"
-#~ msgstr "Comandant d'helicòpters"
 
-#~ msgid "Cssed"
-#~ msgstr "Cssed"
 
-#~ msgid "Choose a Cursor Theme"
-#~ msgstr "Escull un tema de cursors"
 
-#~ msgid "Cursor Themes"
-#~ msgstr "Temes de cursors"
 
-#~ msgid "A Defender Clone"
-#~ msgstr "Clon del Defender"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "A simple web browser"
-#~ msgstr "Un navegador senzill"
 
-#~ msgid "DiskSearch"
-#~ msgstr "DiskSearch"
 
-#~ msgid "Distcc monitor"
-#~ msgstr "Monitor distcc"
 
-#~ msgid "An easy to use address book"
-#~ msgstr "Un llibreta d'adreces fàcil d'usar"
 
-#~ msgid "Dlume"
-#~ msgstr "Dlume"
 
-#~ msgid "A DOS emulator"
-#~ msgstr "Emulador de DOS"
 
-#~ msgid "DOSBox"
-#~ msgstr "DOSBox"
 
-#~ msgid "Dr. Python"
-#~ msgstr "Dr. Python"
 
-#~ msgid "Python Editor and IDE"
-#~ msgstr "Editor i IDE de Python"
 
-#~ msgid "DVR"
-#~ msgstr "DVR"
 
-#~ msgid "2D Molecule Editor"
-#~ msgstr "Editor de molècules en 2D"
 
-#~ msgid "EasyChem"
-#~ msgstr "EasyChem"
 
-#~ msgid "Eboard"
-#~ msgstr "Eboard"
 
-#~ msgid "FICS chess-server interface"
-#~ msgstr "Interfície de servidor d'escacs FICS"
 
-#~ msgid "Egon"
-#~ msgstr "Egon"
 
-#~ msgid "Siag Office Egon Animator"
-#~ msgstr "Eina d'animació Egon de Siag Office"
 
-#~ msgid "A GTK file manager"
-#~ msgstr "Un gestor de fitxers en GTK"
 
-#~ msgid "Endeavour"
-#~ msgstr "Endeavour"
 
-#~ msgid "Enigma is a puzzle game"
-#~ msgstr "Enigma és un joc de trencaclosques"
 
-#~ msgid "EPIC is the (E)nhanced (P)rogrammable (I)RC-II (C)lient."
-#~ msgstr ""
-#~ "EPIC és l'acrònim en anglès de \"client d'IRC-II millorat i programable\"."
 
-#~ msgid "Epic"
-#~ msgstr "Epic"
 
-#~ msgid "Python IDE"
-#~ msgstr "IDE de Python"
 
-#~ msgid "A full featured OSS mixer"
-#~ msgstr "Un mesclador complet OSS (Open Sound System)"
 
-#~ msgid "Ermixer"
-#~ msgstr "Ermixer"
 
-#~ msgid "The eSvn is a cross-platform (QT-based) GUI for Subversion"
-#~ msgstr "eSvn és una IGU multiplataforma basada en Qt per Subversion"
 
-#~ msgid "Evolvotron"
-#~ msgstr "Evolvotron"
 
-#~ msgid "Flash for Linux"
-#~ msgstr "Flash for Linux"
 
-#~ msgid "Fbdesk"
-#~ msgstr "Fbdesk"
 
-#~ msgid "Fluxbox-application to create and manage icons on your desktop"
-#~ msgstr "Aplicació Fluxbox per crear i gestionar les icones de l'escriptori"
 
-#~ msgid "Image viewer at heart, though it does other cool stuff"
-#~ msgstr "Visor d'imatges en cor, encara que fa d'altres coses interessants"
 
-#~ msgid "Fish Fillets NG"
-#~ msgstr "Fish Fillets NG"
 
-#~ msgid "The FlightGear Flight Simulator"
-#~ msgstr "El simulador de vol FlightGear"
 
-#~ msgid "FooBillard"
-#~ msgstr "FooBillard"
 
-#~ msgid "OpenGL billard game"
-#~ msgstr "Joc de billar en OpenGL"
 
-#~ msgid "A.D.I.E. - Advanced Interactive Editor using the FOX toolkit"
-#~ msgstr ""
-#~ "A.D.I.E. - Editor Interactiu Avançat que utilitza el joc d'eines FOX"
 
-#~ msgid "FOX Adie"
-#~ msgstr "Adie FOX"
 
-#~ msgid "Calculator using the FOX toolkit"
-#~ msgstr "Calculadora que utilitza el joc d'eines FOX"
 
-#~ msgid "FOX Calculator"
-#~ msgstr "Calculadora FOX"
 
-#~ msgid "FrameWorks"
-#~ msgstr "FrameWorks"
 
-#~ msgid "Clone of the C64 Game Paradroid"
-#~ msgstr "Clon del joc Paradroid per a C64"
 
-#~ msgid "Freedroid"
-#~ msgstr "Freedroid"
 
-#~ msgid "FreedroidRPG"
-#~ msgstr "FreedroidRPG"
 
-#~ msgid "FreeLords"
-#~ msgstr "FreeLords"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Sound manipulator"
-#~ msgstr "Editor de so"
 
-#~ msgid "FretScale"
-#~ msgstr "FretScale"
 
-#~ msgid "A GUI frontend for autotrace"
-#~ msgstr "Un frontal IGU per al autotrace"
 
-#~ msgid "3D file browser"
-#~ msgstr "Explorador de fitxers en 3D"
 
-#~ msgid "FVWM Windows manager"
-#~ msgstr "Gestor de finestres FVWM"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "3D Map Viewer"
-#~ msgstr "Visualitzador de mapes en 3D"
 
-#~ msgid "g3DGMV"
-#~ msgstr "g3DGMV"
 
-#~ msgid "Gai-bgswitcher"
-#~ msgstr "Gai-bgswitcher"
 
-#~ msgid "Gai-blobs"
-#~ msgstr "Gai-blobs"
 
-#~ msgid "Displays the status of the keyboard leds"
-#~ msgstr "Mostra l'estat dels leds del teclat"
 
-#~ msgid "Gai-leds"
-#~ msgstr "Gai-leds"
 
-#~ msgid "Gai-mailcounter"
-#~ msgstr "Gai-mailcounter"
 
-#~ msgid "Mail counter"
-#~ msgstr "Comptador de correu"
 
-#~ msgid "Gai-pal"
-#~ msgstr "Gai-pal"
 
-#~ msgid "Display time when they sun sets and rise"
-#~ msgstr "Mostra l'hora a la que surt i es pon el sol"
 
-#~ msgid "Gai-sun"
-#~ msgstr "Gai-sun"
 
-#~ msgid "Gai-visual-studio"
-#~ msgstr "Gai-visual-studio"
 
-#~ msgid "Visualizing the XMMS output"
-#~ msgstr "Visualitzador de la sortida de XMMS"
 
-#~ msgid "Galan"
-#~ msgstr "Galan"
 
-#~ msgid "3D Molecule Viewer"
-#~ msgstr "Visualitzador de molècules en 3D"
 
-#~ msgid "2-D Volleyball"
-#~ msgstr "Voleibol en 2D"
 
-#~ msgid "Edit your gnome preferences"
-#~ msgstr "Edita les teves preferències gnome"
 
-#~ msgid "Gconfpref"
-#~ msgstr "Gconfpref"
 
-#~ msgid "Gem Drop X"
-#~ msgstr "Gem Drop X"
 
-#~ msgid "Tetris meets Space Invaders"
-#~ msgstr "Tetris unit amb Space Invaders"
 
-#~ msgid "GNU Forth"
-#~ msgstr "GNU Forth"
 
-#~ msgid "Teacher's gradebook"
-#~ msgstr "Llibreta de notes del professor"
 
-#~ msgid "DJ Collection Manager"
-#~ msgstr "Gestor de col·leccions de DJ"
 
-#~ msgid "GJay"
-#~ msgstr "GJay"
 
-#~ msgid "Action flight simulator"
-#~ msgstr "Simulador de vol d'acció"
 
-#~ msgid "GL-117"
-#~ msgstr "GL-117"
 
-#~ msgid "Glinuxsms"
-#~ msgstr "Glinuxsms"
 
-#~ msgid "GLiv"
-#~ msgstr "GLiv"
 
-#~ msgid "OpenGL graphics viewer"
-#~ msgstr "Un visualitzador gràfics OpenGL"
 
-#~ msgid "3d lightcycle game"
-#~ msgstr "Joc 3D de motos Lightcycle"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "Gnome Client for the masqdialer modem server"
-#~ msgstr "Client Gnome per al servidor de mòdems masqdialer"
 
-#~ msgid "Memory usage"
-#~ msgstr "Utilització de la memòria"
 
-#~ msgid "GMorgan"
-#~ msgstr "GMorgan"
 
-#~ msgid "gMudix"
-#~ msgstr "gMudix"
 
-#~ msgid "Gneutronica"
-#~ msgstr "Gneutronica"
 
-#~ msgid "Gnome-Kerberos"
-#~ msgstr "Gnome-Kerberos"
 
-#~ msgid "Manage SSH connections"
-#~ msgstr "Gestiona connexions SSH"
 
-#~ msgid "Gnometab"
-#~ msgstr "Gnometab"
 
-#~ msgid "Gnometab is a guitar tablature editor."
-#~ msgstr "Gnometab és un editor de partitures per a guitarra."
 
-#~ msgid "Gnormalize"
-#~ msgstr "Gnormalize"
 
-#~ msgid "GNU Backgammon"
-#~ msgstr "GNU Backgammon"
 
-#~ msgid "Gnubik"
-#~ msgstr "Gnubik"
 
-#~ msgid "GNU Robbo"
-#~ msgstr "Robbo de GNU"
 
-#~ msgid "Gournal"
-#~ msgstr "Gournal"
 
-#~ msgid "Gphone"
-#~ msgstr "Gphone"
 
-#~ msgid "Internet telephone"
-#~ msgstr "Telefonia per Internet"
 
-#~ msgid "Gpppoem"
-#~ msgstr "Gpppoem"
 
-#~ msgid "Pppoe monitor"
-#~ msgstr "Monitor pppoe"
 
-#~ msgid "GPRS Easy Connect"
-#~ msgstr "GPRS Easy Connect"
 
-#~ msgid "GPS Data Transfer"
-#~ msgstr "Transferència de dades GPS"
 
-#~ msgid "MGPSPoint"
-#~ msgstr "MGPSPoint"
 
-#~ msgid "GQ is a GTK-based LDAP client"
-#~ msgstr "GQ és un client LDAP basat en GTK"
 
-#~ msgid "Control print jobs"
-#~ msgstr "Controla les tasques d'impressió"
 
-#~ msgid "GQueue"
-#~ msgstr "GQueue"
 
-#~ msgid "Grace"
-#~ msgstr "Grace"
 
-#~ msgid "Graphical visualization of scientific data"
-#~ msgstr "Visualització gràfica de dades científiques"
 
-#~ msgid "Grany"
-#~ msgstr "Grany"
 
-#~ msgid "The cellular automaton simulator"
-#~ msgstr "El simulador d'autòmat cel·lular"
 
-#~ msgid "Geographic Resources Analysis Support System"
-#~ msgstr "Sistema de Suport per a l'Anàlisi de Recursos Geogràfics"
 
-#~ msgid "Greenwich"
-#~ msgstr "Greenwich"
 
-#~ msgid "GRhino"
-#~ msgstr "GRhino"
 
-#~ msgid "A RPN calculator"
-#~ msgstr "Una calculadora RPN (notació polonesa inversa)"
 
-#~ msgid "GScore"
-#~ msgstr "GScore"
 
-#~ msgid "TetriNET game client for Linux"
-#~ msgstr "Client de TetriNET per Linux"
 
-#~ msgid "GTK-IPTables"
-#~ msgstr "GTK-IPTables"
 
-#~ msgid "IPTables Rules Configuration"
-#~ msgstr "Configuració de regles de l'IPTables"
 
-#~ msgid "Change GTK1 Theme"
-#~ msgstr "Canvia el tema del GTK1"
 
-#~ msgid "GTK Theme Switch"
-#~ msgstr "GTK Theme Switch"
 
-#~ msgid "Gtk frontend to asp2php"
-#~ msgstr "Frontal GTK per a l'asp2php"
 
-#~ msgid "GtkAtlantic"
-#~ msgstr "GtkAtlantic"
 
-#~ msgid "GtkDive"
-#~ msgstr "GtkDive"
 
-#~ msgid "Graphical file finding program"
-#~ msgstr "Programa gràfic per cercar fitxers"
 
-#~ msgid "GTK Guitar Effects"
-#~ msgstr "Efectes de guitarra GTK"
 
-#~ msgid "Realtime effects"
-#~ msgstr "Efectes en temps real"
 
-#~ msgid "GTK Frontend for CUPS"
-#~ msgstr "Frontal GTK per a CUPS"
 
-#~ msgid "GTK Frontend to GTKlp CUPS Queue"
-#~ msgstr "Frontal GTK per a GTKlp CUPS Queue"
 
-#~ msgid "Gtk version of motd"
-#~ msgstr "Versió Gtk de motd"
 
-#~ msgid "GtkPSProc"
-#~ msgstr "GtkPSProc"
 
-#~ msgid "Gvu"
-#~ msgstr "Gvu"
 
-#~ msgid "Siag Postscript viewer"
-#~ msgstr "Visor de documents PostScript de Siag"
 
-#~ msgid "Network and workstation tools"
-#~ msgstr "Eines de xarxa i estació de treball"
 
-#~ msgid "Heroes"
-#~ msgstr "Heroes"
 
-#~ msgid "Hexadecimal calculator"
-#~ msgstr "Calculadora hexadecimal"
 
-#~ msgid "Hexcalc"
-#~ msgstr "Hexcalc"
 
-#~ msgid "Othello clone"
-#~ msgstr "Clon de l'othello"
 
-#~ msgid "Holotz's Castle Editor"
-#~ msgstr "Editor Holotz's Castle"
 
-#~ msgid "Level editor for Holotz's Castle"
-#~ msgstr "Editor de nivells per Holotz's Castle"
 
-#~ msgid "Horgand"
-#~ msgstr "Horgand"
 
-#~ msgid "iaxComm"
-#~ msgstr "iaxComm"
 
-#~ msgid "Configurator for the GTK+2 Japanese Input Module"
-#~ msgstr "Configurador per mòdul d'entrada de Japonès per GTK+2"
 
-#~ msgid "ImgSeek"
-#~ msgstr "ImgSeek"
 
-#~ msgid "Inventory"
-#~ msgstr "Inventory"
 
-#~ msgid "Simple Inventory Program"
-#~ msgstr "Simple programa d'inventari"
 
-#~ msgid "IV"
-#~ msgstr "IV"
 
-#~ msgid "Image browser"
-#~ msgstr "Visualitzador d'imatges"
 
-#~ msgid "JackEQ"
-#~ msgstr "JackEQ"
 
-#~ msgid "Jigsaw Download"
-#~ msgstr "Jigsaw Download"
 
-#~ msgid "Graphical puzzle game"
-#~ msgstr "Joc de trencaclosques gràfic"
 
-#~ msgid "Jools"
-#~ msgstr "Jools"
 
-#~ msgid "GTK2 ftp client"
-#~ msgstr "Client d'FTP GTK2"
 
-#~ msgid "Junkie"
-#~ msgstr "Junkie"
 
-#~ msgid "ALSA connections"
-#~ msgstr "Connexions ALSA"
 
-#~ msgid "KAConnect"
-#~ msgstr "KAConnect"
 
-#~ msgid "Kiax"
-#~ msgstr "Kiax"
 
-#~ msgid "Kiki the nanobot"
-#~ msgstr "Kiki el nanobot"
 
-#~ msgid "QT Molecule Viewer"
-#~ msgstr "Visualitzador de mol·lècules QT"
 
-#~ msgid "Kodos"
-#~ msgstr "Kodos"
 
-#~ msgid "Visual regular expression editor"
-#~ msgstr "Editor visual d'expressions regulars"
 
-#~ msgid "XKoules"
-#~ msgstr "XKoules"
 
-#~ msgid "A graphical process viewer"
-#~ msgstr "Un visualitzador gràfic de processos"
 
-#~ msgid "A Panzer General clone"
-#~ msgstr "Un clon del Panzer General"
 
-#~ msgid "Lynx-like text WWW browser"
-#~ msgstr "Navegador WWW de text semblant al Lynx"
 
-#~ msgid "LinPopUp"
-#~ msgstr "LinPopUp"
 
-#~ msgid "LinuxSMS"
-#~ msgstr "LinuxSMS"
 
-#~ msgid "Oki"
-#~ msgstr "Oki"
 
-#~ msgid "LongPlayer"
-#~ msgstr "LongPlayer"
 
-#~ msgid "LTris"
-#~ msgstr "LTris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "Un clon del Tetris molt maco"
 
-#~ msgid "Luma"
-#~ msgstr "Luma"
 
-#~ msgid "Fly a small V shaped ship in a 2D arcade game"
-#~ msgstr "Feu volar una petita nau en forma de V en un joc arcade en 2D"
 
-#~ msgid "Catch the bombs"
-#~ msgstr "Agafeu les bombes"
 
-#~ msgid "MadBomber"
-#~ msgstr "MadBomber"
 
-#~ msgid "MAS Internet Conferencing"
-#~ msgstr "Conferències per Internet MAS"
 
-#~ msgid "MASConf"
-#~ msgstr "MASConf"
 
-#~ msgid "MAS Mixer"
-#~ msgstr "Mesclador MAS"
 
-#~ msgid "MASMix"
-#~ msgstr "MASMix"
 
-#~ msgid "Interactive function grapher"
-#~ msgstr "Programa interactiu per representar funcions"
 
-#~ msgid "Maxima"
-#~ msgstr "Maxima"
 
-#~ msgid "Tcl/Tk interface to Maxima"
-#~ msgstr "Interfície Tcl/Tk per a Maxima"
 
-#~ msgid "MGM"
-#~ msgstr "MGM"
 
-#~ msgid "MiniSIP"
-#~ msgstr "MiniSIP"
 
-#~ msgid "Mirror Magic"
-#~ msgstr "Mirror Magic"
 
-#~ msgid "A multi-lingual terminal emulator"
-#~ msgstr "Emulador de terminal multilingüe"
 
-#~ msgid "Mlterm"
-#~ msgstr "Mlterm"
 
-#~ msgid "Addictive puzzle game"
-#~ msgstr "Joc de trencaclosques adictiu"
 
-#~ msgid "Monsterz"
-#~ msgstr "Monsterz"
 
-#~ msgid "Molrender"
-#~ msgstr "Molrender"
 
-#~ msgid "Mrxvt"
-#~ msgstr "Mrxvt"
 
-#~ msgid "Maitretarot Client"
-#~ msgstr "Client Maitretarot"
 
-#~ msgid "Ping/Traceroute network diagnostic tool"
-#~ msgstr "Eina de diagnòstic de xarxa Ping/Traceroute"
 
-#~ msgid "Xmtr"
-#~ msgstr "Xmtr"
 
-#~ msgid "Multi-aterm"
-#~ msgstr "Multi-aterm"
 
-#~ msgid "MIDI sequencer"
-#~ msgstr "Seqüenciador MIDI"
 
-#~ msgid "Nabi"
-#~ msgstr "Nabi"
 
-#~ msgid "Natmonitor "
-#~ msgstr "Natmonitor "
 
-#~ msgid "Nessus"
-#~ msgstr "Nessus"
 
-#~ msgid "NiL Isn't Liero"
-#~ msgstr "NiL Isn't Liero (NiL no és Liero)"
 
-#~ msgid "Nuclear Chess"
-#~ msgstr "Nuclear Chess"
 
-#~ msgid "NexTView EPG decoder and browser"
-#~ msgstr "Decodificador i navegador EPG NexTView"
 
-#~ msgid "Nxtvepg"
-#~ msgstr "Nxtvepg"
 
-#~ msgid "Digital Gradebook"
-#~ msgstr "Llibreta de notes digital"
 
-#~ msgid "OpenGrade"
-#~ msgstr "OpenGrade"
 
-#~ msgid "Mortal Szombat"
-#~ msgstr "Mortal Szombat"
 
-#~ msgid "Parody of Mortal Kombat"
-#~ msgstr "Paròdia del Mortal Kombat"
 
-#~ msgid "Orbital Eunuchs Sniper"
-#~ msgstr "Orbital Eunuchs Sniper"
 
-#~ msgid "OSD Xine Video Player"
-#~ msgstr "Reproductor de vídeo Xine OSD"
 
-#~ msgid "Oxine"
-#~ msgstr "Oxine"
 
-#~ msgid "Passepartout"
-#~ msgstr "Passepartout"
 
-#~ msgid "Logic game"
-#~ msgstr "Joc lògic"
 
-#~ msgid "A clone of the classic Missile Command game"
-#~ msgstr "Un clon del clàssic joc Missile Command"
 
-#~ msgid "Penguin Command"
-#~ msgstr "Comand Pingüí"
 
-#~ msgid "Graphical client for PostgreSQL"
-#~ msgstr "Un client gràfic per a PostgreSQL"
 
-#~ msgid "Emilia 3d Pinball"
-#~ msgstr "Emilia Pinball 3d"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Pingus - A free Lemmings clone"
-#~ msgstr "Pingus - Un clon lliure del Lemmings"
 
-#~ msgid "Plan"
-#~ msgstr "Plan"
 
-#~ msgid "Ponyprog2000"
-#~ msgstr "Ponyprog2000"
 
-#~ msgid "POPFile - Automatic Email Classification"
-#~ msgstr "POPFile - Classificació automàtica de correus electrònics"
 
-#~ msgid "PrBooM-GL Multiplayer"
-#~ msgstr "PrBooM-GL multijugador"
 
-#~ msgid "PrBooM-GL"
-#~ msgstr "PrBooM-GL"
 
-#~ msgid "PrBooM Multiplayer"
-#~ msgstr "PrBooM multijugador"
 
-#~ msgid "PrBooM"
-#~ msgstr "PrBooM"
 
-#~ msgid "Free SSH, Telnet and Rlogin client"
-#~ msgstr "Client lliure de SSH, Telnet i Rlogin"
 
-#~ msgid "Putty"
-#~ msgstr "Putty"
 
-#~ msgid "Pathetic Writer"
-#~ msgstr "Pathetic Writer"
 
-#~ msgid "Siag Office Pathetic writer"
-#~ msgstr "Pathetic Writer de Siag Office"
 
-#~ msgid "Python controlled molecular graphics"
-#~ msgstr "Gràfics moleculars controlats per Python"
 
-#~ msgid "ALSA Mixer"
-#~ msgstr "Mesclador ALSA"
 
-#~ msgid "QAMix"
-#~ msgstr "QAMix"
 
-#~ msgid "QARecord"
-#~ msgstr "QARecord"
 
-#~ msgid "Multipage TIFF viewer"
-#~ msgstr "Visor TIFF multipàgina"
 
-#~ msgid "QFaxReader"
-#~ msgstr "QFaxReader"
 
-#~ msgid "Quantum GIS"
-#~ msgstr "Quantum GIS"
 
-#~ msgid "Qjackconnect"
-#~ msgstr "Qjackconnect"
 
-#~ msgid "Qt-based Jackit Connector"
-#~ msgstr "Connector Jackit basat en Qt"
 
-#~ msgid "QJoyPad"
-#~ msgstr "QJoyPad"
 
-#~ msgid "QtRadio - listen to the radio with QtRadio."
-#~ msgstr "QtRadio - escolta la ràdio amb QtRadio."
 
-#~ msgid "Quasar"
-#~ msgstr "Quasar"
 
-#~ msgid "Generate 3D fractal objects"
-#~ msgstr "Genera objectes fractals en 3D"
 
-#~ msgid "Quat"
-#~ msgstr "Quat"
 
-#~ msgid "Keep track of things"
-#~ msgstr "Seguiment de coses (llistes, factures...)"
 
-#~ msgid "Quicklist"
-#~ msgstr "Quicklist"
 
-#~ msgid "QVCD"
-#~ msgstr "QVCD"
 
-#~ msgid "Video CD Creator"
-#~ msgstr "Creador de Vídeo CD"
 
-#~ msgid "Poker-like card game"
-#~ msgstr "Jocs de cartes semblant al pòquer"
 
-#~ msgid "RA Pai Gaw Poker"
-#~ msgstr "RA Pai Gaw Poker"
 
-#~ msgid "RasMol"
-#~ msgstr "RasMol"
 
-#~ msgid "RBBR"
-#~ msgstr "RBBR"
 
-#~ msgid "Digital audio editor"
-#~ msgstr "Editor d'àudio digital"
 
-#~ msgid "Rezound"
-#~ msgstr "Rezound"
 
-#~ msgid "Root-tail prints text directly to a root window"
-#~ msgstr ""
-#~ "El Root-tail imprimeix text directament a una finestra arrel de l'X11"
 
-#~ msgid "File Manager of the ROX desktop environment"
-#~ msgstr "Gestor de fitxers de l'entorn d'escriptori ROX"
 
-#~ msgid "High-level language for numerical computations"
-#~ msgstr "Llenguatge d'alt nivell per a càlculs numèrics"
 
-#~ msgid "Scilab"
-#~ msgstr "Scilab"
 
-#~ msgid "SDLRoids - an enhanced shoot-the-asteroids"
-#~ msgstr "SDLRoids - un \"dispara els asteroides\" millorat"
 
-#~ msgid "Colourful puzzle game"
-#~ msgstr "Joc de trencaclosques amb colors"
 
-#~ msgid "SDL Vexed"
-#~ msgstr "SDL Vexed"
 
-#~ msgid "Loop-based MIDI sequencer"
-#~ msgstr "Seqüenciador MIDI basat en bucles"
 
-#~ msgid "Seq24"
-#~ msgstr "Seq24"
 
-#~ msgid "SoundFontCombi"
-#~ msgstr "SoundFontCombi"
 
-#~ msgid "FOX Shutterbug"
-#~ msgstr "FOX Shutterbug"
 
-#~ msgid "Takes a screenshot and saves it to a file"
-#~ msgstr "Fa una captura de pantalla u la desa en un fitxer"
 
-#~ msgid "SimSam"
-#~ msgstr "SimSam"
 
-#~ msgid "Slune"
-#~ msgstr "Slune"
 
-#~ msgid "GPL sound font editor"
-#~ msgstr "Editor de fonts so GPL"
 
-#~ msgid "Music player"
-#~ msgstr "Reproductor de música"
 
-#~ msgid "SnackAmp"
-#~ msgstr "SnackAmp"
 
-#~ msgid "Snd"
-#~ msgstr "Snd"
 
-#~ msgid "Songs"
-#~ msgstr "Songs"
 
-#~ msgid "Guitar TAB editor"
-#~ msgstr "Editor de partitures per a guitarra"
 
-#~ msgid "An innovative pong like game"
-#~ msgstr "Un joc similar al pong amb vàries innovacions"
 
-#~ msgid "Grass (Spearfish)"
-#~ msgstr "Grass (Spearfish)"
 
-#~ msgid "Specimen"
-#~ msgstr "Specimen"
 
-#~ msgid "Spiral Modular Software Synthesizer"
-#~ msgstr "Sintentitzador de programari modular espiral"
 
-#~ msgid "Spiral Modular Synth"
-#~ msgstr "Sintentitzador modular espiral"
 
-#~ msgid "MIDI keyboard spliter for ZynAddSubFX"
-#~ msgstr "Bifurcador de teclat MIDI per a ZynAddSubFX"
 
-#~ msgid "Project: Starfighter"
-#~ msgstr "Projecte: Starfighter"
 
-#~ msgid "Star Voyager"
-#~ msgstr "Star Voyager"
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
 
-#~ msgid "GUI for Samsung Uproar and Yepp"
-#~ msgstr "GUI per a Samsung Uproar i Yepp"
 
-#~ msgid "Sulu"
-#~ msgstr "Sulu"
 
-#~ msgid "Sophisticated clock for the X Window system"
-#~ msgstr "Rellotge sofisticat pel sistema de finestres X"
 
-#~ msgid "Sunclock"
-#~ msgstr "Sunclock"
 
-#~ msgid "VLC is a free MPEG, MPEG2, DVD and DivX player"
-#~ msgstr "El VLC és un reproductor lliure d'MPEG, MPEG2, DVD i DivX"
 
-#~ msgid "Swami"
-#~ msgstr "Swami"
 
-#~ msgid "Ted"
-#~ msgstr "Ted"
 
-#~ msgid "Ted, Rich Text Processor"
-#~ msgstr "Ted, Processador de text enriquit"
 
-#~ msgid "Tengen"
-#~ msgstr "Tengen"
 
-#~ msgid "TORCS"
-#~ msgstr "TORCS"
 
-#~ msgid "The Open Racing Car Simulator"
-#~ msgstr "El simulador de carreres de cotxes obert"
 
-#~ msgid "TPad"
-#~ msgstr "TPad"
 
-#~ msgid "Tulip"
-#~ msgstr "Tulip"
 
-#~ msgid "Tuxedo T. Penguin: A Quest For Herring"
-#~ msgstr "Tuxedo T. Penguin: la recerca de l'arengada"
 
-#~ msgid "Karting with tux"
-#~ msgstr "Kàrting amb en Tux"
 
-#~ msgid "Fun game to learn math"
-#~ msgstr "Un joc divertit per aprendre matemàtiques"
 
-#~ msgid "TuxMathScrabble"
-#~ msgstr "TuxMathScrabble"
 
-#~ msgid "Tuxpuck"
-#~ msgstr "Tuxpuck"
 
-#~ msgid "The Ur-Quan Masters"
-#~ msgstr "Els mestres Ur-Quan"
 
-#~ msgid "Ur-Quan Masters"
-#~ msgstr "Mestres Ur-Quan"
 
-#~ msgid "Vega Strike"
-#~ msgstr "Vega Strike"
 
-#~ msgid "3D model assembler"
-#~ msgstr "Assemblador de models 3D"
 
-#~ msgid "Vertex"
-#~ msgstr "Vèrtex"
 
-#~ msgid "The popular Unix editor vi with the addition of the Vigor Assistant"
-#~ msgstr "El popular editor de Unix vi amb l'addició de l'auxiliar Vigor"
 
-#~ msgid "VOCPhax (VOCP Fax Viewer and Sender GUI)"
-#~ msgstr "VOCPhax (GUI per al visualitzador i emissor de faxos VOCP)"
 
-#~ msgid "Main Volume control dockapp"
-#~ msgstr "Miniaplicació per al control del volum global"
 
-#~ msgid "Volume knob"
-#~ msgstr "Botó del volum"
 
-#~ msgid "VICE SID music player for Commodore tunes"
-#~ msgstr "Reproductor de sintonies de Commodore VICE SID"
 
-#~ msgid "VSID music player"
-#~ msgstr "Reproductor de música VSID"
 
-#~ msgid "VYM"
-#~ msgstr "VYM"
 
-#~ msgid "Graphical sound editor"
-#~ msgstr "Editor gràfic de so"
 
-#~ msgid "WaveSurfer"
-#~ msgstr "WaveSurfer"
 
-#~ msgid "Battle For Wesnoth editor"
-#~ msgstr "Battle For Wesnoth - editor"
 
-#~ msgid "The map editor of Battle for Wesnoth"
-#~ msgstr "L'editor de mapes de Battle for Wesnoth"
 
-#~ msgid "A fantasy turn-based strategy game."
-#~ msgstr "Un joc d'estratègia per torns basat en un món de fantasia."
 
-#~ msgid "Battle For Wesnoth"
-#~ msgstr "Battle For Wesnoth"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "Un gran joc de carreres amb en Tux"
 
-#~ msgid "Settlers II clone"
-#~ msgstr "Clon del Settlers II"
 
-#~ msgid "Widelands"
-#~ msgstr "Widelands"
 
-#~ msgid "WIFI radar"
-#~ msgstr "Radar WIFI"
 
-#~ msgid "WLanFE"
-#~ msgstr "WLanFE"
 
-#~ msgid "Wireless LAN Configuration"
-#~ msgstr "Configuració de xarxes sense fils"
 
-#~ msgid "WmApm"
-#~ msgstr "WmApm"
 
-#~ msgid "WMbattery"
-#~ msgstr "WMbattery"
 
-#~ msgid "WindowMaker dock application for linuxfr-addicted people"
-#~ msgstr "Aplicació d'acoblament del WindowMaker per als addictes a linuxfr"
 
-#~ msgid "Wmcoincoin"
-#~ msgstr "Wmcoincoin"
 
-#~ msgid "CPU monitoring in a dockapp"
-#~ msgstr "Miniaplicació de monitorització de la CPU"
 
-#~ msgid "WmCPULoad"
-#~ msgstr "WmCPULoad"
 
-#~ msgid "WmCube"
-#~ msgstr "WmCube"
 
-#~ msgid "WmDf"
-#~ msgstr "WmDf"
 
-#~ msgid "A dock.app that displays CPU load as fire in a small icon"
-#~ msgstr ""
-#~ "Miniaplicació que representa la càrrega de la CPU amb foc en una petita "
-#~ "icona"
 
-#~ msgid "Analog clock in a tank fish"
-#~ msgstr "Rellotge analògic en una peixera"
 
-#~ msgid "WmFishTime"
-#~ msgstr "WmFishTime"
 
-#~ msgid "A dock.app that displays a rotating Earth in an icon"
-#~ msgstr "Miniaplicació que mostra la rotació de la Terra en una icona"
 
-#~ msgid "WmGlobe"
-#~ msgstr "WmGlobe"
 
-#~ msgid "Dockapp OSS sound mixer"
-#~ msgstr "Miniaplicació del mesclador de so OSS"
 
-#~ msgid "WMLaptop"
-#~ msgstr "WMLaptop"
 
-#~ msgid "Mem/Swap monitoring dockapp for WindowMaker"
-#~ msgstr "Miniaplicació de monitorització de la memòria per a WindowMaker"
 
-#~ msgid "WMNut"
-#~ msgstr "WMNut"
 
-#~ msgid "Multiple mailbox monitoring via Pop3 in a dockapp"
-#~ msgstr "Miniaplicació de monitorització de múltiples comptes de correu POP3"
 
-#~ msgid "WmsMixer"
-#~ msgstr "WmsMixer"
 
-#~ msgid "A stock quote data display in a small icon"
-#~ msgstr "Visualització de les cotitzacions de borsa en una petita icona"
 
-#~ msgid "WmStock"
-#~ msgstr "WmStock"
 
-#~ msgid "WmSysMon"
-#~ msgstr "WmSysMon"
 
-#~ msgid "Watch your own webcam in a small dockapp window"
-#~ msgstr "Mireu la vostra webcam en una petita finestra d'una miniaplicació"
 
-#~ msgid "WmWebcam"
-#~ msgstr "WmWebcam"
 
-#~ msgid "WMWifi"
-#~ msgstr "WMWifi"
 
-#~ msgid "WmXss"
-#~ msgstr "WmXss"
 
-#~ msgid "A file manager, similar to Directory Opus on the AMIGA"
-#~ msgstr "Gestor de fitxers, semblant al Directory Opus d'AMIGA"
 
-#~ msgid "Workrave"
-#~ msgstr "Workrave"
 
-#~ msgid "A GUI builder for wxWindows/wxPython"
-#~ msgstr "Un constructor de GUI per wxWindows/wxPython"
 
-#~ msgid "wxGlade"
-#~ msgstr "wxGlade"
 
-#~ msgid "C128 Emulator"
-#~ msgstr "Emulador de C128"
 
-#~ msgid "Commodore 128 Emulator"
-#~ msgstr "Emulador de Commodore 128"
 
-#~ msgid "C64 Emulator"
-#~ msgstr "Emulador de C64"
 
-#~ msgid "Commodore 64 Emulator"
-#~ msgstr "Emulador de Commodore 64"
 
-#~ msgid "Realtime fractal zoomer"
-#~ msgstr "Zoom fractal en temps real"
 
-#~ msgid "Clone of ARCHON game"
-#~ msgstr "Clon del joc ARCHON"
 
-#~ msgid "XBill"
-#~ msgstr "XBill"
 
-#~ msgid "X blast"
-#~ msgstr "X blast"
 
-#~ msgid "CBM2 Emulator"
-#~ msgstr "Emulador de CBM2"
 
-#~ msgid "Commodore BM 2 Emulator"
-#~ msgstr "Emulador de Commodore BM 2"
 
-#~ msgid "CHM viewer for UNIX"
-#~ msgstr "Un visualitzador de CHM per UNIX"
 
-#~ msgid "XCircuit"
-#~ msgstr "XCircuit"
 
-#~ msgid "Siag text editor"
-#~ msgstr "Editor de text de Siag"
 
-#~ msgid "Xedplus"
-#~ msgstr "Xedplus"
 
-#~ msgid "Siag File manager"
-#~ msgstr "Gestor de fitxers de Siag"
 
-#~ msgid "Xfiler"
-#~ msgstr "Xfiler"
 
-#~ msgid "A mp3 playlist frontend"
-#~ msgstr "Gestor genèric de llistes de reproducció d'MP3"
 
-#~ msgid "XMakeMol"
-#~ msgstr "XMakeMol"
 
-#~ msgid "Xmorph"
-#~ msgstr "Xmorph"
 
-#~ msgid "Mr. Is, a Mr. Do clone for X"
-#~ msgstr "Mr. Is, un clon de Mr. Do per les X"
 
-#~ msgid "XMrIs"
-#~ msgstr "XMrIs"
 
-#~ msgid "Display penguins running on your desktop."
-#~ msgstr "Mostra tot de pingüins corrent per l'escriptori"
 
-#~ msgid "Xpenguins"
-#~ msgstr "Xpenguins"
 
-#~ msgid "Commodore PET Emulator"
-#~ msgstr "Emulador de Commodore PET"
 
-#~ msgid "PET Emulator"
-#~ msgstr "Emulador de PET"
 
-#~ msgid "Fly/shoot arcade game"
-#~ msgstr "Un joc arcade de pilotar i disparar"
 
-#~ msgid "Xpilot server"
-#~ msgstr "Servidor Xpilot"
 
-#~ msgid "Xpilot - Requires server"
-#~ msgstr "Xpilot - necessita el servidor"
 
-#~ msgid "X-Pired"
-#~ msgstr "X-Pired"
 
-#~ msgid "CPLUS4 Emulator"
-#~ msgstr "Emulador de CPLUS4"
 
-#~ msgid "Commodore PLUS4 Emulator"
-#~ msgstr "Emulador de Commodore PLUS4"
 
-#~ msgid "News reader"
-#~ msgstr "Lector de grups de notícies"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "Tool for manipulating software packages"
-#~ msgstr "Eina per manipular paquets de programari"
 
-#~ msgid "Cool arcade/thinking game very much like Lode Runner"
-#~ msgstr "Joc d'arcade de pensar, molt semblant al Lode Runner"
 
-#~ msgid "X-Scavenger"
-#~ msgstr "X-Scavenger"
 
-#~ msgid "Clone of Scorched Earth"
-#~ msgstr "Clon de Scorched Earth"
 
-#~ msgid "XScorch"
-#~ msgstr "XScorch"
 
-#~ msgid "Siag Office spreadsheet"
-#~ msgstr "Full de càlcul de Siag Office"
 
-#~ msgid "QT version of the C64 music player"
-#~ msgstr "Versió QT del reproductor de música del C64"
 
-#~ msgid "The Skat game"
-#~ msgstr "Joc Skat"
 
-#~ msgid "Shooting game on X Window System"
-#~ msgstr "Joc de tiradors per al sistema de finestres X"
 
-#~ msgid "X-Tux"
-#~ msgstr "X-Tux"
 
-#~ msgid "Commodore VIC 20 Emulator"
-#~ msgstr "Emulador de Commodore VIC 20"
 
-#~ msgid "VIC 20 Emulator"
-#~ msgstr "Emulador de VIC 20"
 
-#~ msgid "On-screen keyboard for X"
-#~ msgstr "Teclat en pantalla per les X"
 
-#~ msgid "Virtual Keyboard"
-#~ msgstr "Teclat virtual"
 
-#~ msgid "VOCP (VOCP Graphical voice message retrieval)"
-#~ msgstr "VOCP (Recuperació gràfica de missatges de veu VOCP)"
 
-#~ msgid "A level editor for DOOM"
-#~ msgstr "Editor de nivells per a DOOM"
 
-#~ msgid "Yadex"
-#~ msgstr "Yadex"
 
-#~ msgid "Real-time MIDI software synth"
-#~ msgstr "Sintetitzador de programari MIDI en temps real"
 
-#~ msgid "Lets you edit audio samples under gnome"
-#~ msgstr "Us permet editar mostres de so en el gnome"
 
-#~ msgid "Marlin Sample Editor"
-#~ msgstr "Editor de mostres Marlin"
 
-#~ msgid "Panel Manager"
-#~ msgstr "Gestor de quadres"
 
-#~ msgid "Compare and merge your files"
-#~ msgstr "Compareu i fusioneu fitxers."
 
-#~ msgid "Meld"
-#~ msgstr "Meld"
 
-#~ msgid "Maintain and query a SQL database"
-#~ msgstr "Manté i consulta una base de dades d'SQL"
 
-#~ msgid "Mergeant Database Administration"
-#~ msgstr "Administració de base de dades Mergeant"
 
-#~ msgid "Lightweight web browser"
-#~ msgstr "Navegador web lleuger"
 
-#~ msgid "Midori"
-#~ msgstr "Midori"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "It's the internet"
-#~ msgstr "És Internet"
 
-#~ msgid "Monkey Bubble"
-#~ msgstr "Monkey Bubble"
 
-#~ msgid "Monkey Bubble Arcade Game"
-#~ msgstr "Joc arcade Monkey Bubble"
 
-#~ msgid "MonoDevelop"
-#~ msgstr "MonoDevelop"
 
-#~ msgid "Mash monsters and save the gnomes"
-#~ msgstr "Xafa els monstre i salva els gnoms"
 
-#~ msgid "Monster Masher"
-#~ msgstr "Monster Masher"
 
-#~ msgid "Mousepad"
-#~ msgstr "Mousepad"
 
-#~ msgid "Listen to your music"
-#~ msgstr "Escolteu la vostra música"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Reproductor de música Muine"
 
-#~ msgid "MySQL Administrator"
-#~ msgstr "Administració de MySQL"
 
-#~ msgid "Add items to the Nautilus popup menu"
-#~ msgstr "Afegeix elements al menú emergent del Nautilus"
 
-#~ msgid "Nautilus Actions Configuration"
-#~ msgstr "Configuració de les accions del Nautilus"
 
-#~ msgid "C/C++ Debugger"
-#~ msgstr "Depurador de C/C++"
 
-#~ msgid "Nemiver Debugger"
-#~ msgstr "Depurador Nemiver"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "Configureu els dispositius de xarxa i les connexions"
 
-#~ msgid "A 3D arcade game with a ball"
-#~ msgstr "Un joc arcade en 3D amb una pilota com a protagonista"
 
-#~ msgid "Neverball"
-#~ msgstr "Neverball"
 
-#~ msgid "A 3D mini golf game"
-#~ msgstr "Un joc de minigolf en 3D"
 
-#~ msgid "Neverputt"
-#~ msgstr "Neverputt"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "Gestioneu i modifiqueu els paràmetres de connexió a la xarxa"
 
-#~ msgid "Network Connections"
-#~ msgstr "Connexions de xarxa"
 
-#~ msgid "NodeView"
-#~ msgstr "NodeView"
 
-#~ msgid "Downloader for X"
-#~ msgstr "Baixador per a X"
 
-#~ msgid "Enable/disable write support for NTFS with a simple click."
-#~ msgstr "Activa/Desactiva amb un clic el suport NTFS d'escriptura."
 
-#~ msgid "NTFS Configuration Tool"
-#~ msgstr "Eina de Configuració de NTFS"
 
-#~ msgid "Monitor TV programs"
-#~ msgstr "Monitoritza els programes de TV"
 
-#~ msgid "OnTV"
-#~ msgstr "OnTV"
 
-#~ msgid "Parole Media Player"
-#~ msgstr "Reproductor de suports Parole"
 
-#~ msgid "PHoto bATCH Processor"
-#~ msgstr "Processador de fotografías"
 
-#~ msgid "Phatch PHoto bATCH Processor"
-#~ msgstr "Phatch Processador de fotografías"
 
-#~ msgid "Pioneers Editor"
-#~ msgstr "Editor Pioneers"
 
-#~ msgid "Pioneers Server"
-#~ msgstr "Servidor Pioneers"
 
-#~ msgid "Pioneers"
-#~ msgstr "Pioneers"
 
-#~ msgid "Communicate over the Jabber network"
-#~ msgstr "Client Jabber"
 
-#~ msgid "Bibliography Manager"
-#~ msgstr "Gestió de bibliografies"
 
-#~ msgid "Manage bibliographic databases"
-#~ msgstr "Gestiona bases de dades bibliogràfiques"
 
-#~ msgid "Pybliographic Bibliography Manager"
-#~ msgstr "Gestor de bibliografia Pybliographic"
 
-#~ msgid "pydance"
-#~ msgstr "pydance"
 
-#~ msgid "QDVDAuthor"
-#~ msgstr "QDVDAuthor"
 
-#~ msgid "Quarry"
-#~ msgstr "Quarry"
 
-#~ msgid "Quod Libet"
-#~ msgstr "Quod Libet"
 
-#~ msgid "Search and replace using regular expressions"
-#~ msgstr "Cerqueu i reemplaceu utilitzant expressions regulars"
 
-#~ msgid "regexxer Search Tool"
-#~ msgstr "Eina de cerca de regexxer"
 
-#~ msgid "Organize and secure your passwords"
-#~ msgstr "Organitza i assegura les teves contrasenyes"
 
-#~ msgid "ripperX"
-#~ msgstr "ripperX"
 
-#~ msgid "Look at your photo's easily"
-#~ msgstr "Mira fàcilment les teves fotos"
 
-#~ msgid "Ristretto Photo Viewer"
-#~ msgstr "Visualitzador de fotografies Ristretto"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Scorched 3D"
-#~ msgstr "Scorched 3D"
 
-#~ msgid "Scorched Earth 3D OpenGL Remake"
-#~ msgstr "Remake en 3D i OpenGL de Scorched Earth"
 
-#~ msgid "Decrypt File"
-#~ msgstr "Desxifra un fitxer"
 
-#~ msgid "Import Key"
-#~ msgstr "Importa clau"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "Configura servidors de claus i altres paràmetres de xifratge"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "Xifratge i anells de claus"
 
-#~ msgid "Verify Signature"
-#~ msgstr "Verifica una signatura"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "Gestioneu les contrasenyes i claus de xifratge"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "Contrasenyes i claus de xifratge"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "Configureu els serveis que s'executaran quan s'iniciï el sistema"
 
-#~ msgid "Services"
-#~ msgstr "Serveis"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr ""
-#~ "Configura quines carpetes són visibles a altres ordinadors de la xarxa"
 
-#~ msgid "Shared Folders"
-#~ msgstr "Carpetes compartides"
 
-#~ msgid "Organize your photos"
-#~ msgstr "Shotwell Photo Manager"
 
-#~ msgid "Scan Documents"
-#~ msgstr "Escanegeu documents"
 
-#~ msgid "Simple Scan"
-#~ msgstr "Escaneig senzill"
 
-#~ msgid "Sirius"
-#~ msgstr "Sirius"
 
-#~ msgid "Convert audio files into other formats"
-#~ msgstr "Convertir arxius d'audio a d'altres formats"
 
-#~ msgid "Sound Converter"
-#~ msgstr "Sound Converter"
 
-#~ msgid "Archive manager"
-#~ msgstr "Gestor d'arxius"
 
-#~ msgid "Xfce archive manager"
-#~ msgstr "Gestor d'arxius d'Xfce"
 
-#~ msgid "Stopmotion"
-#~ msgstr "Stopmotion"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "Reprodueix fitxers d'Adobe Flash"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Reproductor de Flash Swfdec"
 
-#~ msgid "Proc Configuration"
-#~ msgstr "Configuració de /proc"
 
-#~ msgid "Change the default Java toolset"
-#~ msgstr "Canvia les eines Java per omissió"
 
-#~ msgid "Personal task manager"
-#~ msgstr "Gestor personal de tasques"
 
-#~ msgid "Tasks"
-#~ msgstr "Tasques"
 
-#~ msgid "To Do list"
-#~ msgstr "Llista de coses a fer"
 
-#~ msgid "Multiple terminals in one window"
-#~ msgstr "Múltiples terminals en una finestra"
 
-#~ msgid "Terminator"
-#~ msgstr "Terminator"
 
-#~ msgid "Thoggen DVD Ripper"
-#~ msgstr "Extractor de DVDs Thoggen"
 
-#~ msgid "Configure the Thunar file manager"
-#~ msgstr "Configura el gestor de fitxers Thunar"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "Canvieu l'hora, la data, i el fus horari del sistema"
 
-#~ msgid "Time and Date"
-#~ msgstr "Hora i data"
 
-#~ msgid "Simple DVD mastering GUI"
-#~ msgstr "IGU simple de creació de DVD"
 
-#~ msgid "TkDVD"
-#~ msgstr "TkDVD"
 
-#~ msgid "Trackballs"
-#~ msgstr "Trackballs"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "Client de Terminal Server"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "Un programa de dibuix per a nens."
 
-#~ msgid "Drawing program"
-#~ msgstr "Programa de dibuix"
 
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
 
-#~ msgid "Urlgfe"
-#~ msgstr "Urlgfe"
 
-#~ msgid "Users and Groups"
-#~ msgstr "Usuaris i grups"
 
-#~ msgid "Viking"
-#~ msgstr "Viking"
 
-#~ msgid "Manage virtual machines"
-#~ msgstr "Gestiona màquines virtuals"
 
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "Gestor de la màquina virtual"
 
-#~ msgid ""
-#~ "A translation tool to help a human translator translate files into other "
-#~ "languages"
-#~ msgstr ""
-#~ "Una eina de traducció per a ajudar un traductor humà a traduir fitxers en "
-#~ "altres llengües"
 
-#~ msgid "Virtaal"
-#~ msgstr "Virtaal"
 
-#~ msgid "Read, capture, broadcast your multimedia streams"
-#~ msgstr "Reproductor multimèdia VLC"
 
-#~ msgid "VLC media player"
-#~ msgstr "Reproductor multimèdia VLC"
 
-#~ msgid "Mobile Phone Manager"
-#~ msgstr "Gestor del Telèfon Mòbil"
 
-#~ msgid "Wammu"
-#~ msgstr "Wammu"
 
-#~ msgid "Wormux"
-#~ msgstr "Wormux"
 
-#~ msgid "IBM 3270 Terminal Emulator"
-#~ msgstr "Emulador de terminal IBM 3270"
 
-#~ msgid "X3270"
-#~ msgstr "X3270"
 
-#~ msgid "A GTK+2 only archive manager"
-#~ msgstr "Un gestor d’arxius GTK+2"
 
-#~ msgid "Xarchiver"
-#~ msgstr "Xarchiver"
 
-#~ msgid "Chat with people using IRC"
-#~ msgstr "Converseu amb altres persones a través de l'IRC"
 
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "Xat IRC de l'XChat-GNOME"
 
-#~ msgid "DOS emulator running under X"
-#~ msgstr "Emulador de DOS executat sota X"
 
-#~ msgid "Burn Image (xfburn)"
-#~ msgstr "Crema una imatge (xfburn)"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "Calendari d'escriptori"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Desktop "
-#~ msgstr "Escriptori "
 
-#~ msgid "Set desktop background and menu and icon behaviour"
-#~ msgstr ""
-#~ "Fixa el fons de l'escriptori i el comportament del menú i les icones"
 
-#~ msgid "Configure screen settings and layout"
-#~ msgstr "Configureu els paràmetres i format de la pantalla"
 
-#~ msgid "Edit keyboard settings and application shortcuts"
-#~ msgstr "Editeu els ajustaments del teclat i les dreceres d'aplicacions"
 
-#~ msgid "Configure pointer device behavior and appearance"
-#~ msgstr "Configura el comportament i aparença del punter del dispositiu"
 
-#~ msgid "Customize desktop startup and splash screen"
-#~ msgstr ""
-#~ "Personalitza l'inici de l'escriptori així com llur pantalla de presentació"
 
-#~ msgid "Session and Startup"
-#~ msgstr "Sessió i engegada"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "Gestor gràfic pels paràmetres d'Xfce 4"
 
-#~ msgid "Settings Manager"
-#~ msgstr "Gestor de paràmetres"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Gestor de paràmetres d'Xfce 4"
 
-#~ msgid "Customize the look of your desktop"
-#~ msgstr "Personalitza l'aparença del vostre escriptori"
 
-#~ msgid "Configure window behavior and shortcuts"
-#~ msgstr "Configura el comportament de les finestres i de les dreceres"
 
-#~ msgid "Fine-tune window behaviour and effects"
-#~ msgstr "Ajusta el comportament i els efectes de les finestres"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "Ajustaments avançats del gestor de finestres"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "Fixa el nombre i noms dels espais de treball"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "Paràmetres de calendari"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Paràmetres per l'aplicació de calendari d'Xfce4"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Paràmetres del calendari d'Xfce4"
 
-#~ msgid "About Xfce"
-#~ msgstr "Quant a Xfce"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "Informació sobre l’entorn d’escriptori Xfce"
 
-#~ msgid "Improve keyboard and mouse accessibility"
-#~ msgstr "Millora l'accessibilitat del teclat i ratolí"
 
-#~ msgid "Find and launch applications installed on your system"
-#~ msgstr "Cerca i executa aplicacions instaŀlades al sistema"
 
-#~ msgid "Clipboard manager"
-#~ msgstr "Gestor de porta-retalls"
 
-#~ msgid "Clipman"
-#~ msgstr "Porta-retalls «Clipman»"
 
-#~ msgid "A client program to query different dictionaries."
-#~ msgstr "Un programa client per fer consultes a diversos diccionaris."
 
-#~ msgid "Dictionary Client"
-#~ msgstr "Client de diccionari"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "Gestor de fitxers Thunar"
 
-#~ msgid "Help using Xfce"
-#~ msgstr "Ajuda usant Xfce"
 
-#~ msgid "Log Out"
-#~ msgstr "Surt"
 
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "Surt de l’escriptori Xfce"
 
-#~ msgid "Audio mixer for the Xfce Desktop Environment"
-#~ msgstr "Mesclador d'àudio per l'entorn d'escriptori Xfce"
 
-#~ msgid "Ideal for your quick notes"
-#~ msgstr "Ideal per notes ràpides"
 
-#~ msgid "Customize how notifications appear on your screen"
-#~ msgstr "Personalitza com es mostren les notificacions"
 
-#~ msgid "Customize the panel settings"
-#~ msgstr "Personalitza els ajustaments del quadre"
 
-#~ msgid "Power Manager"
-#~ msgstr "Gestor d'energia"
 
-#~ msgid "Settings for the Xfce 4 Power Manager"
-#~ msgstr "Ajustaments del gestor d'energia de Xfce 4"
 
-#~ msgid "Xfce 4 Power Manager"
-#~ msgstr "Gestor d'energia de Xfce 4"
 
-#~ msgid "Run Program..."
-#~ msgstr "Executa…"
 
-#~ msgid "Run a program"
-#~ msgstr "Executa un programa"
 
-#~ msgid "Screenshot"
-#~ msgstr "Captura"
 
-#~ msgid ""
-#~ "Take screenshots of the entire screen, of the active window or of a region"
-#~ msgstr ""
-#~ "Fes les captures de la pantalla sencera, de la finestra activa o d'una "
-#~ "regió"
 
-#~ msgid "Sensor Viewer"
-#~ msgstr "Visor de sensor"
 
-#~ msgid "Sensors Values Viewer"
-#~ msgstr "Visor de valors dels sensors"
 
-#~ msgid "Show sensor values."
-#~ msgstr "Mostra els valors del sensor."
 
-#~ msgid "Graphical settings editor for Xfconf"
-#~ msgstr "Editor gràfic de paràmetres de Xfconf"
 
-#~ msgid "Settings Editor"
-#~ msgstr "Editor de paràmetres"
 
-#~ msgid "Easy to use task manager"
-#~ msgstr "Gestor de tasques fàcil d'usar"
-
-#~ msgid "Terminal emulator"
-#~ msgstr "Emulador de terminal"
-
-#~ msgid "MPD client"
-#~ msgstr "Client MPD"
-
-#~ msgid "MPD client written in GTK+ for Xfce"
-#~ msgstr "Client MPD escrit en GTK+ per a Xfce"
-
-#~ msgid "Xfmpc"
-#~ msgstr "Xfmpc"
-
-#~ msgid "Print Manager"
-#~ msgstr "Gestor d'impressió"
-
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "Mostra el llistat d'impresores i us permet gestionar els treballs"
-
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "Gestor d'impressió Xfce4"
-
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr "Permet seleccionar el sistema d'impressió que usarà xfprint"
-
-#~ msgid "Printing System Settings"
-#~ msgstr "Paràmetres del sistema d'impressió"
-
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "Paràmetres del sistema d'impressió Xfce4"
-
-#~ msgid "Print Dialog"
-#~ msgstr "Diàleg d'impressió"
-
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "Imprimeix un fitxer i us permet configurar el seu format"
-
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "Diàleg d'impressió Xfce4"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "Notes engaxoses"
-
-#~ msgid "Xpaint"
-#~ msgstr "Xpaint"
-
-#~ msgid "Game Server Browser"
-#~ msgstr "Navegador de jocs"
-
-#~ msgid "Locate and connect to game servers"
-#~ msgstr "Cerqueu i connecteu-vos a servidors de jocs"
-
-#~ msgid "XQF Game Server Browser"
-#~ msgstr "Navegador de jocs XQF"

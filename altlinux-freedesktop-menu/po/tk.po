@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2004-05-25 17:47+0330\n"
 "Last-Translator: Nobody\n"
 "Language-Team: Turkmen\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -167,9 +167,8 @@ msgstr ""
 msgid "Chat"
 msgstr ""
 
-#, fuzzy
 msgid "Chemistry"
-msgstr "Geçmiş"
+msgstr ""
 
 msgid "Chemistry software"
 msgstr ""
@@ -524,9 +523,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "Seçenekler"
+msgstr ""
 
 msgid "Personal"
 msgstr ""
@@ -603,9 +601,8 @@ msgstr ""
 msgid "Screensavers"
 msgstr ""
 
-#, fuzzy
 msgid "Security"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Security tools"
 msgstr ""
@@ -814,59 +811,21 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
-#~ msgid "Information"
-#~ msgstr "Maglumat"
 
-#~ msgid "Accessories"
-#~ msgstr "Esbaplar"
 
-#~ msgid "Browse the web"
-#~ msgstr "Webi Ahtar"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "GNOME bilen ýardam tap"
 
-#~ msgid "Help"
-#~ msgstr "Ýardam"
 
-#~ msgid "Home Folder"
-#~ msgstr "Öý Haltasy"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Nişanlariňizi ahtariň we çäklendiriň"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Epiphany WEB Nyşanlary"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Web nişanlary"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "Home"
-#~ msgstr "Öy"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "Hejim derejesini tenzim et"
 
-#~ msgid "Windows"
-#~ msgstr "Äpişgeler"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Bir arşiwi bejerip üýtget"
 
-#~ msgid "About GNOME"
-#~ msgstr "GNOME barada"
 
-#~ msgid "Dasher"
-#~ msgstr "Däşer"
 
-#~ msgid "Edit text files"
-#~ msgstr "Metin faýllary editle"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"

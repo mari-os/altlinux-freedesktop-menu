@@ -13,10 +13,10 @@ msgstr ""
 "PO-Revision-Date: 1999-08-25 11:07+0200\n"
 "Last-Translator: Nobody\n"
 "Language-Team: se\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 #, fuzzy
 msgid "2D Graphics"
@@ -163,16 +163,14 @@ msgstr "Goartaspealut"
 msgid "Cards"
 msgstr "Goarttat"
 
-#, fuzzy
 msgid "Chart"
-msgstr "Goarttat"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
 
-#, fuzzy
 msgid "Chemistry"
-msgstr "Historihkka"
+msgstr ""
 
 msgid "Chemistry software"
 msgstr ""
@@ -271,9 +269,8 @@ msgstr "Čállinprográmmat"
 msgid "Education"
 msgstr "Oahpahus"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Sihkarvuohta"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -284,9 +281,8 @@ msgstr ""
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "KMail"
+msgstr ""
 
 #, fuzzy
 msgid "Email applications"
@@ -438,7 +434,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Logic Games"
-msgstr "Rogue-lágána spealut"
+msgstr "Logihkkaspeallu Blackbox"
 
 msgid "MIDI"
 msgstr ""
@@ -455,9 +451,8 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "KMines"
+msgstr ""
 
 msgid "Monitoring"
 msgstr ""
@@ -477,9 +472,8 @@ msgstr "Mediačuojan"
 msgid "Multimedia Recorders"
 msgstr "Multimedia"
 
-#, fuzzy
 msgid "Music"
-msgstr "Sáhpán"
+msgstr ""
 
 msgid "Musical software"
 msgstr ""
@@ -490,9 +484,8 @@ msgstr "Fierbmi"
 msgid "Network-related settings"
 msgstr ""
 
-#, fuzzy
 msgid "News"
-msgstr "KNotes"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -538,9 +531,8 @@ msgstr ""
 msgid "Parallel computing software"
 msgstr ""
 
-#, fuzzy
 msgid "Performance"
-msgstr "Oidimat"
+msgstr ""
 
 #, fuzzy
 msgid "Personal"
@@ -727,7 +719,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Text tools"
-msgstr "Reaiddut"
+msgstr "Čállinprográmma"
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
@@ -843,365 +835,126 @@ msgstr ""
 msgid "chat clients"
 msgstr "E-boastaprográmma"
 
-#~ msgid "Edutainment"
-#~ msgstr "Stoahkan ja oahppan"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Feará mii"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "X Window-reaiddut"
 
-#~ msgid "X-Utilities"
-#~ msgstr "X-reaiddut"
 
-#~ msgid "Advanced"
-#~ msgstr "Viiddiduvvon"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Dárkilis heivehusat"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Gávdnon ja láhppon"
 
-#~ msgid "Information"
-#~ msgstr "Diehtu"
 
-#~ msgid "PIM"
-#~ msgstr "Peršuvnnalaš diehtogieđahalli"
 
-#~ msgid "Science & Math"
-#~ msgstr "Dieđa ja matematihkka"
 
-#~ msgid "Peripherals"
-#~ msgstr "Ovttadagat"
 
-#~ msgid "File"
-#~ msgstr "Fiila"
 
-#~ msgid "KDE Menu"
-#~ msgstr "KDE-fállu"
 
-#~ msgid "Control Center"
-#~ msgstr "Stivrenguovddáš"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Govvačájeheaddji"
 
-#~ msgid "Appearance"
-#~ msgstr "Fárda"
 
-#~ msgid "Text Editor"
-#~ msgstr "Čállinprográmma"
 
-#~ msgid "Office Suite"
-#~ msgstr "Kántuvrapáhkka"
 
-#~ msgid "Help"
-#~ msgstr "Veahkki"
 
-#~ msgid "Home Folder"
-#~ msgstr "Ruoktumáhppa"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Fálloođasmahttin-reaidu"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Ivdneválljejeaddji"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KDE-ivdneválljejeaddji"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Hangman Game"
-#~ msgstr "Hangman speallu"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Geavaheaddjiid gieđahalli"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "Šearpmalinjála"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Šearbmagovvenprográmma"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Kaleandar- ja plánenprográmma"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Home"
-#~ msgstr "Ruoktu"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Buđetolmmái"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "Reaidu mii čájeha boares čuohppusiid"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Čuohpusgirjereaidu"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "Card Game"
-#~ msgstr "Goartaspeallu"
 
-#~ msgid "CD Player"
-#~ msgstr "CD-čuojaheaddji"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Čállinbeavdejuohkkin"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shisen-Sho"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "Shisen-Sho Mahjongg-lágan bihttáspeallu"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "Panelaprográmmaža mainna rievdada šearpma sturrodaga ja joraheami"
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "Rievdat šearbmasturrodaga ja jorat šearpma"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsolla"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "Duolbbášspeallu reversi"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Fierpmádatmáhppaofelaš"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "Logihkkaspeallu Blackbox"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "Sokoban-lágan logihkkaspeallu"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "Kabálaspeallu"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "Persuvnnalaš diehtogieđaheapmi"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "Sátnehárjeheapmi"
 
-#~ msgid "KFontView"
-#~ msgstr "Fontačájeheaddji"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Funkšuvdnasárgojeaddji"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Čállenbeavdeplánetaria"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Info Center"
-#~ msgstr "Diehtoguovddáš"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "Change Password"
-#~ msgstr "Rievdat beassansáni"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "Japánalaš giellareaidu"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "Jietnamixer"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "Minigolfa"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Trash"
-#~ msgstr "Ruskalihtti"
 
-#~ msgid "Board Game"
-#~ msgstr "Duolbbášspeallu"
 
-#~ msgid "SameGame"
-#~ msgstr "SameGame"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Erenoamáš čállinprográmma"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "KNode"
-#~ msgstr "KNode"
 
-#~ msgid "News Reader"
-#~ msgstr "Ođaslogan"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Fállodoaimmaheaddji"
 
-#~ msgid "Music Player"
-#~ msgstr "Ljudspelare"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Oza fiillaid dahje máhpaid"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Fiilagieđahalli - Supergeavaheaddjidoibmanvuohki"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "Bustávvaortnetspeallu"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Jođánisboalut"
 
-#~ msgid "Windows"
-#~ msgstr "Láset"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "DjVu-čájeheaddji"
 
-#~ msgid "Keyboard"
-#~ msgstr "Boallobeavdi"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Page Layout"
-#~ msgstr "Siidofárda"
 
-#~ msgid "KThesaurus"
-#~ msgstr "KThesaurus"
 
-#~ msgid "Karbon14"
-#~ msgstr "Karbon14"
 
-#~ msgid "Krita"
-#~ msgstr "Krita"
 
-#~ msgid "Kexi"
-#~ msgstr "Kexi"
 
-#~ msgid "Live Messenger Client"
-#~ msgstr "MSN-klienta"
 
-#~ msgid "Administrator tool for OpenVPN"
-#~ msgstr "Administrations Frontend für OpenVPN"
 
-#~ msgid "OpenVPN-Admin"
-#~ msgstr "OpenVPN-Admin"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "Terminalserver-klient"
+
+
+

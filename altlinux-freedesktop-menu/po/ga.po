@@ -1,16 +1,23 @@
-# Menu section translation
-# Copyright (C) 2007 
-# This file is distributed under the same license as the menu package.
-# Bill Allombert <ballombe@debian.org>, 2007.
 #
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ga.php3
+#
+# Collection of titles/sections of Linux-Mandrake menu's.
+# It's generated from the /usr/lib/menu/* files.
+#
+# Copyright (C) 2000 MandrakeSoft
+# Sean Kelley <skelley@planetkc.com>, 1999
+# Proinnsis Breathnach <breatpro@dublin.ml.com>, 2000
+# Alastair McKinstry <mckinstry@computer.org>, 2000
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.35\n"
+"Project-Id-Version: menu-messages 0.1\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-05-11 15:27+0100\n"
-"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"PO-Revision-Date: 1999-08-25 11:07+0200\n"
+"Last-Translator: Alastair McKinstry <mckinstry@computer.org>,\n"
+"Language-Team: Gaeilge <ga@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,48 +26,52 @@ msgstr ""
 msgid "2D Graphics"
 msgstr "Grafaic"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "Feidhmchláir grafaice"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "Grafaic"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "Feidhmchláir grafaice"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "Bainisteoireacht Comhad"
+msgstr "Cluichí agus siamsaíochtaí"
 
 msgid "Accessibility"
 msgstr "Inrochtaineacht"
 
+#, fuzzy
 msgid "Action"
-msgstr "Aicsean"
+msgstr "Oideachas"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "Aicsean"
+msgstr "Cluiche Taicticiúil"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
-msgstr "Riarachán"
+msgstr "Riaracháin"
 
 msgid "Adventure"
-msgstr "Eachtraíocht"
+msgstr "Eachtra"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "Eachtraíocht"
+msgstr "Eachtra"
 
 msgid "Amateur Radio"
-msgstr "Raidió Amaitéarach"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
@@ -84,14 +95,17 @@ msgstr ""
 msgid "Arcade"
 msgstr "Stuara Siamsa"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "Cluiche Stuara Buamála"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Uirlis Chartlannaithe"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -109,14 +123,17 @@ msgstr "Réalteolaíocht"
 msgid "Audio Editing"
 msgstr ""
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "Seinnteoir Fuaime"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "Taifeadán Fuaime"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "Cúltacaí"
 
 msgid "Biology"
 msgstr "Bitheolaíocht"
@@ -125,16 +142,15 @@ msgstr "Bitheolaíocht"
 msgid "Biology software"
 msgstr "Bitheolaíocht"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Bloic"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Cluichí Cláir"
 
 #, fuzzy
 msgid "Boards"
-msgstr "Clár"
+msgstr "Fidcheall"
 
 msgid "Building"
 msgstr ""
@@ -144,10 +160,11 @@ msgstr "Áireammhán"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "Aithriseoirí"
+msgstr "Áireammhán"
 
+#, fuzzy
 msgid "Calendar"
-msgstr ""
+msgstr "KonsoleKalendar"
 
 msgid "Camera tools, etc."
 msgstr ""
@@ -160,7 +177,7 @@ msgstr "Cartaí"
 
 #, fuzzy
 msgid "Chart"
-msgstr "Cárta"
+msgstr "KCharSelect"
 
 msgid "Chat"
 msgstr ""
@@ -174,11 +191,11 @@ msgstr "Ceimic"
 
 #, fuzzy
 msgid "Clock"
-msgstr "Bloic"
+msgstr "KBlocks"
 
 #, fuzzy
 msgid "Communications"
-msgstr "Cumarsáid"
+msgstr "Feidhmchláir"
 
 msgid "Compression"
 msgstr ""
@@ -186,28 +203,32 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Riomheolaíocht"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "Riomheolaíocht"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "Riomheolaíocht"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "Geolaíocht"
+msgstr "Riomheolaíocht"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "Eagarthóir an Socrú"
 
 #, fuzzy
 msgid "Construction"
-msgstr "Cumarsáid"
+msgstr "Cluiche Tógála Líonra"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
+#, fuzzy
 msgid "Data Visualization"
-msgstr ""
+msgstr "Idirnáisiúnú"
 
 msgid "Data visualization software"
 msgstr ""
@@ -217,7 +238,7 @@ msgstr "Bunachair Sonraí"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "Feidhmchláir"
+msgstr "Feidhmchláir Breise"
 
 msgid "Desktop"
 msgstr "Deasc"
@@ -225,23 +246,27 @@ msgstr "Deasc"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "Giuirléidí Deisce"
 
 msgid "Development"
 msgstr "Forbairt"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "Timpeallacht fhorbartha (La)TeX"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "Clár líníochta"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "Foclóir"
 
 msgid "Dictionary"
 msgstr "Foclóir"
@@ -267,13 +292,13 @@ msgstr "Oideachas"
 
 #, fuzzy
 msgid "Electricity"
-msgstr "Leictreonaic"
+msgstr "Metacity"
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr "Leictreonaic"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -283,49 +308,54 @@ msgstr ""
 
 #, fuzzy
 msgid "Email applications"
-msgstr "Feidhmchláir"
+msgstr "Feidhmchláir grafaice"
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Aithriseoirí"
+msgstr "Iomaitheoirí"
 
 msgid "Engineering"
-msgstr "Innealtóireacht"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "Bloic"
+msgstr "Cluiche le bloic atá ag titim"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "Cluiche le bloic atá ag titim"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "Bainisteoireacht Comhad"
+msgstr "Bainisteoir Chomhad"
 
 #, fuzzy
 msgid "File Systems"
 msgstr "Córas"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "Aistriú Comhad"
+msgstr "Bainisteoir Chomhad"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "Uirlisí Córais"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "Uirlisí Teacs"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "Eolaíochtaí"
 
 msgid "Flow Chart"
 msgstr ""
@@ -333,11 +363,13 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Dearthóir Comhéadain"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "Feidhmchláir grafaice"
 
 msgid "Games"
 msgstr "Cluichí"
@@ -348,8 +380,9 @@ msgstr "Cluichí agus siamsaíochtaí"
 msgid "Games for Kids"
 msgstr "Cluichí do Pháistí"
 
+#, fuzzy
 msgid "Geography"
-msgstr ""
+msgstr "KGeography"
 
 #, fuzzy
 msgid "Geology"
@@ -358,16 +391,16 @@ msgstr "Bitheolaíocht"
 msgid "Geology software"
 msgstr ""
 
-msgid "Geoscience"
-msgstr "Geolaíocht"
-
 #, fuzzy
+msgid "Geoscience"
+msgstr "Eolaíocht"
+
 msgid "Geoscience software"
-msgstr "Geolaíocht"
+msgstr ""
 
 #, fuzzy
 msgid "Geosciences"
-msgstr "Geolaíocht"
+msgstr "Eolaíochtaí"
 
 msgid "Graphics"
 msgstr "Grafaic"
@@ -376,19 +409,21 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "Crua-Earraí"
+msgstr "Crua-earraí"
 
 msgid "History"
 msgstr "Stair"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "Cliant IRC"
 
 msgid "Image Processing"
 msgstr ""
@@ -396,18 +431,20 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Clár teachtaireachtaí meandaracha"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "Clár teachtaireachtaí meandaracha"
 
 msgid "Internet"
 msgstr "Idirlíon"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "Feidhmchláir"
+msgstr "Feidhmchláir Breise"
 
 msgid "Java"
 msgstr ""
@@ -442,24 +479,26 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Amharcáin"
+msgstr ""
 
 msgid "Monitoring"
-msgstr "Monatóireacht"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Ilmheáin"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "Roghchlár ilmheán"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "Taispeántóir Ilmheán"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "Taispeántóir Ilmheán"
 
 msgid "Music"
 msgstr ""
@@ -473,16 +512,14 @@ msgstr "Líonra"
 msgid "Network-related settings"
 msgstr "Socruithe líon-gaolta"
 
-#, fuzzy
 msgid "News"
-msgstr "Nuacht Ghréasáin"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
 
-#, fuzzy
 msgid "Numeric Analysis"
-msgstr "Anailís ar Shonraí"
+msgstr ""
 
 msgid "Numerical analysis software"
 msgstr ""
@@ -504,18 +541,18 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "Ríomhchlárú"
+msgstr "Clár Péinteála"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "Bainisteoireacht Pacáistí"
+msgstr "Feidhmchlár Scanta Íomhánna"
 
 #, fuzzy
 msgid "Packaging"
-msgstr "Glasáil"
+msgstr "KPackageKit"
 
 msgid "Parallel Computing"
 msgstr ""
@@ -529,8 +566,9 @@ msgstr ""
 msgid "Personal"
 msgstr "Pearsanta"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "KGeography"
 
 msgid "Physics"
 msgstr "Fisic"
@@ -542,17 +580,20 @@ msgstr "Fisic"
 msgid "Preferences"
 msgstr "Sainroghanna"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "Toirbeathas"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "Toirbeathas"
 
 msgid "Printing"
 msgstr "Printáil"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "Uirlis Chartlannaithe"
 
 msgid "Project Management"
 msgstr "Bainisteoireacht Tionscadal"
@@ -571,17 +612,21 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "Grafaic"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "Feidhmchláir grafaice"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "Deasc Chianda"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "Rialú Airde"
 
+#, fuzzy
 msgid "Robotics"
-msgstr ""
+msgstr "Robots"
 
 msgid "Robotics software"
 msgstr ""
@@ -592,9 +637,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "Sábháil"
+msgstr ""
 
 msgid "Science"
 msgstr "Eolaíocht"
@@ -609,18 +653,19 @@ msgstr "Slándáil"
 msgid "Security tools"
 msgstr "Slándáil"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "Eolaíochtaí"
 
 msgid "Settings"
 msgstr "Socruithe"
 
-msgid "Simulation"
-msgstr "Insamhladh"
-
 #, fuzzy
+msgid "Simulation"
+msgstr "Oideachas"
+
 msgid "Simulation Games"
-msgstr "Insamhladh"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
@@ -635,23 +680,25 @@ msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "Fuaim"
+msgstr "Glóir"
 
 msgid "Sports"
 msgstr "Sport"
 
+#, fuzzy
 msgid "Sports Games"
-msgstr ""
+msgstr "Cluichí Cláir"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "Leathanach tacaíocht Gnumeric"
 
 msgid "Strategy"
-msgstr "Straitéis"
+msgstr "Stratéis"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "Straitéis"
+msgstr "Stratéis"
 
 msgid "System"
 msgstr "Córas"
@@ -666,11 +713,11 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
-msgstr "Teilifís agus Raidió"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "Teilifís agus Raidió"
+msgstr "Feidhmchláir grafaice"
 
 #, fuzzy
 msgid "TV applications"
@@ -682,8 +729,9 @@ msgstr "Uirlisí Múinteoireachta"
 msgid "Telephony"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "Uirlisí Teacs"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -693,14 +741,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Aithriseoirí Teirminéil"
+msgstr "Feidhmchláir Teirminéil"
 
 #, fuzzy
 msgid "Terminals"
-msgstr "Aithriseoirí Teirminéil"
+msgstr "Terminéal"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "Uirlisí Teacs"
 
 msgid "Text tools"
 msgstr "Uirlisí Teacs"
@@ -711,8 +760,9 @@ msgstr ""
 msgid "Tools"
 msgstr "Uirlisí"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "Uirlisí le forbairt bogearraí"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -720,11 +770,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "Roghnaigh d'fheidhmchláir réamhshocraithe"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "Roghnaigh d'fheidhmchláir réamhshocraithe"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -732,8 +784,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "Cumraigh printéirí"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -745,1959 +798,691 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Bréagáin"
+msgstr "Áilleagáin"
 
 msgid "Translation"
 msgstr "Aistriúchán"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "Aistriúchán"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "Teagascóir Clóscríofa Tadhaill"
 
 #, fuzzy
 msgid "Vector Graphics"
 msgstr "Grafaic"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "Feidhmchláir grafaice"
 
 msgid "Video"
-msgstr "Fís"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "Sainroghanna"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "Amharcáin"
+msgstr "Seinnteoir Físe"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "Taifeadán Fuaime"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "Amharcáin"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "Brabhsáil an Ghréasáin"
+msgstr "Brabhsálaí Lín"
 
+#, fuzzy
 msgid "Web Browsing"
-msgstr "Brabhsáil an Ghréasáin"
+msgstr "Brabhsálaí Lín"
 
 msgid "Web Development"
 msgstr "Forbairt Ghréasáin"
 
-#, fuzzy
 msgid "Web Publishing"
-msgstr "Brabhsáil an Ghréasáin"
-
-msgid "Wordprocessors"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "Próiseálaithe Focal"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "Cliant Ríomhphoist"
 
-#~ msgid "Data Management"
-#~ msgstr "Bainisteoireacht Sonraí"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "Gléasanna Móibíleacha"
 
-#~ msgid "Medicine"
-#~ msgstr "Leigheas"
 
-#~ msgid "Social"
-#~ msgstr "Sóisialta"
 
-#~ msgid "Shells"
-#~ msgstr "Blaoscanna"
 
-#~ msgid "Language Environment"
-#~ msgstr "Timpeallacht Teanga"
 
-#~ msgid "Text"
-#~ msgstr "Téacs"
 
-#~ msgid "Puzzles"
-#~ msgstr "Puzail"
 
-#~ msgid "Help"
-#~ msgstr "Cabhair"
 
-#~ msgid "Window Managers"
-#~ msgstr "Bainisteoirí Fuinneog"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "Modúil FVWM"
 
-#~ msgid "Window Maker"
-#~ msgstr "Déantóir Fuinneog"
 
-#~ msgid "Appearance"
-#~ msgstr "Cuma"
 
-#~ msgid "WorkSpace"
-#~ msgstr "Spás Oibre"
 
-#~ msgid "Iceape Components"
-#~ msgstr "Comhpháirteanna Iceape"
 
-#~ msgid "Teddies"
-#~ msgstr "Béiríní"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> Feidhmchláir"
 
-#~ msgid "Edutainment"
-#~ msgstr "Oideachluichí"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "Éagsúil"
 
-#~ msgid "Utilities"
-#~ msgstr "Uirlisí"
 
-#~ msgid "Programming"
-#~ msgstr "Ríomhchlárú"
 
-#~ msgid "Servers"
-#~ msgstr "Freastalaithe"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "Uirlisí Fuinneoga X"
 
-#~ msgid "X-Utilities"
-#~ msgstr "Uirlisí X"
 
-#~ msgid "Wine"
-#~ msgstr "Wine"
 
-#~ msgid "Advanced"
-#~ msgstr "Casta"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "Suíomh ag na Réamhíocaíocht"
 
-#~ msgid "Lost & Found"
-#~ msgstr "Caillte agus Aimsithe"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "Beartaíocht agus Straitéisí"
 
-#~ msgid "Information"
-#~ msgstr "Eolas"
 
-#~ msgid "Personal preferences"
-#~ msgstr "Sainroghanna pearsanta"
 
-#~ msgid "Accessories"
-#~ msgstr "Oiriúintí"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "Oiriúintí deisce"
 
-#~ msgid "PIM"
-#~ msgstr "PIM"
 
-#~ msgid "Science & Math"
-#~ msgstr "Eolaíocht & Matamaitic"
 
-#~ msgid "Peripherals"
-#~ msgstr "Forimeallaigh"
 
-#~ msgid "Look and Feel"
-#~ msgstr "Cuma"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "Socruithe ag rialú cuma agus oibriú an deisce"
 
-#~ msgid "File"
-#~ msgstr "Comhad"
 
-#~ msgid "Personal settings"
-#~ msgstr "Socruithe pearsanta"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "Téamaí spárálaí scáileáin"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "Cumraíocht agus faireachán córais"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "Socruithe do roinnt gléis chrua-earraí"
 
-#~ msgid "KDE Menu"
-#~ msgstr "Roghchlár KDE"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "Sainroghanna pearsanta agus socruithe riaracháin"
 
-#~ msgid "Universal Access"
-#~ msgstr "Rochtain Uilíoch"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "Socruithe Rochtana Uilíoch"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "Athraigh socruithe ar fud an córais (tionchar ar gach úsáideoir)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "Fuaim & Fiseán"
 
-#~ msgid "Internet and Network"
-#~ msgstr "Idirlíon agus Líon"
 
-#~ msgid "Control Center"
-#~ msgstr "Lárionad Rialaithe"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "Cluichí cosúil le Rogue"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "Feidhmchláir le rochtain idirlín mar gréasán agus ríomhphost"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "Feidhmchláir nár oiriúnaigh i gcatagóirí eile"
 
-#~ msgid "Office Applications"
-#~ msgstr "Feidhmchláir Oifige"
 
-#~ msgid ".hidden"
-#~ msgstr ".hidden"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Audacity"
-#~ msgstr "Audacity"
 
-#~ msgid "Five or More"
-#~ msgstr "Cúig nó Níos Mó"
 
-#~ msgid "System Monitor"
-#~ msgstr "Monatóir Corais"
 
-#~ msgid "Image Viewer"
-#~ msgstr "Taispeán íomhanna"
 
-#~ msgid "Media Player"
-#~ msgstr "Seinnteoir Meán"
 
-#~ msgid "About Me"
-#~ msgstr "Maidir Liom"
 
-#~ msgid "Set your personal information"
-#~ msgstr "Socraigh d'eolas pearsanta"
 
-#~ msgid "Brasero"
-#~ msgstr "Brasero"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "Cruthaigh agus cóipeáil CDanna agus DVDanna"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "Athraigh na feidhmchláir atá taispeánta sa phríomhroghchlár"
 
-#~ msgid "Main Menu"
-#~ msgstr "Príomhroghchlár"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "Brabhsáil an Líon"
 
-#~ msgid "Character Map"
-#~ msgstr "Mapa Carachtar"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "Ionsáigh carachtair speisialta isteach i gcáipéisí"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "PySOL"
-#~ msgstr "PySOL"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "Saincheap cuma na deisce"
 
-#~ msgid "Search for Files..."
-#~ msgstr "Cuardaigh ar Chomhaid..."
 
-#~ msgid "Panel"
-#~ msgstr "Painéal"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "Méarchlár Scáileáin"
 
-#~ msgid "Lookup words"
-#~ msgstr "Déan cuardach ar fhocail"
 
-#~ msgid "StarDict"
-#~ msgstr "StarDict"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "Asbhainteoir CDanna Fuaime"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "Cóipeáil ceol ó do chuid CDanna"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "Cruthaitheoir CD/DVD"
 
-#~ msgid "Device Manager"
-#~ msgstr "Bainisteoir na nGléas"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "Feidhmchláir de Rogha"
 
-#~ msgid "Klotski"
-#~ msgstr "Klotski"
 
-#~ msgid "Chess"
-#~ msgstr "Ficheall"
 
-#~ msgid "Simple text editor"
-#~ msgstr "Eagarthóir simplí"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "Brábhsáil suíomh líonra leabharmharcáilte agus logánta"
 
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "Cumraigh socruithe Bluetooth"
 
-#~ msgid "Text Editor"
-#~ msgstr "Eagarthóir Téacs"
 
-#~ msgid "Disk Utility"
-#~ msgstr "Uirlis Diosca"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "Bainistigh Tiomántáin agus Meáin"
 
-#~ msgid "Office Suite"
-#~ msgstr "Sraith Feidhmchlár Oifige"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "Brabhsáil agus rothlaigh íomhánna"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "Tóg Scáilghraf"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "Brabhsáil an córas comhad leis an mbainisteoir comhad"
 
-#~ msgid "File Browser"
-#~ msgstr "Brabhsálaí Comhad"
 
-#~ msgid "IDE for Python"
-#~ msgstr "IDE do Python"
 
-#~ msgid "Theme Installer"
-#~ msgstr "Suiteálaí Téamaí"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "Faigh cabhair le haighaidh GNOME"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "Chlóig Dali"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "Teicneolaíochtaí Oiriúnaitheacha"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr ""
-#~ "Roghnaigh na gnéithe inrochtaineachta le cumasú nuair a logálann tú "
-#~ "isteach"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "Seiceáil méideanna fillteán agus spás diosca le fáil"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "Anailíseoir Úsáid Diosca"
 
-#~ msgid "Movie Player"
-#~ msgstr "Seinnteoir Scannán"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "Cas scannán agus ceol"
 
-#~ msgid "Document Viewer"
-#~ msgstr "Amharcán Cáipéisí"
 
-#~ msgid "Home Folder"
-#~ msgstr "Comhadlann Baile"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "Oscail d'fhillteán pearsanta"
 
-#~ msgid "Tetravex"
-#~ msgstr "Tetravex"
 
-#~ msgid "Mures"
-#~ msgstr "Mures"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "Déan rochtain ar dheasca cianda"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "Amharcán Deasc Cianda"
 
-#~ msgid "Metacity"
-#~ msgstr "Metacity"
 
-#~ msgid "Search"
-#~ msgstr "Cuardaigh"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "Fetchmailconf"
 
-#~ msgid "ClanBomber"
-#~ msgstr "ClanBomber"
 
-#~ msgid "R"
-#~ msgstr "D"
 
-#~ msgid "Pop art squares"
-#~ msgstr "Cearnóga pop-ealaíne"
 
-#~ msgid "Pictures folder"
-#~ msgstr "Fillteán pictiúr"
 
-#~ msgid "Floating Feet"
-#~ msgstr "Cosa ar Snámh"
 
-#~ msgid "Cosmos"
-#~ msgstr "Cosmas"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "Brábhsáil gach diosca logánta agus cianda agus fillteáin inrochtana ón "
-#~ "ríomhaire seo"
 
-#~ msgid "Computer"
-#~ msgstr "Ríomhaire"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "Taispeán an Domhain (Xearth)"
 
-#~ msgid "Xearth"
-#~ msgstr "Domhain"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "Sracléigh agus cóirigh do chuid leabharmharcanna"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Leabharmharcanna Gréasáin Epiphany"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "Leabharmharcanna Lín"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "Cluiche gníomhaíochta agus réiteach puzal"
 
-#~ msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
-#~ msgstr "Téigh sa Tóir ar Ór, Seachain Naimhde, agus Réitigh Puzail"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "Uirlis Nuashonraithe Roghchláir"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "KDiamond"
-#~ msgstr "KDiamond"
 
-#~ msgid "Three-in-a-row game"
-#~ msgstr "Cluiche boird trí-cinn-as-a-chéile"
 
-#~ msgid "KSnake"
-#~ msgstr "KSnake"
 
-#~ msgid "Snake-like Game"
-#~ msgstr "Cluiche Cosúil le Snake"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "Roghnóir Dathanna"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KColorChooser"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "Tábla Peiriadach KDE"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "An Tábla Peiriadach"
 
-#~ msgid "Hangman Game"
-#~ msgstr "Crochadóir"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "Crochadóir KDE"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Contact Manager"
-#~ msgstr "Bainisteoir na dTeagmhálacha"
 
-#~ msgid "KPhotoAlbum"
-#~ msgstr "KPhotoAlbum"
 
-#~ msgid "Photo Album"
-#~ msgstr "Albam Grianghraf"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "Amharcán simplí íomhánna"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Kiriki"
-#~ msgstr "Kiriki"
 
-#~ msgid "Yahtzee-like Dice Game"
-#~ msgstr "Cluiche Dísle cosúil le Yahtzee"
 
-#~ msgid "KUser"
-#~ msgstr "KUser"
 
-#~ msgid "User Manager"
-#~ msgstr "Bainisteoir Úsáideora"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "KJumpingCube"
 
-#~ msgid "Territory Capture Game"
-#~ msgstr "Cluiche Gabhála Talaimh"
 
-#~ msgid "Galactic Strategy Game"
-#~ msgstr "Cluiche Réaltrach Straitéise"
 
-#~ msgid "Konquest"
-#~ msgstr "Konquest"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr ""
-#~ "Feidhmchlár le luaschártaí a chabhraíonn leat do stór focal a fheabhsú"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "Oiliúnóir Luaschártaí"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "AmaroK"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - Athaimsigh do chuid Ceoil!"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "Comhéadan ar CVS"
 
-#~ msgid "Cervisia"
-#~ msgstr "Cervista"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "Rialóir Scáileáin"
 
-#~ msgid "KSnapshot"
-#~ msgstr "KSnapshot"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "Clár gabhála scáileáin"
 
-#~ msgid "Character Selector"
-#~ msgstr "Roghnóir Carachtar"
 
-#~ msgid "Konqueror"
-#~ msgstr "Konqueror"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "Foghlaim an Aibítir"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "Clár KDE chun an aibítir a fhoghlaim"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "Ríomhchlár Sceidealta/Féilire"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "Eagraí Pearsanta"
 
-#~ msgid "Home"
-#~ msgstr "Baile"
 
-#~ msgid "Personal Files"
-#~ msgstr "Comhaid Phearsanta"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Space Arcade Game"
-#~ msgstr "Cluiche Stuara Spáis"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "Léitheoir Fothaí KDE"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "Léitheoir Fothaí"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "Eagarthóir Mapaí Íomhá HTML"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "Seiceálaí Nasc"
 
-#~ msgid "KJots"
-#~ msgstr "Notaí"
 
-#~ msgid "Note Taker"
-#~ msgstr "Eagarthóir Nótaí"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "Clár tosaigh an sintéiseoir cainte"
 
-#~ msgid "Konversation"
-#~ msgstr "Konversation"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "Inneall a chruthaíonn maisíochtaí idirghníomhacha ar an deasc."
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Picture Game for Children"
-#~ msgstr "Cluiche Pictiúir do Phaistí"
 
-#~ msgid "Potato Guy"
-#~ msgstr "Aghaidh Prátaí"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "Uirlis staire gearrtha agus greamaithe"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "Uirlis Ghearrthaisce"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "Battleship Game"
-#~ msgstr "Cluiche cosúil le \"Battleship\""
 
-#~ msgid "KBattleship"
-#~ msgstr "KBattleship"
 
-#~ msgid "Go Board Game"
-#~ msgstr "Cluiche Cláir Go"
 
-#~ msgid "Kigo"
-#~ msgstr "Kigo"
 
-#~ msgid "Card Game"
-#~ msgstr "Cluiche Cártaí"
 
-#~ msgid "LSkat"
-#~ msgstr "LSkat"
 
-#~ msgid "CD Player"
-#~ msgstr "Seinnteoir CD"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid "showFoto"
-#~ msgstr "showFoto"
 
-#~ msgid "Bomber"
-#~ msgstr "Bomber"
 
-#~ msgid "Bomberman clone"
-#~ msgstr "Clón de Bomberman"
 
-#~ msgid "Granatier"
-#~ msgstr "Granatier"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "Áireamhán Grafach"
 
-#~ msgid "KAlgebra"
-#~ msgstr "KAlgebra"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "Réiteoir agus Breacaire Sloinn Mhatamaiticiúla"
 
-#~ msgid "Qt Designer UI File Viewer"
-#~ msgstr "Amharcán Comhad Qt Designer"
 
-#~ msgid "3-D Game based on Rubik's Cube"
-#~ msgstr "Cluiche 3T bunaithe ar Chiúb Rubik"
 
-#~ msgid "A 3-D game based on Rubik's Cube"
-#~ msgstr "Cluiche 3T bunaithe ar Chiúb Rubik"
 
-#~ msgid "Kubrick"
-#~ msgstr "Kubrick"
 
-#~ msgid "KAppTemplate"
-#~ msgstr "KAppTemplate"
 
-#~ msgid "KDE Template Generator"
-#~ msgstr "Gineadóir Teimpléad KDE"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "Roinnt Deisce"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KsirK Skin Editor"
-#~ msgstr "Eagarthóir Craicinn KsirK"
 
-#~ msgid "Skin Editor for the World Domination Strategy Game"
-#~ msgstr "Eagarthóir Craicinn do Chluiche Fhorlámhas an Domhain"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "Treoraí Groupware KDE"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "Shinsen-Sho"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "Cluiche Tíleanna Shisen-Sho, cosúil le Mahjongg"
 
-#~ msgid "Desktop Search"
-#~ msgstr "Cuardach Deisce"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "Cluiche feabhsaithe cuimhne"
 
-#~ msgid "Blinken"
-#~ msgstr "Blinken"
 
-#~ msgid "Memory Enhancement Game"
-#~ msgstr "Cluiche Feabhsaithe Cuimhne"
 
-#~ msgid "KSudoku"
-#~ msgstr "KSudoku"
 
-#~ msgid "KSudoku, Sudoku game & more for KDE"
-#~ msgstr "KSudoku, Cluiche Sudoku KDE agus tuilleadh"
 
-#~ msgid "Sudoku Game"
-#~ msgstr "Cluiche Sudoku"
 
-#~ msgid "Graph Theory Tool for Professors and Students."
-#~ msgstr "Uirlis Graftheoirice le haghaidh Ollúna agus Mic Léinn."
 
-#~ msgid "Rocs"
-#~ msgstr "Rocs"
 
-#~ msgid "Rocs Graph Theory"
-#~ msgstr "Graftheoiric Rocs"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "Comhéadan do GnuPG"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "Uirlis Chriptithe"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr ""
-#~ "Feidhmchláirín painéil lenar féidir scáileán X a rothlú agus a mhéid a "
-#~ "athrú."
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "An scáileán a rothlú agus a mhéid a athrú"
 
-#~ msgid "KMail"
-#~ msgstr "KMail"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Mahjongg Solitaire"
-#~ msgstr "Cluiche Aonair Mahjongg"
 
-#~ msgid "Konsole"
-#~ msgstr "Konsole"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "Cluiche Boird Reversi"
 
-#~ msgid "Killbots"
-#~ msgstr "Killbots"
 
-#~ msgid "KMail view"
-#~ msgstr "Amharc KMail"
 
-#~ msgid "KCalc"
-#~ msgstr "KCalc"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "Áireamhán Eolaíochta"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Comhéadan Diff/Patch"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "Formhéadaitheoir Scáileáin"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "Lainseálaí Comhairimh Síos"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "Treoraí Fillteáin Líonra"
 
-#~ msgid "UML Modeller"
-#~ msgstr "Múnlóir UML"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "Cluiche Loighce Blackbox"
 
-#~ msgid "KBlackBox"
-#~ msgstr "Bosca Dubh"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "Cluiche Loighce Mar Sokoban"
 
-#~ msgid "KPatience"
-#~ msgstr "KPatience"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "Cluiche Cártaí Patience"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "Bainisteoir Faisnéise Pearsanta"
 
-#~ msgid "Desktop Globe"
-#~ msgstr "Cruinneog Dheisce"
 
-#~ msgid "Marble"
-#~ msgstr "Marble"
 
-#~ msgid "Bovo"
-#~ msgstr "Bovo"
 
-#~ msgid "Five-in-a-row Board Game"
-#~ msgstr "Cluiche boird cúig-cinn-as-a-chéile"
 
-#~ msgid "Annotate..."
-#~ msgstr "Anótáil..."
 
-#~ msgid "AMOR"
-#~ msgstr "AMOR"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "Créatúr ar do scáileán"
 
-#~ msgid "Parley"
-#~ msgstr "Parley"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "Oiliúnóir Stóir Focal"
 
-#~ msgid "Font Viewer"
-#~ msgstr "Amharcán Clófhoirne"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "Breacaire Feidhmeanna"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "Breacaire Feidhmeanna Matamaiticiúla"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "Uirlis Diailithe Idirlín"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "Timpeallacht Chomhtháite Fhorbartha"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "KDevelop 4"
 
-#~ msgid "Breakout-like Game"
-#~ msgstr "Cluiche Cosúil le Breakout"
 
-#~ msgid "KBreakOut"
-#~ msgstr "KBreakOut"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "Pláinéadlann Deisce"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Kover"
-#~ msgstr "Súsa"
 
-#~ msgid "Four-in-a-row Board Game"
-#~ msgstr "Cluiche Boird ceithre-cinn-as-a-chéile"
 
-#~ msgid "KFourInLine"
-#~ msgstr "KFourInLine"
 
-#~ msgid "KNetWalk"
-#~ msgstr "KNetWalk"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "KAlarm"
-#~ msgstr "KAlarm"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "Sceidealóir Aláram Pearsanta"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "Uirlis Bhainistíochta Wallet"
 
-#~ msgid "Eat pills escaping ghosts"
-#~ msgstr "Ith piollairí agus éalaigh ó thaibhsí"
 
-#~ msgid "Kapman"
-#~ msgstr "Kapman"
 
-#~ msgid "Pac-Man Clone"
-#~ msgstr "Clón Pac-Man"
 
-#~ msgid "KTron"
-#~ msgstr "KTron"
 
-#~ msgid "Tron-like Game"
-#~ msgstr "Cluiche Cosúil le Tron"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDiskFree"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "Taispeáin úsáid diosca"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "A BitTorrent program for KDE"
-#~ msgstr "Clár BitTorrent KDE"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "Cliant BitTorrent"
 
-#~ msgid "KTorrent"
-#~ msgstr "KTorrent"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "Comhéadan ar Phróifíleoir"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "Amharcléiriú ar Shonraí Próifílithe Feidhmíochta"
 
-#~ msgid "Download Manager"
-#~ msgstr "Bainisteoir Thíosluchtaithe"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "Kajongg"
-#~ msgstr "Kajongg"
 
-#~ msgid "Mah Jongg"
-#~ msgstr "Mah Jongg"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "Clár Foghlamtha Tíreolaíochta"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "Traenálaí Tíreolaíochta"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "Cleachtadh le Codáin"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "Ceachtanna le codáin"
 
-#~ msgid "Computer-Aided Translation System"
-#~ msgstr "Córas Aistriúcháin Ríomhchuidithe"
 
-#~ msgid "Lokalize"
-#~ msgstr "Lokalize"
 
-#~ msgid "Info Center"
-#~ msgstr "Lárionad Eolais"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "Cócaire Tae"
 
-#~ msgid "Change Password"
-#~ msgstr "Athraigh Focal Faire"
 
-#~ msgid "Connect the dots to create squares"
-#~ msgstr "Ceangail na poncanna chun cearnóga a chruthú"
 
-#~ msgid "KSquares"
-#~ msgstr "KSquares"
 
-#~ msgid "KsirK"
-#~ msgstr "KsirK"
 
-#~ msgid "World Domination Strategy Game"
-#~ msgstr "Cluiche Fhorlámhas an Domhain"
 
-#~ msgid "Jigsaw puzzle game"
-#~ msgstr "Cluiche míreanna mearaí"
 
-#~ msgid "Palapeli"
-#~ msgstr "Palapeli"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "Uirlis Tagartha/Staidéir don tSeapáinis"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "Uirlis Tagartha/Staidéir don tSeapáinis"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "Meascthóir Fuaime"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "Bainisteoireacht Fabhtanna KDE"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "Eagarthóir Leabharmharcanna"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "Eagarthóir agus Eagraí Leabharmharcanna"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "Uirlis Chuardaigh/Ionadaithe"
 
-#~ msgid "Akonadi Tray Utility"
-#~ msgstr "Uirlis Tráidire Akonadi"
 
-#~ msgid "Akonaditray"
-#~ msgstr "Akonaditray"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "Mionghalf"
 
-#~ msgid "KWalletManager"
-#~ msgstr "KWalletManager"
 
-#~ msgid "KwikDisk"
-#~ msgstr "KwikDisk"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "Uirlis Meáin Inscortha"
 
-#~ msgid "Ball Bouncing Game"
-#~ msgstr "Cluiche Liathróide Preabtha"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "Cliceáil uathoibríoch luiche"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr ""
-#~ "Cliceálann seo an luch duit, chun tionchar gortú athstraidhneála a laghdú"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Sweeper"
-#~ msgstr "Sweeper"
 
-#~ msgid "System Cleaner"
-#~ msgstr "Glantóir an Chórais"
 
-#~ msgid "Trash"
-#~ msgstr "Bruscar"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Minesweeper-like Game"
-#~ msgstr "Cluiche cosúil le Minesweeper"
 
-#~ msgid "Board Game"
-#~ msgstr "Cluiche Chláir"
 
-#~ msgid "SameGame"
-#~ msgstr "An Gnome Ceanna"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Photo Management Program"
-#~ msgstr "Clár Bainisteoireachta Grianghraf"
 
-#~ msgid "digiKam"
-#~ msgstr "digiKam"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "Ardeagarthóir Téacs"
 
-#~ msgid "Kate"
-#~ msgstr "Kate"
 
-#~ msgid "Hex Editor"
-#~ msgstr "Eagarthóir Heicsidheachúlach"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "KNode"
-#~ msgstr "Nód"
 
-#~ msgid "News Reader"
-#~ msgstr "Léitheoir Nuachta"
 
-#~ msgid "Interactive Physical Simulator"
-#~ msgstr "Insamhlóir Idirghníomhach Fisiceach"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "Insamhail turgnaimh fhisice"
 
-#~ msgid "Step"
-#~ msgstr "Step"
 
-#~ msgid "Menu Editor"
-#~ msgstr "Eagarthóir Roghchláir"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "Seinnteoir Ceoil"
 
-#~ msgid "KTimeTracker"
-#~ msgstr "KTimeTracker"
 
-#~ msgid "Akonadi Console"
-#~ msgstr "Consól Akonadi"
 
-#~ msgid "Akonadi Management and Debugging Console"
-#~ msgstr "Consól Bainisteoireachta agus Dífhabhtaithe Akonadi"
 
-#~ msgid "KRDC"
-#~ msgstr "KRDC"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "Cliant Deisce Cianda"
 
-#~ msgid "IRKick"
-#~ msgstr "IRKick"
 
-#~ msgid "KDE LIRC Server"
-#~ msgstr "Freastalaí LIRC KDE"
 
-#~ msgid "KDE Linux infrared remote control server."
-#~ msgstr "Freastalaí KDE cianrialaithe infridheirg Linux"
 
-#~ msgid "KSystemLog"
-#~ msgstr "KSystemLog"
 
-#~ msgid "System Log Viewer"
-#~ msgstr "Amharcán ar Logchomhaid an Chórais"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "Amharcán ar logchomhaid an chórais"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "Timpeallacht Ríomhchláraithe Oideachasúil"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "Aimsigh Comhaid/Comhadlanna"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "Amharcán Logchomhad na hUirlise Diailithe Idirlín"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPPLogview"
 
-#~ msgid "A simple ball dodging game"
-#~ msgstr "Cluiche simplí ina bhfuil ort liathróidí a sheachaint"
 
-#~ msgid "Kollision"
-#~ msgstr "Kollision"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "Taiscéal Tógálacha Céimseatúla"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "Céimseata Idirghníomhach"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "Bainisteoir Comhad - Mód Forúsáideora"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "Cluiche Anagram le haghaidh KDE"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "Cluiche Anagram"
 
-#~ msgid "Popup Notes"
-#~ msgstr "Preabnótaí"
 
-#~ msgid "KDE SVN Build"
-#~ msgstr "Leagan KDE ó SVN"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "Cealaíodh formáid diosca flapach."
 
-#~ msgid "KFloppy"
-#~ msgstr "KFloppy"
 
-#~ msgid "Dragon Player"
-#~ msgstr "Dragon Player"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "Sann eochracha aicearra ar orduithe"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "Aicearraí Méarchláir"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU Prolog"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid "Aumix"
-#~ msgstr "Aumix"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "Cumasaigh/díchumasaigh breiseáin suiteáilte"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "Breiseáin Táscaire Mhéarchláir"
 
-#~ msgid "BZflag"
-#~ msgstr "BZflag"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "Athraigh airde agus teagmhais fuaime"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "Roghnaigh conas a amharcfaidh úsáideoirí eile ar do dheasc"
 
-#~ msgid "Screensaver"
-#~ msgstr "Spárálaí Scáileáin"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "Socraigh do shainroghanna spárálaí scáileáin"
 
-#~ msgid "Open Folder"
-#~ msgstr "Oscail Fillteán"
 
-#~ msgid "Sudoku"
-#~ msgstr "Sudoku"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "Amharcán Comhad Loga"
 
-#~ msgid "Network Proxy"
-#~ msgstr "Ionadóir Lín"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "Socraigh do shainroghanna sheachfhreastalaí líonra"
 
-#~ msgid "Use the command line"
-#~ msgstr "Bain úsáid as líne na n-orduithe"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "Roghnaigh na feidhmchláir le tosú agus ag logáil isteach"
 
-#~ msgid "Startup Applications"
-#~ msgstr "Feidhmchláir Tosaithe"
 
-#~ msgid "Preview fonts"
-#~ msgstr "Réamhamharc clónna"
 
-#~ msgid "Record sound clips"
-#~ msgstr "Taifead gearrthóga fuaime"
 
-#~ msgid "Set your window properties"
-#~ msgstr "Socraigh d'airíonna fuinneog"
 
-#~ msgid "Windows"
-#~ msgstr "Fuinneoga"
 
-#~ msgid "Configure power management"
-#~ msgstr "Cumraigh bainisteoireacht na cumhachta"
 
-#~ msgid "Power Management"
-#~ msgstr "Bainisteoireacht na Cumhachta"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "Solitaire AisleRiot"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "Imir neart cluichí aonair difriúla"
 
-#~ msgid "Notepad"
-#~ msgstr "Ceap Nótaí"
 
-#~ msgid "DjVu Viewer"
-#~ msgstr "Amharcán DjVu"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "Cuir leis nó bain úsáideoirí agus grúpaí"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Qt Linguist"
 
-#~ msgid "Note-taker"
-#~ msgstr "Breacaire Nótaí"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "Breac síos nótaí, nasc smaointe, agus fan eagraithe"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "Nótaí Tomboy"
 
-#~ msgid "Archive Manager"
-#~ msgstr "Bainisteoir Cartlann"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "Cruthaigh agus athraigh cartlann"
 
-#~ msgid "About GNOME"
-#~ msgstr "Faoi GNOME"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "Foghlaim níos mó faoi GNOME"
 
-#~ msgid "Gnumeric"
-#~ msgstr "Gnumeric"
 
-#~ msgid "Keyboard"
-#~ msgstr "Miarchlar"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "Roghnaigh do álbachtaí miarchlár"
 
-#~ msgid "Mahjongg"
-#~ msgstr "Mahjongg"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid "Mouse"
-#~ msgstr "Luchóg"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "Roghnaigh do álbachtaí luchóg"
 
-#~ msgid "Cheese"
-#~ msgstr "Cheese"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "Tóg grianghraif agus físeáin le do cheamara gréasáin, le maisíochtaí "
-#~ "grafacha greannmhara"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Observe power management"
-#~ msgstr "Breathnaigh ar bhainisteoireacht na cumhachta"
 
-#~ msgid "Power Statistics"
-#~ msgstr "Staitisticí na Cumhachta"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "Four-in-a-Row"
 
-#~ msgid "Database"
-#~ msgstr "Bunachar Sonraí"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "An t-uirlis cumraíochta GNOME"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "Athraigh oibriú agus cuma fuinneoga bhainisteoir comhad"
 
-#~ msgid "File Management"
-#~ msgstr "Bainistíocht Comhad"
 
-#~ msgid "XTerm"
-#~ msgstr "XTerm"
 
-#~ msgid "ODBCConfig"
-#~ msgstr "ODBConfig"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "Fón Bogearraí Ekiga"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "Edit text files"
-#~ msgstr "Eagar comhad Téacs"
 
-#~ msgid "Joe"
-#~ msgstr "Joe"
 
-#~ msgid "Evolution"
-#~ msgstr "Evolution"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "Sraith Feidhmchlár Grúpa-Earraí"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr ""
-#~ "Bainstigh do chuid ríomhphoist, do chuid teagmhálacha agus do sceideal"
 
-#~ msgid "Scribus"
-#~ msgstr "Scribus"
 
-#~ msgid "Howtos German"
-#~ msgstr "Doicuméid as Germáinis"
 
-#~ msgid "System information"
-#~ msgstr "(XSysinfo)"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "Eolas Choráais"
 
-#~ msgid "HardDrake"
-#~ msgstr "HardDrake"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "Seinn agus eagraigh do chuid bailiú ceoil"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "Rhythmbox"
 
-#~ msgid "Orca"
-#~ msgstr "Orca"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr ""
-#~ "Léirigh eolas ar an scáileán mar chaint nó Braille, nó formhéadaigh an "
-#~ "scáileán"
 
-#~ msgid "VI editor"
-#~ msgstr "Eagarthóir VI"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "Solitaire FreeCell"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "Imir an cluiche cártaí móréilimh FreeCell"
 
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
 
-#~ msgid "GIMP"
-#~ msgstr "GIMP"
 
-#~ msgid "XFig"
-#~ msgstr "XFig"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "Uirlis Thuairiscí Faoi Fhabhtanna"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "Seol tuairisc faoi fhabht i bhfeidhmchláir GNOME-bhunaithe"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "Rocks n Diamonds"
 
-#~ msgid "Drawing"
-#~ msgstr "Tarraingt"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "KMPlayer"
-#~ msgstr "KMPlayer"
 
-#~ msgid "KOffice"
-#~ msgstr "KOffice"
 
-#~ msgid "KPlato"
-#~ msgstr "KPlato"
 
-#~ msgid "TV Viewer"
-#~ msgstr "Teilifíseán"
 
-#~ msgid "Frontend for audio file creation"
-#~ msgstr "Comhéadan le haghaidh cruthaithe comhad fuaime"
 
-#~ msgid "Color Palette Editor"
-#~ msgstr "Eagarthóir an Phailéid Dathanna"
 
-#~ msgid "Fax Viewer"
-#~ msgstr "Amharcán Facs"
 
-#~ msgid "XDvi"
-#~ msgstr "XDvi"
 
-#~ msgid "AbiWord"
-#~ msgstr "AbiWord"
 
-#~ msgid "Ardour"
-#~ msgstr "Ardour"
 
-#~ msgid "Atomix"
-#~ msgstr "Atomix"
 
-#~ msgid "Balsa"
-#~ msgstr "Balsa"
 
-#~ msgid "Camorama Webcam Viewer"
-#~ msgstr "Amharcóir Webcam Camorama"
 
-#~ msgid "Data Display Debugger"
-#~ msgstr "Data Display Debugger"
 
-#~ msgid "Dr.Geo"
-#~ msgstr "Dr. Geo"
 
-#~ msgid "Dr.Geo Math Tool"
-#~ msgstr "Uirlís Math. Dr. Geo"
 
-#~ msgid "Gamazons"
-#~ msgstr "Gamazons"
 
-#~ msgid "Network Tools"
-#~ msgstr "Uirlisí Líonra"
 
-#~ msgid "View information about your network"
-#~ msgstr "Amharc ar eolas faoi do líonra"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "Comhroinnt Chomhad Pearsanta"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "Sainroghanna ar chomhroinnt chomhad"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio Music Player"
 
-#~ msgid "Partition Editor"
-#~ msgstr "Eagarthóir Deighiltí"
 
-#~ msgid "GTetrinet"
-#~ msgstr "GTetrinet"
 
-#~ msgid "Gtranslator PO Editor"
-#~ msgstr "Eagarthóir PO Gtranslator"
 
-#~ msgid "Translate and localize applications and libraries"
-#~ msgstr "Aistrigh agus logánaigh feidhmchláir agus leabharlanna"
 
-#~ msgid "Guikachu"
-#~ msgstr "Guikachu"
 
-#~ msgid "KThesaurus"
-#~ msgstr "KThesaurus"
 
-#~ msgid "Choqok"
-#~ msgstr "Choqok"
 
-#~ msgid "KDE Micro-blogging Client"
-#~ msgstr "Cliant Micreabhlagadóireachta KDE"
 
-#~ msgid "Filelight"
-#~ msgstr "Filelight"
 
-#~ msgid "View disk usage information"
-#~ msgstr "Amharc ar fhaisnéis maidir le húsáid diosca"
 
-#~ msgid "Game Creation Tool"
-#~ msgstr "Game Creation Tool"
 
-#~ msgid "Gluon Creator"
-#~ msgstr "Gluon Creator"
 
-#~ msgid "CD Ripper"
-#~ msgstr "Sracaire Dlúthdhioscaí"
 
-#~ msgid "Blog Manager"
-#~ msgstr "Bainisteoir Blag"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr ""
-#~ "Uirlis a chuireann comhaid agus comhadlanna i gcomparáid agus a "
-#~ "chumascann iad más gá"
 
-#~ msgid "Kepas - KDE Easy Publish and Share"
-#~ msgstr "Kepas - \"KDE Easy Publish and Share\""
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "Tiontaire agus áireamhán airgeadais"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "Database Creator"
-#~ msgstr "Cruthaitheoir Bunachar Sonraí"
 
-#~ msgid "A graphical FTP client"
-#~ msgstr "Cliant grafach FTP"
 
-#~ msgid "FTP Client"
-#~ msgstr "Cliant FTP"
 
-#~ msgid "KFTPGrabber"
-#~ msgstr "KFTPGrabber"
 
-#~ msgid "A Graphviz dot graph editor for KDE"
-#~ msgstr "Eagarthóir graf Graphviz i bhformáid 'dot' le haghaidh KDE"
 
-#~ msgid "kgrapheditor"
-#~ msgstr "kgrapheditor"
 
-#~ msgid "A Graphviz dot graph viewer for KDE"
-#~ msgstr "Amharcán poncghraif Graphviz le haghaidh KDE"
 
-#~ msgid "kgraphviewer"
-#~ msgstr "kgraphviewer"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "Comhéadan LaTeX"
 
-#~ msgid "KNemo"
-#~ msgstr "KNemo"
 
-#~ msgid "Network Monitor"
-#~ msgstr "Monatóir Líon"
 
-#~ msgid "A KDE frontend for NetworkManager"
-#~ msgstr "Comhéadan KDE ar NetworkManager"
 
-#~ msgid "Knights"
-#~ msgstr "Knights"
 
-#~ msgid "Cooking Book"
-#~ msgstr "Leabhar Cócaireachta"
 
-#~ msgid "Krecipes"
-#~ msgstr "Krecipes"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "Leabhar Cócaireachta KDE"
 
-#~ msgid "Application for Drawing and Handling of Images"
-#~ msgstr "Feidhmchlár le haghaidh Líníochta agus Láimhseála Íomhánna"
 
-#~ msgid "Write spreadsheet documents"
-#~ msgstr "Scríobh cáipéisí scarbhileoige"
 
-#~ msgid "Kuickshow"
-#~ msgstr "Kuickshow"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "Feidhmchlár KPart KDE"
 
-#~ msgid "KVerbos"
-#~ msgstr "KVerbos"
 
-#~ msgid "GUI for various VPN clients"
-#~ msgstr "Comhéadan grafach le haghaidh cliaint éagsúla VPN"
 
-#~ msgid "KVpnc"
-#~ msgstr "KVpnc"
 
-#~ msgid "VPN Client GUI"
-#~ msgstr "Comhéadan Grafach le haghaidh Cliaint VPN"
 
-#~ msgid "Write text documents"
-#~ msgstr "Scríobh cáipéisí téacs"
 
-#~ msgid "A KDE4 Application"
-#~ msgstr "Feidhmchlár KDE4"
 
-#~ msgid "Mailody"
-#~ msgstr "Mailody"
 
-#~ msgid "KDE Partition Manager"
-#~ msgstr "Bainisteoir Deighiltí KDE"
 
-#~ msgid "Manage disks, partitions and file systems"
-#~ msgstr "Bainistigh dioscaí, deighiltí agus córais comhad"
 
-#~ msgid "rekonq"
-#~ msgstr "rekonq"
 
-#~ msgid "Makes sure you rest now and then"
-#~ msgstr "Bí cinnte go ligeann tú do scíth anois agus arís"
 
-#~ msgid "Scan and save images"
-#~ msgstr "Scan agus sábháil íomhánna"
 
-#~ msgid "Skanlite"
-#~ msgstr "Skanlite"
 
-#~ msgid "A collection manager"
-#~ msgstr "Bainisteoir bailiúchán"
 
-#~ msgid "Collection Manager"
-#~ msgstr "Bainisteoir Bailiúchán"
 
-#~ msgid "Tellico"
-#~ msgstr "Tellico"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr ""
-#~ "Aithriseoir teirminéil anuas bunaithe ar theicneolaíocht Konsole KDE."
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "Defendguin"
-#~ msgstr "Defendguin"
 
-#~ msgid "FreqTweak"
-#~ msgstr "FreqTweak"
 
-#~ msgid "Fvwm"
-#~ msgstr "Fvwm"
 
-#~ msgid "Gltron"
-#~ msgstr "Gltron"
 
-#~ msgid "LTris"
-#~ msgstr "Tetris"
 
-#~ msgid "Nice tetris clone"
-#~ msgstr "Cluiche Tetris (LTris)"
 
-#~ msgid "Pingus"
-#~ msgstr "Pingus"
 
-#~ msgid "Plan"
-#~ msgstr "Plean"
 
-#~ msgid "News reader"
-#~ msgstr "Liethreoir Nuacht"
 
-#~ msgid "Xrn"
-#~ msgstr "Xrn"
 
-#~ msgid "XScorch"
-#~ msgstr "XScorch"
 
-#~ msgid "Mixxx"
-#~ msgstr "Mixxx"
 
-#~ msgid "Monster Masher"
-#~ msgstr "Monster Masher"
 
-#~ msgid "Configure network devices and connections"
-#~ msgstr "Cumraigh gléasanna agus naisc líonra"
 
-#~ msgid "Network Connections"
-#~ msgstr "Naisc Líonra"
 
-#~ msgid "Sawfish"
-#~ msgstr "Sawfish"
 
-#~ msgid "Decrypt File"
-#~ msgstr "Díchriptigh Comhad"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "Cumraigh freastalaithe eochracha agus socruithe criptithe eile"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "Criptiú agus Fáinní Eochracha"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "Bainistigh d'fhocail faire agus eochracha criptithe"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "Focail Faire agus Eochracha Chriptithe"
 
-#~ msgid "Configure which services will be run when the system starts"
-#~ msgstr "Cumraigh cén seirbhísí a rithfear nuair a thosaíonn an córas"
 
-#~ msgid "Services"
-#~ msgstr "Seirbhísí"
 
-#~ msgid "Shared Folders"
-#~ msgstr "Comhfhillteáin"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "Seinn comhaid Flash Adobe"
-
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Seinnteoir Flash Swfdec"
-
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "Athraigh am an chórais, dáta, agus crios ama"
-
-#~ msgid "Time and Date"
-#~ msgstr "Am agus Dáta"
-
-#~ msgid "A drawing program for children."
-#~ msgstr "Clár líníochta le haghaidh páistí."
-
-#~ msgid "Tux Paint"
-#~ msgstr "Tux Paint"
-
-#~ msgid "Users and Groups"
-#~ msgstr "èsáideoirí agus Grúpanna"
-
-#~ msgid "Jot down notes for later"
-#~ msgstr "Breac nótaí le léamh ar ball"
-
-#~ msgid "Sticky Notes"
-#~ msgstr "Notaí Greamaitheach"
-
-#~ msgid "Xpad"
-#~ msgstr "Xpad"

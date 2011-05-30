@@ -1,78 +1,86 @@
-# Menu section translation
-# Copyright (C) 2003
-# This file is distributed under the same license as the menu package.
-# Sunjae Park <darehanl@gmail.com>, 2006 - 2007.
-# Bill Allombert <ballombe@debian.org>, 2003.
 #
+# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ko.php3
 #
+# korean translation of menu-messages.
+# Collection of titles/sections of Linux-Mandrake menu's.
+# It's generated from the /usr/lib/menu/* files.
+#
+# Copyright (C) 2000 MandrakeSoft
+# sangkim@dreamwiz.com, 1999
+# Jaegeum Choe <baedaron@hananet.net>, 2001
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-section 2.1.9-3\n"
+"Project-Id-Version: menu-messages 2.1.5\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2007-10-25 11:04-0400\n"
-"Last-Translator: Sunjae Park <darehanl@gmail.com>\n"
-"Language-Team:  Korean <debian-l10n-korean@lists.debian.org>\n"
+"PO-Revision-Date: 2001-09-24 05:51+0900\n"
+"Last-Translator: Jaegeum Choe <baedaron@hananet.net>\n"
+"Language-Team: Korean <baedaron@hananet.net>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
 #, fuzzy
 msgid "2D Graphics"
 msgstr "그림"
 
+#, fuzzy
 msgid "2D based graphical applications"
-msgstr ""
+msgstr "그래픽 응용프로그램"
 
 #, fuzzy
 msgid "3D Graphics"
 msgstr "그림"
 
+#, fuzzy
 msgid "3D based graphical applications"
-msgstr ""
+msgstr "그래픽 응용프로그램"
 
 msgid "A clock application/applet"
 msgstr ""
 
 #, fuzzy
 msgid "A simple amusement"
-msgstr "파일 관리"
+msgstr "게임 메뉴"
 
 msgid "Accessibility"
-msgstr "접근성"
+msgstr "내게 필요한 설정"
 
+#, fuzzy
 msgid "Action"
-msgstr "액션 게임"
+msgstr "교육"
 
 #, fuzzy
 msgid "Action Games"
-msgstr "액션 게임"
+msgstr "전술 놀이"
 
+#, fuzzy
 msgid "AddressBooks"
-msgstr ""
+msgstr "KAddressBook"
 
 msgid "Administration"
 msgstr "관리"
 
 msgid "Adventure"
-msgstr "어드벤처 게임"
+msgstr "모험"
 
 #, fuzzy
 msgid "Adventure style games"
-msgstr "어드벤처 게임"
+msgstr "모험"
 
 msgid "Amateur Radio"
-msgstr "아마추어 라디오"
+msgstr ""
 
 #, fuzzy
 msgid "Application to burn a disc"
-msgstr "응용프로그램"
+msgstr "응용프로그램 검색"
 
 msgid "Application to manage your finance"
 msgstr ""
 
 msgid "Applications"
-msgstr "응용프로그램"
+msgstr "응용 프로그램"
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -86,14 +94,17 @@ msgstr ""
 msgid "Arcade"
 msgstr "아케이드"
 
+#, fuzzy
 msgid "Arcade style game"
-msgstr ""
+msgstr "아케이드 비디오 게임"
 
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "압축 도구"
 
+#, fuzzy
 msgid "Art"
-msgstr ""
+msgstr "Ark"
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -108,17 +119,21 @@ msgstr "천문학"
 msgid "Astronomy software"
 msgstr "천문학"
 
+#, fuzzy
 msgid "Audio Editing"
-msgstr ""
+msgstr "오디오 태그 편집기"
 
+#, fuzzy
 msgid "Audio Players"
-msgstr ""
+msgstr "오디오 재생기"
 
+#, fuzzy
 msgid "Audio Recorders"
-msgstr ""
+msgstr "사운드 레코더"
 
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "백업"
 
 msgid "Biology"
 msgstr "생물학"
@@ -127,9 +142,8 @@ msgstr "생물학"
 msgid "Biology software"
 msgstr "생물학"
 
-#, fuzzy
 msgid "Blogs"
-msgstr "블록 게임"
+msgstr ""
 
 msgid "Board Games"
 msgstr "보드 놀이"
@@ -145,13 +159,15 @@ msgstr "계산기"
 
 #, fuzzy
 msgid "Calculators"
-msgstr "에뮬레이터"
+msgstr "계산기"
 
+#, fuzzy
 msgid "Calendar"
-msgstr ""
+msgstr "블렌더"
 
+#, fuzzy
 msgid "Camera tools, etc."
-msgstr ""
+msgstr "Java 툴셋 "
 
 msgid "Card Games"
 msgstr "카드 놀이"
@@ -161,10 +177,11 @@ msgstr "카드"
 
 #, fuzzy
 msgid "Chart"
-msgstr "카드 게임"
+msgstr "KDE 문자 선택 도구"
 
+#, fuzzy
 msgid "Chat"
-msgstr ""
+msgstr "대화"
 
 msgid "Chemistry"
 msgstr "화학"
@@ -173,13 +190,12 @@ msgstr "화학"
 msgid "Chemistry software"
 msgstr "화학"
 
-#, fuzzy
 msgid "Clock"
-msgstr "블록 게임"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
-msgstr "통신"
+msgstr "응용 프로그램"
 
 msgid "Compression"
 msgstr ""
@@ -187,22 +203,25 @@ msgstr ""
 msgid "Computer Science"
 msgstr "전산학"
 
+#, fuzzy
 msgid "Computer Science software"
-msgstr ""
+msgstr "전산학"
 
+#, fuzzy
 msgid "Computer Sience software"
-msgstr ""
+msgstr "전산학"
 
 #, fuzzy
 msgid "Computer science"
-msgstr "지구과학"
+msgstr "전산학"
 
+#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr ""
+msgstr "설정 편집기"
 
 #, fuzzy
 msgid "Construction"
-msgstr "통신"
+msgstr "네트워크 건설 게임"
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -210,15 +229,16 @@ msgstr ""
 msgid "Data Visualization"
 msgstr ""
 
+#, fuzzy
 msgid "Data visualization software"
-msgstr ""
+msgstr "시각화 데이터 탐색기"
 
 msgid "Databases"
 msgstr "자료틀"
 
 #, fuzzy
 msgid "Debug Applications"
-msgstr "응용프로그램"
+msgstr "더 많은 프로그램"
 
 msgid "Desktop"
 msgstr "일터"
@@ -226,23 +246,27 @@ msgstr "일터"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
+#, fuzzy
 msgid "Desktop utilities"
-msgstr ""
+msgstr "데스크톱 위젯"
 
 msgid "Development"
 msgstr "개발"
 
+#, fuzzy
 msgid "Development environments"
-msgstr ""
+msgstr "개발 환경"
 
+#, fuzzy
 msgid "Dial-up programs"
-msgstr ""
+msgstr "미술 프로그램"
 
 msgid "Dialup"
 msgstr ""
 
+#, fuzzy
 msgid "Dictionaries"
-msgstr ""
+msgstr "사전"
 
 msgid "Dictionary"
 msgstr "사전"
@@ -261,20 +285,20 @@ msgid "Economy"
 msgstr "천문학"
 
 msgid "Editors"
-msgstr "에디터"
+msgstr "편집기"
 
 msgid "Education"
 msgstr "교육"
 
 #, fuzzy
 msgid "Electricity"
-msgstr "전자학"
+msgstr "메타시티"
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr "전자학"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -284,7 +308,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Email applications"
-msgstr "응용프로그램"
+msgstr "그래픽 응용프로그램"
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -293,40 +317,45 @@ msgid "Emulators"
 msgstr "에뮬레이터"
 
 msgid "Engineering"
-msgstr "공학"
+msgstr ""
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 #, fuzzy
 msgid "Falling Blocks"
-msgstr "블록 게임"
+msgstr "떨어지는 블록을 맞춥니다"
 
+#, fuzzy
 msgid "Falling blocks games"
-msgstr ""
+msgstr "떨어지는 블록을 맞춥니다"
 
 #, fuzzy
 msgid "File Managers"
-msgstr "파일 관리"
+msgstr "파일 관리자"
 
 #, fuzzy
 msgid "File Systems"
 msgstr "시스템"
 
+#, fuzzy
 msgid "File Transfer"
-msgstr "파일 전송"
+msgstr "파일 관리자"
 
+#, fuzzy
 msgid "File system tools"
-msgstr ""
+msgstr "시스템"
 
 msgid "File tool utilities"
 msgstr ""
 
+#, fuzzy
 msgid "File tools"
-msgstr ""
+msgstr "텍스트 도구"
 
+#, fuzzy
 msgid "Finances"
-msgstr ""
+msgstr "과학"
 
 msgid "Flow Chart"
 msgstr ""
@@ -334,14 +363,16 @@ msgstr ""
 msgid "GNOME"
 msgstr "그놈"
 
+#, fuzzy
 msgid "GUI Designers"
-msgstr ""
+msgstr "Qt 디자이너"
 
+#, fuzzy
 msgid "GUI designer applications"
-msgstr ""
+msgstr "그래픽 응용프로그램"
 
 msgid "Games"
-msgstr "게임"
+msgstr "놀이"
 
 msgid "Games and amusements"
 msgstr "게임 메뉴"
@@ -349,8 +380,9 @@ msgstr "게임 메뉴"
 msgid "Games for Kids"
 msgstr "어린이 놀이"
 
+#, fuzzy
 msgid "Geography"
-msgstr ""
+msgstr "KGeography"
 
 #, fuzzy
 msgid "Geology"
@@ -359,6 +391,7 @@ msgstr "생물학"
 msgid "Geology software"
 msgstr ""
 
+#, fuzzy
 msgid "Geoscience"
 msgstr "지구과학"
 
@@ -381,14 +414,16 @@ msgstr "하드웨어"
 msgid "History"
 msgstr "기록"
 
+#, fuzzy
 msgid "IDE"
-msgstr ""
+msgstr "IDLE"
 
 msgid "IRC"
 msgstr "IRC"
 
+#, fuzzy
 msgid "IRC clients"
-msgstr ""
+msgstr "IRC 클라이언트"
 
 msgid "Image Processing"
 msgstr ""
@@ -396,18 +431,20 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
+#, fuzzy
 msgid "Instant Messaging"
-msgstr ""
+msgstr "인스턴트 메신저"
 
+#, fuzzy
 msgid "Instant messaging clients"
-msgstr ""
+msgstr "인스턴트 메신저"
 
 msgid "Internet"
 msgstr "인터넷"
 
 #, fuzzy
 msgid "Internet applications"
-msgstr "응용프로그램"
+msgstr "더 많은 프로그램"
 
 msgid "Java"
 msgstr ""
@@ -442,24 +479,27 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "뷰어 프로그램"
+msgstr ""
 
+#, fuzzy
 msgid "Monitoring"
-msgstr "시스템 감시"
+msgstr "모니터"
 
 msgid "Multimedia"
 msgstr "멀티미디어"
 
+#, fuzzy
 msgid "Multimedia Editing"
-msgstr ""
+msgstr "멀티미디어 메뉴"
 
+#, fuzzy
 msgid "Multimedia Players"
-msgstr ""
+msgstr "미디어 재생기"
 
+#, fuzzy
 msgid "Multimedia Recorders"
-msgstr ""
+msgstr "멀티미디어 메뉴"
 
 msgid "Music"
 msgstr ""
@@ -473,16 +513,14 @@ msgstr "네트워크"
 msgid "Network-related settings"
 msgstr "네트워크와 관련된 설정을 합니다"
 
-#, fuzzy
 msgid "News"
-msgstr "웝 구독"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
 
-#, fuzzy
 msgid "Numeric Analysis"
-msgstr "데이터 분석"
+msgstr ""
 
 msgid "Numerical analysis software"
 msgstr ""
@@ -491,7 +529,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "사무실"
+msgstr "사무용 도구"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -504,14 +542,14 @@ msgstr ""
 
 #, fuzzy
 msgid "P2P programs"
-msgstr "프로그래밍"
+msgstr "프로그램 실행"
 
 msgid "PDA"
 msgstr ""
 
 #, fuzzy
 msgid "Package manager applications"
-msgstr "꾸러미 관리"
+msgstr "그림 스캔 프로그램"
 
 msgid "Packaging"
 msgstr "팩키지 관리"
@@ -528,8 +566,9 @@ msgstr ""
 msgid "Personal"
 msgstr "개인"
 
+#, fuzzy
 msgid "Photography"
-msgstr ""
+msgstr "KGeography"
 
 msgid "Physics"
 msgstr "물리학"
@@ -541,17 +580,20 @@ msgstr "물리학"
 msgid "Preferences"
 msgstr "환경 설정"
 
+#, fuzzy
 msgid "Presentation software"
-msgstr ""
+msgstr "프리젠테이션"
 
+#, fuzzy
 msgid "Presentations"
-msgstr ""
+msgstr "프리젠테이션"
 
 msgid "Printing"
 msgstr "인쇄"
 
+#, fuzzy
 msgid "Profiling tools"
-msgstr ""
+msgstr "압축 도구"
 
 msgid "Project Management"
 msgstr "프로젝트 관리"
@@ -570,17 +612,21 @@ msgstr ""
 msgid "Raster Graphics"
 msgstr "그림"
 
+#, fuzzy
 msgid "Raster based graphical applications"
-msgstr ""
+msgstr "그래픽 응용프로그램"
 
+#, fuzzy
 msgid "Remote access"
-msgstr ""
+msgstr "원격 데스크탑"
 
+#, fuzzy
 msgid "Revision Control"
-msgstr ""
+msgstr "볼륨 조정"
 
+#, fuzzy
 msgid "Robotics"
-msgstr ""
+msgstr "로봇"
 
 msgid "Robotics software"
 msgstr ""
@@ -591,9 +637,8 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "보호기"
+msgstr ""
 
 msgid "Science"
 msgstr "과학"
@@ -608,18 +653,19 @@ msgstr "보안"
 msgid "Security tools"
 msgstr "보안"
 
+#, fuzzy
 msgid "Sequencers"
-msgstr ""
+msgstr "과학"
 
 msgid "Settings"
 msgstr "설정"
 
-msgid "Simulation"
-msgstr "시뮬레이션 게임"
-
 #, fuzzy
+msgid "Simulation"
+msgstr "교육"
+
 msgid "Simulation Games"
-msgstr "시뮬레이션 게임"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
@@ -641,17 +687,18 @@ msgstr "스포츠"
 
 #, fuzzy
 msgid "Sports Games"
-msgstr "스포츠"
+msgstr "보드 놀이"
 
+#, fuzzy
 msgid "Spreadsheets"
-msgstr ""
+msgstr "스프레드시트"
 
 msgid "Strategy"
-msgstr "전략 게임"
+msgstr "전략"
 
 #, fuzzy
 msgid "Strategy Games"
-msgstr "전략 게임"
+msgstr "전략"
 
 msgid "System"
 msgstr "시스템"
@@ -666,15 +713,15 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
-msgstr "TV와 라디오"
+msgstr ""
 
 #, fuzzy
 msgid "TV and Radio applications"
-msgstr "TV와 라디오"
+msgstr "어플리케이션 크래시를 확인 및 보고함"
 
 #, fuzzy
 msgid "TV applications"
-msgstr "응용프로그램"
+msgstr "응용 프로그램"
 
 msgid "Teaching Tools"
 msgstr "교사용 도구"
@@ -682,8 +729,9 @@ msgstr "교사용 도구"
 msgid "Telephony"
 msgstr ""
 
+#, fuzzy
 msgid "Telephony tools"
-msgstr ""
+msgstr "텍스트 도구"
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -693,14 +741,15 @@ msgstr ""
 
 #, fuzzy
 msgid "Terminal emulator applications"
-msgstr "터미널"
+msgstr "터미널 응용 프로그램"
 
 #, fuzzy
 msgid "Terminals"
 msgstr "터미널"
 
+#, fuzzy
 msgid "Text tool utilities"
-msgstr ""
+msgstr "텍스트 도구"
 
 msgid "Text tools"
 msgstr "텍스트 도구"
@@ -711,8 +760,9 @@ msgstr ""
 msgid "Tools"
 msgstr "도구"
 
+#, fuzzy
 msgid "Tools for web developers"
-msgstr ""
+msgstr "소프트웨어 개발을 위한 도구"
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -720,11 +770,13 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to build applications"
-msgstr ""
+msgstr "기본 프로그램을 선택하십시오"
 
+#, fuzzy
 msgid "Tools to debug applications"
-msgstr ""
+msgstr "기본 프로그램을 선택하십시오"
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -732,8 +784,9 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
+#, fuzzy
 msgid "Tools to manage printers"
-msgstr ""
+msgstr "프린터 설정"
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -745,2460 +798,844 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "흥미거리"
+msgstr "장난감"
 
 msgid "Translation"
 msgstr "번역"
 
+#, fuzzy
 msgid "Translation tools"
-msgstr ""
+msgstr "번역 도구"
 
 msgid "Tuners"
 msgstr ""
 
+#, fuzzy
 msgid "Typing tutor"
-msgstr ""
+msgstr "타자 연습"
 
 #, fuzzy
 msgid "Vector Graphics"
-msgstr "그림"
+msgstr "벡터 그래픽 그리기 도구"
 
+#, fuzzy
 msgid "Vector based graphical applications"
-msgstr ""
+msgstr "그래픽 응용프로그램"
 
 msgid "Video"
-msgstr "비디오"
+msgstr ""
 
 msgid "Video Conference software"
 msgstr ""
 
+#, fuzzy
 msgid "Video Conferences"
-msgstr ""
+msgstr "환경 설정"
 
 msgid "Video Editing"
 msgstr ""
 
 #, fuzzy
 msgid "Video Players"
-msgstr "뷰어 프로그램"
+msgstr "비디오 연주기"
 
+#, fuzzy
 msgid "Video Recorders"
-msgstr ""
+msgstr "사운드 레코더"
 
+#, fuzzy
 msgid "Viewers"
-msgstr "뷰어 프로그램"
+msgstr "KUIViewer"
 
 #, fuzzy
 msgid "Web Browsers"
-msgstr "웹브라우저"
+msgstr "웹 브라우저"
 
+#, fuzzy
 msgid "Web Browsing"
-msgstr "웹브라우저"
+msgstr "웹 브라우저"
 
 msgid "Web Development"
 msgstr "웹 개발"
 
-#, fuzzy
 msgid "Web Publishing"
-msgstr "웹브라우저"
-
-msgid "Wordprocessors"
 msgstr ""
+
+#, fuzzy
+msgid "Wordprocessors"
+msgstr "워드 프로세서"
 
 msgid "XFCE"
 msgstr ""
 
+#, fuzzy
 msgid "chat clients"
-msgstr ""
+msgstr "편지를 주고 받는 프로그램"
 
-#~ msgid "Data Management"
-#~ msgstr "데이터 관리"
 
-#~ msgid "Mobile Devices"
-#~ msgstr "휴대장치"
 
-#~ msgid "Medicine"
-#~ msgstr "의약학"
 
-#~ msgid "Social"
-#~ msgstr "사회학"
 
-#~ msgid "Shells"
-#~ msgstr "셸"
 
-#~ msgid "Language Environment"
-#~ msgstr "언어환경"
 
-#~ msgid "Text"
-#~ msgstr "문서"
 
-#~ msgid "Puzzles"
-#~ msgstr "퍼즐 게임"
 
-#~ msgid "Help"
-#~ msgstr "도움말"
 
-#~ msgid "Window Managers"
-#~ msgstr "윈도우 매니저"
 
-#~ msgid "FVWM Modules"
-#~ msgstr "FVWM 모듈"
 
-#~ msgid "Window Maker"
-#~ msgstr "윈도우 매니저"
 
-#~ msgid "Appearance"
-#~ msgstr "겉보기"
 
-#~ msgid "WorkSpace"
-#~ msgstr "작업공간"
 
-#~ msgid "Iceape Components"
-#~ msgstr "아이스에이프 관련"
 
-#~ msgid "Teddies"
-#~ msgstr "테디베어"
 
-#~ msgid "Apps"
-#~ msgstr "응용 프로그램"
 
-#~ msgid "Hamradio"
-#~ msgstr "아마추어 무선"
 
-#~ msgid "Math"
-#~ msgstr "수학"
 
-#~ msgid "Technical"
-#~ msgstr "기술"
 
-#~ msgid "Tetris-like"
-#~ msgstr "테트리스식"
 
-#~ msgid "Root-window"
-#~ msgstr "루트 창"
 
-#~ msgid "XShells"
-#~ msgstr "Xterm 계열"
 
-#~ msgid "Admin"
-#~ msgstr "관리"
 
-#~ msgid "-> All Applications"
-#~ msgstr "-> 모든 프로그램"
 
-#~ msgid "-> What to do?"
-#~ msgstr "-> 뭘 하죠?"
 
-#~ msgid "Edutainment"
-#~ msgstr "교육"
 
-#~ msgid "Miscellaneous"
-#~ msgstr "기타"
 
-#~ msgid "Utilities"
-#~ msgstr "쓸만한 도구"
 
-#~ msgid "Programming"
-#~ msgstr "개발"
 
-#~ msgid "Servers"
-#~ msgstr "서버"
 
-#~ msgid "X Window Utilities"
-#~ msgstr "엑스 윈도용 쓸만한 도구"
 
-#~ msgid "X-Utilities"
-#~ msgstr "엑스용 쓸만한 도구"
 
-#~ msgid "Advanced"
-#~ msgstr "고급"
 
-#~ msgid "Advanced Settings"
-#~ msgstr "고급 설정"
 
-#~ msgid "Lost & Found"
-#~ msgstr "기타 프로그램"
 
-#~ msgid "Tactics & Strategy"
-#~ msgstr "병법"
 
-#~ msgid "Information"
-#~ msgstr "정보"
 
-#~ msgid "Personal preferences"
-#~ msgstr "개인 기본 설정"
 
-#~ msgid "Accessories"
-#~ msgstr "보조 프로그램"
 
-#~ msgid "Desktop accessories"
-#~ msgstr "바탕환경의 보조 프로그램"
 
-#~ msgid "Networking"
-#~ msgstr "네트워크"
 
-#~ msgid "PIM"
-#~ msgstr "개인 정보 관리자"
 
-#~ msgid "Science & Math"
-#~ msgstr "과학과 수학"
 
-#~ msgid "Peripherals"
-#~ msgstr "주변장치"
 
-#~ msgid "Look and Feel"
-#~ msgstr "모양새"
 
-#~ msgid "Settings controlling the desktop appearance and behavior"
-#~ msgstr "바탕환경의 모양새와 행동을 설정합니다"
 
-#~ msgid "File"
-#~ msgstr "파일"
 
-#~ msgid "Personal settings"
-#~ msgstr "개인 설정"
 
-#~ msgid "Screensaver themes"
-#~ msgstr "화면 보호기 테마"
 
-#~ msgid "System configuration and monitoring"
-#~ msgstr "시스템 설정과 감시"
 
-#~ msgid "Settings for several hardware devices"
-#~ msgstr "하드웨어 장치를 설정합니다"
 
-#~ msgid "KDE Menu"
-#~ msgstr "KDE 차림표"
 
-#~ msgid "Personal preferences and administration settings"
-#~ msgstr "개인 기본 설정과 관리자 설정"
 
-#~ msgid "Universal Access"
-#~ msgstr "보편적 접근"
 
-#~ msgid "Universal Access Settings"
-#~ msgstr "보편적 접근 설정"
 
-#~ msgid "Change system-wide settings (affects all users)"
-#~ msgstr "시스템 전체 설정을 바꿉니다 (모든 사용자에게 영향을 미칩니다)"
 
-#~ msgid "Sound & Video"
-#~ msgstr "멀티미디어"
 
-#~ msgid "Internet and Network"
-#~ msgstr "인터넷과 네트워크"
 
-#~ msgid "Control Center"
-#~ msgstr "그놈 제어판"
 
-#~ msgid "Rogue-like Games"
-#~ msgstr "사기꾼 같은 놀이"
 
-#~ msgid "Programs for Internet access such as web and email"
-#~ msgstr "웹과 전자메일 같은 인터넷에 접근 가능한 프로그램"
 
-#~ msgid "Applications that did not fit in other categories"
-#~ msgstr "어떤 범주에도 해당되지 않는 프로그램"
 
-#~ msgid "Office Applications"
-#~ msgstr "오피스 응용프로그램"
 
-#~ msgid ".hidden"
-#~ msgstr ".숨김"
 
-#~ msgid "Please don't remove or modify"
-#~ msgstr "변경 또는 제거하지 마세요"
 
-#~ msgid "Mandriva Linux Update"
-#~ msgstr "맨드리바 업데이트"
 
-#~ msgid "Beat the odds in a poker-style dice game"
-#~ msgstr "포커 방식의 주사위 게임에서 상대방을 물리치십시오"
 
-#~ msgid "Tali"
-#~ msgstr "Tali"
 
-#~ msgid "Five or More"
-#~ msgstr "다섯개"
 
-#~ msgid "Remove colored balls from the board by forming lines"
-#~ msgstr "색색의 공을 지워서 한 줄로 만듭니다"
 
-#~ msgid "Minesweeper"
-#~ msgstr "지뢰 찾기"
 
-#~ msgid "Documentation Browser"
-#~ msgstr "문서 보기 프로그램"
 
-#~ msgid "System Monitor"
-#~ msgstr "시스템 감시기"
 
-#~ msgid "View current processes and monitor system state"
-#~ msgstr "현제 프로세스와 감시기 시스템 상태를 봅니다"
 
-#~ msgid "Image Viewer"
-#~ msgstr "그림 보기 프로그램"
 
-#~ msgid "A GTK-based monitoring app"
-#~ msgstr "GTK 기반 모니터링 프로그램"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
 
-#~ msgid "Play and organize your media collection"
-#~ msgstr "미디어 모음 재생 및 구성"
 
-#~ msgid "Empathy"
-#~ msgstr "엠퍼시"
 
-#~ msgid "IM Client"
-#~ msgstr "메신저 클라이언트"
 
-#~ msgid "Configure the lockdown policy"
-#~ msgstr "잠금 정책을 설정합니다"
 
-#~ msgid "Lockdown Editor"
-#~ msgstr "잠금 편집기"
 
-#~ msgid "About Me"
-#~ msgstr "내 정보"
 
-#~ msgid "Set your personal information"
-#~ msgstr "개인 정보를 설정합니다"
 
-#~ msgid "IceBreaker"
-#~ msgstr "아이스브레이커"
 
-#~ msgid "Brasero"
-#~ msgstr "브라세로"
 
-#~ msgid "Create and copy CDs and DVDs"
-#~ msgstr "CD나 DVD를 만들고 복사합니다"
 
-#~ msgid "Change which applications are shown on the main menu"
-#~ msgstr "주 메뉴의 프로그램 표시를 바꿉니다"
 
-#~ msgid "Main Menu"
-#~ msgstr "주 메뉴"
 
-#~ msgid "TkDiff"
-#~ msgstr "TkDiff"
 
-#~ msgid "Browse the web"
-#~ msgstr "웹을 돌아 다닙니다"
 
-#~ msgid "Epiphany"
-#~ msgstr "에피파니"
 
-#~ msgid "Character Map"
-#~ msgstr "문자 맵"
 
-#~ msgid "Insert special characters into documents"
-#~ msgstr "문서에 특수 문자를 삽입합니다"
 
-#~ msgid "CompizConfig Settings Manager"
-#~ msgstr "컴피즈 설정 관리자"
 
-#~ msgid "Configure Compiz with CompizConfig"
-#~ msgstr "CompizConfig으로 Compiz 설정"
 
-#~ msgid "The Swat Samba Administration Tool"
-#~ msgstr "스왓 삼바 관리 도구"
 
-#~ msgid "Xwpick"
-#~ msgstr "Xwpick"
 
-#~ msgid "All solitaire cards games"
-#~ msgstr "혼자하는 카드 게임"
 
-#~ msgid "PySOL"
-#~ msgstr "파이솔"
 
-#~ msgid "Customize the look of the desktop"
-#~ msgstr "데스크탑의 모양새를 설정합니다"
 
-#~ msgid "Check word definitions and spellings in an online dictionary"
-#~ msgstr "온라인 사전에서 단어의 의미와 맞춤법을 찾아 봅니다"
 
-#~ msgid "Locate documents and folders on this computer by name or content"
-#~ msgstr "이 컴퓨터의 문서나 폴더를 이름이나 내용으로 찾습니다"
 
-#~ msgid "Search for Files..."
-#~ msgstr "파일 찾기..."
 
-#~ msgid ""
-#~ "Launch other applications and provide various utilities to manage "
-#~ "windows, show the time, etc."
-#~ msgstr ""
-#~ "다른 프로그램을 실행하고 창을 관리하는 여러가지 유틸리티가 들어 있고, 시각"
-#~ "을 표시하는 등의 일을 합니다."
 
-#~ msgid "Panel"
-#~ msgstr "패널"
 
-#~ msgid "Navigate applications and type using alternative input devices"
-#~ msgstr "다른 입력 장치를 이용해 프로그램을 둘러 보고 텍스트를 입력합니다"
 
-#~ msgid "On-Screen Keyboard"
-#~ msgstr "화면 키보드"
 
-#~ msgid "Compiz"
-#~ msgstr "컴피즈"
 
-#~ msgid "Audio CD Extractor"
-#~ msgstr "음악 CD 가져오기"
 
-#~ msgid "Copy music from your CDs"
-#~ msgstr "CD에서 음악을 복사합니다"
 
-#~ msgid "CD/DVD Creator"
-#~ msgstr "CD/DVD 만들기"
 
-#~ msgid "Create CDs and DVDs"
-#~ msgstr "CD나 DVD를 만듭니다"
 
-#~ msgid "Device Manager"
-#~ msgstr "디바이스 관리자"
 
-#~ msgid "gThumb"
-#~ msgstr "gThumb"
 
-#~ msgid "Preferred Applications"
-#~ msgstr "기본 프로그램"
 
-#~ msgid "Klotski"
-#~ msgstr "클로츠키"
 
-#~ msgid "Slide blocks to solve the puzzle"
-#~ msgstr "블록을 밀어서 퍼즐을 풉니다"
 
-#~ msgid "Chess"
-#~ msgstr "체스"
 
-#~ msgid "Play the classic two-player boardgame of chess"
-#~ msgstr "전통적인 2인 체스 보드 게임을 플레이합니다"
 
-#~ msgid "Simple text editor"
-#~ msgstr "간단한 텍스트 편집기"
 
-#~ msgid "Browse bookmarked and local network locations"
-#~ msgstr "책갈피와 로컬 네트워크를 찾아봅니다"
 
-#~ msgid "Establish and Edit Profiles for Users"
-#~ msgstr "사용자의 프로파일 만들거나 고칩니다"
 
-#~ msgid "User Profile Editor"
-#~ msgstr "사용자 프로파일 편집기"
 
-#~ msgid "F-Spot"
-#~ msgstr "F-Spot"
 
-#~ msgid "Photo Viewer"
-#~ msgstr "사진 보기"
 
-#~ msgid "Bluetooth"
-#~ msgstr "블루투스"
 
-#~ msgid "Configure Bluetooth settings"
-#~ msgstr "블루투스 설정"
 
-#~ msgid "Text Editor"
-#~ msgstr "텍스트 편집기"
 
-#~ msgid "Manage Messaging and VoIP accounts"
-#~ msgstr "메신저 및 VoIP 계정 관리"
 
-#~ msgid "Messaging and VoIP Accounts"
-#~ msgstr "메신저 및 VoIP 계정"
 
-#~ msgid "Disk Utility"
-#~ msgstr "디스크 도구"
 
-#~ msgid "Manage Drives and Media"
-#~ msgstr "드라이브와 미디어를 관리합니다"
 
-#~ msgid "Office Suite"
-#~ msgstr "오피스 스위트"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
 
-#~ msgid "Browse and rotate images"
-#~ msgstr "그림 살펴보기 및 돌리기"
 
-#~ msgid "Change resolution and position of monitors"
-#~ msgstr "모니터의 해상도와 위치를 바꿉니다"
 
-#~ msgid "OpenOffice.org Calc"
-#~ msgstr "OpenOffice.org Calc"
 
-#~ msgid ""
-#~ "Perform calculation, analyze information and manage lists in spreadsheets "
-#~ "by using Calc."
-#~ msgstr ""
-#~ "Calc를 사용하여 스프레드시트에서 계산, 정보 분석 및 목록 관리를 수행합니"
-#~ "다."
 
-#~ msgid "Save images of your desktop or individual windows"
-#~ msgstr "데스크탑이나 창 한 개의 스크린샷을 저장합니다"
 
-#~ msgid "Take Screenshot"
-#~ msgstr "스크린샷 찍기"
 
-#~ msgid "Developer's Help program"
-#~ msgstr "개발자를 위한 도움말 프로그램"
 
-#~ msgid "Devhelp"
-#~ msgstr "개발자 도움말"
 
-#~ msgid "Eclipse"
-#~ msgstr "이클립스"
 
-#~ msgid "Browse the file system with the file manager"
-#~ msgstr "파일 관리자로 파일 시스템을 찾아봅니다"
 
-#~ msgid "File Browser"
-#~ msgstr "파일 브라우저"
 
-#~ msgid "Clear the screen by removing groups of colored and shaped tiles"
-#~ msgstr "같은 색이나 모양의 타일을 제거해 나가면서 화면을 청소합니다"
 
-#~ msgid "Swell Foop"
-#~ msgstr "스웰푸프"
 
-#~ msgid "IDE for Python"
-#~ msgstr "파이썬용 IDE"
 
-#~ msgid "Dia Diagram Editor"
-#~ msgstr "도표 편집기"
 
-#~ msgid "Edit your Diagrams"
-#~ msgstr "도표 편집"
 
-#~ msgid "Installs themes packages for various parts of the desktop"
-#~ msgstr "바탕 화면의 여러 곳에 쓰일 테마를 설치합니다"
 
-#~ msgid "Theme Installer"
-#~ msgstr "테마 설치"
 
-#~ msgid "Get help with GNOME"
-#~ msgstr "그놈에서 도움말을 봅니다"
 
-#~ msgid "Xdaliclock"
-#~ msgstr "X달리클락"
 
-#~ msgid "Assistive Technologies"
-#~ msgstr "보조 기술"
 
-#~ msgid "Choose which accessibility features to enable when you log in"
-#~ msgstr "로그인할 때 어느 접근성 기능을 사용할 지 선택"
 
-#~ msgid "Check folder sizes and available disk space"
-#~ msgstr "폴더 크기와 디스크의 사용 가능한 공간을 검사합니다"
 
-#~ msgid "Disk Usage Analyzer"
-#~ msgstr "디스크 사용량 분석"
 
-#~ msgid "Create or open user interface designs for GTK+ applications"
-#~ msgstr "GTK+ 프로그램의 사용자 인터페이스 디자인을 열거나 새로 만듭니다"
 
-#~ msgid "Glade 3"
-#~ msgstr "글레이드"
 
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "여러분의 사진을 관리하고 공유하세요"
 
-#~ msgid "Photo Manager"
-#~ msgstr "사진 관리자"
 
-#~ msgid "Movie Player"
-#~ msgstr "동영상 플레이어"
 
-#~ msgid "Play movies and songs"
-#~ msgstr "영화와 음악 재생"
 
-#~ msgid "Document Viewer"
-#~ msgstr "문서 보기"
 
-#~ msgid "View multi-page documents"
-#~ msgstr "다중 페이지 문서를 봅니다"
 
-#~ msgid "Home Folder"
-#~ msgstr "내 폴더"
 
-#~ msgid "Open your personal folder"
-#~ msgstr "개인 폴더를 엽니다"
 
-#~ msgid "Quadrapassel"
-#~ msgstr "쿼드러패셀"
 
-#~ msgid "Complete the puzzle by matching numbered tiles"
-#~ msgstr "조각의 번호를 맞춰서 퍼즐을 풉니다"
 
-#~ msgid "Tetravex"
-#~ msgstr "테트라벡스"
 
-#~ msgid "Configure defaults for GStreamer applications"
-#~ msgstr "GStreamer 프로그램의 기본값을 설정합니다"
 
-#~ msgid "Multimedia Systems Selector"
-#~ msgstr "멀티미디어 시스템 설정 프로그램"
 
-#~ msgid "Configure PalmOS devices"
-#~ msgstr "PalmOS 장치 설정"
 
-#~ msgid "PalmOS Devices"
-#~ msgstr "PalmOS 장치"
 
-#~ msgid "Access remote desktops"
-#~ msgstr "원격 데스크탑 접속"
 
-#~ msgid "Remote Desktop Viewer"
-#~ msgstr "원격 데스크탑 보기"
 
-#~ msgid "Audit Configuration"
-#~ msgstr "감사 설정 "
 
-#~ msgid "Modify audit configuration"
-#~ msgstr "감사 설정 수정 "
 
-#~ msgid "Metacity"
-#~ msgstr "메타시티"
 
-#~ msgid "Avoid the robots and make them crash into each other"
-#~ msgstr "로봇을 피해 서로 부딪혀 부서지도록 합니다"
 
-#~ msgid "Search"
-#~ msgstr "찾기"
 
-#~ msgid "Search for data on your desktop"
-#~ msgstr "바탕환경에서 데이터를 찾습니다"
 
-#~ msgid "Fetchmailconf"
-#~ msgstr "페치메일 설정"
 
-#~ msgid "ClanBomber"
-#~ msgstr "클랜밤어"
 
-#~ msgid "R"
-#~ msgstr "R"
 
-#~ msgid "A pop-art-ish grid of pulsing colors."
-#~ msgstr "고동치는 색깔의 팝아트 형식 격자 모양."
 
-#~ msgid "Pop art squares"
-#~ msgstr "팝 아트 사각형"
 
-#~ msgid "Display a slideshow from F-Spot"
-#~ msgstr "F-Spot에서 슬라이드쇼 보기"
 
-#~ msgid "F-Spot photos"
-#~ msgstr "F-Spot 사진"
 
-#~ msgid "Display a slideshow from your Pictures folder"
-#~ msgstr "그림 폴더에 있는 그림의 슬라이드를 보여줍니다"
 
-#~ msgid "Pictures folder"
-#~ msgstr "그림 폴더"
 
-#~ msgid "Bubbles the GNOME foot logo around the screen"
-#~ msgstr "화면에 그놈 발바닥 로고가 떠다닙니다"
 
-#~ msgid "Floating Feet"
-#~ msgstr "떠다니는 발바닥"
 
-#~ msgid "Cosmos"
-#~ msgstr "우주"
 
-#~ msgid "Display a slideshow of pictures of the cosmos"
-#~ msgstr "우주 그림의 슬라이드를 보여줍니다"
 
-#~ msgid ""
-#~ "Browse all local and remote disks and folders accessible from this "
-#~ "computer"
-#~ msgstr ""
-#~ "이 컴퓨터에서 접근할 수 있는 모든 로컬 및 원격 디스크와 폴더를 찾아봅니다"
 
-#~ msgid "Computer"
-#~ msgstr "컴퓨터"
 
-#~ msgid "LyX"
-#~ msgstr "LyX"
 
-#~ msgid "Display the Earth on your desktop"
-#~ msgstr "데스크탑에 지구 보이기"
 
-#~ msgid "Browse and organize your bookmarks"
-#~ msgstr "책갈피를 찾아보고 정리합니다"
 
-#~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "에피파니 웹 책갈피"
 
-#~ msgid "Web Bookmarks"
-#~ msgstr "웹 책갈피"
 
-#~ msgid "A game of action and puzzle-solving"
-#~ msgstr "액션 및 퍼즐 풀기 게임"
 
-#~ msgid "KGoldrunner"
-#~ msgstr "KGoldrunner"
 
-#~ msgid "Menu Updating Tool"
-#~ msgstr "메뉴 업데이트 도구"
 
-#~ msgid "Okular"
-#~ msgstr "Okular"
 
-#~ msgid "K3b"
-#~ msgstr "K3b"
 
-#~ msgid "Color Chooser"
-#~ msgstr "색상 선택기"
 
-#~ msgid "KColorChooser"
-#~ msgstr "KColorChooser"
 
-#~ msgid "KDE Periodic Table of Elements"
-#~ msgstr "KDE 원소 주기율표"
 
-#~ msgid "Kalzium"
-#~ msgstr "Kalzium"
 
-#~ msgid "Periodic Table of Elements"
-#~ msgstr "원소 주기율표"
 
-#~ msgid "Hangman Game"
-#~ msgstr "행맨 게임"
 
-#~ msgid "KDE Hangman Game"
-#~ msgstr "KDE 행맨 게임"
 
-#~ msgid "KHangMan"
-#~ msgstr "KHangMan"
 
-#~ msgid "Contact Manager"
-#~ msgstr "연락처 관리자"
 
-#~ msgid "A simple image viewer"
-#~ msgstr "간단한 그림 뷰어"
 
-#~ msgid "Gwenview"
-#~ msgstr "Gwenview"
 
-#~ msgid "Kiriki"
-#~ msgstr "Kiriki"
 
-#~ msgid "KUser"
-#~ msgstr "KDE 사용자"
 
-#~ msgid "User Manager"
-#~ msgstr "사용자 관리자"
 
-#~ msgid "KJumpingCube"
-#~ msgstr "K뛰는 주사위"
 
-#~ msgid "Galactic Strategy Game"
-#~ msgstr "우주 전략 게임"
 
-#~ msgid "Konquest"
-#~ msgstr "콘퀘스트"
 
-#~ msgid "A flashcard and vocabulary learning program"
-#~ msgstr "플래시카드와 어휘 학습 도구"
 
-#~ msgid "Flash Card Trainer"
-#~ msgstr "플래시 카드 트레이너"
 
-#~ msgid "KWordQuiz"
-#~ msgstr "KWordQuiz"
 
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
 
-#~ msgid "Amarok - Rediscover Your Music!"
-#~ msgstr "Amarok - 음악의 재발견!"
 
-#~ msgid "CVS Frontend"
-#~ msgstr "CVS 프론트엔드"
 
-#~ msgid "Cervisia"
-#~ msgstr "케르비시아"
 
-#~ msgid "KRuler"
-#~ msgstr "KRuler"
 
-#~ msgid "Screen Ruler"
-#~ msgstr "화면 자"
 
-#~ msgid "KSnapshot"
-#~ msgstr "K 화면 갈무리"
 
-#~ msgid "Screen Capture Program"
-#~ msgstr "화면 캡처 프로그램"
 
-#~ msgid "Character Selector"
-#~ msgstr "글자 고르기"
 
-#~ msgid "Konqueror"
-#~ msgstr "컹커러"
 
-#~ msgid "KLettres"
-#~ msgstr "KLettres"
 
-#~ msgid "Learn The Alphabet"
-#~ msgstr "알파벳 익히기"
 
-#~ msgid "a KDE program to learn the alphabet"
-#~ msgstr "알파벳 공부를 위한 KDE 프로그램"
 
-#~ msgid "Calendar and Scheduling Program"
-#~ msgstr "달력과 스케줄 관리 프로그램"
 
-#~ msgid "KOrganizer"
-#~ msgstr "KOrganizer"
 
-#~ msgid "Personal Organizer"
-#~ msgstr "개인 오거나이저"
 
-#~ msgid "Home"
-#~ msgstr "홈"
 
-#~ msgid "Personal Files"
-#~ msgstr "혼자만 쓰는 파일"
 
-#~ msgid "KSpaceDuel"
-#~ msgstr "KSpaceDuel"
 
-#~ msgid "Space Arcade Game"
-#~ msgstr "우주 아케이드 게임"
 
-#~ msgid "A Feed Reader for KDE"
-#~ msgstr "피드 리더"
 
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
 
-#~ msgid "Feed Reader"
-#~ msgstr "피드 리더"
 
-#~ msgid "KTouch"
-#~ msgstr "KTouch"
 
-#~ msgid "HTML Image Map Editor"
-#~ msgstr "HTML 이미지 맵 편집기"
 
-#~ msgid "KImageMapEditor"
-#~ msgstr "KImageMapEditor"
 
-#~ msgid "KLinkStatus"
-#~ msgstr "KLinkStatus"
 
-#~ msgid "Link Checker"
-#~ msgstr "링크 상태 검사기"
 
-#~ msgid "KJots"
-#~ msgstr "K조트"
 
-#~ msgid "Note Taker"
-#~ msgstr "메모장"
 
-#~ msgid "KMouth"
-#~ msgstr "KMouth"
 
-#~ msgid "Speech Synthesizer Frontend"
-#~ msgstr "음성 합성기 프론트엔드"
 
-#~ msgid "An engine for cool desktop eyecandy."
-#~ msgstr "멋진 데스크톱 모양을 위한 엔진."
 
-#~ msgid "SuperKaramba"
-#~ msgstr "SuperKaramba"
 
-#~ msgid "Picture Game for Children"
-#~ msgstr "어린이를 위한 그림 게임"
 
-#~ msgid "Potato Guy"
-#~ msgstr "감자돌이"
 
-#~ msgid "A cut & paste history utility"
-#~ msgstr "자르고 붙인 기록 도구"
 
-#~ msgid "Clipboard Tool"
-#~ msgstr "클립보드 도구"
 
-#~ msgid "Klipper"
-#~ msgstr "Klipper"
 
-#~ msgid "Battleship Game"
-#~ msgstr "전함 게임"
 
-#~ msgid "KBattleship"
-#~ msgstr "K전함"
 
-#~ msgid "Card Game"
-#~ msgstr "카드 놀이"
 
-#~ msgid "LSkat"
-#~ msgstr "LSkat"
 
-#~ msgid "CD Player"
-#~ msgstr "CD 연주기"
 
-#~ msgid "KsCD"
-#~ msgstr "KsCD"
 
-#~ msgid "Graph Calculator"
-#~ msgstr "그래프 계산기"
 
-#~ msgid "KAlgebra"
-#~ msgstr "KAlgebra"
 
-#~ msgid "Math Expression Solver and Plotter"
-#~ msgstr "수식 계산기와 그래핑 도구"
 
-#~ msgid "Qt Designer UI File Viewer"
-#~ msgstr "Qt 디자이너 UI 파일 뷰어"
 
-#~ msgid "KAppTemplate"
-#~ msgstr "KAppTemplate"
 
-#~ msgid "KDE Template Generator"
-#~ msgstr "KDE 템플릿 생성기"
 
-#~ msgid "Certificate Manager and Unified Crypto GUI"
-#~ msgstr "인증서 관리자와 통합된 암호화 인터페이스"
 
-#~ msgid "Kleopatra"
-#~ msgstr "Kleopatra"
 
-#~ msgid "Desktop Sharing"
-#~ msgstr "데스크탑 공유"
 
-#~ msgid "Krfb"
-#~ msgstr "Krfb"
 
-#~ msgid "KDE Groupware Wizard"
-#~ msgstr "KDE 그룹웨어 마법사"
 
-#~ msgid "Shisen-Sho"
-#~ msgstr "마작(사이센소)"
 
-#~ msgid "Shisen-Sho Mahjongg-like Tile Game"
-#~ msgstr "시센-쇼 마작과 같은 타일 게임"
 
-#~ msgid "Desktop Search"
-#~ msgstr "데스크톱 검색"
 
-#~ msgid "A memory enhancement game"
-#~ msgstr "기억력 향상 게임"
 
-#~ msgid "Blinken"
-#~ msgstr "Blinken"
 
-#~ msgid "Memory Enhancement Game"
-#~ msgstr "기억력 향상 게임"
 
-#~ msgid "KSudoku, Sudoku game & more for KDE"
-#~ msgstr "KSudoku, KDE를 위한 스도쿠 게임과 그 이상"
 
-#~ msgid "Sudoku Game"
-#~ msgstr "스도쿠 게임"
 
-#~ msgid "A GnuPG frontend"
-#~ msgstr "GnuPG 프론트엔드"
 
-#~ msgid "Encryption Tool"
-#~ msgstr "암호화 도구"
 
-#~ msgid "KGpg"
-#~ msgstr "KGpg"
 
-#~ msgid "A panel applet for resizing and reorientating X screens."
-#~ msgstr "X 화면의 크기를 조정하고 회전시키는 패널 애플릿."
 
-#~ msgid "KRandRTray"
-#~ msgstr "KRandRTray"
 
-#~ msgid "Screen Resize & Rotate"
-#~ msgstr "화면 크기 조정 및 회전"
 
-#~ msgid "KMail"
-#~ msgstr "KDE용 편지"
 
-#~ msgid "KMahjongg"
-#~ msgstr "KMahjongg"
 
-#~ msgid "Mahjongg Solitaire"
-#~ msgstr "마작 게임"
 
-#~ msgid "Konsole"
-#~ msgstr "KDE용 콘솔"
 
-#~ msgid "KReversi"
-#~ msgstr "KReversi"
 
-#~ msgid "Reversi Board Game"
-#~ msgstr "리버시 보드 게임"
 
-#~ msgid "KMail view"
-#~ msgstr "KMail 보기"
 
-#~ msgid "Scientific Calculator"
-#~ msgstr "공학용 계산기"
 
-#~ msgid "Diff/Patch Frontend"
-#~ msgstr "Diff/Patch 프론트엔드"
 
-#~ msgid "Kompare"
-#~ msgstr "Kompare"
 
-#~ msgid "KMag"
-#~ msgstr "KMag"
 
-#~ msgid "Screen Magnifier"
-#~ msgstr "화면 돋보기"
 
-#~ msgid "Countdown Launcher"
-#~ msgstr "카운트다운 실행기"
 
-#~ msgid "KTimer"
-#~ msgstr "KTimer"
 
-#~ msgid "KNetAttach"
-#~ msgstr "KNetAttach"
 
-#~ msgid "Network Folder Wizard"
-#~ msgstr "네트워크 폴더 마법사"
 
-#~ msgid "UML Modeller"
-#~ msgstr "UML 모델러"
 
-#~ msgid "Umbrello"
-#~ msgstr "Umbrello"
 
-#~ msgid "Blackbox Logic Game"
-#~ msgstr "블랙박스 논리 게임"
 
-#~ msgid "KBlackBox"
-#~ msgstr "KBlackBox"
 
-#~ msgid "KAtomic"
-#~ msgstr "KAtomic"
 
-#~ msgid "Sokoban-like Logic Game"
-#~ msgstr "소코반 같은 전략 게임"
 
-#~ msgid "Patience Card Game"
-#~ msgstr "카드 놀이"
 
-#~ msgid "Kontact"
-#~ msgstr "Kontact"
 
-#~ msgid "Personal Information Manager"
-#~ msgstr "개인 정보 관리자"
 
-#~ msgid "Desktop Globe"
-#~ msgstr "데스크톱 지구본"
 
-#~ msgid "Marble"
-#~ msgstr "Marble"
 
-#~ msgid "Bovo"
-#~ msgstr "Bovo"
 
-#~ msgid "Five-in-a-row Board Game"
-#~ msgstr "오목 게임"
 
-#~ msgid "AMOR"
-#~ msgstr "아모르"
 
-#~ msgid "On-Screen Creature"
-#~ msgstr "화면 위 생명체"
 
-#~ msgid "Parley"
-#~ msgstr "Parley"
 
-#~ msgid "Vocabulary Trainer"
-#~ msgstr "어휘 연습 도구"
 
-#~ msgid "Font Viewer"
-#~ msgstr "글꼴 보기 프로그램"
 
-#~ msgid "KFontView"
-#~ msgstr "KFontView"
 
-#~ msgid "Function Plotter"
-#~ msgstr "함수 플로터"
 
-#~ msgid "KmPlot"
-#~ msgstr "KmPlot"
 
-#~ msgid "Mathematical Function Plotter"
-#~ msgstr "수학 함수 플로터"
 
-#~ msgid "Internet Dial-Up Tool"
-#~ msgstr "인터넷 전화 접속 도구"
 
-#~ msgid "KPPP"
-#~ msgstr "KPPP"
 
-#~ msgid "Integrated Development Environment"
-#~ msgstr "통합 개발 환경"
 
-#~ msgid "KDevelop 4"
-#~ msgstr "KDevelop 4"
 
-#~ msgid "Desktop Planetarium"
-#~ msgstr "데스크톱 별자리판"
 
-#~ msgid "KStars"
-#~ msgstr "KStars"
 
-#~ msgid "Four-in-a-row Board Game"
-#~ msgstr "한 줄에 네 개 보드 게임"
 
-#~ msgid "KFourInLine"
-#~ msgstr "KFourInLine"
 
-#~ msgid "KolourPaint"
-#~ msgstr "KolourPaint"
 
-#~ msgid "KAlarm"
-#~ msgstr "KDE 알람"
 
-#~ msgid "Personal Alarm Scheduler"
-#~ msgstr "개인 알람 스케줄러"
 
-#~ msgid "Wallet Management Tool"
-#~ msgstr "지갑 관리 도구"
 
-#~ msgid "KRemoteControl Notifier Item"
-#~ msgstr "KRemoteControl 알림 항목"
 
-#~ msgid "KDiskFree"
-#~ msgstr "KDE 디스트용량확인 도구"
 
-#~ msgid "View Disk Usage"
-#~ msgstr "디스크 사용량 보기"
 
-#~ msgid "Kopete"
-#~ msgstr "Kopete"
 
-#~ msgid "BitTorrent Client"
-#~ msgstr "비트토렌트 클라이언트"
 
-#~ msgid "KCachegrind"
-#~ msgstr "KCachegrind"
 
-#~ msgid "Profiler Frontend"
-#~ msgstr "프로파일러 프론트엔드"
 
-#~ msgid "Visualization of Performance Profiling Data"
-#~ msgstr "성능 프로파일링 데이터 시각화"
 
-#~ msgid "Download Manager"
-#~ msgstr "다운로드 관리자"
 
-#~ msgid "KGet"
-#~ msgstr "KGet"
 
-#~ msgid "A Geography Learning Program"
-#~ msgstr "지리 익히기 프로그램"
 
-#~ msgid "Geography Trainer"
-#~ msgstr "지리 연습 도구"
 
-#~ msgid "Kolor Lines"
-#~ msgstr "Kolor Lines"
 
-#~ msgid "Dolphin"
-#~ msgstr "Dolphin"
 
-#~ msgid "Exercise Fractions"
-#~ msgstr "분수 연습"
 
-#~ msgid "KBruch"
-#~ msgstr "KBruch"
 
-#~ msgid "Practice exercises with fractions"
-#~ msgstr "분수 연습 문제 풀기"
 
-#~ msgid "Lokalize"
-#~ msgstr "vLokalize"
 
-#~ msgid "Info Center"
-#~ msgstr "정보 센터"
 
-#~ msgid "KInfoCenter"
-#~ msgstr "KInfoCenter"
 
-#~ msgid "KTeaTime"
-#~ msgstr "KTeaTime"
 
-#~ msgid "Tea Cooker"
-#~ msgstr "차 끓이기"
 
-#~ msgid "Change Password"
-#~ msgstr "암호 바꾸기"
 
-#~ msgid "Connect the dots to create squares"
-#~ msgstr "점을 연결해서 사각형 만들기"
 
-#~ msgid "KSquares"
-#~ msgstr "KSquares"
 
-#~ msgid "KonsoleKalendar"
-#~ msgstr "KonsoleKalendar"
 
-#~ msgid "Japanese Reference and Study Tool"
-#~ msgstr "일본어 참조 및 학습 도구"
 
-#~ msgid "Japanese Reference/Study Tool"
-#~ msgstr "일본어 참조/학습 도구"
 
-#~ msgid "Kiten"
-#~ msgstr "Kiten"
 
-#~ msgid "KMix"
-#~ msgstr "KMix"
 
-#~ msgid "Sound Mixer"
-#~ msgstr "소리 조절"
 
-#~ msgid "KBugBuster"
-#~ msgstr "KBugBuster"
 
-#~ msgid "KDE Bug Management"
-#~ msgstr "KDE 버그 관리"
 
-#~ msgid "Bookmark Editor"
-#~ msgstr "책갈피 편집기"
 
-#~ msgid "Bookmark Organizer and Editor"
-#~ msgstr "책갈피 관리 도구"
 
-#~ msgid "KFileReplace"
-#~ msgstr "KFileReplace"
 
-#~ msgid "Search & Replace Tool"
-#~ msgstr "찾기 및 바꾸기 도구"
 
-#~ msgid "Akonadi Tray Utility"
-#~ msgstr "Akonadi 트레이 유틸리티"
 
-#~ msgid "Akonaditray"
-#~ msgstr "Akonaditray"
 
-#~ msgid "Kolf"
-#~ msgstr "Kolf"
 
-#~ msgid "Miniature Golf"
-#~ msgstr "모형 골프"
 
-#~ msgid "KWalletManager"
-#~ msgstr "KWalletManager"
 
-#~ msgid "Quassel IRC"
-#~ msgstr "Quassel IRC"
 
-#~ msgid "KwikDisk"
-#~ msgstr "K위크디스크"
 
-#~ msgid "Removable Media Utility"
-#~ msgstr "이동식 미디어 유틸리티"
 
-#~ msgid "Ball Bouncing Game"
-#~ msgstr "튕기는 공 게임"
 
-#~ msgid "KBounce"
-#~ msgstr "KBounce"
 
-#~ msgid "Automatic Mouse Click"
-#~ msgstr "자동 마우스 클릭"
 
-#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
-#~ msgstr "반복성 긴장 장애 효과를 덜어 주는 마우스 자동 클릭 도구"
 
-#~ msgid "KMouseTool"
-#~ msgstr "KMouseTool"
 
-#~ msgid "Quassel IRC (Client only)"
-#~ msgstr "Quassel IRC (클라이언트만)"
 
-#~ msgid "Sweeper"
-#~ msgstr "Sweeper"
 
-#~ msgid "System Cleaner"
-#~ msgstr "시스템 청소기"
 
-#~ msgid "KMines"
-#~ msgstr "KMines"
 
-#~ msgid "Minesweeper-like Game"
-#~ msgstr "지뢰찾기 게임"
 
-#~ msgid "Board Game"
-#~ msgstr "리버시 보드 게임"
 
-#~ msgid "SameGame"
-#~ msgstr "새임 놀이"
 
-#~ msgid "KWrite"
-#~ msgstr "KWrite"
 
-#~ msgid "Software Management"
-#~ msgstr "소프트웨어 관리"
 
-#~ msgid "Advanced Text Editor"
-#~ msgstr "고급 텍스트 편집기"
 
-#~ msgid "Kate"
-#~ msgstr "카테"
 
-#~ msgid "Hex Editor"
-#~ msgstr "16진 편집기"
 
-#~ msgid "Okteta"
-#~ msgstr "Okteta"
 
-#~ msgid "KNode"
-#~ msgstr "K노드"
 
-#~ msgid "News Reader"
-#~ msgstr "새소식 읽개 (유즈넷 클라이언트)"
 
-#~ msgid "Interactive Physical Simulator"
-#~ msgstr "인터랙티브 물리학 시뮬레이터"
 
-#~ msgid "Simulate physics experiments"
-#~ msgstr "물리 실험 시뮬레이션"
 
-#~ msgid "Step"
-#~ msgstr "Stop"
 
-#~ msgid "Menu Editor"
-#~ msgstr "차림표 고치기"
 
-#~ msgid "JuK"
-#~ msgstr "JuK"
 
-#~ msgid "Music Player"
-#~ msgstr "음악 연주기"
 
-#~ msgid "KTimeTracker"
-#~ msgstr "KTimeTracker"
 
-#~ msgid "Personal Time Tracker"
-#~ msgstr "개인용 시간 재기"
 
-#~ msgid "Akonadi Console"
-#~ msgstr "Akonadi 콘솔"
 
-#~ msgid "Akonadi Management and Debugging Console"
-#~ msgstr "Akonadi 관리 및 디버깅 콘솔"
 
-#~ msgid "KRDC"
-#~ msgstr "KRDC"
 
-#~ msgid "Remote Desktop Client"
-#~ msgstr "원격 데스크탑 클라이언트"
 
-#~ msgid "KSystemLog"
-#~ msgstr "KSystemLog"
 
-#~ msgid "System log viewer tool"
-#~ msgstr "시스템 로그 뷰어 도구"
 
-#~ msgid "Educational Programming Environment"
-#~ msgstr "교육 프로그래밍 개발 환경"
 
-#~ msgid "KTurtle"
-#~ msgstr "KTurtle"
 
-#~ msgid "Find Files/Folders"
-#~ msgstr "파일/폴더 찾기"
 
-#~ msgid "Internet Dial-Up Tool Log Viewer"
-#~ msgstr "인터넷 전화 접속 도구 로그 뷰어"
 
-#~ msgid "KPPPLogview"
-#~ msgstr "KPPPLogview"
 
-#~ msgid "Explore Geometric Constructions"
-#~ msgstr "기하학 탐구하기"
 
-#~ msgid "Interactive Geometry"
-#~ msgstr "인터랙티브 기하학"
 
-#~ msgid "Kig"
-#~ msgstr "Kig"
 
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "파일 관리자 - 슈퍼유저 모드"
 
-#~ msgid "KDE Letter Order Game"
-#~ msgstr "KDE 글자 순서 게임"
 
-#~ msgid "Kanagram"
-#~ msgstr "Kanagram"
 
-#~ msgid "Letter Order Game"
-#~ msgstr "글자 순서 게임"
 
-#~ msgid "Popup Notes"
-#~ msgstr "쪽지 띄우기"
 
-#~ msgid "Floppy Formatter"
-#~ msgstr "플로피 디스크를 포맷해주는 도구"
 
-#~ msgid "KFloppy"
-#~ msgstr "KDE 플로피 디스크 유틸리티"
 
-#~ msgid "Dragon Player"
-#~ msgstr "Dragon 플레이어"
 
-#~ msgid "Configure email accounts"
-#~ msgstr "전자메일 계정 설정"
 
-#~ msgid "Email Settings"
-#~ msgstr "전자메일 설정"
 
-#~ msgid "Assign shortcut keys to commands"
-#~ msgstr "명령어에 단축 키를 지정합니다"
 
-#~ msgid "Keyboard Shortcuts"
-#~ msgstr "키보드 바로 가기"
 
-#~ msgid ""
-#~ "HOWTO documents (html format) from the Linux Documentation Project in "
-#~ "Korean"
-#~ msgstr "한국 리눅스 문서화 프로젝트의 하우투 문서 (HTML 형식)"
 
-#~ msgid "XawTV"
-#~ msgstr "XawTV"
 
-#~ msgid "GNU Prolog"
-#~ msgstr "GNU 프롤로그"
 
-#~ msgid "OpenDX"
-#~ msgstr "OpenDX"
 
-#~ msgid ""
-#~ "Create and edit presentations for slideshows, meeting and Web pages by "
-#~ "using Impress."
-#~ msgstr ""
-#~ "Impress를 사용하여 슬라이드 쇼, 회의 및 웹 페이지에 대한 프레젠테이션을 만"
-#~ "들고 편집합니다."
 
-#~ msgid "OpenOffice.org Impress"
-#~ msgstr "OpenOffice.org Impress"
 
-#~ msgid "Qt interface designer"
-#~ msgstr "Qt 인터페이스 디자이너"
 
-#~ msgid "Create and edit scientific formulas and equations by using Math."
-#~ msgstr "Math를 사용하여 수식 및 공학용 수식을 만들고 편집합니다."
 
-#~ msgid "Formula"
-#~ msgstr "공식"
 
-#~ msgid "OpenOffice.org Math"
-#~ msgstr "OpenOffice.org Math"
 
-#~ msgid "Adjust the volume level"
-#~ msgstr "볼륨 단계를 조절합니다"
 
-#~ msgid "Aumix"
-#~ msgstr "오믹스"
 
-#~ msgid "Configure your database environment"
-#~ msgstr "데이터 베이스 환경을 설정합니다"
 
-#~ msgid "Enable/disable installed plugins"
-#~ msgstr "설치한 플러그인 사용/해제"
 
-#~ msgid "Keyboard Indicator plugins"
-#~ msgstr "키보드 알림 플러그인"
 
-#~ msgid "A multiplayer 3D tank battle game"
-#~ msgstr "다중 사용자 3D 전차전 게임"
 
-#~ msgid "BZflag"
-#~ msgstr "BZ플래그"
 
-#~ msgid "Change sound volume and sound events"
-#~ msgstr "사운드 볼륨과 사운드 이벤트를 바꿉니다"
 
-#~ msgid "Choose how other users can remotely view your desktop"
-#~ msgstr "다른 사용자가 데스크탑을 보는 방법을 설정합니다"
 
-#~ msgid "Screensaver"
-#~ msgstr "화면 보호기"
 
-#~ msgid "Set your screensaver preferences"
-#~ msgstr "화면 보호기를 설정합니다"
 
-#~ msgid "Free, easy, personal accounting for everyone."
-#~ msgstr "모두를 위한 무료, 쉬운, 개인 계정 관리"
 
-#~ msgid "HomeBank"
-#~ msgstr "홈 뱅크"
 
-#~ msgid "Open Folder"
-#~ msgstr "열기 폴더"
 
-#~ msgid "Sudoku"
-#~ msgstr "스도쿠"
 
-#~ msgid "Test your logic skills in this number grid puzzle"
-#~ msgstr "이 숫자 퍼즐에서 논리력을 테스트해 보세요"
 
-#~ msgid "Download and share files over BitTorrent"
-#~ msgstr "비트토렌트를 이용하여 파일을 다운로드 및 공유합니다"
 
-#~ msgid "Log File Viewer"
-#~ msgstr "로그 파일 보기"
 
-#~ msgid "View or monitor system log files"
-#~ msgstr "시스템의 로그 파일을 보거나 상태 변화를 봅니다"
 
-#~ msgid "Network Proxy"
-#~ msgstr "네트워크 프록시"
 
-#~ msgid "Set your network proxy preferences"
-#~ msgstr "네트워크 프록시를 설정합니다"
 
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "모질라 썬더버드"
 
-#~ msgid "Use the command line"
-#~ msgstr "명령 행을 사용합니다"
 
-#~ msgid "Choose what applications to start when you log in"
-#~ msgstr "로그인할 때 어떤 프로그램을 시작할 지 고릅니다"
 
-#~ msgid "Startup Applications"
-#~ msgstr "시작 프로그램"
 
-#~ msgid "Preview fonts"
-#~ msgstr "글꼴 미리 보기"
 
-#~ msgid "Clear hidden mines from a minefield"
-#~ msgstr "지뢰밭에서 숨겨진 지뢰를 제거합니다"
 
-#~ msgid "Record sound clips"
-#~ msgstr "사운드 클립을 녹음합니다"
 
-#~ msgid "Set your window properties"
-#~ msgstr "창 등록 정보를 설정합니다"
 
-#~ msgid "Windows"
-#~ msgstr "창"
 
-#~ msgid "Configure power management"
-#~ msgstr "전원 관리 설정"
 
-#~ msgid "Power Management"
-#~ msgstr "전원 관리"
 
-#~ msgid "AisleRiot Solitaire"
-#~ msgstr "아일라이어트 솔리테어"
 
-#~ msgid "Play many different solitaire games"
-#~ msgstr "여러가지 솔리테어 게임을 플레이합니다"
 
-#~ msgid "Add or remove users and groups"
-#~ msgstr "사용자와 그룹을 더하거나 지웁니다"
 
-#~ msgid "Browse the Web"
-#~ msgstr "웹을 돌아 다닙니다"
 
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Firefox 웹 브라우저"
 
-#~ msgid "Qt Linguist"
-#~ msgstr "Qt 언어학자"
 
-#~ msgid "Note-taker"
-#~ msgstr "쪽지 만들기"
 
-#~ msgid "Take notes, link ideas, and stay organized"
-#~ msgstr "쪽지를 쓰고, 아이디어를 연결하고, 정리합니다"
 
-#~ msgid "Tomboy Notes"
-#~ msgstr "톰보이 쪽지"
 
-#~ msgid "Archive Manager"
-#~ msgstr "압축 관리자"
 
-#~ msgid "Create and modify an archive"
-#~ msgstr "압축 파일을 만들고 고칩니다"
 
-#~ msgid "Cancel, pause, resume or reprint jobs"
-#~ msgstr "취소, 일시 정지, 다시 시작, 다시 인쇄"
 
-#~ msgid "Manage Print Jobs"
-#~ msgstr "인쇄 작업 관리"
 
-#~ msgid "Create and edit Web pages by using Writer."
-#~ msgstr "Writer를 사용하여 웹페이지를 만들고 편집합니다."
 
-#~ msgid "OpenOffice.org Writer/Web"
-#~ msgstr "OpenOffice.org Writer/Web"
 
-#~ msgid "Web Page Creation"
-#~ msgstr "웹 페이지 만들기"
 
-#~ msgid "Search & Indexing"
-#~ msgstr "찾기 및 색인"
 
-#~ msgid "Find files, folders, and documents on your computer"
-#~ msgstr "컴퓨터에 들어 있는 파일, 폴더, 문서 찾기"
 
-#~ msgid "About GNOME"
-#~ msgstr "그놈 정보"
 
-#~ msgid "Learn more about GNOME"
-#~ msgstr "그놈을 좀 더 알고 싶을 때"
 
-#~ msgid "Gnumeric"
-#~ msgstr "G뉴메릭"
 
-#~ msgid "Keyboard"
-#~ msgstr "키보드"
 
-#~ msgid "Set your keyboard preferences"
-#~ msgstr "키보드 등록 정보를 설정합니다"
 
-#~ msgid "Disassemble a pile of tiles by removing matching pairs"
-#~ msgstr "같은 두 개의 타일을 지워나가서 타일 더미를 모두 없앱니다"
 
-#~ msgid "Mahjongg"
-#~ msgstr "마작"
 
-#~ msgid "TkCVS"
-#~ msgstr "TkCVS"
 
-#~ msgid "Mouse"
-#~ msgstr "마우스"
 
-#~ msgid "Set your mouse preferences"
-#~ msgstr "마우스 기본 설정을 설정합니다"
 
-#~ msgid "Cheese"
-#~ msgstr "치즈"
 
-#~ msgid "Take photos and videos with your webcam, with fun graphical effects"
-#~ msgstr ""
-#~ "웹카메라에서 사진과 비디오를 찍고, 재미있는 그래픽 효과를 사용할 수도 있습"
-#~ "니다"
 
-#~ msgid "Dominate the board in a classic version of Reversi"
-#~ msgstr "리버시 게임의 전통적인 버전에서 보드를 차지합니다"
 
-#~ msgid "Iagno"
-#~ msgstr "Iagno"
 
-#~ msgid "Observe power management"
-#~ msgstr "전원 관리 관찰"
 
-#~ msgid "Power Statistics"
-#~ msgstr "전원 통계"
 
-#~ msgid ""
-#~ "Create and edit text and graphics in letters, reports, documents and Web "
-#~ "pages by using Writer."
-#~ msgstr ""
-#~ "Writer를 사용하여 편지, 보고서, 문서 및 웹 페이지에서 텍스트와 그림을 만들"
-#~ "고 편집할 수 있습니다."
 
-#~ msgid "OpenOffice.org Writer"
-#~ msgstr "OpenOffice.org Writer"
 
-#~ msgid "Four-in-a-Row"
-#~ msgstr "사목"
 
-#~ msgid "Make lines of the same color to win"
-#~ msgstr "같은 색을 한 줄로 놓아야 이기는 게임"
 
-#~ msgid "Database"
-#~ msgstr "데이터베이스"
 
-#~ msgid ""
-#~ "Manage databases, create queries and reports to track and manage your "
-#~ "information by using Base."
-#~ msgstr ""
-#~ "Base를 사용하여 데이터베이스를 관리하고, 추적할 쿼리와 보고서를 만들며, 정"
-#~ "보를 관리합니다."
 
-#~ msgid "OpenOffice.org Base"
-#~ msgstr "OpenOffice.org Base"
 
-#~ msgid "Time Tracker"
-#~ msgstr "시간 추적"
 
-#~ msgid "Dasher"
-#~ msgstr "Dasher"
 
-#~ msgid "Enter text without a keyboard"
-#~ msgstr "키보드 없이 텍스트 입력"
 
-#~ msgid "Predictive text entry"
-#~ msgstr "예측 텍스트 입력창"
 
-#~ msgid "The GNOME configuration tool"
-#~ msgstr "그놈 설정 도구"
 
-#~ msgid "Pan Newsreader"
-#~ msgstr "판, 뉴스리더"
 
-#~ msgid "Read News from Usenet"
-#~ msgstr "유스넷에서 뉴스 읽기"
 
-#~ msgid "Perform arithmetic, scientific or financial calculations"
-#~ msgstr "일반 연산 및 공학용, 재무용 계산을 합니다"
 
-#~ msgid "Change the behaviour and appearance of file manager windows"
-#~ msgstr "파일 관리자 창의 특성과 모양새를 바꿉니다"
 
-#~ msgid "File Management"
-#~ msgstr "파일 관리"
 
-#~ msgid "The standard terminal emulator for the X Window System"
-#~ msgstr "X용 표준 터미널 에뮬레이터"
 
-#~ msgid "XTerm"
-#~ msgstr "엑스텀"
 
-#~ msgid "A frontend for the nmap port scanner"
-#~ msgstr "NMAP 포트 스캐너 프론트엔드"
 
-#~ msgid "Qt Assistant - 3"
-#~ msgstr "Qt 언어학자 - 3"
 
-#~ msgid "Tool for translating message catalogues of Qt based programs"
-#~ msgstr ""
-#~ "Qt를 바탕으로 하는 프로그램에서 쓸 번역된 메세지 목록을 관리하는 도구"
 
-#~ msgid "Planner Project Management"
-#~ msgstr "Planner 프로젝트 관리 프로그램"
 
-#~ msgid "Ekiga Softphone"
-#~ msgstr "에키가 소프트전화"
 
-#~ msgid "IP Telephony, VoIP and Video Conferencing"
-#~ msgstr "IP 전화, VoIP 및 화상 회의"
 
-#~ msgid "Talk to people over the Internet"
-#~ msgstr "인터넷을 통해 사람들과 얘기합니다"
 
-#~ msgid "WMnet"
-#~ msgstr "WMnet"
 
-#~ msgid "J-Pilot"
-#~ msgstr "J파일롯"
 
-#~ msgid "Edit text files"
-#~ msgstr "텍스트 파일을 편집합니다"
 
-#~ msgid "gedit"
-#~ msgstr "gedit"
 
-#~ msgid "Configure file indexing with Tracker"
-#~ msgstr "트래커 파일 인덱싱 설정"
 
-#~ msgid "Search and Indexing"
-#~ msgstr "찾기와 인덱싱"
 
-#~ msgid "Bonobo Component Browser"
-#~ msgstr "보노보 컴포넌트 브라우저"
 
-#~ msgid "Shows available Bonobo components"
-#~ msgstr "사용할 수 있는 보노보 컴포넌트를 표시합니다"
 
-#~ msgid "Joe"
-#~ msgstr "조"
 
-#~ msgid "Evolution"
-#~ msgstr "에볼루션"
 
-#~ msgid "Groupware Suite"
-#~ msgstr "그룹웨어 모음"
 
-#~ msgid "Manage your email, contacts and schedule"
-#~ msgstr "전자메일, 연락처, 일정을 관리합니다"
 
-#~ msgid "Howtos German"
-#~ msgstr "하우투 문서(독일어)"
 
-#~ msgid "Internet Messenger"
-#~ msgstr "인터넷 메신저"
 
-#~ msgid "Pidgin Internet Messenger"
-#~ msgstr "Pidgin 인터넷 메신저"
 
-#~ msgid "System information"
-#~ msgstr "시스템 정보"
 
-#~ msgid "Xsysinfo"
-#~ msgstr "X시스템 정보"
 
-#~ msgid ""
-#~ "Locate documents and folders on this computer by name or content using "
-#~ "Tracker"
-#~ msgstr ""
-#~ "트래커를 통해 이름이나 내용으로 컴퓨터 내의 파일과 폴더를 찾아봅니다"
 
-#~ msgid "Tracker Search Tool"
-#~ msgstr "트래커 찾기 도구"
 
-#~ msgid "HardDrake"
-#~ msgstr "하드 드레이크"
 
-#~ msgid "Hardware Central Configuration/information tool"
-#~ msgstr "하드웨어 설정/정보 도구"
 
-#~ msgid "Frontend for easy printing with CUPS"
-#~ msgstr "CUPS 인쇄용 프론트엔드"
 
-#~ msgid "Play and organize your music collection"
-#~ msgstr "음악 모음을 연주하고 정리합니다"
 
-#~ msgid "Rhythmbox"
-#~ msgstr "리듬박스"
 
-#~ msgid "View and organize your images"
-#~ msgstr "그림을 보고 관리도 하세요"
 
-#~ msgid "Orca"
-#~ msgstr "오르카"
 
-#~ msgid ""
-#~ "Present on-screen information as speech or braille, or magnify the screen"
-#~ msgstr ""
-#~ "스크린 위의 정보를 음성으로 말하거나 점자로 나타내고, 화면을 확대해서 보여"
-#~ "줍니다"
 
-#~ msgid "Screen Reader and Magnifier"
-#~ msgstr "스크린 읽어주기 프로그램 및 돋보기"
 
-#~ msgid "SCIM Input Method Setup"
-#~ msgstr "SCIM 입력기 설정"
 
-#~ msgid "Setup utility for Smart Common Input Method platform"
-#~ msgstr "똑똑한 공통 입력 방법 (SCIM)을 위한 설정 프로그램"
 
-#~ msgid "All-purpose text editor"
-#~ msgstr "다재다능 텍스트 편집기"
 
-#~ msgid "VI editor"
-#~ msgstr "VI 편집기"
 
-#~ msgid "Howtos Greek"
-#~ msgstr "하우투 문서(그리스어)"
 
-#~ msgid "FreeCell Solitaire"
-#~ msgstr "프리셀 솔리테어"
 
-#~ msgid "Play the popular FreeCell card game"
-#~ msgstr "유명한 프리셀 카드 게임"
 
-#~ msgid "Window Manager"
-#~ msgstr "창 관리자"
 
-#~ msgid "A utility to read and manipulate raw images from digital cameras"
-#~ msgstr "디지털 카메라의 Raw 이미지를 읽고, 처리하는 프로그램"
 
-#~ msgid "Raw image converter"
-#~ msgstr "Raw 이미지 변환기"
 
-#~ msgid "Directly edit your entire configuration database"
-#~ msgstr "전체 설정 데이타베이스를 직접 편집합니다"
 
-#~ msgid "Create and edit Scalable Vector Graphics images"
-#~ msgstr "SVG(크기 조정 가능한 벡터 그래픽) 이미지  생성"
 
-#~ msgid "Customize uim input method environment"
-#~ msgstr "uim 환경설정"
 
-#~ msgid "Input Method"
-#~ msgstr "입력기"
 
-#~ msgid "Autorun Prompt"
-#~ msgstr "자동시작 확인"
 
-#~ msgid "Create images and edit photographs"
-#~ msgstr "이미지를 만들거나 사진을 편집합니다."
 
-#~ msgid "GIMP"
-#~ msgstr "김프"
 
-#~ msgid "Image Editor"
-#~ msgstr "이미지 편집기"
 
-#~ msgid "Another 3d lightcycle game"
-#~ msgstr "또다른 3D 경륜 게임"
 
-#~ msgid "XFig"
-#~ msgstr "X피그"
 
-#~ msgid "Bug Report Tool"
-#~ msgstr "버그 보고 도구"
 
-#~ msgid "Report a bug in GNOME-based applications"
-#~ msgstr "그놈 프로그램에 들어 있는 버그 보고"
 
-#~ msgid "Breakout-style arcade game"
-#~ msgstr "브레이크아웃 스타일의 아케이드 게임"
 
-#~ msgid "Rocks n Diamonds"
-#~ msgstr "돌과 다이아몬드"
 
-#~ msgid "Lights Off"
-#~ msgstr "불 끄기"
 
-#~ msgid "Turn off all the lights"
-#~ msgstr "모든 불을 끄십시오"
 
-#~ msgid "Import into F-Spot"
-#~ msgstr "F-스팟으로 가져오기"
 
-#~ msgid "Create and edit drawings, flow charts, and logos by using Draw."
-#~ msgstr "그리기를 사용하여 그리기, 순서도 및 로고를 만들고 편집합니다."
 
-#~ msgid "Drawing"
-#~ msgstr "그리기"
 
-#~ msgid "OpenOffice.org Draw"
-#~ msgstr "OpenOffice.org Draw"
 
-#~ msgid "Guide a worm around a maze"
-#~ msgstr "벌레를 조종해 미로를 통과합니다"
 
-#~ msgid "Nibbles"
-#~ msgstr "Nibbles"
 
-#~ msgid "KDE interface for MPlayer"
-#~ msgstr "KDE MPlayer 인터페이스"
 
-#~ msgid "KMPlayer"
-#~ msgstr "KMPlayer"
 
-#~ msgid "KAudioCreator"
-#~ msgstr "KAudioCreator"
 
-#~ msgid "KMid"
-#~ msgstr "KMid"
 
-#~ msgid "GNOME Hexadecimal Editor"
-#~ msgstr "그놈 16진 편집기"
 
-#~ msgid "Tux Paint"
-#~ msgstr "턱스페인트"
 
-#~ msgid "Terminal Emulator"
-#~ msgstr "터미널 에뮬레이터"
 
-#~ msgid "Bulk Rename"
-#~ msgstr "Bulk Rename"
 
-#~ msgid "Rename Multiple Files"
-#~ msgstr "다중 파일의 이름을 바꿉니다."
 
-#~ msgid "Open Folder with Thunar"
-#~ msgstr "Thunar로 폴더 열기"
 
-#~ msgid "Open the specified folders in Thunar"
-#~ msgstr "Thunar에서 지정된 폴더 열기"
 
-#~ msgid "Thunar File Manager"
-#~ msgstr "Thunar 파일 관리자"
 
-#~ msgid "Differences tool"
-#~ msgstr "차이 도구"
 
-#~ msgid "File difference and patch visualiser"
-#~ msgstr "diff와 patch를 도와 줍니다."
 
-#~ msgid "Automatic Bug Reporting Tool"
-#~ msgstr "자동 버그 보고 도구 (ABRT) "
 
-#~ msgid "Develop software in an integrated development environment"
-#~ msgstr "통합 개발 환경에서 소프트웨어를 개발하세요"
 
-#~ msgid "A dock-like window navigator."
-#~ msgstr "독 방식의 윈도우 내비게이터"
 
-#~ msgid "Avant Window Navigator"
-#~ msgstr "아반트 윈도우 내비게이터"
 
-#~ msgid "Awn Settings"
-#~ msgstr "AWN 설정"
 
-#~ msgid "Manage Awn preferences, launchers, applets and themes"
-#~ msgstr "Awn 설정, 런처, 애플릿, 테마를 관리합니다"
 
-#~ msgid "My Web Accounts"
-#~ msgstr "내 웹 계정"
 
-#~ msgid "myzone & status"
-#~ msgstr "myzone & 상태 "
 
-#~ msgid "Bluetooth Manager"
-#~ msgstr "블루투스 관리자"
 
-#~ msgid "Chromium Web Browser"
-#~ msgstr "Chromium 웹 브라우저"
 
-#~ msgid "Scan for viruses..."
-#~ msgstr "바이러스 검사..."
 
-#~ msgid "Virus Scanner"
-#~ msgstr "바이러스 검사기"
 
-#~ msgid "Contacts"
-#~ msgstr "Contacts"
 
-#~ msgid "Power Management Preferences"
-#~ msgstr "전력 관리 기본 설정"
 
-#~ msgid "Settings for adjusting power usage"
-#~ msgstr "전력 사용량 조절에 대한 설정 "
 
-#~ msgid "Edit tags in your audio files"
-#~ msgstr "오디오 파일 태그 편집"
 
-#~ msgid "Gadmin-Bind"
-#~ msgstr "Gadmin-Bind"
 
-#~ msgid "Gadmin-Dhcpd"
-#~ msgstr "Gadmin-Dhcpd"
 
-#~ msgid "Gadmin-HTTPD"
-#~ msgstr "Gadmin-HTTPD"
 
-#~ msgid "Gadmin-OpenVPN-client"
-#~ msgstr "Gadmin-OpenVPN-client"
 
-#~ msgid "Gadmin-OpenVPN-server"
-#~ msgstr "Gadmin-OpenVPN-server"
 
-#~ msgid "Gadmin-Proftpd"
-#~ msgstr "Gadmin-Proftpd"
 
-#~ msgid "GAdmin-Rsync"
-#~ msgstr "GAdmin-Rsync"
 
-#~ msgid "Gadmin-Samba"
-#~ msgstr "Gadmin-Samba"
 
-#~ msgid "Gadmin-Squid"
-#~ msgstr "Gadmin-Squid"
 
-#~ msgid "Administration for gcompris"
-#~ msgstr "gcompris 관리"
 
-#~ msgid "Educational game for ages 2 to 10"
-#~ msgstr "2~10세 아이들의 위한 교육 게임"
 
-#~ msgid "Educational suite GCompris"
-#~ msgstr "교육 도우미 GCompris"
 
-#~ msgid "Multi-activity educational game"
-#~ msgstr "여러가지 교육 활동 게임"
 
-#~ msgid "A fast and lightweight IDE using GTK2"
-#~ msgstr "빠르고 가벼운 GTK2 기반의 통합개발환경"
 
-#~ msgid "Geany"
-#~ msgstr "지니"
 
-#~ msgid "Text Editor (administrator)"
-#~ msgstr "텍스트 편집기 (관리자에게)"
 
-#~ msgid "Configure behavior of the privilege-granting tool"
-#~ msgstr "관리 권한 부여 프로그램의 동작을 설정합니다"
 
-#~ msgid "Privilege granting"
-#~ msgstr "관리 권한 부여"
 
-#~ msgid ""
-#~ "Opens a terminal as the root user, using gksu to ask for the password"
-#~ msgstr "루트 사용자로 터미널을 열고, GKSU로 열쇠글을 물어봅니다"
 
-#~ msgid "Root Terminal"
-#~ msgstr "루트 터미널"
 
-#~ msgid "Create labels, business cards and media covers"
-#~ msgstr "라벨, 명함 그리고 미디어 커버 만들기"
 
-#~ msgid "A two paned file manager"
-#~ msgstr "이중 창 파일 매니저"
 
-#~ msgid "GNOME Commander"
-#~ msgstr "GNOME 커맨더"
 
-#~ msgid "Configure your printers"
-#~ msgstr "프린터를 설정합니다"
 
-#~ msgid "Network Tools"
-#~ msgstr "네트워크 도구"
 
-#~ msgid "View information about your network"
-#~ msgstr "네트워크의 정보를 봅니다."
 
-#~ msgid "Desktop Library Package Inspector"
-#~ msgstr "데스크탑 라이브러리 패키지 검사"
 
-#~ msgid "Get useful information about installed GNOME desktop libraries"
-#~ msgstr "설치된 그놈 데스크탑 라이브러리에 대한 유용한 정보"
 
-#~ msgid "Personal File Sharing"
-#~ msgstr "개인 파일 공유"
 
-#~ msgid "Preferences for sharing of files"
-#~ msgstr "파일 공유에 대한 기본 설정"
 
-#~ msgid "Find, download, and play free music."
-#~ msgstr "Find, download, and play free music."
 
-#~ msgid "Gnomoradio Music Player"
-#~ msgstr "Gnomoradio 음악 연주기"
 
-#~ msgid "Gnote"
-#~ msgstr "G노트"
 
-#~ msgid "Play and extract CDs"
-#~ msgstr "CD를 연주하고 파일로 저장합니다"
 
-#~ msgid "GParted"
-#~ msgstr "GParted"
 
-#~ msgid "Tetrinet client"
-#~ msgstr "테트리넷 클라이언트"
 
-#~ msgid "Tetrinet client for GNOME"
-#~ msgstr "그놈 테트리넷 클라이언트"
 
-#~ msgid "Gwibber"
-#~ msgstr "Gwibber"
 
-#~ msgid "Watch & listen"
-#~ msgstr "보기 및 듣기"
 
-#~ msgid "Helix Community's open source media player"
-#~ msgstr "헬릭스 공동체의 오픈소스 미디어 플레이어"
 
-#~ msgid "Helix Player"
-#~ msgstr "Helix Player"
 
-#~ msgid "IBus Preferences"
-#~ msgstr "IBus 환경 설정  "
 
-#~ msgid "Set IBus Preferences"
-#~ msgstr "IBus 환경 설정"
 
-#~ msgid "IBus"
-#~ msgstr "IBus"
 
-#~ msgid "Input Method Framework"
-#~ msgstr "입력 방식 프레임워크"
 
-#~ msgid "Start IBus Input Method Framework"
-#~ msgstr "IBus 입력 방식 프레임워크 시작"
 
-#~ msgid "Game Creation Tool"
-#~ msgstr "Game Creation Tool"
 
-#~ msgid "Gluon Creator"
-#~ msgstr "Gluon Creator"
 
-#~ msgid "Kaffeine"
-#~ msgstr "Kaffeine"
 
-#~ msgid "A File And Directory Comparison And Merge Tool"
-#~ msgstr "파일과 디렉터리 비교 및 병합 도구"
 
-#~ msgid "A currency converter and calculator"
-#~ msgstr "통화 계산기 및 변환기"
 
-#~ msgid "KEuroCalc"
-#~ msgstr "KEuroCalc"
 
-#~ msgid "(La)TeX development environment"
-#~ msgstr "LaTeX 개발 환경"
 
-#~ msgid "Kile"
-#~ msgstr "Kile"
 
-#~ msgid "LaTeX Frontend"
-#~ msgstr "LaTeX 프론트엔드"
 
-#~ msgid "Network Monitor"
-#~ msgstr "네트워크 감시"
 
-#~ msgid "Cooking Book"
-#~ msgstr "요리책"
 
-#~ msgid "Krecipes"
-#~ msgstr "Krecipes"
 
-#~ msgid "The KDE Cooking Book"
-#~ msgstr "KDE 요리책"
 
-#~ msgid "A KDE KPart Application"
-#~ msgstr "KDE용 KPart 응용 프로그램"
 
-#~ msgid "A KDE4 Application"
-#~ msgstr "KDE4 프로그램"
 
-#~ msgid "Makes sure you rest now and then"
-#~ msgstr "적당한 때 쉴 수 있도록 도와줍니다"
 
-#~ msgid "Scan and save images"
-#~ msgstr "그림 스캔과 저장"
 
-#~ msgid "Skanlite"
-#~ msgstr "Skanlite"
 
-#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
-#~ msgstr "KDE Konsole을 기반으로 한 드롭 다운 방식 터미널 에뮬레이터."
 
-#~ msgid "Drop-down Terminal"
-#~ msgstr "위에서 내려오는 터미널"
 
-#~ msgid "Yakuake"
-#~ msgstr "Yakuake"
 
-#~ msgid "Listen Music Player"
-#~ msgstr "Listen 음악 재생기"
 
-#~ msgid "Listen, browse, or edit your audio collection"
-#~ msgstr "오디오 컬렉션을 듣고, 탐색하고, 편집하십시오."
 
-#~ msgid "Clanbomber - free (GPL) Bomberman-like multiplayer game"
-#~ msgstr "클랜밤어 - 자유 (GPL) 폭파대류 멀티플레이어 게임"
 
-#~ msgid "Inventory"
-#~ msgstr "인벤토리"
 
-#~ msgid "A great racing game starring Tux"
-#~ msgstr "반짝이는 턱스의 경주 게임"
 
-#~ msgid "Marlin Sample Editor"
-#~ msgstr "Marlin 샘플 편집기"
 
-#~ msgid "Panel Manager"
-#~ msgstr "패널 관리자"
 
-#~ msgid "Lightweight web browser"
-#~ msgstr "가벼운 웹 브라우저"
 
-#~ msgid "Midori"
-#~ msgstr "미도리"
 
-#~ msgid "It's the internet"
-#~ msgstr "이것이 바로 인터넷입니다. "
 
-#~ msgid "Mousepad"
-#~ msgstr "마우스패드"
 
-#~ msgid "Muine Music Player"
-#~ msgstr "Muine 음악 연주기"
 
-#~ msgid "Add items to the Nautilus popup menu"
-#~ msgstr "노틸러스 팝업 메뉴에 항목을 더합니다"
 
-#~ msgid "Nautilus Actions Configuration"
-#~ msgstr "노틸러스 동작 설정"
 
-#~ msgid "Manage and change your network connection settings"
-#~ msgstr "여러분의 네트워크 연결 설정을 관리하고 변경합니다."
 
-#~ msgid "Network Connections"
-#~ msgstr "네트워크 연결"
 
-#~ msgid "Enable/disable write support for NTFS with a simple click."
-#~ msgstr "NTFS 쓰기 지원을 한번 클릭으로 끄고 켭니다."
 
-#~ msgid "NTFS Configuration Tool"
-#~ msgstr "NTFS 쓰기 지원 설정 도구"
 
-#~ msgid "Bittorrent client"
-#~ msgstr "비토렌트 클라이언트"
 
-#~ msgid "qBittorrent"
-#~ msgstr "큐비토런트"
 
-#~ msgid "Listen to, browse, or edit your audio collection"
-#~ msgstr "듣기, 검색 및 오디오 모음 편집"
 
-#~ msgid "Decrypt File"
-#~ msgstr "파일 복호화"
 
-#~ msgid "Import Key"
-#~ msgstr "키 가져오기"
 
-#~ msgid "Configure key servers and other encryption settings"
-#~ msgstr "키 서버 및 기타 암호화 관련 옵션을 설정합니다"
 
-#~ msgid "Encryption and Keyrings"
-#~ msgstr "암호화 및 키 모음"
 
-#~ msgid "Verify Signature"
-#~ msgstr "서명 확인"
 
-#~ msgid "Manage your passwords and encryption keys"
-#~ msgstr "열쇠글 및 암호화 키를 관리합니다"
 
-#~ msgid "Passwords and Encryption Keys"
-#~ msgstr "열쇠글 및 암호화 키"
 
-#~ msgid "Services"
-#~ msgstr "서비스"
 
-#~ msgid "Configure which folders are available for your network neighborhood"
-#~ msgstr "네트워크에서 사용가능한 폴더 설정"
 
-#~ msgid "Shared Folders"
-#~ msgstr "공유 폴더"
 
-#~ msgid "Organize your photos"
-#~ msgstr "Shotwell Photo Manager"
 
-#~ msgid "Play Adobe Flash files"
-#~ msgstr "어도비 플래시 파일을 연주합니다"
 
-#~ msgid "Swfdec Flash Player"
-#~ msgstr "Swfdec 플래시 연주기"
 
-#~ msgid "Change the default Java toolset"
-#~ msgstr "기본값 Java 툴셋 변경 "
 
-#~ msgid "Multiple terminals in one window"
-#~ msgstr "창 하나에 터미널 여러 개 쓰기"
 
-#~ msgid "Terminator"
-#~ msgstr "터미네이터"
 
-#~ msgid "Change system time, date, and timezone"
-#~ msgstr "시간, 날짜와 시간대를 설정합니다"
 
-#~ msgid "Terminal Server Client"
-#~ msgstr "터미널 서버 클라이언트"
 
-#~ msgid "A drawing program for children."
-#~ msgstr "어린이를 위한 미술 프로그램"
 
-#~ msgid "Manage virtual machines"
-#~ msgstr "가상 장치 관리  "
 
-#~ msgid "Virtual Machine Manager"
-#~ msgstr "가상 장치 관리자"
 
-#~ msgid ""
-#~ "A translation tool to help a human translator translate files into other "
-#~ "languages"
-#~ msgstr ""
-#~ "이 프로그램은 여러가지 파일 내의 언어를 다른 언어로 번역하는데 도움을 주"
-#~ "기 위한 프로그램입니다."
 
-#~ msgid "Virtaal"
-#~ msgstr "Virtaal"
 
-#~ msgid "XChat-GNOME IRC Chat"
-#~ msgstr "XChat: DCC 대화 목록"
 
-#~ msgid "CD and DVD burning application"
-#~ msgstr "CD/DVD 기록 프로그램"
 
-#~ msgid "Xfburn"
-#~ msgstr "Xfburn"
 
-#~ msgid "Desktop calendar"
-#~ msgstr "작업 공간 달력"
 
-#~ msgid "Orage"
-#~ msgstr "Orage"
 
-#~ msgid "Graphical Settings Manager for Xfce 4"
-#~ msgstr "멋진 Xfce 4 설정 도구"
 
-#~ msgid "Settings Manager"
-#~ msgstr "설정 도구"
 
-#~ msgid "Xfce 4 Settings Manager"
-#~ msgstr "Xfce 4 설정 도구"
 
-#~ msgid "Window Manager Tweaks"
-#~ msgstr "창 관리자 기능향상"
 
-#~ msgid "Set number and names of workspaces"
-#~ msgstr "작업공간의 수 및 이름 설정"
 
-#~ msgid "Calendar Settings"
-#~ msgstr "달력 설정"
 
-#~ msgid "Settings for the Xfce 4 Calendar Application"
-#~ msgstr "Xfce 4 달력의 환경 설정"
 
-#~ msgid "Xfce 4 Calendar Settings"
-#~ msgstr "Xfce 4 달력 설정"
 
-#~ msgid "About Xfce"
-#~ msgstr "Xfce란"
 
-#~ msgid "Information about the Xfce Desktop Environment"
-#~ msgstr "Xfce 데스크탑 환경에 대한 정보"
 
-#~ msgid "Thunar file manager"
-#~ msgstr "Thunar 화일관리자"
-
-#~ msgid "Help using Xfce"
-#~ msgstr "Xfce 도움말"
-
-#~ msgid "Log Out"
-#~ msgstr "종료"
-
-#~ msgid "Log out of the Xfce Desktop"
-#~ msgstr "Xfce 4 데스크탑 종료"
-
-#~ msgid "Run Program..."
-#~ msgstr "프로그램 실행..."
-
-#~ msgid "Run a program"
-#~ msgstr "프로그램 실행"
-
-#~ msgid "Terminal emulator"
-#~ msgstr "터미널 에뮬레이터"
-
-#~ msgid "Print Manager"
-#~ msgstr "출력 관리자"
-
-#~ msgid "Show the printer list and allow you to manage their jobs"
-#~ msgstr "프린터 목록을 보여주고 각 출력작업을 조정"
-
-#~ msgid "Xfce 4 Print Manager"
-#~ msgstr "Xfce 4 출력 관리자"
-
-#~ msgid ""
-#~ "Allow you to select the printing system backend that xfprint will use"
-#~ msgstr "xfprint에서 사용할 출력시스템을 선택할 수 있도록 함"
-
-#~ msgid "Printing System Settings"
-#~ msgstr "출력 시스템 설정"
-
-#~ msgid "Xfce 4 Printing System Settings"
-#~ msgstr "xfce 4 출력 시스템 설정"
-
-#~ msgid "Print Dialog"
-#~ msgstr "출력 대화상자"
-
-#~ msgid "Print a file and allow you to set up its layout"
-#~ msgstr "화일을 출력하고 출력모양을 설정할 수 있게 함"
-
-#~ msgid "Xfce 4 Print Dialog"
-#~ msgstr "Xfce 4 출력 대화상자"
-
-#~ msgid "Xpad"
-#~ msgstr "Xpad"
