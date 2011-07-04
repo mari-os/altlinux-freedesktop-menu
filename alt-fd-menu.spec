@@ -4,8 +4,9 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.41
+Version: 0.42
 Release: alt1
+#Release: alt0.M60P.1
 
 Summary: Implementation of the freedesktop.org menu specification
 License: BSD or GPL
@@ -268,6 +269,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Mon Jul 04 2011 Igor Vlasenko <viy@altlinux.ru> 0.42-alt1
+- simplified Settings > KDE (#25875)
+
 * Mon May 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.41-alt1
 - build without gnome2, to be included in gnome3 transaction
 

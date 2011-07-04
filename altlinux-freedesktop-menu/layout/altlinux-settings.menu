@@ -178,16 +178,25 @@
 				<Merge type="files"/>
 			</Layout>
 
-
-			<Menu>
-				<Name>KControlSettings</Name>
-				<Directory>kde/settings.directory</Directory>
-			</Menu>
-			<MergeFile>../../kde/xdg/menus/kde-settings.menu</MergeFile>
 			<Include>
 				<And>
 					<Category>Settings</Category>
+					<Or>
 					<Category>KDE</Category>
+					<Category>X-KDE-settings-accessibility</Category>
+					<Category>X-KDE-settings-bluetooth</Category>
+					<Category>X-KDE-settings-components</Category>
+					<Category>X-KDE-settings-desktop</Category>
+					<Category>X-KDE-settings-hardware</Category>
+					<Category>X-KDE-settings-looknfeel</Category>
+					<Category>X-KDE-settings-network</Category>
+					<Category>X-KDE-settings-peripherals</Category>
+					<Category>X-KDE-settings-power</Category>
+					<Category>X-KDE-settings-security</Category>
+					<Category>X-KDE-settings-sound</Category>
+					<Category>X-KDE-settings-system</Category>
+					<Category>X-KDE-settings-webbrowsing</Category>
+					</Or>
 					<Not><Category>Printing</Category></Not>
 					<Not><Category>HardwareSettings</Category></Not>
 					<Not><Category>PackageManager</Category></Not>
@@ -196,21 +205,6 @@
 					<Not><Category>Network</Category></Not>
 					<Not><Category>System</Category></Not>
 					<Not><Category>DesktopSettings</Category></Not>
-
-					<Not><Category>X-KDE-settings-accessibility</Category></Not>
-					<Not><Category>X-KDE-settings-bluetooth</Category></Not>
-					<Not><Category>X-KDE-settings-components</Category></Not>
-					<Not><Category>X-KDE-settings-desktop</Category></Not>
-					<Not><Category>X-KDE-settings-hardware</Category></Not>
-					<Not><Category>X-KDE-settings-looknfeel</Category></Not>
-					<Not><Category>X-KDE-settings-network</Category></Not>
-					<Not><Category>X-KDE-settings-peripherals</Category></Not>
-					<Not><Category>X-KDE-settings-power</Category></Not>
-					<Not><Category>X-KDE-settings-security</Category></Not>
-					<Not><Category>X-KDE-settings-sound</Category></Not>
-					<Not><Category>X-KDE-settings-system</Category></Not>
-					<Not><Category>X-KDE-settings-webbrowsing</Category></Not>
-
 				</And>
 			</Include>
 		</Menu>

@@ -65,6 +65,38 @@
 	  <New>Accessibility</New>
 	</Move>
 
+	<Menu>
+	  <Name>Settings</Name>
+	  <Menu>
+		<Name>DesktopSettings</Name>
+		<Menu>
+			<Name>KDE</Name>
+			<Menu>
+				<Name>KControlSettings</Name>
+				<Directory>kde/settings.directory</Directory>
+			</Menu>
+			<MergeFile>../../kde/xdg/menus/kde-settings.menu</MergeFile>
+			<Exclude>
+				<Or>
+					<Category>X-KDE-settings-accessibility</Category>
+					<Category>X-KDE-settings-bluetooth</Category>
+					<Category>X-KDE-settings-components</Category>
+					<Category>X-KDE-settings-desktop</Category>
+					<Category>X-KDE-settings-hardware</Category>
+					<Category>X-KDE-settings-looknfeel</Category>
+					<Category>X-KDE-settings-network</Category>
+					<Category>X-KDE-settings-peripherals</Category>
+					<Category>X-KDE-settings-power</Category>
+					<Category>X-KDE-settings-security</Category>
+					<Category>X-KDE-settings-sound</Category>
+					<Category>X-KDE-settings-system</Category>
+					<Category>X-KDE-settings-webbrowsing</Category>
+				</Or>
+			</Exclude>
+		</Menu>
+	  </Menu>
+	</Menu>
+
 	<Move>
 	  <Old>Settings/DesktopSettings/KDE</Old>
 	  <New>Settings/NativeSettings</New>
