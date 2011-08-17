@@ -15,35 +15,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Գրաֆիկա"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Գրաֆիկա"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Խաղեր և զվարճություններ"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Մատչելիություն"
 
-#, fuzzy
 msgid "Action"
-msgstr "Ուսուցում"
+msgstr ""
 
 msgid "Action Games"
 msgstr ""
@@ -57,16 +51,14 @@ msgstr "Կառավարում"
 msgid "Adventure"
 msgstr "Արկածային"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Տետրիսանման խաղ"
+msgstr ""
 
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Կիրառական ծրագրեր"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -86,13 +78,11 @@ msgstr ""
 msgid "Arcade"
 msgstr "Արկադ"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Եռաչափ արշավ"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Արխիվի մենեջեր"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -106,16 +96,14 @@ msgstr ""
 msgid "Astronomy"
 msgstr "Աստղագիտություն"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Աստղագիտություն"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Մուլտիմեդիա փլեյեր"
+msgstr ""
 
 msgid "Audio Recorders"
 msgstr ""
@@ -126,16 +114,14 @@ msgstr ""
 msgid "Biology"
 msgstr "Կենսաբանություն"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Կենսաբանություն"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
 
-#, fuzzy
 msgid "Board Games"
-msgstr "Սեղանի Խաղեր"
+msgstr ""
 
 msgid "Boards"
 msgstr "Սեղանի Խաղեր"
@@ -143,13 +129,11 @@ msgstr "Սեղանի Խաղեր"
 msgid "Building"
 msgstr ""
 
-#, fuzzy
 msgid "Calculator"
-msgstr "Գհաշվիչ"
+msgstr ""
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Գհաշվիչ"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
@@ -157,9 +141,8 @@ msgstr ""
 msgid "Camera tools, etc."
 msgstr ""
 
-#, fuzzy
 msgid "Card Games"
-msgstr "Խաղեր"
+msgstr ""
 
 msgid "Cards"
 msgstr "Թղթախաղեր"
@@ -173,40 +156,32 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Քիմիա"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Քիմիա"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Կիրառական ծրագրեր"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
 
-#, fuzzy
 msgid "Computer Science"
-msgstr "Համակարգիչ"
+msgstr ""
 
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
-msgstr ""
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Համակարգիչ"
+msgstr ""
 
 msgid "Configuration tools for the GUI"
 msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Կառավարում"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -220,9 +195,8 @@ msgstr ""
 msgid "Databases"
 msgstr "Տվյալների բազաներ"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Այլ ծրագրեր"
+msgstr ""
 
 msgid "Desktop"
 msgstr ""
@@ -230,16 +204,14 @@ msgstr ""
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Աշխատասեղանի աքսեսուարներ"
+msgstr ""
 
 msgid "Development"
 msgstr "Ծրագրավորում"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Ծրագրավորման միջավայր"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -262,9 +234,8 @@ msgstr "Ձեռնարկ"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Աստղագիտություն"
+msgstr ""
 
 msgid "Editors"
 msgstr "Խմբագրիչներ"
@@ -272,9 +243,8 @@ msgstr "Խմբագրիչներ"
 msgid "Education"
 msgstr "Ուսուցում"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Մետասիթի"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -288,9 +258,8 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -310,32 +279,26 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Ֆայլի մենեջեր"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Համակարգ"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Ֆայլի մենեջեր"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Համակարգի գործիքներ"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Տեքստի Գործիքներ"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Գիտություններ"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -346,9 +309,8 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
 msgid "Games"
 msgstr "Խաղեր"
@@ -362,20 +324,17 @@ msgstr ""
 msgid "Geography"
 msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Կենսաբանություն"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Երկրաբանություն"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Երկրաբանություն"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Երկրաբանություն"
@@ -392,9 +351,8 @@ msgstr "Սարքավորումներ"
 msgid "History"
 msgstr ""
 
-#, fuzzy
 msgid "IDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
@@ -408,20 +366,17 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Համընդհանուր ակնթարթային հաղորդակցող կլիենտ"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Համընդհանուր ակնթարթային հաղորդակցող կլիենտ"
+msgstr ""
 
 msgid "Internet"
 msgstr "Համացանց"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Այլ ծրագրեր"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -438,30 +393,26 @@ msgstr "Լեզուներ"
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Տրամաբանական խաղ"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "DJ Ծրագիր"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Մաթեմատիկա"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "DJ Ծրագիր"
+msgstr ""
 
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Էրմիքսեր"
+msgstr ""
 
 msgid "Monitoring"
 msgstr ""
@@ -469,17 +420,14 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Բազմասփյուռ"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Համասփյուռ ծրագրերի ցանկ"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Մուլտիմեդիա փլեյեր"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Մուլտիմեդիա փլեյեր"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -520,16 +468,14 @@ msgstr "Այլ"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Ծրագրավորում"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Փաթեթներ"
@@ -552,9 +498,8 @@ msgstr ""
 msgid "Physics"
 msgstr "Ֆիզիկա"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Ֆիզիկա"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Հատկություններ"
@@ -562,9 +507,8 @@ msgstr "Հատկություններ"
 msgid "Presentation software"
 msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Ձեռնարկ"
+msgstr ""
 
 msgid "Printing"
 msgstr "Տպում"
@@ -572,9 +516,8 @@ msgstr "Տպում"
 msgid "Profiling tools"
 msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "Ֆայլերի կառավարում"
+msgstr ""
 
 msgid "Project management applications"
 msgstr ""
@@ -585,13 +528,11 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Գրաֆիկա"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
 msgid "Remote access"
 msgstr ""
@@ -623,21 +564,17 @@ msgstr ""
 msgid "Security"
 msgstr "Անվտանգուրյուն"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Անվտանգուրյուն"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Գիտություններ"
+msgstr ""
 
-#, fuzzy
 msgid "Settings"
-msgstr "Համակարգի հատկություններ"
+msgstr ""
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Ուսուցում"
+msgstr ""
 
 msgid "Simulation Games"
 msgstr ""
@@ -660,9 +597,8 @@ msgstr "Ձայն"
 msgid "Sports"
 msgstr "Սպորտ"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Սպորտ"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
@@ -670,9 +606,8 @@ msgstr ""
 msgid "Strategy"
 msgstr "Ստրատեգիա"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Ստրատեգիա"
+msgstr ""
 
 msgid "System"
 msgstr "Համակարգ"
@@ -689,24 +624,20 @@ msgstr ""
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Կիրառական ծրագրեր"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony"
-msgstr "ISDN հեռախոս"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Տեքստի Գործիքներ"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -717,13 +648,11 @@ msgstr ""
 msgid "Terminal emulator applications"
 msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Տերմինալ"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Տեքստի Գործիքներ"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Տեքստի Գործիքներ"
@@ -734,9 +663,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Գործիքներ"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Ծրագրերի մշակման գործիքներ"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -744,13 +672,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Բոլոր Ծրագրերը"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Այլ ծրագրեր"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -785,13 +711,11 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Գրաֆիկա"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Գրաֆիկական ծրագրեր"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -799,36 +723,29 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Հատկություններ"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Մուլտիմեդիա փլեյեր"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Թվային Վիդեոգրիչ"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Եռաչափ Քարտեզների Ցուցադրիչ"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Զննիչ"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Զննիչ"
+msgstr ""
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Ծրագրավորում"
+msgstr ""
 
 msgid "Web Publishing"
 msgstr ""
@@ -841,6 +758,33 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,21 +1,23 @@
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/am.php3
-#
-#
-# Copyright (C) 2000 MandrakeSoft
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: sections.pot\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 1999-08-25 11:07+0200\n"
-"Last-Translator: Nobody\n"
-"Language-Team: is\n"
+"PO-Revision-Date: 2007-12-11 17:46+0530\n"
+"Last-Translator: Jurmey Rabgay <jur_gay@yahoo.com>\n"
+"Language-Team: dzongkha <pgeyleg@dit.gov.bt>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=(n!=1)\n"
+"X-Poedit-Country: bhutan\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 msgid "2D Graphics"
 msgstr ""
@@ -36,10 +38,10 @@ msgid "A simple amusement"
 msgstr ""
 
 msgid "Accessibility"
-msgstr "ຄວາມສາມາດໃນການໃຊ້ງານ"
+msgstr "འཛུལ་སྤྱོད་"
 
 msgid "Action"
-msgstr ""
+msgstr "བྱ་བ་"
 
 msgid "Action Games"
 msgstr ""
@@ -48,16 +50,16 @@ msgid "AddressBooks"
 msgstr ""
 
 msgid "Administration"
-msgstr ""
+msgstr "བདག་སྐྱོང་"
 
 msgid "Adventure"
-msgstr ""
+msgstr "དཀའ་ཉེན་ཅན་གྱི་བྱ་བ།"
 
 msgid "Adventure style games"
 msgstr ""
 
 msgid "Amateur Radio"
-msgstr ""
+msgstr "ཨེ་མེ་ཅུ་ཡེར་ རེ་ཌིའོ་"
 
 msgid "Application to burn a disc"
 msgstr ""
@@ -66,7 +68,7 @@ msgid "Application to manage your finance"
 msgstr ""
 
 msgid "Applications"
-msgstr "ແອພພຣິເຄຊັນ"
+msgstr "གློག་རིམ་"
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -78,7 +80,7 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "ເກມອາເຄດ"
+msgstr "ཨར་ཀེཌི།"
 
 msgid "Arcade style game"
 msgstr ""
@@ -96,7 +98,7 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr ""
+msgstr "གནམ་རིག་"
 
 msgid "Astronomy software"
 msgstr ""
@@ -114,7 +116,7 @@ msgid "Backup"
 msgstr ""
 
 msgid "Biology"
-msgstr ""
+msgstr "སྐྱེ་ལྡན་རིག་པ་"
 
 msgid "Biology software"
 msgstr ""
@@ -132,7 +134,7 @@ msgid "Building"
 msgstr ""
 
 msgid "Calculator"
-msgstr "ເຄຶ່ອງຄິດໄລ່"
+msgstr ""
 
 msgid "Calculators"
 msgstr ""
@@ -147,7 +149,7 @@ msgid "Card Games"
 msgstr ""
 
 msgid "Cards"
-msgstr "ກາດ"
+msgstr ""
 
 msgid "Chart"
 msgstr ""
@@ -156,7 +158,7 @@ msgid "Chat"
 msgstr ""
 
 msgid "Chemistry"
-msgstr ""
+msgstr "རྫས་སྦྱོར་རིག་པ་"
 
 msgid "Chemistry software"
 msgstr ""
@@ -201,7 +203,7 @@ msgid "Debug Applications"
 msgstr ""
 
 msgid "Desktop"
-msgstr "ພື້ນທີ່ເຮັດວງກ"
+msgstr ""
 
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
@@ -210,7 +212,7 @@ msgid "Desktop utilities"
 msgstr ""
 
 msgid "Development"
-msgstr "ພັດທະນາໂປຣແກຣມ"
+msgstr ""
 
 msgid "Development environments"
 msgstr ""
@@ -231,7 +233,7 @@ msgid "Disc burning"
 msgstr ""
 
 msgid "Documentation"
-msgstr "ຄູ່ມື"
+msgstr ""
 
 msgid "E17"
 msgstr ""
@@ -240,10 +242,10 @@ msgid "Economy"
 msgstr ""
 
 msgid "Editors"
-msgstr "ແກ້ໄຂແຟ້ມຂໍ້ຄວາມ"
+msgstr "ཞུན་དགཔ་ཚུ།"
 
 msgid "Education"
-msgstr ""
+msgstr "ཤེས་རིག"
 
 msgid "Electricity"
 msgstr ""
@@ -252,7 +254,7 @@ msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "གློག་ཆས་"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -267,10 +269,10 @@ msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr ""
+msgstr "ནུས་འཕྲུལ་ཚུ།"
 
 msgid "Engineering"
-msgstr ""
+msgstr "བཟོ་ལས་"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
@@ -288,7 +290,7 @@ msgid "File Systems"
 msgstr ""
 
 msgid "File Transfer"
-msgstr ""
+msgstr "ཡིག་སྣོད་གནས་སོར་"
 
 msgid "File system tools"
 msgstr ""
@@ -315,13 +317,13 @@ msgid "GUI designer applications"
 msgstr ""
 
 msgid "Games"
-msgstr "ເກມ"
+msgstr "རྩེདམོ།"
 
 msgid "Games and amusements"
 msgstr ""
 
 msgid "Games for Kids"
-msgstr "ເກມສຳລັບເດັກ"
+msgstr ""
 
 msgid "Geography"
 msgstr ""
@@ -333,7 +335,7 @@ msgid "Geology software"
 msgstr ""
 
 msgid "Geoscience"
-msgstr ""
+msgstr "ཚན་རིག་པ་"
 
 msgid "Geoscience software"
 msgstr ""
@@ -342,16 +344,16 @@ msgid "Geosciences"
 msgstr ""
 
 msgid "Graphics"
-msgstr "ກຣາບຟິກ"
+msgstr "ཚད་རིས་ཚུ།"
 
 msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr ""
+msgstr "སྲ་ཆས་"
 
 msgid "History"
-msgstr "ປະວັດການໃຊ້ງານ"
+msgstr ""
 
 msgid "IDE"
 msgstr ""
@@ -375,7 +377,7 @@ msgid "Instant messaging clients"
 msgstr ""
 
 msgid "Internet"
-msgstr "ອິນເຕີເນັຕ"
+msgstr ""
 
 msgid "Internet applications"
 msgstr ""
@@ -384,7 +386,7 @@ msgid "Java"
 msgstr ""
 
 msgid "KDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "LXDE"
 msgstr ""
@@ -405,7 +407,7 @@ msgid "Math software"
 msgstr ""
 
 msgid "Mathematics"
-msgstr ""
+msgstr "ཨང་རྩིས་རིག་པ་"
 
 msgid "Medical Software"
 msgstr ""
@@ -417,10 +419,10 @@ msgid "Mixers"
 msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "ལྟ་རྟོག་འབད་ནི་"
 
 msgid "Multimedia"
-msgstr "ເມົາຕິມີເດຍ"
+msgstr ""
 
 msgid "Multimedia Editing"
 msgstr ""
@@ -438,7 +440,7 @@ msgid "Musical software"
 msgstr ""
 
 msgid "Network"
-msgstr "ລະບົບເຄື່ອຄາຍ"
+msgstr "ཡོངས་འབྲེལ་"
 
 msgid "Network-related settings"
 msgstr ""
@@ -459,13 +461,13 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "ໂປຣແກຣມຊຸດສຳນັກງານ"
+msgstr "ཡིག་ཚང་"
 
 msgid "Optical character recognition applications"
 msgstr ""
 
 msgid "Other"
-msgstr "ອື່ນໆ"
+msgstr ""
 
 msgid "P2P"
 msgstr ""
@@ -498,13 +500,13 @@ msgid "Photography"
 msgstr ""
 
 msgid "Physics"
-msgstr ""
+msgstr "གསོ་རིག་"
 
 msgid "Physics software"
 msgstr ""
 
 msgid "Preferences"
-msgstr "ປັບແຕ່ງ"
+msgstr ""
 
 msgid "Presentation software"
 msgstr ""
@@ -513,13 +515,13 @@ msgid "Presentations"
 msgstr ""
 
 msgid "Printing"
-msgstr "Printing"
+msgstr ""
 
 msgid "Profiling tools"
 msgstr ""
 
 msgid "Project Management"
-msgstr ""
+msgstr "ལས་འགུལ་འཛིན་སྐྱོང་"
 
 msgid "Project management applications"
 msgstr ""
@@ -558,13 +560,13 @@ msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr ""
+msgstr "ཚན་རིག"
 
 msgid "Screensavers"
 msgstr ""
 
 msgid "Security"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་"
 
 msgid "Security tools"
 msgstr ""
@@ -573,10 +575,10 @@ msgid "Sequencers"
 msgstr ""
 
 msgid "Settings"
-msgstr "ตั้งค่า"
+msgstr ""
 
 msgid "Simulation"
-msgstr ""
+msgstr "གཡོ་རྫུས།"
 
 msgid "Simulation Games"
 msgstr ""
@@ -594,10 +596,10 @@ msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "ລະບົບສງງ"
+msgstr "སྒྲ་སྐད།"
 
 msgid "Sports"
-msgstr ""
+msgstr "རྩེད་རིགས་ཚུ།"
 
 msgid "Sports Games"
 msgstr ""
@@ -606,13 +608,13 @@ msgid "Spreadsheets"
 msgstr ""
 
 msgid "Strategy"
-msgstr ""
+msgstr "ཐབས་འཇུས།"
 
 msgid "Strategy Games"
 msgstr ""
 
 msgid "System"
-msgstr "ຈັດການລະບົບ"
+msgstr "རིམ་ལུགས།"
 
 msgid "System Tools"
 msgstr ""
@@ -624,7 +626,7 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
-msgstr ""
+msgstr "ཊི་བི་དང་རེ་ཌིའོ་"
 
 msgid "TV and Radio applications"
 msgstr ""
@@ -657,13 +659,13 @@ msgid "Text tool utilities"
 msgstr ""
 
 msgid "Text tools"
-msgstr "ແຟ້ມຂໍ້ຄວາມ"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "ເຄື່ອງມື"
+msgstr "ལག་ཆས་ཚུ།"
 
 msgid "Tools for web developers"
 msgstr ""
@@ -699,7 +701,7 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "ຂອງເຫລັ້ນ"
+msgstr "བྱིས་པའི་རྩེདམོ།"
 
 msgid "Translation"
 msgstr ""
@@ -720,7 +722,7 @@ msgid "Vector based graphical applications"
 msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "ཝི་ཌིའོ་"
 
 msgid "Video Conference software"
 msgstr ""
@@ -738,16 +740,16 @@ msgid "Video Recorders"
 msgstr ""
 
 msgid "Viewers"
-msgstr ""
+msgstr "མཐོང་བྱེད།"
 
 msgid "Web Browsers"
 msgstr ""
 
 msgid "Web Browsing"
-msgstr ""
+msgstr "ཝེབ་བརྡ་འཚོལ་"
 
 msgid "Web Development"
-msgstr ""
+msgstr "ཝེབ་གོང་འཕེལ་"
 
 msgid "Web Publishing"
 msgstr ""
@@ -760,27 +762,6 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

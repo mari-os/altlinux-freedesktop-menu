@@ -17,21 +17,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Titfombe-mdvwebo"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Titfombe-mdvwebo"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
@@ -42,9 +38,8 @@ msgstr ""
 msgid "Accessibility"
 msgstr "Kutfolakala kalula"
 
-#, fuzzy
 msgid "Action"
-msgstr "Sicelo"
+msgstr ""
 
 msgid "Action Games"
 msgstr ""
@@ -64,9 +59,8 @@ msgstr ""
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Sicelo"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -110,9 +104,8 @@ msgstr ""
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Audio plejer"
+msgstr ""
 
 msgid "Audio Recorders"
 msgstr ""
@@ -129,9 +122,8 @@ msgstr ""
 msgid "Blogs"
 msgstr ""
 
-#, fuzzy
 msgid "Board Games"
-msgstr "Imidlalo"
+msgstr ""
 
 msgid "Boards"
 msgstr ""
@@ -151,9 +143,8 @@ msgstr ""
 msgid "Camera tools, etc."
 msgstr ""
 
-#, fuzzy
 msgid "Card Games"
-msgstr "Imidlalo"
+msgstr ""
 
 msgid "Cards"
 msgstr ""
@@ -173,9 +164,8 @@ msgstr ""
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Sicelo"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -184,9 +174,6 @@ msgid "Computer Science"
 msgstr ""
 
 msgid "Computer Science software"
-msgstr ""
-
-msgid "Computer Sience software"
 msgstr ""
 
 msgid "Computer science"
@@ -210,9 +197,8 @@ msgstr ""
 msgid "Databases"
 msgstr ""
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Sicelo"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Desktop "
@@ -220,16 +206,14 @@ msgstr "Desktop "
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Kwekusetjentiswa"
+msgstr ""
 
 msgid "Development"
 msgstr "Kundlondlobala"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Kundlondlobala"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -258,9 +242,8 @@ msgstr ""
 msgid "Editors"
 msgstr "Bahleli"
 
-#, fuzzy
 msgid "Education"
-msgstr "Ingucuko letentakalekako"
+msgstr ""
 
 msgid "Electricity"
 msgstr ""
@@ -277,16 +260,14 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "Bahleli"
+msgstr ""
 
 msgid "Engineering"
 msgstr ""
@@ -300,17 +281,14 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Siphatsi selifayela"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Umshini"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Siphatsi selifayela"
+msgstr ""
 
 msgid "File system tools"
 msgstr ""
@@ -330,13 +308,11 @@ msgstr ""
 msgid "GNOME"
 msgstr ""
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Umhleli weQt "
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Games"
 msgstr "Imidlalo"
@@ -377,9 +353,8 @@ msgstr ""
 msgid "History"
 msgstr "Umlandvo"
 
-#, fuzzy
 msgid "IDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "IRC"
 msgstr ""
@@ -402,9 +377,8 @@ msgstr ""
 msgid "Internet"
 msgstr ""
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -421,9 +395,8 @@ msgstr ""
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "I-Rogue-lefana nemidlalo"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -449,17 +422,14 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Tinhlobonhlobo-tetindzaba"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Tinhlobonhlobo-tetindzaba"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Tinhlobonhlobo-tetindzaba"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Tinhlobonhlobo-tetindzaba"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -506,9 +476,8 @@ msgstr ""
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -540,9 +509,8 @@ msgstr ""
 msgid "Presentation software"
 msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Kugcinwa"
+msgstr ""
 
 msgid "Printing"
 msgstr "Kuhleleka"
@@ -553,9 +521,8 @@ msgstr ""
 msgid "Project Management"
 msgstr ""
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -563,13 +530,11 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Titfombe-mdvwebo"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Remote access"
 msgstr ""
@@ -640,9 +605,8 @@ msgstr ""
 msgid "Spreadsheets"
 msgstr ""
 
-#, fuzzy
 msgid "Strategy"
-msgstr "Masu & indlela yekwenta"
+msgstr ""
 
 msgid "Strategy Games"
 msgstr ""
@@ -650,13 +614,11 @@ msgstr ""
 msgid "System"
 msgstr "Umshini"
 
-#, fuzzy
 msgid "System Tools"
-msgstr "Umshini"
+msgstr ""
 
-#, fuzzy
 msgid "System settings"
-msgstr "Kuhleleka"
+msgstr ""
 
 msgid "TV"
 msgstr ""
@@ -664,13 +626,11 @@ msgstr ""
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Sicelo"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr ""
@@ -687,20 +647,17 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Sikhungo"
+msgstr ""
 
 msgid "Text tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "Text tools"
-msgstr "Sihleli sembhalo"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
@@ -717,9 +674,8 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Tools to debug applications"
 msgstr ""
@@ -757,13 +713,11 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Titfombe-mdvwebo"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Ticelo tesikhungo"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -777,9 +731,8 @@ msgstr ""
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Audio plejer"
+msgstr ""
 
 msgid "Video Recorders"
 msgstr ""
@@ -787,17 +740,14 @@ msgstr ""
 msgid "Viewers"
 msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Ibrawuza ye-Web "
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Ibrawuza ye-Web "
+msgstr ""
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Kundlondlobala"
+msgstr ""
 
 msgid "Web Publishing"
 msgstr ""
@@ -810,6 +760,17 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
 
 
 

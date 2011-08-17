@@ -1,82 +1,72 @@
-# Translation into Malayalam
-#
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ml.php3
-#
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# translation of menu_po-sections to malayalam
+# Menu section translation to Malayalam
+# Copyright (C) 2006 The Debian Project
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2006, 2008.
+# This file is distributed under the same license as the menu package.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu_po-sections_ml\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2003-07-05 10:29+0530\n"
-"Last-Translator: Nobody\n"
-"Language-Team: Malayalam\n"
+"PO-Revision-Date: 2006-12-07 19:46+0530\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: malayalam <smc-discuss@googlegroups.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "ചിത്രീകരണം"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "ചിത്രീകരണം"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "കളികളും വിനോദങ്ങളും"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "ആക്സസ്സിബിളിറ്റി"
+msgstr "സാമീപ്യതാ"
 
-#, fuzzy
 msgid "Action"
-msgstr "വിദ്യാഭ്യാസം"
+msgstr "അടിപിടി"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
 
 msgid "Administration"
-msgstr "നടത്തിപ്പ്"
+msgstr "ഭരണം"
 
 msgid "Adventure"
-msgstr ""
+msgstr "സാഹസികം"
 
 msgid "Adventure style games"
 msgstr ""
 
 msgid "Amateur Radio"
-msgstr ""
+msgstr "അമേച്വര്‍ റേഡിയോ"
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "പ്രയോഗങ്ങള്‌"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
 
 msgid "Applications"
-msgstr "പ്രയോഗങ്ങള്‌"
+msgstr "പ്രയോഗങ്ങള്‍"
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -93,9 +83,8 @@ msgstr "ആര്‍കേഡ്"
 msgid "Arcade style game"
 msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "േശഖര പാലകന്"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -107,28 +96,25 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "ജ്യോതിശാസ്ത്രം"
+msgstr "വാനനിരീക്ഷണം"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "ജ്യോതിശാസ്ത്രം"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "മൂവി പ്ളെയര്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "സൌണ്ട് റിക്കോര്‍ഡര്‍"
+msgstr ""
 
 msgid "Backup"
 msgstr ""
 
 msgid "Biology"
-msgstr ""
+msgstr "ജീവശാസ്ത്രം"
 
 msgid "Biology software"
 msgstr ""
@@ -139,9 +125,8 @@ msgstr ""
 msgid "Board Games"
 msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
 
-#, fuzzy
 msgid "Boards"
-msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
+msgstr ""
 
 msgid "Building"
 msgstr ""
@@ -149,23 +134,20 @@ msgstr ""
 msgid "Calculator"
 msgstr "ഗണനി"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "ഗണനി"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "ജാവാ ടൂള്‍സെറ്റ്"
+msgstr ""
 
 msgid "Card Games"
 msgstr "ചീട്ടു് കളികള്‍"
 
-#, fuzzy
 msgid "Cards"
-msgstr "ചീട്ടു് കളികള്‍"
+msgstr ""
 
 msgid "Chart"
 msgstr ""
@@ -174,7 +156,7 @@ msgid "Chat"
 msgstr ""
 
 msgid "Chemistry"
-msgstr ""
+msgstr "രസതന്ത്രം"
 
 msgid "Chemistry software"
 msgstr ""
@@ -182,34 +164,26 @@ msgstr ""
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "പ്രയോഗങ്ങള്‌"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
 
-#, fuzzy
 msgid "Computer Science"
-msgstr "കംപ്യൂട്ടര്‍"
+msgstr ""
 
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
+msgid "Computer science"
 msgstr ""
 
-#, fuzzy
-msgid "Computer science"
-msgstr "കംപ്യൂട്ടര്‍"
-
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "സജ്ജീകരണ സംശോധകന്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "നടത്തിപ്പ്"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -223,9 +197,8 @@ msgstr ""
 msgid "Databases"
 msgstr "വസ്തുതാശേഖരം"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "കൂടുതല്‍ പ്രയോഗങ്ങള്‍"
+msgstr ""
 
 msgid "Desktop"
 msgstr "പണിയിടം"
@@ -233,16 +206,14 @@ msgstr "പണിയിടം"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "പണിയിട ഭൂഗോളം"
+msgstr ""
 
 msgid "Development"
 msgstr "വികസനം‌"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "(ലാ)ടെക് വികസിപ്പിയ്ക്കാനുള്ള പരിസരം"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -250,9 +221,8 @@ msgstr ""
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "നിഘണ്ടു"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "നിഘണ്ടു"
@@ -260,32 +230,29 @@ msgstr "നിഘണ്ടു"
 msgid "Disc burning"
 msgstr ""
 
-#, fuzzy
 msgid "Documentation"
-msgstr "ഡോക്യുമെന്‍റേഷന്‍ ബ്റൌസറ്‍"
+msgstr ""
 
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "ജ്യോതിശാസ്ത്രം"
+msgstr ""
 
 msgid "Editors"
 msgstr "എഴുത്തിടങ്ങള്‍"
 
 msgid "Education"
-msgstr "വിദ്യാഭ്യാസം"
+msgstr "വിദ്യഭ്യാസം"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "മെറ്റാസിറ്റി"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "ഇലക്ട്രോണിക്സ്"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -293,53 +260,44 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "ഗണനി"
+msgstr "എമുലേറ്ററുകള്‍"
 
 msgid "Engineering"
-msgstr ""
+msgstr "എഞ്ചിനീയറിങ്ങ്"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "വീഴുന്ന ബ്ളോക്കുകള്‍ ഒരുമിച്ച് വയ്ക്കുക"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "വീഴുന്ന ബ്ളോക്കുകള്‍ ഒരുമിച്ച് വയ്ക്കുക"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "സിസ്റ്റം"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍"
+msgstr "ഫയലുകളുടെ കൈമാറ്റം"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "വ്യ‍ൂഹ ഉപകരണങ്ങള്"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "ഫയല്‍ ബ്രൌസര്‍"
+msgstr ""
 
 msgid "Finances"
 msgstr ""
@@ -353,12 +311,11 @@ msgstr "ജിനോം"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgstr ""
 
 msgid "Games"
-msgstr "കളികള്"
+msgstr "കളികള്‍"
 
 msgid "Games and amusements"
 msgstr "കളികളും വിനോദങ്ങളും"
@@ -366,9 +323,8 @@ msgstr "കളികളും വിനോദങ്ങളും"
 msgid "Games for Kids"
 msgstr "കുട്ടികള്‍ക്കുള്ള കളികള്‍"
 
-#, fuzzy
 msgid "Geography"
-msgstr "കെ-ജ്യോഗ്രഫി"
+msgstr ""
 
 msgid "Geology"
 msgstr ""
@@ -376,25 +332,23 @@ msgstr ""
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "ശാസ്ത്രം"
+msgstr "ഭൂതലശാസ്ത്രം"
 
 msgid "Geoscience software"
 msgstr ""
 
-#, fuzzy
 msgid "Geosciences"
-msgstr "ശാസ്ത്രം"
+msgstr ""
 
 msgid "Graphics"
-msgstr "ചിത്രീകരണം"
+msgstr "ഗ്രാഫിക്സ്"
 
 msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "ഖരസാമഗ്രി"
+msgstr "ഭരണം"
 
 msgid "History"
 msgstr "ചരിത്രം"
@@ -405,9 +359,8 @@ msgstr ""
 msgid "IRC"
 msgstr ""
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "ഐഎം ക്ലയന്റ്:"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -415,20 +368,17 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "അതിവേഗ ദൂതന്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "അതിവേഗ ദൂതന്‍"
+msgstr ""
 
 msgid "Internet"
 msgstr "വിവരമണ്ഡലം"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "കൂടുതല്‍ പ്രയോഗങ്ങള്‍"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -466,24 +416,20 @@ msgstr ""
 msgid "Mixers"
 msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "മോണിറ്ററുകള്‍"
+msgstr "നിരീക്ഷണം"
 
 msgid "Multimedia"
 msgstr "ബഹുമാധ്യമം"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "ബഹുമാധ്യമം"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "ബഹുമാധ്യമം"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "ബഹുമാധ്യമം"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -492,7 +438,7 @@ msgid "Musical software"
 msgstr ""
 
 msgid "Network"
-msgstr "വലക്കെട്ട്"
+msgstr "ശൃംഖല"
 
 msgid "Network-related settings"
 msgstr "ശൃംഘലയുമായി ബന്ധപ്പെട്ട സജ്ജീകരണങ്ങള്‍"
@@ -513,7 +459,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "കാര്യാലയം"
+msgstr "ആപ്പീസ്"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -524,16 +470,14 @@ msgstr "മറ്റുള്ളവ"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "നിര്‍ദ്ദേശ-സംഹിത"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "ചിത്രം പകര്‍ത്തിയെടുക്കാനുള്ള പ്രയോഗം"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -550,12 +494,11 @@ msgstr ""
 msgid "Personal"
 msgstr "സ്വകാര്യം"
 
-#, fuzzy
 msgid "Photography"
-msgstr "കെ-ജ്യോഗ്രഫി"
+msgstr ""
 
 msgid "Physics"
-msgstr ""
+msgstr "ഭൌതികശാസ്ത്രം"
 
 msgid "Physics software"
 msgstr ""
@@ -576,11 +519,10 @@ msgid "Profiling tools"
 msgstr ""
 
 msgid "Project Management"
-msgstr "പദ്ധതിനിര്‍വ്വഹണം"
+msgstr "സംരംഭത്തിന്റെ നടത്തിപ്പു്"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "പദ്ധതിനിര്‍വ്വഹണം"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -588,25 +530,20 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "ചിത്രീകരണം"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "വിദൂരത്തിലുളള ഡസ്ക്-ടോപ്പ്"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "ശബ്ദം ക്രമീകാരി"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "റോബോട്ടുകള്‍"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -629,9 +566,8 @@ msgstr "സ്ക്രീന്‍ സേവര്‍സ്"
 msgid "Security"
 msgstr "സുരക്ഷ"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "സുരക്ഷ"
+msgstr ""
 
 msgid "Sequencers"
 msgstr ""
@@ -639,9 +575,8 @@ msgstr ""
 msgid "Settings"
 msgstr "സജ്ജീകരണം"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "വിദ്യാഭ്യാസം"
+msgstr "സിമുലേഷന്‍"
 
 msgid "Simulation Games"
 msgstr ""
@@ -649,17 +584,14 @@ msgstr ""
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "സോഫ്റ്റ്‌വെയര്‍ പരിഷ്കണ പ്രദര്‍ശനി"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "സോഫ്റ്റ്‌വെയര്‍ ലോഗ് വ്യൂവര്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "സോഫ്റ്റ്‌വെയര്‍ ശ്രോതസ്സുകള്‍"
+msgstr ""
 
 msgid "Sound"
 msgstr "ശബ്ദം"
@@ -667,16 +599,14 @@ msgstr "ശബ്ദം"
 msgid "Sports"
 msgstr "കായികം"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "ബോര്‍ഡിലുള്ള കളികള്‍"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
 
-#, fuzzy
 msgid "Strategy"
-msgstr "കൌശലവും സമരതന്ത്രവും"
+msgstr "തന്ത്രം"
 
 msgid "Strategy Games"
 msgstr ""
@@ -694,15 +624,13 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "ടിവിയും റേഡിയോയും"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "പ്രയോഗത്തിന്റെ തകരാറുകള്‍ രേഖപ്പെടുത്തുക"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "പ്രയോഗങ്ങള്‌"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "പഠിപ്പിയ്ക്കാനുള്ള പണിയായുധങ്ങള്‍"
@@ -710,9 +638,8 @@ msgstr "പഠിപ്പിയ്ക്കാനുള്ള പണിയാ�
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "പഠിപ്പിയ്ക്കാനുള്ള പണിയായുധങ്ങള്‍"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -720,30 +647,26 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "ടെര്‍മിനല്‍ പ്രയോഗങ്ങള്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "ടെ‍ര്മിനല്"
+msgstr ""
 
 msgid "Text tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "Text tools"
-msgstr "രചന ചിട്ടപ്പെടുത്തല്‌ ഉപാധി"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "ഉപകരണങ്ങള്"
+msgstr "ടൂളുകള്‍"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "മൃദുസാമഗ്രി നിര്മ്മിക്കുവാനുള്ള ഉപകരങ്ങള്"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -751,13 +674,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "നിങ്ങളുടെ ഡീഫോള്‍ട്ട് പ്രയോഗങ്ങള്‍ തിരഞ്ഞെടുക്കുക"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "നിങ്ങളുടെ ഡീഫോള്‍ട്ട് പ്രയോഗങ്ങള്‍ തിരഞ്ഞെടുക്കുക"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -765,9 +686,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "പ്രിന്‍ററുകള്‍ സജ്ജമാക്കുക"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -784,60 +704,50 @@ msgstr "കളിപ്പാട്ടങ്ങള്‍"
 msgid "Translation"
 msgstr "പരിഭാഷ"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "പരിഭാഷ"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "ടച്ച് ടൈപ്പിങ്ങ് പഠനസഹായി"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "ചിത്രീകരണം"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "വീഡിയോ"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "മുന്‍ഗണനകള്‍"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "മൂവി പ്ളെയര്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "സൌണ്ട് റിക്കോര്‍ഡര്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "ഫാക്സ് വ്യുവര്‍"
+msgstr "ദര്‍ശിനികള്‍"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "വെബ് ബ്രൌസര്‍"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "വെബ് ബ്രൌസര്‍"
+msgstr "വെബില്‍ പരതുക"
 
 msgid "Web Development"
-msgstr "വെബിനുള്ള വികസനം"
+msgstr "വെബ്ബിനുള്ള വികസനം"
 
 msgid "Web Publishing"
 msgstr ""
@@ -848,385 +758,5 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "തപാല്‍ ക്ലയന്റ്"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

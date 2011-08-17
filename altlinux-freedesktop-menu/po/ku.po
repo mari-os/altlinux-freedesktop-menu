@@ -1,85 +1,70 @@
-# translation of menu-messages-main-ku.po to Kurdish
-# translation of menu-messages-ku.po to Kurdi
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ku.php3
 #
-# translation of menu-messages-ku.po to Kurdi
-# Collection of titles/sections of Linux-Mandrake menu's.
-# It's generated from the /usr/lib/menu/* files.
-# Copyright (C) 2000 MandrakeSoft
-# --------------------------------------------------------
-# Kader <kader@kaderland.net>, 1999, 2000, 2001, 2002, 2003, 2004.
-# Ridvan Bozkurt <ridvanbozkurt@hotmail.com>, 2004.
-# Erdal Ronahi <erdal.ronahi@gmail.com>, 2005.
-#
+# Bill Allombert <ballombe@debian.org>, 2003.
+# Erdal Ronahi <erdal dot ronahi at gmail dot com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages-main-ku\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2005-10-09 01:08+0200\n"
-"Last-Translator: Erdal Ronahi <erdal.ronahi@gmail.com>\n"
-"Language-Team: Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>\n"
-"Language: ku\n"
+"PO-Revision-Date: 2008-05-04 20:27+0200\n"
+"Last-Translator: Erdal Ronahi <erdal dot ronahi at gmail dot com>\n"
+"Language-Team: ku <ubuntu-l10n-kur@lists.ubuntu.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10\n"
-"Plural-Forms: nplurals=2; plural= n != 1\n"
+"X-Poedit-Language: Kurdish\n"
+"X-Poedit-Country: Kurdistan\n"
+"X-Generator: KAider 0.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafîk"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Bikaranînên grafîkê"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafîk"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Bikaranînên grafîkê"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Lîstik û demxweşî"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Gihîştin"
+msgstr "Teknolojiyên alîkar"
 
-#, fuzzy
 msgid "Action"
-msgstr "Perwerdehî"
+msgstr "Çalakî"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Lîstikên Textê"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
 
 msgid "Administration"
-msgstr "Rêveberî"
+msgstr "Gerînendetî"
 
 msgid "Adventure"
-msgstr "Macera"
+msgstr "Serpêhatî"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Macera"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Radyoya Amatorî"
+
 msgid "Application to burn a disc"
-msgstr "Bînerê Sepanan"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -102,9 +87,8 @@ msgstr "Makîneyê Lîstik"
 msgid "Arcade style game"
 msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Rêveberê Arşîvê"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -116,33 +100,28 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "Esmannasî"
+msgstr "Stêrknasî"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Esmannasî"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Lêdarê Muzîkê"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Tomarkerê Deng"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Paştgirîkirin"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biyolojî"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Biyolojî"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -156,13 +135,11 @@ msgstr "Lîstîkê texte"
 msgid "Building"
 msgstr ""
 
-#, fuzzy
 msgid "Calculator"
-msgstr "Emûlatôr"
+msgstr ""
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Emûlatôr"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Salname"
@@ -185,16 +162,14 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Kîmya"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kîmya"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Sepan"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -202,25 +177,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Zanista Komputer"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Zanista Komputer"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Zanista Komputer"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Zanista Komputer"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Edîtorê mîhengan"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Rêveberî"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -234,9 +201,8 @@ msgstr ""
 msgid "Databases"
 msgstr "Danêyan baz"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Zêdetin Sepan"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Sermasê"
@@ -244,27 +210,23 @@ msgstr "Sermasê"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Amûra Dîskan"
+msgstr ""
 
 msgid "Development"
 msgstr "Perisandin"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Cîhên perisandin"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Bernameya Xêzkirinê"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Ferheng"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Ferheng"
@@ -278,9 +240,8 @@ msgstr "Dokûmantasyon"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Esmannasî"
+msgstr ""
 
 msgid "Editors"
 msgstr "Edîtor"
@@ -288,15 +249,14 @@ msgstr "Edîtor"
 msgid "Education"
 msgstr "Perwerdehî"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "Elektronîk"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -304,18 +264,17 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Bikaranînên grafîkê"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Emûlatôr"
+msgstr "Emûlator"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Endezyarî"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
@@ -326,32 +285,26 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Rêveberê Pelan"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Pergal"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Rêveberê Pelan"
+msgstr "Derbaskirina Pelan"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Amûrên Pergalê"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Amûran Nivîs"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Zanistiyên"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -362,12 +315,11 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Bikaranînên grafîkê"
+msgstr ""
 
 msgid "Games"
-msgstr "Lîstik"
+msgstr "Listîk"
 
 msgid "Games and amusements"
 msgstr "Lîstik û demxweşî"
@@ -378,20 +330,17 @@ msgstr "Lîstikên Zarokan"
 msgid "Geography"
 msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biyolojî"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Zanistiyên Cîh"
+msgstr "Zanista Cîhanê"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Zanistiyên Cîh"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Zanistiyên Cîh"
@@ -403,21 +352,19 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "Komputer"
+msgstr "Hişkalav"
 
 msgid "History"
 msgstr ""
 
-#, fuzzy
 msgid "IDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Daxwazkera IM"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -425,9 +372,8 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Peyamnêra înternetê"
+msgstr ""
 
 msgid "Instant messaging clients"
 msgstr ""
@@ -435,9 +381,8 @@ msgstr ""
 msgid "Internet"
 msgstr "Înternet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Zêdetin Sepan"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -464,7 +409,7 @@ msgid "Math software"
 msgstr ""
 
 msgid "Mathematics"
-msgstr "Matematîk"
+msgstr "Bîrkarî"
 
 msgid "Medical Software"
 msgstr ""
@@ -476,22 +421,19 @@ msgid "Mixers"
 msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Monîtorkirin"
 
 msgid "Multimedia"
 msgstr "Multîmedya"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Pêşeka multîmedya"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Medya Lêdar"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Pêşeka multîmedya"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -500,7 +442,7 @@ msgid "Musical software"
 msgstr ""
 
 msgid "Network"
-msgstr "Network"
+msgstr "Tor"
 
 msgid "Network-related settings"
 msgstr "Mîhengên têkildarî torê"
@@ -521,7 +463,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "Ofîs"
+msgstr "Nivîsgeh"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -532,16 +474,14 @@ msgstr "Diger"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Bernameya Nexşe Kirinê"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Sepana Venihartina Wêneyan"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -562,11 +502,10 @@ msgid "Photography"
 msgstr ""
 
 msgid "Physics"
-msgstr "Fizîk"
+msgstr "Fîzîk"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Fizîk"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Daxwaz"
@@ -574,9 +513,8 @@ msgstr "Daxwaz"
 msgid "Presentation software"
 msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Dokûmantasyon"
+msgstr ""
 
 msgid "Printing"
 msgstr "Danenivîs"
@@ -584,13 +522,11 @@ msgstr "Danenivîs"
 msgid "Profiling tools"
 msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "Rêveberiya hêzê"
+msgstr "Gerînendetiya Projeyan"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Sepanên ku Têne Tercîhkirin"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -598,21 +534,17 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafîk"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Bikaranînên grafîkê"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Sermaseya Dûr"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Kontrolkirina Deng"
+msgstr ""
 
 msgid "Robotics"
 msgstr ""
@@ -636,22 +568,19 @@ msgid "Screensavers"
 msgstr "Parêzvanên ekranê"
 
 msgid "Security"
-msgstr "Parêzerî"
+msgstr "Ewlehî"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Parêzerî"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Zanistiyên"
+msgstr ""
 
 msgid "Settings"
 msgstr "Mîheng"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Perwerdehî"
+msgstr "Sîmulasiyon"
 
 msgid "Simulation Games"
 msgstr ""
@@ -659,13 +588,11 @@ msgstr ""
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Lêbarkerê Nivîsbarê"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Lêbarkerê Nivîsbarê"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -676,9 +603,8 @@ msgstr "Deng"
 msgid "Sports"
 msgstr "Werzîş"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Lîstikên Textê"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
@@ -686,9 +612,8 @@ msgstr ""
 msgid "Strategy"
 msgstr "Stratejî"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Stratejî"
+msgstr ""
 
 msgid "System"
 msgstr "Pergal"
@@ -703,15 +628,13 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "TV û Radiyo"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Bikaranînên grafîkê"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "Sepan"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Amûrên Fêrkirinê"
@@ -719,9 +642,8 @@ msgstr "Amûrên Fêrkirinê"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Amûran Nivîs"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -729,17 +651,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Sepanên Termînalê"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Termînal"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Amûran Nivîs"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Amûran Nivîs"
@@ -748,11 +667,10 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Amûran"
+msgstr "Amûr"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Amûrên ji bo pêþxistina nivîsbariyê"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -760,13 +678,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Sepanên xwe yên pêşdanasînî hilbijêre"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Sepanên xwe yên pêşdanasînî hilbijêre"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -787,14 +703,13 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Lîstika"
+msgstr "Lîstok"
 
 msgid "Translation"
 msgstr "Wergerandin"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Wergerandin"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -802,49 +717,41 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Grafîk"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Bikaranînên grafîkê"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Vîdeyo"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Daxwaz"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Lêdera Vîdeoyê"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Tomarkerê Deng"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Temaşekarê Faksan"
+msgstr "Temaşekar"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Geroka Torê"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Geroka Torê"
+msgstr "Gerîna Înternetê"
 
 msgid "Web Development"
-msgstr "Pêşdebirina Torê"
+msgstr "Pêşdebirina Înternetê"
 
 msgid "Web Publishing"
 msgstr ""
@@ -857,215 +764,3 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

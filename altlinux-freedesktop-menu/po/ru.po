@@ -34,29 +34,21 @@ msgstr "3D графика"
 msgid "3D based graphical applications"
 msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "A clock application/applet"
-msgstr "Applications/Edutainment"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/zangband
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Игры"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/xxkb
 msgid "Accessibility"
 msgstr "Полезное"
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Action"
-msgstr "Действия"
+msgstr "Стрелялки"
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Action Games"
-msgstr "Действия"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "AddressBooks"
@@ -69,24 +61,17 @@ msgstr "Администрирование"
 msgid "Adventure"
 msgstr "Приключения"
 
-# Found in /home/zerg/tmp/tmp-menu-files/zangband
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Приключения"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdebase-KRandom
-#, fuzzy
 msgid "Amateur Radio"
-msgstr "QtRadio"
+msgstr "Любительское радио"
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Приложения"
+msgstr ""
 
-#, fuzzy
 msgid "Application to manage your finance"
-msgstr "Менеджер словарей для OpenOffice.org"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/yudit
 msgid "Applications"
@@ -95,10 +80,8 @@ msgstr "Приложения"
 msgid "Applications like cvs or subversion"
 msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Applications to manage a database"
-msgstr "Приложения/Базы данный"
+msgstr ""
 
 msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
@@ -107,10 +90,8 @@ msgstr ""
 msgid "Arcade"
 msgstr "Аркадные"
 
-# Found in kdegames-kasteroids
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Аркаднае игры"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/xcdroast
 msgid "Archiving"
@@ -129,10 +110,8 @@ msgstr ""
 msgid "Astronomy"
 msgstr "Астрономия"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Астрономия"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr "Обработка звука"
@@ -151,10 +130,8 @@ msgstr "Резервное копирование"
 msgid "Biology"
 msgstr "Биология"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Biology software"
-msgstr "Биология"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -172,16 +149,14 @@ msgstr "Сборка"
 msgid "Calculator"
 msgstr "Калькулятор"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Калькулятор"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Календарь"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Программа для вебкамер - Camstream"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Карточные игры"
@@ -202,10 +177,8 @@ msgstr "Общение"
 msgid "Chemistry"
 msgstr "Химия"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Химия"
+msgstr ""
 
 msgid "Clock"
 msgstr "Часы"
@@ -221,29 +194,18 @@ msgstr "Сжатие"
 msgid "Computer Science"
 msgstr "Компьютерная наука"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Информатика"
-
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Информатика"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "Computer science"
 msgstr "Информатика"
 
-# Found in /home/zerg/tmp/tmp-menu-files/fetchmailconf
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Утилита настройки Fetchmail"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/xscreensaver
-#, fuzzy
 msgid "Construction"
-msgstr "Настройка"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -268,10 +230,8 @@ msgstr "Рабочий стол"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-# Found in kdeedu-kstars
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Настольный планетарий"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/tkregexp
 msgid "Development"
@@ -281,17 +241,14 @@ msgstr "Разработка"
 msgid "Development environments"
 msgstr "Среды разработки"
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Отладчик программ"
+msgstr ""
 
 msgid "Dialup"
 msgstr "Дозвон"
 
-# Found in kdenetwork-kdict
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Словарь"
+msgstr ""
 
 # Found in kdenetwork-kdict
 msgid "Dictionary"
@@ -304,9 +261,8 @@ msgstr "Запись дисков"
 msgid "Documentation"
 msgstr "Документация"
 
-#, fuzzy
 msgid "E17"
-msgstr "E-17"
+msgstr ""
 
 msgid "Economy"
 msgstr "Экономика"
@@ -325,10 +281,8 @@ msgstr "Электричество"
 msgid "Electricity software"
 msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/sylpheed
-#, fuzzy
 msgid "Electronics"
-msgstr "Spheremonics"
+msgstr "Электроника"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -337,10 +291,8 @@ msgstr ""
 msgid "Email"
 msgstr "Электронная почта"
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Email applications"
-msgstr "Приложения"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -349,16 +301,14 @@ msgstr ""
 msgid "Emulators"
 msgstr "Эмуляторы"
 
-# Found in /home/zerg/tmp/tmp-menu-files/WindowMaker
-#, fuzzy
 msgid "Engineering"
-msgstr "Engine"
+msgstr "Техническая разработка"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
 msgid "Falling Blocks"
-msgstr ""
+msgstr "Тетрисы"
 
 msgid "Falling blocks games"
 msgstr ""
@@ -373,15 +323,11 @@ msgstr "Файловые системы"
 msgid "File Transfer"
 msgstr "Передача файлов"
 
-# Found in /home/zerg/tmp/tmp-menu-files/xwc
-#, fuzzy
 msgid "File system tools"
-msgstr "Файловые утилиты"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/xwc
-#, fuzzy
 msgid "File tool utilities"
-msgstr "Файловые утилиты"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/xwc
 msgid "File tools"
@@ -391,10 +337,8 @@ msgstr "Файловые утилиты"
 msgid "Finances"
 msgstr "Финансы"
 
-# Found in /home/zerg/tmp/tmp-menu-files/koffice-kchart
-#, fuzzy
 msgid "Flow Chart"
-msgstr "Диаграммы"
+msgstr ""
 
 msgid "GNOME"
 msgstr "GNOME"
@@ -402,9 +346,8 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr "Дизайнеры форм"
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "kamix - программа-микшер"
+msgstr ""
 
 # Found in kdegames-ktron
 msgid "Games"
@@ -419,23 +362,17 @@ msgstr "Детские игры"
 msgid "Geography"
 msgstr "География"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Geology"
-msgstr "Биология"
+msgstr "Геология"
 
 msgid "Geology software"
 msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Geoscience"
-msgstr "Геонауки"
+msgstr "Геофизика"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Геонауки"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "Geosciences"
@@ -461,36 +398,26 @@ msgstr "IDE"
 msgid "IRC"
 msgstr "IRC"
 
-# Found in kdenetwork-ksirc
-#, fuzzy
 msgid "IRC clients"
-msgstr "Клиент IRC"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Обработка изображений"
 
-# Found in /home/zerg/tmp/tmp-menu-files/koffice-kword
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Обработка текста"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/psi
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Пейджеры"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/psi
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Пейджеры"
+msgstr ""
 
 msgid "Internet"
 msgstr "Интернет"
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Internet applications"
-msgstr "Приложения"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -538,19 +465,14 @@ msgstr "Мониторинг"
 msgid "Multimedia"
 msgstr "Мультимедиа"
 
-# Found in /home/zerg/tmp/tmp-menu-files/Xtheater
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Мультимедиа"
+msgstr ""
 
-# Found in kdemultimedia-kaboodle
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Медиапроигрыватель"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Мультиканальный Hard Disk Recorder"
+msgstr ""
 
 msgid "Music"
 msgstr "Музыка"
@@ -585,9 +507,8 @@ msgstr "Распознавание"
 msgid "Office"
 msgstr "Офис"
 
-#, fuzzy
 msgid "Optical character recognition applications"
-msgstr "Программа синхронизации рабочего стола"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/xqf
 msgid "Other"
@@ -596,17 +517,15 @@ msgstr "Другие"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Отладчик программ"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "PDA"
 msgstr "PDA"
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "kamix - программа-микшер"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/synaptic
 msgid "Packaging"
@@ -632,18 +551,14 @@ msgstr "Фото"
 msgid "Physics"
 msgstr "Физика"
 
-# Found in /home/zerg/tmp/tmp-menu-files/xoscope
-#, fuzzy
 msgid "Physics software"
-msgstr "Физика"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Параметры"
 
-# Found in /home/zerg/tmp/tmp-menu-files/oospresenter
-#, fuzzy
 msgid "Presentation software"
-msgstr "Презентации"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/oospresenter
 msgid "Presentations"
@@ -653,19 +568,15 @@ msgstr "Презентации"
 msgid "Printing"
 msgstr "Печать"
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdebase-partitions
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Утилита разбиения дисков"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/mrproject
 msgid "Project Management"
 msgstr "Управление проектами"
 
-# Found in /home/zerg/tmp/tmp-menu-files/mrproject
-#, fuzzy
 msgid "Project management applications"
-msgstr "Программа управления проектами"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/xpp
 msgid "Publishing"
@@ -674,10 +585,8 @@ msgstr "Издательство"
 msgid "ROX"
 msgstr "ROX"
 
-# Found in /home/zerg/tmp/tmp-menu-files/xsane
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Графика"
+msgstr ""
 
 msgid "Raster based graphical applications"
 msgstr ""
@@ -714,9 +623,8 @@ msgstr "Хранители экрана"
 msgid "Security"
 msgstr "Безопасность"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Безопасность"
+msgstr ""
 
 msgid "Sequencers"
 msgstr "Cеквенсеры"
@@ -725,10 +633,8 @@ msgstr "Cеквенсеры"
 msgid "Settings"
 msgstr "Настройки"
 
-# Found in /home/zerg/tmp/tmp-menu-files/xdosemu
-#, fuzzy
 msgid "Simulation"
-msgstr "Эмулятор"
+msgstr "Симуляторы"
 
 msgid "Simulation Games"
 msgstr ""
@@ -739,10 +645,8 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdebase-kcmnotify
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Уведомления о наличии обновлений программ"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -755,10 +659,8 @@ msgstr "Звук"
 msgid "Sports"
 msgstr "Спортивные"
 
-# Found in /home/zerg/tmp/tmp-menu-files/tuxracer
-#, fuzzy
 msgid "Sports Games"
-msgstr "Спортивные"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/oospreadsheet
 msgid "Spreadsheets"
@@ -768,10 +670,8 @@ msgstr "Электронные таблицы"
 msgid "Strategy"
 msgstr "Стратегии"
 
-# Found in kdegames-kbattleship
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Стратегическая игра"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/kdenetwork-kcmkxmlrpcd
 msgid "System"
@@ -783,30 +683,23 @@ msgstr "Системные"
 msgid "System settings"
 msgstr "Системные параметры"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/xmovie
-#, fuzzy
 msgid "TV and Radio"
-msgstr "XawTV - радио"
+msgstr "Телевидение и радио"
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "kamix - программа-микшер"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "TV applications"
-msgstr "Приложения"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Инструменты для обучения"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Alephone"
+msgstr ""
 
 msgid "Telephony tools"
 msgstr "Работа с телефоном"
@@ -817,18 +710,15 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Персональное финансовое приложение"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/xterm
 msgid "Terminals"
 msgstr "Терминалы"
 
-# Found in /home/zerg/tmp/tmp-menu-files/menu
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Текстовые утилиты"
+msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "Text tools"
@@ -853,10 +743,8 @@ msgstr ""
 msgid "Tools to build applications"
 msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/yudit
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Программа-метроном"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -883,10 +771,8 @@ msgstr "Безделушки"
 msgid "Translation"
 msgstr "Локализация"
 
-# Found in kdesdk-kbabel
-#, fuzzy
 msgid "Translation tools"
-msgstr "Утилита для переводов"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -905,13 +791,11 @@ msgstr ""
 msgid "Video"
 msgstr "Видео"
 
-#, fuzzy
 msgid "Video Conference software"
-msgstr "Видеоконференции"
+msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Видеоконференции"
+msgstr ""
 
 msgid "Video Editing"
 msgstr "Обработка видео"
@@ -922,19 +806,14 @@ msgstr "Видеоплееры"
 msgid "Video Recorders"
 msgstr "Запись видео"
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Программы просмотра"
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdebase-useragent
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Обозреватель Web"
+msgstr ""
 
-# Found in /home/zerg/tmp/tmp-menu-files/kdebase-useragent
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Просмотр Web"
+msgstr "Просмотр веб"
 
 msgid "Web Development"
 msgstr "Веб-разработка"
@@ -949,7 +828,5 @@ msgstr "Текстовые процессоры"
 msgid "XFCE"
 msgstr ""
 
-# Found in kdenetwork-ksirc
-#, fuzzy
 msgid "chat clients"
-msgstr "XChat"
+msgstr ""

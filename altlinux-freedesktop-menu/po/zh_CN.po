@@ -1,89 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Year Free Software Foundation, Inc.
+# Yongtao Yang <yongtao.yang@telia.com>, 2004.
+# Wang Xu <gnawux@gmail.com>, 2008.
 #
-# Latest versions of po files are at http://www.mandrivalinux.com/l10n/zh_CN.php3
-#
-# Simplified Chinese Translation
-# Alex DU <dxiaoming@mandriva.com>, 2001.
-# 汤诗语 <shiyu@mandriva.org>, 2003, 2004, 2005, 2008
-# Funda Wang <fundawang@linux.net.cn>, 2003, 2004, 2005.
-# Copyright (C) 2000-2005 Mandriva
-#
-# $Id: zh_CN.po 270670 2010-08-22 10:51:12Z fwang $
-#
-# Best Practice for translators
-#
-# cooperation
-#
-# - first check out the latest version online,
-#   if it is less than two day old, the last translator may be working on a new version.
-# - commit to Pablo when you finish one day work, even you have fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: zh_CN\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu 2.1.36\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-03-30 13:15+0800\n"
-"Last-Translator: 汤诗语 <shiyu@mandriva.org>\n"
-"Language-Team: Mandriva Linux i18n Team <cooker-i18n@mandrivalinux.org>\n"
+"PO-Revision-Date: 2008-01-10 07:24+0800\n"
+"Last-Translator: Wang Xu <gnawux@gmail.com>\n"
+"Language-Team: Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "图像"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "图像应用程序"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "图像"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "图像应用程序"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "游戏和休闲"
-
-msgid "Accessibility"
-msgstr "辅助"
-
-#, fuzzy
-msgid "Action"
-msgstr "教育"
-
-#, fuzzy
-msgid "Action Games"
-msgstr "动作猜谜游戏"
-
-#, fuzzy
-msgid "AddressBooks"
-msgstr "K 地址簿"
-
-msgid "Administration"
-msgstr "系统管理"
-
-msgid "Adventure"
-msgstr "探险"
-
-#, fuzzy
-msgid "Adventure style games"
-msgstr "一个类似于俄罗斯方块的游戏"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Accessibility"
+msgstr "辅助工具"
+
+msgid "Action"
+msgstr "动作类"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Adventure"
+msgstr "冒险类"
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr "业余无线电"
+
 msgid "Application to burn a disc"
-msgstr "程序查找工具"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -101,60 +76,49 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "街机"
+msgstr "街机类"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "闯关游戏"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "文件压缩归档工具"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "K 压缩"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "人工智能"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "人工智能"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "天文"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "天文"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "音频标签编辑器"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "音频播放器"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "录音机"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "备份"
+msgstr ""
 
 msgid "Biology"
-msgstr "生物学"
+msgstr "生物"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "变形软件"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Blogilo"
+msgstr ""
 
 msgid "Board Games"
 msgstr "棋类游戏"
@@ -168,16 +132,14 @@ msgstr ""
 msgid "Calculator"
 msgstr "计算器"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "计算器"
+msgstr ""
 
 msgid "Calendar"
 msgstr "日历"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Java 工具组件"
+msgstr ""
 
 msgid "Card Games"
 msgstr "牌类游戏"
@@ -185,28 +147,23 @@ msgstr "牌类游戏"
 msgid "Cards"
 msgstr "纸牌"
 
-#, fuzzy
 msgid "Chart"
-msgstr "K 字符映射表"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "聊天"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "化学"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "化学"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "Xlock 屏幕保护"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "应用程序"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -214,25 +171,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "计算机科学"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "计算机科学"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "计算机科学"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "计算机科学"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "ODBCConfig(root 用户)"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "网络建设游戏"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -240,16 +189,14 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "数据可视化"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "数据可视化"
+msgstr ""
 
 msgid "Databases"
 msgstr "数据库"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "更多应用程序"
+msgstr ""
 
 msgid "Desktop"
 msgstr "桌面"
@@ -257,34 +204,29 @@ msgstr "桌面"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "桌面部件"
+msgstr ""
 
 msgid "Development"
 msgstr "开发"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "开发环境"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "一个三维图片工具"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "字典"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "字典"
 
-#, fuzzy
 msgid "Disc burning"
-msgstr "磁盘刻录"
+msgstr ""
 
 msgid "Documentation"
 msgstr "文档"
@@ -304,24 +246,20 @@ msgstr "教育"
 msgid "Electricity"
 msgstr "电子"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "电子"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
 msgstr "电子"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "X 邮件箱"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "图像应用程序"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -330,44 +268,37 @@ msgid "Emulators"
 msgstr "模拟器"
 
 msgid "Engineering"
-msgstr ""
+msgstr "工程"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "俄罗斯方块游戏"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "俄罗斯方块游戏"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "文件管理器"
+msgstr ""
 
 msgid "File Systems"
 msgstr "文件系统"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "文件管理器"
+msgstr "文件传输"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "文件系统"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "文本工具"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "科学"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -375,13 +306,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt 设计器"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "图像应用程序"
+msgstr ""
 
 msgid "Games"
 msgstr "游戏"
@@ -395,31 +324,26 @@ msgstr "儿童游戏"
 msgid "Geography"
 msgstr "地理"
 
-#, fuzzy
 msgid "Geology"
-msgstr "生物学"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "变形软件"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "地球科学"
+msgstr "地理"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "地球科学"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "地球科学"
 
 msgid "Graphics"
-msgstr "图像"
+msgstr "图形"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "变形软件"
+msgstr ""
 
 msgid "Hardware"
 msgstr "硬件"
@@ -427,38 +351,32 @@ msgstr "硬件"
 msgid "History"
 msgstr "历史"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC 客户程序"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "图像处理"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "图像处理"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "即时消息客户程序"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "通用的即时通信客户程序"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "更多应用程序"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -481,50 +399,41 @@ msgstr "逻辑游戏"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "变形软件"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "数学"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "DJ 软件"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "变形软件"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "混音器"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "显示器"
+msgstr "系统监控"
 
 msgid "Multimedia"
 msgstr "多媒体"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "多媒体菜单"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "媒体播放器"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "多媒体播放器"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "变形软件"
+msgstr ""
 
 msgid "Network"
 msgstr "网络"
@@ -532,9 +441,8 @@ msgstr "网络"
 msgid "Network-related settings"
 msgstr "网络相关的设置"
 
-#, fuzzy
 msgid "News"
-msgstr "邮件/新闻"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -542,9 +450,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "数字分析"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "数字分析"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -561,16 +468,14 @@ msgstr "其它"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "绘画程序"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "图像扫描程序"
+msgstr ""
 
 msgid "Packaging"
 msgstr "打包"
@@ -578,9 +483,8 @@ msgstr "打包"
 msgid "Parallel Computing"
 msgstr "并行计算"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "并行计算"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -588,41 +492,35 @@ msgstr ""
 msgid "Personal"
 msgstr "个人"
 
-#, fuzzy
 msgid "Photography"
-msgstr "地理"
+msgstr ""
 
 msgid "Physics"
 msgstr "物理"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "变形软件"
+msgstr ""
 
 msgid "Preferences"
 msgstr "首选项"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "演示文稿"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "演示文稿"
+msgstr ""
 
 msgid "Printing"
 msgstr "打印"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "文件压缩归档工具"
+msgstr ""
 
 msgid "Project Management"
 msgstr "项目管理"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "打印机管理应用程序"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -630,28 +528,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "图像"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "图像应用程序"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "远程图形访问"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "音量控制"
+msgstr ""
 
 msgid "Robotics"
 msgstr "机器人"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "变形软件"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -671,60 +564,50 @@ msgstr "屏幕保护程序"
 msgid "Security"
 msgstr "安全"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "安全"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI 音序器"
+msgstr ""
 
 msgid "Settings"
 msgstr "设置"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Minitel 模拟器"
+msgstr "模拟类"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "平台游戏"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "软件更新查看器"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "软件介质管理器"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "软件源"
+msgstr ""
 
 msgid "Sound"
-msgstr "音效"
+msgstr "声音"
 
 msgid "Sports"
-msgstr "运动"
+msgstr "体育类"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "棋类游戏"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "电子表格"
+msgstr ""
 
 msgid "Strategy"
-msgstr "战略"
+msgstr "策略类"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "战略"
+msgstr ""
 
 msgid "System"
 msgstr "系统"
@@ -735,31 +618,26 @@ msgstr "系统工具"
 msgid "System settings"
 msgstr "系统设置"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "查看和报告应用程序崩溃事件"
+msgid "TV and Radio"
+msgstr "电视与收音机"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "应用程序"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "教学工具"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "ISDN 电话"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "文本工具"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -767,17 +645,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "终端应用程序"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "终端"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "文本工具"
+msgstr ""
 
 msgid "Text tools"
 msgstr "文本工具"
@@ -788,9 +663,8 @@ msgstr ""
 msgid "Tools"
 msgstr "工具"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "软件开发工具"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -798,13 +672,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "选择默认的应用程序"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "选择默认的应用程序"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -812,9 +684,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "配置打印机"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -826,2265 +697,64 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "玩具"
+msgstr "玩具类"
 
 msgid "Translation"
 msgstr "翻译"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "翻译工具"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "打字教程"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "矢量图形编辑器"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "图像应用程序"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "首选项"
+msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "视频编辑器"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "视频播放机"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "数码影像录制"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUI 查看器"
+msgstr "查看器"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Web 浏览器"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Web 浏览器"
+msgstr "网络浏览"
 
 msgid "Web Development"
-msgstr "Web 开发"
+msgstr "网站开发"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "文字处理"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "邮件客户端"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

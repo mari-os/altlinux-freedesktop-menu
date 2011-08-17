@@ -1,62 +1,46 @@
-#
-# Latest versions of po files are at http://www.mandrivalinux.com/l10n/br.php3
-#
-#
-# Copyright (C) 2000-2004 Mandriva
-# Jañ-Mai Drapier <jdrapier@club-internet.fr>, 1999-2000
-# Thierry Vignaud <tvignaud@mandrakesoft.com>, 2001-2004
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2008-02-23 16:12+0100\n"
-"Last-Translator: Jañ-Mai Drapier <jdrapier@club-internet.fr>\n"
-"Language-Team: Brezhoneg <ofisk.bzh@wanadoo.fr>\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michel Nédélec <mnedeleg@yahoo.fr>\n"
+"Language-Team: Breton\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1;plural=0\n"
+"X-Poedit-Language: Breton\n"
+"X-Poedit-Country: FRANCE\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafikoù"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafikoù"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "C'hoarioù ha diduelloù"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Haezadusted"
+msgstr "Monedusted"
 
-#, fuzzy
 msgid "Action"
-msgstr "Deskadurezh"
+msgstr "Birvidik"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "C'hoari a vrezelekaouriezh"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
 msgstr "Mererezh"
@@ -64,16 +48,14 @@ msgstr "Mererezh"
 msgid "Adventure"
 msgstr "Troioù-kaer"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Ur c'hoari a seurt gant Tetris"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Skingomz amatour"
+
 msgid "Application to burn a disc"
-msgstr "Arloadoù"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -93,17 +75,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "C'hoarioù tavarn"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "C'hoari video tavarn"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Ostilh merañ an Dielloù"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -112,33 +91,28 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "Steredoniezh"
+msgstr "Astronomiezh"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Steredoniezh"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "C'hoarier klevet"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Enroller Son"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Dielloù"
+msgstr ""
 
 msgid "Biology"
 msgstr "Bevoniezh"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -152,17 +126,14 @@ msgstr "Kartennoù"
 msgid "Building"
 msgstr ""
 
-#, fuzzy
 msgid "Calculator"
-msgstr "Galculator"
+msgstr ""
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Galculator"
+msgstr ""
 
-#, fuzzy
 msgid "Calendar"
-msgstr "Blender"
+msgstr ""
 
 msgid "Camera tools, etc."
 msgstr ""
@@ -173,27 +144,23 @@ msgstr "C'hoarioù Kartennoù"
 msgid "Cards"
 msgstr "Kartoù"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
 
 msgid "Chemistry"
-msgstr "Kimiez"
+msgstr "Kimiezh"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kimiez"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "wmMoonClock"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Arloadoù"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -201,32 +168,23 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Stlenneg"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Stlenneg"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Stlenneg"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Stlenneg"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Ostilh kefluniañ CDDB (Arveriad gwrizienn)"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Mererezh"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Etrebroadeladur"
+msgstr ""
 
 msgid "Data visualization software"
 msgstr ""
@@ -234,9 +192,8 @@ msgstr ""
 msgid "Databases"
 msgstr "Stlennvonioù"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Ar re all"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Gorretaol"
@@ -244,27 +201,23 @@ msgstr "Gorretaol"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Mavegoù"
+msgstr ""
 
 msgid "Development"
 msgstr "Diorren"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Endro diorren"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Meziant tresañ"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Geriadur"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Geriadur"
@@ -282,7 +235,7 @@ msgid "Economy"
 msgstr "Armerzh"
 
 msgid "Editors"
-msgstr "Aozerien"
+msgstr "Aozerioù"
 
 msgid "Education"
 msgstr "Deskadurezh"
@@ -290,33 +243,29 @@ msgstr "Deskadurezh"
 msgid "Electricity"
 msgstr "Tredan"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Tredan"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Tredan"
+msgstr "Elektronik"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Kendarvanerien"
+msgstr "Emulatorioù"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Ijinouriezh"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
@@ -327,31 +276,26 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Merour restroù"
+msgstr ""
 
 msgid "File Systems"
 msgstr "Reizhiadoù restroù"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Merour restroù"
+msgstr "Treuzkas restroù"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Reizhiadoù restroù"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Binvioù skrid"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Skiantoù"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -359,13 +303,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Ergrafer Qt"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
 msgid "Games"
 msgstr "C'hoarioù"
@@ -379,21 +321,17 @@ msgstr "C'hoarioù evit ar Bugale"
 msgid "Geography"
 msgstr "Douaroniezh"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Bevoniezh"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
 msgstr "Skiantoù an douar"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Skiantoù an douar"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Skiantoù an douar"
@@ -401,49 +339,41 @@ msgstr "Skiantoù an douar"
 msgid "Graphics"
 msgstr "Grafikoù"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Hardware"
-msgstr "Periantel"
+msgstr "Periantoù"
 
 msgid "History"
 msgstr "Istor"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Kliant IRC"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing"
-msgstr "Furchal skeudenn"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Posteler a-benn-kaer"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Posteler a-benn-kaer"
+msgstr ""
 
 msgid "Internet"
 msgstr "Kenrouedad"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Ar re all"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -460,56 +390,47 @@ msgstr "Yezhoù"
 msgid "Literature"
 msgstr "Lennegezh"
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Ur c'hoari a seurt gant Rogue"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Mathematics"
-msgstr "Jedoniel"
+msgstr "Jedoniezh"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Sell ar pakadoù"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Monitor"
 
 msgid "Multimedia"
 msgstr "Liesvedia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Liesvedia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Ur soner liesvedia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Ur soner liesvedia"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Network"
 msgstr "Rouedad"
@@ -517,9 +438,8 @@ msgstr "Rouedad"
 msgid "Network-related settings"
 msgstr "Kefluniadur ar Rouedad"
 
-#, fuzzy
 msgid "News"
-msgstr "Posteloù/keleier"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -545,16 +465,14 @@ msgstr "All"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Goulev tresañ"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Arloadoù an termenell"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pakadiñ"
@@ -562,9 +480,8 @@ msgstr "Pakadiñ"
 msgid "Parallel Computing"
 msgstr ""
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -572,41 +489,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Personel"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Douaroniezh"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fizik"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Dibaboù gwellañ"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Teuliadur"
+msgstr ""
 
 msgid "Printing"
 msgstr "Moullañ"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Ostilh merañ an Dielloù"
+msgstr ""
 
 msgid "Project Management"
-msgstr "Mererezh raktresioù"
+msgstr "Mererezh mennadoù"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Mererezh raktresioù"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -614,27 +525,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafikoù"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
 msgid "Remote access"
 msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Ren an nerzh"
+msgstr ""
 
 msgid "Robotics"
 msgstr ""
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Meziant trolinennañ"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -646,7 +553,7 @@ msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr "Skiantoù"
+msgstr "Skiant"
 
 msgid "Screensavers"
 msgstr "Damanteroù skramm"
@@ -654,20 +561,17 @@ msgstr "Damanteroù skramm"
 msgid "Security"
 msgstr "Surentez"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Surentez"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Skiantoù"
+msgstr ""
 
 msgid "Settings"
 msgstr "Dibarzhoù"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Globulation2"
+msgstr "Drevezerezh"
 
 msgid "Simulation Games"
 msgstr ""
@@ -675,13 +579,11 @@ msgstr ""
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Stalier meziantoù"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Merour ar pakadoù"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -692,20 +594,17 @@ msgstr "Son"
 msgid "Sports"
 msgstr "Sportoù"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "C'hoarioù taolenn"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Loger Siag Office"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Kadouriezh"
+msgstr "Strategiezh"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Kadouriezh"
+msgstr ""
 
 msgid "System"
 msgstr "Reizhiad"
@@ -716,32 +615,26 @@ msgstr "Binvioù reizhiad"
 msgid "System settings"
 msgstr "Kefluniañ ar reiziad"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
+msgid "TV and Radio"
+msgstr "Skinwell ha skingomz"
+
 msgid "TV and Radio applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Arloadoù"
+msgstr ""
 
-#, fuzzy
 msgid "Teaching Tools"
-msgstr "Ostilh merañ an Dielloù"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Pellgomz ISDN"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Binvioù skrid"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -749,17 +642,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Arloadoù an termenell"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Termenell"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Binvioù skrid"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Binvioù skrid"
@@ -768,11 +658,10 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Binvioù"
+msgstr "Ostilhoù"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Ar binvioù da ziorren ar poelladoù"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -780,13 +669,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Dibabit ho veziantoùre ziouer"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Dibabit ho veziantoùre ziouer"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -807,14 +694,13 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "C'hoarielloù"
+msgstr "C'hoariell"
 
 msgid "Translation"
 msgstr "Troidigezh"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Troidigezh"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -822,935 +708,50 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Embanner kevregadoù sturiadel"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Poelladoù grafikoù"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Dibaboù gwellañ"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Ur c'hoarier Video"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Enroller Son"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Diskwelerioù"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Furcher ar Gwiad"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Furcher ar Gwiad"
+msgstr "Kenrouedad"
 
 msgid "Web Development"
-msgstr "Diorren gwiad"
+msgstr "Diorren kenrouedad"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Skridtreterezh"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Pratikoù postel"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

@@ -1,46 +1,39 @@
-# Translation into Marathi
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/mr.php3
-#
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2002-12-27 17:12+0530\n"
-"Last-Translator: Nobody\n"
-"Language-Team: Marathi\n"
+"PO-Revision-Date: 2003-04-03 12:14+0100\n"
+"Last-Translator: Priti Patil <prithisd@gmail.com>\n"
+"Language-Team:  Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii "
+"[at] cdacmumbai [dot] in>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "ग्राफिक्स"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "ग्राफिक्स"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "खेळ व मनोरंजन"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "सुलभता"
@@ -49,9 +42,8 @@ msgstr "सुलभता"
 msgid "Action"
 msgstr "शिक्षण"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "बोर्ड खेळ"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
@@ -60,7 +52,7 @@ msgid "Administration"
 msgstr "व्यवथापन"
 
 msgid "Adventure"
-msgstr ""
+msgstr "साहसी"
 
 msgid "Adventure style games"
 msgstr ""
@@ -68,9 +60,8 @@ msgstr ""
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "अनुप्रयोग"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -88,14 +79,13 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "ऑर्केड"
+msgstr "आर्केड"
 
 msgid "Arcade style game"
 msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "अभिलेख व्यवस्थापक"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -115,13 +105,11 @@ msgstr ""
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "संगीत वादक"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "ध्वनी रेकॉर्डर"
+msgstr ""
 
 msgid "Backup"
 msgstr ""
@@ -138,9 +126,8 @@ msgstr ""
 msgid "Board Games"
 msgstr "बोर्ड खेळ"
 
-#, fuzzy
 msgid "Boards"
-msgstr "बोर्ड खेळ"
+msgstr ""
 
 msgid "Building"
 msgstr ""
@@ -148,30 +135,26 @@ msgstr ""
 msgid "Calculator"
 msgstr "गणनायंत्र"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "गणनायंत्र"
+msgstr ""
 
 msgid "Calendar"
 msgstr "दिनदर्शिका"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Java साधनसंच"
+msgstr ""
 
 msgid "Card Games"
 msgstr "कार्ड खेळ"
 
-#, fuzzy
 msgid "Cards"
-msgstr "कार्ड खेळ"
+msgstr ""
 
 msgid "Chart"
 msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "IRC Chat"
+msgstr ""
 
 msgid "Chemistry"
 msgstr ""
@@ -182,34 +165,26 @@ msgstr ""
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "अनुप्रयोग"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
 
-#, fuzzy
 msgid "Computer Science"
-msgstr "संगणक"
+msgstr ""
 
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
+msgid "Computer science"
 msgstr ""
 
-#, fuzzy
-msgid "Computer science"
-msgstr "संगणक"
-
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "कानफिगरेशन एडीटर"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "व्यवथापन"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -223,9 +198,8 @@ msgstr ""
 msgid "Databases"
 msgstr ""
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "अधिक अनुप्रयोग"
+msgstr ""
 
 msgid "Desktop"
 msgstr "डेस्कटॉप"
@@ -233,16 +207,14 @@ msgstr "डेस्कटॉप"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "डिस्क युटिलिटी"
+msgstr ""
 
 msgid "Development"
 msgstr "विकास"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "एकत्रीत निर्माण वातावरण"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -250,9 +222,8 @@ msgstr ""
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "शब्दकोश"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "शब्दकोश"
@@ -260,9 +231,8 @@ msgstr "शब्दकोश"
 msgid "Disc burning"
 msgstr ""
 
-#, fuzzy
 msgid "Documentation"
-msgstr "दस्तावेज दर्शक"
+msgstr ""
 
 msgid "E17"
 msgstr ""
@@ -276,9 +246,8 @@ msgstr "संपादक"
 msgid "Education"
 msgstr "शिक्षण"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -292,16 +261,14 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "गणनायंत्र"
+msgstr "अनुकरणक"
 
 msgid "Engineering"
 msgstr ""
@@ -309,36 +276,29 @@ msgstr ""
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "पडणारे ठोकळे एकत्र बसवा"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "पडणारे ठोकळे एकत्र बसवा"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "फाइल व्यवस्थापक"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "प्रणाली"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "फाइल व्यवस्थापक"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "सिस्टम साधने"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "फाइल ब्राउजर"
+msgstr ""
 
 msgid "Finances"
 msgstr ""
@@ -352,9 +312,8 @@ msgstr "जीनोम"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgstr ""
 
 msgid "Games"
 msgstr "खेळ"
@@ -376,17 +335,16 @@ msgstr ""
 
 #, fuzzy
 msgid "Geoscience"
-msgstr "विज्ञाण"
+msgstr "विज्ञान"
 
 msgid "Geoscience software"
 msgstr ""
 
-#, fuzzy
 msgid "Geosciences"
-msgstr "विज्ञाण"
+msgstr ""
 
 msgid "Graphics"
-msgstr "ग्राफिक्स"
+msgstr "चित्रणे"
 
 msgid "HAM radio software"
 msgstr ""
@@ -403,9 +361,8 @@ msgstr ""
 msgid "IRC"
 msgstr ""
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IM क्लाएंट"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -413,9 +370,8 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "इंटरनेट मेसेंजर"
+msgstr ""
 
 msgid "Instant messaging clients"
 msgstr ""
@@ -423,9 +379,8 @@ msgstr ""
 msgid "Internet"
 msgstr "इन्टरनेट"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "अधिक अनुप्रयोग"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -463,24 +418,20 @@ msgstr ""
 msgid "Mixers"
 msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "मॉनीटर्स्"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "मल्टीमीडिया"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "मल्टीमीडिया मेनू"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "मल्टीमीडिया मेनू"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "मल्टीमीडिया मेनू"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -521,16 +472,14 @@ msgstr "इतर"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "प्रोग्रामिंग"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "टर्मिनल अनुप्रयोग"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -574,9 +523,8 @@ msgstr ""
 msgid "Project Management"
 msgstr "प्रकल्प व्यवस्थापन"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "प्रकल्प व्यवस्थापन"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -584,25 +532,20 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "ग्राफिक्स"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "दूरस्थ संकनकस्थान"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "आवाज नियंत्रण"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "रोबोट्स"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -617,7 +560,7 @@ msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr "विज्ञाण"
+msgstr "विज्ञान"
 
 msgid "Screensavers"
 msgstr "स्क्रीनसेवर"
@@ -625,9 +568,8 @@ msgstr "स्क्रीनसेवर"
 msgid "Security"
 msgstr "सुरक्षा"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "सुरक्षा"
+msgstr ""
 
 msgid "Sequencers"
 msgstr ""
@@ -635,9 +577,8 @@ msgstr ""
 msgid "Settings"
 msgstr "समायोजन"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "शिक्षण"
+msgstr "आभास"
 
 msgid "Simulation Games"
 msgstr ""
@@ -645,34 +586,29 @@ msgstr ""
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "सॉफ्टवेअर अद्ययावत प्रदर्शक"
-
-#, fuzzy
-msgid "Software to teach arts"
-msgstr "सॉफ्टवेअर लॉग प्रदर्शक"
-
-#, fuzzy
-msgid "Software to teach music"
-msgstr "सॉफ्टवेअर स्त्रोत"
-
-msgid "Sound"
-msgstr "आवाज"
-
-msgid "Sports"
 msgstr ""
 
-#, fuzzy
+msgid "Software to teach arts"
+msgstr ""
+
+msgid "Software to teach music"
+msgstr ""
+
+msgid "Sound"
+msgstr "ध्वनि"
+
+msgid "Sports"
+msgstr "क्रीडा"
+
 msgid "Sports Games"
-msgstr "बोर्ड खेळ"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
 
-#, fuzzy
 msgid "Strategy"
-msgstr "रणनीतिक व कौशल्य"
+msgstr "धोरण"
 
 msgid "Strategy Games"
 msgstr ""
@@ -692,13 +628,11 @@ msgstr ""
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "ऍप्लिकेशन क्रॅशचे दृष्य व अहवाल"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "अनुप्रयोग"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "शिक्षण साधन"
@@ -706,9 +640,8 @@ msgstr "शिक्षण साधन"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "शिक्षण साधन"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -716,30 +649,26 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "टर्मिनल अनुप्रयोग"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "टर्मिनल"
+msgstr ""
 
 msgid "Text tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "Text tools"
-msgstr "पाठ्य संपादक"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr ""
+msgstr "टूलस्"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "साफ्टवेयर विकासासाठी साधने"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -747,13 +676,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "तुमचे मुलभूत अनुप्रयोग निवडा"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "तुमचे मुलभूत अनुप्रयोग निवडा"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -761,9 +688,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "मुद्रक व्यूहरचित करा"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -780,9 +706,8 @@ msgstr "खेळणी"
 msgid "Translation"
 msgstr "भाषांतर"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "भाषांतर"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -790,13 +715,11 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "ग्राफिक्स"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -804,32 +727,26 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "प्राधान्यक्रम"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "चित्रपट कार्यक्रम"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "ध्वनी रेकॉर्डर"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "फॉन्ट प्रदर्शक"
+msgstr "दर्शक"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "वेब ब्राउझर"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "वेब ब्राउझर"
+msgstr ""
 
 msgid "Web Development"
 msgstr "वेब विकास"
@@ -845,322 +762,3 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

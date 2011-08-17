@@ -1,81 +1,65 @@
+# Menu section translation
+# Copyright (C) 2007 
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2007.
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ga.php3
-#
-# Collection of titles/sections of Linux-Mandrake menu's.
-# It's generated from the /usr/lib/menu/* files.
-#
-# Copyright (C) 2000 MandrakeSoft
-# Sean Kelley <skelley@planetkc.com>, 1999
-# Proinnsis Breathnach <breatpro@dublin.ml.com>, 2000
-# Alastair McKinstry <mckinstry@computer.org>, 2000
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.35\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 1999-08-25 11:07+0200\n"
-"Last-Translator: Alastair McKinstry <mckinstry@computer.org>,\n"
-"Language-Team: Gaeilge <ga@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2008-05-11 15:27+0100\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafaic"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Feidhmchláir grafaice"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafaic"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Feidhmchláir grafaice"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Cluichí agus siamsaíochtaí"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Inrochtaineacht"
 
-#, fuzzy
 msgid "Action"
-msgstr "Oideachas"
+msgstr "Aicsean"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Cluiche Taicticiúil"
-
-#, fuzzy
-msgid "AddressBooks"
-msgstr "KAddressBook"
-
-msgid "Administration"
-msgstr "Riaracháin"
-
-msgid "Adventure"
-msgstr "Eachtra"
-
-#, fuzzy
-msgid "Adventure style games"
-msgstr "Eachtra"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Riarachán"
+
+msgid "Adventure"
+msgstr "Eachtraíocht"
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr "Raidió Amaitéarach"
+
 msgid "Application to burn a disc"
-msgstr "Feidhmchláir"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -95,17 +79,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "Stuara Siamsa"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Cluiche Stuara Buamála"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Uirlis Chartlannaithe"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -116,31 +97,26 @@ msgstr ""
 msgid "Astronomy"
 msgstr "Réalteolaíocht"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Réalteolaíocht"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Seinnteoir Fuaime"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Taifeadán Fuaime"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Cúltacaí"
+msgstr ""
 
 msgid "Biology"
 msgstr "Bitheolaíocht"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Bitheolaíocht"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -148,9 +124,8 @@ msgstr ""
 msgid "Board Games"
 msgstr "Cluichí Cláir"
 
-#, fuzzy
 msgid "Boards"
-msgstr "Fidcheall"
+msgstr ""
 
 msgid "Building"
 msgstr ""
@@ -158,13 +133,11 @@ msgstr ""
 msgid "Calculator"
 msgstr "Áireammhán"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Áireammhán"
+msgstr ""
 
-#, fuzzy
 msgid "Calendar"
-msgstr "KonsoleKalendar"
+msgstr ""
 
 msgid "Camera tools, etc."
 msgstr ""
@@ -175,9 +148,8 @@ msgstr "Cluichí Cártaí"
 msgid "Cards"
 msgstr "Cartaí"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
@@ -185,17 +157,14 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Ceimic"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Ceimic"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "KBlocks"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Feidhmchláir"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -203,32 +172,23 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Riomheolaíocht"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Riomheolaíocht"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Riomheolaíocht"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Riomheolaíocht"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Eagarthóir an Socrú"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Cluiche Tógála Líonra"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Idirnáisiúnú"
+msgstr ""
 
 msgid "Data visualization software"
 msgstr ""
@@ -236,9 +196,8 @@ msgstr ""
 msgid "Databases"
 msgstr "Bunachair Sonraí"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Feidhmchláir Breise"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Deasc"
@@ -246,27 +205,23 @@ msgstr "Deasc"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Giuirléidí Deisce"
+msgstr ""
 
 msgid "Development"
 msgstr "Forbairt"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Timpeallacht fhorbartha (La)TeX"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Clár líníochta"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Foclóir"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Foclóir"
@@ -280,9 +235,8 @@ msgstr "Áit"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Réalteolaíocht"
+msgstr ""
 
 msgid "Editors"
 msgstr "Eagarthóirí"
@@ -290,15 +244,14 @@ msgstr "Eagarthóirí"
 msgid "Education"
 msgstr "Oideachas"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "Leictreonaic"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -306,56 +259,47 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Feidhmchláir grafaice"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Iomaitheoirí"
+msgstr "Aithriseoirí"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Innealtóireacht"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Cluiche le bloic atá ag titim"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Cluiche le bloic atá ag titim"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Bainisteoir Chomhad"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Córas"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Bainisteoir Chomhad"
+msgstr "Aistriú Comhad"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Uirlisí Córais"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Uirlisí Teacs"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Eolaíochtaí"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -363,13 +307,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Dearthóir Comhéadain"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Feidhmchláir grafaice"
+msgstr ""
 
 msgid "Games"
 msgstr "Cluichí"
@@ -380,27 +322,23 @@ msgstr "Cluichí agus siamsaíochtaí"
 msgid "Games for Kids"
 msgstr "Cluichí do Pháistí"
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Bitheolaíocht"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Eolaíocht"
+msgstr "Geolaíocht"
 
 msgid "Geoscience software"
 msgstr ""
 
-#, fuzzy
 msgid "Geosciences"
-msgstr "Eolaíochtaí"
+msgstr ""
 
 msgid "Graphics"
 msgstr "Grafaic"
@@ -409,21 +347,19 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "Crua-earraí"
+msgstr "Crua-Earraí"
 
 msgid "History"
 msgstr "Stair"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Cliant IRC"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -431,20 +367,17 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Clár teachtaireachtaí meandaracha"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Clár teachtaireachtaí meandaracha"
+msgstr ""
 
 msgid "Internet"
 msgstr "Idirlíon"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Feidhmchláir Breise"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -483,22 +416,19 @@ msgid "Mixers"
 msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Monatóireacht"
 
 msgid "Multimedia"
 msgstr "Ilmheáin"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Roghchlár ilmheán"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Taispeántóir Ilmheán"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Taispeántóir Ilmheán"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -539,20 +469,17 @@ msgstr "Cíon Eile"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Clár Péinteála"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Feidhmchlár Scanta Íomhánna"
+msgstr ""
 
-#, fuzzy
 msgid "Packaging"
-msgstr "KPackageKit"
+msgstr ""
 
 msgid "Parallel Computing"
 msgstr ""
@@ -566,41 +493,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Pearsanta"
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fisic"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Fisic"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Sainroghanna"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Toirbeathas"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Toirbeathas"
+msgstr ""
 
 msgid "Printing"
 msgstr "Printáil"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Uirlis Chartlannaithe"
+msgstr ""
 
 msgid "Project Management"
 msgstr "Bainisteoireacht Tionscadal"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Bainisteoireacht Tionscadal"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -608,25 +529,20 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafaic"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Feidhmchláir grafaice"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Deasc Chianda"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Rialú Airde"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "Robots"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -649,20 +565,17 @@ msgstr "Spárálaithe Scáileáin"
 msgid "Security"
 msgstr "Slándáil"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Slándáil"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Eolaíochtaí"
+msgstr ""
 
 msgid "Settings"
 msgstr "Socruithe"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Oideachas"
+msgstr "Insamhladh"
 
 msgid "Simulation Games"
 msgstr ""
@@ -680,25 +593,22 @@ msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "Glóir"
+msgstr "Fuaim"
 
 msgid "Sports"
 msgstr "Sport"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Cluichí Cláir"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Leathanach tacaíocht Gnumeric"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Stratéis"
+msgstr "Straitéis"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Stratéis"
+msgstr ""
 
 msgid "System"
 msgstr "Córas"
@@ -713,15 +623,13 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "Teilifís agus Raidió"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Feidhmchláir grafaice"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "Feidhmchláir"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Uirlisí Múinteoireachta"
@@ -729,9 +637,8 @@ msgstr "Uirlisí Múinteoireachta"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Uirlisí Teacs"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -739,17 +646,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Feidhmchláir Teirminéil"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminéal"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Uirlisí Teacs"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Uirlisí Teacs"
@@ -760,9 +664,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Uirlisí"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Uirlisí le forbairt bogearraí"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -770,13 +673,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Roghnaigh d'fheidhmchláir réamhshocraithe"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Roghnaigh d'fheidhmchláir réamhshocraithe"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -784,9 +685,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Cumraigh printéirí"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -798,62 +698,52 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Áilleagáin"
+msgstr "Bréagáin"
 
 msgid "Translation"
 msgstr "Aistriúchán"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Aistriúchán"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Teagascóir Clóscríofa Tadhaill"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Grafaic"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Feidhmchláir grafaice"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Fís"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Sainroghanna"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Seinnteoir Físe"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Taifeadán Fuaime"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Amharcáin"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Brabhsálaí Lín"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Brabhsálaí Lín"
+msgstr "Brabhsáil an Ghréasáin"
 
 msgid "Web Development"
 msgstr "Forbairt Ghréasáin"
@@ -861,628 +751,11 @@ msgstr "Forbairt Ghréasáin"
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Próiseálaithe Focal"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Cliant Ríomhphoist"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

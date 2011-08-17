@@ -17,39 +17,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "График"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "График програмууд"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "График"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "График програмууд"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Тоглоом, зугаа цэнгэл"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Хэрэглэх тохь"
 
-#, fuzzy
 msgid "Action"
-msgstr "Боловсрол"
+msgstr ""
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Хөлөгт тоглоом"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
@@ -66,9 +59,8 @@ msgstr ""
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Х.программууд"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -91,9 +83,8 @@ msgstr "Сансар"
 msgid "Arcade style game"
 msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Архив Менежер"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -113,13 +104,11 @@ msgstr ""
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Аудио-изведувач"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Дуу Бичигч"
+msgstr ""
 
 msgid "Backup"
 msgstr ""
@@ -136,9 +125,8 @@ msgstr ""
 msgid "Board Games"
 msgstr "Хөлөгт тоглоом"
 
-#, fuzzy
 msgid "Boards"
-msgstr "Хөлөгт тоглоом"
+msgstr ""
 
 msgid "Building"
 msgstr ""
@@ -146,9 +134,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Тооны машин"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Тооны машин"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
@@ -159,9 +146,8 @@ msgstr ""
 msgid "Card Games"
 msgstr "Хөзрийн тоглоом"
 
-#, fuzzy
 msgid "Cards"
-msgstr "Хөзрийн тоглоом"
+msgstr ""
 
 msgid "Chart"
 msgstr ""
@@ -178,34 +164,26 @@ msgstr ""
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Х.программууд"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
 
-#, fuzzy
 msgid "Computer Science"
-msgstr "тооцоолуур"
+msgstr ""
 
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
+msgid "Computer science"
 msgstr ""
 
-#, fuzzy
-msgid "Computer science"
-msgstr "тооцоолуур"
-
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Тохируулга боловсруулагч"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Удирдлага"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -216,13 +194,11 @@ msgstr ""
 msgid "Data visualization software"
 msgstr ""
 
-#, fuzzy
 msgid "Databases"
-msgstr "Өгөгдлийн сан"
+msgstr ""
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Х.программууд"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Ажлын тавцан"
@@ -230,16 +206,14 @@ msgstr "Ажлын тавцан"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Хэрэгсэл програмууд"
+msgstr ""
 
 msgid "Development"
 msgstr "Хөгжүүлэл"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Хөгжүүлэл"
+msgstr ""
 
 msgid "Dial-up programs"
 msgstr ""
@@ -247,9 +221,8 @@ msgstr ""
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Толь бичиг"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Толь бичиг"
@@ -272,9 +245,8 @@ msgstr "Боловсруулагч"
 msgid "Education"
 msgstr "Боловсрол"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -288,16 +260,14 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "График програмууд"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "Тооны машин"
+msgstr ""
 
 msgid "Engineering"
 msgstr ""
@@ -311,21 +281,17 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Файл удирдагч"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Систем"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Файл удирдагч"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Системийн хэрэгслүүд"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
@@ -342,13 +308,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "Гном"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt-Дизайнер"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "График програмууд"
+msgstr ""
 
 msgid "Games"
 msgstr "Тоглоом"
@@ -389,16 +353,14 @@ msgstr "Техник хангамж"
 msgid "History"
 msgstr "Түүх"
 
-#, fuzzy
 msgid "IDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "IRC"
 msgstr ""
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC хэрэглэгч"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -406,9 +368,8 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Интернет Мессенжер"
+msgstr ""
 
 msgid "Instant messaging clients"
 msgstr ""
@@ -416,9 +377,8 @@ msgstr ""
 msgid "Internet"
 msgstr "Интернэт"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Терминал-Програм"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -435,9 +395,8 @@ msgstr "Хэл"
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Rogue-тоглоом"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -463,17 +422,14 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Мультимедиа"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Мультимедиа цэс"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Мультимедиа цэс"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Мультимедиа цэс"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -514,16 +470,14 @@ msgstr "Бусад"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Програмчилал"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Терминал-Програм"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -555,9 +509,8 @@ msgstr "Тохируулгууд"
 msgid "Presentation software"
 msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Баримтжуулалт"
+msgstr ""
 
 msgid "Printing"
 msgstr "Хэвлэх"
@@ -565,13 +518,11 @@ msgstr "Хэвлэх"
 msgid "Profiling tools"
 msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "Файлуудыг зохицуулах"
+msgstr ""
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Эрхэмлэсэн х.программууд"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -579,25 +530,20 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "График"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "График програмууд"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Зайн Дэсктоп"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Дууны хянагч"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "Роботууд"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -620,9 +566,8 @@ msgstr "_Дэлгэц гамнагчүүд"
 msgid "Security"
 msgstr "Баталгаа"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Баталгаа"
+msgstr ""
 
 msgid "Sequencers"
 msgstr ""
@@ -630,9 +575,8 @@ msgstr ""
 msgid "Settings"
 msgstr "Тохируулга"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Боловсрол"
+msgstr ""
 
 msgid "Simulation Games"
 msgstr ""
@@ -655,16 +599,14 @@ msgstr "Чимээ"
 msgid "Sports"
 msgstr "Спорт"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Хөлөгт тоглоом"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
 
-#, fuzzy
 msgid "Strategy"
-msgstr "Тактик & стратеги"
+msgstr ""
 
 msgid "Strategy Games"
 msgstr ""
@@ -684,17 +626,14 @@ msgstr ""
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "График програмууд"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Х.программууд"
+msgstr ""
 
-#, fuzzy
 msgid "Teaching Tools"
-msgstr "Цэс идэвхижүүлэгч хэрэгсэл"
+msgstr ""
 
 msgid "Telephony"
 msgstr ""
@@ -708,20 +647,17 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Терминал-Програм"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Aterm-Терминал"
+msgstr ""
 
 msgid "Text tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "Text tools"
-msgstr "Текст боловсруулагч"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
@@ -729,9 +665,8 @@ msgstr ""
 msgid "Tools"
 msgstr ""
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Программ хангамж хөгжүүлэгч хэрэгслүүд"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -739,13 +674,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Та өөрийн стандарт х.программыг сонгоно уу"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Та өөрийн стандарт х.программыг сонгоно уу"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -777,17 +710,14 @@ msgstr ""
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Бичгийн машины зааварлагч"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "График"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "График програмууд"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -795,36 +725,29 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Тохируулгууд"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Аудио-изведувач"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Дуу Бичигч"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Зураг харагч"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Вэб-Хөтөч"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Вэб-Хөтөч"
+msgstr ""
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Хөгжүүлэл"
+msgstr ""
 
 msgid "Web Publishing"
 msgstr ""
@@ -837,6 +760,37 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

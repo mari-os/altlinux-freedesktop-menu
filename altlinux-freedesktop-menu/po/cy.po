@@ -19,44 +19,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n == 2) ? 1 : 0;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Graffigau"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Rhaglenni graffeg"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Graffigau"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Rhaglenni graffeg"
+msgstr ""
 
-#, fuzzy
 msgid "A clock application/applet"
-msgstr "Rhaglen KDE"
+msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Gemau a difyrrwch"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Hygyrchedd"
 
-#, fuzzy
 msgid "Action"
-msgstr "Addysg"
+msgstr ""
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Gêm pos-antur "
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
 msgstr "Gweinyddiaeth"
@@ -64,21 +55,17 @@ msgstr "Gweinyddiaeth"
 msgid "Adventure"
 msgstr "Antur"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Gêm debyg i tetris"
+msgstr ""
 
-#, fuzzy
 msgid "Amateur Radio"
-msgstr "QtRadio"
+msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Rhaglenni"
+msgstr ""
 
-#, fuzzy
 msgid "Application to manage your finance"
-msgstr "Offeryn graffigol i reoli eich Sgrinedau"
+msgstr ""
 
 msgid "Applications"
 msgstr "Rhaglenni"
@@ -95,58 +82,47 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arcêd"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Gêm arcêd fideo"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Offeryn Archifo "
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Deallusrwydd Artiffisial"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Deallusrwydd Artiffisial"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Astroleg"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astroleg"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Golygydd tag sain"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Chwaraewr Sain"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Recordydd sain"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Wrth gefn"
+msgstr ""
 
 msgid "Biology"
 msgstr "Bioleg"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "KBlogger"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Gemau Bwrdd"
@@ -154,23 +130,20 @@ msgstr "Gemau Bwrdd"
 msgid "Boards"
 msgstr "Byrddau"
 
-#, fuzzy
 msgid "Building"
-msgstr "ding"
+msgstr ""
 
 msgid "Calculator"
 msgstr "Cyfrifiannell"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Cyfrifiannell"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Calendr"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Blwch Offer Java"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Gemau Cardiau"
@@ -178,27 +151,23 @@ msgstr "Gemau Cardiau"
 msgid "Cards"
 msgstr "Cardiau"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "Sgwrsio IRC"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Cemeg"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Cemeg"
+msgstr ""
 
 msgid "Clock"
 msgstr "Cloc"
 
-#, fuzzy
 msgid "Communications"
-msgstr "Cyfathrebu gyda'ch ffrindiau"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -206,25 +175,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Gwyddor Gyfrifiadurol"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Gwyddor Gyfrifiadurol"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Gwyddor Gyfrifiadurol"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Gwyddor Gyfrifiadurol"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Offeryn Ffurfweddu Compiz"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Boa Constructor"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -232,9 +193,8 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Delweddu Data"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Delweddu Data"
+msgstr ""
 
 msgid "Databases"
 msgstr "Cronfeydd Data"
@@ -248,27 +208,23 @@ msgstr "Bwrdd Gwaith"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Teclynnau'r Bwrdd Gwaith"
+msgstr ""
 
 msgid "Development"
 msgstr "Datblygu"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Amgylcheddau Datblygu"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Rhaglen graffiau 3D"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Geiriadur"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Geiriadur"
@@ -294,24 +250,20 @@ msgstr "Addysg"
 msgid "Electricity"
 msgstr "Trydan"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Trydan"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Trydan"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Rhaglenni graffeg"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -325,39 +277,32 @@ msgstr ""
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Gêm Blociau sy'n Cwympo"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Gêm Blociau sy'n Cwympo"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Rheolwr Ffeiliau"
+msgstr ""
 
 msgid "File Systems"
 msgstr "System Ffeil"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Rheolwr Ffeiliau"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "System Ffeil"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Offer testun"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Gwyddorau"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -365,13 +310,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Dylunydd Qt"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Rhaglen amlinelli uwch"
+msgstr ""
 
 msgid "Games"
 msgstr "Gemau"
@@ -385,21 +328,17 @@ msgstr "Gemau ar gyfer Plant"
 msgid "Geography"
 msgstr "Daearyddiaeth"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Bioleg"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Geowyddorau"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Geowyddorau"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Geowyddorau"
@@ -407,9 +346,8 @@ msgstr "Geowyddorau"
 msgid "Graphics"
 msgstr "Graffigau"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Caledwedd"
@@ -417,38 +355,32 @@ msgstr "Caledwedd"
 msgid "History"
 msgstr "Hanes"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Dibynnydd IRC"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Prosesu Delweddau"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Prosesu Delweddau"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Negesydd Chwim"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Rhaglen Negesydd Chwim Cyffredinol"
+msgstr ""
 
 msgid "Internet"
 msgstr "Rhyngrwyd"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Rhagor o Raglenni"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -471,51 +403,41 @@ msgstr "Gemau Rhesymeg"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Mathemateg"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "DJ Software"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Gosodiadau Monitor"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Amlgyfrwng"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Dewislen amlgyfrwng"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Chwaraewr Aml-gyfrwng"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Recordydd Amldrac"
+msgstr ""
 
-#, fuzzy
 msgid "Music"
-msgstr "lnkmusic"
+msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
 msgid "Network"
 msgstr "Rhwydwaith"
@@ -523,9 +445,8 @@ msgstr "Rhwydwaith"
 msgid "Network-related settings"
 msgstr "Gosodiadau rhwydwaith gysylltiedig"
 
-#, fuzzy
 msgid "News"
-msgstr "E-bost/Newyddion"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -533,9 +454,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Dadansoddi Rhifol"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Dadansoddi Rhifol"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -552,16 +472,14 @@ msgstr "Eraill"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Rhaglen paentio"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Rhaglen amlinelli uwch"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pecynnu"
@@ -569,9 +487,8 @@ msgstr "Pecynnu"
 msgid "Parallel Computing"
 msgstr "Cyfrifiadura Paralel"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Cyfrifiadura Paralel"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -579,41 +496,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Personol"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Daearyddiaeth"
+msgstr ""
 
 msgid "Physics"
 msgstr "Ffiseg"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Dewisiadau"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Cyflwyniad"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Cyflwyniad"
+msgstr ""
 
 msgid "Printing"
 msgstr "Argraffu"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Offeryn Archifo "
+msgstr ""
 
 msgid "Project Management"
 msgstr "Rheoli Projectau"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Rhaglen Rheoli Argraffydd"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -621,39 +532,32 @@ msgstr ""
 msgid "ROX"
 msgstr "ROX"
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Graffigau"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Rhaglenni graffeg"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Mynediad pell graffigol"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Rhyngwyneb Rheoli Fersiwn"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Roboteg"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Meddalwedd Morffio"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
 
-#, fuzzy
 msgid "Role playing games"
-msgstr "Gêm ralïo"
+msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "XSane - Sganio"
+msgstr ""
 
 msgid "Science"
 msgstr "Gwyddorau"
@@ -664,39 +568,32 @@ msgstr "Arbedwyr Sgrin"
 msgid "Security"
 msgstr "Diogelwch"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Diogelwch"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Dilyniannydd MIDI"
+msgstr ""
 
 msgid "Settings"
 msgstr "Gosodiadau"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Efelychu Dinas"
+msgstr ""
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Gêm Efelychu Dinas"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Darllenydd Diweddaru Meddalwedd"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Rheolwr Cyfrwng Meddalwedd"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "Ffynonellau Meddalwedd"
+msgstr ""
 
 msgid "Sound"
 msgstr "Sain"
@@ -704,20 +601,17 @@ msgstr "Sain"
 msgid "Sports"
 msgstr "Chwaraeon"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Gemau Bwrdd"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Taenlen"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Strategaeth"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strategaeth"
+msgstr ""
 
 msgid "System"
 msgstr "System"
@@ -728,31 +622,26 @@ msgstr "Offer System"
 msgid "System settings"
 msgstr "Gosodiadau'r system"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
+msgstr ""
 
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Rhaglen llosgi CD a DVD"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Rhaglenni"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Offer Dysgu "
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Alephone"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Offer testun"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -760,17 +649,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Rhaglenni Terfynnell"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terfynell"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Offer testun"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Offer testun"
@@ -781,9 +667,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Offer"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Offer ar gyfer datblygu meddalwedd"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -791,13 +676,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Dewiswch eich rhaglenni rhagosodedig"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Dadfygio Rhaglenni"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -805,9 +688,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Ffurfweddu argraffydd"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -824,25 +706,20 @@ msgstr "Tegannau"
 msgid "Translation"
 msgstr "Cyfieithiad"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Cyfieithiad"
+msgstr ""
 
-#, fuzzy
 msgid "Tuners"
-msgstr "aTunes"
+msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Athro Teipio Cyffwdd"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Offeryn Llunio Graffigau Fectorau"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Rhaglenni graffeg"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -850,33 +727,26 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Dewisiadau"
+msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "Golygydd Fideo"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Chwaraewr Fideo"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Recordydd Fideo Digidol"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Porwr Gwe"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Porwr Gwe"
+msgstr ""
 
 msgid "Web Development"
 msgstr "Datblygu'r We"
@@ -884,16 +754,91 @@ msgstr "Datblygu'r We"
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Prosesu Geiriau"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Rhaglenni e-bost"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

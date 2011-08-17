@@ -4,7 +4,7 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.42
+Version: 0.43
 Release: alt1
 #Release: alt0.M60P.1
 
@@ -182,6 +182,44 @@ intltoolize
 %configure 
 %make_build
 
+%check
+cat > ignore.list <<EOF
+altlinux-audiovideo-audiovideoediting.directory
+altlinux-audiovideo-midi.directory
+altlinux-audiovideo-player.directory
+altlinux-audiovideo-recorder.directory
+altlinux-audiovideo-tuner.directory
+altlinux-audiovideo-tv.directory
+altlinux-education-construction.directory
+altlinux-education-medicalsoftware.directory
+altlinux-enlightenment.directory
+altlinux-game-roleplaying.directory
+altlinux-graphics-rastergraphics.directory
+altlinux-java.directory
+altlinux-lxde.directory
+altlinux-network-instantmessaging.directory
+altlinux-network-p2p.directory
+altlinux-network-telephony.directory
+altlinux-network-videoconference.directory
+altlinux-office-flowchart.directory
+altlinux-science-medicalsoftware.directory
+altlinux-settings-java.directory
+altlinux-settings-lxde.directory
+altlinux-settings-xfce.directory
+altlinux-xfce.directory
+EOF
+
+ok=1
+for i in desktop-directories/*.directory; do
+    j=`basename $i`
+    if ! grep $j ignore.list >/dev/null && ! grep 'Name\[ru\]=' $i >/dev/null; then
+        echo "$j is not translated - please, update po files"
+	ok=0
+    fi
+done
+rm ignore.list
+[ $ok -gt 0 ] || exit 1
+
 %install
 %makeinstall_std
 #find_lang %name
@@ -269,6 +307,12 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Wed Aug 17 2011 Igor Vlasenko <viy@altlinux.ru> 0.43-alt1
+- added translation check
+
+* Mon Jul 04 2011 Igor Vlasenko <viy@altlinux.ru> 0.42-alt0.M60P.1
+- backport
+
 * Mon Jul 04 2011 Igor Vlasenko <viy@altlinux.ru> 0.42-alt1
 - simplified Settings > KDE (#25875)
 

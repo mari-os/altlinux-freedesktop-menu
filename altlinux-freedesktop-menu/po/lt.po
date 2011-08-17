@@ -1,80 +1,66 @@
-#
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/lt.php3
-#
-# Collection of titles/sections of Linux-Mandrake menu's.
-# It's generated from the /usr/lib/menu/* files.
-# Copyright (C) 2000 MandrakeSoft
-# Mykolas Norvaišas <myka@centras.lt>, 1999-2001
-# Kęstutis Kružikas <DrKestas@takas.lt>, 2000
-# Gediminas Paulauskas <menesis@delfi.lt>, 2000,2002
+# translation of menu-sections to Lithuanian
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
+# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
+"Project-Id-Version: menu-sections_lt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2002-02-17 16:59+0200\n"
-"Last-Translator: Mykolas Norvaišas <myka@centras.lt>\n"
+"PO-Revision-Date: 2008-05-04 21:43+0300\n"
+"Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Grafinės programos"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Grafinės programos"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Žaidimai ir pramogos"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Prieinamumas"
+msgstr "Pritaikymas neįgaliesiems"
 
-#, fuzzy
 msgid "Action"
-msgstr "Mokslas"
+msgstr "Veiksmo"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Taktinis žaidimas"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
 msgstr "Administravimas"
 
 msgid "Adventure"
-msgstr "Nuotykiai"
+msgstr "Nuotykiniai"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Nuotykiai"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Mėgėjiškas radijas"
+
 msgid "Application to burn a disc"
-msgstr "Programos"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -94,17 +80,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arkada"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Arcade video žaidimas"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Archyvavimo priemonė"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -115,36 +98,29 @@ msgstr ""
 msgid "Astronomy"
 msgstr "Astronomija"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astronomija"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Garso žymų redaktorius"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Muzikos grotuvas"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Garso įrašymas"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Dubliavimas"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biologija"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Biologija"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Blogilo"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Stalo žaidimai"
@@ -158,13 +134,11 @@ msgstr ""
 msgid "Calculator"
 msgstr "Skaičiuotuvas"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Skaičiuotuvas"
+msgstr ""
 
-#, fuzzy
 msgid "Calendar"
-msgstr "Maišiklis"
+msgstr ""
 
 msgid "Camera tools, etc."
 msgstr ""
@@ -175,28 +149,23 @@ msgstr "Kortų žaidimai"
 msgid "Cards"
 msgstr "Kortos"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "IRC pokalbiai"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Chemija"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Chemija"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "KBlocks"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Programos"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -204,25 +173,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Informatika"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Informatika"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Informatika"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Informatika"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Konfigūracijos redaktorius"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Tinklo konstravimo žaidimas"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -236,9 +197,8 @@ msgstr ""
 msgid "Databases"
 msgstr "Duombazės"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Daugiau programų"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Darbastalis"
@@ -246,27 +206,23 @@ msgstr "Darbastalis"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Darbastalio valdikliai"
+msgstr ""
 
 msgid "Development"
 msgstr "Programavimas"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Programavimo aplinkos"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Piešimo programa"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Žodynas"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Žodynas"
@@ -280,25 +236,23 @@ msgstr "Dokumentacija"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Astronomija"
+msgstr ""
 
 msgid "Editors"
 msgstr "Redaktoriai"
 
 msgid "Education"
-msgstr "Mokslas"
+msgstr "Mokymas"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "Elektronika"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -306,9 +260,8 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Grafinės programos"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -317,45 +270,37 @@ msgid "Emulators"
 msgstr "Emuliatoriai"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Techninis konstravimas"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Priderinkite krentančius blokus vieną prie kito"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Priderinkite krentančius blokus vieną prie kito"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Bylų Tvarkyklė"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Sistema"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Bylų Tvarkyklė"
+msgstr "Failų perdavimas"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Sistemos įrankiai"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Teksto įrankiai"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Mokslai"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -363,13 +308,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Sąsajos redaktorius"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Grafinės programos"
+msgstr ""
 
 msgid "Games"
 msgstr "Žaidimai"
@@ -380,24 +323,20 @@ msgstr "Žaidimai ir pramogos"
 msgid "Games for Kids"
 msgstr "Žaidimai vaikams"
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biologija"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Gamtos mokslai"
+msgstr "Geografija"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Gamtos mokslai"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Gamtos mokslai"
@@ -409,21 +348,19 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "Geležis"
+msgstr "Aparatinė įranga"
 
 msgid "History"
 msgstr "Žurnalas"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC klientas"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -431,20 +368,17 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Bendravimas žinutėmis"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Bendravimas žinutėmis"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internetas"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Daugiau programų"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -482,24 +416,20 @@ msgstr ""
 msgid "Mixers"
 msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Vaizduokliai"
+msgstr "Stebėjimas"
 
 msgid "Multimedia"
 msgstr "Multimedija"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Multimedijos meniu"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Multimedijos grotuvas"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Multimedijos grotuvas"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -529,7 +459,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "Biuro programos"
+msgstr "Raštinės"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -540,16 +470,14 @@ msgstr "Kita"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Piešimo programa"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Terminalinės programos"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Paketai"
@@ -566,41 +494,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Asmeniniai"
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fizika"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Fizika"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Parinktys"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Pristatymai"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Pristatymai"
+msgstr ""
 
 msgid "Printing"
 msgstr "Spausdinimas"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Archyvavimo priemonė"
+msgstr ""
 
 msgid "Project Management"
-msgstr "Projektų valdymas"
+msgstr "Projektų tvarkymas"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Projektų valdymas"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -608,25 +530,20 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Grafinės programos"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Nutolęs darbastalis"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Garso valdymas"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "Robotai"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -641,7 +558,7 @@ msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr "Mokslas"
+msgstr "Mokslinės"
 
 msgid "Screensavers"
 msgstr "Ekrano užsklandos"
@@ -649,31 +566,26 @@ msgstr "Ekrano užsklandos"
 msgid "Security"
 msgstr "Saugumas"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Saugumas"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Mokslai"
+msgstr ""
 
 msgid "Settings"
 msgstr "Parinktys"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Mokslas"
+msgstr "Simuliavimas"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Platformos žaidimas"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Programinės įrangos atnaujinimo rodytuvas"
+msgstr ""
 
 msgid "Software to teach arts"
 msgstr ""
@@ -687,23 +599,20 @@ msgstr "Garsas"
 msgid "Sports"
 msgstr "Sportas"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Stalo žaidimai"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Skaičialentė"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Strategija"
+msgstr "Strateginiai"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strategija"
+msgstr ""
 
 msgid "System"
-msgstr "Sistema"
+msgstr "Sisteminės"
 
 msgid "System Tools"
 msgstr "Sistemos įrankiai"
@@ -715,15 +624,13 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "Radijas ir televizija"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Grafinės programos"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "Programos"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Mokymo įrankiai"
@@ -731,9 +638,8 @@ msgstr "Mokymo įrankiai"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Teksto įrankiai"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -741,17 +647,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Terminalinės programos"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminalas"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Teksto įrankiai"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Teksto įrankiai"
@@ -762,9 +665,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Įrankiai"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Įrankiai programinės įrangos kūrimui"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -772,13 +674,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Nustatyti sau įprastas programas"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Nustatyti sau įprastas programas"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -799,855 +699,64 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Žaislai"
+msgstr "Niekučiai"
 
 msgid "Translation"
 msgstr "Vertimas"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Vertimas"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Aklo spausdinimo mokytojas"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Vektorinės grafikos piešimo įrankis"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Grafinės programos"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Parinktys"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Vaizdo Grotuvas"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Garso įrašymas"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Žiūryklės"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Žiniatinklio naršyklė"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Žiniatinklio naršyklė"
+msgstr "Naršymas tinkle"
 
 msgid "Web Development"
-msgstr "Žiniatinklio programavimas"
+msgstr "Tinklalapių kūrimas"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Teksto doroklė"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "SVN klientas"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

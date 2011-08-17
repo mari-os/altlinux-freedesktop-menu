@@ -19,44 +19,35 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Myndvinnsla"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Myndvinnsla"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
-#, fuzzy
 msgid "A clock application/applet"
-msgstr "KDE forrit"
+msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Leikir og skemtun"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Aðgengi"
 
-#, fuzzy
 msgid "Action"
-msgstr "Kennsla"
+msgstr ""
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Hraður þrautaleikur"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
 msgstr "Stjórnun"
@@ -64,16 +55,14 @@ msgstr "Stjórnun"
 msgid "Adventure"
 msgstr "Ævintýri"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Tetris leikur"
+msgstr ""
 
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Forrit"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -93,53 +82,44 @@ msgstr ""
 msgid "Arcade"
 msgstr "Spilasalur"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Spilakassaleikur"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Vinna með safnskrár"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Gerfigreind"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Gerfigreind"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Stjörnufræði"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Stjörnufræði"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Tónlistarspilari"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Hljóðupptaka"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Afrit"
+msgstr ""
 
 msgid "Biology"
 msgstr "Líffræði"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -150,16 +130,14 @@ msgstr "Borðleikir"
 msgid "Boards"
 msgstr "Borð"
 
-#, fuzzy
 msgid "Building"
-msgstr "Kubbabygging"
+msgstr ""
 
 msgid "Calculator"
 msgstr "Reiknivél"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Reiknivél"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Dagatal"
@@ -173,27 +151,23 @@ msgstr "Spilaleikir"
 msgid "Cards"
 msgstr "Spil"
 
-#, fuzzy
 msgid "Chart"
-msgstr "K-Stafaval"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "IRC spjall"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Efnafræði"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Efnafræði"
+msgstr ""
 
 msgid "Clock"
 msgstr "Klukka"
 
-#, fuzzy
 msgid "Communications"
-msgstr "Hafa samskipti við félagana"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -201,25 +175,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Tölvufræði"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Tölvufræði"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Tölvufræði"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Tölvufræði"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Stillingartól fyrir Compiz"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Boa Constructor"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -227,9 +193,8 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Myndræn framsetning gagna"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Myndræn framsetning gagna"
+msgstr ""
 
 msgid "Databases"
 msgstr "Gagnagrunnar"
@@ -243,27 +208,23 @@ msgstr "Skjáborð"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Skjáborðshlutir"
+msgstr ""
 
 msgid "Development"
 msgstr "Þróun"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Þróunarumhverfi"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Þrívítt graf-forrit"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Orðabók"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Orðabók"
@@ -289,24 +250,20 @@ msgstr "Kennsla"
 msgid "Electricity"
 msgstr "Rafmagn"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Rafmagn"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Rafmagn"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -320,39 +277,32 @@ msgstr ""
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Fella fallandi steina saman"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Fella fallandi steina saman"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Skráastjóri"
+msgstr ""
 
 msgid "File Systems"
 msgstr "Skráakerfi"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Skráastjóri"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Skráakerfi"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Textatól"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Vísindi"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -360,13 +310,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt hönnuðurinn"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
 msgid "Games"
 msgstr "Leikir"
@@ -380,21 +328,17 @@ msgstr "Leikir fyrir krakka"
 msgid "Geography"
 msgstr "Landafræði"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Líffræði"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Jarðfræði"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Jarðfræði"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Jarðfræði"
@@ -402,9 +346,8 @@ msgstr "Jarðfræði"
 msgid "Graphics"
 msgstr "Myndvinnsla"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Vélbúnaður"
@@ -412,38 +355,32 @@ msgstr "Vélbúnaður"
 msgid "History"
 msgstr "Saga"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC forrit"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Myndvinnsla"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Myndvinnsla"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Net-Spjallforrit"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Almennur samtalsbiðill (Instant Messenger)"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internetið"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Fleiri Forrit"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -466,24 +403,20 @@ msgstr "Kænskuleikir"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Stærðfræði"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "DJ hugbúnaður"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
 msgstr ""
@@ -491,24 +424,20 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Margmiðlun"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Margmiðlunarvalmynd"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Margmiðlunarspilari"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Margmiðlunarspilari"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
 msgid "Network"
 msgstr "Net"
@@ -516,9 +445,8 @@ msgstr "Net"
 msgid "Network-related settings"
 msgstr "Netkerfistengdar stillingar"
 
-#, fuzzy
 msgid "News"
-msgstr "Póstur/Fréttir"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -526,9 +454,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Tölfræðigreining"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Tölfræðigreining"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -545,16 +472,14 @@ msgstr "Annað"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Teikniforrit"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Myndskönnunarforrit"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pakkastjórn"
@@ -562,9 +487,8 @@ msgstr "Pakkastjórn"
 msgid "Parallel Computing"
 msgstr "Samhliða vinnsla"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Samhliða vinnsla"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -572,41 +496,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Persónulegt"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Landafræði"
+msgstr ""
 
 msgid "Physics"
 msgstr "Eðlisfræði"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Valkostir"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Impress framsetning"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Impress framsetning"
+msgstr ""
 
 msgid "Printing"
 msgstr "Prentun"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Vinna með safnskrár"
+msgstr ""
 
 msgid "Project Management"
 msgstr "Verkstjórnun"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Prentaraumsýslu-forrit"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -614,39 +532,32 @@ msgstr ""
 msgid "ROX"
 msgstr "ROX"
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Myndvinnsla"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Skjá-Fjarvinnsla"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Styrkstilling"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Vélmenni"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Morphing hugbúnaður"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
 
-#, fuzzy
 msgid "Role playing games"
-msgstr "Rallí kappakstur"
+msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "XSane - Skönnun"
+msgstr ""
 
 msgid "Science"
 msgstr "Vísindi"
@@ -657,35 +568,29 @@ msgstr "Skjáhvílur"
 msgid "Security"
 msgstr "Öryggi"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Öryggi"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI hljóðraðari"
+msgstr ""
 
 msgid "Settings"
 msgstr "Stillingar"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Minitel skjáhermir"
+msgstr ""
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Geimrannsóknarleikur"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Hugbúnaðar-uppsetning"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Hugbúnaðar-miðla-tól"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -696,20 +601,17 @@ msgstr "Hljóð"
 msgid "Sports"
 msgstr "Íþróttir"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Borðleikir"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Töflureiknir"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Herkænska"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Herkænskuleikur"
+msgstr ""
 
 msgid "System"
 msgstr "Kerfi"
@@ -720,31 +622,26 @@ msgstr "Kerfistól"
 msgid "System settings"
 msgstr "Kerfisstillingar"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
+msgstr ""
 
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Forrit"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Kennsluáhöld"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "ISDN-sími"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Textatól"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -752,17 +649,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Skjáhermiforrit"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Skjáhermir"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Textatól"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Textatól"
@@ -773,9 +667,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Tól"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Tól til hugbúnaðarþróunar"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -783,13 +676,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Veldu sjálfgefin forrit"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Aflúsa forrit"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -797,9 +688,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Stilla prentara"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -816,24 +706,20 @@ msgstr "Leikföng"
 msgid "Translation"
 msgstr "Þýðing"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Þýðingaforrit"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Vélritunarkennsla"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Vigurbyggt teikniforrit"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Myndefnisforrit"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -841,33 +727,26 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Valkostir"
+msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "Video ritill"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Myndskeiðaspilari"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Stafræn myndvinnsla"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Vafri"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Vafri"
+msgstr ""
 
 msgid "Web Development"
 msgstr "Vefhönnun"
@@ -875,16 +754,83 @@ msgstr "Vefhönnun"
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Ritvinnsla"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Póstforrit"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

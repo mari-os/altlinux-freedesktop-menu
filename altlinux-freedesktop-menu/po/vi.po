@@ -1,76 +1,66 @@
-# Vietnamese Translation for Menu-messages-main Module.
-# Copyright (C) 2003 MandrakeSoft
-# NGUYEN-DAI Quy <NDQ@iris.ltas.ulg.ac.be>, 2000
-# Trinh Minh Thanh <tmthanh@yahoo.com>, 2001-2005
-# Larry Nguyen <larry@vnlinux.org>, 2004
+# Vietnamese Translation for menu-section.
+# Copyright © 2007 Free Software Foundation, Inc.
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2007.
+#
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages-vi\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2005-02-13 00:37+0700\n"
-"Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
+"PO-Revision-Date: 2007-07-09 15:23+0930\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocFactoryEditor 1.6.4a6\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Đồ họa"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Ứng dụng đồ họa"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Đồ họa"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Ứng dụng đồ họa"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Trò chơi và giải trí"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Hỗ trợ"
+msgstr "Truy cập"
 
-#, fuzzy
 msgid "Action"
-msgstr "Giáo dục"
+msgstr "Hành động"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Trò chơi đoán ô chữ hành động"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "Sổ địa chỉ"
+msgstr ""
 
 msgid "Administration"
-msgstr "Quản lý"
+msgstr "Quản trị"
 
 msgid "Adventure"
 msgstr "Phiêu lưu"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Trò chơi giống Tetris "
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Rađiô nghiệp dư"
+
 msgid "Application to burn a disc"
-msgstr "Ứng dụng"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -88,55 +78,46 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Mái vòm"
+msgstr "Nhà điện tử"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Trò chơi Video Arcade"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Công cụ nén"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Artificial Intelligence"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Artificial Intelligence"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Thiên văn học"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Thiên văn học"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Trình chơi Video "
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Bộ thu âm"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Sao lưu"
+msgstr ""
 
 msgid "Biology"
-msgstr "Sinh vật học"
+msgstr "Sinh học"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -153,9 +134,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Máy tính"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Máy tính"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Lịch"
@@ -169,28 +149,23 @@ msgstr "Trò chơi thẻ"
 msgid "Cards"
 msgstr "Bài lá"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "Trò chuyện"
+msgstr ""
 
 msgid "Chemistry"
-msgstr "Hóa học"
+msgstr "Hoá học"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Hóa học"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "Sunclock"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Liên lạc với bạn bè"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -198,25 +173,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Khoa học Máy tính"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Khoa học Máy tính"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Khoa học Máy tính"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Khoa học Máy tính"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Bộ sửa đổi cấu hình"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Quản lý"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -224,16 +191,14 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Hiển thị dữ liệu"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Hiển thị dữ liệu"
+msgstr ""
 
 msgid "Databases"
 msgstr "Cơ sở dữ liệu"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Ứng dụng khác"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Màn hình nền"
@@ -241,27 +206,23 @@ msgstr "Màn hình nền"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Tiện ích đĩa"
+msgstr ""
 
 msgid "Development"
 msgstr "Phát triển"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Các môi trường phát triển"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Chương trình đồ họa 3D"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Từ điển"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Từ điển"
@@ -279,7 +240,7 @@ msgid "Economy"
 msgstr "Kinh tế học"
 
 msgid "Editors"
-msgstr "Trình biên tập"
+msgstr "Biên soạn"
 
 msgid "Education"
 msgstr "Giáo dục"
@@ -287,71 +248,59 @@ msgstr "Giáo dục"
 msgid "Electricity"
 msgstr "Electricity"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Electricity"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Electricity"
+msgstr "Điện tử học"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Ứng dụng đồ họa"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Trình mô phỏng"
+msgstr "Mô phỏng"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Kỹ thuật kỹ sư"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Khớp khối đang rơi xuống"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Khớp khối đang rơi xuống"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Trình quản lí file"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Hệ Thống"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Trình quản lí file"
+msgstr "Truyền tập tin"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Công cụ hệ thống"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Công cụ văn bản"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Khoa học"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -362,9 +311,8 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Ứng dụng đồ họa"
+msgstr ""
 
 msgid "Games"
 msgstr "Trò chơi"
@@ -378,70 +326,59 @@ msgstr "Trò chơi cho Trẻ"
 msgid "Geography"
 msgstr "Địa lý"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Sinh vật học"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Khoa học địa chất"
+msgstr "Khoa địa học"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Khoa học địa chất"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Khoa học địa chất"
 
 msgid "Graphics"
-msgstr "Đồ họa"
+msgstr "Đồ hoạ"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
 msgid "Hardware"
-msgstr "Phần Cứng"
+msgstr "Phần cứng"
 
 msgid "History"
 msgstr "Lịch sử"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Trình trò chuyện"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Xử lý ảnh"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Xử lý ảnh"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Thông điệp tức thời (IM)"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Máy khách thông điệp tức thời rộng rãi"
+msgstr ""
 
 msgid "Internet"
 msgstr "Mạng"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Ứng dụng khác"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -458,56 +395,47 @@ msgstr "Ngôn ngữ"
 msgid "Literature"
 msgstr "Văn học"
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Trò trơi suy đoán"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Toán học"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Phần mềm DJ"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Theo dõi"
 
 msgid "Multimedia"
 msgstr "Đa phương tiện "
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Trình đơn Đa phương tiện"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Trình chơi nhạc đa phương tiện"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Trình chơi nhạc đa phương tiện"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
 msgid "Network"
 msgstr "Mạng"
@@ -524,9 +452,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Phân tích số"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Phân tích số"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -543,16 +470,14 @@ msgstr "Trình khác"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Chương trình vẽ"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Trình đầu cuối"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Đóng gói"
@@ -560,9 +485,8 @@ msgstr "Đóng gói"
 msgid "Parallel Computing"
 msgstr "Điện toán song song"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Điện toán song song"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -570,41 +494,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Cá nhân"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Địa lý"
+msgstr ""
 
 msgid "Physics"
 msgstr "Vật lý"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Tùy thích"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Trình diễn"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Trình diễn"
+msgstr ""
 
 msgid "Printing"
 msgstr "In ấn"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Công cụ nén"
+msgstr ""
 
 msgid "Project Management"
 msgstr "Quản lý dự án"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Quản lý dự án"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -612,28 +530,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Đồ họa"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Ứng dụng đồ họa"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Màn hình làm việc từ xa"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Điều khiển âm lượng"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Robotics"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Phần mềm Morphing"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -653,35 +566,29 @@ msgstr "Ảnh bảo vệ màn hình"
 msgid "Security"
 msgstr "Bảo mật"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Bảo mật"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI sequencer"
+msgstr ""
 
 msgid "Settings"
 msgstr "Thiết lập"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Mô phỏng Minitel"
+msgstr "Mô phỏng"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Trò chơi thám hiểm không gian"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Trình cài đặt phần mềm"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Trình Quản Lý Nguồn Phần Mềm"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -692,23 +599,20 @@ msgstr "Âm thanh"
 msgid "Sports"
 msgstr "Thể thao"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Trò chơi bảng"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Bảng tính"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Chiến lược"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Chiến lược"
+msgstr ""
 
 msgid "System"
-msgstr "Hệ Thống"
+msgstr "Hệ thống"
 
 msgid "System Tools"
 msgstr "Công cụ hệ thống"
@@ -716,31 +620,26 @@ msgstr "Công cụ hệ thống"
 msgid "System settings"
 msgstr "Thiết lập hệ thống"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Ứng dụng đồ họa"
+msgid "TV and Radio"
+msgstr "TV và Rađiô"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "Ứng dụng"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Công cụ Dạy"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "ISDN Telephone"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Công cụ văn bản"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -748,17 +647,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Trình đầu cuối"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Thiết bị cuối"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Công cụ văn bản"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Công cụ văn bản"
@@ -769,9 +665,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Công cụ"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Công cụ phát triển phần mềm"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -779,13 +674,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Chọn các ứng dụng mặc định của bạn"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Chọn các ứng dụng mặc định của bạn"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -793,9 +686,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Cấu hình máy in"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -812,1414 +704,59 @@ msgstr "Đồ chơi"
 msgid "Translation"
 msgstr "Dịch"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Dịch"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Trình dạy Gõ Bàn phím"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Công cụ vẽ đồ họa vector"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Ứng dụng đồ họa"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Ảnh động"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Tùy thích"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Trình chơi Video "
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Trình ghi Video số"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Bộ xem"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Bộ duyệt Web"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Bộ duyệt Web"
+msgstr "Duyệt Mạng"
 
 msgid "Web Development"
-msgstr "Phát triển Mạng"
+msgstr "Phát triển WWW"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Bộ xử lý từ"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Whois client"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

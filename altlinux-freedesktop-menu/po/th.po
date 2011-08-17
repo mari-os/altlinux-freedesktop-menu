@@ -1,79 +1,64 @@
-# translation of menu-messages-main-th.po to Thai
-#
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/th.php3
-#
-# Strings used in the menus of window mananagers on a Mandrakelinux system.
-# Copyright (C) 2002 Mandrakesoft
-# Wachara Chinsettawong <wachara@yahoo.com>, 2005.
+# Thai translation of Menu sections
+# Copyright (C) 2006-2007 Software in the Public Interest, Inc.
+# This file is distributed under the same license as the menu package.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2006-2007.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages-main-th\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2005-02-11 13:07+0700\n"
-"Last-Translator: Wachara Chinsettawong <wachara@yahoo.com>\n"
-"Language-Team: Thai <en@li.org>\n"
+"PO-Revision-Date: 2007-07-17 17:04+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.2\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "รูปภาพ"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "รูปภาพ"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "เกมและความบันเทิง"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "ความง่ายในการใช้งาน"
+msgstr "สิ่งอำนวยความสะดวก"
 
-#, fuzzy
 msgid "Action"
-msgstr "การเรียนการสอน"
+msgstr "แอ็คชั่น"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "เกมส์"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "สมุดที่อยู่ K"
+msgstr ""
 
 msgid "Administration"
 msgstr "ดูแลระบบ"
 
 msgid "Adventure"
-msgstr "Adventure"
+msgstr "ผจญภัย"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Adventure"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "วิทยุสมัครเล่น"
+
 msgid "Application to burn a disc"
-msgstr "โปรแกรม"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -91,55 +76,46 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "เกมอาเขต"
+msgstr "โต้ตอบ"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "เกมส์อาร์เขด"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "เครื่องมือจัดการแฟ้มบีบอัด"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "อาร์ค"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "สมองกล"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "สมองกล"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "ดาราศาสตร์"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "ดาราศาสตร์"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "โปรแกรมเล่นเสียง"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "ตัวบันทึกเสียง"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "ทำสำเนา"
+msgstr ""
 
 msgid "Biology"
-msgstr "Biology"
+msgstr "ชีววิทยา"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -156,9 +132,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "เครื่องคิดเลข"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "เครื่องคิดเลข"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
@@ -172,27 +147,23 @@ msgstr "เกมไพ่ต่าง ๆ"
 msgid "Cards"
 msgstr "เกมไพ่ต่างๆ"
 
-#, fuzzy
 msgid "Chart"
-msgstr "เลือกอักขระ"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "การสนทนา IRC"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "เคมี"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "เคมี"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "โปรแกรม"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -200,25 +171,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "วิทยาศาสตร์คอมพิวเตออร์"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "วิทยาศาสตร์คอมพิวเตออร์"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "วิทยาศาสตร์คอมพิวเตออร์"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "วิทยาศาสตร์คอมพิวเตออร์"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "เครื่องมือแก้ไขค่าตั้ง"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "ดูแลระบบ"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -226,9 +189,8 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Data Visualization"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Data Visualization"
+msgstr ""
 
 msgid "Databases"
 msgstr "ระบบฐานข้อมูล"
@@ -242,34 +204,29 @@ msgstr "พื้นที่ทำงาน"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "วิดเจ็ตของพื้นที่ทำงาน"
+msgstr ""
 
 msgid "Development"
 msgstr "พัฒนาโปรแกรม"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "รูปแบบการพัฒนาโปรแกรม"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "โปรแกรมวาดรูป"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "พจนานุกรม"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "พจนานุกรม"
 
-#, fuzzy
 msgid "Disc burning"
-msgstr "เขียนแผ่น"
+msgstr ""
 
 msgid "Documentation"
 msgstr "คู่มือ"
@@ -281,79 +238,67 @@ msgid "Economy"
 msgstr "เศรษฐศาสตร์"
 
 msgid "Editors"
-msgstr "แก้ไขข้อความ"
+msgstr "เครื่องมือแก้ไข"
 
 msgid "Education"
-msgstr "การเรียนการสอน"
+msgstr "การศึกษา"
 
 msgid "Electricity"
 msgstr "ไฟฟ้า"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "ไฟฟ้า"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "ไฟฟ้า"
+msgstr "อิเล็กทรอนิกส์"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "อิมูเลเตอร์"
+msgstr "จำลอง"
 
 msgid "Engineering"
-msgstr ""
+msgstr "วิศวกรรม"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "เรียงบล็อกที่หล่นให้ต่อกันสนิท"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "เรียงบล็อกที่หล่นให้ต่อกันสนิท"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "เครื่องมือจัดการแฟ้ม"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "ระบบ"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "เครื่องมือจัดการแฟ้ม"
+msgstr "การถ่ายโอนแฟ้ม"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "เครื่องมือระบบ"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "เครืองมือเขียน"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "วิทยาศาสตร์"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -361,13 +306,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "เครื่องมือออกแบบส่วนติดต่อผู้ใช้"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgstr ""
 
 msgid "Games"
 msgstr "เกม"
@@ -381,21 +324,17 @@ msgstr "เกมส์สำหรับเด็ก"
 msgid "Geography"
 msgstr "ภูมิศาสตร์"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biology"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Geosciences"
+msgstr "ภูมิศาสตร์"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Geosciences"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Geosciences"
@@ -403,9 +342,8 @@ msgstr "Geosciences"
 msgid "Graphics"
 msgstr "รูปภาพ"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
 msgid "Hardware"
 msgstr "ฮาร์ดแวร์"
@@ -413,38 +351,32 @@ msgstr "ฮาร์ดแวร์"
 msgid "History"
 msgstr "ประวัติศาสตร์"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "ไคลเอนต์ IRC"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "การจัดทำรูปภาพ"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "การจัดทำรูปภาพ"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Instant Messenger"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "โปรแกรมไครแอนท์ของโปรแกรมส่งข้อมูลแบบทันที"
+msgstr ""
 
 msgid "Internet"
 msgstr "อินเทอร์เน็ต"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "โปรแกรมอื่นๆ"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -467,52 +399,44 @@ msgstr "เกมตรรกะ"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
 msgid "Mathematics"
-msgstr "เลข"
+msgstr "คณิตศาสตร์"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "เลือกดูโปรแกรมที่มี"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "ติดตามสถานะ"
 
 msgid "Multimedia"
 msgstr "มัลติมีเดีย"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "เมนูระบบสื่อผสม"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "เครื่องเล่นมัลติมีเดีย"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "เครื่องเล่นมัลติมีเดีย"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
 msgid "Network"
-msgstr "ระบบเครือข่าย"
+msgstr "เครือข่าย"
 
 msgid "Network-related settings"
 msgstr "ตั้งค่าเกี่ยวกับเครือข่าย"
@@ -526,9 +450,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "การวิเคราะห์ตัวเลข"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "การวิเคราะห์ตัวเลข"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -545,16 +468,14 @@ msgstr "อื่นๆ"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "โปรแกรมวาดภาพ"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "โปรแกรมเทอร์มินัล"
+msgstr ""
 
 msgid "Packaging"
 msgstr "จัดการแพ็คเกจ"
@@ -562,9 +483,8 @@ msgstr "จัดการแพ็คเกจ"
 msgid "Parallel Computing"
 msgstr "Parallel Computing"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Parallel Computing"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -572,42 +492,35 @@ msgstr ""
 msgid "Personal"
 msgstr "ส่วนบุคคล"
 
-#, fuzzy
 msgid "Photography"
-msgstr "ภูมิศาสตร์"
+msgstr ""
 
 msgid "Physics"
-msgstr "ฟิสิกซ์"
+msgstr "ฟิสิกส์"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
 msgid "Preferences"
 msgstr "ปรับแต่ง"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "งานนำเสนอ"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "งานนำเสนอ"
+msgstr ""
 
 msgid "Printing"
 msgstr "กำลังพิมพ์"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "เครื่องมือจัดการแฟ้มบีบอัด"
+msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "การใช้พลังงาน"
+msgstr "การจัดการโครงการ"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "โปรแกรมที่ชอบ"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -615,28 +528,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "รูปภาพ"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "พื้นโต๊ะระยะไกล"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "ตัวควบคุมระดับเสียง"
+msgstr ""
 
 msgid "Robotics"
 msgstr "หุ่นยน"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "โปรแกรม Morphing"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -654,22 +562,19 @@ msgid "Screensavers"
 msgstr "โปรแกรมรักษาหน้าจอ"
 
 msgid "Security"
-msgstr "ความปลอดภัย"
+msgstr "ระบบรักษาความปลอดภัย"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "ความปลอดภัย"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "วิทยาศาสตร์"
+msgstr ""
 
 msgid "Settings"
 msgstr "ตั้งค่า"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "จำลอง Minitel"
+msgstr "จำลอง"
 
 msgid "Simulation Games"
 msgstr ""
@@ -680,33 +585,29 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Software Media Manager"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "ระบบเสียง"
+msgstr "เสียง"
 
 msgid "Sports"
 msgstr "กีฬา"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "เกมกระดาน"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "ตารางคำนวน"
+msgstr ""
 
 msgid "Strategy"
-msgstr "กลยุทธ์และวางแผน"
+msgstr "วางแผน"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "กลยุทธ์และวางแผน"
+msgstr ""
 
 msgid "System"
 msgstr "ระบบ"
@@ -717,20 +618,17 @@ msgstr "เครื่องมือระบบ"
 msgid "System settings"
 msgstr "ตั้งค่าระบบ"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgid "TV and Radio"
+msgstr "ทีวีและวิทยุ"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "โปรแกรม"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "เครื่องมือช่วยการสอน"
@@ -738,9 +636,8 @@ msgstr "เครื่องมือช่วยการสอน"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "เครืองมือเขียน"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -748,17 +645,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "โปรแกรมเทอร์มินัล"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "เทอร์มินัล"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "เครืองมือเขียน"
+msgstr ""
 
 msgid "Text tools"
 msgstr "เครืองมือเขียน"
@@ -769,9 +663,8 @@ msgstr ""
 msgid "Tools"
 msgstr "เครื่องมือ"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "เครื่องมือพัฒนาซอฟต์แวร์"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -779,13 +672,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "เลือกโปรแกรมที่จะถูกใช้โดยปรกติ"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "ดีบั๊กโปรแกรม"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -793,9 +684,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "ตั้งค่าเครื่องพิมพ์"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -807,14 +697,13 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "ของเล่นสนุกๆ"
+msgstr "ของเล่น"
 
 msgid "Translation"
 msgstr "เครื่องมือแปลภาษา"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "เครื่องมือแปลภาษา"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -822,878 +711,50 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "โปรแกรมวาด Vector Graphics "
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "วีดิทัศน์"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "ปรับแต่ง"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "โปรแกรมเล่นวิดีโอ"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "ตัวบันทึกเสียง"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "โปรแกรมแสดง"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "เว็บเบราว์เซอร์"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
 msgstr "เว็บเบราว์เซอร์"
 
 msgid "Web Development"
-msgstr "พัฒนาเว็บ"
+msgstr "การพัฒนาเว็บ"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "พิมพ์งาน"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "ไคลเอนต์จดหมายอิเล็กทรอนิกส์"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

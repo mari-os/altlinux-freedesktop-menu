@@ -18,35 +18,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafics"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Logicials grafics"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafics"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Logicials grafics"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Jòcs e divertiments"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Accessibilitat"
 
-#, fuzzy
 msgid "Action"
-msgstr "Educacion"
+msgstr ""
 
 msgid "Action Games"
 msgstr ""
@@ -66,9 +60,8 @@ msgstr ""
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Aplicacions"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -91,9 +84,8 @@ msgstr ""
 msgid "Arcade style game"
 msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Gestionari d'archius"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -113,9 +105,8 @@ msgstr ""
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Reproductor de video"
+msgstr ""
 
 msgid "Audio Recorders"
 msgstr ""
@@ -132,9 +123,8 @@ msgstr ""
 msgid "Blogs"
 msgstr ""
 
-#, fuzzy
 msgid "Board Games"
-msgstr "Jòcs de cartas"
+msgstr ""
 
 msgid "Boards"
 msgstr ""
@@ -145,9 +135,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Calculadora"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Calculadora"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
@@ -158,9 +147,8 @@ msgstr ""
 msgid "Card Games"
 msgstr "Jòcs de cartas"
 
-#, fuzzy
 msgid "Cards"
-msgstr "Jòcs de cartas"
+msgstr ""
 
 msgid "Chart"
 msgstr ""
@@ -177,34 +165,26 @@ msgstr ""
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Aplicacions"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
 
-#, fuzzy
 msgid "Computer Science"
-msgstr "Ordenador"
+msgstr ""
 
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
+msgid "Computer science"
 msgstr ""
 
-#, fuzzy
-msgid "Computer science"
-msgstr "Ordenador"
-
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Editor de configuracion"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Administracion"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -215,13 +195,11 @@ msgstr ""
 msgid "Data visualization software"
 msgstr ""
 
-#, fuzzy
 msgid "Databases"
-msgstr "Basa de donadas"
+msgstr ""
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Aplicacions"
+msgstr ""
 
 msgid "Desktop"
 msgstr "BurèU"
@@ -229,27 +207,23 @@ msgstr "BurèU"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Utilitats"
+msgstr ""
 
 msgid "Development"
 msgstr "Desvelopament"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Desvelopament"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Logicial de dessenh"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Diccionari"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Diccionari"
@@ -257,9 +231,8 @@ msgstr "Diccionari"
 msgid "Disc burning"
 msgstr ""
 
-#, fuzzy
 msgid "Documentation"
-msgstr "Navegaire de documentacin"
+msgstr ""
 
 msgid "E17"
 msgstr ""
@@ -273,9 +246,8 @@ msgstr "Editors"
 msgid "Education"
 msgstr "Educacion"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
@@ -289,16 +261,14 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Logicials grafics"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "Calculadora"
+msgstr ""
 
 msgid "Engineering"
 msgstr ""
@@ -312,28 +282,23 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Gestionari de fiquièrs"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Sistemo"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Gestionari de fiquièrs"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Espleches sistèma"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Otilhs de text"
+msgstr ""
 
 msgid "Finances"
 msgstr ""
@@ -341,17 +306,14 @@ msgstr ""
 msgid "Flow Chart"
 msgstr ""
 
-#, fuzzy
 msgid "GNOME"
-msgstr "GNOME-Mud"
+msgstr ""
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Dessinador Qt"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Logicials grafics"
+msgstr ""
 
 msgid "Games"
 msgstr "Jogs"
@@ -362,9 +324,8 @@ msgstr "Jòcs e divertiments"
 msgid "Games for Kids"
 msgstr ""
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Geology"
 msgstr ""
@@ -372,16 +333,14 @@ msgstr ""
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Sciéncia"
+msgstr ""
 
 msgid "Geoscience software"
 msgstr ""
 
-#, fuzzy
 msgid "Geosciences"
-msgstr "Sciéncia"
+msgstr ""
 
 msgid "Graphics"
 msgstr "Grafics"
@@ -395,16 +354,14 @@ msgstr "Material"
 msgid "History"
 msgstr ""
 
-#, fuzzy
 msgid "IDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "IRC"
 msgstr ""
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Client IRC"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -421,9 +378,8 @@ msgstr ""
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Aplicacions preferidas"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -440,9 +396,8 @@ msgstr "Lengas"
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Jogs"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -468,17 +423,14 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Multimedia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Multimèdia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Media Player"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Multimèdia"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -519,16 +471,14 @@ msgstr "Autres"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Desvolopament"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Aplicacions preferidas"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -545,9 +495,8 @@ msgstr ""
 msgid "Personal"
 msgstr "Personal"
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr ""
@@ -558,13 +507,11 @@ msgstr ""
 msgid "Preferences"
 msgstr "Preferenças"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Presentacion"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Presentacion"
+msgstr ""
 
 msgid "Printing"
 msgstr "Estampatge"
@@ -575,9 +522,8 @@ msgstr ""
 msgid "Project Management"
 msgstr "Gestion de projècte"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Gestion de projècte"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -585,21 +531,17 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafics"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Logicials grafics"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Burèu distant"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Contraròtle de volum"
+msgstr ""
 
 msgid "Robotics"
 msgstr ""
@@ -625,9 +567,8 @@ msgstr "Estalviaires d'ecran"
 msgid "Security"
 msgstr ""
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Otilhs de text"
+msgstr ""
 
 msgid "Sequencers"
 msgstr ""
@@ -635,9 +576,8 @@ msgstr ""
 msgid "Settings"
 msgstr "Paramètres"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Educacion"
+msgstr ""
 
 msgid "Simulation Games"
 msgstr ""
@@ -660,20 +600,17 @@ msgstr "Son"
 msgid "Sports"
 msgstr ""
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Jòcs de cartas"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Fuèlha de calcul"
+msgstr ""
 
 msgid "Strategy"
 msgstr ""
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "PocJog"
+msgstr ""
 
 msgid "System"
 msgstr "Sistemo"
@@ -684,20 +621,17 @@ msgstr "Espleches sistèma"
 msgid "System settings"
 msgstr "Paramètres del sistèma"
 
-#, fuzzy
 msgid "TV"
-msgstr "OnTV"
+msgstr ""
 
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Logicials grafics"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Aplicacions"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr ""
@@ -705,9 +639,8 @@ msgstr ""
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Otilhs de text"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -715,17 +648,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Seleccionatz vòstras aplicacions per defaut"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Otilhs de text"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Otilhs de text"
@@ -733,13 +663,11 @@ msgstr "Otilhs de text"
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
-#, fuzzy
 msgid "Tools"
-msgstr "Otilhs de text"
+msgstr ""
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Espleches per desvolopar de logicials"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -747,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Seleccionatz vòstras aplicacions per defaut"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Seleccionatz vòstras aplicacions per defaut"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -779,9 +705,8 @@ msgstr "Joguines"
 msgid "Translation"
 msgstr "Revirada"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Revirada"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -789,13 +714,11 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Grafics"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Logicials grafics"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -803,31 +726,26 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Preferenças"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Reproductor de video"
+msgstr ""
 
 msgid "Video Recorders"
 msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Visualizaira d'imatges"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Navegaire web"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Navegaire web"
+msgstr ""
 
 msgid "Web Development"
 msgstr "Desvolopament web"
@@ -835,16 +753,46 @@ msgstr "Desvolopament web"
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Tractament de tèxt"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Logicial de messatjariá"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,63 +1,48 @@
-#
-# Latest versions of po files are at http://www.mandrivalinux.com/l10n/eo.php3
-#
-# Collection of titles/sections of Mandriva Linux menu's.
-# It's generated from the /usr/lib/menu/* files.
-#
-# Copyright (C) 2000 Mandriva
-# D. Dale Gulledge <dsplat@rochester.rr.com>, 2001
-# Grégoire COLBERT, 2004
-#
+# Menu section translation
+# Joost Witteveen <joostje@debian.org>, 2000-2003.
+# MJ Ray <mjr@debian.org>, 2005.
+# Felipe Castro <fefcas@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2004-06-02 17:30+0200\n"
-"Last-Translator: Grégoire Colbert\n"
-"Language-Team: Esperanto <mandrak-eo@yahoogroups.com>\n"
-"Language: eo\n"
+"PO-Revision-Date: 2008-06-28 17:54-0300\n"
+"Last-Translator: Felipe Castro <fefcas@gmail.com>\n"
+"Language-Team:  <debian-l10n-esperanto@lists.debian.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafiko"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Grafikaj aplikaĵoj"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafiko"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Grafikaj aplikaĵoj"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Ludoj kaj amuzoj"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Alirebleco"
 
-#, fuzzy
 msgid "Action"
-msgstr "Edukado"
+msgstr "Tuj-agado"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Taktika ludo"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "Adresaro"
+msgstr ""
 
 msgid "Administration"
 msgstr "Administrado"
@@ -65,16 +50,14 @@ msgstr "Administrado"
 msgid "Adventure"
 msgstr "Aventuro"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Aventuro"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Diletanta Radio"
+
 msgid "Application to burn a disc"
-msgstr "Aplikaĵoj"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -94,17 +77,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arkado"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "3-dimensia lumocikla ludo"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Arĥivilo"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Arĥivilo"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -113,36 +93,31 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "Astromio"
+msgstr "Astronomio"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astromio"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Aŭdludilo"
+msgstr ""
 
 msgid "Audio Recorders"
 msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Savkopioj"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biologio"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Biologio"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Blogilo"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Tabuloludoj"
@@ -156,9 +131,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Kalkulilo"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Kalkulilo"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Kalendaro"
@@ -172,9 +146,8 @@ msgstr "Kartludoj"
 msgid "Cards"
 msgstr "Kartludoj"
 
-#, fuzzy
 msgid "Chart"
-msgstr "Signoelektilo"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
@@ -182,16 +155,14 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Kemio"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kemio"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Aplikaĵoj"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -199,31 +170,23 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Komputiko"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Komputiko"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Komputiko"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Komputiko"
+msgstr ""
 
 msgid "Configuration tools for the GUI"
 msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Administrado"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Internaciigo"
+msgstr ""
 
 msgid "Data visualization software"
 msgstr ""
@@ -231,9 +194,8 @@ msgstr ""
 msgid "Databases"
 msgstr "Datumbazoj"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Pluaj aplikaĵoj"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Tabulo"
@@ -241,27 +203,23 @@ msgstr "Tabulo"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Tabulaj fenestraĵoj"
+msgstr ""
 
 msgid "Development"
 msgstr "Programado"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Programaj medioj"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Desegnoprogramo"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Vortaro"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Vortaro"
@@ -275,12 +233,11 @@ msgstr "Dokumentaro"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Astromio"
+msgstr ""
 
 msgid "Editors"
-msgstr "Redaktiloj"
+msgstr "Redaktado"
 
 msgid "Education"
 msgstr "Edukado"
@@ -292,7 +249,7 @@ msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "Elektroniko"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -300,18 +257,17 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Grafikaj aplikaĵoj"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Imitiloj"
+msgstr "Ŝajnigiloj"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Inĝenierado"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
@@ -322,32 +278,26 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Dosieradministrilo"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Sistemo"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Dosieradministrilo"
+msgstr "Dosier-transŝuto"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Sistemaj iloj"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Tekstiloj"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Sciencoj"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -355,13 +305,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt-Desegnilo"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Grafikaj aplikaĵoj"
+msgstr ""
 
 msgid "Games"
 msgstr "Ludoj"
@@ -372,50 +320,44 @@ msgstr "Ludoj kaj amuzoj"
 msgid "Games for Kids"
 msgstr "Ludoj por infanoj"
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biologio"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Geosciencoj"
+msgstr "Tero-scienco"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Geosciencoj"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Geosciencoj"
 
 msgid "Graphics"
-msgstr "Grafiko"
+msgstr "Grafikado"
 
 msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "Aparatoj"
+msgstr "Aparataro"
 
 msgid "History"
 msgstr "Historio"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC-kliento"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -423,20 +365,17 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Tujmesaĝilo"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Tujmesaĝilo"
+msgstr ""
 
 msgid "Internet"
 msgstr "Interreto"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Pluaj aplikaĵoj"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -465,9 +404,8 @@ msgstr ""
 msgid "Mathematics"
 msgstr "Matematiko"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Trafoliumi Haveblajn Programojn"
+msgstr ""
 
 msgid "Medical software"
 msgstr ""
@@ -476,22 +414,19 @@ msgid "Mixers"
 msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Kontrolado"
 
 msgid "Multimedia"
 msgstr "Plurmedio"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Spektada menuo"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Ludilo por son- kaj video-dosieroj"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Ludilo por son- kaj video-dosieroj"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -521,7 +456,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "Laborejo"
+msgstr "Oficejo"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -532,16 +467,14 @@ msgstr "Aliaj"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Pentrilo"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Aplikaĵo por skani bildojn"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pakaĵado"
@@ -555,20 +488,17 @@ msgstr ""
 msgid "Performance"
 msgstr ""
 
-#, fuzzy
 msgid "Personal"
-msgstr "Personaj dosieroj"
+msgstr ""
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fiziko"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Fiziko"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Agordaĵoj"
@@ -576,23 +506,20 @@ msgstr "Agordaĵoj"
 msgid "Presentation software"
 msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Dokumentaro"
+msgstr ""
 
 msgid "Printing"
 msgstr "Printado"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Arĥivilo"
+msgstr ""
 
 msgid "Project Management"
-msgstr "Projektadministrado"
+msgstr "Projekt-administrado"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Projektadministrado"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -600,20 +527,17 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafiko"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Grafikaj aplikaĵoj"
+msgstr ""
 
 msgid "Remote access"
 msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Laŭteco"
+msgstr ""
 
 msgid "Robotics"
 msgstr ""
@@ -633,27 +557,23 @@ msgstr ""
 msgid "Science"
 msgstr "Scienco"
 
-#, fuzzy
 msgid "Screensavers"
-msgstr "Ekrankurteno"
+msgstr ""
 
 msgid "Security"
 msgstr "Sekureco"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Sekureco"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Sciencoj"
+msgstr ""
 
 msgid "Settings"
 msgstr "Agordo"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Edukado"
+msgstr "Simulado"
 
 msgid "Simulation Games"
 msgstr ""
@@ -661,26 +581,23 @@ msgstr ""
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Programara Instalilo"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Program-Portila Mastrumilo"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "Sonoro"
+msgstr "Soniloj"
 
 msgid "Sports"
 msgstr "Sportoj"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Tabuloludoj"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
@@ -688,9 +605,8 @@ msgstr ""
 msgid "Strategy"
 msgstr "Strategio"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strategio"
+msgstr ""
 
 msgid "System"
 msgstr "Sistemo"
@@ -698,23 +614,20 @@ msgstr "Sistemo"
 msgid "System Tools"
 msgstr "Sistemaj iloj"
 
-#, fuzzy
 msgid "System settings"
-msgstr "Pres-sistemaj agordoj"
+msgstr ""
 
 msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "TV kaj Radio"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Grafikaj aplikaĵoj"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "Aplikaĵoj"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Instruiloj"
@@ -722,9 +635,8 @@ msgstr "Instruiloj"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Tekstiloj"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -732,17 +644,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Terminal-Aplikaĵoj"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminalo"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Tekstiloj"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Tekstiloj"
@@ -753,9 +662,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Iloj"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Iloj por programado"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -763,13 +671,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Terminal-Aplikaĵoj"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Pluaj aplikaĵoj"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -790,64 +696,55 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Amuzaĵoj"
+msgstr "Ludiloj"
 
 msgid "Translation"
 msgstr "Traduko"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Traduko"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Tajpada intruisto"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Grafiko"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Grafikaj aplikaĵoj"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Agordaĵoj"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Ludilo por videofilmoj"
+msgstr ""
 
 msgid "Video Recorders"
 msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Tipara rigardilo"
+msgstr "Montriloj"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "TTT-legilo"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "TTT-legilo"
+msgstr "Ret-foliumado"
 
 msgid "Web Development"
-msgstr "Reta Programado"
+msgstr "Interreto (programado)"
 
 msgid "Web Publishing"
 msgstr ""
@@ -858,495 +755,5 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Legi kaj sendi retpoŝton"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

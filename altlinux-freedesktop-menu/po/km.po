@@ -1,21 +1,24 @@
+# translation of menu_po-sections_km.po to Khmer
+# translation of menu_po-sections_km.po to
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/am.php3
-#
-#
-# Copyright (C) 2000 MandrakeSoft
-#
+# Bill Allombert <ballombe@debian.org>, 2003.
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006.
+# auk piseth <piseth_dv@khmeros.info>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu_po-sections_km\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 1999-08-25 11:07+0200\n"
-"Last-Translator: Nobody\n"
-"Language-Team: is\n"
+"PO-Revision-Date: 2006-06-12 15:21-0600\n"
+"Last-Translator: auk piseth <piseth_dv@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
 
 msgid "2D Graphics"
 msgstr ""
@@ -36,10 +39,11 @@ msgid "A simple amusement"
 msgstr ""
 
 msgid "Accessibility"
-msgstr "ຄວາມສາມາດໃນການໃຊ້ງານ"
-
-msgid "Action"
 msgstr ""
+
+#, fuzzy
+msgid "Action"
+msgstr "ការ​អប់​រំ​"
 
 msgid "Action Games"
 msgstr ""
@@ -51,7 +55,7 @@ msgid "Administration"
 msgstr ""
 
 msgid "Adventure"
-msgstr ""
+msgstr "ការផ្សងព្រេង​"
 
 msgid "Adventure style games"
 msgstr ""
@@ -66,7 +70,7 @@ msgid "Application to manage your finance"
 msgstr ""
 
 msgid "Applications"
-msgstr "ແອພພຣິເຄຊັນ"
+msgstr ""
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -78,7 +82,7 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "ເກມອາເຄດ"
+msgstr "ល្បែងទូ​"
 
 msgid "Arcade style game"
 msgstr ""
@@ -132,7 +136,7 @@ msgid "Building"
 msgstr ""
 
 msgid "Calculator"
-msgstr "ເຄຶ່ອງຄິດໄລ່"
+msgstr ""
 
 msgid "Calculators"
 msgstr ""
@@ -147,7 +151,7 @@ msgid "Card Games"
 msgstr ""
 
 msgid "Cards"
-msgstr "ກາດ"
+msgstr ""
 
 msgid "Chart"
 msgstr ""
@@ -201,7 +205,7 @@ msgid "Debug Applications"
 msgstr ""
 
 msgid "Desktop"
-msgstr "ພື້ນທີ່ເຮັດວງກ"
+msgstr ""
 
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
@@ -210,7 +214,7 @@ msgid "Desktop utilities"
 msgstr ""
 
 msgid "Development"
-msgstr "ພັດທະນາໂປຣແກຣມ"
+msgstr ""
 
 msgid "Development environments"
 msgstr ""
@@ -231,7 +235,7 @@ msgid "Disc burning"
 msgstr ""
 
 msgid "Documentation"
-msgstr "ຄູ່ມື"
+msgstr ""
 
 msgid "E17"
 msgstr ""
@@ -240,10 +244,10 @@ msgid "Economy"
 msgstr ""
 
 msgid "Editors"
-msgstr "ແກ້ໄຂແຟ້ມຂໍ້ຄວາມ"
+msgstr "កម្មវិធី​និពន្ធ​"
 
 msgid "Education"
-msgstr ""
+msgstr "ការ​អប់​រំ​"
 
 msgid "Electricity"
 msgstr ""
@@ -267,7 +271,7 @@ msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr ""
+msgstr "វត្ថុ​ត្រាប់​តាម"
 
 msgid "Engineering"
 msgstr ""
@@ -315,13 +319,13 @@ msgid "GUI designer applications"
 msgstr ""
 
 msgid "Games"
-msgstr "ເກມ"
+msgstr "ល្បែង​"
 
 msgid "Games and amusements"
 msgstr ""
 
 msgid "Games for Kids"
-msgstr "ເກມສຳລັບເດັກ"
+msgstr ""
 
 msgid "Geography"
 msgstr ""
@@ -332,8 +336,9 @@ msgstr ""
 msgid "Geology software"
 msgstr ""
 
+#, fuzzy
 msgid "Geoscience"
-msgstr ""
+msgstr "វិទ្យាសាស្ត្រ​"
 
 msgid "Geoscience software"
 msgstr ""
@@ -342,7 +347,7 @@ msgid "Geosciences"
 msgstr ""
 
 msgid "Graphics"
-msgstr "ກຣາບຟິກ"
+msgstr "ក្រាហ្វិក​"
 
 msgid "HAM radio software"
 msgstr ""
@@ -351,7 +356,7 @@ msgid "Hardware"
 msgstr ""
 
 msgid "History"
-msgstr "ປະວັດການໃຊ້ງານ"
+msgstr ""
 
 msgid "IDE"
 msgstr ""
@@ -375,7 +380,7 @@ msgid "Instant messaging clients"
 msgstr ""
 
 msgid "Internet"
-msgstr "ອິນເຕີເນັຕ"
+msgstr ""
 
 msgid "Internet applications"
 msgstr ""
@@ -384,7 +389,7 @@ msgid "Java"
 msgstr ""
 
 msgid "KDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "LXDE"
 msgstr ""
@@ -420,7 +425,7 @@ msgid "Monitoring"
 msgstr ""
 
 msgid "Multimedia"
-msgstr "ເມົາຕິມີເດຍ"
+msgstr ""
 
 msgid "Multimedia Editing"
 msgstr ""
@@ -437,8 +442,9 @@ msgstr ""
 msgid "Musical software"
 msgstr ""
 
+#, fuzzy
 msgid "Network"
-msgstr "ລະບົບເຄື່ອຄາຍ"
+msgstr "សំណាញ់"
 
 msgid "Network-related settings"
 msgstr ""
@@ -459,13 +465,13 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "ໂປຣແກຣມຊຸດສຳນັກງານ"
+msgstr ""
 
 msgid "Optical character recognition applications"
 msgstr ""
 
 msgid "Other"
-msgstr "ອື່ນໆ"
+msgstr ""
 
 msgid "P2P"
 msgstr ""
@@ -504,7 +510,7 @@ msgid "Physics software"
 msgstr ""
 
 msgid "Preferences"
-msgstr "ປັບແຕ່ງ"
+msgstr ""
 
 msgid "Presentation software"
 msgstr ""
@@ -513,7 +519,7 @@ msgid "Presentations"
 msgstr ""
 
 msgid "Printing"
-msgstr "Printing"
+msgstr ""
 
 msgid "Profiling tools"
 msgstr ""
@@ -558,7 +564,7 @@ msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr ""
+msgstr "វិទ្យាសាស្ត្រ​"
 
 msgid "Screensavers"
 msgstr ""
@@ -573,10 +579,10 @@ msgid "Sequencers"
 msgstr ""
 
 msgid "Settings"
-msgstr "ตั้งค่า"
+msgstr ""
 
 msgid "Simulation"
-msgstr ""
+msgstr "ការក្លែងធ្វើ​"
 
 msgid "Simulation Games"
 msgstr ""
@@ -594,10 +600,10 @@ msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "ລະບົບສງງ"
+msgstr "សម្លេង​"
 
 msgid "Sports"
-msgstr ""
+msgstr "កីឡា"
 
 msgid "Sports Games"
 msgstr ""
@@ -606,13 +612,13 @@ msgid "Spreadsheets"
 msgstr ""
 
 msgid "Strategy"
-msgstr ""
+msgstr "យុទ្ធសាស្ត្រ​"
 
 msgid "Strategy Games"
 msgstr ""
 
 msgid "System"
-msgstr "ຈັດການລະບົບ"
+msgstr "ប្រព័ន្ធ​"
 
 msgid "System Tools"
 msgstr ""
@@ -657,13 +663,13 @@ msgid "Text tool utilities"
 msgstr ""
 
 msgid "Text tools"
-msgstr "ແຟ້ມຂໍ້ຄວາມ"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "ເຄື່ອງມື"
+msgstr "ឧបករណ៍​"
 
 msgid "Tools for web developers"
 msgstr ""
@@ -699,7 +705,7 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "ຂອງເຫລັ້ນ"
+msgstr "គ្រឿងលេង​"
 
 msgid "Translation"
 msgstr ""
@@ -738,7 +744,7 @@ msgid "Video Recorders"
 msgstr ""
 
 msgid "Viewers"
-msgstr ""
+msgstr "អ្នក​​មើល​"
 
 msgid "Web Browsers"
 msgstr ""
@@ -761,54 +767,35 @@ msgstr ""
 msgid "chat clients"
 msgstr ""
 
+#, fuzzy
+
+
+#, fuzzy
+
+
+#, fuzzy
+
+
+#, fuzzy
 
 
 
 
 
 
+#, fuzzy
+
+#, fuzzy
+
+#, fuzzy
+
+#, fuzzy
+
+#, fuzzy
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#, fuzzy
 
 
 

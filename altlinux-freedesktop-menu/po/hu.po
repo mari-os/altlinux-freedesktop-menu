@@ -1,100 +1,76 @@
-# translation of menu-messages-main to Hungarian
-# Latest versions of po files are at http://www.mandriva.com/l10n/hu.php3
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
 #
-# Collection of titles/sections of Mandriva Linux menu's.
-# It's generated from the /usr/lib/menu/* files.
-#
-# Copyright (C) 2000 Mandriva
-#
-# Csaba Szigetvári <csaba.szigetvari@informedia.hu>, 2000.
-# Tamas Szanto <tszanto@mol.hu>, 2001-2002.
-# Arpad Biro <biro.arpad gmail>, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008.
-# Lónyai Gergely <aleph@mandriva.org>, 2008, 2009, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-main-2010.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2010-05-11 13:21+0100\n"
-"Last-Translator: Gergely Lónyai <aleph@mandriva.org>\n"
-"Language-Team: Hungarian <aleph@mandriva.hu>\n"
-"Language: hu\n"
+"PO-Revision-Date: 2008-05-04 14:14+0100\n"
+"Last-Translator: SZERVÁC Attila <sas@321.hu>\n"
+"Language-Team: Magyar Debian Nyelvi Csoport <debian-l10n-hungarian@lists."
+"debian.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
-"X-Poedit-SourceCharset: utf-8\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Grafikai alkalmazások"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Grafikai alkalmazások"
+msgstr ""
 
-#, fuzzy
 msgid "A clock application/applet"
-msgstr "Egyszerű videó alkalmazás"
+msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Játék és szórakozás"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Akadálymentesítés"
+msgstr "Hozzáférés"
 
-#, fuzzy
 msgid "Action"
-msgstr "Oktatás"
+msgstr "Akció"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Ügyességi-logikai játék"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
 msgstr "Adminisztráció"
 
 msgid "Adventure"
-msgstr "Kalandjátékok"
+msgstr "Kaland"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Tetris-szerű játék"
+msgstr ""
 
-#, fuzzy
 msgid "Amateur Radio"
-msgstr "QtRadio"
+msgstr "Amatőr rádió"
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Alkalmazás-kereső"
+msgstr ""
 
-#, fuzzy
 msgid "Application to manage your finance"
-msgstr "Miniképernyők kezelésére szolgáló grafikus eszköz"
+msgstr ""
 
 msgid "Applications"
 msgstr "Alkalmazások"
 
-#, fuzzy
 msgid "Applications like cvs or subversion"
-msgstr "A munkaasztal betöltésekor betöltődő programok kezelése"
+msgstr ""
 
 msgid "Applications to manage a database"
 msgstr ""
@@ -103,60 +79,49 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Ügyességi játékok"
+msgstr "Akció"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Ügyességi videojáték"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Fájltömörítő"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Mesterséges intelligencia"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Mesterséges intelligencia"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Csillagászat"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Csillagászat"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Hang tag szerkesztő"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Zenelejátszó"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Hangrögzítő"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Mentések"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biológia"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Könyvelő szoftver"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Blogilo"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Táblajátékok"
@@ -164,23 +129,20 @@ msgstr "Táblajátékok"
 msgid "Boards"
 msgstr "Táblás játékok"
 
-#, fuzzy
 msgid "Building"
-msgstr "Tégla Építő"
+msgstr ""
 
 msgid "Calculator"
 msgstr "Számológép"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Számológép"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Naptár"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Java-eszközkészlet"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Kártyajátékok"
@@ -188,27 +150,23 @@ msgstr "Kártyajátékok"
 msgid "Cards"
 msgstr "Kártyajátékok"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "Csevegés"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Kémia"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kémia"
+msgstr ""
 
 msgid "Clock"
 msgstr "Óra"
 
-#, fuzzy
 msgid "Communications"
-msgstr "Figyelmeztetések"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -216,25 +174,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Számítástechnika"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Számítástechnika"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Számítástechnika"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Számítástechnika"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Beállítóeszköz a Compiz-hoz"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Boa-constructor"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -242,9 +192,8 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Adatábrázolás"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Adatábrázolás"
+msgstr ""
 
 msgid "Databases"
 msgstr "Adatbázisok"
@@ -258,34 +207,29 @@ msgstr "Munkaasztal"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Asztali grafikus elemek"
+msgstr ""
 
 msgid "Development"
 msgstr "Fejlesztőeszközök"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Fejlesztőkörnyezetek"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Háromdimenziós grafikonkészítő"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Szótár"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Szótár"
 
-#, fuzzy
 msgid "Disc burning"
-msgstr "Lemezíró"
+msgstr ""
 
 msgid "Documentation"
 msgstr "Dokumentáció"
@@ -297,7 +241,7 @@ msgid "Economy"
 msgstr "Gazdaság"
 
 msgid "Editors"
-msgstr "Szövegszerkesztők"
+msgstr "Szerkesztők"
 
 msgid "Education"
 msgstr "Oktatás"
@@ -305,24 +249,20 @@ msgstr "Oktatás"
 msgid "Electricity"
 msgstr "Elektromosság"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Elektromosság"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Elektromosság"
+msgstr "Elektronika"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Grafikai alkalmazások"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -331,59 +271,49 @@ msgid "Emulators"
 msgstr "Emulátorok"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Mérnöki eszközök"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Hulló blokkos játék"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Hulló blokkos játék"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Fájlkezelő"
+msgstr ""
 
 msgid "File Systems"
 msgstr "Fájlrendszerek"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Fájlkezelő"
+msgstr "Fájlátvitel"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Fájlrendszerek"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Szövegkezelő eszközök"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Tudományok"
+msgstr ""
 
-#, fuzzy
 msgid "Flow Chart"
-msgstr "Hangos chat"
+msgstr ""
 
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt Designer"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Fejlett vázlatkészítő"
+msgstr ""
 
 msgid "Games"
 msgstr "Játékok"
@@ -397,21 +327,17 @@ msgstr "Játékok kicsiknek"
 msgid "Geography"
 msgstr "Földrajz"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biológia"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Metamorfózis-program"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
 msgstr "Földrajz"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Földrajz"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Földrajz"
@@ -419,9 +345,8 @@ msgstr "Földrajz"
 msgid "Graphics"
 msgstr "Grafika"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Metamorfózis-program"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Hardver"
@@ -429,38 +354,32 @@ msgstr "Hardver"
 msgid "History"
 msgstr "Napló"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC-kliens"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Képfeldolgozás"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Képfeldolgozás"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Azonnali üzenetküldő"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Univerzális azonnali üzenetküldő (IM)-kliens"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "További alkalmazások"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -483,51 +402,41 @@ msgstr "Logikai játékok"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Metamorfózis-program"
+msgstr ""
 
 msgid "Mathematics"
-msgstr "Matematika"
+msgstr "Metamatika"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Orvosi képpublikáló szoftver"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Metamorfózis-program"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Keverő"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Monitorok"
+msgstr "Monitorozás"
 
 msgid "Multimedia"
 msgstr "Multimédia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Multimédia kliens"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Médialejátszó"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Multitrack Rögzítő"
+msgstr ""
 
-#, fuzzy
 msgid "Music"
-msgstr "lnkmusic"
+msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Metamorfózis-program"
+msgstr ""
 
 msgid "Network"
 msgstr "Hálózat"
@@ -535,9 +444,8 @@ msgstr "Hálózat"
 msgid "Network-related settings"
 msgstr "Hálózattal kapcsolatos beállítások"
 
-#, fuzzy
 msgid "News"
-msgstr "Levelezés/hírek"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -545,9 +453,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Numerikus analízis"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Numerikus analízis"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -564,16 +471,14 @@ msgstr "Egyéb"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Rajzolóprogram"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Fejlett vázlatkészítő"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Csomagoló"
@@ -581,9 +486,8 @@ msgstr "Csomagoló"
 msgid "Parallel Computing"
 msgstr "Párhuzamos számítás"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Párhuzamos számítás"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -591,41 +495,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Személyes"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Földrajz"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fizika"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Metamorfózis-program"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Beállítások"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Bemutatókészítő"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Bemutatókészítő"
+msgstr ""
 
 msgid "Printing"
 msgstr "Nyomtatás"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Fájltömörítő"
+msgstr ""
 
 msgid "Project Management"
-msgstr "Projektmenedzsment"
+msgstr "Projekt-kezelés"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Nyomtatáskezelő program"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -633,42 +531,35 @@ msgstr ""
 msgid "ROX"
 msgstr "ROX"
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Grafikai alkalmazások"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Távoli grafikus hozzáférés"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Grafikus felületű verziókezelés"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Robotika"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Könyvelő szoftver"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
 
-#, fuzzy
 msgid "Role playing games"
-msgstr "Rally-versenyzési játék"
+msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "XSane - Lapolvasó"
+msgstr ""
 
 msgid "Science"
-msgstr "Tudományok"
+msgstr "Tudomány"
 
 msgid "Screensavers"
 msgstr "Képernyővédők"
@@ -676,60 +567,50 @@ msgstr "Képernyővédők"
 msgid "Security"
 msgstr "Biztonság"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Biztonság"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI-szekvenszer"
+msgstr ""
 
 msgid "Settings"
 msgstr "Beállítások"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Városszimuláció"
+msgstr "Szimulátorok"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Városszimulációs játék"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Szoftverfrissítés-megjelenítő"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Szoftverforrás-kezelő"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "Szoftverforrások"
+msgstr ""
 
 msgid "Sound"
 msgstr "Hang"
 
 msgid "Sports"
-msgstr "Sportjátékok"
+msgstr "Sportok"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Táblajátékok"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Táblázatkezelő"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Stratégia"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Stratégia"
+msgstr ""
 
 msgid "System"
 msgstr "Rendszer"
@@ -740,31 +621,26 @@ msgstr "Rendszereszközök"
 msgid "System settings"
 msgstr "Rendszerbeállítások"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Megjeleníti és jelenti az alkalmazások összeomlását"
+msgid "TV and Radio"
+msgstr "TV és rádió"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "Alkalmazások"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Oktátási kellékek"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Alephone"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Szövegkezelő eszközök"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -772,17 +648,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Parancsértelmezők"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminál"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Szövegkezelő eszközök"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Szövegkezelő eszközök"
@@ -791,11 +664,10 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Segédeszközök"
+msgstr "Eszközök"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Programfejlesztő eszközök"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -803,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Alapértelmezett alkalmazások kiválasztása"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Hibakeresés alkalmazásokban"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -817,9 +687,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Nyomtatók beállítása"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -831,4403 +700,64 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Mütyürkék"
+msgstr "Apróságok"
 
 msgid "Translation"
 msgstr "Fordítás"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Fordítás"
+msgstr ""
 
-#, fuzzy
 msgid "Tuners"
-msgstr "aTunes"
+msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Gépelésoktató"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Vektorgrafikai szerkesztő"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Grafikai alkalmazások"
+msgstr ""
 
-#, fuzzy
 msgid "Video"
-msgstr "VideoCut"
+msgstr "Mozgókép"
 
-#, fuzzy
 msgid "Video Conference software"
-msgstr "Könyvelő szoftver"
+msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Videó átalakító"
+msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "Videószerkesztő"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Videólejátszó"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Digitális videofelvevő"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Nézegetők"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Webböngésző"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Webböngésző"
+msgstr "Webböngészés"
 
 msgid "Web Development"
-msgstr "Webes fejlesztőeszközök"
+msgstr "Web fejlesztés"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Szövegszerkesztő"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Levelezőprogramok"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Day planner is a simple time management program.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 'minimizer' for a few games
-
-
-
-
-
-
-
-# eXtace is an Audio Visualization plugin for the X-Window
-#  System.
-
-
-
-
-
-
-
-
-
-
-
-
-
-# fityk is a program for nonlinear fitting of analytical functions
-#  (especially peak-shaped)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Fyre is a tool for producing artwork based on iterated chaotic
-#  functions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# sound editor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Drivel is a GNOME client for working with online journals,
-#  also known as weblogs or simply blogs.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# GNOME-Mud is a Multi-User Dungeon (MUD) client for X.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# note various information (like marks, tests dates and important
-#  school events)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# JACK Audio Mastering, "... a tool for producing audio masters
-#  from a mixed-down multitrack source"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Drivel is a GNOME client for working with online journals,
-#  also known as weblogs or simply blogs.
-
-
-
-
-
-
-
-
-
-# create ICC version 2 compliant profiles for cameras, scanners
-#  and monitors
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Xournal is an application for notetaking, sketching, keeping a
-#  journal using a stylus.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Mass spectrometry is an analytical technique used to measure
-#  the mass-to-charge ratio of ions
-
-# Mass spectrometry is an analytical technique used to measure
-#  the mass-to-charge ratio of ions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Industrializer is a program for generating percussion sounds for
-#  musical purposes. This program is great for generating new
-#  techno and industrial sounds. It also can produce chimes,
-#  bubbles, gongs, hammer hits on different materials and so on.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Qsynth is a simple Qt application wrapper for the fluidsynth
-#  software MIDI sequencer
-
-
-
-
-
-# Qsynth is a simple Qt application wrapper for the fluidsynth
-#  software MIDI sequencer
-
-# graphical frontend for recordMyDesktop, which is a desktop
-#  session recorder
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Rogue-like game
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

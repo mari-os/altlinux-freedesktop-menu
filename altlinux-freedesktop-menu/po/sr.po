@@ -22,39 +22,32 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Графика"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Графички програми"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Графика"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Графички програми"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Игре и забава"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Приступачност"
 
-#, fuzzy
 msgid "Action"
-msgstr "Образовање"
+msgstr ""
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Акциона укрштеница"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
@@ -65,16 +58,14 @@ msgstr "Администрација"
 msgid "Adventure"
 msgstr "Авантура"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Авантура"
+msgstr ""
 
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Програми"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -94,17 +85,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "Аркадне"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Аркадна видео игра"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Алат за архивирање"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -115,31 +103,26 @@ msgstr ""
 msgid "Astronomy"
 msgstr "Астрономија"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Астрономија"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Аудио плејер"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Снимање звука"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Бекап"
+msgstr ""
 
 msgid "Biology"
 msgstr "Биологија"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -156,17 +139,14 @@ msgstr ""
 msgid "Calculator"
 msgstr "Калкулатор"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Калкулатор"
+msgstr ""
 
-#, fuzzy
 msgid "Calendar"
-msgstr "Блендер"
+msgstr ""
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Комплет Java алата"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Игре са картама"
@@ -174,28 +154,23 @@ msgstr "Игре са картама"
 msgid "Cards"
 msgstr "Карте"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KChartSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "Прича"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Хемија"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Хемија"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "К‑блокови"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Комуницирајте са својим пријатељима"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -203,43 +178,32 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Рачунарство"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Рачунарство"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Рачунарство"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Рачунарство"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Уређивач подешавања"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Игра конструисања мреже"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Интернационализација"
+msgstr ""
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Визуелни претраживач података"
+msgstr ""
 
 msgid "Databases"
 msgstr "Базе података"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Још програма"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Радна површина"
@@ -247,34 +211,29 @@ msgstr "Радна површина"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Виџети површи"
+msgstr ""
 
 msgid "Development"
 msgstr "Развој"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Развојна окружења "
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Програм за цртање"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Речник"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Речник"
 
-#, fuzzy
 msgid "Disc burning"
-msgstr "Резање дискова"
+msgstr ""
 
 msgid "Documentation"
 msgstr "Документација"
@@ -282,9 +241,8 @@ msgstr "Документација"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Астрономија"
+msgstr ""
 
 msgid "Editors"
 msgstr "Едитори"
@@ -295,13 +253,11 @@ msgstr "Образовање"
 msgid "Electricity"
 msgstr "Електрицитет"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Електрицитет"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Електрицитет"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -309,9 +265,8 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Графички програми"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -325,40 +280,32 @@ msgstr ""
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Игра падајућих блокова"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Игра падајућих блокова"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Менаџер фајлова"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Систем"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Менаџер фајлова"
+msgstr ""
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Системски алати"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Алати за текст"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Наука"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -366,13 +313,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt4 Дизајнер"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Графички програми"
+msgstr ""
 
 msgid "Games"
 msgstr "Игре"
@@ -383,25 +328,20 @@ msgstr "Игре и забава"
 msgid "Games for Kids"
 msgstr "Игре за децу"
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Биологија"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Природне науке"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Природне науке"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Природне науке"
@@ -409,9 +349,8 @@ msgstr "Природне науке"
 msgid "Graphics"
 msgstr "Графика"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Хардвер"
@@ -419,39 +358,32 @@ msgstr "Хардвер"
 msgid "History"
 msgstr "Историјат"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC клијент"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing"
-msgstr "Програм за преглед слика"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Брзи гласник"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "универзални инстант клијент за поруке"
+msgstr ""
 
 msgid "Internet"
 msgstr "Интернет"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Још програма"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -474,50 +406,41 @@ msgstr "Логичке игре"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Математика"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Екрани"
+msgstr ""
 
 msgid "Multimedia"
 msgstr "Мултимедија"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Мени за мултимедију"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "мултимедијални плејер"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "мултимедијални плејер"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Network"
 msgstr "Мрежа"
@@ -552,16 +475,14 @@ msgstr "Остало"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Програм за цртање"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Терминалски програми"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Паковање"
@@ -569,9 +490,8 @@ msgstr "Паковање"
 msgid "Parallel Computing"
 msgstr ""
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -579,41 +499,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Лично"
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr "Физика"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Поставке"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Презентација"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Презентација"
+msgstr ""
 
 msgid "Printing"
 msgstr "штампање"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Алат за архивирање"
+msgstr ""
 
 msgid "Project Management"
 msgstr "Управљање пројектима"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Управљање пројектима"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -621,29 +535,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Графика"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Графички програми"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Удаљена радна површ"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Управљање јачином звука"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "Роботи"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Софтвер за морфирање"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -663,20 +571,17 @@ msgstr "Чувари екрана"
 msgid "Security"
 msgstr "Сигурност"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Сигурност"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Наука"
+msgstr ""
 
 msgid "Settings"
 msgstr "Поставке"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Minitel емулатор"
+msgstr ""
 
 msgid "Simulation Games"
 msgstr ""
@@ -684,17 +589,14 @@ msgstr ""
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Прегледач надоградњи програма"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Менаџер за Медије са софтвером"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "Извори програма"
+msgstr ""
 
 msgid "Sound"
 msgstr "Звук"
@@ -702,20 +604,17 @@ msgstr "Звук"
 msgid "Sports"
 msgstr "Спорт"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Игре на табли"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Табеларни прорачун"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Стратегије"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Стратегије"
+msgstr ""
 
 msgid "System"
 msgstr "Систем"
@@ -726,20 +625,17 @@ msgstr "Системски алати"
 msgid "System settings"
 msgstr "Подешавања система"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
+msgstr ""
 
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Графички програми"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Програми"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Учитељске алатке"
@@ -747,9 +643,8 @@ msgstr "Учитељске алатке"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Алати за текст"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -757,17 +652,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Терминалски програми"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Терминал"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Алати за текст"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Алати за текст"
@@ -778,9 +670,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Алати"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Алати за развој софтвера"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -788,13 +679,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Одаберите ваше основне програме"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Одаберите ваше основне програме"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -802,9 +691,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Подешавање штампача"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -821,24 +709,20 @@ msgstr "Играчке"
 msgid "Translation"
 msgstr "Превод"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Превод"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Тутор за слепо куцање"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Алат за векторско цртање"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Графички програми"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -846,32 +730,26 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Поставке"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Видео плејер"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Снимање звука"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Интернет прегледник"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Интернет прегледник"
+msgstr ""
 
 msgid "Web Development"
 msgstr "Веб развој"
@@ -879,16 +757,75 @@ msgstr "Веб развој"
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Обрада текста"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Поштански клијент"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

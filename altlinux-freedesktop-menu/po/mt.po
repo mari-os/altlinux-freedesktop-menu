@@ -20,21 +20,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
@@ -45,34 +41,29 @@ msgstr ""
 msgid "Accessibility"
 msgstr "Aċċessibiltà"
 
-#, fuzzy
 msgid "Action"
-msgstr "Edukazzjoni"
+msgstr ""
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Logħba azzjoni/taħbil il-moħħ"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
 
-#, fuzzy
 msgid "Administration"
-msgstr "Amministrazzjoni ta' users"
+msgstr ""
 
 msgid "Adventure"
 msgstr "Avventura"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Avventura"
+msgstr ""
 
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Applikazzjonijiet"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -92,17 +83,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "Logħob tal-Arcades"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Logħba tal-arcades"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Għodda tal-arkivji"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -113,31 +101,26 @@ msgstr ""
 msgid "Astronomy"
 msgstr "Astronomija"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astronomija"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Plejer tal-Video"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Irrekordja awdjo"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Kopji ta' sigurtà"
+msgstr ""
 
 msgid "Biology"
 msgstr "Bijoloġija"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -154,9 +137,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Kalkulatriċi"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Kalkulatriċi"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
@@ -170,9 +152,8 @@ msgstr "Logħob tal-Karti"
 msgid "Cards"
 msgstr "Karti"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
@@ -180,16 +161,14 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Kimika"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kimika"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Applikazzjonijiet"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -197,17 +176,11 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Xjenza tal-kompjuter"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Xjenza tal-kompjuter"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Xjenza tal-kompjuter"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Xjenza tal-kompjuter"
+msgstr ""
 
 msgid "Configuration tools for the GUI"
 msgstr ""
@@ -218,49 +191,41 @@ msgstr ""
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Internazzjonalizzazzjoni"
+msgstr ""
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Esploratur tad-data viżwali"
+msgstr ""
 
 msgid "Databases"
 msgstr "Databażi"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Programmi KDE"
+msgstr ""
 
-#, fuzzy
 msgid "Desktop"
-msgstr "Qsim tad-desktop"
+msgstr ""
 
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Utilitajiet"
+msgstr ""
 
 msgid "Development"
 msgstr "Żvilupp"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Ambjenti ta' żviluppar"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Programm għal graff 3D"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Dizzjunarju"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Dizzjunarju"
@@ -274,9 +239,8 @@ msgstr "Dokumentazzjoni"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Astronomija"
+msgstr ""
 
 msgid "Editors"
 msgstr "Edituri"
@@ -296,13 +260,11 @@ msgstr ""
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -322,17 +284,14 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Manager tal-Fajls"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Sistema"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Manager tal-Fajls"
+msgstr ""
 
 msgid "File system tools"
 msgstr ""
@@ -340,13 +299,11 @@ msgstr ""
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Għodda tat-test"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Xjenza"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -354,13 +311,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Diżinjatur Qt"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
 msgid "Games"
 msgstr "Logħob"
@@ -374,21 +329,17 @@ msgstr "Logħob għat-tfal"
 msgid "Geography"
 msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Bijoloġija"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Xjenza ġeoloġika"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Xjenza ġeoloġika"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Xjenza ġeoloġika"
@@ -396,9 +347,8 @@ msgstr "Xjenza ġeoloġika"
 msgid "Graphics"
 msgstr "Grafika"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Apparat"
@@ -406,39 +356,32 @@ msgstr "Apparat"
 msgid "History"
 msgstr "Kronoloġija"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Klijent IRC"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing"
-msgstr "Werrej ta' stampi"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Klijent universali messaġġi instantanji"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Klijent universali messaġġi instantanji"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Programmi KDE"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -455,31 +398,26 @@ msgstr "Lingwi"
 msgid "Literature"
 msgstr "Letteratura"
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Logħba tal-loġika"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Matematika"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Ara softwer disponibbli"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
 msgstr ""
@@ -487,24 +425,20 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Multimedja"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Multimedja"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Programm biex iddoqq mużika"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Programm biex iddoqq mużika"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Network"
 msgstr "Network"
@@ -539,16 +473,14 @@ msgstr "Oħrajn"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Programm tat-tpinġija"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pakkeġġjar"
@@ -556,16 +488,14 @@ msgstr "Pakkeġġjar"
 msgid "Parallel Computing"
 msgstr ""
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
 
-#, fuzzy
 msgid "Personal"
-msgstr "Fajls Personali"
+msgstr ""
 
 msgid "Photography"
 msgstr ""
@@ -573,34 +503,29 @@ msgstr ""
 msgid "Physics"
 msgstr "Fiżika"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Preferenzi"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Dokumentazzjoni"
+msgstr ""
 
 msgid "Printing"
 msgstr "Printjar"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Għodda tal-arkivji"
+msgstr ""
 
 msgid "Project Management"
 msgstr ""
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Programmi preferuti"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -608,27 +533,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
 msgid "Remote access"
 msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Kontroll tal-volum"
+msgstr ""
 
 msgid "Robotics"
 msgstr ""
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Programm biex timmorfja minn stampa għall-oħra"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -642,27 +563,23 @@ msgstr ""
 msgid "Science"
 msgstr "Xjenza"
 
-#, fuzzy
 msgid "Screensavers"
-msgstr "Screensaver"
+msgstr ""
 
 msgid "Security"
 msgstr "Sigurtà"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Sigurtà"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Sekwenzatur MIDI"
+msgstr ""
 
 msgid "Settings"
 msgstr "Setings"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Emulazzjoni Minitel"
+msgstr ""
 
 msgid "Simulation Games"
 msgstr ""
@@ -673,9 +590,8 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Maniġġjar ta' sorsi tas-softwer"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -686,58 +602,47 @@ msgstr "Ħoss"
 msgid "Sports"
 msgstr "Sports"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Logħob tal-boards"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Spreadsheet ta' Siag Office"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Strateġija"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strateġija"
+msgstr ""
 
 msgid "System"
 msgstr "Sistema"
 
-#, fuzzy
 msgid "System Tools"
-msgstr "Monitur tas-sistema"
+msgstr ""
 
-#, fuzzy
 msgid "System settings"
-msgstr "Setings"
+msgstr ""
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
+msgstr ""
 
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Applikazzjonijiet"
+msgstr ""
 
-#, fuzzy
 msgid "Teaching Tools"
-msgstr "Għodda tal-arkivji"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Telefon ISDN"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Għodda tat-test"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -745,17 +650,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Għodda tat-test"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Għodda tat-test"
@@ -775,13 +677,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Programmi KDE"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -816,13 +716,11 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Programm għal disinji b'vektori"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Programmi tat-Terminal"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -830,35 +728,29 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Preferenzi"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Plejer tal-Video"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Rekordjatur ta' videos diġitali"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Werrej tal-fonts"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Werrej ta' stampi"
+msgstr ""
 
 msgid "Web Browsing"
 msgstr ""
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Żvilupp"
+msgstr ""
 
 msgid "Web Publishing"
 msgstr ""
@@ -869,9 +761,55 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Klijent Whois"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

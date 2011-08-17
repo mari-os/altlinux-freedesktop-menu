@@ -16,59 +16,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Графіка"
+msgstr ""
 
 msgid "2D based graphical applications"
 msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Графіка"
+msgstr ""
 
 msgid "3D based graphical applications"
 msgstr ""
 
-#, fuzzy
 msgid "A clock application/applet"
-msgstr "Дастасаваньні"
+msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Гульня ў косьці"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Зручнасьці"
 
-#, fuzzy
 msgid "Action"
-msgstr "Дзеяньні"
+msgstr "Экшн"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Дзеяньні"
+msgstr ""
 
 #, fuzzy
 msgid "AddressBooks"
 msgstr "Адрасная кніга"
 
 msgid "Administration"
-msgstr "Адміністраваньне"
+msgstr "Адміністраванне"
 
 msgid "Adventure"
-msgstr ""
+msgstr "Прыгоды"
 
 msgid "Adventure style games"
 msgstr ""
 
-#, fuzzy
 msgid "Amateur Radio"
-msgstr "Выпадковы"
+msgstr "Аматарскае радыё"
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Дастасаваньні"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -79,9 +71,8 @@ msgstr "Дастасаваньні"
 msgid "Applications like cvs or subversion"
 msgstr ""
 
-#, fuzzy
 msgid "Applications to manage a database"
-msgstr "Дастасаваньні"
+msgstr ""
 
 msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
@@ -89,9 +80,8 @@ msgstr ""
 msgid "Arcade"
 msgstr "Аркады"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Гульня \"Тетравекс\""
+msgstr ""
 
 msgid "Archiving"
 msgstr ""
@@ -106,29 +96,26 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "Зоркаведаньне"
+msgstr "Астраномія"
 
 msgid "Astronomy software"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Бясьпека"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Прайгравальнік дыскаў"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Праграма гуказапісу"
+msgstr ""
 
 #, fuzzy
 msgid "Backup"
 msgstr "Чорны"
 
 msgid "Biology"
-msgstr ""
+msgstr "Біялогія"
 
 msgid "Biology software"
 msgstr ""
@@ -149,9 +136,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Калькулятар"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Калькулятар"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Каляндар"
@@ -173,14 +159,13 @@ msgid "Chat"
 msgstr ""
 
 msgid "Chemistry"
-msgstr ""
+msgstr "Хімія"
 
 msgid "Chemistry software"
 msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "Рок"
+msgstr ""
 
 #, fuzzy
 msgid "Communications"
@@ -196,26 +181,20 @@ msgstr ""
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
-msgstr ""
-
 msgid "Computer science"
 msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Канфігурацыя keybindings"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Канфігурацыя"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Тэрмінальныя дастасаваньні"
+msgstr ""
 
 msgid "Data visualization software"
 msgstr ""
@@ -224,9 +203,8 @@ msgstr ""
 msgid "Databases"
 msgstr "База даньняў дыскаў"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Дастасаваньні"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Працоўны cтол"
@@ -234,9 +212,8 @@ msgstr "Працоўны cтол"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Утыліты"
+msgstr ""
 
 msgid "Development"
 msgstr "Распрацоўка"
@@ -245,16 +222,14 @@ msgstr "Распрацоўка"
 msgid "Development environments"
 msgstr "Распрацоўка"
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Тэрмінал GNOME"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Слоўнік GNOME"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Слоўнік"
@@ -283,9 +258,8 @@ msgstr "Электрычнасьць"
 msgid "Electricity software"
 msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Дзеяньні"
+msgstr "Электроніка"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -293,20 +267,17 @@ msgstr ""
 msgid "Email"
 msgstr "Электронная пошта"
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Дастасаваньні"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "Калькулятар"
+msgstr "Эмулятары"
 
-#, fuzzy
 msgid "Engineering"
-msgstr "Радкі"
+msgstr "Інжэнерныя"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
@@ -317,21 +288,17 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Мэнэджэр файлаў"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Сістэма"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Мэнэджэр файлаў"
+msgstr "Перадача файлаў"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Сыстэмны манітор"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
@@ -343,20 +310,17 @@ msgstr ""
 msgid "Finances"
 msgstr "Радкі"
 
-#, fuzzy
 msgid "Flow Chart"
-msgstr "Зоркі"
+msgstr ""
 
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Прынтэры"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Тэрмінальныя дастасаваньні"
+msgstr ""
 
 msgid "Games"
 msgstr "Гульні"
@@ -367,9 +331,8 @@ msgstr "Гульні і забавы"
 msgid "Games for Kids"
 msgstr "Гульні для дзяцей"
 
-#, fuzzy
 msgid "Geography"
-msgstr "Графіка"
+msgstr ""
 
 msgid "Geology"
 msgstr ""
@@ -377,9 +340,8 @@ msgstr ""
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Радкі"
+msgstr "Геаграфія"
 
 msgid "Geoscience software"
 msgstr ""
@@ -394,7 +356,7 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "Абсталяваньне"
+msgstr "Апаратнае забеспячэнне"
 
 msgid "History"
 msgstr "Гісторыя"
@@ -406,13 +368,11 @@ msgstr "KDE"
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Калькулятар"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing"
-msgstr "Працэсар"
+msgstr ""
 
 msgid "Image Processing software"
 msgstr ""
@@ -426,9 +386,8 @@ msgstr ""
 msgid "Internet"
 msgstr "Інтарнэт"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Пераважныя дастасаваньні"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -445,9 +404,8 @@ msgstr "Мовы"
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Гульня ў косьці"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -464,28 +422,23 @@ msgstr ""
 msgid "Medical software"
 msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Праграма гуказапісу"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Манітор"
+msgstr "Маніторынг"
 
 msgid "Multimedia"
 msgstr "Мульцімедыя"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Мульцімедыя"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Мульцімедыя"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Праграма гуказапісу"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -532,9 +485,8 @@ msgstr ""
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Тэрмінальныя дастасаваньні"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -556,7 +508,7 @@ msgid "Photography"
 msgstr ""
 
 msgid "Physics"
-msgstr ""
+msgstr "Фізіка"
 
 msgid "Physics software"
 msgstr ""
@@ -564,9 +516,8 @@ msgstr ""
 msgid "Preferences"
 msgstr "Перавагі"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Настройкі даты і часу"
+msgstr ""
 
 msgid "Presentations"
 msgstr ""
@@ -574,16 +525,14 @@ msgstr ""
 msgid "Printing"
 msgstr "Друкаваньне"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Інфармацыя аб гуку"
+msgstr ""
 
 msgid "Project Management"
-msgstr "Кіраваньне праектам"
+msgstr "Кіраванне праектамі"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Мэнэджэр тэм"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -591,9 +540,8 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Графіка"
+msgstr ""
 
 msgid "Raster based graphical applications"
 msgstr ""
@@ -601,13 +549,11 @@ msgstr ""
 msgid "Remote access"
 msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Кантролер гучнасьці"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "Камяні GNOME"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -630,20 +576,17 @@ msgstr "Ахоўнікі экрана"
 msgid "Security"
 msgstr "Бясьпека"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Бясьпека"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Радкі"
+msgstr ""
 
 msgid "Settings"
 msgstr "Настройкі"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Калькулятар"
+msgstr "Сімулятары"
 
 msgid "Simulation Games"
 msgstr ""
@@ -654,9 +597,8 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Мэнэджэр сэрвісаў"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -667,21 +609,18 @@ msgstr "Гук"
 msgid "Sports"
 msgstr "Спорт"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Значкі"
+msgstr ""
 
 #, fuzzy
 msgid "Spreadsheets"
 msgstr "Табліцы стыляў"
 
-#, fuzzy
 msgid "Strategy"
-msgstr "Тактыка і стратэгія"
+msgstr "Стратэгічныя"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Тактыка і стратэгія"
+msgstr ""
 
 msgid "System"
 msgstr "Сістэма"
@@ -696,15 +635,13 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "ТБ і радыё"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Тэрмінальныя дастасаваньні"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "Дастасаваньні"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Праграмы для навучання"
@@ -721,9 +658,8 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Тэрмінальныя дастасаваньні"
+msgstr ""
 
 #, fuzzy
 msgid "Terminals"
@@ -739,7 +675,7 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Інструмэнты"
+msgstr "Сродкі"
 
 msgid "Tools for web developers"
 msgstr ""
@@ -750,13 +686,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "-> Усе праграмы"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Тэрмінальныя дастасаваньні"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -764,13 +698,11 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Мэнэджэр файлаў"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to manage your PDA"
-msgstr "Мэнэджэр файлаў"
+msgstr ""
 
 msgid "Tools to remotely manage your PC"
 msgstr ""
@@ -784,9 +716,8 @@ msgstr "Цацкі"
 msgid "Translation"
 msgstr "Пераклад"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Сістэмнае адміністраваньне"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -794,9 +725,8 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Графіка"
+msgstr ""
 
 msgid "Vector based graphical applications"
 msgstr ""
@@ -810,32 +740,26 @@ msgstr ""
 msgid "Video Conferences"
 msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "Рэдактары"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Прайгравальнік дыскаў"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Праграма гуказапісу"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Відэа"
+msgstr "Праглядчыкі"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Відарысы"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Відарысы"
+msgstr "Прагляд Web"
 
 msgid "Web Development"
-msgstr "Web-распрацоўка"
+msgstr "Распрацоўка Web"
 
 msgid "Web Publishing"
 msgstr ""
@@ -847,6 +771,5 @@ msgstr "Працэсар"
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Калькулятар"
+msgstr ""

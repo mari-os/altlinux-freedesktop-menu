@@ -1,79 +1,66 @@
+# Menu section translation to Georgian
+# Copyright (C) 2007
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2007.
+# Aiet Kolkhi <aietkolkhi@gmail.com>
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ka.php3
-#
-# Strings used in the menus of window mananagers on a Linux-Mandrake system.
-# Georgian translation
-# Copyright (C) 2000 MandrakeSoft
-# levan shoshiashvili <shoshia@hotmail.com>,2001
-# Aiet Kolkhi <aiet@qartuli.net>, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.35\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2004-09-30 00:04+0400\n"
-"Last-Translator: Aiet Kolkhi <aiet@qartuli.net>\n"
-"Language-Team: Georgian <aiet@qartuli.com>\n"
+"PO-Revision-Date: 2008-09-10 01:21+0400\n"
+"Last-Translator: Aiet Kolkhi <aietkolkhi@gmail.com>\n"
+"Language-Team: Georgian <aietkolkhi@gmail.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "გრაფიკა"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "გრაფიკული პროგრამები"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "გრაფიკა"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "გრაფიკული პროგრამები"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "თამაშები და სხვა"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "გამარტივება"
 
-#, fuzzy
 msgid "Action"
-msgstr "განათლება"
+msgstr "მძაფრსიუჟეტიანი"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "მაგიდის თამაშები"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
-msgstr "ადმინისტრაცია"
+msgstr "ადმინისტრირება"
 
 msgid "Adventure"
 msgstr "სათავგადასავლო"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "სათავგადასავლო"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "სამოყვარულო რადიო"
+
 msgid "Application to burn a disc"
-msgstr "პროგრამები"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -93,13 +80,11 @@ msgstr ""
 msgid "Arcade"
 msgstr "არკადია"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "კიდევ ერთი 3-განზ. lightcycle თამაში"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "არქივატორი"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -113,31 +98,26 @@ msgstr ""
 msgid "Astronomy"
 msgstr "ასტრონომია"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "ასტრონომია"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "აუდიოდამკვრელი"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "ხმის ჩამწერი"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "რეზერვირება"
+msgstr ""
 
 msgid "Biology"
 msgstr "ბიოლოგია"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "ბიოლოგია"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -154,9 +134,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "კალკულატორი"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "კალკულატორი"
+msgstr ""
 
 msgid "Calendar"
 msgstr "კალენდარი"
@@ -173,48 +152,38 @@ msgstr "კარტი"
 msgid "Chart"
 msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "ჩატი"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "ქიმია"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "ქიმია"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "პროგრამები"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
 
-#, fuzzy
 msgid "Computer Science"
-msgstr "კომპიუტერი"
+msgstr ""
 
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
+msgid "Computer science"
 msgstr ""
 
-#, fuzzy
-msgid "Computer science"
-msgstr "კომპიუტერი"
-
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "კონფიგურაციის რედაქტორი"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "ადმინისტრაცია"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -228,9 +197,8 @@ msgstr ""
 msgid "Databases"
 msgstr "მონაცემთა ბაზები"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "დამატებითი პროგრამები"
+msgstr ""
 
 msgid "Desktop"
 msgstr "სამუშაო დაფა"
@@ -238,27 +206,23 @@ msgstr "სამუშაო დაფა"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "ხელსაწყოები"
+msgstr ""
 
 msgid "Development"
 msgstr "პროგრამირება"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "პროგრამირების გარსები"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "სახატავი პროგრამა"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "ლექსიკონი"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "ლექსიკონი"
@@ -272,9 +236,8 @@ msgstr "დოკუმენტაცია"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "ასტრონომია"
+msgstr ""
 
 msgid "Editors"
 msgstr "რედაქტორები"
@@ -282,15 +245,14 @@ msgstr "რედაქტორები"
 msgid "Education"
 msgstr "განათლება"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "Metacity"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "ელექტრონიკა"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -298,9 +260,8 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "გრაფიკული პროგრამები"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -309,7 +270,7 @@ msgid "Emulators"
 msgstr "ემულატორები"
 
 msgid "Engineering"
-msgstr ""
+msgstr "ინჟინირება"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
@@ -320,46 +281,38 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "ფაილთა მენეჯერი"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "სისტემა"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "ფაილთა მენეჯერი"
+msgstr "ფაილის ტრანსფერი"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "სისტემური ხელსაწყოები"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "ტექსტის ხელსაწყოები"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "მეცნიერება"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
 
-#, fuzzy
 msgid "GNOME"
-msgstr "გნომის შესახებ"
+msgstr ""
 
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "გრაფიკული პროგრამები"
+msgstr ""
 
 msgid "Games"
 msgstr "თამაშები"
@@ -370,24 +323,20 @@ msgstr "თამაშები და სხვა"
 msgid "Games for Kids"
 msgstr "საბავშვო თამაშები"
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "ბიოლოგია"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "გეო-მეცნიერებები"
+msgstr "გეოლოგიური მეცნიერება"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "გეო-მეცნიერებები"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "გეო-მეცნიერებები"
@@ -399,21 +348,19 @@ msgid "HAM radio software"
 msgstr ""
 
 msgid "Hardware"
-msgstr "მოწყობილობა"
+msgstr "აპარატურა"
 
 msgid "History"
 msgstr ""
 
-#, fuzzy
 msgid "IDE"
-msgstr "KDE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC საუბარი"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -430,9 +377,8 @@ msgstr ""
 msgid "Internet"
 msgstr "ინტერნეტი"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "დამატებითი პროგრამები"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -449,9 +395,8 @@ msgstr "ენები"
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr " Rogue ტიპის თამაშები"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -472,22 +417,19 @@ msgid "Mixers"
 msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "მონიტორინგი"
 
 msgid "Multimedia"
 msgstr "მულტიმედია"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "მულტიმედიის მენუ"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "მედიადამკვრელი"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "მულტიმედიის მენუ"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -528,16 +470,14 @@ msgstr "სხვა"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "პროგრამირება"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "კონსოლის პროგრამები"
+msgstr ""
 
 msgid "Packaging"
 msgstr "ჩალაგება"
@@ -551,31 +491,26 @@ msgstr ""
 msgid "Performance"
 msgstr ""
 
-#, fuzzy
 msgid "Personal"
-msgstr "პირადი საქაღალდეები"
+msgstr ""
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr "ფიზიკა"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "ფიზიკა"
+msgstr ""
 
 msgid "Preferences"
 msgstr "პარამეტრები"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "პრეზენტაცია"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "პრეზენტაცია"
+msgstr ""
 
 msgid "Printing"
 msgstr "ბეჭდვა"
@@ -583,13 +518,11 @@ msgstr "ბეჭდვა"
 msgid "Profiling tools"
 msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "დენის მმართველი"
+msgstr "პროექტთა მართვა"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "სასურველი პროგრამები"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -597,21 +530,17 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "გრაფიკა"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "გრაფიკული პროგრამები"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "დაშორებული კომპიუტერი"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "ხმის კონტროლი"
+msgstr ""
 
 msgid "Robotics"
 msgstr ""
@@ -628,7 +557,6 @@ msgstr ""
 msgid "Scanning"
 msgstr ""
 
-#, fuzzy
 msgid "Science"
 msgstr "მეცნიერება"
 
@@ -638,20 +566,17 @@ msgstr "ეკრანმზოგები"
 msgid "Security"
 msgstr "უსაფრთხოება"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "უსაფრთხოება"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "მეცნიერება"
+msgstr ""
 
 msgid "Settings"
 msgstr "პარამეტრები"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "განათლება"
+msgstr "სიმულაცია"
 
 msgid "Simulation Games"
 msgstr ""
@@ -674,20 +599,17 @@ msgstr "ხმა"
 msgid "Sports"
 msgstr "სპორტი"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "მაგიდის თამაშები"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "ელცხრილი"
+msgstr ""
 
 msgid "Strategy"
 msgstr "სტრატეგიული"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "სტრატეგიული"
+msgstr ""
 
 msgid "System"
 msgstr "სისტემა"
@@ -695,34 +617,29 @@ msgstr "სისტემა"
 msgid "System Tools"
 msgstr "სისტემური ხელსაწყოები"
 
-#, fuzzy
 msgid "System settings"
-msgstr "პარამეტრები"
+msgstr ""
 
 msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "ტელე და რადიო"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "გრაფიკული პროგრამები"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "პროგრამები"
+msgstr ""
 
-#, fuzzy
 msgid "Teaching Tools"
-msgstr "მენიუს განახლების პროგრამა"
+msgstr ""
 
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "ტექსტის ხელსაწყოები"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -730,17 +647,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "კონსოლის პროგრამები"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "ტერმინალი"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "ტექსტის ხელსაწყოები"
+msgstr ""
 
 msgid "Text tools"
 msgstr "ტექსტის ხელსაწყოები"
@@ -751,9 +665,8 @@ msgstr ""
 msgid "Tools"
 msgstr "ხელსაწყოები"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "პროგრამირების ხელსაწყოები"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -761,13 +674,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "ნაგულისხმები პროგრამების ამორჩევა"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "ნაგულისხმები პროგრამების ამორჩევა"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -793,348 +704,59 @@ msgstr "სათამაშოები"
 msgid "Translation"
 msgstr "თარგმნა"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "თარგმნა"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "\"ბრმა\" ბეჭდვის შესწავლა"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "გრაფიკა"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "გრაფიკული პროგრამები"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "ვიდეო"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "პარამეტრები"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "აუდიოდამკვრელი"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "ხმის ჩამწერი"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "შრიფტის დათვალიერება"
+msgstr "მნახველები"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "ვებ ბრაუზერი"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "ვებ ბრაუზერი"
+msgstr "ინტერნეტი"
 
 msgid "Web Development"
-msgstr "ვებ პროგრამირება"
+msgstr "ვებ-პროგრამირება"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "ტექსტის რედაქტორი"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "ფოსტის კლიენტი"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

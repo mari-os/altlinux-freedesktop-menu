@@ -1,76 +1,64 @@
-# Jan Matis <damned@hq.alert.sk>, 2000,2001.
-# Pavol Cvengros <orpheus@hq.alert.sk>, 2001, 2003.
-# Pavol Cvengros <orpheus@lothlorien.sk>, 2003.
-# Michal Holes <Michal@Holes.sk>, 2004,2005.
-# Tibor Pittich <Tibor.Pittich@phuture.sk>, 2003, 2004,2005.
+# Slovak translation of menu_po-sections.
+# This file is distributed under the same license as the menu_po-sections package.
+# Ivan Masár <helix84@centrum.sk>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu_po-sections\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2005-09-21 14:20+0100\n"
-"Last-Translator: Tibor Pittich <Tibor.Pittich@mandriva.org>\n"
-"Language-Team: Slovak <i18n@mandrake.sk>\n"
+"PO-Revision-Date: 2009-04-07 00:15+0100\n"
+"Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Grafické aplikácie"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Grafické aplikácie"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Hry a zábava"
+msgstr ""
 
 msgid "Accessibility"
 msgstr "Prístupnosť"
 
-#, fuzzy
 msgid "Action"
-msgstr "Vzdelávanie"
+msgstr "Akčné"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Action-puzzle hra"
-
-#, fuzzy
-msgid "AddressBooks"
-msgstr "KAddressBook"
-
-msgid "Administration"
-msgstr "Správa"
-
-msgid "Adventure"
-msgstr "Adventúry"
-
-#, fuzzy
-msgid "Adventure style games"
-msgstr "Ďalšia hra podobná Tetrisu"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "Správa systému"
+
+msgid "Adventure"
+msgstr "Dobrodružné"
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr "Amatérske rádio"
+
 msgid "Application to burn a disc"
-msgstr "Vyhľadávač aplikácií"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -90,54 +78,44 @@ msgstr ""
 msgid "Arcade"
 msgstr "Akčné hry"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Arcade video hra"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Archivačný nástroj"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Umelá inteligencia"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Umelá inteligencia"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Astronómia"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astronómia"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Editor audio tagov"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Audio prehrávač"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Záznam zvuku"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Zálohy"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biológia"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Morfovací softvér"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -154,16 +132,14 @@ msgstr ""
 msgid "Calculator"
 msgstr "Kalkulačka"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Kalkulačka"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Kalendár"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Sada Java nástrojov"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Kartové hry"
@@ -171,28 +147,23 @@ msgstr "Kartové hry"
 msgid "Cards"
 msgstr "Karty"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "Chat"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Chémia"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Chémia"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "KBlocks"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Aplikácie"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -200,25 +171,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Počítačové vedy"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Počítačové vedy"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Počítačové vedy"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Počítačové vedy"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Konfiguračný editor"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Hra s budovaním siete"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -226,16 +189,14 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Vizualizácia dát"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Vizualizácia dát"
+msgstr ""
 
 msgid "Databases"
 msgstr "Databáze"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Ďalšie aplikácie"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Pracovná plocha"
@@ -243,27 +204,23 @@ msgstr "Pracovná plocha"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Prvky pracovnej plochy"
+msgstr ""
 
 msgid "Development"
 msgstr "Vývoj"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Vývojové prostredia"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "3D grafický program"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Slovník"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Slovník"
@@ -289,24 +246,20 @@ msgstr "Vzdelávanie"
 msgid "Electricity"
 msgstr "Elektro"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Elektro"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Elektro"
+msgstr "Elektronika"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Grafické aplikácie"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -315,45 +268,37 @@ msgid "Emulators"
 msgstr "Emulátory"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Inžinierstvo"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Hra s padajúcimi blokmi"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Hra s padajúcimi blokmi"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Správca súborov"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Systém"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Správca súborov"
+msgstr "Prenos súborov"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Systémové nástroje"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Textové nástroje"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Veda"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -361,13 +306,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt Dizajnér"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Grafické aplikácie"
+msgstr ""
 
 msgid "Games"
 msgstr "Hry"
@@ -381,21 +324,17 @@ msgstr "Hry pre deti"
 msgid "Geography"
 msgstr "Zemepis"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biológia"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Morfovací softvér"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Geo vedy"
+msgstr "Vedy o Zemi"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Geo vedy"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Geo vedy"
@@ -403,9 +342,8 @@ msgstr "Geo vedy"
 msgid "Graphics"
 msgstr "Grafika"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Morfovací softvér"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Hardvér"
@@ -413,38 +351,32 @@ msgstr "Hardvér"
 msgid "History"
 msgstr "História"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC klient"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Spracovanie obrazu"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Spracovanie obrazu"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Instant Messaging"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Univerzálny  Instant Messaging klient"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Ďalšie aplikácie"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -467,49 +399,41 @@ msgstr "Logické hry"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Morfovací softvér"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Matematika"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "DJ Software"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Morfovací softvér"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Monitorovanie"
 
 msgid "Multimedia"
 msgstr "Multimédiá"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Menu multimédií"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Multimédia prehrávač"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Multimédia prehrávač"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Morfovací softvér"
+msgstr ""
 
 msgid "Network"
 msgstr "Sieť"
@@ -526,9 +450,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Numerická analýza"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Numerická analýza"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -545,16 +468,14 @@ msgstr "Ostatné"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Kresliaci program"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Terminálové aplikácie"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Práca s balíkmi"
@@ -562,9 +483,8 @@ msgstr "Práca s balíkmi"
 msgid "Parallel Computing"
 msgstr "Súbežné spracovanie dát"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Súbežné spracovanie dát"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -572,41 +492,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Osobné"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Zemepis"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fyzika"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Morfovací softvér"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Nastavenia"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Prezentácia"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Prezentácia"
+msgstr ""
 
 msgid "Printing"
 msgstr "Tlač"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Archivačný nástroj"
+msgstr ""
 
 msgid "Project Management"
-msgstr "Správca projektov"
+msgstr "Riadenie projektov"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Správca projektov"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -614,28 +528,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafika"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Grafické aplikácie"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Vzdialená pracovná plocha"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Nastavenie hlasitosti"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Robotika"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Morfovací softvér"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -647,43 +556,37 @@ msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr "Vedecký"
+msgstr "Veda"
 
 msgid "Screensavers"
 msgstr "Šetriče obrazovky"
 
 msgid "Security"
-msgstr "Zabezpečenie"
+msgstr "Bezpečnosť"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Zabezpečenie"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI sekvencér"
+msgstr ""
 
 msgid "Settings"
 msgstr "Nastavenia"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Minitel emulácia"
+msgstr "Simulátory"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Hra o prieskume vesmíru"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Inštalátor softvéru"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Manažér zdrojov softvéru"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -694,20 +597,17 @@ msgstr "Zvuk"
 msgid "Sports"
 msgstr "Športy"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Stolové hry"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Tabuľkový procesor"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Stratégia"
+msgstr "Strategické"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Stratégia"
+msgstr ""
 
 msgid "System"
 msgstr "Systém"
@@ -718,31 +618,26 @@ msgstr "Systémové nástroje"
 msgid "System settings"
 msgstr "Systémové nastavenia"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Zobrazenie a nahlasovanie pádov aplikácií"
+msgid "TV and Radio"
+msgstr "TV a rádio"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "Aplikácie"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Výukové nástroje"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "ISDN telefón"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Textové nástroje"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -750,17 +645,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Terminálové aplikácie"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminál"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Textové nástroje"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Textové nástroje"
@@ -771,9 +663,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Nástroje"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Nástroje pre softvérový vývoj"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -781,13 +672,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Nastavenie štandardných aplikácií"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Nastavenie štandardných aplikácií"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -795,9 +684,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Nastavenie tlačiarní"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -814,1618 +702,59 @@ msgstr "Hračky"
 msgid "Translation"
 msgstr "Preklad"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Preklad"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Výuka písania na stroji"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "editor vektorovej grafiky"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Grafické aplikácie"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Nastavenia"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Prehrávač videa"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Digital Video Recorder"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Prehliadače"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Webový prehliadač"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Webový prehliadač"
+msgstr "Prehliadanie webu"
 
 msgid "Web Development"
-msgstr "Vývoj pre Web"
+msgstr "Vývoj webu"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Textový procesor"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Whois klient"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

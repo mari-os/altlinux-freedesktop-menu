@@ -1,100 +1,74 @@
-# menu-messages-main-fi - Finnish Translation
-#
-# Copyright (C) 2002,2003, 2004, 2005 Free Software Foundation, Inc.
-# Copyright (C) 2002 MandrakeSoft
-#
-#
-# Kim Enkovaara <kim.enkovaara@iki.fi>, 2000.
-# Matias Griese <mahagr@utu.fi>, 2001, 2002.
-# Janne Puonti <janne.puonti@kolumbus.fi>, 2001.
-# Taisto Kuikka <69319@batman.jypoly.fi>, 2003, 2004.
-# Thomas Backlund <tmb@mandrake.org>, 2002, 2003, 2004, 2005.
-# Anssi Hannula <anssi@mandriva.org>, 2008, 2009.
-# Thomas Backlund <tmb@mandriva.org>, 2009.
-# Jani Välimaa <wally@mandriva.org>, 2009, 2010.
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
+# Tommi Vainikainen, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages-main\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2010-08-24 18:50+0300\n"
-"Last-Translator: Jani Välimaa <wally@mandriva.org>\n"
-"Language-Team: Finnish <cooker-i18n@mandrivalinux.org>\n"
+"PO-Revision-Date: 2008-05-04 15:03+0300\n"
+"Last-Translator: Tommi Vainikainen <thv+debian@iki.fi>\n"
+"Language-Team: Finnish <debian-l10n-finnish@lists.debian.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafiikka"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Grafiikkasovellukset"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafiikka"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Grafiikkasovellukset"
+msgstr ""
 
-#, fuzzy
 msgid "A clock application/applet"
-msgstr "Yksinkertainen videosovellus"
+msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Pelit ja viihde"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Helppokäyttötoiminnot"
+msgstr "Esteettömyys"
 
-#, fuzzy
 msgid "Action"
-msgstr "Opetus"
+msgstr "Toiminta"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Toiminta/ongelmanratkaisupeli"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "Osoitekirja"
+msgstr ""
 
 msgid "Administration"
-msgstr "Ylläpito"
+msgstr "Hallinta"
 
 msgid "Adventure"
 msgstr "Seikkailu"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Tetriksen tyylinen peli"
+msgstr ""
 
-#, fuzzy
 msgid "Amateur Radio"
-msgstr "QtRadio"
+msgstr "Amatööriradio"
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Sovellustenhakutyökalu"
+msgstr ""
 
-#, fuzzy
 msgid "Application to manage your finance"
-msgstr "Graafinen työkalu Screenletsien hallintaan"
+msgstr ""
 
 msgid "Applications"
 msgstr "Sovellukset"
 
-#, fuzzy
 msgid "Applications like cvs or subversion"
-msgstr "Hallitse käynnistettäviä sovelluksia"
+msgstr ""
 
 msgid "Applications to manage a database"
 msgstr ""
@@ -105,58 +79,47 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arcade"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Arcade-videopeli"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Pakettienhallintatyökalu"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Tekoäly (AI)"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Tekoäly (AI)"
+msgstr ""
 
 msgid "Astronomy"
-msgstr "Tähtitiede"
+msgstr "Astronomia"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Tähtitiede"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "Äänitiedostojen tunniste-editori"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Musiikkisoitin"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Ääninauhuri"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Varmuuskopiot"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biologia"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Kirjanpito-ohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Blogs"
-msgstr "Blogilo"
+msgstr ""
 
 msgid "Board Games"
 msgstr "Lautapelit"
@@ -164,23 +127,20 @@ msgstr "Lautapelit"
 msgid "Boards"
 msgstr "Lautapelit"
 
-#, fuzzy
 msgid "Building"
-msgstr "Rakenna palikoista"
+msgstr ""
 
 msgid "Calculator"
 msgstr "Laskin"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Laskin"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Kalenteri"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Java-työkalut"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Korttipelit"
@@ -188,27 +148,23 @@ msgstr "Korttipelit"
 msgid "Cards"
 msgstr "Korttipelit"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "IRC-keskustelu"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "Kemia"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kemia"
+msgstr ""
 
 msgid "Clock"
 msgstr "Kello"
 
-#, fuzzy
 msgid "Communications"
-msgstr "Huomautukset"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -216,25 +172,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Tietokonetieteet"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Tietokonetieteet"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Tietokonetieteet"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Tietokonetieteet"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Compizin asetusohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Boa Constructor"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -242,9 +190,8 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Datan havainnollistaminen"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Datan havainnollistaminen"
+msgstr ""
 
 msgid "Databases"
 msgstr "Tietokannat"
@@ -258,34 +205,29 @@ msgstr "Työpöytä"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Työpöytäelementit"
+msgstr ""
 
 msgid "Development"
 msgstr "Kehitystyökalut"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Kehitysympäristöt"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "3D-kaaviointiohjelma"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Sanakirja"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Sanakirja"
 
-#, fuzzy
 msgid "Disc burning"
-msgstr "Levyn poltto"
+msgstr ""
 
 msgid "Documentation"
 msgstr "Ohjeet"
@@ -300,29 +242,25 @@ msgid "Editors"
 msgstr "Editorit"
 
 msgid "Education"
-msgstr "Opetus"
+msgstr "Koulutus"
 
 msgid "Electricity"
 msgstr "Sähköoppi"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Sähköoppi"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Sähköoppi"
+msgstr "Elektroniikka"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Grafiikkasovellukset"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -331,59 +269,49 @@ msgid "Emulators"
 msgstr "Emulaattorit"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Suunnittelu"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Sovita putoavat palikat yhteen"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Sovita putoavat palikat yhteen"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Tiedostonhallinta"
+msgstr ""
 
 msgid "File Systems"
 msgstr "Tiedostojärjestelmät"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Tiedostonhallinta"
+msgstr "Tiedostonsiirto"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Tiedostojärjestelmät"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Tekstityökalut"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Tiede"
+msgstr ""
 
-#, fuzzy
 msgid "Flow Chart"
-msgstr "Äänikeskustelut"
+msgstr ""
 
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt3 Designer"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Kehittynyt muistiinpano-ohjelma"
+msgstr ""
 
 msgid "Games"
 msgstr "Pelit"
@@ -397,21 +325,17 @@ msgstr "Lasten pelit"
 msgid "Geography"
 msgstr "Maantiede"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biologia"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Sulautusohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
 msgstr "Maantiede"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Maantiede"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Maantiede"
@@ -419,9 +343,8 @@ msgstr "Maantiede"
 msgid "Graphics"
 msgstr "Grafiikka"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Sulautusohjelma"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Laitteisto"
@@ -429,38 +352,32 @@ msgstr "Laitteisto"
 msgid "History"
 msgstr "Historia"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC-asiakasohjelma"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Kuvankäsittely"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Kuvankäsittely"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Pikaviestiohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Universaali pikaviestin"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Lisää sovelluksia"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -483,51 +400,41 @@ msgstr "Logiikkapelit"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Sulautusohjelma"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Matematiikka"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Medical Imaging Public Software"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Sulautusohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Äänenvoimakkuus"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Näytöt"
+msgstr "Seuranta"
 
 msgid "Multimedia"
 msgstr "Multimedia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Multimediasovellus"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Multimediasoitin"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Moniraitanauhuri"
+msgstr ""
 
-#, fuzzy
 msgid "Music"
-msgstr "lnkmusic"
+msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Sulautusohjelma"
+msgstr ""
 
 msgid "Network"
 msgstr "Verkko"
@@ -535,9 +442,8 @@ msgstr "Verkko"
 msgid "Network-related settings"
 msgstr "Verkkoon liittyvät asetukset"
 
-#, fuzzy
 msgid "News"
-msgstr "Sähköposti / uutisryhmät"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -545,9 +451,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Numeerinen analysointi"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Numeerinen analysointi"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -564,16 +469,14 @@ msgstr "Muut"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Yksinkertainen piirto-ohjelma"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Kehittynyt muistiinpano-ohjelma"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pakettienhallinta"
@@ -581,9 +484,8 @@ msgstr "Pakettienhallinta"
 msgid "Parallel Computing"
 msgstr "Rinnakkaislaskenta"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Rinnakkaislaskenta"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -591,41 +493,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Henkilökohtaiset"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Maantiede"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fysiikka"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Sulautusohjelma"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Asetukset"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Esitys"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Esitys"
+msgstr ""
 
 msgid "Printing"
 msgstr "Tulostus"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Pakettienhallintatyökalu"
+msgstr ""
 
 msgid "Project Management"
 msgstr "Projektinhallinta"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Tulostuksenhallintasovellus"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -633,82 +529,68 @@ msgstr ""
 msgid "ROX"
 msgstr "ROX"
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafiikka"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Grafiikkasovellukset"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Graafinen etäkäyttö"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Versionhallinnan graafinen käyttöliittymä"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Robotiikka"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Kirjanpito-ohjelma"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
 
-#, fuzzy
 msgid "Role playing games"
-msgstr "Rallipeli"
+msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "XSane - Skannaaja"
+msgstr ""
 
 msgid "Science"
-msgstr "Luonnontieteet"
+msgstr "Tiede"
 
 msgid "Screensavers"
 msgstr "Näytönsäästäjät"
 
 msgid "Security"
-msgstr "Turvallisuus"
+msgstr "Tietoturva"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Turvallisuus"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI-sekvensseri"
+msgstr ""
 
 msgid "Settings"
 msgstr "Asetukset"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Kaupungin simulointiohjelma"
+msgstr "Simulaatio"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Kaupungin simulointiohjelma"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Ohjelmistopäivitysten katselin"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Ohjelmistolähteiden hallinta"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "Ohjelmistolähteet"
+msgstr ""
 
 msgid "Sound"
 msgstr "Ääni"
@@ -716,20 +598,17 @@ msgstr "Ääni"
 msgid "Sports"
 msgstr "Urheilu"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Lautapelit"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Taulukkolaskenta"
+msgstr ""
 
 msgid "Strategy"
 msgstr "Strategia"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strategia"
+msgstr ""
 
 msgid "System"
 msgstr "Järjestelmä"
@@ -740,31 +619,26 @@ msgstr "Järjestelmätyökalut"
 msgid "System settings"
 msgstr "Järjestelmän asetukset"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Näytä ja raportoi sovellusten kaatumiset"
+msgid "TV and Radio"
+msgstr "TV ja radio"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "Sovellukset"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Opetusvälineet"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Alephone"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Tekstityökalut"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -772,17 +646,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Päätesovellukset"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Pääte"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Tekstityökalut"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Tekstityökalut"
@@ -793,9 +664,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Työkalut"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Työkalut sovellusten kehittämiseen"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -803,13 +673,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Valitse käytettävät oletussovellukset"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Vianjäljitys-ohjelmat"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -817,9 +685,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Aseta tulostimet"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -836,4458 +703,59 @@ msgstr "Lelut"
 msgid "Translation"
 msgstr "Kääntäminen"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Kääntäminen"
+msgstr ""
 
-#, fuzzy
 msgid "Tuners"
-msgstr "aTunes"
+msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "Kymmensormijärjestelmän opetusohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Vektorigrafiikkatyökalu"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Grafiikkasovellukset"
+msgstr ""
 
-#, fuzzy
 msgid "Video"
-msgstr "VideoCut"
+msgstr "Video"
 
-#, fuzzy
 msgid "Video Conference software"
-msgstr "Kirjanpito-ohjelma"
+msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Videomuunnin"
+msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "Videoeditori"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Videosoitin"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Digitaalinen videonauhuri"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Katselimet"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Internet-selain"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Internet-selain"
+msgstr "WWW-selailu"
 
 msgid "Web Development"
-msgstr "Web-kehitys"
+msgstr "WWW-kehitys"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Tekstinkäsittely"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Sähköpostiohjelmat"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

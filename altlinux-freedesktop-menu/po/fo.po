@@ -17,21 +17,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Teknindi"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Tekstforrit"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Teknindi"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
@@ -45,9 +41,8 @@ msgstr ""
 msgid "Action"
 msgstr ""
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Taktiskt spæl"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
@@ -70,9 +65,8 @@ msgstr ""
 msgid "Application to manage your finance"
 msgstr ""
 
-#, fuzzy
 msgid "Applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -128,13 +122,11 @@ msgstr ""
 msgid "Blogs"
 msgstr ""
 
-#, fuzzy
 msgid "Board Games"
-msgstr "Borðspæl"
+msgstr ""
 
-#, fuzzy
 msgid "Boards"
-msgstr "Borðspæl"
+msgstr ""
 
 msgid "Building"
 msgstr ""
@@ -151,9 +143,8 @@ msgstr ""
 msgid "Camera tools, etc."
 msgstr ""
 
-#, fuzzy
 msgid "Card Games"
-msgstr "Kortspøl"
+msgstr ""
 
 msgid "Cards"
 msgstr ""
@@ -185,9 +176,6 @@ msgstr ""
 msgid "Computer Science software"
 msgstr ""
 
-msgid "Computer Sience software"
-msgstr ""
-
 msgid "Computer science"
 msgstr ""
 
@@ -209,9 +197,8 @@ msgstr ""
 msgid "Databases"
 msgstr ""
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Skriviborð"
@@ -219,20 +206,17 @@ msgstr "Skriviborð"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Hentleikar"
+msgstr ""
 
 msgid "Development"
 msgstr "Menning"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Menning"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Tekniforrit"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
@@ -276,16 +260,14 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
-#, fuzzy
 msgid "Emulators"
-msgstr "Ritlar"
+msgstr ""
 
 msgid "Engineering"
 msgstr ""
@@ -299,17 +281,14 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Fíluhandfarari"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Kervi"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Fíluhandfarari"
+msgstr ""
 
 msgid "File system tools"
 msgstr ""
@@ -332,9 +311,8 @@ msgstr ""
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Games"
 msgstr "Spøl"
@@ -399,9 +377,8 @@ msgstr ""
 msgid "Internet"
 msgstr ""
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -418,9 +395,8 @@ msgstr "Mál"
 msgid "Literature"
 msgstr ""
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Rogue-lík spøl"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -446,17 +422,14 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Fleirmiðla"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Fleirmiðla"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Fleirmiðla"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Fleirmiðla"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -503,9 +476,8 @@ msgstr ""
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Packaging"
 msgstr ""
@@ -546,13 +518,11 @@ msgstr ""
 msgid "Profiling tools"
 msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "KDE-villuhandfaring"
+msgstr ""
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -560,13 +530,11 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Teknindi"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Remote access"
 msgstr ""
@@ -631,16 +599,14 @@ msgstr "Ljóð"
 msgid "Sports"
 msgstr ""
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Borðspæl"
+msgstr ""
 
 msgid "Spreadsheets"
 msgstr ""
 
-#, fuzzy
 msgid "Strategy"
-msgstr "Taktikkur og strategi"
+msgstr ""
 
 msgid "Strategy Games"
 msgstr ""
@@ -648,13 +614,11 @@ msgstr ""
 msgid "System"
 msgstr "Kervi"
 
-#, fuzzy
 msgid "System Tools"
-msgstr "Skipanaryvirvakari"
+msgstr ""
 
-#, fuzzy
 msgid "System settings"
-msgstr "Uppseting"
+msgstr ""
 
 msgid "TV"
 msgstr ""
@@ -662,13 +626,11 @@ msgstr ""
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Tekstforrit"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr ""
@@ -685,20 +647,17 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Tekstforrit"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Text tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "Text tools"
-msgstr "Tekstritil"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
@@ -715,9 +674,8 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Tools to debug applications"
 msgstr ""
@@ -743,9 +701,8 @@ msgstr ""
 msgid "Toys"
 msgstr "Leiku"
 
-#, fuzzy
 msgid "Translation"
-msgstr "Transmission"
+msgstr ""
 
 msgid "Translation tools"
 msgstr ""
@@ -756,13 +713,11 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Teknindi"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Tekstforrit"
+msgstr ""
 
 msgid "Video"
 msgstr ""
@@ -785,17 +740,14 @@ msgstr ""
 msgid "Viewers"
 msgstr ""
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Vevlesari"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Vevlesari"
+msgstr ""
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Menning"
+msgstr ""
 
 msgid "Web Publishing"
 msgstr ""
@@ -808,6 +760,20 @@ msgstr ""
 
 msgid "chat clients"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,84 +1,67 @@
+# Menu section translation to Bahasa Indonesia
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
 #
-# Latest versions of po files are at http://www.mandrivalinux.com/l10n/id.php3
-#
-# MenuMessages Bahasa Indonesia
-# Copyright (C) 2000 Mandriva
-# Budi Rachmanto <rac@linux-mandrake.com>, 2001 - 2003
-# Willy Sudiarto Raharjo <willysr@gmail.com>, 2004 - 2006.
-# Erwien Samantha <erwiensamantha@gmail.com>, 2005.
-# Bayu Artanto <bayuart@yahoo.com>, 2005.
-# Ahmad Ramadhana <ahmad_ramadhana@yahoo.com.sg>, 2005.
-# Firdaus <dausnux@gmail.com>, 2005.
-# Sofian <sofianhanafi@yahoo.com>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 0.1\n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2007-02-24 10:01+0700\n"
-"Last-Translator: Willy Sudiarto Raharjo <willysr@gmail.com>\n"
-"Language-Team: Indonesia <mdk-id@yahoogroups.com>\n"
+"PO-Revision-Date: 2008-03-08 15:54+0700\n"
+"Last-Translator: Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>\n"
+"Language-Team: Debian Indonesian Team <debian-l10n-id@gurame.fisika.ui.ac."
+"id>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafis"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Aplikasi grafis"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafis"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Aplikasi grafis"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Permainan dan hiburan"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Aksesibiliti"
+msgstr "Aksesibilitas"
 
-#, fuzzy
 msgid "Action"
-msgstr "Pendidikan"
+msgstr "Pertarungan"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Permainan aksi-teka-teki"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
-msgstr "Administrasi"
+msgstr "Administrasi Sistem"
 
 msgid "Adventure"
 msgstr "Petualangan"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Permainan mirip Tetris"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Radio Amatir"
+
 msgid "Application to burn a disc"
-msgstr "Pencari Aplikasi"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -96,55 +79,46 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Arcade"
+msgstr "Pertempuran"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Permainan video arcade"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Perkakas Pengarsip"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "Kecerdasan Buatan"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Kecerdasan Buatan"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Astronomi"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astronomi"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Pemutar Audio"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Perekam Suara"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "backup"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biologi"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -161,16 +135,14 @@ msgstr ""
 msgid "Calculator"
 msgstr "Kalkulator"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Kalkulator"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Kalender"
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Toolset Java"
+msgstr ""
 
 msgid "Card Games"
 msgstr "Permainan Kartu"
@@ -178,9 +150,8 @@ msgstr "Permainan Kartu"
 msgid "Cards"
 msgstr "Kartu"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KCharSelect"
+msgstr ""
 
 msgid "Chat"
 msgstr ""
@@ -188,17 +159,14 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Kimia"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kimia"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "wmMoonClock"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Notifikasi"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -206,25 +174,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Ilmu komputer"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Ilmu komputer"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Ilmu komputer"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Ilmu komputer"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Perkakas Konfigurasi ODBC (Pengguna Root)"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Administrasi"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -232,16 +192,14 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Visualisasi Data"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Visualisasi Data"
+msgstr ""
 
 msgid "Databases"
 msgstr "Basis Data"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Aplikasi Selebihnya"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -249,27 +207,23 @@ msgstr "Desktop"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Widget Desktop"
+msgstr ""
 
 msgid "Development"
 msgstr "Pengembangan"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Lingkungan Pengembangan"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Program grafik 3D"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Kamus"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Kamus"
@@ -295,24 +249,20 @@ msgstr "Pendidikan"
 msgid "Electricity"
 msgstr "Kelistrikan"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Kelistrikan"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Kelistrikan"
+msgstr "Elektronika"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Aplikasi grafis"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -321,44 +271,37 @@ msgid "Emulators"
 msgstr "Emulator"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Teknik & Rekayasa"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Paskan blok jatuh bersamaan"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Paskan blok jatuh bersamaan"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Manajer File"
+msgstr ""
 
 msgid "File Systems"
 msgstr "File Sistem"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Manajer File"
+msgstr "Transfer Berkas"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "File Sistem"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Perkakas teks"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Ilmu Pengetahuan"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -366,13 +309,11 @@ msgstr ""
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt Designer"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Aplikasi outline tingkat mahir"
+msgstr ""
 
 msgid "Games"
 msgstr "Permainan"
@@ -386,31 +327,26 @@ msgstr "Permainan Kanak-kanak"
 msgid "Geography"
 msgstr "Geografi"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biologi"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Geoscience"
+msgstr "Geosains"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Geoscience"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Geoscience"
 
 msgid "Graphics"
-msgstr "Grafis"
+msgstr "Pengolah Gambar"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Perangkat Keras"
@@ -418,38 +354,32 @@ msgstr "Perangkat Keras"
 msgid "History"
 msgstr "Sejarah"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Klien IM"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Pengolah Citra"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Pengolah Citra"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Pesan Instan"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Klien Pesan Instan Universal"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Aplikasi Selebihnya"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -472,50 +402,41 @@ msgstr "Permainan Logika"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Matematika"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Perangkat Lunak DJ"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Mixer"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "Monitor"
+msgstr "Pemantauan"
 
 msgid "Multimedia"
 msgstr "Multimedia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Menu multimedia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Multimedia Player"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Multimedia Player"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
 msgid "Network"
 msgstr "Jaringan"
@@ -523,9 +444,8 @@ msgstr "Jaringan"
 msgid "Network-related settings"
 msgstr "Penataan terkait jaringan"
 
-#, fuzzy
 msgid "News"
-msgstr "Mail/Berita"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -533,15 +453,14 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Analisa Numeris"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Analisa Numeris"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "Perkantoran"
+msgstr "Program Kantoran"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -552,16 +471,14 @@ msgstr "Lainnya"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Program lukis"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Aplikasi outline tingkat mahir"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pemaketan"
@@ -569,9 +486,8 @@ msgstr "Pemaketan"
 msgid "Parallel Computing"
 msgstr "Komputasi Paralel"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Komputasi Paralel"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -579,42 +495,35 @@ msgstr ""
 msgid "Personal"
 msgstr "Pribadi"
 
-#, fuzzy
 msgid "Photography"
-msgstr "Geografi"
+msgstr ""
 
 msgid "Physics"
 msgstr "Fisika"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Pengaturan"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Dokumentasi"
+msgstr ""
 
 msgid "Printing"
 msgstr "Pencetakan"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "Perkakas Pengarsip"
+msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "Manajemen Daya"
+msgstr "Manajemen Proyek"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Aplikasi Pilihan"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -622,81 +531,68 @@ msgstr ""
 msgid "ROX"
 msgstr "ROX"
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafis"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Aplikasi grafis"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Desktop Remote"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Pengatur Volume"
+msgstr ""
 
 msgid "Robotics"
 msgstr "Robot"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Perangkat Lunak Morphing"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
 
-#, fuzzy
 msgid "Role playing games"
-msgstr "Permainan balap rally"
+msgstr ""
 
 msgid "Scanning"
 msgstr ""
 
 msgid "Science"
-msgstr "Sains"
+msgstr "IPTEK"
 
 msgid "Screensavers"
 msgstr "Screensaver"
 
 msgid "Security"
-msgstr "Keamanan"
+msgstr "Keamanan Sistem"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Keamanan"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Sekuenser MIDI"
+msgstr ""
 
 msgid "Settings"
 msgstr "Pengaturan"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Emulasi minitel"
+msgstr "Simulasi"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Permainan Eksplorasi Luar Angkasa"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "Penilik Pemutakhiran Perangkat Lunak"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Manajer Media Perangkat Lunak"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "Sumber Perangkat Lunak"
+msgstr ""
 
 msgid "Sound"
 msgstr "Suara"
@@ -704,20 +600,17 @@ msgstr "Suara"
 msgid "Sports"
 msgstr "Olahraga"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Permainan Papan"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Lembar kerja"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Strategi"
+msgstr "Taktik dan Strategi"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Permainan Strategi"
+msgstr ""
 
 msgid "System"
 msgstr "Sistem"
@@ -728,31 +621,26 @@ msgstr "Peralatan Sistem"
 msgid "System settings"
 msgstr "Penataan sistem"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Lihat dan laporkan crash applikasi"
+msgid "TV and Radio"
+msgstr "Radio dan TV"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "Aplikasi"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "Alat Pengajaran"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Telepon ISDN"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Perkakas teks"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -760,17 +648,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Aplikasi Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminal"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Perkakas teks"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Perkakas teks"
@@ -779,11 +664,10 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Perkakas"
+msgstr "Peralatan"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Alat untuk pengembangan perangkat lunak"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -791,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Silakan pilih aplikasi utama"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Silakan pilih aplikasi utama"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -805,9 +687,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "Konfigurasi printer"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -824,9 +705,8 @@ msgstr "Mainan"
 msgid "Translation"
 msgstr "Terjemahan"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "Terjemahan"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
@@ -834,49 +714,41 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Editor Grafis Vektor"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Aplikasi grafis"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Pengaturan"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Pemutar Video"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Perekam Video Digital"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Penampil Dokumen"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Browser Web"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Browser Web"
+msgstr "Jelajah Situs"
 
 msgid "Web Development"
-msgstr "Pengembangan Web"
+msgstr "Pengembangan Situs"
 
 msgid "Web Publishing"
 msgstr ""
@@ -887,1794 +759,5 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Klien mail"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

@@ -1,79 +1,67 @@
-# translation of menu-main.po to Arabic
+# translation of menu_po-sections.po to Arabic
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
 #
-# Mohammed Gamal <f2c2001@yahoo.com>, 2001.
-# Youcef Rabah Rahal <rahal@arabeyes.org>, 2004.
-# Ossama M. Khayat <okhayat@yahoo.com>, 2004, 2005.
-# Ma'moun Diraneyya <mamoun.diraneyya@gmail.com>, 2009.
+# Bill Allombert <ballombe@debian.org>, 2003.
+# Ossama M. Khayat <okhayat@yahoo.com>, 2005, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-main\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu_po-sections\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2009-04-14 03:55+0300\n"
-"Last-Translator: Ma'moun Diraneyya <mamoun.diraneyya@gmail.com>\n"
-"Language-Team: Arabic <doc@arabeyes.org>\n"
+"PO-Revision-Date: 2008-07-16 22:06+0300\n"
+"Last-Translator: Ossama M. Khayat <okhayat@yahoo.com>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "رسوميات"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "تطبيقات رسوميات"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "رسوميات"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "تطبيقات رسوميات"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "ألعاب وتسلية"
-
-msgid "Accessibility"
-msgstr "إتاحة"
-
-#, fuzzy
-msgid "Action"
-msgstr "تعليم"
-
-#, fuzzy
-msgid "Action Games"
-msgstr "لعبة أحاجي"
-
-#, fuzzy
-msgid "AddressBooks"
-msgstr "دفتر عناوين‌ك"
-
-msgid "Administration"
-msgstr "إدارة"
-
-msgid "Adventure"
-msgstr "مغامرة"
-
-#, fuzzy
-msgid "Adventure style games"
-msgstr "لعبة مشابهة لتيتريس (Tetris)"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Accessibility"
+msgstr "الموصليّة"
+
+msgid "Action"
+msgstr "الحركة"
+
+msgid "Action Games"
+msgstr ""
+
+msgid "AddressBooks"
+msgstr ""
+
+msgid "Administration"
+msgstr "الإدارة"
+
+msgid "Adventure"
+msgstr "المغامرة"
+
+msgid "Adventure style games"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr "هواة اللاسلكي"
+
 msgid "Application to burn a disc"
-msgstr "تطبيقات"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -93,53 +81,44 @@ msgstr ""
 msgid "Arcade"
 msgstr "أركيد"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "لعبة فيديو أركيد"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "أداة أرشفة"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "أرشيف‌ك"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr "ذكاء اصطناعي"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "ذكاء اصطناعي"
+msgstr ""
 
 msgid "Astronomy"
-msgstr "فلك"
+msgstr "الفلك"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "فلك"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "مُشغل أصوات"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "مُسجل الأصوات"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "نسخ احتياطي"
+msgstr ""
 
 msgid "Biology"
-msgstr "أحياء"
+msgstr "الأحياء"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Morphing software"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -156,9 +135,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "حاسبة"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "حاسبة"
+msgstr ""
 
 msgid "Calendar"
 msgstr "تقويم "
@@ -172,28 +150,23 @@ msgstr "ألعاب ورقية"
 msgid "Cards"
 msgstr "ورقية"
 
-#, fuzzy
 msgid "Chart"
-msgstr "منتقي محارف‌ك"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "XChat IRC"
+msgstr ""
 
 msgid "Chemistry"
-msgstr "كيمياء"
+msgstr "الكيمياء"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "كيمياء"
+msgstr ""
 
-#, fuzzy
 msgid "Clock"
-msgstr "ساعةإكس"
+msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "تطبيقات"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -201,25 +174,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "علوم حاسوب"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "علوم حاسوب"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "علوم حاسوب"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "علوم حاسوب"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "محرّر الضبط"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "لعبة توصيل الشبكة"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -227,16 +192,14 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "تمثيل بياني"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "تمثيل بياني"
+msgstr ""
 
 msgid "Databases"
 msgstr "قواعد بيانات"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "تطبيقات أكثر"
+msgstr ""
 
 msgid "Desktop"
 msgstr "سطح المكتب"
@@ -244,27 +207,23 @@ msgstr "سطح المكتب"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "ودجات سطح المكتب"
+msgstr ""
 
 msgid "Development"
 msgstr "تطوير"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "بيئات تطوير"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "برنامج رسوم بيانية ثلاثية الأبعاد"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "القاموس"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "القاموس"
@@ -282,78 +241,67 @@ msgid "Economy"
 msgstr "اقتصاد"
 
 msgid "Editors"
-msgstr "محررات"
+msgstr "المحررات"
 
 msgid "Education"
-msgstr "تعليم"
+msgstr "التعليم"
 
 msgid "Electricity"
 msgstr "كهرباء"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "كهرباء"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "كهرباء"
+msgstr "الإلكترونيات"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "صندوق‌بريد إكس"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "تطبيقات رسوميات"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "محاكيات"
+msgstr "المحاكيات"
 
 msgid "Engineering"
-msgstr ""
+msgstr "الهندسة"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "رُصَّ الطوب الساقط مع بعضه"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "رُصَّ الطوب الساقط مع بعضه"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "مدير الملفات"
+msgstr ""
 
 msgid "File Systems"
 msgstr "نظام الملفات"
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "مدير الملفات"
+msgstr "نقل الملفات"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "نظام الملفات"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "أدوات نصوص"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "علوم"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -361,16 +309,14 @@ msgstr ""
 msgid "GNOME"
 msgstr "جنوم"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "مصمِّم Qt"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "تطبيقات رسوميات"
+msgstr ""
 
 msgid "Games"
-msgstr "ألعاب"
+msgstr "الألعاب"
 
 msgid "Games and amusements"
 msgstr "ألعاب وتسلية"
@@ -381,31 +327,26 @@ msgstr " ألعاب للأطفال"
 msgid "Geography"
 msgstr "جغرافية"
 
-#, fuzzy
 msgid "Geology"
-msgstr "أحياء"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Morphing software"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "علوم أرض"
+msgstr "علوم الجيولوجيا"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "علوم أرض"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "علوم أرض"
 
 msgid "Graphics"
-msgstr "رسوميات"
+msgstr "الرسوم"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Morphing software"
+msgstr ""
 
 msgid "Hardware"
 msgstr "العتاد"
@@ -413,38 +354,32 @@ msgstr "العتاد"
 msgid "History"
 msgstr "التاريخ"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "عميل IRC"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "معالجة صور"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "معالجة صور"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "مرسال لحظي"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "أداة تراسل فوري لجميع خدمات التراسل الفوري"
+msgstr ""
 
 msgid "Internet"
 msgstr "إنترنت"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "تطبيقات أكثر"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -467,60 +402,50 @@ msgstr "ألعاب منطقية"
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Morphing software"
+msgstr ""
 
 msgid "Mathematics"
-msgstr "رياضيات"
+msgstr "الرياضيات"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "DJ Software"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Morphing software"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "مازج"
+msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "الشاشات"
+msgstr "المراقبة"
 
 msgid "Multimedia"
 msgstr "وسائط متعدّدة"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "قائمة الوسائط المتعدّدة"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "مشغل للوسائط المتعددة"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "مشغل وسائط متعددة"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Morphing software"
+msgstr ""
 
 msgid "Network"
-msgstr "شبكة"
+msgstr "الشبكة"
 
 msgid "Network-related settings"
 msgstr "إعدادات متعلّقة بالشبكة"
 
-#, fuzzy
 msgid "News"
-msgstr "بريد/أخبار"
+msgstr ""
 
 msgid "News readers or news tickers"
 msgstr ""
@@ -528,15 +453,14 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "تحاليل رقميّة"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "تحاليل رقميّة"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "أطقم مكتبية"
+msgstr "المكتب"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -547,16 +471,14 @@ msgstr "آخر"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "برنامج رسم"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "تطبيق إدارة الطابعة"
+msgstr ""
 
 msgid "Packaging"
 msgstr "تحزيم"
@@ -564,9 +486,8 @@ msgstr "تحزيم"
 msgid "Parallel Computing"
 msgstr "حساب متوازٍ"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "حساب متوازٍ"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -574,41 +495,35 @@ msgstr ""
 msgid "Personal"
 msgstr "شخصي"
 
-#, fuzzy
 msgid "Photography"
-msgstr "جغرافية"
+msgstr ""
 
 msgid "Physics"
-msgstr "فيزياء"
+msgstr "الفيزياء"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Morphing software"
+msgstr ""
 
 msgid "Preferences"
 msgstr "تفضيلات"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "عرض تقديمي"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "عرض تقديمي"
+msgstr ""
 
 msgid "Printing"
 msgstr "طباعة"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "أداة أرشفة"
+msgstr ""
 
 msgid "Project Management"
-msgstr "إدارة مشروعات"
+msgstr "إدارة المشاريع"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "تطبيق إدارة الطابعة"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -616,28 +531,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "رسوميات"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "تطبيقات رسوميات"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "وصول بعيد رسومي"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "متحكم شدة الصوت"
+msgstr ""
 
 msgid "Robotics"
 msgstr "ربوتات"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Morphing software"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -645,73 +555,62 @@ msgstr ""
 msgid "Role playing games"
 msgstr ""
 
-#, fuzzy
 msgid "Scanning"
-msgstr "XSane - مسح"
+msgstr ""
 
 msgid "Science"
-msgstr "علوم"
+msgstr "العلوم"
 
 msgid "Screensavers"
 msgstr "حافظات الشاشة"
 
 msgid "Security"
-msgstr "أمن"
+msgstr "الأمن"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "أمن"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI sequencer"
+msgstr ""
 
 msgid "Settings"
 msgstr "إعدادات"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "محاكي Minitel"
+msgstr "المحاكاة"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "لعبة لاستكشاف الفضاء"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
 
-#, fuzzy
 msgid "Software to learn science"
-msgstr "عارِض تحديثات البرمجيات"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "مدير وسائط البرامج"
+msgstr ""
 
-#, fuzzy
 msgid "Software to teach music"
-msgstr "مصادر البرمجيات"
+msgstr ""
 
 msgid "Sound"
-msgstr "صوتيات"
+msgstr "الصوتيات"
 
 msgid "Sports"
 msgstr "رياضة"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "ألعاب لوحية"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "جدول ممتد"
+msgstr ""
 
 msgid "Strategy"
-msgstr "استراتيجية"
+msgstr "الاستراتيجية"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "استراتيجية"
+msgstr ""
 
 msgid "System"
 msgstr "النظام"
@@ -722,31 +621,26 @@ msgstr "أدوات النّظام"
 msgid "System settings"
 msgstr "إعدادات النظام"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "عرض وتبليغ عن انهيارات التطبيق"
+msgid "TV and Radio"
+msgstr "التلفزيون والراديو"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "تطبيقات"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "أدوات تعليم"
 
-#, fuzzy
 msgid "Telephony"
-msgstr "هاتف ISDN"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "أدوات نصوص"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -754,17 +648,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "تطبيقات طرفية"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "طرفية"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "أدوات نصوص"
+msgstr ""
 
 msgid "Text tools"
 msgstr "أدوات نصوص"
@@ -775,9 +666,8 @@ msgstr ""
 msgid "Tools"
 msgstr "أدوات"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "أدوات لتطوير البرمجيات"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -785,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "اختر تطبيقاتك الافتراضية"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "اختر تطبيقاتك الافتراضية"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -799,9 +687,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "اضبط الطابعات"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -813,1936 +700,64 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "طفولية"
+msgstr "ألعاب"
 
 msgid "Translation"
 msgstr "ترجمة"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "أداة الترجمة"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "معلم طباعة"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "أداة رسم الرسومات المتَّجهية"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "تطبيقات رسوميات"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "الفيديو"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "تفضيلات"
+msgstr ""
 
-#, fuzzy
 msgid "Video Editing"
-msgstr "محرر فيديو"
+msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "مشغل فيديو"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "أداة تسجيل فيديو رقمي"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "المستعرضات"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "متصفّح وِب"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "متصفّح وِب"
+msgstr "تصفح الوب"
 
 msgid "Web Development"
-msgstr "تطوير وِب"
+msgstr "تطوير الوب"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "معالج كلمات"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "عملاء بريد"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

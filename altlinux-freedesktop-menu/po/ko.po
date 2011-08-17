@@ -1,86 +1,73 @@
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Sunjae Park <darehanl@gmail.com>, 2006 - 2007.
+# Bill Allombert <ballombe@debian.org>, 2003.
 #
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/ko.php3
 #
-# korean translation of menu-messages.
-# Collection of titles/sections of Linux-Mandrake menu's.
-# It's generated from the /usr/lib/menu/* files.
-#
-# Copyright (C) 2000 MandrakeSoft
-# sangkim@dreamwiz.com, 1999
-# Jaegeum Choe <baedaron@hananet.net>, 2001
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages 2.1.5\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2001-09-24 05:51+0900\n"
-"Last-Translator: Jaegeum Choe <baedaron@hananet.net>\n"
-"Language-Team: Korean <baedaron@hananet.net>\n"
+"PO-Revision-Date: 2007-10-25 11:04-0400\n"
+"Last-Translator: Sunjae Park <darehanl@gmail.com>\n"
+"Language-Team:  Korean <debian-l10n-korean@lists.debian.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "그림"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "그래픽 응용프로그램"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "그림"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "그래픽 응용프로그램"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "게임 메뉴"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "내게 필요한 설정"
+msgstr "접근성"
 
-#, fuzzy
 msgid "Action"
-msgstr "교육"
+msgstr "액션 게임"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "전술 놀이"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "KAddressBook"
+msgstr ""
 
 msgid "Administration"
 msgstr "관리"
 
 msgid "Adventure"
-msgstr "모험"
+msgstr "어드벤처 게임"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "모험"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "아마추어 라디오"
+
 msgid "Application to burn a disc"
-msgstr "응용프로그램 검색"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
 
 msgid "Applications"
-msgstr "응용 프로그램"
+msgstr "응용프로그램"
 
 msgid "Applications like cvs or subversion"
 msgstr ""
@@ -94,17 +81,14 @@ msgstr ""
 msgid "Arcade"
 msgstr "아케이드"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "아케이드 비디오 게임"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "압축 도구"
+msgstr ""
 
-#, fuzzy
 msgid "Art"
-msgstr "Ark"
+msgstr ""
 
 msgid "Artificial Intelligence"
 msgstr ""
@@ -115,32 +99,26 @@ msgstr ""
 msgid "Astronomy"
 msgstr "천문학"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "천문학"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Editing"
-msgstr "오디오 태그 편집기"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "오디오 재생기"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "사운드 레코더"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "백업"
+msgstr ""
 
 msgid "Biology"
 msgstr "생물학"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "생물학"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
@@ -157,17 +135,14 @@ msgstr ""
 msgid "Calculator"
 msgstr "계산기"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "계산기"
+msgstr ""
 
-#, fuzzy
 msgid "Calendar"
-msgstr "블렌더"
+msgstr ""
 
-#, fuzzy
 msgid "Camera tools, etc."
-msgstr "Java 툴셋 "
+msgstr ""
 
 msgid "Card Games"
 msgstr "카드 놀이"
@@ -175,27 +150,23 @@ msgstr "카드 놀이"
 msgid "Cards"
 msgstr "카드"
 
-#, fuzzy
 msgid "Chart"
-msgstr "KDE 문자 선택 도구"
+msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "대화"
+msgstr ""
 
 msgid "Chemistry"
 msgstr "화학"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "화학"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "응용 프로그램"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -203,25 +174,17 @@ msgstr ""
 msgid "Computer Science"
 msgstr "전산학"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "전산학"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "전산학"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "전산학"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "설정 편집기"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "네트워크 건설 게임"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
@@ -229,16 +192,14 @@ msgstr ""
 msgid "Data Visualization"
 msgstr ""
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "시각화 데이터 탐색기"
+msgstr ""
 
 msgid "Databases"
 msgstr "자료틀"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "더 많은 프로그램"
+msgstr ""
 
 msgid "Desktop"
 msgstr "일터"
@@ -246,27 +207,23 @@ msgstr "일터"
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "데스크톱 위젯"
+msgstr ""
 
 msgid "Development"
 msgstr "개발"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "개발 환경"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "미술 프로그램"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "사전"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "사전"
@@ -280,25 +237,23 @@ msgstr "그놈 문서"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "천문학"
+msgstr ""
 
 msgid "Editors"
-msgstr "편집기"
+msgstr "에디터"
 
 msgid "Education"
 msgstr "교육"
 
-#, fuzzy
 msgid "Electricity"
-msgstr "메타시티"
+msgstr ""
 
 msgid "Electricity software"
 msgstr ""
 
 msgid "Electronics"
-msgstr ""
+msgstr "전자학"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
@@ -306,9 +261,8 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "그래픽 응용프로그램"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
@@ -317,45 +271,37 @@ msgid "Emulators"
 msgstr "에뮬레이터"
 
 msgid "Engineering"
-msgstr ""
+msgstr "공학"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "떨어지는 블록을 맞춥니다"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "떨어지는 블록을 맞춥니다"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "파일 관리자"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "시스템"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "파일 관리자"
+msgstr "파일 전송"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "시스템"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "텍스트 도구"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "과학"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -363,16 +309,14 @@ msgstr ""
 msgid "GNOME"
 msgstr "그놈"
 
-#, fuzzy
 msgid "GUI Designers"
-msgstr "Qt 디자이너"
+msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "그래픽 응용프로그램"
+msgstr ""
 
 msgid "Games"
-msgstr "놀이"
+msgstr "게임"
 
 msgid "Games and amusements"
 msgstr "게임 메뉴"
@@ -380,24 +324,20 @@ msgstr "게임 메뉴"
 msgid "Games for Kids"
 msgstr "어린이 놀이"
 
-#, fuzzy
 msgid "Geography"
-msgstr "KGeography"
+msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "생물학"
+msgstr ""
 
 msgid "Geology software"
 msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
 msgstr "지구과학"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "지구과학"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "지구과학"
@@ -414,16 +354,14 @@ msgstr "하드웨어"
 msgid "History"
 msgstr "기록"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC 클라이언트"
+msgstr ""
 
 msgid "Image Processing"
 msgstr ""
@@ -431,20 +369,17 @@ msgstr ""
 msgid "Image Processing software"
 msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "인스턴트 메신저"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "인스턴트 메신저"
+msgstr ""
 
 msgid "Internet"
 msgstr "인터넷"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "더 많은 프로그램"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -482,24 +417,20 @@ msgstr ""
 msgid "Mixers"
 msgstr ""
 
-#, fuzzy
 msgid "Monitoring"
-msgstr "모니터"
+msgstr "시스템 감시"
 
 msgid "Multimedia"
 msgstr "멀티미디어"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "멀티미디어 메뉴"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "미디어 재생기"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "멀티미디어 메뉴"
+msgstr ""
 
 msgid "Music"
 msgstr ""
@@ -529,7 +460,7 @@ msgid "OCR"
 msgstr ""
 
 msgid "Office"
-msgstr "사무용 도구"
+msgstr "사무실"
 
 msgid "Optical character recognition applications"
 msgstr ""
@@ -540,16 +471,14 @@ msgstr "기타"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "프로그램 실행"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "그림 스캔 프로그램"
+msgstr ""
 
 msgid "Packaging"
 msgstr "팩키지 관리"
@@ -566,41 +495,35 @@ msgstr ""
 msgid "Personal"
 msgstr "개인"
 
-#, fuzzy
 msgid "Photography"
-msgstr "KGeography"
+msgstr ""
 
 msgid "Physics"
 msgstr "물리학"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "물리학"
+msgstr ""
 
 msgid "Preferences"
 msgstr "환경 설정"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "프리젠테이션"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "프리젠테이션"
+msgstr ""
 
 msgid "Printing"
 msgstr "인쇄"
 
-#, fuzzy
 msgid "Profiling tools"
-msgstr "압축 도구"
+msgstr ""
 
 msgid "Project Management"
 msgstr "프로젝트 관리"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "프로젝트 관리"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -608,25 +531,20 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "그림"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "그래픽 응용프로그램"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "원격 데스크탑"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "볼륨 조정"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "로봇"
+msgstr ""
 
 msgid "Robotics software"
 msgstr ""
@@ -649,20 +567,17 @@ msgstr "화면 보호기"
 msgid "Security"
 msgstr "보안"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "보안"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "과학"
+msgstr ""
 
 msgid "Settings"
 msgstr "설정"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "교육"
+msgstr "시뮬레이션 게임"
 
 msgid "Simulation Games"
 msgstr ""
@@ -685,20 +600,17 @@ msgstr "소리"
 msgid "Sports"
 msgstr "스포츠"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "보드 놀이"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "스프레드시트"
+msgstr ""
 
 msgid "Strategy"
-msgstr "전략"
+msgstr "전략 게임"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "전략"
+msgstr ""
 
 msgid "System"
 msgstr "시스템"
@@ -713,15 +625,13 @@ msgid "TV"
 msgstr ""
 
 msgid "TV and Radio"
+msgstr "TV와 라디오"
+
+msgid "TV and Radio applications"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "어플리케이션 크래시를 확인 및 보고함"
-
-#, fuzzy
 msgid "TV applications"
-msgstr "응용 프로그램"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr "교사용 도구"
@@ -729,9 +639,8 @@ msgstr "교사용 도구"
 msgid "Telephony"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "텍스트 도구"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -739,17 +648,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "터미널 응용 프로그램"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "터미널"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "텍스트 도구"
+msgstr ""
 
 msgid "Text tools"
 msgstr "텍스트 도구"
@@ -760,9 +666,8 @@ msgstr ""
 msgid "Tools"
 msgstr "도구"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "소프트웨어 개발을 위한 도구"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -770,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "기본 프로그램을 선택하십시오"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "기본 프로그램을 선택하십시오"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -784,9 +687,8 @@ msgstr ""
 msgid "Tools to manage hardware components"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to manage printers"
-msgstr "프린터 설정"
+msgstr ""
 
 msgid "Tools to manage your PDA"
 msgstr ""
@@ -798,62 +700,52 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "장난감"
+msgstr "흥미거리"
 
 msgid "Translation"
 msgstr "번역"
 
-#, fuzzy
 msgid "Translation tools"
-msgstr "번역 도구"
+msgstr ""
 
 msgid "Tuners"
 msgstr ""
 
-#, fuzzy
 msgid "Typing tutor"
-msgstr "타자 연습"
+msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "벡터 그래픽 그리기 도구"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "그래픽 응용프로그램"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "비디오"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "환경 설정"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "비디오 연주기"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "사운드 레코더"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "뷰어 프로그램"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "웹 브라우저"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "웹 브라우저"
+msgstr "웹브라우저"
 
 msgid "Web Development"
 msgstr "웹 개발"
@@ -861,781 +753,11 @@ msgstr "웹 개발"
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "워드 프로세서"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "편지를 주고 받는 프로그램"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

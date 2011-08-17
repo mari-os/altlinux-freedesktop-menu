@@ -1,58 +1,49 @@
-#
-# Latest versions of po files are at http://www.mandrakelinux.com/l10n/sq.php3
-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Naim Daka <naim70@freesurf.ch>, 2002.
+# Menu section translation
+# Copyright (C) 2003
+# This file is distributed under the same license as the menu package.
+# Bill Allombert <ballombe@debian.org>, 2003.
+# , fuzzy
 #
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages\n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2002-11-26 13:35+0200\n"
-"Last-Translator: Naim Daka <naim70@freesurf.ch>\n"
-"Language-Team: Albanian <LL@li.org>\n"
-"Language: sq\n"
+"PO-Revision-Date: 2008-05-05 19:01+0200\n"
+"Last-Translator: Elian Myftiu <elian.myftiu@gmail.com>\n"
+"Language-Team: Debian L10n Albanian <debian-l10n-albanian@lists.debian.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Grafikë"
+msgstr ""
 
-#, fuzzy
 msgid "2D based graphical applications"
-msgstr "Programe grafiku"
+msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Grafikë"
+msgstr ""
 
-#, fuzzy
 msgid "3D based graphical applications"
-msgstr "Programe grafiku"
+msgstr ""
 
 msgid "A clock application/applet"
 msgstr ""
 
-#, fuzzy
 msgid "A simple amusement"
-msgstr "Lojra dhe argëtime"
+msgstr ""
 
 msgid "Accessibility"
-msgstr "Açesibiliteti"
+msgstr "Hyrshmëri"
 
-#, fuzzy
 msgid "Action"
-msgstr "Edukim"
+msgstr "Aksion"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Një lojë akcioni-enigmë"
+msgstr ""
 
 msgid "AddressBooks"
 msgstr ""
@@ -61,18 +52,16 @@ msgid "Administration"
 msgstr "Administrim"
 
 msgid "Adventure"
-msgstr "Avanture"
+msgstr "Aventurë"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Avanture"
-
-msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
+msgid "Amateur Radio"
+msgstr "Radio Amatori"
+
 msgid "Application to burn a disc"
-msgstr "Gjetës Zbatimesh"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -90,15 +79,13 @@ msgid "Applications/applets that monitors some resource or activity"
 msgstr ""
 
 msgid "Arcade"
-msgstr "Lojë me Arkadë"
+msgstr "Arcade"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Lojë Arkade video"
+msgstr ""
 
-#, fuzzy
 msgid "Archiving"
-msgstr "Organizuesi i Arkivit"
+msgstr ""
 
 msgid "Art"
 msgstr ""
@@ -110,22 +97,19 @@ msgid "Artificial Intelligence software"
 msgstr ""
 
 msgid "Astronomy"
-msgstr "Atronomi"
+msgstr "Astronomi"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Atronomi"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Audio plejer"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Regjistruesi i Zërit"
+msgstr ""
 
 msgid "Backup"
 msgstr ""
@@ -133,16 +117,14 @@ msgstr ""
 msgid "Biology"
 msgstr "Biologji"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
 
-#, fuzzy
 msgid "Board Games"
-msgstr "Lojë e stendës"
+msgstr ""
 
 msgid "Boards"
 msgstr "Lojë e stendës"
@@ -153,9 +135,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Kalkulator (llogaritës)"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Kalkulator (llogaritës)"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Kalendar"
@@ -163,9 +144,8 @@ msgstr "Kalendar"
 msgid "Camera tools, etc."
 msgstr ""
 
-#, fuzzy
 msgid "Card Games"
-msgstr "Lojra"
+msgstr ""
 
 msgid "Cards"
 msgstr "Kartelat"
@@ -173,23 +153,20 @@ msgstr "Kartelat"
 msgid "Chart"
 msgstr ""
 
-#, fuzzy
 msgid "Chat"
-msgstr "Fjalosje IRC"
+msgstr ""
 
 msgid "Chemistry"
-msgstr "Kimia"
+msgstr "Kimi"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Kimia"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Njoftime"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -197,72 +174,56 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Shkenca Informatike"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Shkenca Informatike"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Shkenca Informatike"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Shkenca Informatike"
+msgstr ""
 
-#, fuzzy
 msgid "Configuration tools for the GUI"
-msgstr "Editori i konfigurimit"
+msgstr ""
 
-#, fuzzy
 msgid "Construction"
-msgstr "Administrim"
+msgstr ""
 
 msgid "Contact Management, e.g. an address book"
 msgstr ""
 
-#, fuzzy
 msgid "Data Visualization"
-msgstr "Internacionalizimi"
+msgstr ""
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Eksploatuesi i të Dhënave Çfaqëse"
+msgstr ""
 
 msgid "Databases"
 msgstr "Baza e të dhënave"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Programe"
+msgstr ""
 
-#, fuzzy
 msgid "Desktop"
-msgstr "Hapësira e Punës në Distancë"
+msgstr ""
 
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
 
-#, fuzzy
 msgid "Desktop utilities"
-msgstr "Aksesorë hapësire pune"
+msgstr ""
 
 msgid "Development"
 msgstr "Zhvillimi"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Zhvillues të mjediseve"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Program grafik në 3D"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
 
-#, fuzzy
 msgid "Dictionaries"
-msgstr "Fjalori"
+msgstr ""
 
 msgid "Dictionary"
 msgstr "Fjalori"
@@ -276,12 +237,11 @@ msgstr "Dokumentacioni"
 msgid "E17"
 msgstr ""
 
-#, fuzzy
 msgid "Economy"
-msgstr "Atronomi"
+msgstr ""
 
 msgid "Editors"
-msgstr "Botues teksti"
+msgstr "Editues"
 
 msgid "Education"
 msgstr "Edukim"
@@ -289,71 +249,59 @@ msgstr "Edukim"
 msgid "Electricity"
 msgstr "Elektrike"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Elektrike"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Elektrike"
+msgstr "Elektronikë"
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Programe grafiku"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Imituesit"
+msgstr "Emulues"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Inxhinieri"
 
 msgid "Engineering software, e.g. CAD programs"
 msgstr ""
 
-#, fuzzy
 msgid "Falling Blocks"
-msgstr "Përshtat blloqet që bien bashkë"
+msgstr ""
 
-#, fuzzy
 msgid "Falling blocks games"
-msgstr "Përshtat blloqet që bien bashkë"
+msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Administrues i Skedares"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Sistemi"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Administrues i Skedares"
+msgstr "Lëvizje Skedash"
 
-#, fuzzy
 msgid "File system tools"
-msgstr "Vegla të Sistemit"
+msgstr ""
 
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Vegla teksti"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Shkencat"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -364,9 +312,8 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Programe grafiku"
+msgstr ""
 
 msgid "Games"
 msgstr "Lojra"
@@ -380,21 +327,17 @@ msgstr ""
 msgid "Geography"
 msgstr ""
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biologji"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
-#, fuzzy
 msgid "Geoscience"
-msgstr "Gjeologjitë"
+msgstr "Gjeoshkencë"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Gjeologjitë"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Gjeologjitë"
@@ -402,9 +345,8 @@ msgstr "Gjeologjitë"
 msgid "Graphics"
 msgstr "Grafikë"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Hardware"
@@ -412,39 +354,32 @@ msgstr "Hardware"
 msgid "History"
 msgstr "Kronollogjia"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "IRC Klient"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing"
-msgstr "Shfletues imazhi"
+msgstr ""
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Instant Messenger"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Klient Univerzal i Lajmit të Çastit"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Internacionalizimi"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -461,59 +396,50 @@ msgstr "Gjuhtë"
 msgid "Literature"
 msgstr "Literatura"
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Lojë Logic"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Mathematics"
-msgstr "Metematikë"
+msgstr "Matematikë"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Shfletues i Lirë për Softverin"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "WmsMixer"
+msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Vëzhgues"
 
 msgid "Multimedia"
 msgstr "Multimedia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Menuja për multimedialen"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Lexues Multimedia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Lexues Multimedia"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Network"
-msgstr "Rrjeta"
+msgstr "Rrjet"
 
 msgid "Network-related settings"
 msgstr "Rregullime lidhur me Rrjetin"
@@ -545,16 +471,14 @@ msgstr "Tjetër"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Program vizatimi"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Programet e Preferuar"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Paketim"
@@ -562,9 +486,8 @@ msgstr "Paketim"
 msgid "Parallel Computing"
 msgstr ""
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -576,22 +499,19 @@ msgid "Photography"
 msgstr ""
 
 msgid "Physics"
-msgstr "Fizika"
+msgstr "Fizikë"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Pëlqimet"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Prezantime"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Prezantime"
+msgstr ""
 
 msgid "Printing"
 msgstr "Stampimi"
@@ -599,13 +519,11 @@ msgstr "Stampimi"
 msgid "Profiling tools"
 msgstr ""
 
-#, fuzzy
 msgid "Project Management"
-msgstr "Organizimi i file"
+msgstr "Projektim"
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Programet e Preferuar"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -613,29 +531,23 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Grafikë"
+msgstr ""
 
-#, fuzzy
 msgid "Raster based graphical applications"
-msgstr "Programe grafiku"
+msgstr ""
 
-#, fuzzy
 msgid "Remote access"
-msgstr "Hapësira e Punës në Distancë"
+msgstr ""
 
-#, fuzzy
 msgid "Revision Control"
-msgstr "Kontrolli i Volumit"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics"
-msgstr "Robotët"
+msgstr ""
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Softver i morphing (deformues i imazheve)"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -646,30 +558,26 @@ msgstr ""
 msgid "Scanning"
 msgstr ""
 
-#, fuzzy
 msgid "Science"
-msgstr "Shkencat"
+msgstr "Shkencë"
 
 msgid "Screensavers"
 msgstr "Ruajtës ekrani"
 
 msgid "Security"
-msgstr "Siguria"
+msgstr "Siguri"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Siguria"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "Sekuencor MIDI"
+msgstr ""
 
 msgid "Settings"
 msgstr "Parametrat"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Imitues Minitel"
+msgstr "Simulim"
 
 msgid "Simulation Games"
 msgstr ""
@@ -680,36 +588,32 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Menagjues i Burimit Softver"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
 
 msgid "Sound"
-msgstr "Zëri"
+msgstr "Zë"
 
 msgid "Sports"
-msgstr "Sportet"
+msgstr "Sporte"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Sportet"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Fleta elektronike"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Strategjia"
+msgstr "Strategji"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strategjia"
+msgstr ""
 
 msgid "System"
-msgstr "Sistemi"
+msgstr "Sistem"
 
 msgid "System Tools"
 msgstr "Vegla të Sistemit"
@@ -717,31 +621,26 @@ msgstr "Vegla të Sistemit"
 msgid "System settings"
 msgstr "Rregullime sistemi"
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
-
-msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
-msgid "TV and Radio applications"
-msgstr "Zbatim për pjekje CDsh dhe DVDsh"
+msgid "TV and Radio"
+msgstr "TV dhe Radio"
 
-#, fuzzy
+msgid "TV and Radio applications"
+msgstr ""
+
 msgid "TV applications"
-msgstr "Programe"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Telefoni ISDN"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Vegla teksti"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -749,17 +648,14 @@ msgstr ""
 msgid "Telephony via PC"
 msgstr ""
 
-#, fuzzy
 msgid "Terminal emulator applications"
-msgstr "Emulues terminali"
+msgstr ""
 
-#, fuzzy
 msgid "Terminals"
-msgstr "Terminali"
+msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Vegla teksti"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Vegla teksti"
@@ -768,11 +664,10 @@ msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""
 
 msgid "Tools"
-msgstr "Veglat"
+msgstr "Vegla"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Vegla për zhvillim programesh"
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -780,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "Zgjidh programet e zakonshëm"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Zgjidh programet e zakonshëm"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -807,11 +700,10 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Vegla të vogla"
+msgstr "Lodra"
 
-#, fuzzy
 msgid "Translation"
-msgstr "Transmission"
+msgstr ""
 
 msgid "Translation tools"
 msgstr ""
@@ -822,879 +714,50 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Vegël për Vizatim Vectoriel"
+msgstr ""
 
-#, fuzzy
 msgid "Vector based graphical applications"
-msgstr "Programe grafiku"
+msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Pëlqimet"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Lexues Video"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Regjistrues Video Digjital"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "Shikues figurash"
+msgstr "Shikues"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Shfletuesi Web"
+msgstr ""
 
-#, fuzzy
 msgid "Web Browsing"
-msgstr "Shfletuesi Web"
+msgstr "Shfletim Rrjeti"
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Zhvillimi"
+msgstr "Zhvillim Rrjeti"
 
 msgid "Web Publishing"
 msgstr ""
 
-#, fuzzy
 msgid "Wordprocessors"
-msgstr "Procesues teksti"
+msgstr ""
 
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Kush është klienti"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""

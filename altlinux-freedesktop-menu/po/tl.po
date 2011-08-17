@@ -1,31 +1,29 @@
-# translation of menu-messages.po to Filipino
-# This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-# Arys P. Deloso <arys@deloso.org>, 2004.
+# Menu section translation to Tagalog
+# Copyright (C) 2005 Eric Pareja
+# This file is distributed under the same license as the menu package.
+# Original file, Bill Allombert <ballombe@debian.org>, 2003.
+# Translation by Eric Pareja <xenos@upm.edu.ph>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: menu-messages-tl\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: menu-section 2.1.9-3\n"
 "POT-Creation-Date: 2011-03-25 11:07+0200\n"
-"PO-Revision-Date: 2004-03-16 23:31+0800\n"
-"Last-Translator: Arys P. Deloso <arys@deloso.org>\n"
-"Language-Team: Filipino <salinpinoy@list.comitus.net>\n"
-"Language: fil\n"
+"PO-Revision-Date: 2006-08-10 20:11+0800\n"
+"Last-Translator: Eric Pareja <xenos@upm.edu.ph>\n"
+"Language-Team: Tagalog <debian-tl@banwa.upm.edu.ph>\n"
+"Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy
 msgid "2D Graphics"
-msgstr "Graphics"
+msgstr ""
 
 msgid "2D based graphical applications"
 msgstr ""
 
-#, fuzzy
 msgid "3D Graphics"
-msgstr "Graphics"
+msgstr ""
 
 msgid "3D based graphical applications"
 msgstr ""
@@ -43,31 +41,26 @@ msgstr "Accessibility"
 msgid "Action"
 msgstr "Edukasyon"
 
-#, fuzzy
 msgid "Action Games"
-msgstr "Larong aksyon-palaisipan"
+msgstr ""
 
-#, fuzzy
 msgid "AddressBooks"
-msgstr "Aklat ng Tirahan o Address Book"
+msgstr ""
 
-#, fuzzy
 msgid "Administration"
-msgstr "Pamamahala ng User"
+msgstr ""
 
 msgid "Adventure"
-msgstr "Pakikipagsapalaran"
+msgstr "Abentura"
 
-#, fuzzy
 msgid "Adventure style games"
-msgstr "Isang laro na parang tetris"
+msgstr ""
 
 msgid "Amateur Radio"
 msgstr ""
 
-#, fuzzy
 msgid "Application to burn a disc"
-msgstr "Application"
+msgstr ""
 
 msgid "Application to manage your finance"
 msgstr ""
@@ -87,9 +80,8 @@ msgstr ""
 msgid "Arcade"
 msgstr "Arcade"
 
-#, fuzzy
 msgid "Arcade style game"
-msgstr "Larong video na pang-arcade"
+msgstr ""
 
 msgid "Archiving"
 msgstr ""
@@ -100,45 +92,38 @@ msgstr ""
 msgid "Artificial Intelligence"
 msgstr "Artificial Intelligence (AI)"
 
-#, fuzzy
 msgid "Artificial Intelligence software"
-msgstr "Artificial Intelligence (AI)"
+msgstr ""
 
 msgid "Astronomy"
 msgstr "Astronomy"
 
-#, fuzzy
 msgid "Astronomy software"
-msgstr "Astronomy"
+msgstr ""
 
 msgid "Audio Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Players"
-msgstr "Tagapagpatugtog ng Video"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Recorders"
-msgstr "Tagarecord ng Tunog"
+msgstr ""
 
-#, fuzzy
 msgid "Backup"
-msgstr "Mga backup"
+msgstr ""
 
 msgid "Biology"
 msgstr "Biology"
 
-#, fuzzy
 msgid "Biology software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 msgid "Blogs"
 msgstr ""
 
-#, fuzzy
 msgid "Board Games"
-msgstr "Board"
+msgstr ""
 
 msgid "Boards"
 msgstr "Board"
@@ -149,9 +134,8 @@ msgstr ""
 msgid "Calculator"
 msgstr "Calculator"
 
-#, fuzzy
 msgid "Calculators"
-msgstr "Calculator"
+msgstr ""
 
 msgid "Calendar"
 msgstr ""
@@ -159,9 +143,8 @@ msgstr ""
 msgid "Camera tools, etc."
 msgstr ""
 
-#, fuzzy
 msgid "Card Games"
-msgstr "Laro"
+msgstr ""
 
 msgid "Cards"
 msgstr "Baraha"
@@ -175,16 +158,14 @@ msgstr ""
 msgid "Chemistry"
 msgstr "Chemistry"
 
-#, fuzzy
 msgid "Chemistry software"
-msgstr "Chemistry"
+msgstr ""
 
 msgid "Clock"
 msgstr ""
 
-#, fuzzy
 msgid "Communications"
-msgstr "Application"
+msgstr ""
 
 msgid "Compression"
 msgstr ""
@@ -192,17 +173,11 @@ msgstr ""
 msgid "Computer Science"
 msgstr "Agham pang-Computer"
 
-#, fuzzy
 msgid "Computer Science software"
-msgstr "Agham pang-Computer"
+msgstr ""
 
-#, fuzzy
-msgid "Computer Sience software"
-msgstr "Agham pang-Computer"
-
-#, fuzzy
 msgid "Computer science"
-msgstr "Agham pang-Computer"
+msgstr ""
 
 msgid "Configuration tools for the GUI"
 msgstr ""
@@ -216,20 +191,17 @@ msgstr ""
 msgid "Data Visualization"
 msgstr "Visualization ng Data"
 
-#, fuzzy
 msgid "Data visualization software"
-msgstr "Visualization ng Data"
+msgstr ""
 
 msgid "Databases"
 msgstr "Database"
 
-#, fuzzy
 msgid "Debug Applications"
-msgstr "Marami pang Application"
+msgstr ""
 
-#, fuzzy
 msgid "Desktop"
-msgstr "Pamamahagi ng Desktop"
+msgstr ""
 
 msgid "Desktop Publishing applications and Color Management tools"
 msgstr ""
@@ -240,13 +212,11 @@ msgstr ""
 msgid "Development"
 msgstr "Paglilinang"
 
-#, fuzzy
 msgid "Development environments"
-msgstr "Kapaligirang Panglinang"
+msgstr ""
 
-#, fuzzy
 msgid "Dial-up programs"
-msgstr "Isang program na pang 3D na graph"
+msgstr ""
 
 msgid "Dialup"
 msgstr ""
@@ -270,7 +240,7 @@ msgid "Economy"
 msgstr "Ekonomiya"
 
 msgid "Editors"
-msgstr "Pang-edit"
+msgstr "Panulat"
 
 msgid "Education"
 msgstr "Edukasyon"
@@ -278,30 +248,26 @@ msgstr "Edukasyon"
 msgid "Electricity"
 msgstr "Elektrisidad"
 
-#, fuzzy
 msgid "Electricity software"
-msgstr "Elektrisidad"
+msgstr ""
 
-#, fuzzy
 msgid "Electronics"
-msgstr "Elektrisidad"
+msgstr ""
 
 msgid "Electronics software, e.g. circuit designers"
 msgstr ""
 
-#, fuzzy
 msgid "Email"
-msgstr "Xmailbox"
+msgstr ""
 
-#, fuzzy
 msgid "Email applications"
-msgstr "Application"
+msgstr ""
 
 msgid "Emulator of another platform"
 msgstr ""
 
 msgid "Emulators"
-msgstr "Emulator (manggagaya)"
+msgstr "Mga Emulator"
 
 msgid "Engineering"
 msgstr ""
@@ -315,17 +281,14 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
-#, fuzzy
 msgid "File Managers"
-msgstr "Tagapangasiwa ng File"
+msgstr ""
 
-#, fuzzy
 msgid "File Systems"
-msgstr "Sistema"
+msgstr ""
 
-#, fuzzy
 msgid "File Transfer"
-msgstr "Tagapangasiwa ng File"
+msgstr ""
 
 msgid "File system tools"
 msgstr ""
@@ -333,13 +296,11 @@ msgstr ""
 msgid "File tool utilities"
 msgstr ""
 
-#, fuzzy
 msgid "File tools"
-msgstr "Kasangkapang pang-text"
+msgstr ""
 
-#, fuzzy
 msgid "Finances"
-msgstr "Agham"
+msgstr ""
 
 msgid "Flow Chart"
 msgstr ""
@@ -350,12 +311,11 @@ msgstr "GNOME"
 msgid "GUI Designers"
 msgstr ""
 
-#, fuzzy
 msgid "GUI designer applications"
-msgstr "Mga Piling Application"
+msgstr ""
 
 msgid "Games"
-msgstr "Laro"
+msgstr "Palaro"
 
 msgid "Games and amusements"
 msgstr ""
@@ -366,31 +326,27 @@ msgstr ""
 msgid "Geography"
 msgstr "Geography"
 
-#, fuzzy
 msgid "Geology"
-msgstr "Biology"
+msgstr ""
 
-#, fuzzy
 msgid "Geology software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 #, fuzzy
 msgid "Geoscience"
-msgstr "Geosciences"
+msgstr "Agham"
 
-#, fuzzy
 msgid "Geoscience software"
-msgstr "Geosciences"
+msgstr ""
 
 msgid "Geosciences"
 msgstr "Geosciences"
 
 msgid "Graphics"
-msgstr "Graphics"
+msgstr "Grapiks"
 
-#, fuzzy
 msgid "HAM radio software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 msgid "Hardware"
 msgstr "Hardware"
@@ -398,38 +354,32 @@ msgstr "Hardware"
 msgid "History"
 msgstr "Kasaysayan"
 
-#, fuzzy
 msgid "IDE"
-msgstr "IDLE"
+msgstr ""
 
 msgid "IRC"
 msgstr "IRC"
 
-#, fuzzy
 msgid "IRC clients"
-msgstr "Whois client"
+msgstr ""
 
 msgid "Image Processing"
 msgstr "Pagpoproseso ng image"
 
-#, fuzzy
 msgid "Image Processing software"
-msgstr "Pagpoproseso ng image"
+msgstr ""
 
-#, fuzzy
 msgid "Instant Messaging"
-msgstr "Instant Messenger (IM)"
+msgstr ""
 
-#, fuzzy
 msgid "Instant messaging clients"
-msgstr "Panglahatan na Instant Messaging (IM) na Client"
+msgstr ""
 
 msgid "Internet"
 msgstr "Internet"
 
-#, fuzzy
 msgid "Internet applications"
-msgstr "Marami pang Application"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -446,31 +396,26 @@ msgstr "Wika"
 msgid "Literature"
 msgstr "Literatura"
 
-#, fuzzy
 msgid "Logic Games"
-msgstr "Laro ng logic"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
 
-#, fuzzy
 msgid "Math software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 msgid "Mathematics"
 msgstr "Mathematics"
 
-#, fuzzy
 msgid "Medical Software"
-msgstr "Software na pang-\"Disc Jockey\" (DJ)"
+msgstr ""
 
-#, fuzzy
 msgid "Medical software"
-msgstr "Pang-morph na software"
+msgstr ""
 
-#, fuzzy
 msgid "Mixers"
-msgstr "Mixer"
+msgstr ""
 
 msgid "Monitoring"
 msgstr ""
@@ -478,24 +423,20 @@ msgstr ""
 msgid "Multimedia"
 msgstr "Multimedia"
 
-#, fuzzy
 msgid "Multimedia Editing"
-msgstr "Multimedia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Players"
-msgstr "Tagapagpatugtog ng multimedia"
+msgstr ""
 
-#, fuzzy
 msgid "Multimedia Recorders"
-msgstr "Tagapagpatugtog ng multimedia"
+msgstr ""
 
 msgid "Music"
 msgstr ""
 
-#, fuzzy
 msgid "Musical software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 msgid "Network"
 msgstr "Network"
@@ -512,9 +453,8 @@ msgstr ""
 msgid "Numeric Analysis"
 msgstr "Numeric Analysis"
 
-#, fuzzy
 msgid "Numerical analysis software"
-msgstr "Numeric Analysis"
+msgstr ""
 
 msgid "OCR"
 msgstr ""
@@ -531,16 +471,14 @@ msgstr "Iba pa"
 msgid "P2P"
 msgstr ""
 
-#, fuzzy
 msgid "P2P programs"
-msgstr "Program na pangpintura o pangguhit"
+msgstr ""
 
 msgid "PDA"
 msgstr ""
 
-#, fuzzy
 msgid "Package manager applications"
-msgstr "Mga Piling Application"
+msgstr ""
 
 msgid "Packaging"
 msgstr "Pagpa-Package"
@@ -548,9 +486,8 @@ msgstr "Pagpa-Package"
 msgid "Parallel Computing"
 msgstr "Parallel Computing"
 
-#, fuzzy
 msgid "Parallel computing software"
-msgstr "Parallel Computing"
+msgstr ""
 
 msgid "Performance"
 msgstr ""
@@ -558,27 +495,23 @@ msgstr ""
 msgid "Personal"
 msgstr ""
 
-#, fuzzy
 msgid "Photography"
-msgstr "Geography"
+msgstr ""
 
 msgid "Physics"
 msgstr "Physics"
 
-#, fuzzy
 msgid "Physics software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 msgid "Preferences"
 msgstr "Mga Pagtatangi"
 
-#, fuzzy
 msgid "Presentation software"
-msgstr "Pang-morph na software"
+msgstr ""
 
-#, fuzzy
 msgid "Presentations"
-msgstr "Dokumentasyon"
+msgstr ""
 
 msgid "Printing"
 msgstr "Pagpi-print"
@@ -589,9 +522,8 @@ msgstr ""
 msgid "Project Management"
 msgstr ""
 
-#, fuzzy
 msgid "Project management applications"
-msgstr "Mga Piling Application"
+msgstr ""
 
 msgid "Publishing"
 msgstr ""
@@ -599,9 +531,8 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
-#, fuzzy
 msgid "Raster Graphics"
-msgstr "Graphics"
+msgstr ""
 
 msgid "Raster based graphical applications"
 msgstr ""
@@ -615,9 +546,8 @@ msgstr ""
 msgid "Robotics"
 msgstr "Robotics"
 
-#, fuzzy
 msgid "Robotics software"
-msgstr "Pang-morph na software"
+msgstr ""
 
 msgid "Role Playing"
 msgstr ""
@@ -631,31 +561,26 @@ msgstr ""
 msgid "Science"
 msgstr "Agham"
 
-#, fuzzy
 msgid "Screensavers"
-msgstr "Screensaver"
+msgstr ""
 
 msgid "Security"
 msgstr "Seguridad"
 
-#, fuzzy
 msgid "Security tools"
-msgstr "Seguridad"
+msgstr ""
 
-#, fuzzy
 msgid "Sequencers"
-msgstr "MIDI sequencer"
+msgstr ""
 
 msgid "Settings"
 msgstr "Mga Setting"
 
-#, fuzzy
 msgid "Simulation"
-msgstr "Panggagaya sa Minitel"
+msgstr "Simulasiyon"
 
-#, fuzzy
 msgid "Simulation Games"
-msgstr "Larong Pagtataruk ng Kalawakan"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr ""
@@ -663,9 +588,8 @@ msgstr ""
 msgid "Software to learn science"
 msgstr ""
 
-#, fuzzy
 msgid "Software to teach arts"
-msgstr "Tagapangasiwa ng Software Media"
+msgstr ""
 
 msgid "Software to teach music"
 msgstr ""
@@ -674,59 +598,49 @@ msgid "Sound"
 msgstr "Tunog"
 
 msgid "Sports"
-msgstr "Sports"
+msgstr "Palakasan"
 
-#, fuzzy
 msgid "Sports Games"
-msgstr "Sports"
+msgstr ""
 
-#, fuzzy
 msgid "Spreadsheets"
-msgstr "Siag Office spreadsheet"
+msgstr ""
 
 msgid "Strategy"
-msgstr "Strategy"
+msgstr "Stratehiya"
 
-#, fuzzy
 msgid "Strategy Games"
-msgstr "Strategy"
+msgstr ""
 
 msgid "System"
 msgstr "Sistema"
 
-#, fuzzy
 msgid "System Tools"
-msgstr "Tagamanman ng Sistema"
+msgstr ""
 
-#, fuzzy
 msgid "System settings"
-msgstr "Mga Setting"
+msgstr ""
 
-#, fuzzy
 msgid "TV"
-msgstr "MoTV"
+msgstr ""
 
 msgid "TV and Radio"
 msgstr ""
 
-#, fuzzy
 msgid "TV and Radio applications"
-msgstr "Marami pang Application"
+msgstr ""
 
-#, fuzzy
 msgid "TV applications"
-msgstr "Application"
+msgstr ""
 
 msgid "Teaching Tools"
 msgstr ""
 
-#, fuzzy
 msgid "Telephony"
-msgstr "Teleponong pang-ISDN"
+msgstr ""
 
-#, fuzzy
 msgid "Telephony tools"
-msgstr "Kasangkapang pang-text"
+msgstr ""
 
 msgid "Telephony tools, to dial a number, manage PBX, ..."
 msgstr ""
@@ -740,9 +654,8 @@ msgstr ""
 msgid "Terminals"
 msgstr ""
 
-#, fuzzy
 msgid "Text tool utilities"
-msgstr "Kasangkapang pang-text"
+msgstr ""
 
 msgid "Text tools"
 msgstr "Kasangkapang pang-text"
@@ -753,9 +666,8 @@ msgstr ""
 msgid "Tools"
 msgstr "Kasangkapan"
 
-#, fuzzy
 msgid "Tools for web developers"
-msgstr "Kasangkapan para sa mga gumagamit ng \"eBay\""
+msgstr ""
 
 msgid "Tools like FTP or P2P programs"
 msgstr ""
@@ -763,13 +675,11 @@ msgstr ""
 msgid "Tools to archive/backup data"
 msgstr ""
 
-#, fuzzy
 msgid "Tools to build applications"
-msgstr "-> Lahat ng Application"
+msgstr ""
 
-#, fuzzy
 msgid "Tools to debug applications"
-msgstr "Marami pang Application"
+msgstr ""
 
 msgid "Tools to manage compressed data/archives"
 msgstr ""
@@ -790,7 +700,7 @@ msgid "Tools to scan a file/text"
 msgstr ""
 
 msgid "Toys"
-msgstr "Laruan"
+msgstr "Mga Laruan"
 
 msgid "Translation"
 msgstr ""
@@ -804,9 +714,8 @@ msgstr ""
 msgid "Typing tutor"
 msgstr ""
 
-#, fuzzy
 msgid "Vector Graphics"
-msgstr "Kasangkapang pangguhit ng mga vector graphics"
+msgstr ""
 
 msgid "Vector based graphical applications"
 msgstr ""
@@ -817,35 +726,29 @@ msgstr ""
 msgid "Video Conference software"
 msgstr ""
 
-#, fuzzy
 msgid "Video Conferences"
-msgstr "Mga Pagtatangi"
+msgstr ""
 
 msgid "Video Editing"
 msgstr ""
 
-#, fuzzy
 msgid "Video Players"
-msgstr "Tagapagpatugtog ng Video"
+msgstr ""
 
-#, fuzzy
 msgid "Video Recorders"
-msgstr "Digital Video Recorder - taga-record ng digital na video"
+msgstr ""
 
-#, fuzzy
 msgid "Viewers"
-msgstr "KUIViewer"
+msgstr "Mga viewer"
 
-#, fuzzy
 msgid "Web Browsers"
-msgstr "Pang-browse ng image o larawan"
+msgstr ""
 
 msgid "Web Browsing"
 msgstr ""
 
-#, fuzzy
 msgid "Web Development"
-msgstr "Paglilinang"
+msgstr ""
 
 msgid "Web Publishing"
 msgstr ""
@@ -856,726 +759,5 @@ msgstr ""
 msgid "XFCE"
 msgstr ""
 
-#, fuzzy
 msgid "chat clients"
-msgstr "Whois client"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr ""
