@@ -282,7 +282,7 @@
 				<Not><Category>Literature</Category></Not>
 				<Not><Category>Sports</Category></Not>
 				<Not><Category>Robotics</Category></Not>
-				<!-- aliens -->
+
 				<Not><Category>Dictionary</Category></Not>
 			</And>
 		</Include>

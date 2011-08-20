@@ -91,7 +91,6 @@
 			<And>
 				<Category>Graphics</Category>
 				<Category>VectorGraphics</Category>
-				<!-- evince-gtk -->
 				<Not><Category>Viewer</Category></Not>
 			</And>
 		</Include>
