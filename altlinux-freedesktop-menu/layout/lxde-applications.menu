@@ -9,6 +9,8 @@
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
 
+	<AppDir>/usr/share/gdm/applications</AppDir>
+
 	<!-- Read in overrides and child menus from applications-merged/ -->
 	<DefaultMergeDirs/>
 

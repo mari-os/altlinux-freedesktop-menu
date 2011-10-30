@@ -4,9 +4,9 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.44
+Version: 0.45
 Release: alt1
-#elease: alt0.M60P.1
+#Release: alt0.M60P.1
 
 Summary: Implementation of the freedesktop.org menu specification
 License: BSD or GPL
@@ -307,6 +307,12 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Sun Oct 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.45-alt1
+- explicitly load /usr/share/gdm desktop files in LXDE menu
+
+* Sun Aug 21 2011 Igor Vlasenko <viy@altlinux.ru> 0.44-alt0.M60P.1
+- backport
+
 * Sun Aug 21 2011 Igor Vlasenko <viy@altlinux.ru> 0.44-alt1
 - killed comments (against KDE4 bugs)
 
