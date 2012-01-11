@@ -285,6 +285,7 @@
 				<Not><Category>X-KDE-settings-webbrowsing</Category></Not>
 
 				<Not><Category>Wine</Category></Not>
+				<Not><Category>X-Wine</Category></Not>
 			</And>
 		</Include>
 		<!-- bug in LXDE

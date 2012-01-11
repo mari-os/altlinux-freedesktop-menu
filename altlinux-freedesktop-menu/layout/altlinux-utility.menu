@@ -145,6 +145,7 @@
 				<Not><Category>TerminalEmulator</Category></Not>
 				<Not><Category>Emulator</Category></Not>
 				<Not><Category>Wine</Category></Not>
+				<Not><Category>X-Wine</Category></Not>
 				<Not><Category>Development</Category></Not>
 				<Not><Category>Network</Category></Not>
 				<Not><Category>Graphics</Category></Not>

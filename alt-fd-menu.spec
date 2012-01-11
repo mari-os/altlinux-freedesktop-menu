@@ -1,12 +1,18 @@
-%def_with gnome3
-%def_without gnome2
+%def_without backport
 %define gnome2ver 2.90
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.45
+Version: 0.46
+%if_without backport
+%def_with gnome3
+%def_without gnome2
 Release: alt1
-#Release: alt0.M60P.1
+%else
+%def_without gnome3
+%def_with gnome2
+Release: alt0.M60P.1
+%endif
 
 Summary: Implementation of the freedesktop.org menu specification
 License: BSD or GPL
@@ -224,6 +230,10 @@ rm ignore.list
 %makeinstall_std
 #find_lang %name
 
+%if_with backport
+sed -i s/xfce4-run.desktop/xfrun4.desktop/ %buildroot%_sysconfdir/xdg/menus/xfce-applications.menu
+%endif
+
 mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,gnome3-,kde3-,lxde-,xfce-}applications-merged
 mkdir -p %buildroot%_sysconfdir/xdg/menus/settings-merged
 
@@ -307,6 +317,12 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Wed Jan 11 2012 Igor Vlasenko <viy@altlinux.ru> 0.46-alt1
+- support for xfce4-run.desktop (closes: 26801)
+
+* Sun Oct 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.45-alt0.M60P.1
+- backport
+
 * Sun Oct 30 2011 Igor Vlasenko <viy@altlinux.ru> 0.45-alt1
 - explicitly load /usr/share/gdm desktop files in LXDE menu
 

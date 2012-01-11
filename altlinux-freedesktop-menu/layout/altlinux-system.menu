@@ -23,12 +23,14 @@
 			<Directory>wine.directory</Directory>
 			<Include>
 				<Category>Wine</Category>
+				<Category>X-Wine</Category>
 			</Include>
 		</Menu>
 		<Include>
 			<And>
 				<Not><Category>Games</Category></Not>
 				<Not><Category>Wine</Category></Not>
+				<Not><Category>X-Wine</Category></Not>
 				<Category>Emulator</Category>
 			</And>
 		</Include>
@@ -112,6 +114,7 @@
 				<Not><Category>Emulator</Category></Not>
 				<Not><Category>Documentation</Category></Not>
 
+				<Not><Category>X-Wine</Category></Not>
 				<Not><Category>Wine</Category></Not>
 				<Not><Category>HardwareSettings</Category></Not>
 			</And>
