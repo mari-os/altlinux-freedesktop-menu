@@ -3,7 +3,7 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.46
+Version: 0.47
 %if_without backport
 %def_with gnome3
 %def_without gnome2
@@ -317,6 +317,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Sat Jan 28 2012 Igor Vlasenko <viy@altlinux.ru> 0.47-alt1
+- added tatarian translation
+
 * Wed Jan 11 2012 Igor Vlasenko <viy@altlinux.ru> 0.46-alt1
 - support for xfce4-run.desktop (closes: 26801)
 
