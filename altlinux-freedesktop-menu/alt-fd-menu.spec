@@ -3,7 +3,7 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.47
+Version: 0.48
 %if_without backport
 %def_with gnome3
 %def_without gnome2
@@ -317,6 +317,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Fri Mar 02 2012 Igor Vlasenko <viy@altlinux.ru> 0.48-alt1
+- bumped release to allow proper version in p6 branch
+
 * Sat Jan 28 2012 Igor Vlasenko <viy@altlinux.ru> 0.47-alt1
 - added tatarian translation
 
