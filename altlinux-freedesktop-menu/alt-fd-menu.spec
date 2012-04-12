@@ -3,7 +3,7 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.48
+Version: 0.49
 %if_without backport
 %def_with gnome3
 %def_without gnome2
@@ -150,7 +150,7 @@ ALTLinux freedesktop.org menu for KDE3
 %package kde4
 Summary: kde4 freedesktop menu
 Group: Graphical desktop/KDE
-Provides: kde4-freedesktop-menu
+Provides: kde4-freedesktop-menu = %version
 Conflicts: kde4-menu-original
 Obsoletes: kde4-menu-original
 Requires(pre): %name
@@ -317,6 +317,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Fri Apr 13 2012 Igor Vlasenko <viy@altlinux.ru> 0.49-alt1
+- added versioned provides for kde4-freedesktop-menu
+
 * Fri Mar 02 2012 Igor Vlasenko <viy@altlinux.ru> 0.48-alt1
 - bumped release to allow proper version in p6 branch
 
