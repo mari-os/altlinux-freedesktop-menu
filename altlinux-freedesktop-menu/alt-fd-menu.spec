@@ -3,7 +3,7 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.49
+Version: 0.50
 %if_without backport
 %def_with gnome3
 %def_without gnome2
@@ -317,6 +317,10 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Sun Apr 29 2012 Igor Vlasenko <viy@altlinux.ru> 0.50-alt1
+- layout/xfce-applications.menu - removed xfhelp4 (#27276)
+- note: from now on, backports for p6 should use 0.49 as base
+
 * Fri Apr 13 2012 Igor Vlasenko <viy@altlinux.ru> 0.49-alt1
 - added versioned provides for kde4-freedesktop-menu
 
