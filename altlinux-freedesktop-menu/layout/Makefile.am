@@ -23,8 +23,10 @@ menu_DATA =					\
 	gnome3-applications.menu		\
 	kde3-applications.menu			\
 	lxde-applications.menu			\
+	mate-applications.menu			\
 	xfce-applications.menu			\
 	settings.menu				\
+	mate-settings.menu			\
 	$(NULL)
 
 EXTRA_DIST= $(menu_DATA)

@@ -3,7 +3,7 @@
 %define gnome3ver 3.90
 
 Name: altlinux-freedesktop-menu
-Version: 0.50
+Version: 0.51
 %if_without backport
 %def_with gnome3
 %def_without gnome2
@@ -107,6 +107,17 @@ Requires: %name
 
 %description lxde
 ALTLinux freedesktop.org menu for LXDE
+
+%package mate
+Summary: mate freedesktop menu
+Group: Graphical desktop/Other
+Provides: mate-freedesktop-menu
+Conflicts: mate-menus-default
+#Requires: mate-menus-resources
+Requires: %name
+
+%description mate
+ALTLinux freedesktop.org menu for MATE
 
 %package gnome
 Summary: gnome freedesktop menu
@@ -234,8 +245,8 @@ rm ignore.list
 sed -i s/xfce4-run.desktop/xfrun4.desktop/ %buildroot%_sysconfdir/xdg/menus/xfce-applications.menu
 %endif
 
-mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,gnome3-,kde3-,lxde-,xfce-}applications-merged
-mkdir -p %buildroot%_sysconfdir/xdg/menus/settings-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/{,enlightenment-,gnome-,gnome3-,kde3-,lxde-,mate-,xfce-}applications-merged
+mkdir -p %buildroot%_sysconfdir/xdg/menus/{,mate-}settings-merged
 
 install -D -m644 layout/kde4-merged.menu %buildroot%_sysconfdir/kde4/xdg/menus/applications-merged/50-kde4-merged.menu
 
@@ -300,6 +311,13 @@ touch /etc/xdg/menus/lxde-applications.menu
 %dir %_sysconfdir/xdg/menus/gnome3-applications-merged
 %endif
 
+%files mate
+%config %_sysconfdir/xdg/menus/mate-applications.menu
+%dir %_sysconfdir/xdg/menus/mate-applications-merged
+%config %_sysconfdir/xdg/menus/mate-settings.menu
+%dir %_sysconfdir/xdg/menus/mate-settings-merged
+
+
 %files kde3
 %config %_sysconfdir/xdg/menus/kde3-applications.menu
 %dir %_sysconfdir/xdg/menus/kde3-applications-merged
@@ -317,6 +335,9 @@ touch /etc/xdg/menus/lxde-applications.menu
 %_datadir/kde4/desktop-directories/altlinux-*.directory
 
 %changelog
+* Tue May 01 2012 Igor Vlasenko <viy@altlinux.ru> 0.51-alt1
+- added menu for MATE (Gnome 2)
+
 * Sun Apr 29 2012 Igor Vlasenko <viy@altlinux.ru> 0.50-alt1
 - layout/xfce-applications.menu - removed xfhelp4 (#27276)
 - note: from now on, backports for p6 should use 0.49 as base
