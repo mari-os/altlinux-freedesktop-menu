@@ -217,6 +217,7 @@ directory_in_files =			\
 	altlinux-java.directory.in		\
 	altlinux-xfce.directory.in		\
 	altlinux-gnome.directory.in		\
+	altlinux-mate.directory.in		\
 	altlinux-kde.directory.in		\
 	altlinux-lxde.directory.in		\
 	altlinux-rox.directory.in		\
@@ -226,6 +227,7 @@ directory_in_files =			\
 	altlinux-settings-java.directory.in		\
 	altlinux-settings-xfce.directory.in		\
 	altlinux-settings-gnome.directory.in		\
+	altlinux-settings-mate.directory.in		\
 	altlinux-settings-kde.directory.in		\
 	altlinux-settings-lxde.directory.in		\
 	altlinux-settings-rox.directory.in		\

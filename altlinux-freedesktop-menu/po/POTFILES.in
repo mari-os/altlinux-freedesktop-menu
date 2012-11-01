@@ -113,6 +113,7 @@ desktop-directories/altlinux-internet.directory.in
 desktop-directories/altlinux-java.directory.in
 desktop-directories/altlinux-kde.directory.in
 desktop-directories/altlinux-lxde.directory.in
+desktop-directories/altlinux-mate.directory.in
 desktop-directories/altlinux-mathematics.directory.in
 desktop-directories/altlinux-music.directory.in
 desktop-directories/altlinux-network-chat.directory.in
@@ -189,6 +190,7 @@ desktop-directories/altlinux-settings-hardware-settings-printing.directory.in
 desktop-directories/altlinux-settings-java.directory.in
 desktop-directories/altlinux-settings-kde.directory.in
 desktop-directories/altlinux-settings-lxde.directory.in
+desktop-directories/altlinux-settings-mate.directory.in
 desktop-directories/altlinux-settings-network.directory.in
 desktop-directories/altlinux-settings-other.directory.in
 desktop-directories/altlinux-settings-package-manager.directory.in

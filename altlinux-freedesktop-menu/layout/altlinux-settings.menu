@@ -227,6 +227,27 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<Name>MATE</Name>
+			<Directory>altlinux-settings-mate.directory</Directory>
+			<Include>
+				<And>
+					<Or>
+					<Category>MATE</Category>
+					<Category>X-Mate</Category>
+					</Or>
+					<Category>Settings</Category>
+					<Category>DesktopSettings</Category>
+				<Not><Category>Printing</Category></Not>
+				<Not><Category>HardwareSettings</Category></Not>
+				<Not><Category>PackageManager</Category></Not>
+				<Not><Category>Accessibility</Category></Not>
+				<Not><Category>Security</Category></Not>
+				<Not><Category>Network</Category></Not>
+				<Not><Category>System</Category></Not>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
 			<Name>LXDE</Name>
 			<Directory>altlinux-settings-lxde.directory</Directory>
 			<Include>
