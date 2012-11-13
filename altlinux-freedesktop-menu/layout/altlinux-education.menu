@@ -247,6 +247,7 @@
 				<Category>Education</Category>
 				<Or>
 					<Category>Teaching</Category>
+					<Category>X-Teaching</Category>
 					<Category>X-KDE-Edu-Teaching</Category>
 				</Or>
 			</And>
@@ -259,6 +260,7 @@
 			<And>
 				<Category>Education</Category>
 				<Not><Category>Teaching</Category></Not>
+				<Not><Category>X-Teaching</Category></Not>
 				<Not><Category>X-Typing</Category></Not>
 				<Not><Category>Typing</Category></Not>
 				<Not><Category>X-KDE-Edu-Teaching</Category></Not>
