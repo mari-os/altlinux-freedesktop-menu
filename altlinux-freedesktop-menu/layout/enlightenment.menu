@@ -1,0 +1,160 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+    <Name>Applications</Name>
+    <Directory>altlinux-applications.directory</Directory>
+
+    <!-- Search the default locations -->
+    <DefaultAppDirs/>
+    <DefaultDirectoryDirs/>
+
+    <DefaultLayout>
+      <Merge type="menus"/>
+      <Merge type="files"/>
+    </DefaultLayout>
+
+	<!-- Shallow Settings -->
+	<Menu>
+		<Name>Settings</Name>
+		<Directory>altlinux-settings-desktop.directory</Directory>
+		<Include>
+			<And>
+			<Category>Settings</Category>
+			</And>
+		</Include>
+	</Menu>
+
+    <Menu>
+        <Name>Accessories</Name>
+        <Directory>altlinux-utility.directory</Directory>
+        <Include>
+            <And>
+              <Or>
+                <Category>Core</Category>
+                <Category>Legacy</Category>
+                <Category>Utility</Category>
+              </Or>
+              <Not><Category>Accessibility</Category></Not>
+              <Not><Category>System</Category></Not>
+            </And>
+         </Include>
+    </Menu>
+
+    <Menu>
+      <!--<Name>Accessibility</Name>-->
+      <Name>Universal Access</Name>
+      <Directory>altlinux-utility-accessibility.directory</Directory>
+      <Include>
+        <And>
+          <Category>Accessibility</Category>
+          <Not><Category>Settings</Category></Not>
+        </And>
+      </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Development</Name>
+        <Directory>altlinux-development.directory</Directory>
+        <Include>
+            <Category>Development</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Education</Name>
+        <Directory>altlinux-education.directory</Directory>
+        <Include>
+            <Category>Education</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Science</Name>
+        <Directory>altlinux-science.directory</Directory>
+        <Include>
+	  <And>
+            <Category>Science</Category>
+            <Not><Category>Education</Category></Not>
+	  </And>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Games</Name>
+        <Directory>altlinux-game.directory</Directory>
+        <Include>
+            <Category>Game</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Graphics</Name>
+        <Directory>altlinux-graphics.directory</Directory>
+        <Include>
+            <Category>Graphics</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Internet</Name>
+        <Directory>altlinux-network.directory</Directory>
+        <Include>
+            <Category>Network</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Multimedia</Name>
+        <Directory>altlinux-audiovideo.directory</Directory>
+        <Include>
+            <Category>Audio</Category>
+            <Category>Video</Category>
+            <Category>AudioVideo</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Office</Name>
+        <Directory>altlinux-office.directory</Directory>
+        <Include>
+            <Category>Office</Category>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>System</Name>
+        <Directory>altlinux-system.directory</Directory>
+        <Include>
+            <And>
+            <Or>
+                <Category>Emulator</Category>
+                <Category>System</Category>
+            </Or>
+            <Not><Category>Settings</Category></Not>
+            </And>
+         </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Other</Name>
+      <Directory>altlinux-other.directory</Directory>
+      <OnlyUnallocated/>
+      <Include>
+	<All/>
+	<!--
+	    <And>
+	      <Not><Category>Core</Category></Not>
+	      <Not><Category>Settings</Category></Not>
+	      <Not><Category>Screensaver</Category></Not>
+	    </And>
+	    -->
+      </Include>
+    </Menu>
+
+    <DefaultMergeDirs/>
+
+	<MergeFile>applications-menueditor.menu</MergeFile>
+	<MergeFile>enlightenment-applications-menueditor.menu</MergeFile>
+</Menu>
