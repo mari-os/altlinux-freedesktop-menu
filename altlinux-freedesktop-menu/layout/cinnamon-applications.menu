@@ -1,0 +1,55 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+  <Name>Applications</Name>
+  <Directory>altlinux-applications.directory</Directory>
+
+  <!-- Scan legacy dirs first, as later items take priority -->
+  <!-- <KDELegacyDirs/> -->
+  <LegacyDir>/etc/X11/applnk</LegacyDir>
+  <LegacyDir>/usr/share/gnome/apps</LegacyDir>
+
+  <!-- Read standard .directory and .desktop file locations -->
+  <!-- <DefaultAppDirs/> -->
+  <!-- <DefaultDirectoryDirs/> -->
+
+  <!-- Read the global (common to all DEs) applications menu -->
+  <MergeFile>altlinux-applications.menu</MergeFile>
+  <MergeDir>applications-merged</MergeDir>
+
+  <!-- gnome tradition; let it be System Tools -->
+  <Menu>
+    <Name>System</Name>
+    <Directory>altlinux-system-tools.directory</Directory>
+  </Menu>
+
+  <!-- Accessibility submenu -->
+  <Move>
+    <Old>Accessories/Accessibility</Old>
+    <New>Universal Access</New>
+  </Move>
+  <!-- End Accessibility -->
+
+  <!-- cinnamon stuff -->
+  <!-- remove nested settings submenu -->
+  <Menu>
+    <Name>Settings</Name>
+    <Deleted/>
+  </Menu>
+  <!-- end remove nested settings submenu -->
+
+  <Menu>
+    <Name>Utility</Name>
+    <Menu>
+      <Name>Documentation</Name>
+    </Menu>
+  </Menu>
+  <!-- end cinnamon stuff -->
+
+  <MergeDir>cinnamon-applications-merged</MergeDir>
+  <MergeFile>applications-menueditor.menu</MergeFile>
+  <MergeFile>cinnamon-applications-menueditor.menu</MergeFile>
+
+</Menu>
