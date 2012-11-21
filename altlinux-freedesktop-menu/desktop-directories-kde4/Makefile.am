@@ -183,6 +183,7 @@ directory_in_files =			\
 	altlinux-settings-system.directory.in		\
 	altlinux-settings-desktop-settings.directory.in		\
 	altlinux-settings-personal.directory.in		\
+	altlinux-preferences.directory.in		\
 	altlinux-documentation.directory.in		\
 	altlinux-artificial-intelligence.directory.in		\
 	altlinux-electricity.directory.in		\
