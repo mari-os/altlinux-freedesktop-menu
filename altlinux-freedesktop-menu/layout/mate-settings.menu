@@ -22,7 +22,7 @@
   <Menu>
     <Name>Preferences</Name>
     <!--<Directory>altlinux-settings-personal.directory</Directory>-->
-    <Directory>mate-settings.directory</Directory>
+    <Directory>altlinux-preferences.directory</Directory>
     <Include>
       <And>
         <Category>Settings</Category>
