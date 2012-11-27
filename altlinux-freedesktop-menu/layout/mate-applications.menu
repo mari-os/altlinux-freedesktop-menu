@@ -48,6 +48,13 @@
 	<Filename>caja-home.desktop</Filename>
 	<Filename>caja-computer.desktop</Filename>
 	<Filename>mate-network-scheme.desktop</Filename>
+	<Filename>mate-network-scheme.desktop</Filename>
+    </Exclude>
+    <Exclude>
+      <Or>
+        <Category>Settings</Category>
+        <Category>Screensaver</Category>
+      </Or>
     </Exclude>
   </Menu>
 
