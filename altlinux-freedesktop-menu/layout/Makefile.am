@@ -20,14 +20,12 @@ menu_DATA =					\
 	applications.menu			\
 	enlightenment-applications.menu		\
 	enlightenment.menu			\
-	gnome-applications.menu			\
 	gnome3-applications.menu		\
 	kde3-applications.menu			\
 	lxde-applications.menu			\
 	mate-applications.menu			\
 	xfce-applications.menu			\
 	cinnamon-applications.menu		\
-	settings.menu				\
 	mate-settings.menu			\
 	cinnamon-settings.menu			\
 	$(NULL)
