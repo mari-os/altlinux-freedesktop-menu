@@ -47,6 +47,9 @@ msgstr "Адресные книги"
 msgid "Administration"
 msgstr "Администрирование"
 
+msgid "Adult"
+msgstr "Для взрослых"
+
 # Found in /home/zerg/tmp/tmp-menu-files/zangband
 msgid "Adventure"
 msgstr "Приключения"
@@ -56,6 +59,9 @@ msgstr ""
 
 msgid "Amateur Radio"
 msgstr "Любительское радио"
+
+msgid "Application handles adult or explicit material"
+msgstr ""
 
 msgid "Application to burn a disc"
 msgstr ""
@@ -305,6 +311,9 @@ msgstr "Тетрисы"
 msgid "Falling blocks games"
 msgstr ""
 
+msgid "Feed"
+msgstr "Ленты новостей"
+
 msgid "File Managers"
 msgstr "Файл-менеджеры"
 
@@ -384,6 +393,9 @@ msgstr "Оборудование"
 msgid "History"
 msgstr "Журнал"
 
+msgid "Humanities"
+msgstr "Гуманитарные"
+
 msgid "IDE"
 msgstr "IDE"
 
@@ -435,6 +447,9 @@ msgstr ""
 
 msgid "MIDI"
 msgstr ""
+
+msgid "Maps"
+msgstr "Карты"
 
 msgid "Math software"
 msgstr ""
@@ -580,10 +595,16 @@ msgstr "Издательство"
 msgid "ROX"
 msgstr "ROX"
 
+msgid "RSS, podcast and other subscription based contents"
+msgstr ""
+
 msgid "Raster Graphics"
 msgstr ""
 
 msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Religious and spiritual software, theology"
 msgstr ""
 
 # Found in /home/zerg/tmp/tmp-menu-files/menu
@@ -628,10 +649,19 @@ msgstr "Cеквенсеры"
 msgid "Settings"
 msgstr "Настройки"
 
+msgid "Shooter Games"
+msgstr ""
+
+msgid "Shooters"
+msgstr "Shooters"
+
 msgid "Simulation"
 msgstr "Симуляторы"
 
 msgid "Simulation Games"
+msgstr ""
+
+msgid "Software for philosophy, psychology and other humanities"
 msgstr ""
 
 msgid "Software to learn foreign languages"
@@ -646,9 +676,15 @@ msgstr ""
 msgid "Software to teach music"
 msgstr ""
 
+msgid "Sofware for viewing maps, navigation, mapping, GPS"
+msgstr ""
+
 # Found in /home/zerg/tmp/tmp-menu-files/xmms
 msgid "Sound"
 msgstr "Звук"
+
+msgid "Spirituality"
+msgstr "Духовность"
 
 # Found in /home/zerg/tmp/tmp-menu-files/tuxracer
 msgid "Sports"
@@ -718,6 +754,9 @@ msgstr ""
 # Found in /home/zerg/tmp/tmp-menu-files/menu
 msgid "Text tools"
 msgstr "Текстовые утилиты"
+
+msgid "Theology"
+msgstr "Богословие"
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""

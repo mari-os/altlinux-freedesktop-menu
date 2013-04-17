@@ -5,7 +5,6 @@ menudir = $(sysconfdir)/xdg/menus
 menu_DATA =					\
 	altlinux-applications-nested.menu	\
 	altlinux-applications-shallow.menu	\
-	altlinux-applications-shallow-gnomish.menu	\
 	altlinux-development.menu		\
 	altlinux-education.menu			\
 	altlinux-games.menu			\
@@ -20,7 +19,7 @@ menu_DATA =					\
 	applications.menu			\
 	enlightenment-applications.menu		\
 	enlightenment.menu			\
-	gnome3-applications.menu		\
+	gnome-applications.menu			\
 	kde3-applications.menu			\
 	lxde-applications.menu			\
 	mate-applications.menu			\

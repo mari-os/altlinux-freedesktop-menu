@@ -16,6 +16,7 @@ directory_in_files =			\
 	altlinux-game-kids.directory.in		\
 	altlinux-game-roleplaying.directory.in		\
 	altlinux-game-action.directory.in		\
+	altlinux-game-shooter.directory.in		\
 	altlinux-game-blocks.directory.in		\
 	altlinux-game-simulation.directory.in		\
 	altlinux-game-emulator.directory.in		\
@@ -30,6 +31,7 @@ directory_in_files =			\
 	altlinux-network-dialup.directory.in		\
 	altlinux-network-email.directory.in		\
 	altlinux-network-news.directory.in		\
+	altlinux-network-feed.directory.in		\
 	altlinux-network-filetransfer.directory.in		\
 	altlinux-network-remoteaccess.directory.in		\
 	altlinux-network-p2p.directory.in		\
@@ -62,6 +64,8 @@ directory_in_files =			\
 	altlinux-science-chemistry.directory.in		\
 	altlinux-science-computerscience.directory.in		\
 	altlinux-science-geoscience.directory.in		\
+	altlinux-science-humanities.directory.in		\
+	altlinux-science-spirituality.directory.in		\
 	altlinux-science-math.directory.in		\
 	altlinux-science-physics.directory.in		\
 	altlinux-science-geology.directory.in		\
@@ -131,6 +135,8 @@ directory_in_files =			\
 	altlinux-education-chemistry.directory.in		\
 	altlinux-education-computerscience.directory.in		\
 	altlinux-education-geoscience.directory.in		\
+	altlinux-education-humanities.directory.in		\
+	altlinux-education-spirituality.directory.in		\
 	altlinux-education-physics.directory.in		\
 	altlinux-education-geology.directory.in		\
 	altlinux-education-music.directory.in		\
@@ -160,6 +166,9 @@ directory_in_files =			\
 	altlinux-utility-texttools.directory.in		\
 	altlinux-utility-texteditor.directory.in		\
 	altlinux-utility-accessibility.directory.in		\
+	altlinux-utility-maps.directory.in		\
+	altlinux-education-maps.directory.in		\
+	altlinux-science-maps.directory.in		\
 	altlinux-utility-telephonytools.directory.in		\
 	altlinux-utility-calculator.directory.in		\
 	altlinux-utility-clock.directory.in		\
@@ -185,26 +194,29 @@ directory_in_files =			\
 	altlinux-settings-personal.directory.in		\
 	altlinux-preferences.directory.in		\
 	altlinux-documentation.directory.in		\
-	altlinux-artificial-intelligence.directory.in		\
+	altlinux-artificialintelligence.directory.in		\
 	altlinux-electricity.directory.in		\
-	altlinux-data-visualization.directory.in		\
-	altlinux-image-processing.directory.in		\
-	altlinux-numerical-analysis.directory.in		\
+	altlinux-datavisualization.directory.in		\
+	altlinux-imageprocessing.directory.in		\
+	altlinux-numericalanalysis.directory.in		\
 	altlinux-robotics.directory.in		\
-	altlinux-parallel-computing.directory.in		\
+	altlinux-parallelcomputing.directory.in		\
 	altlinux-mathematics.directory.in		\
 	altlinux-astronomy.directory.in		\
 	altlinux-biology.directory.in		\
 	altlinux-chemistry.directory.in		\
-	altlinux-computer-science.directory.in		\
+	altlinux-computerscience.directory.in		\
 	altlinux-geoscience.directory.in		\
+	altlinux-humanities.directory.in		\
+	altlinux-spirituality.directory.in		\
 	altlinux-physics.directory.in		\
 	altlinux-geology.directory.in		\
+	altlinux-adult.directory.in		\
 	altlinux-music.directory.in		\
 	altlinux-photography.directory.in		\
 	altlinux-viewer.directory.in		\
 	altlinux-webdevelopment.directory.in		\
-	altlinux-ham-radio.directory.in		\
+	altlinux-hamradio.directory.in		\
 	altlinux-telephonytools.directory.in		\
 	altlinux-email.directory.in		\
 	altlinux-database.directory.in		\

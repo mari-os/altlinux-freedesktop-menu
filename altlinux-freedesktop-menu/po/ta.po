@@ -52,6 +52,9 @@ msgstr ""
 msgid "Administration"
 msgstr "நிர்வாகம்"
 
+msgid "Adult"
+msgstr ""
+
 msgid "Adventure"
 msgstr "துணிகரப் பயணம்"
 
@@ -60,6 +63,9 @@ msgstr ""
 
 msgid "Amateur Radio"
 msgstr "கலைப்பிரியர் வானொலி"
+
+msgid "Application handles adult or explicit material"
+msgstr ""
 
 msgid "Application to burn a disc"
 msgstr ""
@@ -286,6 +292,9 @@ msgstr ""
 msgid "Falling blocks games"
 msgstr ""
 
+msgid "Feed"
+msgstr ""
+
 msgid "File Managers"
 msgstr ""
 
@@ -358,6 +367,9 @@ msgstr "வண் பொருட்கள்"
 msgid "History"
 msgstr "&சரித்திரம்"
 
+msgid "Humanities"
+msgstr ""
+
 msgid "IDE"
 msgstr ""
 
@@ -407,6 +419,9 @@ msgid "MATE"
 msgstr ""
 
 msgid "MIDI"
+msgstr ""
+
+msgid "Maps"
 msgstr ""
 
 msgid "Math software"
@@ -538,10 +553,16 @@ msgstr ""
 msgid "ROX"
 msgstr ""
 
+msgid "RSS, podcast and other subscription based contents"
+msgstr ""
+
 msgid "Raster Graphics"
 msgstr ""
 
 msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Religious and spiritual software, theology"
 msgstr ""
 
 msgid "Remote access"
@@ -583,10 +604,19 @@ msgstr ""
 msgid "Settings"
 msgstr "அமைப்புகள்"
 
+msgid "Shooter Games"
+msgstr ""
+
+msgid "Shooters"
+msgstr ""
+
 msgid "Simulation"
 msgstr "பாவனை"
 
 msgid "Simulation Games"
+msgstr ""
+
+msgid "Software for philosophy, psychology and other humanities"
 msgstr ""
 
 msgid "Software to learn foreign languages"
@@ -601,8 +631,14 @@ msgstr ""
 msgid "Software to teach music"
 msgstr ""
 
+msgid "Sofware for viewing maps, navigation, mapping, GPS"
+msgstr ""
+
 msgid "Sound"
 msgstr "ஒலி"
+
+msgid "Spirituality"
+msgstr ""
 
 msgid "Sports"
 msgstr "விளையாட்டு"
@@ -666,6 +702,9 @@ msgstr ""
 
 msgid "Text tools"
 msgstr "உரை கருவிகள்"
+
+msgid "Theology"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""

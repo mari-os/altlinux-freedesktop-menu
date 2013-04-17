@@ -40,7 +40,11 @@
 		<Include>
 			<And>
 				<Category>Science</Category>
+				<Or>
 				<Category>ComputerScience</Category>
+				<Category>ParallelComputing</Category>
+				<Category>ArtificialIntelligence</Category>
+				</Or>
 			</And>
 		</Include>
 	</Menu>
@@ -55,12 +59,25 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Humanities</Name>
+		<Directory>altlinux-science-humanities.directory</Directory>
+		<Include>
+			<And>
+				<Category>Science</Category>
+				<Category>Humanities</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Math</Name>
 		<Directory>altlinux-science-math.directory</Directory>
 		<Include>
 			<And>
 				<Category>Science</Category>
+				<Or>
 				<Category>Math</Category>
+				<Category>NumericalAnalysis</Category>
+				</Or>
 			</And>
 		</Include>
 	</Menu>
@@ -85,19 +102,34 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Spirituality</Name>
+		<Directory>altlinux-science-spirituality.directory</Directory>
+		<Include>
+			<And>
+				<Category>Science</Category>
+				<Category>Spirituality</Category>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>Other</Name>
 		<Directory>altlinux-science-other.directory</Directory>
 		<Include>
 			<And>
 				<Category></Category>
+				<Not><Category>ArtificialIntelligence</Category></Not>
 				<Not><Category>Astronomy</Category></Not>
 				<Not><Category>Biology</Category></Not>
 				<Not><Category>Chemistry</Category></Not>
 				<Not><Category>ComputerScience</Category></Not>
-				<Not><Category>Geoscience</Category></Not>
-				<Not><Category>Math</Category></Not>
-				<Not><Category>Physics</Category></Not>
 				<Not><Category>Geology</Category></Not>
+				<Not><Category>Geoscience</Category></Not>
+				<Not><Category>Humanities</Category></Not>
+				<Not><Category>Math</Category></Not>
+				<Not><Category>NumericalAnalysis</Category></Not>
+				<Not><Category>ParallelComputing</Category></Not>
+				<Not><Category>Physics</Category></Not>
+				<Not><Category>Spirituality</Category></Not>
 				<Not><Category>Education</Category></Not>
 			</And>
 		</Include>
@@ -105,12 +137,9 @@
 </Menu>
 <!-- categories
 ## TODO
-#ArtificialIntelligence	Artificial Intelligence software	Education;Science
 #DataVisualization	Data visualization software	Education;Science
 #Electricity	Electricity software	Education;Science
 #ImageProcessing	Image Processing software	Education;Science
-#NumericalAnalysis	Numerical analysis software	Education;Science;Math
 #MedicalSoftware	Medical software	Education;Science
 #Robotics	Robotics software	Education;Science
-#ParallelComputing	Parallel computing software	Education;Science;ComputerScience
 -->

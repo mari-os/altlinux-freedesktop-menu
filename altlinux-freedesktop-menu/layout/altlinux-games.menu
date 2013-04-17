@@ -12,6 +12,7 @@
 				<Category>Game</Category>
 				<Or>
 					<Category>ActionGame</Category>
+					<Category>Shooter</Category>
 				</Or>
 			</And>
 		</Include>
@@ -142,6 +143,7 @@
 				<Category>Game</Category>
 				<Not>
 					<Category>ActionGame</Category>
+					<Category>Shooter</Category>
 					<Category>SportsGame</Category>
 					<Category>Simulation</Category>
 					<Category>AdventureGame</Category>

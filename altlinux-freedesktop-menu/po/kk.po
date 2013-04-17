@@ -50,6 +50,9 @@ msgstr "Адрестік кітапшалар"
 msgid "Administration"
 msgstr "Әкімшілік ету"
 
+msgid "Adult"
+msgstr ""
+
 msgid "Adventure"
 msgstr "Оқиғалы ойындар"
 
@@ -58,6 +61,9 @@ msgstr "Оқиғалы ойындар"
 
 msgid "Amateur Radio"
 msgstr "Әуесқой радиобайланыс"
+
+msgid "Application handles adult or explicit material"
+msgstr ""
 
 msgid "Application to burn a disc"
 msgstr "Дискіге жазу қолданбасы"
@@ -284,6 +290,9 @@ msgstr "Тетристер"
 msgid "Falling blocks games"
 msgstr "Тетрис ойындары"
 
+msgid "Feed"
+msgstr ""
+
 msgid "File Managers"
 msgstr "Файлдар басқарушылары"
 
@@ -356,6 +365,9 @@ msgstr "Құрылғылар"
 msgid "History"
 msgstr "Тарих"
 
+msgid "Humanities"
+msgstr ""
+
 msgid "IDE"
 msgstr "IDE"
 
@@ -406,6 +418,9 @@ msgstr "MATE"
 
 msgid "MIDI"
 msgstr "MIDI"
+
+msgid "Maps"
+msgstr ""
 
 msgid "Math software"
 msgstr "Математикалық бағдарламалар"
@@ -536,11 +551,17 @@ msgstr "Жариялау"
 msgid "ROX"
 msgstr "ROX"
 
+msgid "RSS, podcast and other subscription based contents"
+msgstr ""
+
 msgid "Raster Graphics"
 msgstr "Растрлік графика"
 
 msgid "Raster based graphical applications"
 msgstr "Растрлік графика қолданбалары"
+
+msgid "Religious and spiritual software, theology"
+msgstr ""
 
 msgid "Remote access"
 msgstr "Қашықтан қатынау"
@@ -581,11 +602,20 @@ msgstr "Секвенсорлар"
 msgid "Settings"
 msgstr "Баптаулар"
 
+msgid "Shooter Games"
+msgstr ""
+
+msgid "Shooters"
+msgstr ""
+
 msgid "Simulation"
 msgstr "Симуляция"
 
 msgid "Simulation Games"
 msgstr "Симуляция ойындары"
+
+msgid "Software for philosophy, psychology and other humanities"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr "Өзге тілдерді үйрену бағдарламалары"
@@ -599,8 +629,14 @@ msgstr "Өнерді үйрету бағдарламалары"
 msgid "Software to teach music"
 msgstr "Музыканы үйрету бағдарламалары"
 
+msgid "Sofware for viewing maps, navigation, mapping, GPS"
+msgstr ""
+
 msgid "Sound"
 msgstr "Дыбыс"
+
+msgid "Spirituality"
+msgstr ""
 
 msgid "Sports"
 msgstr "Спорт"
@@ -664,6 +700,9 @@ msgstr "Мәтіндік сайман утилиталары"
 
 msgid "Text tools"
 msgstr "Мәтіндік саймандар"
+
+msgid "Theology"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr "Қарау үшін қолданба, мыс. суретті не pdf файлын"

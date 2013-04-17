@@ -50,6 +50,9 @@ msgstr "Адреслар китабы"
 msgid "Administration"
 msgstr "Идарә итү"
 
+msgid "Adult"
+msgstr ""
+
 msgid "Adventure"
 msgstr "Маҗаралар"
 
@@ -58,6 +61,9 @@ msgstr "Маҗаралы уеннар"
 
 msgid "Amateur Radio"
 msgstr "Һәвәскәрләрнең радиолары"
+
+msgid "Application handles adult or explicit material"
+msgstr ""
 
 msgid "Application to burn a disc"
 msgstr "Компакт-дискларга яза алучы кушымта"
@@ -284,6 +290,9 @@ msgstr "Төшүче блоклар"
 msgid "Falling blocks games"
 msgstr "Төшәче блоклар уеннары"
 
+msgid "Feed"
+msgstr ""
+
 msgid "File Managers"
 msgstr "Файл менеджерлары"
 
@@ -356,6 +365,9 @@ msgstr "Җиһазлар"
 msgid "History"
 msgstr "Тарих"
 
+msgid "Humanities"
+msgstr ""
+
 msgid "IDE"
 msgstr "IDE"
 
@@ -406,6 +418,9 @@ msgstr ""
 
 msgid "MIDI"
 msgstr "MIDI"
+
+msgid "Maps"
+msgstr ""
 
 msgid "Math software"
 msgstr "Математик кушымталар"
@@ -536,11 +551,17 @@ msgstr "Бастырып чыгару"
 msgid "ROX"
 msgstr "ROX"
 
+msgid "RSS, podcast and other subscription based contents"
+msgstr ""
+
 msgid "Raster Graphics"
 msgstr "Растерлы графика"
 
 msgid "Raster based graphical applications"
 msgstr "Растерлы графика кушымталары"
+
+msgid "Religious and spiritual software, theology"
+msgstr ""
 
 msgid "Remote access"
 msgstr "Ерактан керү"
@@ -581,11 +602,20 @@ msgstr "Секвенсорлар"
 msgid "Settings"
 msgstr "Көйләүләр"
 
+msgid "Shooter Games"
+msgstr ""
+
+msgid "Shooters"
+msgstr ""
+
 msgid "Simulation"
 msgstr "Симуляция"
 
 msgid "Simulation Games"
 msgstr "Симуляцияле уеннар"
+
+msgid "Software for philosophy, psychology and other humanities"
+msgstr ""
 
 msgid "Software to learn foreign languages"
 msgstr "Чит телләргә өйрәтүче кушымталар"
@@ -599,8 +629,14 @@ msgstr "Рәсемләүгә өйрәтүче кушымталар"
 msgid "Software to teach music"
 msgstr "Музыкага өйрәтүче кушымталар"
 
+msgid "Sofware for viewing maps, navigation, mapping, GPS"
+msgstr ""
+
 msgid "Sound"
 msgstr "Тавыш"
+
+msgid "Spirituality"
+msgstr ""
 
 msgid "Sports"
 msgstr "Спорт"
@@ -664,6 +700,9 @@ msgstr "Текстны эшкәртүче кораллар"
 
 msgid "Text tools"
 msgstr "Текст кораллары"
+
+msgid "Theology"
+msgstr ""
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""

@@ -40,7 +40,11 @@
 				<Not><Category>Astronomy</Category></Not>
 				<Not><Category>Chemistry</Category></Not>
 				<Not><Category>ComputerScience</Category></Not>
+				<Not><Category>Geography</Category></Not>
 				<Not><Category>Geoscience</Category></Not>
+				<Not><Category>Humanities</Category></Not>
+				<Not><Category>Maps</Category></Not>
+				<Not><Category>Spirituality</Category></Not>
 				<Not><Category>Physics</Category></Not>
 				<Not><Category>Geology</Category></Not>
 			</And>
@@ -182,7 +186,10 @@
 		<Include>
 			<And>
 				<Category>Education</Category>
+			<Or>
 				<Category>Geography</Category>
+				<Category>Maps</Category>
+			</Or>
 			</And>
 		</Include>
 	</Menu>
@@ -265,8 +272,6 @@
 				<Not><Category>Typing</Category></Not>
 				<Not><Category>X-KDE-Edu-Teaching</Category></Not>
 				<Not><Category>X-KDE-Edu-Language</Category></Not>
-				<Not><Category>Languages</Category></Not>
-				<Not><Category>Math</Category></Not>
 				<Not><Category>Science</Category></Not>
 				<Not><Category>Astronomy</Category></Not>
 				<Not><Category>Chemistry</Category></Not>
@@ -277,11 +282,16 @@
 				<Not><Category>Music</Category></Not>
 				<Not><Category>Art</Category></Not>
 				<Not><Category>Construction</Category></Not>
-				<Not><Category>History</Category></Not>
 				<Not><Category>Economy</Category></Not>
 				<Not><Category>Electricity</Category></Not>
 				<Not><Category>Geography</Category></Not>
+				<Not><Category>History</Category></Not>
+				<Not><Category>Humanities</Category></Not>
+				<Not><Category>Languages</Category></Not>
 				<Not><Category>Literature</Category></Not>
+				<Not><Category>Maps</Category></Not>
+				<Not><Category>Math</Category></Not>
+				<Not><Category>Spirituality</Category></Not>
 				<Not><Category>Sports</Category></Not>
 				<Not><Category>Robotics</Category></Not>
 

@@ -26,6 +26,7 @@
 					<Not><Category>Accessibility</Category></Not>
 					<Not><Category>Calculator</Category></Not>
 					<Not><Category>Clock</Category></Not>
+					<Not><Category>Maps</Category></Not>
 					<Not><Category>TelephonyTools</Category></Not>
 				</And>
 			</Or>
@@ -85,6 +86,16 @@
 				<Category>Utility</Category>
 				<Category>Archiving</Category>
 				<Not><Category>Compression</Category></Not>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Maps</Name>
+		<Directory>altlinux-utility-maps.directory</Directory>
+		<Include>
+			<And>
+				<Category>Utility</Category>
+				<Category>Maps</Category>
 			</And>
 		</Include>
 	</Menu>
@@ -161,6 +172,7 @@
 				<Not><Category>Calculator</Category></Not>
 				<Not><Category>Clock</Category></Not>
 				<Not><Category>TelephonyTools</Category></Not>
+				<Not><Category>Maps</Category></Not>
 
 				<Not><Category>Applet</Category></Not>
 				<Not><Category>X-KDE-Utilities-Desktop</Category></Not>

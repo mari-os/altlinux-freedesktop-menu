@@ -45,6 +45,9 @@ msgstr "Адресна книжка"
 msgid "Administration"
 msgstr "Адміністрування"
 
+msgid "Adult"
+msgstr "Для дорослих"
+
 msgid "Adventure"
 msgstr "Пригоди"
 
@@ -52,6 +55,9 @@ msgid "Adventure style games"
 msgstr ""
 
 msgid "Amateur Radio"
+msgstr ""
+
+msgid "Application handles adult or explicit material"
 msgstr ""
 
 msgid "Application to burn a disc"
@@ -280,6 +286,9 @@ msgstr "Тетріси"
 msgid "Falling blocks games"
 msgstr ""
 
+msgid "Feed"
+msgstr "RSS новини"
+
 msgid "File Managers"
 msgstr "Файлові менеджери"
 
@@ -352,6 +361,9 @@ msgstr "Залізо"
 msgid "History"
 msgstr "Історія"
 
+msgid "Humanities"
+msgstr "Гуманитарні"
+
 msgid "IDE"
 msgstr ""
 
@@ -402,6 +414,9 @@ msgstr ""
 
 msgid "MIDI"
 msgstr ""
+
+msgid "Maps"
+msgstr "Карти"
 
 msgid "Math software"
 msgstr ""
@@ -532,10 +547,16 @@ msgstr "Публікування"
 msgid "ROX"
 msgstr "ROX"
 
+msgid "RSS, podcast and other subscription based contents"
+msgstr ""
+
 msgid "Raster Graphics"
 msgstr ""
 
 msgid "Raster based graphical applications"
+msgstr ""
+
+msgid "Religious and spiritual software, theology"
 msgstr ""
 
 msgid "Remote access"
@@ -577,10 +598,19 @@ msgstr "Cеквенсери"
 msgid "Settings"
 msgstr "Налаштування"
 
+msgid "Shooter Games"
+msgstr ""
+
+msgid "Shooters"
+msgstr ""
+
 msgid "Simulation"
 msgstr "Симулятори"
 
 msgid "Simulation Games"
+msgstr ""
+
+msgid "Software for philosophy, psychology and other humanities"
 msgstr ""
 
 msgid "Software to learn foreign languages"
@@ -595,8 +625,14 @@ msgstr ""
 msgid "Software to teach music"
 msgstr ""
 
+msgid "Sofware for viewing maps, navigation, mapping, GPS"
+msgstr ""
+
 msgid "Sound"
 msgstr "Звук"
+
+msgid "Spirituality"
+msgstr "Духовність"
 
 msgid "Sports"
 msgstr "Спорт"
@@ -660,6 +696,9 @@ msgstr ""
 
 msgid "Text tools"
 msgstr "Текстові інструменти"
+
+msgid "Theology"
+msgstr "Богослов'я"
 
 msgid "Tool to view e.g. a graphic or pdf file"
 msgstr ""

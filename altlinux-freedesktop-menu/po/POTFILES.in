@@ -1,6 +1,7 @@
+desktop-directories/altlinux-adult.directory.in
 desktop-directories/altlinux-amusement.directory.in
 desktop-directories/altlinux-applications.directory.in
-desktop-directories/altlinux-artificial-intelligence.directory.in
+desktop-directories/altlinux-artificialintelligence.directory.in
 desktop-directories/altlinux-astronomy.directory.in
 desktop-directories/altlinux-audiovideo-audio-audiovideoediting.directory.in
 desktop-directories/altlinux-audiovideo-audio.directory.in
@@ -26,9 +27,9 @@ desktop-directories/altlinux-audiovideo-video-player.directory.in
 desktop-directories/altlinux-audiovideo-video-recorder.directory.in
 desktop-directories/altlinux-biology.directory.in
 desktop-directories/altlinux-chemistry.directory.in
-desktop-directories/altlinux-computer-science.directory.in
+desktop-directories/altlinux-computerscience.directory.in
 desktop-directories/altlinux-database.directory.in
-desktop-directories/altlinux-data-visualization.directory.in
+desktop-directories/altlinux-datavisualization.directory.in
 desktop-directories/altlinux-development-building.directory.in
 desktop-directories/altlinux-development-database.directory.in
 desktop-directories/altlinux-development-debugger.directory.in
@@ -58,9 +59,11 @@ desktop-directories/altlinux-education-geography.directory.in
 desktop-directories/altlinux-education-geology.directory.in
 desktop-directories/altlinux-education-geoscience.directory.in
 desktop-directories/altlinux-education-history.directory.in
+desktop-directories/altlinux-education-humanities.directory.in
 desktop-directories/altlinux-education-imageprocessing.directory.in
 desktop-directories/altlinux-education-languages.directory.in
 desktop-directories/altlinux-education-literature.directory.in
+desktop-directories/altlinux-education-maps.directory.in
 desktop-directories/altlinux-education-math.directory.in
 desktop-directories/altlinux-education-medicalsoftware.directory.in
 desktop-directories/altlinux-education-music.directory.in
@@ -70,6 +73,7 @@ desktop-directories/altlinux-education-parallelcomputing.directory.in
 desktop-directories/altlinux-education-physics.directory.in
 desktop-directories/altlinux-education-robotics.directory.in
 desktop-directories/altlinux-education-science.directory.in
+desktop-directories/altlinux-education-spirituality.directory.in
 desktop-directories/altlinux-education-sports.directory.in
 desktop-directories/altlinux-education-teaching.directory.in
 desktop-directories/altlinux-electricity.directory.in
@@ -90,6 +94,7 @@ desktop-directories/altlinux-game-kids.directory.in
 desktop-directories/altlinux-game-logic.directory.in
 desktop-directories/altlinux-game-other.directory.in
 desktop-directories/altlinux-game-roleplaying.directory.in
+desktop-directories/altlinux-game-shooter.directory.in
 desktop-directories/altlinux-game-simulation.directory.in
 desktop-directories/altlinux-game-sports.directory.in
 desktop-directories/altlinux-game-strategy.directory.in
@@ -107,8 +112,9 @@ desktop-directories/altlinux-graphics-scanning.directory.in
 desktop-directories/altlinux-graphics-scanning-ocr.directory.in
 desktop-directories/altlinux-graphics-vectorgraphics.directory.in
 desktop-directories/altlinux-graphics-viewer.directory.in
-desktop-directories/altlinux-ham-radio.directory.in
-desktop-directories/altlinux-image-processing.directory.in
+desktop-directories/altlinux-hamradio.directory.in
+desktop-directories/altlinux-humanities.directory.in
+desktop-directories/altlinux-imageprocessing.directory.in
 desktop-directories/altlinux-internet.directory.in
 desktop-directories/altlinux-java.directory.in
 desktop-directories/altlinux-kde.directory.in
@@ -121,6 +127,7 @@ desktop-directories/altlinux-network-communication.directory.in
 desktop-directories/altlinux-network-dialup.directory.in
 desktop-directories/altlinux-network.directory.in
 desktop-directories/altlinux-network-email.directory.in
+desktop-directories/altlinux-network-feed.directory.in
 desktop-directories/altlinux-network-filetransfer.directory.in
 desktop-directories/altlinux-network-hamradio.directory.in
 desktop-directories/altlinux-network-instantmessaging.directory.in
@@ -134,7 +141,7 @@ desktop-directories/altlinux-network-telephonytools.directory.in
 desktop-directories/altlinux-network-videoconference.directory.in
 desktop-directories/altlinux-network-webbrowser.directory.in
 desktop-directories/altlinux-network-webdevelopment.directory.in
-desktop-directories/altlinux-numerical-analysis.directory.in
+desktop-directories/altlinux-numericalanalysis.directory.in
 desktop-directories/altlinux-office-calendar.directory.in
 desktop-directories/altlinux-office-chart.directory.in
 desktop-directories/altlinux-office-contactmanagement.directory.in
@@ -154,7 +161,7 @@ desktop-directories/altlinux-office-spreadsheet.directory.in
 desktop-directories/altlinux-office-viewer.directory.in
 desktop-directories/altlinux-office-wordprocessor.directory.in
 desktop-directories/altlinux-other.directory.in
-desktop-directories/altlinux-parallel-computing.directory.in
+desktop-directories/altlinux-parallelcomputing.directory.in
 desktop-directories/altlinux-photography.directory.in
 desktop-directories/altlinux-physics.directory.in
 desktop-directories/altlinux-preferences.directory.in
@@ -172,7 +179,9 @@ desktop-directories/altlinux-science.directory.in
 desktop-directories/altlinux-science-electricity.directory.in
 desktop-directories/altlinux-science-geology.directory.in
 desktop-directories/altlinux-science-geoscience.directory.in
+desktop-directories/altlinux-science-humanities.directory.in
 desktop-directories/altlinux-science-imageprocessing.directory.in
+desktop-directories/altlinux-science-maps.directory.in
 desktop-directories/altlinux-science-math.directory.in
 desktop-directories/altlinux-science-medicalsoftware.directory.in
 desktop-directories/altlinux-science-numericalanalysis.directory.in
@@ -180,6 +189,7 @@ desktop-directories/altlinux-science-other.directory.in
 desktop-directories/altlinux-science-parallelcomputing.directory.in
 desktop-directories/altlinux-science-physics.directory.in
 desktop-directories/altlinux-science-robotics.directory.in
+desktop-directories/altlinux-science-spirituality.directory.in
 desktop-directories/altlinux-screensaver.directory.in
 desktop-directories/altlinux-security.directory.in
 desktop-directories/altlinux-settings-accessibility.directory.in
@@ -200,6 +210,7 @@ desktop-directories/altlinux-settings-rox.directory.in
 desktop-directories/altlinux-settings-security.directory.in
 desktop-directories/altlinux-settings-system.directory.in
 desktop-directories/altlinux-settings-xfce.directory.in
+desktop-directories/altlinux-spirituality.directory.in
 desktop-directories/altlinux-system.directory.in
 desktop-directories/altlinux-system-emulator.directory.in
 desktop-directories/altlinux-system-filemanager.directory.in
@@ -220,6 +231,7 @@ desktop-directories/altlinux-utility-clock.directory.in
 desktop-directories/altlinux-utility-desktop.directory.in
 desktop-directories/altlinux-utility.directory.in
 desktop-directories/altlinux-utility-filetools.directory.in
+desktop-directories/altlinux-utility-maps.directory.in
 desktop-directories/altlinux-utility-other.directory.in
 desktop-directories/altlinux-utility-telephonytools.directory.in
 desktop-directories/altlinux-utility-texteditor.directory.in

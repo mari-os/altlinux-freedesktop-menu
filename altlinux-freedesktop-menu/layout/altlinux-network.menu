@@ -36,6 +36,17 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Feed</Name>
+		<Directory>altlinux-network-feed.directory</Directory>
+		<Include>
+			<And>
+				<Category>Network</Category>
+				<Category>Feed</Category>
+				<Not><Category>Email</Category></Not>
+			</And>
+		</Include>
+	</Menu>
+	<Menu>
 		<Name>FileTransfer</Name>
 		<Directory>altlinux-network-filetransfer.directory</Directory>
 		<Include>
