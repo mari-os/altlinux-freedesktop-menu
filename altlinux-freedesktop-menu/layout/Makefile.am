@@ -19,7 +19,7 @@ menu_DATA =					\
 	applications.menu			\
 	enlightenment-applications.menu		\
 	enlightenment.menu			\
-	gnome-applications.menu			\
+	gnome3-applications.menu		\
 	kde3-applications.menu			\
 	lxde-applications.menu			\
 	mate-applications.menu			\
