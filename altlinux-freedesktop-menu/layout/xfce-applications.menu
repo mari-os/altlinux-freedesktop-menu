@@ -27,7 +27,6 @@
     </Menu>
 
     <MergeFile>altlinux-applications.menu</MergeFile>
-    <MergeDir>applications-merged</MergeDir>
 
     <Layout>
         <Filename>xfce4-run.desktop</Filename>

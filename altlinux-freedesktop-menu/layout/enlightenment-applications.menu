@@ -25,7 +25,7 @@
 
 	<!-- unfortunately, enlightenment e17-0.16.999.55225
 	     crashes on MergeDir. uncomment when fixed.
-	     MergeDir>xfce-applications-merged</MergeDir
+	     MergeDir>enlightenment-applications-merged</MergeDir
 	  -->
 
 	<MergeFile>applications-menueditor.menu</MergeFile>
