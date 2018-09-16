@@ -47,6 +47,35 @@
     </Menu>
   </Menu>
   <!-- end cinnamon stuff -->
+  
+    <!-- Merge in these other files as submenus -->
+  <Menu>
+    <Name>Preferences</Name>
+    <Directory>altlinux-preferences.directory</Directory>
+    <Include>
+      <And>
+        <Category>Settings</Category>
+        <Not>
+          <Or>
+            <Category>System</Category>
+            <Filename>cinnamon-settings.desktop</Filename>
+          </Or>
+        </Not>
+      </And>
+    </Include>
+  </Menu>
+
+  <!-- System Settings -->
+  <Menu>
+    <Name>Administration</Name>
+    <Directory>altlinux-settings-system.directory</Directory>
+    <Include>
+      <And>
+        <Category>Settings</Category>
+        <Category>System</Category>
+      </And>
+    </Include>
+  </Menu>     <!-- End System Settings -->
 
   <MergeDir>cinnamon-applications-merged</MergeDir>
   <MergeFile>applications-menueditor.menu</MergeFile>

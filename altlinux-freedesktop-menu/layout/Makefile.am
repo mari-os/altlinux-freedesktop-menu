@@ -26,7 +26,6 @@ menu_DATA =					\
 	xfce-applications.menu			\
 	cinnamon-applications.menu		\
 	mate-settings.menu			\
-	cinnamon-settings.menu			\
 	$(NULL)
 
 EXTRA_DIST= $(menu_DATA)
