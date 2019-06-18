@@ -7,6 +7,9 @@ if stat -t /var/tmp/kdecache-*/ >/dev/null 2>&1
 then
     for kdedir in /var/tmp/kdecache-*/; do
 	user=`echo $kdedir|sed -e 's,^/var/tmp/kdecache-,,;s,/$,,'`
+	if [ -e "$kdedir/ksycoca5" ] && [ -x /usr/bin/kbuildsycoca5 ]; then
+	    su -l -s /bin/sh -c '/usr/bin/kbuildsycoca5 --noincremental' $user >/dev/null 2>&1 ||:
+	fi
 	if [ -e "$kdedir/ksycoca4" ] && [ -x /usr/bin/kbuildsycoca4 ]; then
 	    su -l -s /bin/sh -c '/usr/bin/kbuildsycoca4 --noincremental' $user >/dev/null 2>&1 ||:
 	fi
