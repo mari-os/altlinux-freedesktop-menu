@@ -5,7 +5,7 @@
 
 Name: altlinux-freedesktop-menu
 Version: 0.68
-Release: alt1
+Release: alt999
 
 Summary: Implementation of the freedesktop.org menu specification
 License: ALT-Public-Domain or GPLv2+
